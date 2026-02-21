@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 13:46_
+_Updated: 2026-02-21 15:24_
 
 ## Top Stories
 
-- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
-- Telefonbedrägerierna ger allt mindre pengar till de kriminella - Dagens Nyheter
 - Bakom krogvimlet – här är det sista internetkaféet i Göteborg - GP
+- Tre skridskoåkare fast på isflak - Aftonbladet
+- DN Direkt – Amerikaner evakueras från militärbaser nära Iran - Dagens Nyheter
+- Dystert facit: Hittills 98 döda i laviner i år - Dagens Nyheter
+- Telefonbedrägerierna ger allt mindre pengar till de kriminella - Dagens Nyheter
+- Gripen-plan i Natoinsats – med ”terminatoröga” - SvD
+- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
+- Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
 - Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
-- Massdöd bland tigrar på zoo i Thailand - GP
-- Två skadade i rysk attack mot Odesa - Omni
-- Ulla-Lenas adress kapad i fyra år – nu utlovas hjälp - GP
-- Furry-parad inställd på grund av slask - Västerbottens-Kuriren
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Nya dokument och teorier granskas i tv-program av expert från Dalsland - Dalslänningen
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
-- Misstänkt mordförsök i Sibbhult - Expressen
-- ”Ibland får vi in soldater utan ögon, utan överkäke eller helt och hållet utan ansikte” - Dagens Nyheter
 - Ukrainsk attack mot rysk robotfabrik - GP
-- Studie: Därför klarar vissa bolag inte av att växa - Dagens PS
-- Prisad duo laddar för ny miljardfond – men portföljbolagen blöder - Affärsvärlden
-- Natrium ska göra elbilar billigare – sju märken i framkant - Dagens PS
+- Märkliga upptäckten i källaren – 56 avklädda pojkar - Expressen
+- Kvinna och spädbarn brändes ihjäl – anklagades för att vara häxa - GP
 - Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
-- Referenser till 3 nya Apple-prylar i Mac OS 26.3 - Macworld.se
-- Hus på 75 kvadratmeter sålt i Norrköping – priset: 2 200 000 kronor - NT
+- Kias nya el-van imponerar – mer plats till lägre pris - Dagens PS
+- Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
+- Studie: Därför klarar vissa bolag inte av att växa - Dagens PS
+- Microsoft Teams visar snart om du är på kontoret - Teknikveckan
+- Razer släpper jättedyrt premiumtangentbord - m3.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-21 13:46_
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- New International Art Fair Launches in Tampa Fall 2026 (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -100,22 +100,22 @@ _Updated: 2026-02-21 13:46_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -124,7 +124,7 @@ _Updated: 2026-02-21 13:46_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -156,9 +156,9 @@ _Updated: 2026-02-21 13:46_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
