@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 21:00_
+_Updated: 2026-02-21 21:46_
 
 ## Top Stories
 
-- Donald Trumps besked: Höjer tullarna - GP
+- Hade sex med 14-åring – friad från barnvåldtäkt - GP
 - ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Strandade valar har fått käkarna borttagna - GP
+- Michael Winiarski: Ett nytt krig närmar sig trots samtal mellan USA och Iran - Dagens Nyheter
+- DN Direkt – Första bemannade månresan på 50 år skjuts upp - Dagens Nyheter
+- Villa totalskadad i häftig brand – elva barn och fyra vuxna evakuerade - nkp.se
 - Så preppar du för katten: ”Lämnar inte en familjemedlem i krig” - Dagens Nyheter
-- Tusentals furries tar över Malmö - Dagens Nyheter
-- Nya siffror från NBC: Romansbedrägerierna ökar - GP
-- DN Direkt – Tusentals marscherar för mördad högeraktivist i Lyon - Dagens Nyheter
-- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
 - Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
+- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Debatt: För vård, var god vänta – du kommer nu att få åtta val - provinstidningen.se
-- DN Direkt – Flera döda i snökaosets Österrike - Dagens Nyheter
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
+- DN Direkt – Flera döda i snökaosets Österrike - Dagens Nyheter
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Full fart mot fjällen? Bärgarens varning innan du drar - Dagens PS
-- Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
-- Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
 - USA-skepsis och ökad optimism göder börsen: ”Även de med lägst lön börjar bli positiva” - Dagens Nyheter
+- Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
+- Teslas snabbladdare i fjällen har vandaliserats av fack-anhängare - Allt om Elbil
 - Apple Music gör det möjligt att pitcha musik till musikredaktörer via Apple Music Connect - Popmuzik
 - Tyska geologer har hittat en genväg till jordens kärna, 3 000 kilometer ner i marken - Illustrerad Vetenskap
 
@@ -36,17 +36,17 @@ _Updated: 2026-02-21 21:00_
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
@@ -79,18 +79,18 @@ _Updated: 2026-02-21 21:00_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Swindled millions found 15 years later - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
@@ -121,24 +121,24 @@ _Updated: 2026-02-21 21:00_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
