@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 21:46_
+_Updated: 2026-02-21 22:49_
 
 ## Top Stories
 
+- Man misshandlad på Avenyn - GP
+- Kvinna död efter villabrand utanför Emmaboda - SVT Nyheter
 - Hade sex med 14-åring – friad från barnvåldtäkt - GP
-- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
-- Strandade valar har fått käkarna borttagna - GP
-- Michael Winiarski: Ett nytt krig närmar sig trots samtal mellan USA och Iran - Dagens Nyheter
-- DN Direkt – Första bemannade månresan på 50 år skjuts upp - Dagens Nyheter
-- Villa totalskadad i häftig brand – elva barn och fyra vuxna evakuerade - nkp.se
+- PATRIK KRONQVIST: Regeringen måste säga nej till SD om invandringen - Expressen
+- DN Direkt – L i Göteborg röstade ja till samverkan med SD - Dagens Nyheter
 - Så preppar du för katten: ”Lämnar inte en familjemedlem i krig” - Dagens Nyheter
 - Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
-- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
+- Debatt: För vård, var god vänta – du kommer nu att få åtta val - provinstidningen.se
+- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- ”Urskillningslös” attack i Nigeria – många döda - GP
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
-- DN Direkt – Flera döda i snökaosets Österrike - Dagens Nyheter
-- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
 - Full fart mot fjällen? Bärgarens varning innan du drar - Dagens PS
 - USA-skepsis och ökad optimism göder börsen: ”Även de med lägst lön börjar bli positiva” - Dagens Nyheter
-- Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
 - Teslas snabbladdare i fjällen har vandaliserats av fack-anhängare - Allt om Elbil
+- Sandra, 31, publicerade dålig recension – blev uppringd flera gånger av begravningsbyrån - Expressen
 - Apple Music gör det möjligt att pitcha musik till musikredaktörer via Apple Music Connect - Popmuzik
 - Tyska geologer har hittat en genväg till jordens kärna, 3 000 kilometer ner i marken - Illustrerad Vetenskap
+- Smallrigs nya powerbank är anpassad för sträng kyla - Fotosidan
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
@@ -147,18 +147,18 @@ _Updated: 2026-02-21 21:46_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
