@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 15:58_
+_Updated: 2026-02-21 16:53_
 
 ## Top Stories
 
+- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
+- Migrationsfrågan skakar Tidö – ”kan kosta borgerligheten valet” - Dagens Nyheter
 - Bakom krogvimlet – här är det sista internetkaféet i Göteborg - GP
-- DN Direkt – Amerikaner evakueras från militärbaser nära Iran - Dagens Nyheter
+- DN Direkt – Pojke död i pulkaolycka i Norge - Dagens Nyheter
 - Dystert facit: Hittills 98 döda i laviner i år - Dagens Nyheter
 - Fågelinfluensa i Danmark – 115 000 höns avlivas - Västerbottens-Kuriren
-- En oförsonlig kamp mellan likar - SvD
-- VERONICA PALM: 18-årsdagen har fått en deadline – då ställs framtiden in - Corren
-- Tre skridskoåkare fast på isflak - Aftonbladet
-- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
+- Tre skridskoåkare fast på isflak - Västerbottens-Kuriren
+- Tusentals furries tar över Malmö - Dagens Nyheter
 - Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
 - Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
-- ”Urskillningslös” attack i Nigeria – många döda - GP
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
-- Misstänkt mordförsök i Västerås - SVT Nyheter
-- Hundratals politiska fångar frias under amnesti - GP
+- Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
+- Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
+- Märkliga upptäckten i källaren – 56 avklädda pojkar - Expressen
 - Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
-- Kias nya el-van imponerar – mer plats till lägre pris - Dagens PS
 - Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
-- Sandra, 31, publicerade dålig recension – blev uppringd flera gånger av begravningsbyrån - Expressen
+- Kias nya el-van imponerar – mer plats till lägre pris - Dagens PS
+- Extrem italiensk sportbil – trotsar vinter och vardag - Dagens PS
 - Microsoft Teams visar snart om du är på kontoret - Teknikveckan
 - Razer släpper jättedyrt premiumtangentbord - m3.se
 
 ## World News
 
 - Trumps tullvapen: ”En slöja över global tillväxt” - SvD
-- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -40,23 +40,23 @@ _Updated: 2026-02-21 15:58_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
@@ -64,12 +64,12 @@ _Updated: 2026-02-21 15:58_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -145,20 +145,20 @@ _Updated: 2026-02-21 15:58_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
