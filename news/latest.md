@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-21 01:57_
+_Updated: 2026-02-21 05:11_
 
-- Trump Tariffs Live Updates: After Supreme Court Ruling, Trump Plans a Tariff Workaround - The New York Times
-- U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew - The New York Times
-- Where snow could be measured in inches — or feet — in the East this weekend - The Washington Post
-- House Speaker Johnson rejects request for Jesse Jackson to lie in honor at Capitol - CNN
-- D.C. area could see pasty snow Sunday into Monday. How much could fall? - The Washington Post
+- Potential blizzard in Boston could drop a foot of snow or more Monday, weather forecast maps show - CBS News
+- Trump adminstration rolls back mercury rules for coal-fired power plants - The Allegheny Front
 - Trump hosts governors' breakfast after National Governors Association pulls out of event - PBS
-- Was Anyone at Fault in Sierra Nevada Avalanche Deaths? - The New York Times
+- California storm dumped staggering amounts of snow in Tahoe - San Francisco Chronicle
+- Scoop: NJ, NY reps to oppose Iran war powers resolution in House - Axios
+- Texas' Senate primary race between Crockett and Talarico ramps up after pulled Colbert interview - PBS
 - Give Punch a break! Zoo responds to heartbreaking video of baby monkey - USA Today
-- Ali Akbar, who's sold newspapers on the streets of Paris for 50 years, is now a knight - NPR
+- Americans Are Crashing Out Over South Korea Sentencing Their Ex-President To Prison For Insurrection - BuzzFeed
+- US envoy Mike Huckabee says it would be ‘fine’ if Israel took all Middle East land - The Guardian
 - Oddest moments from India’s AI summit: Missing stars, traffic chaos and robo-dog controversy - politico.eu
-- Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
-- Under Mamdani, City to Probe Businesses Where Most Workers Take Zero Sick Days - THE CITY - NYC News
-- Fed’s Preferred Gauge Shows Accelerating December Inflation Trends - The Wall Street Journal
-- Trump adviser drops bombshell on Meta, Microsoft - thestreet.com
-- Tariffs paid by midsize US companies tripled last year, a JPMorganChase Institute study shows - AP News
-- Motorola's latest foldables are finally getting Android 16 in the US - GSMArena.com news - GSMArena.com
-- A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets - CNET
-- Nintendo turned its biggest flop into an expensive, uncomfortable novelty - The Verge
+- Anna Murdoch-Mann, author and ex-wife of Rupert Murdoch, dies aged 81 - The Guardian
+- Social media companies face legal reckoning over mental health harms to children - AP News
+- Judge forced to slash SF jury pool over hate for Elon Musk - SFGATE
+- “Netflix Does Not Need this Deal”: Netflix Stock (NASDAQ:NFLX) Notches Up as Warner Merger Looks Shaky - TipRanks
 - Microsoft error sees confidential emails exposed to AI tool Copilot - BBC
+- Apple Glasses as ‘all-day AI companion’ is exactly what I want - 9to5Mac
+- Google says its AI systems helped deter Play Store malware in 2025 - TechCrunch
+- The chart on this generator stock signals more gains ahead, says Carter Worth - CNBC
 - Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week. - The New York Times
+- ‘Venom’ Animated Movie in the Works With ‘Final Destination’ Filmmakers Zach Lipovsky, Adam B. Stein (Exclusive) - The Hollywood Reporter
