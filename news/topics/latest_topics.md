@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 09:52_
+_Updated: 2026-02-21 10:56_
 
 ## Top Stories
 
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- DN Direkt – Trump bekräftar: Överväger mindre attack mot Iran - Dagens Nyheter
 - ”Ibland får vi in soldater utan ögon, utan överkäke eller helt och hållet utan ansikte” - Dagens Nyheter
 - Päls, party och svettiga dräkter – följ med en dag på Nordic Fuzz Con - Sydsvenskan
 - Natten surrar av drönare i Ukrainas dödszon - Aftonbladet
 - USA: Tre döda efter attack mot fartyg i Stilla havet - SVT Nyheter
+- Äldre kvinna utsatt – för grov stöld - Ekuriren
 - Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
-- Pojke i Östra Göinge till sjukhus – misstänkt mordförsök - SVT Nyheter
-- Rasmus, 12, tar med lunchlåda till skolan för att slippa gå hungrig - SVT Nyheter
+- Misstänkt mordförsök i Sibbhult - Expressen
 - 21 februari 07.00, Sammanfattning natt, Hallands län - polisen.se
-- Trumpprotesten: De skippar nästan allt från USA - Sydsvenskan
-- Nakenchock i Borås - Expressen
+- DN Direkt – Misstänkt mordförsök i Västerås - Dagens Nyheter
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
+- Misstänkt mordförsök – dumpades vid akuten - Expressen
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
+- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Prisad duo laddar för ny miljardfond – men portföljbolagen blöder - Affärsvärlden
+- Studie: Därför klarar vissa bolag inte av att växa - Dagens PS
 - Dolph Lundgrens bilsmak: V8, Ferrari och noll kompromisser - Dagens PS
 - 154 kvinnliga miljardärer – så tjänade de sina miljarder - Dagens PS
-- Så blev de 127 miljarder kronor rikare – på 50 dagar - Dagens PS
-- Sänke att heta "småbolagsfond" - Affärsvärlden
 - Hus på 75 kvadratmeter sålt i Norrköping – priset: 2 200 000 kronor - NT
 - Razer släpper jättedyrt premiumtangentbord - m3.se
 
@@ -30,6 +30,7 @@ _Updated: 2026-02-21 09:52_
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
@@ -37,7 +38,6 @@ _Updated: 2026-02-21 09:52_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -45,8 +45,8 @@ _Updated: 2026-02-21 09:52_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -77,19 +77,19 @@ _Updated: 2026-02-21 09:52_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Tet-marknaden för semesterartiklar: Rikligt utbud, stabila priser. - Vietnam.vn
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -99,21 +99,21 @@ _Updated: 2026-02-21 09:52_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Hälsa och teknik - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
