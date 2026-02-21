@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 08:02_
+_Updated: 2026-02-21 09:07_
 
 ## Top Stories
 
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
 - ”Ibland får vi in soldater utan ögon, utan överkäke eller helt och hållet utan ansikte” - Dagens Nyheter
 - USA: Tre döda efter attack mot fartyg i Stilla havet - SVT Nyheter
-- DN Direkt – Trump bekräftar: Överväger mindre attack mot Iran - Dagens Nyheter
 - EDVARD HOLLERTZ: Varningarna om Linköpingsbolagets Saudikoppling bör tas på allvar - Corren
-- DEBATT: Kommunen ska inte vara företagens konkurrent - LT
+- 21 februari: Nattens nyheter - SVT Nyheter
+- Man gripen efter attack mot synagoga - Västerbottens-Kuriren
+- Kraftig brand i villa utanför Kristinehamn – minst tio barn evakuerade - SVT Nyheter
+- 21 februari 07.00, Sammanfattning natt, Hallands län - polisen.se
 - 21 februari 06.47, Sammanfattning natt, Jämtlands län - polisen.se
-- Stora ordern räddade jobben – nu hoppas Moelven på fler fängelsebyggen - Säffle-Tidningen
-- Hundratals gäddor frös ihjäl på Lidingö - Dagens Nyheter
-- Regeringen går vidare med förslag om ungdomsfängelser - Regeringen.se
 - Trumpprotesten: De skippar nästan allt från USA - Sydsvenskan
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Sänke att heta "småbolagsfond" - Affärsvärlden
 - Sannas dubbelsmäll i kylan: ”Jag bävar” - Expressen
-- Nationell yrkesutbildning breddas med nya yrkesroller - Cision News
-- KATARINA O'NILS FRANKE: Sverige behöver bli ett ingenjörsland igen - NT
 - Torbjörn Hållö: Sverige kan sänka arbetstiden utan att rasera välståndet - GP
+- Nationell yrkesutbildning breddas med nya yrkesroller - Cision News
 - Hus på 75 kvadratmeter sålt i Norrköping – priset: 2 200 000 kronor - NT
-- Spel att spela med en hand - tips? - FZ.se
+- Razer släpper jättedyrt premiumtangentbord - m3.se
+- Machina Boots fästs med magneter på snowboardbrädor. Skippa traditionella bindningar. - feber.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - SvD
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Liberty International i Stockholm växer - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Tidningsjätte i England lägger ner efter skandal - SvD
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
+- American Express Global Business Travel förvärvar Ovation Travel Group - travelnews.se
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -99,23 +99,23 @@ _Updated: 2026-02-21 08:02_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
