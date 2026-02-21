@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 10:56_
+_Updated: 2026-02-21 11:52_
 
 ## Top Stories
 
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
+- Pojke i Östra Göinge till sjukhus – misstänkt mordförsök - SVT Nyheter
 - ”Ibland får vi in soldater utan ögon, utan överkäke eller helt och hållet utan ansikte” - Dagens Nyheter
 - Päls, party och svettiga dräkter – följ med en dag på Nordic Fuzz Con - Sydsvenskan
-- Natten surrar av drönare i Ukrainas dödszon - Aftonbladet
-- USA: Tre döda efter attack mot fartyg i Stilla havet - SVT Nyheter
-- Äldre kvinna utsatt – för grov stöld - Ekuriren
+- Amerikaner evakueras från militärbaser nära Iran - GP
+- Bakom krogvimlet – här är det sista internetkaféet i Göteborg - GP
 - Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
-- Misstänkt mordförsök i Sibbhult - Expressen
 - 21 februari 07.00, Sammanfattning natt, Hallands län - polisen.se
-- DN Direkt – Misstänkt mordförsök i Västerås - Dagens Nyheter
+- Rasmus, 12, tar med lunchlåda till skolan för att slippa gå hungrig - SVT Nyheter
+- Familjens okända beslut efter mordet på Olof Palme - Expressen
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
-- Misstänkt mordförsök – dumpades vid akuten - Expressen
-- Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Två skadade i rysk attack mot Odesa - Omni
+- Ukrainsk attack mot rysk robotfabrik - GP
+- DN Direkt – Misstänkt skottlossning vid matbutik - Dagens Nyheter
 - Prisad duo laddar för ny miljardfond – men portföljbolagen blöder - Affärsvärlden
+- Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
 - Studie: Därför klarar vissa bolag inte av att växa - Dagens PS
-- Dolph Lundgrens bilsmak: V8, Ferrari och noll kompromisser - Dagens PS
-- 154 kvinnliga miljardärer – så tjänade de sina miljarder - Dagens PS
+- Ny sjökabel stärker datakapaciteten mellan Danmark och Sverige - Dagens PS
 - Hus på 75 kvadratmeter sålt i Norrköping – priset: 2 200 000 kronor - NT
 - Razer släpper jättedyrt premiumtangentbord - m3.se
 
@@ -30,14 +30,15 @@ _Updated: 2026-02-21 10:56_
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -45,7 +46,6 @@ _Updated: 2026-02-21 10:56_
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
@@ -101,21 +101,21 @@ _Updated: 2026-02-21 10:56_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 
 ## Science
 
@@ -123,6 +123,7 @@ _Updated: 2026-02-21 10:56_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -134,7 +135,6 @@ _Updated: 2026-02-21 10:56_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
@@ -147,18 +147,18 @@ _Updated: 2026-02-21 10:56_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
