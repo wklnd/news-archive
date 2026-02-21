@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-21 21:53_
+_Updated: 2026-02-21 22:56_
 
-- Blizzard Warnings Issued for Swath of East Coast, Including NYC - The New York Times - The New York Times
-- A group of mothers embarked on a backcountry ski trip. Only 2 of them made it out alive - CNN
-- After lonely baby monkey goes viral, his IKEA comfort toy sells out - The Washington Post
-- Former top general calls military's removal of trans troops a costly mistake - NPR
-- Speaker Johnson denies request for Jesse Jackson to lie in honor at the Capitol - The Washington Post
+- Trump Says He Will Raise Global Tariff to 15 Percent - The New York Times - The New York Times
+- Blizzard, winter storm warnings issued, could be biggest in decade | Live updates - ABC7 New York
 - A high-stakes State of the Union just got harder for Trump - Politico
+- Johnson on Request for Jesse Jackson: It's a No - Newser
+- Thousands march in Lyon after French far-right activist killed last week - Reuters
+- Former top general calls military's removal of trans troops a costly mistake - NPR
+- RFK Jr.’s days of going wild on health may be over - Politico
 - Powerful coastal storm to bring snow, wind to D.C. area; worst Sunday night - The Washington Post
 - White House dinner closes a turbulent week for governors in Washington - AP News
-- DOJ fires new U.S. attorney hours after judges appointed him to replace Trump loyalist - NBC News
-- Missed Funerals and Blocked Toilets: Iran Deployment Takes a Toll on U.S. Sailors - The Wall Street Journal
-- Death of far-right activist in France sends tensions soaring and draws US criticism - CNN
+- Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter I.D. Bill - The New York Times - The New York Times
+- Ex-UK Prime Minister Johnson calls on allies to send noncombat troops to Ukraine ahead of ceasefire - Yahoo
+- At least five people killed in string of avalanches in Austria - The Guardian
 - 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR
-- Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC
-- Four years on, Russia is still paying for a fatal miscalculation in Ukraine - CNN
+- Israeli strikes kill at least 10 in Lebanon, officials say - BBC
+- Where Did the Money Go? US Edges Closer to Fiscal Cliff - Daily Kos
+- Mark Zuckerberg’s entourage threatened with contempt for wearing Meta AI glasses into a no-recording courtroom - Yahoo
 - Jerome Powell knows the Fed's balance sheet got too big—Kevin Warsh has a plan, he just has to sell it without freaking out markets or the Treasury - Fortune
-- Almost Half of Jury Pool in Musk Trial Tossed After ‘So Many’ Said They ‘Hate’ Him - Yahoo
-- Morningstar Predicts Likeliest Iran Outcome - Rigzone
 - China showcases martial arts robots. Should Europe be worried? - Euronews.com
-- Anniversary: The Legend Of Zelda Turns 40 Today - How Did You First Play It? - Nintendo Life
+- A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets - CNET
 - Why people are buying iPods again - Axios
