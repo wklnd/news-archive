@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 23:47_
+_Updated: 2026-02-22 00:51_
 
 ## Top Stories
 
+- Fyra ledamöter kan punktera Trumps tullar - Dagens Nyheter
 - Nya studentprotester i Iran – sörjer döda - SVT Nyheter
-- USA-expert: Stor risk att Trump saboterar val - Omni
+- Kvinna död efter villabrand utanför Emmaboda - SVT Nyheter
 - Hade sex med 14-åring – friad från barnvåldtäkt - GP
-- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
-- Tusentals furries tar över Malmö - Dagens Nyheter
-- Skidskytte: Anna Magnusson sköt fullt – missade ändå OS-pallen - SVT Nyheter
+- Åtalas för mord – efter bok om makens död - SvD
+- Grov misshandel på McDonald's i Göteborg - Expressen
 - Så preppar du för katten: ”Lämnar inte en familjemedlem i krig” - Dagens Nyheter
 - Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
-- Man misshandlad på Avenyn - GP
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
-- Första bemannade månresan på 50 år skjuts upp - Västerbottens-Kuriren
+- Debatt: För vård, var god vänta – du kommer nu att få åtta val - provinstidningen.se
+- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Första bemannade månresan på 50 år skjuts upp - Corren
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
-- ”Urskillningslös” attack i Nigeria – många döda - GP
 - Full fart mot fjällen? Bärgarens varning innan du drar - Dagens PS
 - Teslas snabbladdare i fjällen har vandaliserats av fack-anhängare - Allt om Elbil
-- USA-skepsis och ökad optimism göder börsen: ”Även de med lägst lön börjar bli positiva” - Dagens Nyheter
 - Sandra, 31, publicerade dålig recension – blev uppringd flera gånger av begravningsbyrån - Expressen
+- Nationell yrkesutbildning breddas med nya yrkesroller - Cision
 - Apple Music gör det möjligt att pitcha musik till musikredaktörer via Apple Music Connect - Popmuzik
 - Tyska geologer har hittat en genväg till jordens kärna, 3 000 kilometer ner i marken - Illustrerad Vetenskap
 
@@ -30,46 +30,46 @@ _Updated: 2026-02-21 23:47_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -81,15 +81,15 @@ _Updated: 2026-02-21 23:47_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Swindled millions found 15 years later - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -100,21 +100,21 @@ _Updated: 2026-02-21 23:47_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 
 ## Science
@@ -147,18 +147,18 @@ _Updated: 2026-02-21 23:47_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
