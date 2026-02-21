@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 09:07_
+_Updated: 2026-02-21 09:52_
 
 ## Top Stories
 
 - Västtrafik inför snöovädret i Göteborg: ”Risk för förseningar” - GP
+- DN Direkt – Trump bekräftar: Överväger mindre attack mot Iran - Dagens Nyheter
 - ”Ibland får vi in soldater utan ögon, utan överkäke eller helt och hållet utan ansikte” - Dagens Nyheter
+- Päls, party och svettiga dräkter – följ med en dag på Nordic Fuzz Con - Sydsvenskan
+- Natten surrar av drönare i Ukrainas dödszon - Aftonbladet
 - USA: Tre döda efter attack mot fartyg i Stilla havet - SVT Nyheter
-- EDVARD HOLLERTZ: Varningarna om Linköpingsbolagets Saudikoppling bör tas på allvar - Corren
-- 21 februari: Nattens nyheter - SVT Nyheter
-- Man gripen efter attack mot synagoga - Västerbottens-Kuriren
-- Kraftig brand i villa utanför Kristinehamn – minst tio barn evakuerade - SVT Nyheter
+- Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
+- Pojke i Östra Göinge till sjukhus – misstänkt mordförsök - SVT Nyheter
+- Rasmus, 12, tar med lunchlåda till skolan för att slippa gå hungrig - SVT Nyheter
 - 21 februari 07.00, Sammanfattning natt, Hallands län - polisen.se
-- 21 februari 06.47, Sammanfattning natt, Jämtlands län - polisen.se
 - Trumpprotesten: De skippar nästan allt från USA - Sydsvenskan
+- Nakenchock i Borås - Expressen
 - Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- ”Det var ingen utsträckt hand” - Västerbottens-Kuriren
+- Dolph Lundgrens bilsmak: V8, Ferrari och noll kompromisser - Dagens PS
+- 154 kvinnliga miljardärer – så tjänade de sina miljarder - Dagens PS
+- Så blev de 127 miljarder kronor rikare – på 50 dagar - Dagens PS
 - Sänke att heta "småbolagsfond" - Affärsvärlden
-- Sannas dubbelsmäll i kylan: ”Jag bävar” - Expressen
-- Torbjörn Hållö: Sverige kan sänka arbetstiden utan att rasera välståndet - GP
-- Nationell yrkesutbildning breddas med nya yrkesroller - Cision News
 - Hus på 75 kvadratmeter sålt i Norrköping – priset: 2 200 000 kronor - NT
 - Razer släpper jättedyrt premiumtangentbord - m3.se
-- Machina Boots fästs med magneter på snowboardbrädor. Skippa traditionella bindningar. - feber.se
 
 ## World News
 
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
-- Tidningsjätte i England lägger ner efter skandal - SvD
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Global Index Criteria – Sveriges mest populära fond 2024 - Handelsbanken - Cision News
-- American Express Global Business Travel förvärvar Ovation Travel Group - travelnews.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -79,17 +79,17 @@ _Updated: 2026-02-21 09:07_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Tet-marknaden för semesterartiklar: Rikligt utbud, stabila priser. - Vietnam.vn
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -99,30 +99,30 @@ _Updated: 2026-02-21 09:07_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - health.ec.europa.eu
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa och teknik - Chalmers tekniska högskola
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
