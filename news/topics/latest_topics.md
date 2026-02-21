@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-21 16:53_
+_Updated: 2026-02-21 17:48_
 
 ## Top Stories
 
-- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
+- Trumps olagliga tullar försvinner inte över en natt - Dagens Nyheter
 - Migrationsfrågan skakar Tidö – ”kan kosta borgerligheten valet” - Dagens Nyheter
+- L i Göteborg säger ja till SD - GP
 - Bakom krogvimlet – här är det sista internetkaféet i Göteborg - GP
-- DN Direkt – Pojke död i pulkaolycka i Norge - Dagens Nyheter
 - Dystert facit: Hittills 98 döda i laviner i år - Dagens Nyheter
-- Fågelinfluensa i Danmark – 115 000 höns avlivas - Västerbottens-Kuriren
-- Tre skridskoåkare fast på isflak - Västerbottens-Kuriren
-- Tusentals furries tar över Malmö - Dagens Nyheter
+- Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
+- Gängkopplad man slog ut vattenverk i Västerås - Dagens Nyheter
 - Trafiken kollades i Bureå – 30 förare fick blåsa - Norran
 - Kraftig brand i villa utanför Kristinehamn – elva barn evakuerade - SVT Nyheter
-- Princessa, 18, flydde kriget: "Trodde det skulle pågå en vecka" - NT
+- Två bilar i krock på E6 vid Strömstad - SVT Nyheter
+- Fågelinfluensa i Danmark – 115 000 höns avlivas - Sydsvenskan
 - Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - Märkliga upptäckten i källaren – 56 avklädda pojkar - Expressen
 - Ny nos och vässade klor – Peugeot 308 uppdateras milt - Dagens Nyheter
 - Elbil chockar marknaden – klarar 1 500 kilometer på en laddning - Dagens PS
+- Experterna varnar: Tvätta inte bilen än – här är anledningen - Dagens PS
 - Kias nya el-van imponerar – mer plats till lägre pris - Dagens PS
-- Extrem italiensk sportbil – trotsar vinter och vardag - Dagens PS
 - Microsoft Teams visar snart om du är på kontoret - Teknikveckan
 - Razer släpper jättedyrt premiumtangentbord - m3.se
 
 ## World News
 
-- Trumps tullvapen: ”En slöja över global tillväxt” - SvD
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Trumps tullvapen: ”En slöja över global tillväxt” - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - TCS Expands its Presence in Gothenburg to better serve clients in the Swedish southwest - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,15 +77,15 @@ _Updated: 2026-02-21 16:53_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Tet-marknaden för semesterartiklar: Rikligt utbud, stabila priser. - Vietnam.vn
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-02-21 16:53_
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Oredlig forskning underminerar medicinsk praxis och förtroende - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
