@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 18:56_
+_Updated: 2026-02-22 19:51_
 
 ## Top Stories
 
-- Turistpärlorna plågas av laviner: ”Osäkerhet” - SvD
+- Grönlands svar om Trumps sjukhusfartyg: ”Nej tack” - GP
+- Kritiken mot Trumps nya tullbesked: ”En riktig röra” - Dagens Nyheter
 - L-toppen Martin Melin om regeringsfrågan: ”SD har mer att bevisa” - Dagens Nyheter
-- Lotsarna till atomfartyget förbereder sig – med hjälp av avancerade datorspel - Sydsvenskan
-- Efter Trumps tullbesked – så vill EU slå tillbaka - GP
-- Dystra historien bakom hjärtat i Brunnsparken - GP
-- JUST NU: Brand i Gottsunda – tre till sjukhus - UNT
-- Leif GW Persson svar på utrikesministerns kritik - GP
 - Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
+- Lotsarna till atomfartyget förbereder sig – med hjälp av avancerade datorspel - Sydsvenskan
+- Dystra historien bakom hjärtat i Brunnsparken - GP
+- Lavin norr om Gunnarvattnet – räddningsinsats avslutad - SVT Nyheter
+- JUST NU: Brand i Gottsunda – tre till sjukhus - UNT
+- KLART: Handledarkursen skrotas – blir billigare att ta körkort - Oskarshamns-Nytt
 - Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
-- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
 - ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
-- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
-- Pakistanska attacker i gränsområde - SVT Nyheter
-- DN Direkt – Person till sjukhus efter lägenhetsbrand - Dagens Nyheter
+- Alla strandade valar i Danmark har dött - Expressen
+- Påven i dialog med Roms präster: Var vänner med varandra, akta er för avund och nätbedrägerier - Vatican News
 - Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
 - Lockades av Google-miljoner – förlorade sitt livsverk - Dagens PS
-- Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
+- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 - Fast i ett dyrt abonnemang – anmäler företaget - Gefle Dagblad
+- Tamron Link ger trådlös objektivstyrning - Fotosidan
 
 ## World News
 
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -37,8 +38,8 @@ _Updated: 2026-02-22 18:56_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -46,7 +47,6 @@ _Updated: 2026-02-22 18:56_
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2026-02-22 18:56_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -68,8 +68,8 @@ _Updated: 2026-02-22 18:56_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -96,21 +96,21 @@ _Updated: 2026-02-22 18:56_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
@@ -142,20 +142,20 @@ _Updated: 2026-02-22 18:56_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
