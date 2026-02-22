@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-22 17:56_
+_Updated: 2026-02-22 19:01_
 
-- Live updates: Secret Service shoot man after 'unauthorised entry' at Mar-a-Lago - BBC
-- 60% disapprove of Trump ahead of State of the Union, Post-ABC-Ipsos poll finds - The Washington Post
-- Greenland prime minister says 'no thanks' to Trump's hospital ship - Reuters
+- Man killed after entering secure perimeter of Trump's Mar-a-Lago residence, Secret Service says - BBC
 - Only a fraction of House seats are competitive. Redistricting is driving that lower - NPR
 - Missed Funerals and Blocked Toilets: Iran Deployment Takes a Toll on U.S. Sailors - The Wall Street Journal
-- Iran’s Students Hold Anti-Regime Protests as Universities Reopen - The New York Times
+- 60% disapprove of Trump ahead of State of the Union, Post-ABC-Ipsos poll finds - The Washington Post
+- How four years of Ukraine war have changed Russia - Al Jazeera
+- Zelensky: Dead and injured after latest Russian attacks - Yahoo
 - The Casey DeSantis question looming over Florida's governor race - Politico
-- At Least 15 Have Died on Tahoe-Area Slopes This Year - The New York Times
 - House Speaker Mike Johnson denies request for Jesse Jackson to lie in honor at Capitol, citing precedent - CBS News
-- Trump opens the alien files: Why Americans lean into conspiracies - Axios
-- US ambassador's Israel comments condemned by Arab and Muslim nations - BBC
 - 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR
-- Report: amid threat of US war and protests, Khamenei hands Iran’s reins to top adviser - Ynetnews
-- Israeli strikes kill at least 10 in Lebanon, officials say - BBC
-- JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News
-- Here's what an analyst says could end the AI panic that's gripped Wall Street - AOL.com
+- Dozens of countries steer clear of safety commitment in global AI pledge - Politico
+- They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck. - The New York Times
+- Deadly explosions in western Ukraine investigated as ‘terrorist attack’ - Yahoo News Singapore
+- A ‘bellwether’ social media addiction trial is underway. It could set off a chain reaction - CNN
 - 'Air Hacks' Report Reveals Best Day to Book Flights - Newser
-- Zuckerberg Says He Contacted Tim Cook Over Children’s Social Media Safety Amid Ongoing Trial - Indian Defence Review
-- Apple iPhone 18 Pro May See Record-Breaking Power Upgrade, Report Says - Forbes
+- Oil Traders Rush to Hedge Iran Risk After Wild Start to Year - Bloomberg
+- 'Brilliant' Costco to reap rewards for opposing Trump early: report - Alternet
+- 'Hey Plex' is landing on the Galaxy S26 series as Perplexity joins Galaxy AI - Android Authority
 - MOFT’s long-awaited MagSafe kickstand wallet with Find My support is now available - 9to5Mac
+- Why people are buying iPods again - Axios
+- The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku
