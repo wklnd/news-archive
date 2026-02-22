@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-22 11:57_
+_Updated: 2026-02-22 12:58_
 
+- Trump says he’s sending a hospital boat to Greenland - CNN
 - Russia-Ukraine war: List of key events, day 1,459 - Al Jazeera
 - Iran’s Students Hold Anti-Regime Protests as Universities Reopen - The New York Times
 - Trump opens the alien files: Why Americans lean into conspiracies - Axios
+- Senate G.O.P. Faces Pressure to Force ‘Talking Filibuster’ for Voter ID Bill - The New York Times
 - Quakertown parents want answers as Bucks DA investigates police confrontation - WHYY
-- Trump approves federal emergency declaration for Potomac River sewage spill - The Guardian
 - A powerful storm will hit some cities with a foot of snow. See the forecast for 12. - The Washington Post
-- White House dinner closes a turbulent week for governors in Washington - AP News
+- A Wisconsin teen vanished after a first date. How a phone app and security video helped lead to her killer - CBS News
+- Trump approves federal emergency declaration for Potomac River sewage spill - The Guardian
 - Huckabee’s Israel land remarks condemned as ‘dangerous’ as controversy rumbles on - The Guardian
+- Inside Iran’s Preparation for War and Plans for Survival - The New York Times
 - Israeli strikes kill at least 10 in Lebanon, officials say - BBC
-- India, Brazil sign mining pact as Modi targets $20 billion trade in five years - Reuters
 - The bones of St. Francis are going on public display, a mixed blessing for Assisi - AP News
+- What to Know Before Buying Weight Loss Drugs Online - The New York Times
 - 'Air Hacks' Report Reveals Best Day to Book Flights - Newser
-- U.S. economic growth slowed sharply at end of 2025, dragging down the year - The Washington Post
-- Court Having Trouble Assembling Jury for Elon Musk Because People Hate Him So Much - Futurism
 - Trump Advisor Kevin Hassett Walks Back Demands for Discipline of Fed Researchers - Barron's
-- Strip out Windows 11’s bloatware, ads, and other grossness—for free - PCWorld
-- The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku
+- Bruno says he joined Blue Origin to work on ‘urgent’ national security projects - SpaceNews
 - Galaxy AI turns into a multi-agent ecosystem, adds deep integration with Perplexity AI - GSMArena.com news - GSMArena.com
 - Why people are buying iPods again - Axios
-- Willie Colón, a Luminary of Salsa Music, Dies at 75 - The New York Times
+- These 30+ Games Are Coming To Xbox Next Week (February 23-27) - Pure Xbox
