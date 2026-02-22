@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 15:58_
+_Updated: 2026-02-22 16:52_
 
 ## Top Stories
 
 - Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
-- Kritiken mot Trumps nya tullbesked: ”En riktig röra” - Dagens Nyheter
 - Fler amerikaner i Lund: ”Studentvisum är det lättaste du kan få om du vill utomlands” - Sydsvenskan
-- Man anhållen för våldtäkt i Åre - SVT Nyheter
-- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
-- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
+- Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
+- Hemlös man attackerades av tre maskerade män - Expressen
 - Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
+- Man anhållen för våldtäkt i Åre - SVT Nyheter
+- JUST NU: Brand i Gottsunda – tre till sjukhus - UNT
+- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
 - Förare stoppad under söndagsmorgonen – blåste positivt - NSD
-- Väjde för vilt på E22 – körde in i mitträcket - Oskarshamns-Nytt
-- Bil voltade under bilkörning på frusen sjö i Strömstad – man avförd med ambulanshelikopter - SVT Nyheter
+- Anders Hansen har fått hjärtat krossat: ”Gör ont – så in i helvete starkt” - Expressen
 - Trump skickar sjukhusfartyg till Grönland - Dagens Nyheter
+- ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
 - Okända bilder på nazistmassaker dök upp på säljsajt - GP
-- ”På en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
-- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Fullt utvecklad brand i Åhus - Expressen
 - Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
+- Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
+- Lockades av Google-miljoner – förlorade sitt livsverk - Dagens PS
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
-- Familjen Spendrup förbereder sig traditionsenligt i god tid inför julen 2026 - Örebronyheter
-- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
-- Det finns en plats på jorden där gravitationen är svagare än på andra ställen – nu vet forskarna varför - Illustrerad Vetenskap
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
+- Det finns en plats på jorden där gravitationen är svagare än på andra ställen – nu vet forskarna varför - Illustrerad Vetenskap
 
 ## World News
 
@@ -39,11 +39,11 @@ _Updated: 2026-02-22 15:58_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Handelsbanken lanserar ny global indexfond - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
