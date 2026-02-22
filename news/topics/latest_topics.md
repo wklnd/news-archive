@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 12:52_
+_Updated: 2026-02-22 13:46_
 
 ## Top Stories
 
-- Tog toppjobb, köpte villa – sen utvisades dottern - SvD
-- Magdalena Andersson: “Att stram migration behövs är fast förankrat” - Dagens Nyheter
-- Oron i psykiatrins kris på Sahlgrenska: "Kan vi lita på ledningen?" - GP
-- Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
-- Hundratals hus störs av bullret från E6: ”Dags att kommunen gör något” - Sydsvenskan
-- Björn Wiman: Ett fungerade försvar behöver både bombplan och bibliotek - Dagens Nyheter
-- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
-- Förare stoppad under söndagsmorgonen – blåste positivt - NSD
-- Taxichaufför misshandlad av passagerare - UNT
-- Anders Hansen har fått hjärtat krossat: ”Gör ont – så in i helvete starkt” - Expressen
 - Trump skickar sjukhusfartyg till Grönland - Dagens Nyheter
-- Okända bilder på nazistmassaker dök upp på säljsajt - Västerbottens-Kuriren
+- GW om ministeråtalet: Backar gärningsmannen - GP
+- Fler amerikaner i Lund: ”Studentvisum är det lättaste du kan få om du vill utomlands” - Sydsvenskan
+- Oron i psykiatrins kris på Sahlgrenska: "Kan vi lita på ledningen?" - GP
+- Japansk kritik mot Trumps utspel – "en riktig röra" - EFN
+- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
+- Magdalena Andersson: “Att stram migration behövs är fast förankrat” - Dagens Nyheter
+- Kvinna död efter villabrand utanför Emmaboda - SVT Nyheter
+- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
+- Biljakt ledde till att bil voltade – två skadade - GP
+- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
+- ”På en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
 - ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
-- Larm om explosion i Nacka - Expressen
+- En död i explosion i Lviv - Expressen
 - Dansk miljardär gripen – bolaget erkänner bedrägeri - Dagens PS
 - Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
 - Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
-- Samsung: Comeback efter marknadens svek - Dagens PS
-- Forskare sänkte en kamera flera hundra meter ned i det iskalla vattnet i Antarktis – och såg plötsligt någonting otroligt glida in framför linsen - Illustrerad Vetenskap
+- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
+- Det finns en plats på jorden där gravitationen är svagare än på andra ställen – nu vet forskarna varför - Illustrerad Vetenskap
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 
 ## World News
 
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
@@ -73,6 +73,7 @@ _Updated: 2026-02-22 12:52_
 
 ## Business
 
+- Tet (vietnamesiskt nyår) för barn som adopteras av gränsvakter. - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -83,12 +84,10 @@ _Updated: 2026-02-22 12:52_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
