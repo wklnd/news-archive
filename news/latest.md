@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-22 13:53_
+_Updated: 2026-02-22 15:30_
 
-- Trump says he’s sending a hospital boat to Greenland - CNN
-- Russia-Ukraine war: List of key events, day 1,459 - Al Jazeera
+- Trump Says He Is Sending Hospital Ship to Greenland - The Wall Street Journal
+- 60% disapprove of Trump ahead of State of the Union, Post-ABC poll finds - The Washington Post
+- Only a fraction of House seats are competitive. Redistricting is driving that lower - NPR
+- US ambassador causes uproar by claiming Israel has a right to much of the Middle East - Politico
 - Iran’s Students Hold Anti-Regime Protests as Universities Reopen - The New York Times
-- They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck. - The New York Times
-- Chicago crime spree: 2 killed in carjackings, shootings from Lakeview to South Side; Marquese Hill, Marshawn Sanders, 17, charged - ABC7 Chicago
+- With U.S. forces in position, Trump mulls his options for Iran - NPR
+- The Casey DeSantis question looming over Florida's governor race - Politico
 - Trump opens the alien files: Why Americans lean into conspiracies - Axios
-- A powerful storm will hit some cities with a foot of snow. See the forecast for 12. - The Washington Post
 - A Wisconsin teen vanished after a first date. How a phone app and security video helped lead to her killer - CBS News
-- Quakertown parents want answers as Bucks DA investigates police confrontation - WHYY
-- Death of far-right activist in France sends tensions soaring and draws US criticism - CNN
+- Trump tries to change narrative at State of the Union address - Pittsburgh Post-Gazette
 - Inside Iran’s Preparations for War and Plans for Survival - The New York Times
+- 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR
 - Israeli strikes kill at least 10 in Lebanon, officials say - BBC
 - The bones of St. Francis are going on public display, a mixed blessing for Assisi - AP News
-- JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News
+- Here's what an analyst says could end the AI panic that's gripped Wall Street - AOL.com
 - 'Air Hacks' Report Reveals Best Day to Book Flights - Newser
+- Anna Murdoch-Mann, writer and former News Corp director, dies aged 81 - BBC
 - Court Having Trouble Assembling Jury for Elon Musk Because People Hate Him So Much - Futurism
-- Trump Advisor Kevin Hassett Walks Back Demands for Discipline of Fed Researchers - Barron's
+- Flashback One35 V2 Review: This Non-Disposable Digital Camera Is Chaotic Fun - PetaPixel
 - Galaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility - samsung.com
-- The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku
-- MOFT’s long-awaited MagSafe kickstand wallet with Find My support is now available - 9to5Mac
