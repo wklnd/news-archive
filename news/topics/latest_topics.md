@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 23:48_
+_Updated: 2026-02-23 00:52_
 
 ## Top Stories
 
+- USA: Tullavtalen gäller trots HD-dom - Västerbottens-Kuriren
 - Berättar om hemmet – först då gråter Demko - SvD
 - Larmet: Allvarliga missförhållanden på kristen friskola i Göteborg - GP
-- 400 000 haitier i USA uppmanas ”Lämna landet omedelbart” - Dagens Nyheter
-- Kattungar hittas i påsar och lådor – Viggo var mager och iskall - GP
-- Stora protester i Iran och krav på att släppa fångar - tidningensyre.se
 - Läckta uppgifter – Iran och Ryssland ingår hemligt avtal - Expressen
 - Lavin norr om Gunnarvattnet – räddningsinsats avslutad - SVT Nyheter
-- Stockholm först ut i landet med att punktmarkera sexåringar - Dagens Nyheter
+- EXTRA: Explosion mot företag – i industriområde - Ekuriren
 - Kraftig brand – flera lägenheter förstörda - UNT
 - Njuter i nollgradigt vatten: ”Det är aldrig för kallt för ett kallbad” - Dagens Nyheter
-- Man försökte ta sig in i Trumps hem – dödades - SVT Nyheter
+- Forskaren: Då ska du inte doppa huvudet vid kallbad - Dagens Nyheter
+- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
+- 400 000 haitier i USA uppmanas ”Lämna landet omedelbart” - Dagens Nyheter
+- Austin, 21, bröt sig in hos Trump - Expressen
 - Alla strandade valar i Danmark har dött - Expressen
 - Sätter press: Fixa det innan måndag - Expressen
-- Paret hade sex på semestern – nu sprids hemlig film - Expressen
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
 - Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
 - Familjen Spendrup förbereder sig traditionsenligt i god tid inför julen 2026 - Örebronyheter
-- Vårmissen som kan göra dig skuldsatt för livet - Carup.se
-- Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
+- Google stoppade miljontals skadliga appar - mobil.se
 - Samsung tar steg mot snabbare 6G‑nät - mobil.se
+- Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 
 ## World News
 
@@ -54,11 +54,12 @@ _Updated: 2026-02-22 23:48_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,7 +70,6 @@ _Updated: 2026-02-22 23:48_
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -85,9 +85,9 @@ _Updated: 2026-02-22 23:48_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -117,10 +117,11 @@ _Updated: 2026-02-22 23:48_
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -132,9 +133,8 @@ _Updated: 2026-02-22 23:48_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
