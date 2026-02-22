@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-22 01:54_
+_Updated: 2026-02-22 05:27_
 
-- Blizzard, winter storm warnings issued, could be biggest in decade | Live updates - ABC7 New York
-- Blizzard Warning at the shore as storm set to bring heavy snow to Philadelphia region | Live Updates - 6abc Philadelphia
-- Trump approves federal emergency declaration for Potomac River sewage spill - The Guardian
-- Former top general calls military's removal of trans troops a costly mistake - NPR
-- Vietnam Veterans sue to block proposed 'Independence Arch' near Arlington National Cemetery - NPR
-- A high-stakes State of the Union just got harder for Trump - Politico
-- Powerful coastal storm to bring snow, wind to D.C. area; worst Sunday night - The Washington Post
-- White House dinner closes a turbulent week for governors in Washington - AP News
-- Trump is betting on DeSantis’ college oversight revamp. It’s shaping up to be a red-state revolution. - Politico
+- Blizzard Warnings Issued for Swath of East Coast, Including N.Y.C. - The New York Times
 - A Far-Right Activist’s Killing Deepens Divisions in France - The Wall Street Journal
-- Israeli strikes kill at least 10 in Lebanon, officials say - BBC
+- Trump Pulls Support From House Republican Who Opposed Tariffs - The New York Times
+- Blizzard Warning for part of the area; heavy snow expected for Philadelphia region | Live Updates - 6abc Philadelphia
+- Trump opens the alien files: Why Americans lean into conspiracies - Axios
+- Trump approves federal emergency declaration for Potomac River sewage spill - The Guardian
+- Powerful coastal storm to bring snow, wind to D.C. area; worst Sunday night - The Washington Post
+- Quakertown parents want answers as Bucks DA investigates police confrontation - WHYY
+- The Queen Stuck by Prince Andrew. King Charles Is Pulling Away - The New York Times
+- Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News
 - Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future. - The New York Times
-- 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR
+- Venezuela Approves Amnesty for Political Prisoners, but Many Won’t Benefit - The Wall Street Journal
 - JPMorgan Admits It Shut Trump’s Accounts After Jan. 6 Capitol Attack - The New York Times
-- Mark Zuckerberg’s entourage threatened with contempt for wearing Meta AI glasses into a no-recording courtroom - Yahoo
-- Depleted Savings and Plummeting Sales: The American Casualties of Trump’s Tariffs - The Dispatch
+- Smart glasses in court are a privacy nightmare - The Verge
+- Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous' - Business Insider
 - China showcases martial arts robots. Should Europe be worried? - Euronews.com
-- A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets - CNET
-- Anniversary: The Legend Of Zelda Turns 40 Today - How Did You First Play It? - Nintendo Life
+- Intel "Nova Lake-S" Coming in 2027, CES Launch Alongside AMD "Olympic Ridge" Likely - TechPowerUp
+- Galaxy AI turns into a multi-agent ecosystem, adds deep integration with Perplexity AI - GSMArena.com
+- The Legend Of Zelda Keeps Flirting With Dumping Fantasy For Sci-Fi - Kotaku
 - Why people are buying iPods again - Axios
