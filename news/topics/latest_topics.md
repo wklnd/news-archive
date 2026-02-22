@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 21:46_
+_Updated: 2026-02-22 22:51_
 
 ## Top Stories
 
 - Larmet: Allvarliga missförhållanden på kristen friskola i Göteborg - GP
-- DN Direkt – Mexikansk kartelledare dödad av militären - Dagens Nyheter
 - Berättar om hemmet – först då gråter Demko - SvD
-- 400 000 haitier i USA uppmanas ”Lämna landet omedelbart” - Dagens Nyheter
 - Kattungar hittas i påsar och lådor – Viggo var mager och iskall - GP
-- L-toppen Martin Melin om SD i regeringen: Oprövade - Omni
+- Leif GW Persson backar aktivist som åtalats för ministerhot: ”Yttrandefrihet” - SVT Nyheter
+- EXTRA: Explosion mot företag – i industriområde - Ekuriren
+- Duplantis vinner säsongspremiären – trots sjukdom - GP
 - Lavin norr om Gunnarvattnet – räddningsinsats avslutad - SVT Nyheter
 - Stockholm först ut i landet med att punktmarkera sexåringar - Dagens Nyheter
 - Kraftig brand – flera lägenheter förstörda - UNT
 - Njuter i nollgradigt vatten: ”Det är aldrig för kallt för ett kallbad” - Dagens Nyheter
-- USA-expert: Stor risk att Trump saboterar val - Omni
+- 400 000 haitier i USA uppmanas ”Lämna landet omedelbart” - Dagens Nyheter
+- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
+- Alla strandade valar i Danmark har dött - Expressen
+- Ungern blockerar EU-sanktioner mot Ryssland - Västerbottens-Kuriren
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
 - Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
 - Familjen Spendrup förbereder sig traditionsenligt i god tid inför julen 2026 - Örebronyheter
-- Så gick det för Westerbrings Plåt - Hudiksvalls Tidning
+- Börskandidatens mål: Halva världsmarknaden - DI
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 - Vilket var det första spelet som spelade roll för dig? Dagens spelfråga. - feber.se
-- Fast i ett dyrt abonnemang – anmäler företaget - Gefle Dagblad
-- Tamron Link ger trådlös objektivstyrning - Fotosidan
-- Gästlistan flyger inte i Stockholm - SvD
 
 ## World News
 
@@ -38,12 +38,12 @@ _Updated: 2026-02-22 21:46_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Handelsbanken lanserar ny global indexfond - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
@@ -57,8 +57,8 @@ _Updated: 2026-02-22 21:46_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -98,17 +98,17 @@ _Updated: 2026-02-22 21:46_
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -142,20 +142,20 @@ _Updated: 2026-02-22 21:46_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
