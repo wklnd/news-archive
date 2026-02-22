@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 10:57_
+_Updated: 2026-02-22 11:53_
 
 ## Top Stories
 
-- Larm om explosion i Nacka - Expressen
-- Magdalena Andersson: “Att stram migration behövs är fast förankrat” - Dagens Nyheter
-- Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
-- En död i explosion i Lviv - Expressen
-- Hundratals hus störs av bullret från E6: ”Dags att kommunen gör något” - Sydsvenskan
-- Efter 30 vattenläckor – nu evakueras Kaverös Äng - GP
-- Larm om explosion i Eskilstuna - SVT Nyheter
-- Explosion vid hus på Älgö - SVT Nyheter
-- Halt på vägarna i Västsverige – fler olyckor på kort tid - SVT Nyheter
-- EDVARD HOLLERTZ: Varningarna om Linköpingsbolagets Saudikoppling bör tas på allvar - Corren
 - Trump skickar sjukhusfartyg till Grönland - Dagens Nyheter
-- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Magdalena Andersson: “Att stram migration behövs är fast förankrat” - Dagens Nyheter
+- Tog toppjobb, köpte villa – sen utvisades dottern - SvD
+- Flera laviner i Alperna – dödssiffran stiger - GP
+- Grov misshandel på McDonald's i Göteborg - Expressen
+- Hundratals hus störs av bullret från E6: ”Dags att kommunen gör något” - Sydsvenskan
+- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
+- Man anhållen för våldtäkt i Åre - SVT Nyheter
+- Taxichaufför misshandlad av passagerare - UNT
+- Halt på vägarna i Västsverige – fler olyckor på kort tid - SVT Nyheter
 - Pakistanska attacker i gränsområde - SVT Nyheter
+- ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Läkare var full på jobbet – får sparken - SVT Nyheter
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
 - Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
 - Hon drar in 7 miljoner kronor - på fasta telefoner - Dagens PS
 - Samsung: Comeback efter marknadens svek - Dagens PS
-- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision
+- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
 - Forskare sänkte en kamera flera hundra meter ned i det iskalla vattnet i Antarktis – och såg plötsligt någonting otroligt glida in framför linsen - Illustrerad Vetenskap
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 
@@ -44,32 +44,30 @@ _Updated: 2026-02-22 10:57_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million for digitalisation of Swedish industry - Vinnova
+- It's time to get serious about artificial intelligence and the UN Sustainable Development Goals - Jönköping University
+- Development of Generative Artificial Intelligence from a Copyright Perspective - EUIPO
+- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- In English - About Gothenburgs Digital twin - Göteborgs Stad
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Sam Altman: The extraordinary firing of an AI superstar - BBC
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -98,22 +96,22 @@ _Updated: 2026-02-22 10:57_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,42 +119,42 @@ _Updated: 2026-02-22 10:57_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
