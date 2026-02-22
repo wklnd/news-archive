@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 15:26_
+_Updated: 2026-02-22 15:58_
 
 ## Top Stories
 
-- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
-- Fler amerikaner söker sig till Lunds universitet - Omni
+- Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
+- Kritiken mot Trumps nya tullbesked: ”En riktig röra” - Dagens Nyheter
+- Fler amerikaner i Lund: ”Studentvisum är det lättaste du kan få om du vill utomlands” - Sydsvenskan
 - Man anhållen för våldtäkt i Åre - SVT Nyheter
-- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
-- 22 februari 11.58, Trafikkontroll, Västerbottens län - polisen.se
-- Tog toppjobb, köpte villa – sen utvisades dottern - SvD
-- Leif GW Persson backar aktivist som åtalats för ministerhot: ”Yttrandefrihet” - SVT Nyheter
-- Förare stoppad under söndagsmorgonen – blåste positivt - NSD
-- Anders Hansen har fått hjärtat krossat: ”Gör ont – så in i helvete starkt” - Expressen
 - DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
+- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
+- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
+- Förare stoppad under söndagsmorgonen – blåste positivt - NSD
+- Väjde för vilt på E22 – körde in i mitträcket - Oskarshamns-Nytt
+- Bil voltade under bilkörning på frusen sjö i Strömstad – man avförd med ambulanshelikopter - SVT Nyheter
+- Trump skickar sjukhusfartyg till Grönland - Dagens Nyheter
+- Okända bilder på nazistmassaker dök upp på säljsajt - GP
 - ”På en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
 - ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
-- En död i misstänkt terrorattack i Lviv - Västerbottens-Kuriren
 - Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
-- Dansk miljardär gripen – bolaget erkänner bedrägeri - Dagens PS
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
 - Familjen Spendrup förbereder sig traditionsenligt i god tid inför julen 2026 - Örebronyheter
+- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
 - Det finns en plats på jorden där gravitationen är svagare än på andra ställen – nu vet forskarna varför - Illustrerad Vetenskap
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
-- Tamron Link ger trådlös objektivstyrning - Fotosidan
 
 ## World News
 
@@ -57,7 +57,6 @@ _Updated: 2026-02-22 15:26_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-02-22 15:26_
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -97,21 +97,21 @@ _Updated: 2026-02-22 15:26_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
@@ -120,22 +120,22 @@ _Updated: 2026-02-22 15:26_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
