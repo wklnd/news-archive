@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 16:52_
+_Updated: 2026-02-22 17:49_
 
 ## Top Stories
 
 - Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
-- Fler amerikaner i Lund: ”Studentvisum är det lättaste du kan få om du vill utomlands” - Sydsvenskan
-- Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
-- Hemlös man attackerades av tre maskerade män - Expressen
-- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
-- Man anhållen för våldtäkt i Åre - SVT Nyheter
+- Lotsarna till atomfartyget förbereder sig – med hjälp av avancerade datorspel - Sydsvenskan
+- Fler amerikaner söker sig till Lunds universitet - Omni
+- Misstänkt våldtäkt i Åre - Expressen
+- 22 februari 11.58, Trafikkontroll, Västerbottens län - polisen.se
+- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
 - JUST NU: Brand i Gottsunda – tre till sjukhus - UNT
+- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
 - Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
 - Förare stoppad under söndagsmorgonen – blåste positivt - NSD
-- Anders Hansen har fått hjärtat krossat: ”Gör ont – så in i helvete starkt” - Expressen
-- Trump skickar sjukhusfartyg till Grönland - Dagens Nyheter
 - ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
-- Okända bilder på nazistmassaker dök upp på säljsajt - GP
+- Pakistanska attacker i gränsområde - SVT Nyheter
 - Fullt utvecklad brand i Åhus - Expressen
 - Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
 - Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
 - Lockades av Google-miljoner – förlorade sitt livsverk - Dagens PS
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
-- Det finns en plats på jorden där gravitationen är svagare än på andra ställen – nu vet forskarna varför - Illustrerad Vetenskap
+- Fast i ett dyrt abonnemang – anmäler företaget - Gefle Dagblad
+- Tamron Link ger trådlös objektivstyrning - Fotosidan
 
 ## World News
 
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -39,6 +38,7 @@ _Updated: 2026-02-22 16:52_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -117,25 +117,25 @@ _Updated: 2026-02-22 16:52_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
