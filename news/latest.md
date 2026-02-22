@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-22 19:56_
+_Updated: 2026-02-22 21:04_
 
+- Trump warns Netflix of ‘consequences’ unless it pulls top Democrat from board - The Guardian
 - Only a fraction of House seats are competitive. Redistricting is driving that lower - NPR
-- 60% disapprove of Trump ahead of State of the Union, Post-ABC-Ipsos poll finds - The Washington Post
-- A Far-Right Activist’s Killing Deepens Divisions in France - The Wall Street Journal
-- How four years of Ukraine war have changed Russia - Al Jazeera
-- ‘That man is a monster,’ California serial child molester granted parole. Victims are outraged - Los Angeles Times
-- Zelensky: Dead and injured after latest Russian attacks - Yahoo
-- Armed man shot and killed inside Mar-a-Lago perimeter, Secret Service says - The Washington Post
-- The Casey DeSantis question looming over Florida's governor race - Politico
-- Trump Says He Is Sending Hospital Ship to Greenland - The Wall Street Journal
-- Scoop: U.S.-Iran talks expected Friday if Iran sends nuclear proposal - Axios
+- Missed Funerals and Blocked Toilets: Iran Deployment Takes a Toll on U.S. Sailors - The Wall Street Journal
 - The Queen Stuck by Prince Andrew. King Charles Is Pulling Away - The New York Times
+- Met officers working for Andrew told to guard Epstein's home, emails show - BBC
+- ‘That man is a monster,’ California serial child molester granted parole. Victims are outraged - Los Angeles Times
+- Armed man shot and killed inside Mar-a-Lago perimeter, Secret Service says - The Washington Post
+- Here Are the Five Biggest Snowstorms in New York City Since 1869 - The New York Times
+- Why Graham Platner’s meteoric rise is so unexpected - Politico
+- UPDATE: National Weather Service lifts flood watch early for Kaua‘i, Ni‘ihau - Kauai Now
+- Puerto Vallarta update: What is happening in Jalisco, Mexico? Scary videos emerge | Hindustan Times - Hindustan Times
 - The Ex-Taxi Driver at the Center of Russia’s Shadow War - The New York Times
-- 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine - NPR
 - Israeli strikes kill at least 10 in Lebanon, officials say - BBC
+- Dozens of countries steer clear of safety commitment in global AI pledge - Politico
 - Why adults pursuing career growth or personal interests are the ‘new majority’ student - AP News
-- A ‘bellwether’ social media addiction trial is underway. It could set off a chain reaction - CNN
 - 'Air Hacks' Report Reveals Best Day to Book Flights - Newser
-- Netflix's Ted Sarandos on Future of HBO Max as He Fights to Seal WB Deal - Variety
-- Over 30 new games are coming to Xbox next week - TrueAchievements
+- Oil Traders Rush to Hedge Iran Risk After Wild Start to Year - Bloomberg
+- Trump Advisor Kevin Hassett Walks Back Demands for Discipline of Fed Researchers - Barron's
 - MOFT’s long-awaited MagSafe kickstand wallet with Find My support is now available - 9to5Mac
+- Pokémon GO Events This Week: 23 February – 1 March 2026 - Pokémon GO Hub
