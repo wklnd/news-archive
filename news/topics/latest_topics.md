@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 08:09_
+_Updated: 2026-02-22 09:11_
 
 ## Top Stories
 
-- Trump skickar ”storslaget” sjukhusfartyg till Grönland - Hufvudstadsbladet
+- Explosion utanför villa i skärgården - Aftonbladet
+- Trump: Skickar sjukhusfartyg till Grönland - Västerbottens-Kuriren
 - Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
-- En död i misstänkt terrorattack i Lviv - Västerbottens-Kuriren
-- Fyra ledamöter kan punktera Trumps tullar - Dagens Nyheter
-- Brunnsparken kallades paradiset – nu vill folk bara därifrån - GP
-- Snart avgörs det: Ska alla i EU kunna göra abort? - SvD
+- En död i explosion i Lviv - Expressen
+- Kritik mot nya Barsebäcks-planer: ”Bara nys att bygga enligt Ikea-modellen” - Sydsvenskan
+- Efter 30 vattenläckor – nu evakueras Kaverös Äng - GP
 - SD-toppen: Därför säger jag ifrån när sverigedemokrater hånar Malmö - Sydsvenskan
-- Amanda Sokolnicki: Tonårsutvisningarna är ingenting mot det som väntar efter valet - Dagens Nyheter
 - Besked om stoppad postutdelning drogs tillbaka – här är lösningen - NT
-- Regeringen sinkar skydd av viktiga fågelområden igen - Natursidan
+- Man misshandlad på Avenyn - GP
+- Ny kritik om elbussarna: ”Blev helt svart” - Hudiksvalls Tidning
 - ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
-- DN Direkt – Larm om smäll vid villa i Nacka - Dagens Nyheter
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- Pakistan slår till mot gränsregion - SVT Nyheter
+- DN Direkt – Kvinna till sjukhus efter villabrand i Emmaboda - Dagens Nyheter
+- Samsung: Comeback efter marknadens svek - Dagens PS
 - Teslas snabbladdare i fjällen har vandaliserats av fack-anhängare - Allt om Elbil
 - Läkare var full på jobbet – får sparken - SVT Nyheter
-- Fredrik utmanar jättar i Birsta - Sundsvalls Tidning
-- Sandra, 31, publicerade dålig recension – blev uppringd flera gånger av begravningsbyrån - Expressen
+- Slog larm – röstades ner: ”Finns inget intresse” - Södra Dalarnes Tidning
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 - Så stänger du av (och på) datorns mikrofon - PC för Alla
+- Glöm Samsung Galaxy Watch Ultra 2 – Amazfit T‑Rex Ultra 2 kan bli årets stora överraskning bland äventyrsklockor - TechRadar
 
 ## World News
 
@@ -51,6 +51,7 @@ _Updated: 2026-02-22 08:09_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -68,7 +69,6 @@ _Updated: 2026-02-22 08:09_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
@@ -85,10 +85,10 @@ _Updated: 2026-02-22 08:09_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -146,18 +146,18 @@ _Updated: 2026-02-22 08:09_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- De gick från reko till eko - ST-tidningen
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
