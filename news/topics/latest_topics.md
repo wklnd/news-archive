@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 17:49_
+_Updated: 2026-02-22 18:56_
 
 ## Top Stories
 
-- Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
+- Turistpärlorna plågas av laviner: ”Osäkerhet” - SvD
+- L-toppen Martin Melin om regeringsfrågan: ”SD har mer att bevisa” - Dagens Nyheter
 - Lotsarna till atomfartyget förbereder sig – med hjälp av avancerade datorspel - Sydsvenskan
-- Fler amerikaner söker sig till Lunds universitet - Omni
-- Misstänkt våldtäkt i Åre - Expressen
-- 22 februari 11.58, Trafikkontroll, Västerbottens län - polisen.se
-- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
+- Efter Trumps tullbesked – så vill EU slå tillbaka - GP
+- Dystra historien bakom hjärtat i Brunnsparken - GP
 - JUST NU: Brand i Gottsunda – tre till sjukhus - UNT
-- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
+- Leif GW Persson svar på utrikesministerns kritik - GP
+- Vården varnar för apotekens tester för könssjukdomar: ”Går inte att lita på” - Dagens Nyheter
 - Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
-- Förare stoppad under söndagsmorgonen – blåste positivt - NSD
+- Christoffer har fått två nya hjärtan: ”Trodde inte att jag skulle bli vuxen” - Dagens Nyheter
 - ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
+- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
 - Pakistanska attacker i gränsområde - SVT Nyheter
-- Fullt utvecklad brand i Åhus - Expressen
-- Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
+- DN Direkt – Person till sjukhus efter lägenhetsbrand - Dagens Nyheter
 - Gates sågade OpenAI: "Du kommer bränna den här miljarden" - Dagens PS
 - Lockades av Google-miljoner – förlorade sitt livsverk - Dagens PS
+- Varnar för överskott av viktiga metallen – priset kan rasa - Dagens PS
 - Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 - Fast i ett dyrt abonnemang – anmäler företaget - Gefle Dagblad
-- Tamron Link ger trådlös objektivstyrning - Fotosidan
 
 ## World News
 
@@ -37,13 +37,13 @@ _Updated: 2026-02-22 17:49_
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -58,18 +58,18 @@ _Updated: 2026-02-22 17:49_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -102,17 +102,17 @@ _Updated: 2026-02-22 17:49_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -120,22 +120,22 @@ _Updated: 2026-02-22 17:49_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
