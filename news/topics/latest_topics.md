@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-22 09:11_
+_Updated: 2026-02-22 09:54_
 
 ## Top Stories
 
 - Explosion utanför villa i skärgården - Aftonbladet
-- Trump: Skickar sjukhusfartyg till Grönland - Västerbottens-Kuriren
 - Peter Englund: Det ryska hamrandet fortsätter – men tiden och siffrorna står inte på deras sida - Dagens Nyheter
-- En död i explosion i Lviv - Expressen
-- Kritik mot nya Barsebäcks-planer: ”Bara nys att bygga enligt Ikea-modellen” - Sydsvenskan
+- Magdalena Andersson: “Att stram migration behövs är fast förankrat” - Dagens Nyheter
+- En död i misstänkt terrorattack i Lviv - Västerbottens-Kuriren
+- Hundratals hus störs av bullret från E6: ”Dags att kommunen gör något” - Sydsvenskan
 - Efter 30 vattenläckor – nu evakueras Kaverös Äng - GP
-- SD-toppen: Därför säger jag ifrån när sverigedemokrater hånar Malmö - Sydsvenskan
+- Fler barn överlever cancer – även svåra diagnoser - Västerbottens-Kuriren
 - Besked om stoppad postutdelning drogs tillbaka – här är lösningen - NT
-- Man misshandlad på Avenyn - GP
-- Ny kritik om elbussarna: ”Blev helt svart” - Hudiksvalls Tidning
+- EDVARD HOLLERTZ: Varningarna om Linköpingsbolagets Saudikoppling bör tas på allvar - Corren
+- Regeringen sinkar skydd av viktiga fågelområden igen - Natursidan
 - ”Ryssland måste bli så svagt att det är oförmöget att föra krig” - Dagens Nyheter
+- Man anhållen för våldtäkt i Åre - SVT Nyheter
 - Kommande möten: 23 februari–8 mars 2026 - consilium.europa.eu
-- DN Direkt – Kvinna till sjukhus efter villabrand i Emmaboda - Dagens Nyheter
+- USA-expert: Stor risk att Trump saboterar val - Omni
 - Samsung: Comeback efter marknadens svek - Dagens PS
-- Teslas snabbladdare i fjällen har vandaliserats av fack-anhängare - Allt om Elbil
+- Hon drar in 7 miljoner kronor - på fasta telefoner - Dagens PS
 - Läkare var full på jobbet – får sparken - SVT Nyheter
 - Slog larm – röstades ner: ”Finns inget intresse” - Södra Dalarnes Tidning
 - Spanar mot rymden – snart står planeterna på rad - Jönköpings-Posten
 - Så stänger du av (och på) datorns mikrofon - PC för Alla
-- Glöm Samsung Galaxy Watch Ultra 2 – Amazfit T‑Rex Ultra 2 kan bli årets stora överraskning bland äventyrsklockor - TechRadar
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global instabilitet hos Cloudflare förhindrar anslutning till Steam och genererar klagomål från miljontals spelare - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
@@ -39,19 +40,17 @@ _Updated: 2026-02-22 09:11_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Advita Ortho Awarded U.S. Patent For AI-Enabled Surgical Planning Technology (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -60,6 +59,7 @@ _Updated: 2026-02-22 09:11_
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Global Clean Energy, Inc. Forms AI Division to Advance Renewal, Responsiveness, and Resilience through Data-Driven Energy Decisions (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,7 +69,7 @@ _Updated: 2026-02-22 09:11_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
@@ -77,19 +77,18 @@ _Updated: 2026-02-22 09:11_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -99,22 +98,22 @@ _Updated: 2026-02-22 09:11_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -122,16 +121,16 @@ _Updated: 2026-02-22 09:11_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- 5 myter om öppen vetenskap - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
