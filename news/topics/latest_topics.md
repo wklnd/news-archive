@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 05:24_
+_Updated: 2026-02-23 07:14_
 
 ## Top Stories
 
-- DN Direkt – Uppgifter: Trump överväger större anfall om Iran-avtal uteblir - Dagens Nyheter
-- Explosion vid port i Upplands Väsby - SVT Nyheter
-- Dödsfall i Åre: ”Man avliden i skidbacke” - Expressen
-- Efter Trumps tullbesked – så vill EU slå tillbaka - GP
-- Antalet fattiga svenskar har rusat de senaste åren - Omni
-- EXTRA: Explosion mot företag – i industriområde - Ekuriren
+- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
+- Ökänd kartelledare dödad – upplopp i Mexiko - GP
+- Stulna skolplattor från Malmö dyker upp över hela världen - Sydsvenskan
+- Misstänkt mordbrand på Kungsholmen – två till sjukhus - SVT Nyheter
+- Snöstorm hotar 35 miljoner – värsta ovädret på tio år - GP
+- BOKREA: Lerins reabok får folk att fatta telefonen: ”Det finns definitivt guldklimpar” - NWT
+- Det här vet vi om bältrosvaccin och demens - Dagens Nyheter
 - Strömmer: Vill ta hjälp av AI för att identifiera pedofiloffer – Senaste nytt om valet 2026 - SVT Nyheter
-- INSÄNDARE: Tidöpartiernas huvudlösa klimatpolitik - Norran
-- Polis fann misshandlad man liggande på gata i centrala Linköping - Corren
-- Företag med diktaturkoppling hanterar patientjournaler i Sörmland - SN, Södermanlands Nyheter
-- DN Direkt – Efter protester i Iran – barn riskerar dödsstraff - Dagens Nyheter
+- Dramatisk ökning av fattiga svenskar - Västerbottens-Kuriren
+- Kyrkan får inte ersätta tron på Jesus med sekundära frågor - Dagen
 - Austin, 21, dök upp hos Trump med hagelbössa - Expressen
+- Helgonreliker visas upp för första gången - Aftonbladet
 - Sätter press: Fixa det innan måndag - Expressen
-- Frankrike och USA i bråk efter högeraktivists död - Aftonbladet
-- Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
+- Läckta uppgifter – Iran och Ryssland ingår hemligt avtal - Expressen
+- CSN publicerar årsredovisningen för 2025 - CSN
 - Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
-- Konkurrenten använde Ahmeds företagsnamn - Fagersta-Posten
-- INSÄNDARE: Var tog pengarna till klassrummen vägen? - Kristianstadsbladet
+- Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
+- Många fritidshus säljs under utgångspris - Västerbottens-Kuriren
+- Hyperbilen som världsstjärnan blev livrädd för - Carup.se
 - Se ikoniska spel och filmer hyllas under vinter-OS – med ”Mortal Kombat” och fjärtar - MovieZine.se
-- Swish bekräftar stor nyhet om ny genial funktion: Så påverkar den dig - Dagens.se
 
 ## World News
 
@@ -45,8 +45,8 @@ _Updated: 2026-02-23 05:24_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -57,8 +57,8 @@ _Updated: 2026-02-23 05:24_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -96,20 +96,20 @@ _Updated: 2026-02-23 05:24_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -121,21 +121,21 @@ _Updated: 2026-02-23 05:24_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
