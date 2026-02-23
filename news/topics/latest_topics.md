@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 18:28_
+_Updated: 2026-02-23 19:37_
 
 ## Top Stories
 
-- DNA fastnade på bensindunk – nu anklagas 30-åring för mordbränder - Sydsvenskan
 - Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
+- Uppgifter: Trump överväger "större attack" mot Iran - GP
+- DN Direkt – Israelisk minister hotar med Gazaockupation - Dagens Nyheter
+- DNA fastnade på bensindunk – nu anklagas 30-åring för mordbränder - Sydsvenskan
 - USA kallar hem diplomater - Västerbottens-Kuriren
-- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- Barndomsvännerna går från konkurrenter till partners - Smålandsposten
-- Kommunfullmäktige sammanträder - Katrineholms kommun
-- Beslutet: Wegovy blir inte subventionerat - SvD
-- Lagrådet sågar förslag om medborgarskap - GP
-- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
-- Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
 - DN Direkt – Kim Jong-Un återvald som generalsekreterare - Dagens Nyheter
-- Källor: ”Enorm” lösensumma vid kidnappning - Västerbottens-Kuriren
-- Stubb: ”Ukraina håller på att vinna kriget” - GP
+- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
+- Vikarie kränktes med apljud och n-ordet - Aftonbladet
+- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
+- Tyska spioner får mer makt – tilltron till USA viker - GP
+- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
 - DN Direkt – Amerikanska styrkor drar sig tillbaka från Syrien - Dagens Nyheter
+- Helgonreliker visas upp för första gången - Aftonbladet
 - Nu kommer Spotifys AI-baserade spellisteverktyg även till Sverige - Expressen
-- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
-- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
 - Miljardtapp i Swedbanks populära indexfond - SvD
-- Lyfter seglingsnavigering till en ny standard för lyx - Båtliv
-- Microsoft testar AI-delning via Aktivitetsfältet i Windows 11 - PC för Alla
+- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
+- Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
+- Nu kan du köpa en gitarrformad vinylspelare - Cafe.se
+- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 
 ## World News
 
+- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -67,9 +67,9 @@ _Updated: 2026-02-23 18:28_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -96,16 +96,16 @@ _Updated: 2026-02-23 18:28_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-02-23 18:28_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -153,8 +153,8 @@ _Updated: 2026-02-23 18:28_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
