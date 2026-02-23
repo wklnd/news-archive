@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 19:37_
+_Updated: 2026-02-23 21:38_
 
 ## Top Stories
 
-- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
-- Uppgifter: Trump överväger "större attack" mot Iran - GP
+- Volvo återkallar 40 300 elbilar för brandrisk - Expressen
+- Traditionen förklarar Putins vansinne - SvD
 - DN Direkt – Israelisk minister hotar med Gazaockupation - Dagens Nyheter
-- DNA fastnade på bensindunk – nu anklagas 30-åring för mordbränder - Sydsvenskan
-- USA kallar hem diplomater - Västerbottens-Kuriren
-- DN Direkt – Kim Jong-Un återvald som generalsekreterare - Dagens Nyheter
-- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
-- Vikarie kränktes med apljud och n-ordet - Aftonbladet
+- Så blir licens- och skyddsjakten på säl - Jaktjournalen
+- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
+- Snöstorm stoppar kongressen i USA - Västerbottens-Kuriren
+- Anställd ströps medvetslös på LSS-boende – man åtalas för mordförsök - SVT Nyheter
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Tyska spioner får mer makt – tilltron till USA viker - GP
+- Hårdare krav för bidrag till invandrare – Senaste nytt om valet 2026 - SVT Nyheter
+- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
 - Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- DN Direkt – Amerikanska styrkor drar sig tillbaka från Syrien - Dagens Nyheter
 - Helgonreliker visas upp för första gången - Aftonbladet
-- Nu kommer Spotifys AI-baserade spellisteverktyg även till Sverige - Expressen
 - Miljardtapp i Swedbanks populära indexfond - SvD
-- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
-- Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
-- Nu kan du köpa en gitarrformad vinylspelare - Cafe.se
+- Vägar förstördes av skyfall – nu blir det nobben för bidrag - Aktuell Hållbarhet
+- På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
+- ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
+- Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
 - Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 
 ## World News
@@ -30,22 +30,22 @@ _Updated: 2026-02-23 19:37_
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -67,9 +67,9 @@ _Updated: 2026-02-23 19:37_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -98,20 +98,20 @@ _Updated: 2026-02-23 19:37_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -120,21 +120,21 @@ _Updated: 2026-02-23 19:37_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
