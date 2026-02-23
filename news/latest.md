@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-23 17:29_
+_Updated: 2026-02-23 18:34_
 
-- Live updates as nor'easter brings blizzard conditions to NYC, Tri-State Area - CBS News
-- S&P 500 is little changed as investors try to look past tariff turmoil: Live updates - CNBC
-- Australia backs removing Andrew from royal line of succession - BBC
+- Dow drops 600 points as confusion grows after Trump hikes global U.S. tariffs: Live updates - CNBC
 - The owners want to close this Colorado coal plant. The Trump administration says no - NPR
+- US judge permanently blocks release of report on Trump documents case - Reuters
 - Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C. - The New York Times
-- Capitol agenda: Trump’s SOTU clouded by chaos - Live Updates - Politico
+- Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment - Axios
+- Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960 - The New York Times
 - Dem AGs plot to thwart Trump election interference - Politico
 - New education loan limits favor RFK Jr.’s enemies - Politico
-- N.J. weather: Blizzard could dump another 2 to 12 inches of snow today with winds raging to 60 mph. Power out - NJ.com
 - Two more skiers die in the Lake Tahoe area - Los Angeles Times
-- Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins - The Guardian
+- Level 3 Driving Ban for Kent and Sussex Counties, Level 2 Driving Restrictions for New Castle County Starting at 10 pm - State of Delaware News (.gov)
+- 4 years into Russia’s full-scale invasion of Ukraine, a look at the war by the numbers - AP News
+- Rob Jetten sworn in as youngest-ever Dutch prime minister - DW.com
 - A viral monkey, his plushie, and a 70-year-old experiment: what Punch tells us about attachment theory - The Conversation
 - India’s AI ambitions hit limits at global summit - Financial Times
-- West Bank mosque set on fire, graffitied with ‘revenge’ in apparent settler attack - The Times of Israel
-- Speech by Governor Waller on the economic outlook - Federal Reserve Board (.gov)
+- Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen - CNBC
 - India's IDFC First Bank tanks 20% on suspected $65 mln fraud - Reuters
-- The Cheapest "Magnificent Seven" Stock Is a Screaming Buy Right Now - The Motley Fool
-- European stocks start the week lower as markets react to new Trump tariffs - CNBC
-- Can OpenAI Build Alexa Before Amazon Can Build ChatGPT? - spyglass.org
-- Why people are buying iPods again - Axios
+- Netflix boss says $83bn Warner Bros takeover will benefit industry - The Guardian
+- Gilead to acquire cancer therapy developer Arcellx for up to $7.8 billion - CNBC
+- Nothing couldn’t wait to show off the Phone 4A - The Verge
+- Exclusive: Galaxy Buds 4 Pro Get Camera Remote, Head Gestures, and more! - SammyGuru
