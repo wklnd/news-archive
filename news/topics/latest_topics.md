@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 11:28_
+_Updated: 2026-02-23 12:28_
 
 ## Top Stories
 
-- Små marknadsreaktioner på tullutspel - GP
+- DN Direkt – Små marknadsreaktioner på tullutspel - Dagens Nyheter
 - Uppgift: Ukraina behöver 250 000 nya soldater - SvD
-- ”Luktade bränt fläsk och trodde jag skulle svimma” - GP
-- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
-- Flera döda i ryska attacker - GP
-- L säger nej till förhandling med Tidö om uppehållstillstånden – Senaste nytt om valet 2026 - SVT Nyheter
-- Det här vet vi om bältrosvaccin och demens - Dagens Nyheter
+- Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
+- DN Direkt – Flera döda i busskrasch i Nepal - Dagens Nyheter
+- 6 skadade på nakenfestival i Japan - Expressen
+- Par döms till fängelse för kändisbedrägerier - Västerbottens-Kuriren
+- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
 - INSÄNDARE: Skandal – äldres ansvar att anmäla? - Jönköpings-Posten
-- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
-- Rysk Gazprom-höjdare skickade 60 miljoner till Sverige – SEB oroliga för sanktionsbrott - Sveriges Radio
-- DN Direkt – Helgonreliker visas upp för första gången - Dagens Nyheter
-- Sätter press: Fixa det innan måndag - Expressen
+- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
+- Nya migrationssmällen: Tech-entreprenörer ratar Sverige - Aftonbladet
+- Stubb: ”Ukraina håller på att vinna kriget” - Dagens Nyheter
+- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
 - Austin, 21, dök upp hos Trump med hagelbössa - Expressen
-- Alla strandade valar i Danmark har dött - Expressen
+- Här finns sommarjobben – ”sök i god tid” - Dagens Nyheter
 - Bitcoin rasar – 100 miljarder dollar utraderat - Affärsvärlden
-- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
 - Lista: Bilarna med sämst sikt enligt förarna - Dagens PS
-- Nytt batterigenombrott: Plast i stället för metall - Dagens PS
-- 10 Chat GPT-knep för din Iphone och Mac - Macworld.se
-- Blocket: Drömmen kan bli din – Ferrari F40 till salu i Sverige - auto motor & sport
+- Svarta rekordet: Snart en halv miljard hackade konton - Dagens PS
+- ”Hey Plex!” – Samsung bygger in Perplexity i Galaxy AI - Ny Teknik
+- Test: Oppos nya mobil har rekordbatteri – men priset svider - m3.se
+- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-02-23 11:28_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Annual Report 2024 - Olof Palme International Center
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
 
@@ -56,8 +56,8 @@ _Updated: 2026-02-23 11:28_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -138,23 +138,23 @@ _Updated: 2026-02-23 11:28_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Lediga jobb - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
