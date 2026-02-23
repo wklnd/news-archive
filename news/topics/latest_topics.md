@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 23:10_
+_Updated: 2026-02-24 00:08_
 
 ## Top Stories
 
-- EU i konflikt om Ukraina – stödpaket fastnar efter krav från Ungern och Slovakien - SVT Nyheter
-- Bröllopsbilder kan fälla misstänkt kvinnomisshandlare i Malmö - Sydsvenskan
-- DN Direkt – Diplomatbråk efter dödsmisshandel av aktivist - Dagens Nyheter
-- Uppgifter: Trump överväger "större attack" mot Iran - GP
-- Traditionen förklarar Putins vansinne - SvD
-- Misstänkt mord i Eskilstuna – man sköts på restaurang - SVT Nyheter
+- Extrem lavinfara i Österrike – svensk bland dödsoffren - SVT Nyheter
+- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
+- Beskedet: Nyanlända ska vänta fem år på bidrag - GP
+- Polisinsats efter explosion i centrala Göteborg - Aftonbladet
+- Liudmyla, 77, utvisas till krigets Ukraina: ”Tungt” - SvD
+- Efter kalla dagarna – nu kommer vårvärmen - Expressen
 - Beslut om säljakt – så många får skjutas i länet - Västerbottens-Kuriren
-- Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
+- Han blir regionens nya hälso- och sjukvårdsdirektör - Tidningen Ångermanland
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- Källor: ”Enorm” lösensumma vid kidnappning - Västerbottens-Kuriren
-- Svensk man avliden i Österrikiska snökaoset - Expressen
-- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Stubb: ”Ukraina håller på att vinna kriget” - GP
+- Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
+- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
+- Välkommet domslut från USA:s högsta domstol - Aktiellt
+- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
+- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
 - Får rätt mot kommunen efter fyra års strid: ”Det var inte värt det” - Dagens Nyheter
 - Miljardtapp i Swedbanks populära indexfond - SvD
+- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
 - Kärnkraftsreaktor ur drift efter oväntat fel - Omni
-- På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
-- ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
+- God of war - Sons of Sparta - FZ.se
 - Androids Calling Cards kan snart nå Wear OS - mobil.se
-- Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
-- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
-- Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Ex-prins Andrew gripen - Kvartal
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Ex-prins Andrew gripen - Kvartal
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Statement by Phumzile Mlambo-Ngcuka, UN Women Executive Director, on International Women’s Day 2021 - UN Women
-- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
-- Samsung bekräftar global händelse för att avslöja Galaxy S26-linjen och nya hörlurar med avancerad artificiell intelligens - Mix Vale
-- Stellantis ersätter PureTech-motorer med Firefly-familjen i en global effektivitets- och hållbarhetsstrategi - Mix Vale
-- Xiaomi bekräftar global lansering av 17 Ultra med fokus på professionell fotografering och robust batteri - Mix Vale
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-02-23 23:10_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -80,8 +80,8 @@ _Updated: 2026-02-23 23:10_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
