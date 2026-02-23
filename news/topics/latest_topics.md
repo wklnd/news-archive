@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 00:08_
+_Updated: 2026-02-24 01:08_
 
 ## Top Stories
 
-- Extrem lavinfara i Österrike – svensk bland dödsoffren - SVT Nyheter
+- Uppgifter: Trump överväger "större attack" mot Iran - GP
+- EU i konflikt om Ukraina – stödpaket fastnar efter krav från Ungern och Slovakien - SVT Nyheter
 - KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Beskedet: Nyanlända ska vänta fem år på bidrag - GP
-- Polisinsats efter explosion i centrala Göteborg - Aftonbladet
-- Liudmyla, 77, utvisas till krigets Ukraina: ”Tungt” - SvD
-- Efter kalla dagarna – nu kommer vårvärmen - Expressen
+- Snöstorm hotar 35 miljoner – värsta ovädret på tio år - GP
+- Nilsson hos Kronofogden – SD har ännu inte betalat - Omni
+- DN Direkt – Svensk död efter lavin i Österrike - Dagens Nyheter
 - Beslut om säljakt – så många får skjutas i länet - Västerbottens-Kuriren
 - Han blir regionens nya hälso- och sjukvårdsdirektör - Tidningen Ångermanland
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
 - Välkommet domslut från USA:s högsta domstol - Aktiellt
-- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
 - Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
+- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
 - Får rätt mot kommunen efter fyra års strid: ”Det var inte värt det” - Dagens Nyheter
-- Miljardtapp i Swedbanks populära indexfond - SvD
 - Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
-- Kärnkraftsreaktor ur drift efter oväntat fel - Omni
+- På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
 - God of war - Sons of Sparta - FZ.se
 - Androids Calling Cards kan snart nå Wear OS - mobil.se
+- Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
+- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 
 ## World News
 
@@ -37,13 +37,13 @@ _Updated: 2026-02-24 00:08_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Ex-prins Andrew gripen - Kvartal
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
@@ -69,7 +69,7 @@ _Updated: 2026-02-24 00:08_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -93,25 +93,25 @@ _Updated: 2026-02-24 00:08_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -138,23 +138,23 @@ _Updated: 2026-02-24 00:08_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
