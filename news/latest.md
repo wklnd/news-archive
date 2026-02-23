@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-23 12:33_
+_Updated: 2026-02-23 13:26_
 
+- Stock futures fall amid uncertainty about Trump new tariffs: Live updates - CNBC
 - Armed man killed after entering secure perimeter of Trump's residence, Secret Service says - BBC
-- U.S.-Iran talks expected Thursday to discuss nuclear proposal - Axios
 - Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times
 - North Korea: Kim Jong Un re-appointed as general secretary at party congress - BBC
+- U.S.-Iran talks expected Thursday to discuss nuclear proposal - Axios
 - Governor Lamont Orders Executive Branch State Office Buildings Closed to the Public Monday Due to Winter Storm - CT.GOV-Connecticut's Official State Website (.gov)
-- US says ambassador’s comments on Israel and the Middle East were taken out of context - Politico
-- Defense attorneys build mapping tool to track Justice Dept. "weaponization" - CBS News
 - City of Philadelphia Provides Updates on Activations and Response to Major Winter Storm - City of Philadelphia (.gov)
-- Level 3 Driving Ban for Kent and Sussex Counties, Level 2 Driving Restrictions for New Castle County Starting at 10 pm - State of Delaware News (.gov)
+- Defense attorneys build mapping tool to track Justice Dept. "weaponization" - CBS News
 - Following a whiplash transition from record warmth to very heavy mountain snowfall in California, yet another swing back toward anomalous warmth (first damp, then dry) - Weather West
+- 1 Week into Democrats’ Shutdown, DHS Implements Emergency Measures to Conserve Resources and Manpower Impacting Travelers and FEMA Responses to Non-Disaster Areas - Homeland Security (.gov)
+- Arab Leaders Condemn Remarks by U.S. Ambassador to Israel - The New York Times
 - Duterte refuses to attend ICC pre-trial hearing, as former Philippine leader’s ‘drug war’ case begins - The Guardian
-- Philippine senator calls out China in visit to disputed island - Inquirer.net
 - A viral monkey, his plushie, and a 70-year-old experiment: what Punch tells us about attachment theory - The Conversation
-- Former UK Prime Minister Boris Johnson calls on allies to send noncombat troops to Ukraine - PBS
-- Blue Owl Anxiety Rattles the $1.8 Trillion Private Credit Market - Bloomberg
-- Korean ‘ants’ pile into leveraged funds to profit from stock market boom - Financial Times
-- Software stocks are sliding. Is it time to 'buy the dip'? - USA Today
-- 'Gonna be big mad': Trump's no good, very bad day fueled by more than tariff ruling - Alternet
-- Samsung is adding Perplexity to Galaxy AI - The Verge
+- IDF escalates strikes on Hezbollah as fears grow of Iran-directed assault on Israel - The Times of Israel
+- India's IDFC First Bank tanks 20% on suspected $65 mln fraud - Reuters
+- Novo Nordisk sinks 15% after weight loss drug fails to match Eli Lilly's in trial - CNBC
+- How Korea’s President Turned Its Market Into the World’s Best Performer - Bloomberg
+- Oil drops as US tariff uncertainty clouds demand, Iran nuclear talks eyed By Reuters - Investing.com
+- Why people are buying iPods again - Axios
 - Google restricting Google AI Pro/Ultra subscribers for using OpenClaw - Hacker News
