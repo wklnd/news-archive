@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 15:47_
+_Updated: 2026-02-23 17:24_
 
 ## Top Stories
 
-- DN Direkt – TV4 tar GW i försvar - Dagens Nyheter
-- Tredje delen av bidragsreformen – kvalificering till socialförsäkringen - Regeringen.se
-- Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
-- Hästföretagare i rätten – misstänks ha drogat och våldtagit män på gården - Sydsvenskan
 - S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
-- Anne-Sofie, 20, och Freja, 21, dog av giftig sprit på Laos - Expressen
-- Nej till subvention för fetmaläkemedel - Aftonbladet
-- Olika vård för samma sjukdom – nu får Mia det stöd hon saknat - Dagens Nyheter
+- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
+- Anne-Sofie och Freja dog av giftig sprit - Expressen
+- Anna-Lena Laurén: I fyra år har Ukraina blött på grund av onödiga misstag och dumma beslut - Dagens Nyheter
+- DN Direkt – Läkare misstänks ha lurat Region Stockholm på miljoner - Dagens Nyheter
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- Kommunfullmäktige sammanträder - Katrineholms kommun
-- Stubb: ”Ukraina håller på att vinna kriget” - Dagens Nyheter
-- Tyska spioner får mer makt – tilltron till USA viker - GP
-- Dödsskjutningen i Mar-a-Lago: Misstänkt körde 100 mil hem till Trump - Dagens Nyheter
-- ICC inleder förhandlingar mot Duterte - Västerbottens-Kuriren
+- Slaget mot Novo Nordisk – får inte ingå i högkostnadsskyddet - Omni Ekonomi
+- Vikarie kränktes med apljud och n-ordet - Aftonbladet
+- Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
+- Våld i skolan får politiker att rasa: ”Anmärkningsvärt” - Ljusnan
+- Ukrainas uppbyggnad kräver 588 miljarder dollar - Västerbottens-Kuriren
+- Uppgifter: Trump överväger "större attack" mot Iran - GP
 - Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
+- Perfect Weekends läsare rasar mot en detalj på hotellrummet - Dagens PS
 - ​​Wall Street-profilen: Det här måste du prata om på första dejten - Dagens PS
-- Två flaggor i Oncopeptides nyemission - Affärsvärlden
-- Affärsvärlden ger ett neutralt råd för Ework - Affärsvärlden
-- ”Hey Plex!” – Samsung bygger in Perplexity i Galaxy AI - Ny Teknik
+- Super-Ferrari för 45 miljoner – norrman köpte - Dagens PS
+- LBSB och Tjuvjakt till Brännbollsyran - Aftonbladet
+- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 - Microsoft: Copilot är den viktigaste appen i Windows - PC för Alla
+- Hård kritik mot inbyggd ”vpn” i Edge - PC för Alla
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-02-23 15:47_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -56,6 +56,7 @@ _Updated: 2026-02-23 15:47_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -65,11 +66,10 @@ _Updated: 2026-02-23 15:47_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -96,22 +96,22 @@ _Updated: 2026-02-23 15:47_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -142,7 +142,7 @@ _Updated: 2026-02-23 15:47_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -150,11 +150,11 @@ _Updated: 2026-02-23 15:47_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
