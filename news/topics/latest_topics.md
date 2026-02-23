@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 08:41_
+_Updated: 2026-02-23 10:06_
 
 ## Top Stories
 
-- SEB misstänker sanktionsbrott – 60 miljoner till Sverige - Omni
 - ”Luktade bränt fläsk och trodde jag skulle svimma” - GP
-- Efter Trumps tullbesked – så vill EU slå tillbaka - GP
-- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Kim Jong-Un återvald som generalsekreterare - GP
-- DN väljer: 15 favoriter på årets bokrea - Dagens Nyheter
+- Stulna skolplattor från Malmö dyker upp över hela världen - Sydsvenskan
+- Flera döda i ryska attacker - GP
+- DN Direkt – Uppgifter: Trump överväger större anfall om Iran-avtal uteblir - Dagens Nyheter
+- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
+- Sätter press: Fixa det innan måndag - Expressen
 - Det här vet vi om bältrosvaccin och demens - Dagens Nyheter
 - ”Scar” och flera andra personer misstänkt för mord på rappare i Fruängen 2023 - Aftonbladet
-- Strömmer: Vill ta hjälp av AI för att identifiera pedofiloffer – Senaste nytt om valet 2026 - SVT Nyheter
-- Företag med diktaturkoppling hanterar patientjournaler i Sörmland - SN, Södermanlands Nyheter
-- Kina tvingas tänka om efter ryskt misslyckande - SvD
-- Kaos på filmgala – ursäkten: ”Tourettes” - Aftonbladet
+- Stockholm först ut i landet med att punktmarkera sexåringar - Dagens Nyheter
+- SEB kan ha medverkat till sanktionsbrott - Expressen
+- DN Direkt – Explosion vid port i Upplands Väsby - Dagens Nyheter
 - Austin, 21, dök upp hos Trump med hagelbössa - Expressen
-- Sätter press: Fixa det innan måndag - Expressen
-- Sju compliance trender att hålla ögonen på 2026 från Dun & Bradstreet - Via TT
-- CSN publicerar årsredovisningen för 2025 - CSN
-- Ryska säljaren: ”Tror du inte att svenskarna vet?” - SvD
-- Succéår för Estelleportföljen – rekord för utdelningar - DI
-- Hyperbilen som världsstjärnan blev livrädd för - Carup.se
-- Se ikoniska spel och filmer hyllas under vinter-OS – med ”Mortal Kombat” och fjärtar - MovieZine.se
+- Uppgifter: Ryska robotar på väg till Iran - Aftonbladet
+- Frankrike och USA i bråk efter högeraktivists död - Aftonbladet
+- Bitcoin rasar – 100 miljarder dollar utraderat - Affärsvärlden
+- Balansmarknaden har stabiliserat sig - Tidningen Energi
+- Pensionär – men fortfarande ingenjör i själ och hjärta - Ingenjören
+- Digital pärm från Agronod ska underlätta för bonden - Land Lantbruk
+- Bristfälliga drivrutiner blockeras i Windows 11 - PC för Alla
+- Techjätten tredubblar jobben för Gen Z mitt i AI-hysterin - Realtid
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2026-02-23 08:41_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
@@ -54,8 +54,10 @@ _Updated: 2026-02-23 08:41_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -68,8 +70,6 @@ _Updated: 2026-02-23 08:41_
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -84,10 +84,9 @@ _Updated: 2026-02-23 08:41_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -121,21 +120,21 @@ _Updated: 2026-02-23 08:41_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
