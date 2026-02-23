@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 01:08_
+_Updated: 2026-02-24 01:54_
 
 ## Top Stories
 
-- Uppgifter: Trump överväger "större attack" mot Iran - GP
-- EU i konflikt om Ukraina – stödpaket fastnar efter krav från Ungern och Slovakien - SVT Nyheter
+- Trump förnekar splittring kring Irananfall - GP
+- Extrem lavinfara i Österrike – svensk bland dödsoffren - SVT Nyheter
+- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
+- Liudmyla, 77, utvisas till krigets Ukraina: ”Tungt” - SvD
 - KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Snöstorm hotar 35 miljoner – värsta ovädret på tio år - GP
-- Nilsson hos Kronofogden – SD har ännu inte betalat - Omni
-- DN Direkt – Svensk död efter lavin i Österrike - Dagens Nyheter
-- Beslut om säljakt – så många får skjutas i länet - Västerbottens-Kuriren
-- Han blir regionens nya hälso- och sjukvårdsdirektör - Tidningen Ångermanland
+- Så många sälar får fällas under licensjakten - Dagens Kalmar
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Välkommet domslut från USA:s högsta domstol - Aktiellt
+- Hårdare krav för bidrag till invandrare – Senaste nytt om valet 2026 - SVT Nyheter
+- LVU-härvan i Älvsbyn: Därför slipper pappan åtal om misshandel mot barn - SVT Nyheter
 - Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
-- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
+- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
 - Får rätt mot kommunen efter fyra års strid: ”Det var inte värt det” - Dagens Nyheter
-- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
 - På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
 - God of war - Sons of Sparta - FZ.se
 - Androids Calling Cards kan snart nå Wear OS - mobil.se
 - Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
 - Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
+- Stilen ursäktade destruktiviteten - SvD
+- RECENSION: Nätdejting som ger resultat. Men lyckligt eller olyckligt slut? - Norra Skåne
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -39,13 +40,12 @@ _Updated: 2026-02-24 01:08_
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Ex-prins Andrew gripen - Kvartal
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -69,7 +69,7 @@ _Updated: 2026-02-24 01:08_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -80,8 +80,8 @@ _Updated: 2026-02-24 01:08_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
@@ -128,12 +128,12 @@ _Updated: 2026-02-24 01:08_
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
