@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 12:28_
+_Updated: 2026-02-23 13:12_
 
 ## Top Stories
 
-- DN Direkt – Små marknadsreaktioner på tullutspel - Dagens Nyheter
-- Uppgift: Ukraina behöver 250 000 nya soldater - SvD
 - Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
-- DN Direkt – Flera döda i busskrasch i Nepal - Dagens Nyheter
-- 6 skadade på nakenfestival i Japan - Expressen
-- Par döms till fängelse för kändisbedrägerier - Västerbottens-Kuriren
+- Uppgift: Ukraina behöver 250 000 nya soldater - SvD
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- INSÄNDARE: Skandal – äldres ansvar att anmäla? - Jönköpings-Posten
 - 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
+- DN Direkt – Uppgifter: Trump överväger större anfall om Iran-avtal uteblir - Dagens Nyheter
 - Nya migrationssmällen: Tech-entreprenörer ratar Sverige - Aftonbladet
+- Olika vård för samma sjukdom – nu får Mia det stöd hon saknat - Dagens Nyheter
+- Fem anställda fick personlarm efter hoten på äldreboendet - Dagens Nyheter
+- INSÄNDARE: Skandal – äldres ansvar att anmäla? - Jönköpings-Posten
+- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
 - Stubb: ”Ukraina håller på att vinna kriget” - Dagens Nyheter
-- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
+- ICC inleder förhandlingar mot Duterte - Västerbottens-Kuriren
 - Austin, 21, dök upp hos Trump med hagelbössa - Expressen
-- Här finns sommarjobben – ”sök i god tid” - Dagens Nyheter
-- Bitcoin rasar – 100 miljarder dollar utraderat - Affärsvärlden
-- Lista: Bilarna med sämst sikt enligt förarna - Dagens PS
+- Kryptofrossa: Bitcoin faller på Trumps nya tullhot - Dagens PS
 - Svarta rekordet: Snart en halv miljard hackade konton - Dagens PS
+- Lista: Bilarna med sämst sikt enligt förarna - Dagens PS
+- Nytt batterigenombrott: Plast i stället för metall - Dagens PS
 - ”Hey Plex!” – Samsung bygger in Perplexity i Galaxy AI - Ny Teknik
 - Test: Oppos nya mobil har rekordbatteri – men priset svider - m3.se
 - Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
@@ -39,13 +39,13 @@ _Updated: 2026-02-23 12:28_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Ex-prins Andrew gripen - Kvartal
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
