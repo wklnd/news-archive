@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 00:24_
+_Updated: 2026-02-24 01:20_
 
+- Blizzard live updates: More than 40 million people under warnings as winter storm dumps over 2 feet of snow across Northeast - Yahoo
 - Dow tumbles 800 points on growing fears about AI disruption, tariff drag: Live updates - CNBC
-- Trump's top general warns of Iran strike risks - Axios
-- Winter Storm Updates: Heavy Snow, Blizzard Warnings in NYC, NJ and Boston - The New York Times
+- Judge Cannon orders secrecy for report on Trump classified-documents case - The Washington Post
+- ICE whistleblower warns new recruits are receiving "defective" training - CBS News
+- A new lawsuit alleges DHS illegally tracked and intimidated observers - NPR
 - Chicago Just Named A Snowplow ‘Abolish ICE’— Here Are The Other Winners - Block Club Chicago
-- 1 Week into Democrats’ Shutdown, DHS Implements Emergency Measures to Conserve Resources and Manpower Impacting Travelers and FEMA Responses to Non-Disaster Areas - Homeland Security (.gov)
-- Snowstorm socks some, spares others in D.C. area. Here’s what happened. - The Washington Post
-- Witness Who Disputed ICE Account of Ruben Ray Martinez Shooting Dies in Car Accident - The New York Times
-- Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime - The New York Times
-- Trump’s approval rating with independents hits a new low ahead of the State of the Union - CNN
-- Nicki Minaj’s social media propped up by thousands of bots, analysis finds - Politico
+- ‘Death to the dictator’: Iranian students hold protests for third day - The Guardian
+- Town-by-town snow totals: Here’s what’s fallen so far in Mass. - Boston.com
+- Why some Democratic congresswomen will wear white to Trump's State of the Union - CBS News
+- Key Witness Who Disputed ICE Account of Fatal Texas Shooting Dies in Car Accident - The New York Times
 - 4 years into Russia’s full-scale invasion of Ukraine, a look at the war by the numbers - AP News
 - Reform to announce ‘visa freeze’ for some countries if deportees not accepted - ITVX
-- Duterte at ‘very heart’ of murderous drug crackdowns in Philippines, ICC told - The Guardian
-- Gulf countries back Kuwait’s sovereignty after Iraq draws new boundaries - Al Jazeera
+- The Dutch have a new government. Now the hunger games begin. - politico.eu
+- Before Mass Shooting, OpenAI Flagged Teen's Activity - Newser
+- Ex-techno DJ jailed for global aircraft engine fraud - Financial Times
+- Stock Market Today: Dow, Dollar Fall on Tariff Uncertainty — Live Updates - WSJ
+- Exclusive: Volvo Cars to recall 40,000 electric SUVs over battery fire risk - Reuters
 - Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen - CNBC
-- Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities - The New York Times
-- AbbVie to Invest $380 Million in North Chicago to Further Expand Active Pharmaceutical Ingredient Manufacturing in the United States - AbbVie News Center
-- AST SpaceMobile Awarded $30 Million Prime Contract by U.S. Space Development Agency for HALO Europa Program - Business Wire
-- New Microsoft gaming chief has "no tolerance for bad AI" - Ars Technica
 - Nothing couldn’t wait to show off the Phone 4A - The Verge
+- Android's Weather 'app' is going away, and what's left behind is disappointing - Android Authority
