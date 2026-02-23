@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 13:59_
+_Updated: 2026-02-23 15:47_
 
 ## Top Stories
 
-- DN Direkt – Flera döda i busskrasch i Nepal - Dagens Nyheter
-- Uppgift: Ukraina behöver 250 000 nya soldater - SvD
-- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Källor: Island folkomröstar om EU i augusti - GP
-- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- DN Direkt – TV4 tar GW i försvar - Dagens Nyheter
+- Tredje delen av bidragsreformen – kvalificering till socialförsäkringen - Regeringen.se
 - Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
+- Hästföretagare i rätten – misstänks ha drogat och våldtagit män på gården - Sydsvenskan
+- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
+- Anne-Sofie, 20, och Freja, 21, dog av giftig sprit på Laos - Expressen
+- Nej till subvention för fetmaläkemedel - Aftonbladet
 - Olika vård för samma sjukdom – nu får Mia det stöd hon saknat - Dagens Nyheter
-- Fem anställda fick personlarm efter hoten på äldreboendet - Dagens Nyheter
-- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
-- INSÄNDARE: Skandal – äldres ansvar att anmäla? - Jönköpings-Posten
+- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- Kommunfullmäktige sammanträder - Katrineholms kommun
 - Stubb: ”Ukraina håller på att vinna kriget” - Dagens Nyheter
-- Witkoff: Iran kan ha bombkapacitet om en vecka - Aftonbladet
-- Helgonreliker visas upp för första gången - Aftonbladet
-- Snöstorm stoppar kongressen i USA - GP
-- Bitcoin rasar – 100 miljarder dollar utraderat - Affärsvärlden
-- Uppgifter om 1,2 miljoner franska bankkunder stulna i cyberattack - Computer Sweden
-- Lista: Bilarna med sämst sikt enligt förarna - Dagens PS
-- Nya migrationssmällen: Tech-entreprenörer ratar Sverige - Aftonbladet
+- Tyska spioner får mer makt – tilltron till USA viker - GP
+- Dödsskjutningen i Mar-a-Lago: Misstänkt körde 100 mil hem till Trump - Dagens Nyheter
+- ICC inleder förhandlingar mot Duterte - Västerbottens-Kuriren
+- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
+- ​​Wall Street-profilen: Det här måste du prata om på första dejten - Dagens PS
+- Två flaggor i Oncopeptides nyemission - Affärsvärlden
+- Affärsvärlden ger ett neutralt råd för Ework - Affärsvärlden
 - ”Hey Plex!” – Samsung bygger in Perplexity i Galaxy AI - Ny Teknik
-- Chattbotens svar sämre ju längre samtalet pågår - Omni
+- Microsoft: Copilot är den viktigaste appen i Windows - PC för Alla
 
 ## World News
 
@@ -41,11 +41,11 @@ _Updated: 2026-02-23 13:59_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -56,8 +56,8 @@ _Updated: 2026-02-23 13:59_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -96,22 +96,22 @@ _Updated: 2026-02-23 13:59_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa och teknik - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -120,21 +120,21 @@ _Updated: 2026-02-23 13:59_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 
 ## Jordbruk
 
@@ -156,5 +156,5 @@ _Updated: 2026-02-23 13:59_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
