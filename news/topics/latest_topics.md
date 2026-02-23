@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 21:38_
+_Updated: 2026-02-23 23:10_
 
 ## Top Stories
 
-- Volvo återkallar 40 300 elbilar för brandrisk - Expressen
+- EU i konflikt om Ukraina – stödpaket fastnar efter krav från Ungern och Slovakien - SVT Nyheter
+- Bröllopsbilder kan fälla misstänkt kvinnomisshandlare i Malmö - Sydsvenskan
+- DN Direkt – Diplomatbråk efter dödsmisshandel av aktivist - Dagens Nyheter
+- Uppgifter: Trump överväger "större attack" mot Iran - GP
 - Traditionen förklarar Putins vansinne - SvD
-- DN Direkt – Israelisk minister hotar med Gazaockupation - Dagens Nyheter
-- Så blir licens- och skyddsjakten på säl - Jaktjournalen
-- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
-- Snöstorm stoppar kongressen i USA - Västerbottens-Kuriren
-- Anställd ströps medvetslös på LSS-boende – man åtalas för mordförsök - SVT Nyheter
-- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- Misstänkt mord i Eskilstuna – man sköts på restaurang - SVT Nyheter
+- Beslut om säljakt – så många får skjutas i länet - Västerbottens-Kuriren
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Hårdare krav för bidrag till invandrare – Senaste nytt om valet 2026 - SVT Nyheter
+- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- Källor: ”Enorm” lösensumma vid kidnappning - Västerbottens-Kuriren
 - Svensk man avliden i Österrikiska snökaoset - Expressen
-- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
 - Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Helgonreliker visas upp för första gången - Aftonbladet
+- Stubb: ”Ukraina håller på att vinna kriget” - GP
+- Får rätt mot kommunen efter fyra års strid: ”Det var inte värt det” - Dagens Nyheter
 - Miljardtapp i Swedbanks populära indexfond - SvD
-- Vägar förstördes av skyfall – nu blir det nobben för bidrag - Aktuell Hållbarhet
+- Kärnkraftsreaktor ur drift efter oväntat fel - Omni
 - På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
 - ”Under en halvtimme löste AI:n det jag försökt under hela min karriär” - Dagens Nyheter
+- Androids Calling Cards kan snart nå Wear OS - mobil.se
 - Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
-- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Statement by Phumzile Mlambo-Ngcuka, UN Women Executive Director, on International Women’s Day 2021 - UN Women
+- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
+- Samsung bekräftar global händelse för att avslöja Galaxy S26-linjen och nya hörlurar med avancerad artificiell intelligens - Mix Vale
+- Stellantis ersätter PureTech-motorer med Firefly-familjen i en global effektivitets- och hållbarhetsstrategi - Mix Vale
+- Xiaomi bekräftar global lansering av 17 Ultra med fokus på professionell fotografering och robust batteri - Mix Vale
 
 ## Technology
 
@@ -106,8 +106,8 @@ _Updated: 2026-02-23 21:38_
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -142,7 +142,7 @@ _Updated: 2026-02-23 21:38_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -150,11 +150,11 @@ _Updated: 2026-02-23 21:38_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
