@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 13:12_
+_Updated: 2026-02-23 13:59_
 
 ## Top Stories
 
-- Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
+- DN Direkt – Flera döda i busskrasch i Nepal - Dagens Nyheter
 - Uppgift: Ukraina behöver 250 000 nya soldater - SvD
+- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
+- Källor: Island folkomröstar om EU i augusti - GP
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
-- DN Direkt – Uppgifter: Trump överväger större anfall om Iran-avtal uteblir - Dagens Nyheter
-- Nya migrationssmällen: Tech-entreprenörer ratar Sverige - Aftonbladet
+- Sigrid skrev ned varje gång hon blev bältad av psykiatrin - Aftonbladet
 - Olika vård för samma sjukdom – nu får Mia det stöd hon saknat - Dagens Nyheter
 - Fem anställda fick personlarm efter hoten på äldreboendet - Dagens Nyheter
+- 23 februari 07.51, Sammanfattning natt, Södermanlands län - polisen.se
 - INSÄNDARE: Skandal – äldres ansvar att anmäla? - Jönköpings-Posten
-- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
 - Stubb: ”Ukraina håller på att vinna kriget” - Dagens Nyheter
-- ICC inleder förhandlingar mot Duterte - Västerbottens-Kuriren
-- Austin, 21, dök upp hos Trump med hagelbössa - Expressen
-- Kryptofrossa: Bitcoin faller på Trumps nya tullhot - Dagens PS
-- Svarta rekordet: Snart en halv miljard hackade konton - Dagens PS
+- Witkoff: Iran kan ha bombkapacitet om en vecka - Aftonbladet
+- Helgonreliker visas upp för första gången - Aftonbladet
+- Snöstorm stoppar kongressen i USA - GP
+- Bitcoin rasar – 100 miljarder dollar utraderat - Affärsvärlden
+- Uppgifter om 1,2 miljoner franska bankkunder stulna i cyberattack - Computer Sweden
 - Lista: Bilarna med sämst sikt enligt förarna - Dagens PS
-- Nytt batterigenombrott: Plast i stället för metall - Dagens PS
+- Nya migrationssmällen: Tech-entreprenörer ratar Sverige - Aftonbladet
 - ”Hey Plex!” – Samsung bygger in Perplexity i Galaxy AI - Ny Teknik
-- Test: Oppos nya mobil har rekordbatteri – men priset svider - m3.se
-- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
+- Chattbotens svar sämre ju längre samtalet pågår - Omni
 
 ## World News
 
@@ -41,10 +41,10 @@ _Updated: 2026-02-23 13:12_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Ex-prins Andrew gripen - Kvartal
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
@@ -120,21 +120,21 @@ _Updated: 2026-02-23 13:12_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
