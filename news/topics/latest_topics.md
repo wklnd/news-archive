@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 07:14_
+_Updated: 2026-02-23 08:41_
 
 ## Top Stories
 
+- SEB misstänker sanktionsbrott – 60 miljoner till Sverige - Omni
+- ”Luktade bränt fläsk och trodde jag skulle svimma” - GP
+- Efter Trumps tullbesked – så vill EU slå tillbaka - GP
 - Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Ökänd kartelledare dödad – upplopp i Mexiko - GP
-- Stulna skolplattor från Malmö dyker upp över hela världen - Sydsvenskan
-- Misstänkt mordbrand på Kungsholmen – två till sjukhus - SVT Nyheter
-- Snöstorm hotar 35 miljoner – värsta ovädret på tio år - GP
-- BOKREA: Lerins reabok får folk att fatta telefonen: ”Det finns definitivt guldklimpar” - NWT
+- Kim Jong-Un återvald som generalsekreterare - GP
+- DN väljer: 15 favoriter på årets bokrea - Dagens Nyheter
 - Det här vet vi om bältrosvaccin och demens - Dagens Nyheter
+- ”Scar” och flera andra personer misstänkt för mord på rappare i Fruängen 2023 - Aftonbladet
 - Strömmer: Vill ta hjälp av AI för att identifiera pedofiloffer – Senaste nytt om valet 2026 - SVT Nyheter
-- Dramatisk ökning av fattiga svenskar - Västerbottens-Kuriren
-- Kyrkan får inte ersätta tron på Jesus med sekundära frågor - Dagen
+- Företag med diktaturkoppling hanterar patientjournaler i Sörmland - SN, Södermanlands Nyheter
+- Kina tvingas tänka om efter ryskt misslyckande - SvD
+- Kaos på filmgala – ursäkten: ”Tourettes” - Aftonbladet
 - Austin, 21, dök upp hos Trump med hagelbössa - Expressen
-- Helgonreliker visas upp för första gången - Aftonbladet
 - Sätter press: Fixa det innan måndag - Expressen
-- Läckta uppgifter – Iran och Ryssland ingår hemligt avtal - Expressen
+- Sju compliance trender att hålla ögonen på 2026 från Dun & Bradstreet - Via TT
 - CSN publicerar årsredovisningen för 2025 - CSN
-- Pricer visar nya plattformen Pricer Avenue™ på EuroShop 2026 - Cision News
-- Ny studie: Så mycket kan dubbelriktad laddning spara - Dagens Nyheter
-- Många fritidshus säljs under utgångspris - Västerbottens-Kuriren
+- Ryska säljaren: ”Tror du inte att svenskarna vet?” - SvD
+- Succéår för Estelleportföljen – rekord för utdelningar - DI
 - Hyperbilen som världsstjärnan blev livrädd för - Carup.se
 - Se ikoniska spel och filmer hyllas under vinter-OS – med ”Mortal Kombat” och fjärtar - MovieZine.se
 
 ## World News
 
 - Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
-- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
@@ -56,7 +56,6 @@ _Updated: 2026-02-23 07:14_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-02-23 07:14_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -99,16 +99,16 @@ _Updated: 2026-02-23 07:14_
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -143,6 +143,7 @@ _Updated: 2026-02-23 07:14_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
@@ -153,9 +154,8 @@ _Updated: 2026-02-23 07:14_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
