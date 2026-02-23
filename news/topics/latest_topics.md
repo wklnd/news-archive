@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-23 17:24_
+_Updated: 2026-02-23 18:28_
 
 ## Top Stories
 
-- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
-- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
-- Anne-Sofie och Freja dog av giftig sprit - Expressen
-- Anna-Lena Laurén: I fyra år har Ukraina blött på grund av onödiga misstag och dumma beslut - Dagens Nyheter
-- DN Direkt – Läkare misstänks ha lurat Region Stockholm på miljoner - Dagens Nyheter
+- DNA fastnade på bensindunk – nu anklagas 30-åring för mordbränder - Sydsvenskan
+- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
+- USA kallar hem diplomater - Västerbottens-Kuriren
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
-- Slaget mot Novo Nordisk – får inte ingå i högkostnadsskyddet - Omni Ekonomi
-- Vikarie kränktes med apljud och n-ordet - Aftonbladet
+- Barndomsvännerna går från konkurrenter till partners - Smålandsposten
+- Kommunfullmäktige sammanträder - Katrineholms kommun
+- Beslutet: Wegovy blir inte subventionerat - SvD
+- Lagrådet sågar förslag om medborgarskap - GP
+- S ger privata sjukförsäkringar till höga chefer - Dagens Nyheter
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Våld i skolan får politiker att rasa: ”Anmärkningsvärt” - Ljusnan
-- Ukrainas uppbyggnad kräver 588 miljarder dollar - Västerbottens-Kuriren
-- Uppgifter: Trump överväger "större attack" mot Iran - GP
+- DN Direkt – Kim Jong-Un återvald som generalsekreterare - Dagens Nyheter
+- Källor: ”Enorm” lösensumma vid kidnappning - Västerbottens-Kuriren
+- Stubb: ”Ukraina håller på att vinna kriget” - GP
+- DN Direkt – Amerikanska styrkor drar sig tillbaka från Syrien - Dagens Nyheter
+- Nu kommer Spotifys AI-baserade spellisteverktyg även till Sverige - Expressen
 - Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
-- Perfect Weekends läsare rasar mot en detalj på hotellrummet - Dagens PS
-- ​​Wall Street-profilen: Det här måste du prata om på första dejten - Dagens PS
-- Super-Ferrari för 45 miljoner – norrman köpte - Dagens PS
-- LBSB och Tjuvjakt till Brännbollsyran - Aftonbladet
-- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
-- Microsoft: Copilot är den viktigaste appen i Windows - PC för Alla
-- Hård kritik mot inbyggd ”vpn” i Edge - PC för Alla
+- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
+- Miljardtapp i Swedbanks populära indexfond - SvD
+- Lyfter seglingsnavigering till en ny standard för lyx - Båtliv
+- Microsoft testar AI-delning via Aktivitetsfältet i Windows 11 - PC för Alla
 
 ## World News
 
 - Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 - Ex-prins Andrew gripen - Kvartal
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -56,7 +56,6 @@ _Updated: 2026-02-23 17:24_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -66,10 +65,11 @@ _Updated: 2026-02-23 17:24_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -120,15 +120,15 @@ _Updated: 2026-02-23 17:24_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -153,8 +153,8 @@ _Updated: 2026-02-23 17:24_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
