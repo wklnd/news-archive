@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-23 18:34_
+_Updated: 2026-02-23 19:45_
 
-- Dow drops 600 points as confusion grows after Trump hikes global U.S. tariffs: Live updates - CNBC
+- Dow slides 800 points as sell-off ramps up following Trump's global tariff hike: Live updates - CNBC
 - The owners want to close this Colorado coal plant. The Trump administration says no - NPR
-- US judge permanently blocks release of report on Trump documents case - Reuters
-- Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C. - The New York Times
+- Philadelphia snow updates: Snowfall totals; latest forecast; travel impact and more - WHYY
 - Scoop: Hegseth to meet Anthropic CEO as Pentagon threatens banishment - Axios
 - Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960 - The New York Times
 - Dem AGs plot to thwart Trump election interference - Politico
+- N.J. weather: Latest town-by-town snow totals from blizzard reach 24 inches in some areas - NJ.com
 - New education loan limits favor RFK Jr.’s enemies - Politico
-- Two more skiers die in the Lake Tahoe area - Los Angeles Times
-- Level 3 Driving Ban for Kent and Sussex Counties, Level 2 Driving Restrictions for New Castle County Starting at 10 pm - State of Delaware News (.gov)
+- Trump’s approval rating with independents hits a new low ahead of the State of the Union - CNN
 - 4 years into Russia’s full-scale invasion of Ukraine, a look at the war by the numbers - AP News
-- Rob Jetten sworn in as youngest-ever Dutch prime minister - DW.com
+- US says ambassador’s comments on Israel and the Middle East were taken out of context - Politico
 - A viral monkey, his plushie, and a 70-year-old experiment: what Punch tells us about attachment theory - The Conversation
 - India’s AI ambitions hit limits at global summit - Financial Times
-- Eli Lilly launches new form of obesity drug Zepbound with a month’s worth of doses in one pen - CNBC
+- Speech by Governor Waller on the economic outlook - Federal Reserve Board (.gov)
 - India's IDFC First Bank tanks 20% on suspected $65 mln fraud - Reuters
-- Netflix boss says $83bn Warner Bros takeover will benefit industry - The Guardian
-- Gilead to acquire cancer therapy developer Arcellx for up to $7.8 billion - CNBC
+- The Cheapest "Magnificent Seven" Stock Is a Screaming Buy Right Now - The Motley Fool
+- There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%. - MarketWatch
 - Nothing couldn’t wait to show off the Phone 4A - The Verge
-- Exclusive: Galaxy Buds 4 Pro Get Camera Remote, Head Gestures, and more! - SammyGuru
+- Say Goodbye to the Undersea Cable That Made the Global Internet Possible - WIRED
+- MOFT’s long-awaited MagSafe kickstand wallet with Find My support is now available - 9to5Mac
