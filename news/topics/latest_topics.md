@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 17:31_
+_Updated: 2026-02-24 18:36_
 
 ## Top Stories
 
-- Just nu: En person till sjukhus efter brand - Västerbottens-Kuriren
-- DN Direkt – Ia Genberg nominerad till Bookerpriset - Dagens Nyheter
+- Misstanken: Sonen tvingades filma när pappan hade sex - SVT Nyheter
+- Misstanken: Vårdpengar gick till lyxbilar, klockor och 20-miljonersvilla - GP
+- JUST NU: Kraftig villabrand utanför Fåglum – går inte att rädda - NLT
 - Invånare krävde svar om solcellspark – politisk vilde ifrågasatte kommunen - Smålandsposten
 - ”Plågade avelsdjur är inget föredöme” - SvD
-- Alex Voronov Katten Kot ger värme vid ukrainska fronten - GP
-- Två döms efter mord i Eskilstuna – man sköts till döds vid busshållplats - SVT Nyheter
-- Siktade med hagelgevär mot raggarbil på Södermalm – döms - Dagens Nyheter
+- Mord vid en busshållplats i Årby i Eskilstuna - Sveriges Domstolar
+- Riktade hagelgevär mot raggare – döms till fängelse - Mitt i
 - Timbros chefsekonom om utvisningarna: ”Kan inte längre kalla mig höger” - Dagens Nyheter
-- Tillsammans stärker vi det civila försvaret - Länsstyrelsen
-- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
+- En reform för att sänka löner och dumpa villkor - Arbetet
+- Örnsköldsviks sjukhus går upp i förstärkningsläge - SVT Nyheter
 - Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
-- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
 - Tonläget trissas upp mot Ungern: Skamfläck för Europa - Dagens Nyheter
-- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
+- Traditionen förklarar Putins vansinne - SvD
+- Har du bil? Den här missen kan kosta dig hundralappar - Dagens PS
 - Företag sabbar sina bästa idéer – här är den verkliga boven - Dagens PS
 - Prestigeprojektet sprack: Fiaskot tvingar fram ny rutt - Dagens PS
-- Experter slår larm: Bilen har blivit ett cyberhot - Dagens PS
-- Han nådde drömmen om tidig pension – och ångrade sig - Dagens PS
+- Prestigeprojekt för klimatet läggs på is - SvD
+- Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
 - Hade över 10 000 bilder barnporr - Tidningen Ångermanland
-- MAQS biträdde Svensk Elitfotboll vid avtal med ny biljettleverantör - Cision
 
 ## World News
 
@@ -66,8 +66,8 @@ _Updated: 2026-02-24 17:31_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
@@ -77,8 +77,8 @@ _Updated: 2026-02-24 17:31_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,24 +93,24 @@ _Updated: 2026-02-24 17:31_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -138,23 +138,17 @@ _Updated: 2026-02-24 17:31_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Organic Food Lifetime Achievment Award till Ekomatcentrum - NewsMachine AB
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mjau lanserar nyhet för seniora katter - Mynewsdesk
+- Smakfulla klappar till hunden och katten - Mynewsdesk
+- Magnus Sjösten ny vd på Doggy AB - Mynewsdesk
