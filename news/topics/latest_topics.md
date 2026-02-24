@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 14:02_
+_Updated: 2026-02-24 15:49_
 
 ## Top Stories
 
 - DN Direkt – Nu träder Donald Trumps nya globala tullar i kraft - Dagens Nyheter
-- Nio bilar och tre lastbilar i krock utanför Gävle - SVT Nyheter
-- Förlängd åtalstid i Rönningefallet - SVT Nyheter
-- Misstanken: Vårdpengar gick till lyxbilar, klockor och 20-miljonersvilla - GP
+- Lina Lund: von der Leyen kom med blommor i stället för miljarder - Dagens Nyheter
+- Militärpolis på Malmös gator - Polisen.se
 - Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
-- Vittnar mot Høiby: ”Slog mig i käken” - GP
-- Afrikanskt blodregn kan nå Göteborg och Västsverige - GP
-- Man allvarligt skadad efter knivhugg i Malmö - SVT Nyheter
-- 24 februari 07.45, Sammanfattning natt, Jämtlands län - Polisen.se
-- DEBATT: Replik: Tillsammans för en hållbar och trygg vård i länet - Sundsvalls Tidning
-- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
-- Trump förnekar splittring kring Irananfall - GP
+- 650 000 strömlösa i stormen på USA:s östkust - Dagens Nyheter
+- ”Många reagerar på kriget med att köpa sex” - SvD
+- Tillsammans stärker vi det civila försvaret - Länsstyrelsen
+- Timbros chefsekonom om utvisningarna: ”Kan inte längre kalla mig höger” - Dagens Nyheter
+- Stockholm fortfarande inte en miljonstad – fattas 761 personer - Dagens Nyheter
+- Förlängd åtalstid i Rönningefallet - SVT Nyheter
+- Fem skadade i Ukraina efter nattens ryska drönarattacker - Yle
+- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
 - ”Fullt kaos i Mexiko efter kartelledarens död” - SVT Nyheter
-- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Direkt – Kriget i Ukraina – Flera skadade i ryska attacker - Dagens Nyheter
+- DN Direkt – Skellefteås befolkningstapp – störst i landet under 2000-talet - Dagens Nyheter
 - Bank-vd:n: ”Dumma pengar” kan utlösa ny krasch - Dagens PS
 - Larmet infrån Binance: Skickade krypto till Iran - Dagens PS
-- Stora brister i utfärdande av arbetstillstånd - Aftonbladet
-- Vinnarna när Europa bygger eget Starlink - Privata Affärer
-- Samsung Galaxy S26 väntas få 2 smarta kamerauppgraderingar – men OnePlus 16 kan överträffa den med en ny telefotosensor i toppklass - TechRadar
-- Bugg gör att muspekaren försvinner i klassiska Outlook - PC för Alla
+- CTEK: Laddat för bättring - Affärsvärlden
+- Bilen byter namn – tar bort eldrift - Carup.se
+- Det kan snart bli enklare att skilja på anteckningsböcker i Notebook LM - PC för Alla
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
@@ -94,24 +94,24 @@ _Updated: 2026-02-24 14:02_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -125,13 +125,13 @@ _Updated: 2026-02-24 14:02_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
@@ -141,20 +141,20 @@ _Updated: 2026-02-24 14:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
