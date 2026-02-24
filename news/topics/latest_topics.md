@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 23:03_
+_Updated: 2026-02-24 23:59_
 
 ## Top Stories
 
-- Norges kung inlagd på sjukhus - GP
-- Nattens tal unikt tillfälle för Trump: ”Mycket på spel” - Dagens Nyheter
+- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- DN Direkt – Iran inför samtalen med USA: Historisk möjlighet - Dagens Nyheter
+- Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
 - EU-ledare i Kiev – utan löften om nya stödpengar - GP
 - Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
-- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
-- Arbetsmiljöverket gör inspektion på Sahlgrenska – under krisen i psykiatrin - GP
-- Nio bilar och tre lastbilar i krock på E4 – en allvarligt skadad - SVT Nyheter
+- Trump pressad inför talet: ”Mycket står på spel” - Dagens Nyheter
 - Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
-- Omstridda Linköpingsföretaget stoppas av Ivo – tänker överklaga - Corren
-- Örnsköldsviks sjukhus upp i förstärkningsläge efter ökat inflöde av patienter - Region Västernorrland
-- Epsteinkopplade Jagland inlagd på sjukhus - GP
-- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- REARUSCH: Lunchrusning till bokrean: ”Star Wars till barnen och Nobelpristagare till mig” - NWT
+- 23 februari 17.00, Mord/dråp, Eskilstuna - polisen.se
+- Hårda kraven på häktet: ”Han verkar inte förstå” - Expressen
+- DN Direkt – Epsteinkopplade Thorbjørn Jagland inlagd på sjukhus - Dagens Nyheter
 - Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
-- Traditionen förklarar Putins vansinne - SvD
+- Andreas firar sin 40-årsdag i snökaoset i New York - Aftonbladet
+- Svensk man död i lavin i Österrike - Aftonbladet
 - Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
+- CTEK: Laddat för bättring - Affärsvärlden
 - Hedgefonder köper techaktier efter veckor av försäljning - EFN
-- Riksrevisionens larm: Många oseriösa företag får arbetstillstånd - DI
-- Prestigeprojekt för klimatet läggs på is - SvD
+- Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
-- Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
+- Wear OS‑klockor får mobilfria jordbävningsvarningar - mobil.se
 
 ## World News
 
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -40,13 +39,14 @@ _Updated: 2026-02-24 23:03_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
 
@@ -93,25 +93,25 @@ _Updated: 2026-02-24 23:03_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -120,16 +120,16 @@ _Updated: 2026-02-24 23:03_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -149,6 +149,7 @@ _Updated: 2026-02-24 23:03_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -157,4 +158,3 @@ _Updated: 2026-02-24 23:03_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
