@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 20:31_
+_Updated: 2026-02-24 21:31_
 
 ## Top Stories
 
-- Flera bilar i krock på E14 mellan Östersund och Krokom - SVT Nyheter
-- 650 000 strömlösa i stormen på USA:s östkust - Dagens Nyheter
-- Man allvarligt skadad i trafikolycka - Västerbottens-Kuriren
+- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
+- Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
 - Byggjätten hoppar av – Malmös billiga bostäder i fara - Sydsvenskan
-- Därför har bärgningen av Feskar Brittas kro försenats - GP
-- JUST NU: Kraftig villabrand utanför Fåglum – går inte att rädda - NLT
+- Sverigefinnarnas dag 24 februari - Länsstyrelsen
+- IVO förbjuder verksamheten hos Adhd-företaget - SVT Nyheter
+- Trump förnekar splittring kring Irananfall - Västerbottens-Kuriren
+- Nio bilar och tre lastbilar i krock på E4 – en allvarligt skadad - SVT Nyheter
+- Niklas Orrenius: SD skyddas av grundlagen när de angriper muslimer - Dagens Nyheter
 - KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Siktade med hagelgevär mot raggarbil på Södermalm – döms - Dagens Nyheter
 - Örnsköldsviks sjukhus upp i förstärkningsläge efter ökat inflöde av patienter - Region Västernorrland
-- Han går in som sjukvårdsdirektör i Västernorrland - Läkartidningen
-- Epsteinkopplade Jagland inlagd på sjukhus - GP
+- DN Direkt – Epsteinkopplade Thorbjørn Jagland inlagd på sjukhus - Dagens Nyheter
+- Presidentens ord om VM – efter kaoset i Mexiko - Västerbottens-Kuriren
+- Kreml tvekar – Ukraina sätter datum för nya fredssamtal - Dagens.se
 - Tonläget trissas upp mot Ungern: Skamfläck för Europa - Dagens Nyheter
-- Flickvännens hemliga möte utlöste kaoset - Aftonbladet
-- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
 - Hedgefonder köper techaktier efter veckor av försäljning - EFN
 - Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
+- Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
 - Prestigeprojekt för klimatet läggs på is - SvD
-- Riksrevisionens larm: Många oseriösa företag får arbetstillstånd - DI
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
 - Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
@@ -43,9 +43,9 @@ _Updated: 2026-02-24 20:31_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -116,10 +116,10 @@ _Updated: 2026-02-24 20:31_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -130,9 +130,9 @@ _Updated: 2026-02-24 20:31_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
