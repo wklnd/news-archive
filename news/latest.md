@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 07:11_
+_Updated: 2026-02-24 08:38_
 
-- Trump’s top general foresees acute risks in an attack on Iran - The Washington Post
+- Blizzard blankets Northeast with some snow totals reaching 3 feet - The Washington Post
+- Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
+- Snowfall breaks daily records in Pa., Del. and N.J. - WHYY
 - A new lawsuit alleges DHS illegally tracked and intimidated observers - NPR
-- Speaker Johnson tells House Republican to address affair allegations but says he shouldn’t resign - CNN
-- The snowstorm of ’26 was a record-breaker. Here are the totals around Boston. - WGBH
 - Kent and Sussex County Downgraded to Level 2 Driving Restriction, New Castle County Remains at Level 1 Driving Warning - State of Delaware News (.gov)
-- Dan Patrick seeks to block Camp Mystic’s summer reopening pending inquiry into July 4 flood deaths - The Texas Tribune
-- Students in Iran hold anti-government protests as US forces gather for possible strikes - AP News
+- Texas Lt. Governor Says Camp Mystic Shouldn’t Receive License to Reopen - The New York Times
 - Family of Anna Kepner says stepbrother charged with homicide in her death on cruise ship, court document shows - CBS News
+- China Puts Export Curb on Japan Firms Including Mitsubishi Heavy - Bloomberg
+- Ex-Philippine president Duterte on trial for crimes against humanity: What you need to know - BBC
+- As Andrew fell, Queen Elizabeth II held out hope, and Charles and William fumed - The Washington Post
 - Trump team on damage control after Huckabee comments on Israel - Politico
-- Duterte at ‘very heart’ of murderous drug crackdowns in Philippines, ICC told - The Guardian
-- Rob Jetten sworn in as youngest-ever Dutch prime minister - DW.com
-- Chad closes border with Sudan after clashes kill five soldiers - Reuters
-- Ex-techno DJ jailed for global aircraft engine fraud - Financial Times
-- How Domino's is trying to double its business during a rough patch for big pizza rivals - CNBC
-- Winning Powerball Ticket Sold In Escondido - Patch
+- Saks Owner Says He Saved Department Stores. Never Mind the Bankruptcy. - The New York Times
 - 2 Mass. lottery players win 1st prizes in new ‘Millionaire for Life’ game - MassLive.com
+- The FDA creates a quicker path for gene therapies - NPR
+- How Domino's is trying to double its business during a rough patch for big pizza rivals - CNBC
+- A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch
 - Nothing reveals the Phone 4a ahead of schedule - Engadget
-- Pretty Large Jazz Combo - The New York Times
-- How Can Infinity Come in Many Sizes? - Quanta Magazine
-- Samsung is adding Perplexity to Galaxy AI - The Verge
+- Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET
+- Apple’s new ‘Sales Coach’ app is now live on the App Store, replacing ‘SEED’ - 9to5Mac
+- Actor Robert Carradine Dies At Age 71 - Deadline
