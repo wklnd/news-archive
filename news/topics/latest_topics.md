@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 11:28_
+_Updated: 2026-02-24 12:25_
 
 ## Top Stories
 
-- Blir det fred i Ukraina i år? Experterna svarar - GP
+- DN Direkt – Nu träder Donald Trumps nya globala tullar i kraft - Dagens Nyheter
+- Misstanken: Vårdbolag utnyttjades för att finansiera lyxliv - GP
+- Ung flicka försvunnen – polisinsats pågår i sökandet - SVT Nyheter
 - Drönare och granater tillverkas i hans källare – för att avgöra kriget i Ukraina - GP
-- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
-- Tomhänta EU-ledare till Kiev på årsdag - SvD
-- 24 februari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- Trump förnekar splittring kring Irananfall - GP
+- DN Direkt – Costas brev till Orbán: Visa respekt - Dagens Nyheter
+- Hård kritik mot Migrationsverket – missar fusk med arbetstillstånd - Arbetet
 - Brottsligt att beställa mord – även utan svar - Västerbottens-Kuriren
-- Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
-- DEBATT: Replik: Tillsammans för en hållbar och trygg vård i länet - Sundsvalls Tidning
-- Dousa om GW: ”Det får stå för honom” – Senaste nytt om valet 2026 - SVT Nyheter
-- Sandra Stiskalo: Det luktar landsförräderi när prinsars huvuden rullar - Dagens Nyheter
+- Man allvarligt skadad efter knivhugg i Malmö - SVT Nyheter
+- Fyra minderåriga gripna efter dödskjutningen i Eskilstuna - Dagens Nyheter
+- Fyra år i krig: stödet till Ukraina förblir regeringens främsta utrikespolitiska uppgift - Regeringen.se
+- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
 - Peter Pomerantsev: Europa måste utmana Putins och Trumps lögner om Ukraina - Dagens Nyheter
 - Svensk man avliden i Österrikiska snökaoset - Expressen
-- Attentat i Moskva – polis död - Expressen
+- Dumpen-Sara hos Kronofogden – efter löftet från SD - Aftonbladet
 - Bank-vd:n: ”Dumma pengar” kan utlösa ny krasch - Dagens PS
+- Hissbranschen vinnare på åldrande befolkning - Aftonbladet
 - Torssell: Negativa divergenser i USA - carnegie.se
-- Svensk Försäkring: Kostnaderna ökar med nya onödiga EU-regler - Sak & Liv
-- Alzinovas företrädesemission tecknades till 80 procent - Placera.se
+- Remiss av SOU 2026:1 Skatteincitament för forskning och utveckling – Ett nytt incitament baserat på utgifter för FoU-personal och kompletteringar till betänkandet - Regeringen.se
+- Nya Xbox-chefen vill inte se ”själlös AI-sörja” - Omni
 - 30-åring startar ny keramikverkstad i Norrköping - NT
-- Spotifys nya AI-funktion – prompta din egen lista - SvD
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-02-24 11:28_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
 
 ## Technology
 
@@ -75,6 +75,7 @@ _Updated: 2026-02-24 11:28_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -118,7 +119,7 @@ _Updated: 2026-02-24 11:28_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -140,20 +141,20 @@ _Updated: 2026-02-24 11:28_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
-- 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
