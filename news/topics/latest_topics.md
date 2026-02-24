@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 18:36_
+_Updated: 2026-02-24 20:31_
 
 ## Top Stories
 
-- Misstanken: Sonen tvingades filma när pappan hade sex - SVT Nyheter
-- Misstanken: Vårdpengar gick till lyxbilar, klockor och 20-miljonersvilla - GP
+- Flera bilar i krock på E14 mellan Östersund och Krokom - SVT Nyheter
+- 650 000 strömlösa i stormen på USA:s östkust - Dagens Nyheter
+- Man allvarligt skadad i trafikolycka - Västerbottens-Kuriren
+- Byggjätten hoppar av – Malmös billiga bostäder i fara - Sydsvenskan
+- Därför har bärgningen av Feskar Brittas kro försenats - GP
 - JUST NU: Kraftig villabrand utanför Fåglum – går inte att rädda - NLT
-- Invånare krävde svar om solcellspark – politisk vilde ifrågasatte kommunen - Smålandsposten
-- ”Plågade avelsdjur är inget föredöme” - SvD
-- Mord vid en busshållplats i Årby i Eskilstuna - Sveriges Domstolar
-- Riktade hagelgevär mot raggare – döms till fängelse - Mitt i
-- Timbros chefsekonom om utvisningarna: ”Kan inte längre kalla mig höger” - Dagens Nyheter
-- En reform för att sänka löner och dumpa villkor - Arbetet
-- Örnsköldsviks sjukhus går upp i förstärkningsläge - SVT Nyheter
-- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
+- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
+- Siktade med hagelgevär mot raggarbil på Södermalm – döms - Dagens Nyheter
+- Örnsköldsviks sjukhus upp i förstärkningsläge efter ökat inflöde av patienter - Region Västernorrland
+- Han går in som sjukvårdsdirektör i Västernorrland - Läkartidningen
+- Epsteinkopplade Jagland inlagd på sjukhus - GP
 - Tonläget trissas upp mot Ungern: Skamfläck för Europa - Dagens Nyheter
-- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
-- Traditionen förklarar Putins vansinne - SvD
-- Har du bil? Den här missen kan kosta dig hundralappar - Dagens PS
-- Företag sabbar sina bästa idéer – här är den verkliga boven - Dagens PS
-- Prestigeprojektet sprack: Fiaskot tvingar fram ny rutt - Dagens PS
+- Flickvännens hemliga möte utlöste kaoset - Aftonbladet
+- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
+- Hedgefonder köper techaktier efter veckor av försäljning - EFN
+- Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
 - Prestigeprojekt för klimatet läggs på is - SvD
+- Riksrevisionens larm: Många oseriösa företag får arbetstillstånd - DI
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
-- Hade över 10 000 bilder barnporr - Tidningen Ångermanland
+- Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 
 ## World News
 
@@ -77,8 +77,8 @@ _Updated: 2026-02-24 18:36_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -93,25 +93,25 @@ _Updated: 2026-02-24 18:36_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -119,36 +119,42 @@ _Updated: 2026-02-24 18:36_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Organic Food Lifetime Achievment Award till Ekomatcentrum - NewsMachine AB
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mjau lanserar nyhet för seniora katter - Mynewsdesk
-- Smakfulla klappar till hunden och katten - Mynewsdesk
-- Magnus Sjösten ny vd på Doggy AB - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
