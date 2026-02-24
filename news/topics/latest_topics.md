@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 13:12_
+_Updated: 2026-02-24 14:02_
 
 ## Top Stories
 
 - DN Direkt – Nu träder Donald Trumps nya globala tullar i kraft - Dagens Nyheter
-- Just nu: Trafikolycka på E4 - NSD
-- Misstanken: Vårdbolag utnyttjades för att finansiera lyxliv - GP
+- Nio bilar och tre lastbilar i krock utanför Gävle - SVT Nyheter
+- Förlängd åtalstid i Rönningefallet - SVT Nyheter
+- Misstanken: Vårdpengar gick till lyxbilar, klockor och 20-miljonersvilla - GP
 - Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
-- Vittnar mot Høiby: ”Slog mig i käken” - Västerbottens-Kuriren
-- DN Direkt – Costas brev till Orbán: Visa respekt - Dagens Nyheter
-- Brottsligt att beställa mord – även utan svar - GP
-- Misstänkt mord i Eskilstuna – man sköts på restaurang - SVT Nyheter
-- 24 februari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
-- Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
+- Vittnar mot Høiby: ”Slog mig i käken” - GP
+- Afrikanskt blodregn kan nå Göteborg och Västsverige - GP
+- Man allvarligt skadad efter knivhugg i Malmö - SVT Nyheter
+- 24 februari 07.45, Sammanfattning natt, Jämtlands län - Polisen.se
+- DEBATT: Replik: Tillsammans för en hållbar och trygg vård i länet - Sundsvalls Tidning
 - De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
-- Dumpen-Sara hos Kronofogden – efter löftet från SD - Aftonbladet
-- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
+- Trump förnekar splittring kring Irananfall - GP
+- ”Fullt kaos i Mexiko efter kartelledarens död” - SVT Nyheter
+- Svensk man avliden i Österrikiska snökaoset - Expressen
 - Bank-vd:n: ”Dumma pengar” kan utlösa ny krasch - Dagens PS
-- Hissbranschen vinnare på åldrande befolkning - Aftonbladet
-- Alzinovas företrädesemission tecknades till 80 procent - Placera.se
-- Torssell: Negativa divergenser i USA - carnegie.se
-- 30-åring startar ny keramikverkstad i Norrköping - NT
+- Larmet infrån Binance: Skickade krypto till Iran - Dagens PS
+- Stora brister i utfärdande av arbetstillstånd - Aftonbladet
+- Vinnarna när Europa bygger eget Starlink - Privata Affärer
 - Samsung Galaxy S26 väntas få 2 smarta kamerauppgraderingar – men OnePlus 16 kan överträffa den med en ny telefotosensor i toppklass - TechRadar
-- Test: Smartline Wireless – Superbilligt headset med bra brusreducering - mobil.se
+- Bugg gör att muspekaren försvinner i klassiska Outlook - PC för Alla
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-02-24 13:12_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -141,20 +141,20 @@ _Updated: 2026-02-24 13:12_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
