@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 10:05_
+_Updated: 2026-02-24 11:28_
 
 ## Top Stories
 
-- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
 - Blir det fred i Ukraina i år? Experterna svarar - GP
-- Man allvarligt skadad efter knivhugg i Malmö - SVT Nyheter
+- Drönare och granater tillverkas i hans källare – för att avgöra kriget i Ukraina - GP
+- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
+- Tomhänta EU-ledare till Kiev på årsdag - SvD
 - 24 februari 07.45, Sammanfattning natt, Jämtlands län - polisen.se
 - Trump förnekar splittring kring Irananfall - GP
-- Tvekar om SD:s gåva efter domen - Expressen
-- Kristersson i Kiev: ”Behöver mer av allt” - Aftonbladet
+- Brottsligt att beställa mord – även utan svar - Västerbottens-Kuriren
 - Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
-- Polisen hittade man i snödriva – misstänks för brott - Katrineholms-Kuriren
-- DN Direkt – Åklagare begär förlängd åtalstid i Rönninge-fallet - Dagens Nyheter
-- Peter Pomerantsev: Europa måste utmana Putins och Trumps lögner om Ukraina - Dagens Nyheter
-- Välkommet domslut från USA:s högsta domstol - Aktiellt
+- DEBATT: Replik: Tillsammans för en hållbar och trygg vård i länet - Sundsvalls Tidning
+- Dousa om GW: ”Det får stå för honom” – Senaste nytt om valet 2026 - SVT Nyheter
 - Sandra Stiskalo: Det luktar landsförräderi när prinsars huvuden rullar - Dagens Nyheter
-- Andreas firar sin 40-årsdag i snökaoset i New York - Aftonbladet
+- Peter Pomerantsev: Europa måste utmana Putins och Trumps lögner om Ukraina - Dagens Nyheter
+- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Attentat i Moskva – polis död - Expressen
 - Bank-vd:n: ”Dumma pengar” kan utlösa ny krasch - Dagens PS
+- Torssell: Negativa divergenser i USA - carnegie.se
 - Svensk Försäkring: Kostnaderna ökar med nya onödiga EU-regler - Sak & Liv
 - Alzinovas företrädesemission tecknades till 80 procent - Placera.se
-- Det behövs ett riktigt ull-kliv i Norden - Jordbruksaktuellt
-- Sigma 35 mm f/1,4 DG II Art – Bantad med snabbare AF - Fotosidan
-- Test: Äntligen en lätt 16-tummare du har råd med - PC för Alla
+- 30-åring startar ny keramikverkstad i Norrköping - NT
+- Spotifys nya AI-funktion – prompta din egen lista - SvD
 
 ## World News
 
@@ -75,10 +75,8 @@ _Updated: 2026-02-24 10:05_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -88,30 +86,31 @@ _Updated: 2026-02-24 10:05_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- AMRA Medical och ContextVision i nytt samarbete för bättre diagnostik av leversjukdomar - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -119,7 +118,7 @@ _Updated: 2026-02-24 10:05_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -142,7 +141,7 @@ _Updated: 2026-02-24 10:05_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -150,11 +149,11 @@ _Updated: 2026-02-24 10:05_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
