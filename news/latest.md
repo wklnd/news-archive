@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 14:06_
+_Updated: 2026-02-24 15:56_
 
-- PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion - AP News
 - Trump’s top general foresees acute risks in an attack on Iran - The Washington Post
+- PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion - AP News
+- Justice Department withheld and removed some Epstein files related to Trump - NPR
+- Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters
 - Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits - The New York Times
 - Americans sour on Trump ahead of State of the Union, polls find - Politico
+- Trump says he's kept all of his campaign promises. PolitiFact's MAGA-Meter shows otherwise - PBS
+- Stock Market Today: Dow Futures Inch Up; Trump's New Tariffs Kick In at 10% — Live Updates - WSJ
 - Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
-- In unprecedented decision, The Boston Globe will not print a paper for Feb. 24 delivery due to blizzard - The Boston Globe
-- Why DHS suddenly reversed course on suspending TSA PreCheck - The Washington Post
-- France moves to bar US Ambassador Charles Kushner from direct government access - AP News
-- Bondi Beach attack: Australia royal commission into antisemitism begins - BBC
+- Photos: Philadelphia and South Jersey transform into a winter wonderland after latest storm - WHYY
+- Afghanistan bombing: What’s Pakistan’s strategy as India-Taliban ties grow? - Al Jazeera
 - Ukraine is using powerful quadcopters to destroy nearly a third of all the Russian air threats it hits, commander says - Business Insider
 - ‘China shock’ hangs over German leader Merz’s first visit to Beijing - South China Morning Post
-- After Saks Bankruptcy, Richard Baker Says He Saved Luxury Department Stores - The New York Times
+- Bondi Beach attack: Australia royal commission into antisemitism begins - BBC
+- Warner Bros. Discovery Likely to Review New Offer From Paramount - Variety
 - The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times
 - Meta executive warned Facebook Messenger encryption plan was 'so irresponsible', shows court filing - Reuters
-- Gilead Sciences to Acquire Arcellx to Maximize Long-Term Potential of Anito-cel - Gilead Sciences
-- WhatsApp is finally working on scheduled messages - 9to5Mac
-- Samsung’s Galaxy Buds 4 Pro will support head-shaking gestures, lacks case speaker - 9to5Google
-- Entry-Level Ferrari Ready To Lose Its Head Soon Enough - Carscoops
-- Pretty Large Jazz Combo - The New York Times
-- Tyra Banks Demanding $50,000 From Ex-Business Partner Over ‘Celebrity Shakedown’ - TMZ
+- Oil prices hover near seven-month highs on US-Iran tensions - Reuters
+- OnePlus 16 leak reveals sub-1 mm display bezels - Notebookcheck
+- Honor Magic V6’s mind-boggling battery is all but confirmed, and Samsung should be worried - PhoneArena
