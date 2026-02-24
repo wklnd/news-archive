@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 23:59_
+_Updated: 2026-02-25 01:00_
 
 ## Top Stories
 
 - President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- Slovakien: Druzjba-ledningen öppnas igen - GP
 - DN Direkt – Iran inför samtalen med USA: Historisk möjlighet - Dagens Nyheter
-- Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
-- EU-ledare i Kiev – utan löften om nya stödpengar - GP
 - Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
-- Trump pressad inför talet: ”Mycket står på spel” - Dagens Nyheter
-- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
-- REARUSCH: Lunchrusning till bokrean: ”Star Wars till barnen och Nobelpristagare till mig” - NWT
-- 23 februari 17.00, Mord/dråp, Eskilstuna - polisen.se
+- Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
+- Omstridda Linköpingsföretaget stoppas av Ivo – tänker överklaga - Corren
+- DN Direkt – Mördare dog i häktet – dödsorsaken var olycka - Dagens Nyheter
+- Rasar mot ministerns besked om slopade klimatmål: ”Borde skämmas” - SVT Nyheter
 - Hårda kraven på häktet: ”Han verkar inte förstå” - Expressen
-- DN Direkt – Epsteinkopplade Thorbjørn Jagland inlagd på sjukhus - Dagens Nyheter
+- USA:s ambassadör i lätt reträtt i franskt bråk - GP
 - Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
 - Andreas firar sin 40-årsdag i snökaoset i New York - Aftonbladet
 - Svensk man död i lavin i Österrike - Aftonbladet
 - Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
 - CTEK: Laddat för bättring - Affärsvärlden
 - Hedgefonder köper techaktier efter veckor av försäljning - EFN
-- Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
+- Riksrevisionens granskning visar på brister vid kontroller av arbetstillstånd - Migrationsverket
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
 - Wear OS‑klockor får mobilfria jordbävningsvarningar - mobil.se
+- Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 
 ## World News
 
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,15 +38,14 @@ _Updated: 2026-02-24 23:59_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
@@ -93,17 +93,17 @@ _Updated: 2026-02-24 23:59_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
@@ -111,7 +111,7 @@ _Updated: 2026-02-24 23:59_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -120,16 +120,16 @@ _Updated: 2026-02-24 23:59_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -138,23 +138,18 @@ _Updated: 2026-02-24 23:59_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Organic Food Lifetime Achievment Award till Ekomatcentrum - NewsMachine AB
+- Smakfulla klappar till hunden och katten - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mjau släpper nyhet för kastrerade katter - Mynewsdesk
+- Magnus Sjösten ny vd på Doggy AB - Mynewsdesk
+- Detta händer hos Kungl. Skogs- och Lantbruksakademien i januari 2013 - Mynewsdesk
