@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 21:31_
+_Updated: 2026-02-24 21:58_
 
 ## Top Stories
 
-- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
+- DN Direkt – Ulf Kristersson på plats i Kiev - Dagens Nyheter
+- EU-ledare i Kiev – utan löften om nya stödpengar - GP
+- Trump förnekar splittring kring Irananfall - GP
+- Så väljer kunder och personal på bokrean - UNT
 - Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
 - Byggjätten hoppar av – Malmös billiga bostäder i fara - Sydsvenskan
-- Sverigefinnarnas dag 24 februari - Länsstyrelsen
-- IVO förbjuder verksamheten hos Adhd-företaget - SVT Nyheter
-- Trump förnekar splittring kring Irananfall - Västerbottens-Kuriren
+- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
 - Nio bilar och tre lastbilar i krock på E4 – en allvarligt skadad - SVT Nyheter
-- Niklas Orrenius: SD skyddas av grundlagen när de angriper muslimer - Dagens Nyheter
+- Omstridda Linköpingsföretaget stoppas av Ivo – tänker överklaga - Corren
 - KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Örnsköldsviks sjukhus upp i förstärkningsläge efter ökat inflöde av patienter - Region Västernorrland
-- DN Direkt – Epsteinkopplade Thorbjørn Jagland inlagd på sjukhus - Dagens Nyheter
-- Presidentens ord om VM – efter kaoset i Mexiko - Västerbottens-Kuriren
-- Kreml tvekar – Ukraina sätter datum för nya fredssamtal - Dagens.se
-- Tonläget trissas upp mot Ungern: Skamfläck för Europa - Dagens Nyheter
+- Epsteinkopplade Jagland inlagd på sjukhus - GP
+- Bil i krock med träd utanför Norrköping - Expressen
+- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
+- Svensk man död i lavin i Österrike - Aftonbladet
 - Hedgefonder köper techaktier efter veckor av försäljning - EFN
 - Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
 - Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
@@ -144,17 +144,17 @@ _Updated: 2026-02-24 21:31_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
