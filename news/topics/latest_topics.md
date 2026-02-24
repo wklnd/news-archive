@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 07:08_
+_Updated: 2026-02-24 08:35_
 
 ## Top Stories
 
-- Misstänkte toppdiplomaten släppt mot borgen - Västerbottens-Kuriren
-- Sju tecken på att ditt barn rör sig för lite – detta kan du göra - Dagens Nyheter
-- Man allvarligt skadad efter knivskärning på Lundavägen - sydsvenskan.se
-- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Polis dödad i explosion i Moskva - Västerbottens-Kuriren
-- Leif GW Persson svar på utrikesministerns kritik - GP
-- Försvarsmaktens årsredovisning 2025 - Försvarsmakten
+- De förlorade sina hem när ryska drönarna slog ner i kvarteret - Dagens Nyheter
+- Skildringar av kriget handlar om kärlek och hopp - Aftonbladet
+- Alarmerande trend i skolans idrott: "Det är så mycket sämre" - pt.se
+- Man allvarligt skadad efter knivskärning på Lundavägen - Skånska Dagbladet
+- Man allvarligt skadad efter knivhugg i Malmö - SVT Nyheter
+- Han blir regionens nya hälso- och sjukvårdsdirektör - Tidningen Ångermanland
+- Kajsa Dovstad: Juristmakt ligger bakom galna utvisningsbeslut - GP
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
-- Hårdare krav för bidrag till invandrare – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Rapport om Trumps hemliga dokument släpps inte - Dagens Nyheter
-- Välkommet domslut från USA:s högsta domstol - Aktiellt
-- Krisen för Ukraina: ”Kan inte existera” - Expressen
-- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
-- Bråken om upphandlingarna minskar - DI
+- Peter Pomerantsev: Europa måste utmana Putins och Trumps lögner om Ukraina - Dagens Nyheter
+- Utredning om Trump får inte offentliggöras - GP
+- Sandra Stiskalo: Det luktar landsförräderi när prinsars huvuden rullar - Dagens Nyheter
+- Andreas firar sin 40-årsdag i snökaoset i New York - Aftonbladet
+- Det behövs ett riktigt ull-kliv i Norden - Jordbruksaktuellt
+- Alzinovas företrädesemission tecknades till 80 procent - Placera.se
+- Säkerhet går före pris när upphandlingen görs om – står inför historiskt skifte - DI
 - Efter krisåren – unga vill ha trygghet på jobbet: ”Allt känns lite svårare” - sydsvenskan.se
-- Allokeringschefen om rekordbörsen: ”Ligger i farans riktning” - EFN
-- Försiktigt nedåt på Stockholmsbörsen - Privata Affärer
+- Test: Äntligen en lätt 16-tummare du har råd med - PC för Alla
+- Microsoft: Copilot är den bästa produktivitetsappen på Windows 11 - PC för Alla
+- Retro-Ipoden som stannade på ritbordet - Macworld.se
 - God of war - Sons of Sparta - FZ.se
-- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
-- Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-02-24 07:08_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
+- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
+- Xiaomi 17-serien global lansering bekräftad den 28 februari i Barcelona med bildinnovationer med Leica - Mix Vale
 
 ## Technology
 
@@ -114,46 +114,46 @@ _Updated: 2026-02-24 07:08_
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
