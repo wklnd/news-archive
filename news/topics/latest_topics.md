@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 21:58_
+_Updated: 2026-02-24 23:03_
 
 ## Top Stories
 
-- DN Direkt – Ulf Kristersson på plats i Kiev - Dagens Nyheter
+- Norges kung inlagd på sjukhus - GP
+- Nattens tal unikt tillfälle för Trump: ”Mycket på spel” - Dagens Nyheter
 - EU-ledare i Kiev – utan löften om nya stödpengar - GP
-- Trump förnekar splittring kring Irananfall - GP
-- Så väljer kunder och personal på bokrean - UNT
 - Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
-- Byggjätten hoppar av – Malmös billiga bostäder i fara - Sydsvenskan
-- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
+- Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
+- Arbetsmiljöverket gör inspektion på Sahlgrenska – under krisen i psykiatrin - GP
 - Nio bilar och tre lastbilar i krock på E4 – en allvarligt skadad - SVT Nyheter
+- Pekas ut som huvudman i pedofilring – barn kom till sexbutik - Dagens Nyheter
 - Omstridda Linköpingsföretaget stoppas av Ivo – tänker överklaga - Corren
-- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
+- Örnsköldsviks sjukhus upp i förstärkningsläge efter ökat inflöde av patienter - Region Västernorrland
 - Epsteinkopplade Jagland inlagd på sjukhus - GP
-- Bil i krock med träd utanför Norrköping - Expressen
+- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
 - Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
-- Svensk man död i lavin i Österrike - Aftonbladet
-- Hedgefonder köper techaktier efter veckor av försäljning - EFN
-- Prisskillnader på bostadsrätter har blivit större - Dagens Nyheter
+- Traditionen förklarar Putins vansinne - SvD
 - Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
+- Hedgefonder köper techaktier efter veckor av försäljning - EFN
+- Riksrevisionens larm: Många oseriösa företag får arbetstillstånd - DI
 - Prestigeprojekt för klimatet läggs på is - SvD
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
 - Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 
 ## World News
 
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -46,7 +47,6 @@ _Updated: 2026-02-24 21:58_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
 
@@ -66,8 +66,8 @@ _Updated: 2026-02-24 21:58_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
@@ -93,15 +93,16 @@ _Updated: 2026-02-24 21:58_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälsa och teknik - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
@@ -110,8 +111,7 @@ _Updated: 2026-02-24 21:58_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -149,7 +149,6 @@ _Updated: 2026-02-24 21:58_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -158,3 +157,4 @@ _Updated: 2026-02-24 21:58_
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
