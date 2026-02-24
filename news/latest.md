@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 15:56_
+_Updated: 2026-02-24 17:37_
 
-- Trump’s top general foresees acute risks in an attack on Iran - The Washington Post
-- PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion - AP News
-- Justice Department withheld and removed some Epstein files related to Trump - NPR
-- Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters
+- How Russia Put Its Future at Risk by Remaking Its Economy for War - The New York Times
+- A U.S. veteran adopted an orphan from Iran. Decades later, ICE is trying to deport her - NPR
 - Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits - The New York Times
-- Americans sour on Trump ahead of State of the Union, polls find - Politico
-- Trump says he's kept all of his campaign promises. PolitiFact's MAGA-Meter shows otherwise - PBS
-- Stock Market Today: Dow Futures Inch Up; Trump's New Tariffs Kick In at 10% — Live Updates - WSJ
-- Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
+- As conservatives accuse Newsom of bigotry, California governor's office slams "MAGA-manufactured outrage" - CBS News
 - Photos: Philadelphia and South Jersey transform into a winter wonderland after latest storm - WHYY
-- Afghanistan bombing: What’s Pakistan’s strategy as India-Taliban ties grow? - Al Jazeera
+- Texas Lt. Governor Says Camp Mystic Shouldn’t Receive License to Reopen - The New York Times
+- Trump says he's kept all of his campaign promises. PolitiFact's MAGA-Meter shows otherwise - PBS
+- Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
+- Andrew Mountbatten-Windsor latest: MPs to debate releasing files on trade envoy appointment - BBC
+- Diver finds his second Crusader sword in 5 years off Israel’s coast - The Times of Israel
+- These Ukrainians Don’t Want to Be Traded to Russia for Peace - The New York Times
 - Ukraine is using powerful quadcopters to destroy nearly a third of all the Russian air threats it hits, commander says - Business Insider
-- ‘China shock’ hangs over German leader Merz’s first visit to Beijing - South China Morning Post
-- Bondi Beach attack: Australia royal commission into antisemitism begins - BBC
-- Warner Bros. Discovery Likely to Review New Offer From Paramount - Variety
-- The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored - The New York Times
+- Fed's Goolsbee calls for a hold on cuts as current rate of inflation is 'not good enough' - CNBC
 - Meta executive warned Facebook Messenger encryption plan was 'so irresponsible', shows court filing - Reuters
-- Oil prices hover near seven-month highs on US-Iran tensions - Reuters
 - OnePlus 16 leak reveals sub-1 mm display bezels - Notebookcheck
 - Honor Magic V6’s mind-boggling battery is all but confirmed, and Samsung should be worried - PhoneArena
+- Breaking: Samsung releases February 2026 update for Galaxy S25 Ultra, Edge and FE - Sammy Fans
+- WhatsApp is finally working on scheduled messages - 9to5Mac
+- Tyra Banks Demanding $50,000 From Ex-Business Partner Over ‘Celebrity Shakedown’ - TMZ
+- Paradise Recap: Just the First Act - Vulture
