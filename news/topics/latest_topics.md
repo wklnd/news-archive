@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 15:49_
+_Updated: 2026-02-24 17:31_
 
 ## Top Stories
 
-- DN Direkt – Nu träder Donald Trumps nya globala tullar i kraft - Dagens Nyheter
-- Lina Lund: von der Leyen kom med blommor i stället för miljarder - Dagens Nyheter
-- Militärpolis på Malmös gator - Polisen.se
-- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
-- 650 000 strömlösa i stormen på USA:s östkust - Dagens Nyheter
-- ”Många reagerar på kriget med att köpa sex” - SvD
-- Tillsammans stärker vi det civila försvaret - Länsstyrelsen
+- Just nu: En person till sjukhus efter brand - Västerbottens-Kuriren
+- DN Direkt – Ia Genberg nominerad till Bookerpriset - Dagens Nyheter
+- Invånare krävde svar om solcellspark – politisk vilde ifrågasatte kommunen - Smålandsposten
+- ”Plågade avelsdjur är inget föredöme” - SvD
+- Alex Voronov Katten Kot ger värme vid ukrainska fronten - GP
+- Två döms efter mord i Eskilstuna – man sköts till döds vid busshållplats - SVT Nyheter
+- Siktade med hagelgevär mot raggarbil på Södermalm – döms - Dagens Nyheter
 - Timbros chefsekonom om utvisningarna: ”Kan inte längre kalla mig höger” - Dagens Nyheter
-- Stockholm fortfarande inte en miljonstad – fattas 761 personer - Dagens Nyheter
-- Förlängd åtalstid i Rönningefallet - SVT Nyheter
-- Fem skadade i Ukraina efter nattens ryska drönarattacker - Yle
+- Tillsammans stärker vi det civila försvaret - Länsstyrelsen
+- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
+- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
 - Trumps hotfulla ord mot Iran: ”En väldigt dålig dag för landet” - Expressen
-- ”Fullt kaos i Mexiko efter kartelledarens död” - SVT Nyheter
-- Direkt – Kriget i Ukraina – Flera skadade i ryska attacker - Dagens Nyheter
-- DN Direkt – Skellefteås befolkningstapp – störst i landet under 2000-talet - Dagens Nyheter
-- Bank-vd:n: ”Dumma pengar” kan utlösa ny krasch - Dagens PS
-- Larmet infrån Binance: Skickade krypto till Iran - Dagens PS
-- CTEK: Laddat för bättring - Affärsvärlden
-- Bilen byter namn – tar bort eldrift - Carup.se
-- Det kan snart bli enklare att skilja på anteckningsböcker i Notebook LM - PC för Alla
+- Tonläget trissas upp mot Ungern: Skamfläck för Europa - Dagens Nyheter
+- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Företag sabbar sina bästa idéer – här är den verkliga boven - Dagens PS
+- Prestigeprojektet sprack: Fiaskot tvingar fram ny rutt - Dagens PS
+- Experter slår larm: Bilen har blivit ett cyberhot - Dagens PS
+- Han nådde drömmen om tidig pension – och ångrade sig - Dagens PS
+- Hade över 10 000 bilder barnporr - Tidningen Ångermanland
+- MAQS biträdde Svensk Elitfotboll vid avtal med ny biljettleverantör - Cision
 
 ## World News
 
@@ -31,15 +31,15 @@ _Updated: 2026-02-24 15:49_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -93,24 +93,24 @@ _Updated: 2026-02-24 15:49_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -119,16 +119,16 @@ _Updated: 2026-02-24 15:49_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
