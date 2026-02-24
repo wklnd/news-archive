@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 08:38_
+_Updated: 2026-02-24 09:37_
 
 - Blizzard blankets Northeast with some snow totals reaching 3 feet - The Washington Post
 - Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
+- France blocks US ambassador’s access to ministers after he fails to show for meeting - The Guardian
 - Snowfall breaks daily records in Pa., Del. and N.J. - WHYY
 - A new lawsuit alleges DHS illegally tracked and intimidated observers - NPR
-- Kent and Sussex County Downgraded to Level 2 Driving Restriction, New Castle County Remains at Level 1 Driving Warning - State of Delaware News (.gov)
-- Texas Lt. Governor Says Camp Mystic Shouldn’t Receive License to Reopen - The New York Times
 - Family of Anna Kepner says stepbrother charged with homicide in her death on cruise ship, court document shows - CBS News
-- China Puts Export Curb on Japan Firms Including Mitsubishi Heavy - Bloomberg
+- City of Philadelphia Provides Update as Snow Emergency Takes Effect and Winter Storm Impacts Region - City of Philadelphia (.gov)
+- Trump’s top general foresees acute risks in an attack on Iran - The Washington Post
+- China Puts Export Curb on Japan Firms Including Mitsubishi Heavy - Bloomberg.com
 - Ex-Philippine president Duterte on trial for crimes against humanity: What you need to know - BBC
-- As Andrew fell, Queen Elizabeth II held out hope, and Charles and William fumed - The Washington Post
+- PHOTO ESSAY: Portraits of Ukrainians on the anniversary of Russia’s full-scale invasion - AP News
 - Trump team on damage control after Huckabee comments on Israel - Politico
 - Saks Owner Says He Saved Department Stores. Never Mind the Bankruptcy. - The New York Times
-- 2 Mass. lottery players win 1st prizes in new ‘Millionaire for Life’ game - MassLive.com
-- The FDA creates a quicker path for gene therapies - NPR
+- American Express Hits Dow Jones On AI Doomsday Scenario - Investor's Business Daily
 - How Domino's is trying to double its business during a rough patch for big pizza rivals - CNBC
-- A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch
-- Nothing reveals the Phone 4a ahead of schedule - Engadget
-- Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET
-- Apple’s new ‘Sales Coach’ app is now live on the App Store, replacing ‘SEED’ - 9to5Mac
-- Actor Robert Carradine Dies At Age 71 - Deadline
+- Ex-techno DJ jailed for global aircraft engine fraud - Financial Times
+- Google restricting Google AI Pro/Ultra subscribers for using OpenClaw - Hacker News
+- POKÉMON Gave Every Single Pokémon Their Own Logo to Celebrate 30 Years - Nerdist
+- Pretty Large Jazz Combo - The New York Times
+- Ferrari's Newest Sports Car Could Get A Convertible Option Soon - Motor1.com
