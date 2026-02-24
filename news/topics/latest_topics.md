@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-24 01:54_
+_Updated: 2026-02-24 05:20_
 
 ## Top Stories
 
-- Trump förnekar splittring kring Irananfall - GP
-- Extrem lavinfara i Österrike – svensk bland dödsoffren - SVT Nyheter
-- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
-- Liudmyla, 77, utvisas till krigets Ukraina: ”Tungt” - SvD
+- Explosion i Olskroken - GP
+- Man allvarligt skadad efter knivskärning på Lundavägen - sydsvenskan.se
+- DN Direkt – USA bekräftar nya samtal med Iran - Dagens Nyheter
+- Polis dödad i explosion i Moskva - Västerbottens-Kuriren
 - KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Så många sälar får fällas under licensjakten - Dagens Kalmar
+- Leif GW Persson svar på utrikesministerns kritik - GP
 - Försvarsmaktens årsredovisning 2025 - Försvarsmakten
 - Personuppgifter från Cosmic hamnar i Sri Lanka – vad betyder det för Örebro? - Örebronyheter
 - Hårdare krav för bidrag till invandrare – Senaste nytt om valet 2026 - SVT Nyheter
-- LVU-härvan i Älvsbyn: Därför slipper pappan åtal om misshandel mot barn - SVT Nyheter
-- Amerikansk fabrik träffad av rysk missil - Marcus Oscarsson
-- Expert: Trump försöker desperat vinna över grönländarna - Dagens Nyheter
-- Får rätt mot kommunen efter fyra års strid: ”Det var inte värt det” - Dagens Nyheter
+- Energifattigdom växer – Sverige nära EU: s nivåer - Omni
+- Svensk man avliden i Österrikiska snökaoset - Expressen
+- Varningen: Kan bli värsta snöstormen på tio år - Dagens Nyheter
+- Krisen för Ukraina: ”Kan inte existera” - Expressen
+- Natoländer har minskat militärt stöd till Ukraina - Dagens Nyheter
+- Skatteverkets nya tjänst: Räkna ut skatteåterbäringen redan nu - Dagens Nyheter
 - På remiss: Föreskrifter om krav för nätanslutning av generatorer - Energimarknadsinspektionen
+- Allokeringschefen om rekordbörsen: ”Ligger i farans riktning” - EFN
+- Försiktigt nedåt på Stockholmsbörsen - Privata Affärer
 - God of war - Sons of Sparta - FZ.se
 - Androids Calling Cards kan snart nå Wear OS - mobil.se
-- Rykte nämner nya funktionerna i Galaxy Buds 4 och 4 Pro - Swedroid
-- Uppgifter: Apple satsar på nya färger för Iphone - Macworld.se
-- Stilen ursäktade destruktiviteten - SvD
-- RECENSION: Nätdejting som ger resultat. Men lyckligt eller olyckligt slut? - Norra Skåne
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Barcelona får global lansering av Xiaomi 17-linjen med fokus på professionell fotografering och avancerad AI - Mix Vale
+- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Ex-prins Andrew gripen - Kvartal
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Trumps tullvapen: ”En slöja över global tillväxt” - Dagens PS
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -96,22 +96,22 @@ _Updated: 2026-02-24 01:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -120,41 +120,41 @@ _Updated: 2026-02-24 01:54_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2024-04-15 Webinar: Review of the International Arrangement on Forests - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
