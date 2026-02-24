@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-24 01:58_
+_Updated: 2026-02-24 05:23_
 
-- Dow drops 800 points as AI disruption fears and tariff woes weigh on markets: Live updates - CNBC
-- Blizzard live updates: More than 40 million people under warnings as winter storm dumps over 2 feet of snow across Northeast - Yahoo
-- Trump's top general warns of Iran strike risks - Axios
-- ICE whistleblower warns new recruits are receiving "defective" training - CBS News
+- Blizzard blankets Northeast with some snow totals reaching 3 feet - The Washington Post
+- Ex-ICE instructor testifies that agency slashed officer training, lied to Congress - The Washington Post
 - A new lawsuit alleges DHS illegally tracked and intimidated observers - NPR
+- Trump's 'hammer': Stephen Miller's power extends far beyond immigration - NBC News
+- Suspect in Nancy Guthrie abduction appeared to visit her house before: Sources - ABC7 San Francisco
+- The snowstorm of ’26 was a record-breaker. Here are the totals around Boston. - WGBH
+- Gavin Newsom Told a Predominantly Black Crowd He's ‘Just Like Them’ Because He ‘Can’t Read’ — While Promoting His Memoir. The Clip Has 35 Million Views - Yahoo
+- Why DHS suddenly reversed course on suspending TSA PreCheck - The Washington Post
 - New details emerge about armed man shot and killed at Trump’s Mar-a-Lago - The Guardian
-- What Tony Gonzales aide said minutes after setting herself on fire - San Antonio Express-News
-- ‘Death to the dictator’: Iranian students hold protests for third day - The Guardian
-- Why some Democratic congresswomen will wear white to Trump's State of the Union - CBS News
-- Key Witness Who Disputed ICE Account of Fatal Texas Shooting Dies in Car Accident - The New York Times
-- 4 years into Russia’s full-scale invasion of Ukraine, a look at the war by the numbers - AP News
-- European Support for Ukraine Stumbles on Eve of Invasion’s 4th Anniversary - The New York Times
-- Trump’s international strategy is becoming clearer - Lowy Institute
-- Before Mass Shooting, OpenAI Flagged Teen's Activity - Newser
+- France moves to bar US Ambassador Charles Kushner from direct government access - AP News
+- Trump team on damage control after Huckabee comments on Israel - Politico
+- Kim reelected to top post of North Korea’s ruling party as it hails his nuclear buildup - AP News
+- Duterte at ‘very heart’ of murderous drug crackdowns in Philippines, ICC told - The Guardian
 - How Domino's is trying to double its business during a rough patch for big pizza rivals - CNBC
-- Nissan pulls the plug on the under-$30,000 LEAF EV for 2026 - Electrek
 - Ex-techno DJ jailed for global aircraft engine fraud - Financial Times
-- Stock Market Today: Dow, Dollar Fall on Tariff Uncertainty — Live Updates - WSJ
-- Google restricting Google AI Pro/Ultra subscribers for using OpenClaw - Hacker News
-- Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media
+- Mortgage Rates Dip Back Into The 5's - Mortgage News Daily
+- The FDA creates a quicker path for gene therapies - NPR
+- Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - Business Insider
+- Apple Could Launch at Least 5 New Products, Including iPhone 17E, Next Week - CNET
+- Nothing couldn’t wait to show off the Phone 4A - The Verge
