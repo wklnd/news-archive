@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 21:58_
+_Updated: 2026-02-25 23:02_
 
 ## Top Stories
 
 - Näringslivet: ”Kicka ut ungarna” dålig signal - GP
-- DN Direkt – Regimkritiska protester fortsätter på universitet i Iran - Dagens Nyheter
-- Rubin: Vi kan sluta placera äldre om Attendo inte skärper sig - Sydsvenskan
-- Försökte våldta man på centralen – 34-åring döms - GP
-- Utredning om boendet får kritik – efter hårda orden - GP
+- Kubanska ambassaden: Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
+- Trump: Starkare och rikare än någonsin förut - Västerbottens-Kuriren
+- Joakim Lundell-dokumentär kan vinna Guldspaden - Västerbottens-Kuriren
+- Peter Alestig: Ja – vissa av klimatlarmen var överdrivna - Dagens Nyheter
 - Vilma Andersson lyssnar inte på häktespersonalen, enligt uppgifter - Aftonbladet
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- SMHI-varning om plötslig ishalka: ”Regn som fryser på kalla ytor” - SVT Nyheter
 - Söderhamn krymper – svenskt födselrekord på bottennivå - Söderhamns-Kuriren
 - Sverigefinnarnas dag 24 februari - Länsstyrelsen
-- Schweiz betalar 500 000 kronor till barbrandens offer - Omni
+- SMHI varnar för ishalka - Västerbottens-Kuriren
 - Korruptionshärva skakar Ukrainas flygvapen - Dagens Nyheter
-- ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Ukrainsk attack mot rysk fabrik - Aftonbladet
-- Erik Magnusson Sverige är på god väg att få Europas högsta elskatter - Sydsvenskan
+- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
 - ByggPartnerGruppen: Kan datacenterfebern hålla i sig? - Affärsvärlden
-- Sampo: Billig trygghet för portföljen - Affärsvärlden
 - FluoGuide kommenterar rapporten och framtidsplanerna - Biostock
+- Starka preliminära fas Ib/II-data från Isofol möjliggör tumörkirurgi - Biostock
+- 22-åring startar nytt företag i Hedemora - Södra Dalarnes Tidning
 - Krönika: Maten som byggde Sverige - en hyllning till det självklara - News55
-- Lösenordshanteraren 1Password höjer priset - PC för Alla
+- Garmin redovisar årets SOS‑incidenter - mobil.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-02-25 21:58_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -96,24 +96,24 @@ _Updated: 2026-02-25 21:58_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
