@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-25 15:55_
+_Updated: 2026-02-25 17:39_
 
+- Trump Puts On a Show, Casting Democrats as the Villains - The New York Times
 - Security Alert – Update 7: Ongoing Security Operations - U.S. Mission Mexico (February 24, 2026) - U.S. Embassy & Consulates in Mexico (.gov)
-- Snow again? Weather forecast maps for Boston show 2 upcoming chances for light accumulation. - CBS News
-- Judge bars Justice Department from searching through devices seized from Washington Post reporter as part of leak probe - CNN
 - Trump announces new retirement plan at State of the Union - Axios
-- Dozens of FBI records apparently missing from Epstein files, including Trump accuser interviews - CNN
-- US congressman refuses to resign after allegations of affair with staffer - The Guardian
-- Northeast US scrambles to clear piles of snow as new storm descends on the region - AP News
-- Trump's surgeon general pick to appear before Senate in highly anticipated hearing - NBC News
-- Manchester Resident Charged with the Attempted Murder of a Federal Officer - Department of Justice (.gov)
-- Guest List for State of the Union Includes Epstein Victims, Erika Kirk and U.S. Olympic Hockey Players - The New York Times
-- Germany Shows How Difficult It Is to Rewire Relations With China - WSJ
-- Flavio Bolsonaro Pulls Even With Lula in Brazil Election Poll - Bloomberg.com
-- Kim Jon-Un's sister promoted in rare North Korea party congress - France 24
+- Germany’s Leader Merz Delivers a Blunt Warning to China on Trade - The New York Times
+- Iran pushes back against Trump ahead of Geneva talks in face of major US military deployment - AP News
+- Appomattox mother and daughter invited to attend Tuesday’s State of the Union address - WSET
+- Virginia Gov. Abigail Spanberger questions whether Americans feel the ‘golden age’ Trump describes - AP News
+- More snow falls on the Northeast US as the region scrambles to clear piles from last storm - AP News
+- Army helicopter pilot wounded during Maduro raid receives Medal of Honor during State of the Union - Military Times
+- 2 Missouri deputies killed, 2 wounded as driver opens fire during traffic stop; suspect dies after manhunt - CBS News
 - Hungary’s Orbán stakes his reelection on anti-Ukraine message - AP News
-- Stock futures inch higher ahead of key earnings results from Nvidia: Live updates - CNBC
-- Lowe's earnings beat as sales jump more than 10% despite sluggish housing market - CNBC
-- Panera Bread releases first-ever value menu with 'Mix & Match' deals - CNBC
-- J.P. Morgan drops blunt reality check on gold price surge - thestreet.com
-- Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - Bloomberg.com
+- The Military Balance 2026 - The International Institute for Strategic Studies
+- Europe’s New Way of War - The New York Times
+- Prime Minister Carney to travel to India, Australia and Japan to diversify Canada trade away from US - AP News
+- Subaru Explains Why The 2026 Outback Isn't A Wagon Anymore - CarBuzz
+- GSK enters agreement to acquire 35Pharma Inc. - GSK
+- NYC subway service melts down as riders return following blizzard - Gothamist
+- Diageo Shares Sink on Cuts to Guidance, Dividend as New Boss Sets Sights on Turnaround - WSJ
+- Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - bloomberg.com
 - Tecno revives modular Android devices with new concept phone - 9to5Google
