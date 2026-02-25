@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 23:57_
+_Updated: 2026-02-26 01:01_
 
 ## Top Stories
 
 - USA inför nya sanktioner mot Iran – Senaste nytt om Iran och konflikten med USA - SVT Nyheter
-- Näringslivet: ”Kicka ut ungarna” dålig signal - GP
-- Joakim Lundell-dokumentär kan vinna Guldspaden - Västerbottens-Kuriren
 - Peter Alestig: Ja – vissa av klimatlarmen var överdrivna - Dagens Nyheter
-- Vilma Andersson lyssnar inte på häktespersonalen, enligt uppgifter - Aftonbladet
+- Joakim Lundell-dokumentär kan vinna Guldspaden - Västerbottens-Kuriren
 - Anna och Muhammad Anthony Yigit fastar tillsammans för första gången - GP
+- Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
+- USA tullhöjer till minst 15% för vissa länder – inte Kina - Affärsvärlden
+- Näringslivet: ”Kicka ut ungarna” dålig signal - GP
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
 - Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
-- 25 februari 21.55, Trafikkontroll, Västerbottens län - Polisen.se
-- Sverigefinnarnas dag 24 februari - Länsstyrelsen
-- Kubanska ambassaden: Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
+- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
 - Nytt fall i Epsteinskandalens efterdyningar - GP
-- 20-årig svensk döms för mordförsök i Köpenhamn - Västerbottens-Kuriren
-- DN Direkt – Australien: Bort med Andrew - Dagens Nyheter
+- Korruptionshärva skakar Ukrainas flygvapen - Dagens Nyheter
+- Ukrainsk attack mot rysk fabrik - Aftonbladet
+- 20-årig svensk döms för mordförsök i Köpenhamn - GP
 - Snabbmat har blivit lyx för USA:s låginkomsttagare – prisökningar hotar fastfoodkedjornas affärsmodell - SvD
 - ByggPartnerGruppen: Kan datacenterfebern hålla i sig? - Affärsvärlden
 - FluoGuide kommenterar rapporten och framtidsplanerna - Biostock
 - 22-åring startar nytt företag i Hedemora - Södra Dalarnes Tidning
-- Är det dags för Samsung att pensionera S-Pen i Galaxy Ultra-serien? - Swedroid
 - Garmin redovisar årets SOS‑incidenter - mobil.se
+- Krönika: Maten som byggde Sverige - en hyllning till det självklara - News55
 
 ## World News
 
@@ -34,12 +34,11 @@ _Updated: 2026-02-25 23:57_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
@@ -47,6 +46,7 @@ _Updated: 2026-02-25 23:57_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
 
 ## Technology
 
@@ -96,24 +96,24 @@ _Updated: 2026-02-25 23:57_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -123,19 +123,19 @@ _Updated: 2026-02-25 23:57_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
