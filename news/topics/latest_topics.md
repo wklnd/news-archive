@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 14:00_
+_Updated: 2026-02-25 15:49_
 
 ## Top Stories
 
+- Tidöpartierna: Skärpta regler för att utvisa brottsdömda - SVT Nyheter
 - DN Direkt – Regeringen: Två tredjedelar av Tidöavtalet avklarat - Dagens Nyheter
-- Marius Borg Høiby vittnar i rätten – nekar till misshandel av exflickvän - GP
-- Sjukvårdsbomben: Nytt politiskt parti startas - laholmstidning.se
-- Förskolebarn i Malmö förbjuds lämna Sverige – ska skyddas från könsstympning - Sydsvenskan
-- Andersson (S) fortsatt i förtroendetoppen – men gapet nedåt minskar - GP
+- ”Bonusprinsen”: Kan nog ha klappat till henne - GP
 - Norges kung inlagd på sjukhus på Teneriffa - GP
+- SMHI-varning om plötslig ishalka: ”Regn som fryser på kalla ytor” - SVT Nyheter
+- Sålde falsk biljett till Way Out West – får fängelse - GP
 - Flera nyfödda i Sverige har fått namnet Jihad - Västerbottens-Kuriren
 - Hetaste spåren i jakten på Olof Palmes mördare - GP
 - M:s egen analys: Därför röstar äldre inte på oss - Dagens Nyheter
-- Spelet bakom utvisningen av Sidas biståndschef - Expressen
-- EU vill ha fri roaming på Balkan - Västerbottens-Kuriren
+- Sjukhuset återgår till stabsläge - Allehanda.se
+- EU vill ha fri roaming på Balkan - GP
+- Japans ”järnlady” svarar med robotar när Kina ökar pressen - Dagens Nyheter
 - President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
-- Putin kräver skydd efter bombskräck - Aftonbladet
 - Gräshoppor från Sahara hotar skördarna på Lanzarote - Expressen
 - Frank fick felaktigt 10 miljoner av SEB: ”Kändes olustigt” - Dagens Nyheter
-- Aston Martin kapar tjänster efter miljardsmäll - GP
+- Nya pensionsregler börjar gälla nu – så påverkas du - Aftonbladet
+- AI-bossen: "Känner obehag inför AI:s utveckling" - Dagens PS
 - Nytt drag – stryper tillgången på ikoniska sportbilen - Dagens PS
-- Självförtroendet försvann – så slår utmattning mot toppen - Dagens PS
-- När släpps "GTA 6" i Sverige? Allt om årets största spel - MovieZine.se
-- Discord skjuter upp åldersverifieringen - m3.se
+- Lammatjärnet Hyreshus 2 AB – nytt företag startar i Härryda - Härryda-Posten
+- INSÄNDARE: Förtydligande om värmestuga för missbrukare - Norrtelje Tidning
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-02-25 14:00_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -94,24 +94,24 @@ _Updated: 2026-02-25 14:00_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Johan von Schreeb - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -138,23 +138,23 @@ _Updated: 2026-02-25 14:00_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
