@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 05:21_
+_Updated: 2026-02-25 07:10_
 
 ## Top Stories
 
-- Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
+- Inför Trumps tal till nationen i natt: ”Är han vid sina sinnes fulla bruk? - GP
+- Regeringen: Två tredjedelar av Tidöavtalet avklarat - GP
 - Direkt – Kriget i Ukraina – Zelenskyj och nordiskbaltiska ledare i gemensam pressträff - Dagens Nyheter
+- Ministern: ”Det här kan vara direkt farligt” - GP
 - Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
-- 230 miljoner kronor i humanitärt stöd till Ukraina - Regeringen.se
-- Fyra år av krig – familjen Myronichev fick återförenas: ”I mitt hjärta visste jag” - VF
-- DEBATT: Minoritetsspråkslagen kan vara Sveriges sämsta lag - Hufvudstadsbladet
-- Oppositionen rasar om klimatmålet: ”Regeringen borde skämmas” - Dagens Nyheter
-- Militärpolis på Malmös gator - polisen.se
+- Rektorn får sparken – en miljon försvann - Expressen
+- Utrikesministern: ”Svenska stödet är speciellt” - GP
+- Personbilar i krock – tre till sjukhus - Östersunds-Posten
+- Hårda kraven på häktet: ”Han verkar inte förstå” - Expressen
 - Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
-- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
-- Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
+- DN Direkt – Dödssiffran stiger efter skyfall i Brasilien - Dagens Nyheter
+- Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
+- Trumps stridsplan är på plats i Israel - Expressen
+- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
 - Alzinova publicerar preliminärt utfall i företrädesemission - Biostock
-- Så sparar svenskarna just nu – och tre tips för ett bättre sparande - sbab.se
+- Här tjänar brandmännen 3000 kronor mindre än i grannregionen – trots extra tusenlapp - Arbetet
+- Isofol Medical ger uppdatering om pågående fas Ib/II-studie av arfolitixorin - Placera.se
 - Ny detalj i bidragsröran: Bokfördes fel – av misstag - Södra Dalarnes Tidning
-- Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
 - Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 - Wear OS‑klockor får mobilfria jordbävningsvarningar - mobil.se
-- Fairphone lockar med Android 16 - mobil.se
-- Bob Marleys son spelar i Sverige – hyllar pappans arv - Omni
-- Fullbokat i Sundsvall inför Mello-festen - Tidningen Ångermanland
 
 ## World News
 
-- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
@@ -36,14 +36,14 @@ _Updated: 2026-02-25 05:21_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
@@ -96,22 +96,22 @@ _Updated: 2026-02-25 05:21_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 
 ## Science
 
@@ -119,8 +119,12 @@ _Updated: 2026-02-25 05:21_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -128,13 +132,9 @@ _Updated: 2026-02-25 05:21_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
