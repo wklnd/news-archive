@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-26 01:04_
+_Updated: 2026-02-26 01:59_
 
-- Jobs, gas prices and ending wars: factchecking Trump’s State of the Union claims - The Guardian
-- F.B.I. Raids Home of L.A.U.S.D. Chief Alberto Carvalho and School District Offices - The New York Times
-- Epstein Files Are Missing Records About Woman Who Made Claim Against Trump - The New York Times - The New York Times
-- Security Alert – Update 7: Ongoing Security Operations - U.S. Mission Mexico (February 24, 2026) - U.S. Embassy & Consulates in Mexico (.gov)
-- Trump Treasury official to exit after objecting to Minneapolis crackdown - The Washington Post
+- F.B.I. Raids Los Angeles Schools Chief’s Home and District Headquarters - The New York Times
+- Epstein Files Are Missing Records About Woman Who Made Claim Against Trump - The New York Times
 - Megyn Kelly Addresses Major New Detail in Nancy Guthrie Case & What Savannah Is Keeping Secret - TV Insider
-- Live Updates: Cuban Border Guard Kills 4 on US-Registered Boat - The New York Times
+- Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon - CNN
+- Omaha officials give update on Aksarben-area sinkhole - WOWT
+- [Galaxy Unpacked 2026] A First Look at the Galaxy S26 Series: Samsung’s Most Intuitive AI Phone Yet - samsung.com
+- Cuban forces shoot 4 dead on U.S. speedboat, Havana says - The Washington Post
 - Former Senator Bob Kerrey Resigns From Nebraska Start-Up Amid Epstein Emails - The New York Times
-- Surgeon general nominee Casey Means grilled on vaccines, pesticides in hearing - The Washington Post
+- Trump floats new retirement benefit for 54 million workers - The Washington Post
 - More snow falls on the Northeast as the region scrambles to clear piles from last storm - NBC News
-- Rubio visits Caribbean to talk with leaders unsettled by Trump’s policies - AP News
-- Iceland to hold referendum on EU accession talks in next few months, PM says – as it happened - The Guardian
-- How Britain Could Remove Andrew From the Royal Line of Succession - The New York Times
-- As Ukraine war enters fifth year, Zelenskyy says Russia failing at its goals — and Kremlin agrees - CBS News
-- S&P 500 posts back-to-back gains, Dow jumps 300 points as Nvidia rises: Live updates - CNBC
-- Trump announces new retirement plan at State of the Union - Axios
+- Rubio defends US ouster of Venezuela's Maduro to Caribbean leaders unsettled by Trump policies - AP News
+- 32 years after American woman found murdered in Germany, DNA leads to an arrest: "Such cases are never forgotten" - CBS News
+- How the UK Could Remove Former Prince Andrew From the Royal Line of Succession - The New York Times
+- Fearing Ukrainian action, Orbán deploys soldiers to priority energy facilities - Euronews.com
+- CME Restarts Gas and Metals Futures Trading After Glitch - Bloomberg
+- Circle Internet stock climbs after USDC adoption growth continues in Q4 (CRCL:NYSE) - Seeking Alpha
 - Located at 200 Greenwich Street, the new American Express headquarters is designed by Foster + Partners. - American Express
-- Netflix CEO Ted Sarandos to visit White House Thursday to discuss Warner Bros. bid - Politico
-- [Galaxy Unpacked 2026] A First Look at the Galaxy S26 Series: Samsung’s Most Intuitive AI Phone Yet - Samsung Global Newsroom
-- Honor says its 4.8mm thick MagicPad 4 is the world's slimmest Android tablet - Engadget
+- CAVA soars after earnings and lift some fast-casual peers (CAVA:NYSE) - Seeking Alpha
+- Samsung’s announces new AirPods clones: the Galaxy Buds 4 and Buds 4 Pro - The Verge
+- Google teases ‘amazing things’ in Android 17 - 9to5Google
