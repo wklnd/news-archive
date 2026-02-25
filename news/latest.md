@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-25 07:13_
+_Updated: 2026-02-25 08:42_
 
-- State of the Union: Trump to announce plans for new tax cuts through budget reconciliation - CNBC
-- Judge bars Justice Department from searching through devices seized from Washington Post reporter as part of leak probe - CNN
-- Who is Abigail Spanberger, Democrat who will give State of Union rebuttal speech - BBC
-- 15 States Sue the Trump Administration Over Vaccine Schedule Revisions - The New York Times
-- Ahead of SOTU, Dems demand Trump make Iran plans public - Live Updates - Politico
+- House Narrowly Rejects Air Safety Bill After Pentagon Opposition - The New York Times
+- As Ukraine war enters fifth year, Zelenskyy says Russia failing at its goals — and Kremlin agrees - CBS News
+- No. 2 House Democrat won’t attend State of the Union - Politico
+- World Cup host cities ‘running out of time’ with $625m in funding held up by shutdown - The Guardian
+- Virginia Gov. Abigail Spanberger questions whether Americans feel the ‘golden age’ Trump describes - Associated Press News
+- Mother who vanished 24 years ago is found alive but still doesn't want her family to know where she is - NBC News
 - Hegseth revives push to punish Sen. Mark Kelly - Politico
-- Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model - The New York Times
 - Hungary blocks Europe’s aid for Ukraine on war’s fourth anniversary - The Washington Post
+- China restricts exports to 40 Japanese entities with ties to military - Associated Press News
 - Russia opens probe of Telegram chief, claiming app has been used for terrorism - The Washington Post
-- Kim Jon-Un's sister promoted in rare North Korea party congress - France 24
-- Putin can’t survive without war Death has become a political religion - UnHerd
+- Chris Baghsarian: Police make arrests over alleged kidnap and murder - BBC
 - WBD Says Paramount Sweeter Offer Might Lead To Better Deal Than Netflix - Deadline
 - South Korea and Japan stocks hit fresh highs amid regional gains after Wall Street's AI relief rally - CNBC
-- Shein founder emerges from shadows to hail Chinese roots - Financial Times
 - Trump to announce data center energy deals during State of the Union - Politico
-- Sony reveals the Death Stranding 2 required PC specs - Engadget
+- Shein founder emerges from shadows to hail Chinese roots - Financial Times
+- Apple’s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - Bloomberg.com
 - A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch
 - Shrouded Sky - Patch Notes 1.17.0 - ARC Raiders
 - Samsung Galaxy Book 6 series will be available in the US starting on March 11 - Engadget
-- "Scream 7" Set For $60M+ Global Start - Dark Horizons
+- Sony to Reboot Spider-Man Universe With “New People” After Several Box Office Flops - The Hollywood Reporter
