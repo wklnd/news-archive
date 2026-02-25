@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 18:43_
+_Updated: 2026-02-25 20:35_
 
 ## Top Stories
 
-- Tal på manifestation: ”Ryssland måste besegras och tvingas till fred” - Västerbottens-Kuriren
-- Høiby i tårar: Mamma och Haakon försökte hjälpa - Dagens Nyheter
-- Skrek under Trumps tal: ”Du har dödat amerikaner” - GP
+- Analys: Trumps tal till nationen går till historien - GP
+- Näringslivet: ”Kicka ut ungarna” dålig signal - GP
+- ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Inga svar på vem som ligger bakom misstänkta brott på äldreboende: ”Frustrerande” - Dagens Nyheter
 - DN Direkt – Regeringen: Två tredjedelar av Tidöavtalet avklarat - Dagens Nyheter
-- Ryssland smugglar migranter till EU genom hemliga tunnlar - Dagens Nyheter
-- Offret i Eskilstuna vittnade om tidigare mordförsök - Dagens Nyheter
-- Rullstolsburen tvingades krypa ombord på buss - Västerbottens-Kuriren
-- Region Halland ska göra extern granskning av Cosmic - Läkartidningen
-- Rasar mot ministerns besked om slopade klimatmål: ”Borde skämmas” - SVT Nyheter
-- EU vill ha fri roaming på Balkan - GP
-- Japans ”järnlady” svarar med robotar när Kina ökar pressen - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Zelenskyj och nordiskbaltiska ledare i gemensam pressträff - Dagens Nyheter
-- Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
+- Ryssland smugglar migranter genom hemliga tunnlar - Dagens Nyheter
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Polisens kritik: ”Ren taxitransport för sjukvården” - Dagens Nyheter
+- Sverigefinnarnas dag 24 februari - Länsstyrelsen
+- Rektorn får sparken – en miljon försvann - Expressen
+- Schweiz betalar 500 000 kronor till barbrandens offer - Omni
+- DN Direkt – JD Vance: Trump föredrar diplomati med Iran - Dagens Nyheter
+- EU vill ha fri roaming på Balkan - Aftonbladet
+- Ukrainsk attack mot rysk fabrik - Aftonbladet
+- Erik Magnusson Sverige är på god väg att få Europas högsta elskatter - Sydsvenskan
 - Sampo: Billig trygghet för portföljen - Affärsvärlden
-- ByggPartnerGruppen: Kan datacenterfebern hålla i sig? - Affärsvärlden
-- FluoGuide kommenterar rapporten och framtidsplanerna - Biostock
-- Samsung kommande vikbara mobil kan känna av om nåt har fastnat i gångjärnet - Teknikveckan
 - Uppgifter: Macbook Pro med pekskärm släpps i år - Macworld.se
-- Lammatjärnet Hyreshus 2 AB – nytt företag startar i Härryda - Härryda-Posten
+- Samsung kommande vikbara mobil kan känna av om nåt har fastnat i gångjärnet - Teknikveckan
+- Google kan snart fixa att du inte avbryts mitt i röstsökningen - Teknikveckan
+- Lammatjärnet Hyreshus 2 AB – nytt företag startar i Härryda - Härryda-Posten - Nyheter från Mölnlycke, Landvetter & Härryda
 
 ## World News
 
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
+- Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -46,7 +47,6 @@ _Updated: 2026-02-25 18:43_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -56,7 +56,6 @@ _Updated: 2026-02-25 18:43_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -70,13 +69,14 @@ _Updated: 2026-02-25 18:43_
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -84,7 +84,7 @@ _Updated: 2026-02-25 18:43_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -95,23 +95,23 @@ _Updated: 2026-02-25 18:43_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -153,9 +153,9 @@ _Updated: 2026-02-25 18:43_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
