@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-25 05:28_
+_Updated: 2026-02-25 07:13_
 
-- Live updates: Watch as Trump gives State of the Union speech - BBC
-- A pair of House Republicans plans to join Democrats in SOTU Epstein protests - Axios
-- Travel ban lifted but motorists still urged to stay off roads as dig out continues - WCVB
-- D.O.J. Sues U.C.L.A. After It Refused to Pay $1 Billion Fine - The New York Times
-- More Than Half of Teens Use Chatbots for Schoolwork, Survey Finds - The New York Times
-- Republican Rep. Tony Gonzales says he will not resign amid affair allegations - CNN
-- Hegseth threatens to force AI firm to share tech, escalating Anthropic standoff - The Washington Post
+- State of the Union: Trump to announce plans for new tax cuts through budget reconciliation - CNBC
+- Judge bars Justice Department from searching through devices seized from Washington Post reporter as part of leak probe - CNN
+- Who is Abigail Spanberger, Democrat who will give State of Union rebuttal speech - BBC
+- 15 States Sue the Trump Administration Over Vaccine Schedule Revisions - The New York Times
+- Ahead of SOTU, Dems demand Trump make Iran plans public - Live Updates - Politico
 - Hegseth revives push to punish Sen. Mark Kelly - Politico
-- Louvre Director Resigns, Months After Crown Jewels Were Stolen in Heist - The New York Times
+- Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model - The New York Times
 - Hungary blocks Europe’s aid for Ukraine on war’s fourth anniversary - The Washington Post
-- Friedrich Merz seeks ‘reliable and fair partnership’ with Xi Jinping - Financial Times
 - Russia opens probe of Telegram chief, claiming app has been used for terrorism - The Washington Post
-- NYC subway service melts down as riders return following blizzard - Gothamist
+- Kim Jon-Un's sister promoted in rare North Korea party congress - France 24
+- Putin can’t survive without war Death has become a political religion - UnHerd
+- WBD Says Paramount Sweeter Offer Might Lead To Better Deal Than Netflix - Deadline
+- South Korea and Japan stocks hit fresh highs amid regional gains after Wall Street's AI relief rally - CNBC
+- Shein founder emerges from shadows to hail Chinese roots - Financial Times
 - Trump to announce data center energy deals during State of the Union - Politico
-- A winning Powerball ticket was sold in WNY - WGRZ
-- Samsung Galaxy S26 launch LIVE — S26 Ultra price, specs and release date due to be unveiled at Samsung Unpacked - Tom's Guide
+- Sony reveals the Death Stranding 2 required PC specs - Engadget
+- A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch
 - Shrouded Sky - Patch Notes 1.17.0 - ARC Raiders
-- Bungie says 'no second chances' if you're caught cheating in Marathon - Engadget
-- How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives - The New York Times
-- Years ago, novelist Tayari Jones snuck into a writing class. It changed her life - NPR
+- Samsung Galaxy Book 6 series will be available in the US starting on March 11 - Engadget
+- "Scream 7" Set For $60M+ Global Start - Dark Horizons
