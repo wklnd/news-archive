@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-25 22:03_
+_Updated: 2026-02-25 23:05_
 
-- Larry Summers Will Resign From Harvard After Jeffrey Epstein Revelations - The New York Times
+- Jobs, gas prices and ending wars: factchecking Trump’s State of the Union claims - The Guardian
 - Security Alert – Update 7: Ongoing Security Operations - U.S. Mission Mexico (February 24, 2026) - U.S. Embassy & Consulates in Mexico (.gov)
 - F.B.I. Raids Los Angeles Schools Chief’s Home and District Headquarters - The New York Times
-- New York is sending workers, equipment to Massachusetts to help them dig out from historic blizzard - Syracuse.com
-- Abigail Spanberger gave Democrats’ response to Trump. But she didn’t have the stage to herself. - Politico
+- Epstein Files Are Missing Records About Woman Who Made Claim Against Trump - The New York Times - The New York Times
+- Trump Treasury official to exit after objecting to Minneapolis crackdown - The Washington Post
 - Exclusive | Spy Agency Blocks Congress From Seeing Gabbard Whistleblower Intelligence - WSJ
+- Cuban border agents fire upon Florida-tagged speedboat, killing four - Al Jazeera
+- Surgeon general nominee Casey Means grilled on vaccines, pesticides in hearing - The Washington Post
+- Online Accusations in Guthrie Abduction Leave One Family ‘Scared Numb’ - The New York Times - The New York Times
 - More snow falls on the Northeast US, where huge piles remain from the last storm - AP News
-- Iran accuses Trump of 'big lies' ahead of Geneva talks in face of major US military deployment - AP News
-- 15 States Sue the Trump Administration Over Vaccine Schedule Revisions - The New York Times
-- Germany’s Leader Merz Delivers a Blunt Warning to China on Trade - The New York Times - The New York Times
-- Rubio is set for talks in St. Kitts with Caribbean leaders unsettled by Trump policies - AP News
+- Rubio visits Caribbean to talk with leaders unsettled by Trump’s policies - AP News
+- Germany’s Leader Merz Delivers a Blunt Warning to China on Trade - The New York Times
 - How Britain Could Remove Andrew From the Royal Line of Succession - The New York Times
-- Watch: 'Friendship' pipeline is tearing Europe apart — but why? - Euronews.com
-- Lowe's Reports Fourth Quarter 2025 Sales and Earnings Results - Lowe’s Corporate
-- Panera Bread releases first-ever value menu with 'Mix & Match' deals - CNBC
-- Why this investor says you can make good money off software stocks — if you trade them like telephone directories - MarketWatch
-- Buc-ee’s sues Ohio gas station, says logo is too similar to famed beaver - Cleveland.com
-- Samsung Galaxy Unpacked 2026 live: The Galaxy S26 series, Buds 4, AI and more - Engadget
-- Samsung Unveils All New Galaxy Buds4 Series With Ultimate Sound - samsung.com
-- AI is making waves everywhere, except where you’d expect it most. Two giant tech companies are working to change that - CNN
+- Iceland to hold referendum on EU accession talks in next few months, PM says – as it happened - The Guardian
+- Kalshi reveals insider trading case against editor for MrBeast - NPR
+- Trump floats new retirement benefit for 54 million workers - The Washington Post
+- Located at 200 Greenwich Street, the new American Express headquarters is designed by Foster + Partners. - American Express
+- Bleak Research Report Stokes A.I. Debate on Wall St. - The New York Times - The New York Times
+- [Galaxy Unpacked 2026] A First Look at the Galaxy Buds4 Series: Precision Sound Meets Intelligent Design - samsung.com
+- Oppo teases the Find N6’s crease-less display ahead of rumored March launch - 9to5Google
