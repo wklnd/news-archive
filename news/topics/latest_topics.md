@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 07:10_
+_Updated: 2026-02-25 08:40_
 
 ## Top Stories
 
-- Inför Trumps tal till nationen i natt: ”Är han vid sina sinnes fulla bruk? - GP
-- Regeringen: Två tredjedelar av Tidöavtalet avklarat - GP
-- Direkt – Kriget i Ukraina – Zelenskyj och nordiskbaltiska ledare i gemensam pressträff - Dagens Nyheter
-- Ministern: ”Det här kan vara direkt farligt” - GP
-- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
-- Rektorn får sparken – en miljon försvann - Expressen
-- Utrikesministern: ”Svenska stödet är speciellt” - GP
-- Personbilar i krock – tre till sjukhus - Östersunds-Posten
-- Hårda kraven på häktet: ”Han verkar inte förstå” - Expressen
-- Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
-- DN Direkt – Dödssiffran stiger efter skyfall i Brasilien - Dagens Nyheter
+- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- Kvinna tog sig upp på scen – fick avbryta föreställningen - Omni
+- En tredjedel av Tidöavtalets punkter obehandlade ett år innan valet - Omni
+- Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
+- Patrik Lundberg: Vem har råd med en fjällresa? - Dagens Nyheter
 - Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
+- Utrikesministern: ”Svenska stödet är speciellt” - GP
+- Man allvarligt skadad efter knivhugg i Malmö - GP
+- Rasar mot ministerns besked om slopade klimatmål: ”Borde skämmas” - SVT Nyheter
+- Över 100 designlampor köptes in av förskoleanställd – på ett år - SVT Nyheter
 - Trumps stridsplan är på plats i Israel - Expressen
-- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
+- Costas brev till Orbán: Visa respekt - Aftonbladet
+- Bonusprinsens ex-flickvän: ”Han ströp mig – åtta gånger” - Expressen
+- Francis Farrell, 28, jobbar vid krigsfronten - Aftonbladet
+- Kronan förstärks: Historisk vinstmaskin för Stockholmsbörsen - News55
+- Riksrevisionens granskning visar på brister vid kontroller av arbetstillstånd - Migrationsverket
 - Alzinova publicerar preliminärt utfall i företrädesemission - Biostock
-- Här tjänar brandmännen 3000 kronor mindre än i grannregionen – trots extra tusenlapp - Arbetet
-- Isofol Medical ger uppdatering om pågående fas Ib/II-studie av arfolitixorin - Placera.se
-- Ny detalj i bidragsröran: Bokfördes fel – av misstag - Södra Dalarnes Tidning
-- Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
-- Wear OS‑klockor får mobilfria jordbävningsvarningar - mobil.se
+- Rekordförsäljning av annat än öl för storbryggerierna - Beernews
+- Polar Grit X2 - recension: Grit X2 Pro i ett mindre och billigare format - TechRadar
+- LG B5 - recension: en instegs-OLED med imponerande bild för priset - TechRadar
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 
 ## Technology
 
@@ -55,6 +55,7 @@ _Updated: 2026-02-25 07:10_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -66,10 +67,9 @@ _Updated: 2026-02-25 07:10_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -99,8 +99,8 @@ _Updated: 2026-02-25 07:10_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -119,37 +119,35 @@ _Updated: 2026-02-25 07:10_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
@@ -158,3 +156,5 @@ _Updated: 2026-02-25 07:10_
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
