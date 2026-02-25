@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 15:49_
+_Updated: 2026-02-25 17:32_
 
 ## Top Stories
 
-- Tidöpartierna: Skärpta regler för att utvisa brottsdömda - SVT Nyheter
-- DN Direkt – Regeringen: Två tredjedelar av Tidöavtalet avklarat - Dagens Nyheter
-- ”Bonusprinsen”: Kan nog ha klappat till henne - GP
-- Norges kung inlagd på sjukhus på Teneriffa - GP
-- SMHI-varning om plötslig ishalka: ”Regn som fryser på kalla ytor” - SVT Nyheter
-- Sålde falsk biljett till Way Out West – får fängelse - GP
-- Flera nyfödda i Sverige har fått namnet Jihad - Västerbottens-Kuriren
+- Kung Haralds läkare har anlänt till sjukhuset - Västerbottens-Kuriren
+- Lavinexperten varnar: ”Fantastiskt tills allt går fel” - Dagens Nyheter
+- Lägsta folkökningen på 20 år – men Malmö fortsätter växa - Malmö stad
+- Putins nya rädsla – sätter in extra skydd - Expressen
+- SMHI varnar för ishalka - Västerbottens-Kuriren
+- Militärpolis på Malmös gator - Polisen.se
+- Flera nyfödda i Sverige har fått namnet Jihad - GP
+- Sjukhuset i Ö-vik eskalerar till förstärknings­läge - Läkartidningen
+- SVT Nyheter Östs reporter Linnea Burén nominerad till Guldspade för Hatet - SVT Nyheter
 - Hetaste spåren i jakten på Olof Palmes mördare - GP
-- M:s egen analys: Därför röstar äldre inte på oss - Dagens Nyheter
-- Sjukhuset återgår till stabsläge - Allehanda.se
 - EU vill ha fri roaming på Balkan - GP
 - Japans ”järnlady” svarar med robotar när Kina ökar pressen - Dagens Nyheter
 - President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
-- Gräshoppor från Sahara hotar skördarna på Lanzarote - Expressen
+- FMV tecknar kontrakt på nya trängfartyg till marinen - FMV
 - Frank fick felaktigt 10 miljoner av SEB: ”Kändes olustigt” - Dagens Nyheter
+- Sampo: Billig trygghet för portföljen - Affärsvärlden
 - Nya pensionsregler börjar gälla nu – så påverkas du - Aftonbladet
-- AI-bossen: "Känner obehag inför AI:s utveckling" - Dagens PS
-- Nytt drag – stryper tillgången på ikoniska sportbilen - Dagens PS
+- ByggPartnerGruppen: Kan datacenterfebern hålla i sig? - Affärsvärlden
+- Samsung kommande vikbara mobil kan känna av om nåt har fastnat i gångjärnet - Teknikveckan
 - Lammatjärnet Hyreshus 2 AB – nytt företag startar i Härryda - Härryda-Posten
-- INSÄNDARE: Förtydligande om värmestuga för missbrukare - Norrtelje Tidning
 
 ## World News
 
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
@@ -74,16 +74,17 @@ _Updated: 2026-02-25 15:49_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -95,45 +96,45 @@ _Updated: 2026-02-25 15:49_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
