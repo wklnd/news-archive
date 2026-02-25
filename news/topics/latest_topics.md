@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 11:27_
+_Updated: 2026-02-25 12:28_
 
 ## Top Stories
 
-- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
+- DN Direkt – Regeringen: Två tredjedelar av Tidöavtalet avklarat - Dagens Nyheter
+- Trump: Kommer aldrig tillåta Iran att ha kärnvapen – Senaste nytt om Iran och konflikten med USA - SVT Nyheter
 - Barnmorska kritiseras efter hemförlossningar - GP
 - Andersson (S) fortsatt i förtroendetoppen – men gapet nedåt minskar - GP
 - Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
-- Iran inför samtalen med USA: Historisk möjlighet - GP
-- Sverigefinnarnas dag 24 februari - Länsstyrelsen
+- M:s egen analys: Därför röstar äldre inte på oss - Dagens Nyheter
 - Flera nyfödda i Sverige har fått namnet Jihad - Västerbottens-Kuriren
+- Ambassadör pressade Sidachef om pengar till Somalia - Omni
 - Patrik Lundberg: Vem har råd med en fjällresa? - Dagens Nyheter
-- Specialist i allmänmedicin till Färjestaden på Öland - Region Kalmar Län
-- Kan tonårsutvisningarna äntligen vända debatten? - Altinget.se
+- Roger Westerlund får förtroendet – nytt toppjobb - Hudiksvalls Tidning
 - DN Direkt – Dödssiffran stiger efter skyfall i Brasilien - Dagens Nyheter
 - President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
 - Costas brev till Orbán: Visa respekt - Aftonbladet
-- Norges kung inlagd på sjukhus på Teneriffa - Aftonbladet
+- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
 - Länsförsäkringar: Allt fler vill ha rörlig ränta på bolånet - Sak & Liv
-- Tajmingen väcker frågor: SAS-vd köper aktier före maktskiftet - Dagens PS
 - Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
-- 10.30: Pressträff om matpriserna - Omni
+- LEDARE: Fusket med arbetskraftsinvandring fortsatt utbrett - Trelleborgs Allehanda
+- Discord skjuter upp åldersverifieringen - m3.se
 - Surahammar lanserar app för invånarna - Västerås Tidning
-- Xiaomi satsar på tätare integration med Apple - Teknikveckan
+- Minecraft-grundaren tar 600 miljoner i utdelning - Omni
 
 ## World News
 
@@ -54,22 +54,22 @@ _Updated: 2026-02-25 11:27_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -144,11 +144,10 @@ _Updated: 2026-02-25 11:27_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -158,3 +157,4 @@ _Updated: 2026-02-25 11:27_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
