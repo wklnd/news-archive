@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 01:56_
+_Updated: 2026-02-25 05:21_
 
 ## Top Stories
 
-- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
-- EU-ledare i Kiev – utan löften om nya stödpengar - GP
-- Föräldrarna om våldet i skolan på Hisingen: "Vi har satt sonen i karate" - GP
 - Norges kung Harald inlagd på sjukhus på Teneriffa - SVT Nyheter
-- Sverigefinnarnas dag 24 februari - Länsstyrelsen
-- EU-parlamentet fryser handelsuppgörelse med USA efter tullkaos - Europaportalen
-- DN Direkt – Mördare dog i häktet – dödsorsaken var olycka - Dagens Nyheter
-- Rasar mot ministerns besked om slopade klimatmål: ”Borde skämmas” - SVT Nyheter
-- REARUSCH: Lunchrusning till bokrean: ”Star Wars till barnen och Nobelpristagare till mig” - NWT
-- Man svårt skadad i olycka på E4 – vårdas på intensiven - Corren
-- Trumps ambassadör får besöksförbud i Frankrike - Dagens Nyheter
-- DN Direkt – Iran inför samtalen med USA: Historisk möjlighet - Dagens Nyheter
-- Orbáns livlina står i lågor – massiv attack - Marcus Oscarsson
-- Andreas firar sin 40-årsdag i snökaoset i New York - Aftonbladet
+- Direkt – Kriget i Ukraina – Zelenskyj och nordiskbaltiska ledare i gemensam pressträff - Dagens Nyheter
+- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
+- 230 miljoner kronor i humanitärt stöd till Ukraina - Regeringen.se
+- Fyra år av krig – familjen Myronichev fick återförenas: ”I mitt hjärta visste jag” - VF
+- DEBATT: Minoritetsspråkslagen kan vara Sveriges sämsta lag - Hufvudstadsbladet
+- Oppositionen rasar om klimatmålet: ”Regeringen borde skämmas” - Dagens Nyheter
+- Militärpolis på Malmös gator - polisen.se
+- Mängder av döda fåglar på stränder i södra Sverige - Dagens Nyheter
+- KD-toppen om L-skammen: ”Får stå för honom” - Dagens Nyheter
 - Bensinpriset riskerar att vända kraftigt 2026 - Dagens PS
-- Hedgefonder köper techaktier efter veckor av försäljning - EFN
-- CTEK: Laddat för bättring - Affärsvärlden
-- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
+- Alzinova publicerar preliminärt utfall i företrädesemission - Biostock
+- Så sparar svenskarna just nu – och tre tips för ett bättre sparande - sbab.se
+- Ny detalj i bidragsröran: Bokfördes fel – av misstag - Södra Dalarnes Tidning
 - Nvidia vill in i bärbara datorer igen med nya chipp - Computer Sweden
+- Whatsapp kommer snart få stöd för schemalagda meddelanden - m3.se
 - Wear OS‑klockor får mobilfria jordbävningsvarningar - mobil.se
+- Fairphone lockar med Android 16 - mobil.se
+- Bob Marleys son spelar i Sverige – hyllar pappans arv - Omni
+- Fullbokat i Sundsvall inför Mello-festen - Tidningen Ångermanland
 
 ## World News
 
-- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Våldsvågen i Guadalajara genererar global varning om säkerhet inför fotbolls-VM - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Trumps tullbesked utlöser global oro: ”En riktig röra” - DI
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Charley Hull wins LET's PIF Saudi Ladies International title to open account for 2026 season in one-shot triumph - Sky Sports
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Trump höjer global tullsats till 15 % från 10 % efter HD-beslut - Investing.com Sverige
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- Trump höjer global tullsats till 15 % efter högsta domstolens beslut - Investing.com Sverige
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-02-25 01:56_
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -93,68 +93,68 @@ _Updated: 2026-02-25 01:56_
 ## Health
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
