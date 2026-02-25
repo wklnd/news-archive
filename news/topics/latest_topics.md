@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 17:32_
+_Updated: 2026-02-25 18:43_
 
 ## Top Stories
 
-- Kung Haralds läkare har anlänt till sjukhuset - Västerbottens-Kuriren
-- Lavinexperten varnar: ”Fantastiskt tills allt går fel” - Dagens Nyheter
-- Lägsta folkökningen på 20 år – men Malmö fortsätter växa - Malmö stad
-- Putins nya rädsla – sätter in extra skydd - Expressen
-- SMHI varnar för ishalka - Västerbottens-Kuriren
-- Militärpolis på Malmös gator - Polisen.se
-- Flera nyfödda i Sverige har fått namnet Jihad - GP
-- Sjukhuset i Ö-vik eskalerar till förstärknings­läge - Läkartidningen
-- SVT Nyheter Östs reporter Linnea Burén nominerad till Guldspade för Hatet - SVT Nyheter
-- Hetaste spåren i jakten på Olof Palmes mördare - GP
+- Tal på manifestation: ”Ryssland måste besegras och tvingas till fred” - Västerbottens-Kuriren
+- Høiby i tårar: Mamma och Haakon försökte hjälpa - Dagens Nyheter
+- Skrek under Trumps tal: ”Du har dödat amerikaner” - GP
+- Inga svar på vem som ligger bakom misstänkta brott på äldreboende: ”Frustrerande” - Dagens Nyheter
+- DN Direkt – Regeringen: Två tredjedelar av Tidöavtalet avklarat - Dagens Nyheter
+- Ryssland smugglar migranter till EU genom hemliga tunnlar - Dagens Nyheter
+- Offret i Eskilstuna vittnade om tidigare mordförsök - Dagens Nyheter
+- Rullstolsburen tvingades krypa ombord på buss - Västerbottens-Kuriren
+- Region Halland ska göra extern granskning av Cosmic - Läkartidningen
+- Rasar mot ministerns besked om slopade klimatmål: ”Borde skämmas” - SVT Nyheter
 - EU vill ha fri roaming på Balkan - GP
 - Japans ”järnlady” svarar med robotar när Kina ökar pressen - Dagens Nyheter
-- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
-- FMV tecknar kontrakt på nya trängfartyg till marinen - FMV
-- Frank fick felaktigt 10 miljoner av SEB: ”Kändes olustigt” - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj och nordiskbaltiska ledare i gemensam pressträff - Dagens Nyheter
+- Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
 - Sampo: Billig trygghet för portföljen - Affärsvärlden
-- Nya pensionsregler börjar gälla nu – så påverkas du - Aftonbladet
 - ByggPartnerGruppen: Kan datacenterfebern hålla i sig? - Affärsvärlden
+- FluoGuide kommenterar rapporten och framtidsplanerna - Biostock
 - Samsung kommande vikbara mobil kan känna av om nåt har fastnat i gångjärnet - Teknikveckan
+- Uppgifter: Macbook Pro med pekskärm släpps i år - Macworld.se
 - Lammatjärnet Hyreshus 2 AB – nytt företag startar i Härryda - Härryda-Posten
 
 ## World News
@@ -56,6 +56,7 @@ _Updated: 2026-02-25 17:32_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -69,14 +70,13 @@ _Updated: 2026-02-25 17:32_
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -84,7 +84,7 @@ _Updated: 2026-02-25 17:32_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Mitt Liv grundar dotterbolag för inkludering och mångfald i Schweiz | Mitt Liv AB (svb) - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
@@ -121,7 +121,6 @@ _Updated: 2026-02-25 17:32_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -131,6 +130,7 @@ _Updated: 2026-02-25 17:32_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
