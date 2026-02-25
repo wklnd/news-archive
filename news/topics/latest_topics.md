@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-25 10:06_
+_Updated: 2026-02-25 11:27_
 
 ## Top Stories
 
-- DN Direkt – Optimism inom handeln – men oro för tullar - Dagens Nyheter
+- Befolkningen växer trots fortsatt lågt barnafödande 2025 - Statistikmyndigheten SCB
 - Barnmorska kritiseras efter hemförlossningar - GP
-- Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
 - Andersson (S) fortsatt i förtroendetoppen – men gapet nedåt minskar - GP
-- Regeringen: Två tredjedelar av Tidöavtalet avklarat - Aftonbladet
-- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
+- Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
+- Iran inför samtalen med USA: Historisk möjlighet - GP
+- Sverigefinnarnas dag 24 februari - Länsstyrelsen
 - Flera nyfödda i Sverige har fått namnet Jihad - Västerbottens-Kuriren
 - Patrik Lundberg: Vem har råd med en fjällresa? - Dagens Nyheter
-- Utrikesministern: ”Svenska stödet är speciellt” - GP
 - Specialist i allmänmedicin till Färjestaden på Öland - Region Kalmar Län
-- Trumps stridsplan är på plats i Israel - Expressen
+- Kan tonårsutvisningarna äntligen vända debatten? - Altinget.se
+- DN Direkt – Dödssiffran stiger efter skyfall i Brasilien - Dagens Nyheter
+- President hotar stämma Musk efter anklagelser om maffiakoppling - Dagens Nyheter
 - Costas brev till Orbán: Visa respekt - Aftonbladet
-- Bonusprinsens ex-flickvän: ”Han ströp mig – åtta gånger” - Expressen
-- Francis Farrell, 28, jobbar vid krigsfronten - Aftonbladet
+- Norges kung inlagd på sjukhus på Teneriffa - Aftonbladet
+- Länsförsäkringar: Allt fler vill ha rörlig ränta på bolånet - Sak & Liv
 - Tajmingen väcker frågor: SAS-vd köper aktier före maktskiftet - Dagens PS
-- Kronan förstärks: Historisk vinstmaskin för Stockholmsbörsen - News55
-- Händelserikt kvartal för FluoGuide - Biostock
-- Personal varnar för dålig arbetsmiljö på anrikt hotell - Hotellrevyn
-- Blizzard presenterar Overwatch Rush. Mobilspel som utspelas i Overwatch-universumet. - feber.se
-- Så går jakten på en ny vd - Travronden
+- Integritet på ett hotellrum är inte lyx – det är respekt - travelnews.se
+- 10.30: Pressträff om matpriserna - Omni
+- Surahammar lanserar app för invånarna - Västerås Tidning
+- Xiaomi satsar på tätare integration med Apple - Teknikveckan
 
 ## World News
 
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
@@ -38,10 +37,11 @@ _Updated: 2026-02-25 10:06_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -51,25 +51,25 @@ _Updated: 2026-02-25 10:06_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -105,12 +105,12 @@ _Updated: 2026-02-25 10:06_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC - Health Information Sharing and Analysis Center
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
@@ -138,16 +138,16 @@ _Updated: 2026-02-25 10:06_
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
