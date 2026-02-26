@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 23:55_
+_Updated: 2026-02-27 01:01_
 
 ## Top Stories
 
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- Rysk drönare närmade sig franska hangarfartyget i Malmö – stördes ut - SVT Nyheter
-- INSÄNDARE: Ukraina fortsätter sin kamp för överlevnad - Trelleborgs Allehanda
-- De flydde när Thailand gick till attack med svenskt stridsflyg - Dagens Nyheter
-- Polis stormade småbarnsfamilj på grund av tjoande kakförsäljare - Sydsvenskan
+- Björn af Kleen: Ilhan Omar backar inte en millimeter för Trump - Dagens Nyheter
+- Ukraina lägger fram ny strategi – tre punkter - SvD
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Polisen om göteborgarnas agerande: ”Djupt oroande” - GP
+- Elitstudentens nödrop – ”greps av fejkpoliser” - Aftonbladet
+- Iransamtal avslutade med ”mycket goda framsteg” - GP
 - Sidas generaldirektör Jakob Granit lämnar sin roll - SVT Nyheter
 - DN Direkt – Kristersson vill inte ge besked om uppehållstillstånd - Dagens Nyheter
 - Arvsmassan avslöjar: Kvinnor föredrog neandertalare - Dagens Nyheter
-- 26 februari 21.31, Trafikkontroll, Västerbottens län - Polisen.se
-- Björn af Kleen: Ilhan Omar backar inte en millimeter för Trump - Dagens Nyheter
-- Hätsk rysk reaktion vid sidan om Ukrainas USA-möte - GP
+- Forssells lösning för utvisade unga sågas: ”Berör inte så många” - GP
+- Hätsk rysk reaktion vid sidan om Ukrainas USA-möte - Dagens Nyheter
+- De flydde när Thailand gick till attack med svenskt stridsflyg - Dagens Nyheter
 - Högerextremisten Robinson togs emot med stora leenden i Washington - Dagens Nyheter
-- Zelenskyj: Hundratals ryska drönare mot Ukraina - GP
 - Klart: Markhyran höjs med 161 procent för brf i Stockholm - Dagens Nyheter
-- AP4 hade bäst avkastning förra året av buffertfonderna - Sak & Liv
-- DEBATT: Stålbad väntar restaurangerna efter sänkt matmoms - DI
 - Arma krönikörer på sportlov - Kvartal
+- GP och SvD avslöjar: Så färdas bilder från Metas smarta glasögon - GP
 - Dagens Dubbel Tips Eskilstuna 27/2 - Travcash
 - Nothing släpper hörlurarna Headphone a - mobil.se
+- En ny titt på LEGO Batman: Legacy of the Dark Knight. Det ultimata Batman-spelet? - feber.se
+- Låtsas att du är en kapybara i nytt spel. Simulator för dem som vill ta det lugnt. - feber.se
 
 ## World News
 
@@ -79,7 +79,6 @@ _Updated: 2026-02-26 23:55_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -88,6 +87,7 @@ _Updated: 2026-02-26 23:55_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
