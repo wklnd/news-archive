@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 14:01_
+_Updated: 2026-02-26 15:49_
 
 ## Top Stories
 
-- Uppgifter till TV4: Allvarligt hot mot Nordens energisystem - SVT Nyheter
-- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
-- Vilma Anderssons rättspsykiatriska utredning: ”Levt ett dubbelliv” - Aftonbladet
 - Apotek misstänks ha lurat tio regioner på miljonbelopp – för falska svettbehandlingar - Dagens Nyheter
-- SMHI utökar varningar för ishalka - SVT Nyheter
-- Hemtjänstens miss – äldre Malmöbo bodde i sin egen avföring - Sydsvenskan
+- Rapport: Attacker att likna med ”cybermordbränder” - GP
+- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
+- Uppgifter: Hot mot energisystemen i Norden - GP
+- DEBATT: Skolverkets flumskola har prövats och misslyckats – håll dem borta från nya läroplanen - GP
+- Direkt – Kriget i Ukraina – Ukrainamöte igång i Genève - Dagens Nyheter
+- Migrationsverket: Utvisar inte små barn ensamma - Västerbottens-Kuriren
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- MEDAN DU SOV: Här är nattens nyheter - NLT
-- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
-- Möbelhärvan: Anställd som sålde möbler för miljonbelopp har avskedats - SVT Nyheter
-- Kim sträcker ut handen till USA - SVT Nyheter
-- Domstol: Fel av Ungern att stoppa radio - Folkbladet
-- Norge kan sluta ta emot ukrainska män - Västerbottens-Kuriren
+- SMHI utökar varningar för ishalka - SVT Nyheter
+- Mamdani i konflikt med polisen efter snöbollskrig - Dagens Nyheter
+- Kuba: Infiltratörer på USA-båten - SVT Nyheter
 - Månadskrönika februari: Frontlinjen går genom våra flöden - Reportrar utan gränser
-- Kommunens krav på Eric, 79: 88 000 kronor - Expressen
-- Gardell: Klarna borde valt Stockholm, inte New York - DI
-- Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
+- Dokument om påstådda Trumpövergrepp doldes - Aftonbladet
+- Kommunens plötsliga krav: 88 000 kronor - Expressen
+- KI-barometern sjönk i februari - DI
+- Sökte 200 jobb efter redovisningsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
 - Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- Fler detaljer om Apples nya ”budget-Macbook” - Macworld.se
+- Låtsas att du är en kapybara i nytt spel. Simulator för dem som vill ta det lugnt. - feber.se
 
 ## World News
 
@@ -67,9 +67,9 @@ _Updated: 2026-02-26 14:01_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-02-26 14:01_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Fakulteten för hälsa och samhälle - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -158,7 +158,7 @@ _Updated: 2026-02-26 14:01_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
