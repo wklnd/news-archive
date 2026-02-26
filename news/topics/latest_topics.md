@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 15:49_
+_Updated: 2026-02-26 17:12_
 
 ## Top Stories
 
-- Apotek misstänks ha lurat tio regioner på miljonbelopp – för falska svettbehandlingar - Dagens Nyheter
+- Stoppade vargjakten – nu kräver de att lodjuren inte ska skjutas - VF
+- Tolv gymnasieelever har fått utvisningsbeslut – skolornas nya riktlinjer - Dagens Nyheter
 - Rapport: Attacker att likna med ”cybermordbränder” - GP
-- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
-- Uppgifter: Hot mot energisystemen i Norden - GP
+- Nya svenska planen för att runda Budapest om miljarder till Ukraina - Dagens Nyheter
+- Vilma Anderssons rättspsykiatriska utredning: ”Levt ett dubbelliv” - Aftonbladet
 - DEBATT: Skolverkets flumskola har prövats och misslyckats – håll dem borta från nya läroplanen - GP
-- Direkt – Kriget i Ukraina – Ukrainamöte igång i Genève - Dagens Nyheter
-- Migrationsverket: Utvisar inte små barn ensamma - Västerbottens-Kuriren
+- DN Direkt – Larm om bedrägerier i Stockholmsområdet - Dagens Nyheter
 - Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- SMHI utökar varning för ishalka - GP
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- SMHI utökar varningar för ishalka - SVT Nyheter
+- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
+- Norge kan sluta ta emot ukrainska män - GP
 - Mamdani i konflikt med polisen efter snöbollskrig - Dagens Nyheter
-- Kuba: Infiltratörer på USA-båten - SVT Nyheter
-- Månadskrönika februari: Frontlinjen går genom våra flöden - Reportrar utan gränser
-- Dokument om påstådda Trumpövergrepp doldes - Aftonbladet
+- Zelenskyj: Hundratals ryska drönare mot Ukraina - GP
 - Kommunens plötsliga krav: 88 000 kronor - Expressen
 - KI-barometern sjönk i februari - DI
-- Sökte 200 jobb efter redovisningsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
-- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
+- Ebay kapar 800 tjänster efter miljardköp - Affärsvärlden
+- Affärsvärlden ger köpråd för Genovis - Affärsvärlden
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- Låtsas att du är en kapybara i nytt spel. Simulator för dem som vill ta det lugnt. - feber.se
+- HUAWEI WATCH GT Runner 2: Professionell löparklocka utvecklad tillsammans med maratonlegendaren Eliud Kipchoge - Mynewsdesk
 
 ## World News
 
-- Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -38,15 +37,16 @@ _Updated: 2026-02-26 15:49_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-02-26 15:49_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
@@ -79,6 +79,7 @@ _Updated: 2026-02-26 15:49_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-02-26 15:49_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
