@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 21:24_
+_Updated: 2026-02-26 22:01_
 
 ## Top Stories
 
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - Dna-analysen dröjde – hann skjuta ihjäl tre - Aftonbladet
 - Rysk drönare närmade sig franska hangarfartyget i Malmö – stördes ut - SVT Nyheter
-- Grönt ljus för fler säkra aborter i EU - GP
-- Radarparets mål: lösa två kriser – på en dag - SvD
+- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
+- De flydde när Thailand gick till attack med svenskt stridsflyg - Dagens Nyheter
 - Socionomens kalasväskor innehöll 25 kilo knark - GP
+- Polis stormade småbarnsfamilj på grund av tjoande kakförsäljare - Sydsvenskan
+- Arvsmassan avslöjar: Kvinnor föredrog neandertalare - Dagens Nyheter
 - Tolv gymnasieelever har fått utvisningsbeslut – skolornas nya riktlinjer - Dagens Nyheter
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
-- Nya svenska planen för att runda Budapest om miljarder till Ukraina - Dagens Nyheter
-- Dokument om påstådda Trumpövergrepp doldes - Aftonbladet
+- Polisen har hittat död person efter brand i Borlänge - Expressen
+- Direkt – Kriget i Ukraina – Attack mot rysk radarstation på Krim - Dagens Nyheter
+- Zelenskyj: Hundratals ryska drönare mot Ukraina - GP
+- Nordkorea sträcker ut hand till USA - Corren
 - Klart: Markhyran höjs med 161 procent för brf i Stockholm - Dagens Nyheter
 - Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
-- Miljardärens lyckokast – bitcoin-fabrik blev en guldgruva - Dagens PS
-- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
+- GP och SvD avslöjar: Så färdas bilder från Metas smarta glasögon - GP
 - HUAWEI WATCH GT Runner 2: Professionell löparklocka utvecklad tillsammans med maratonlegendaren Eliud Kipchoge - Mynewsdesk
-- KRÖNIKA: SVT:s satsning hittar inte riktigt formen - Barometern-OT
+- En ny titt på LEGO Batman: Legacy of the Dark Knight. Det ultimata Batman-spelet? - feber.se
 - Valve stäms – anklagas för att låtit både barn och vuxna spela olagligt - Teknikveckan
-- Nvidia Shield får ny uppdatering: Experience Upgrade 9.2.4 - Swedroid
-- Nicholas Wennö: Här är veckans bästa strömningstips - Dagens Nyheter
+- Låtsas att du är en kapybara i nytt spel. Simulator för dem som vill ta det lugnt. - feber.se
 
 ## World News
 
@@ -40,8 +40,8 @@ _Updated: 2026-02-26 21:24_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
@@ -123,22 +123,22 @@ _Updated: 2026-02-26 21:24_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
