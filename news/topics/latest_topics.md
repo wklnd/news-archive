@@ -1,47 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 05:17_
+_Updated: 2026-02-26 07:08_
 
 ## Top Stories
 
-- USA inför nya sanktioner mot Iran – Senaste nytt om Iran och konflikten med USA - SVT Nyheter
+- Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
+- USA-expert: Konfrontativt och nationalistiskt tal - Västerbottens-Kuriren
 - Tobias Pettersson Bisarra följder när Sverige utvisar tonåringar - Hufvudstadsbladet
-- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
+- Positiva signaler från Iran inför samtal med USA - GP
 - 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
-- Ledare: Tullkaos och handelskris gör oss alla fattigare - Hallands Nyheter
+- Varning: Farligt lavinläge i fjällen - Västerbottens-Kuriren
+- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
 - 25 februari 15.00, Bedrägeri, Stockholms län - polisen.se
-- (+) Fyra tysta minuter för Ukraina - Jamtlands Tidning
-- Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
+- 11 av 25 gärningsmän hade kontakt med psykiatrin innan våldsdåden - SVT Nyheter
 - Sverigefinnarnas dag 24 februari - Länsstyrelsen
 - Nytt fall i Epsteinskandalens efterdyningar - GP
 - Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
-- FMV tecknar kontrakt på nya trängfartyg till marinen - FMV
-- Problem på SVT – nätet låg nere - Expressen
-- Fortum: Därför måste regeringen sänka skatten på el - Altinget.se
-- Starka preliminära fas Ib/II-data från Isofol möjliggör tumörkirurgi - Biostock
-- FluoGuide kommenterar rapporten och framtidsplanerna - Biostock
+- Putins nya rädsla – sätter in extra skydd - Expressen
+- Lämnade make och barn – hittades 24 år senare - Bulletin
+- Minibaren är död – länge leve kylskåpet - Dagens PS
+- Den svenska elskatten har stigit 600 procent – riskerar att få högst i Europa - Börskollen
 - 22-åring startar nytt företag i Hedemora - Södra Dalarnes Tidning
 - Garmin redovisar årets SOS‑incidenter - mobil.se
-- Lösenordshanteraren 1Password höjer priset - PC för Alla
+- Uppgifter: Macbook Pro med pekskärm släpps i år - Macworld.se
+- När släpps "GTA 6" i Sverige? Allt om årets största spel - MovieZine.se
 
 ## World News
 
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -98,24 +98,24 @@ _Updated: 2026-02-26 05:17_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa och teknik - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -138,7 +138,7 @@ _Updated: 2026-02-26 05:17_
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
