@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 19:36_
+_Updated: 2026-02-26 21:24_
 
 ## Top Stories
 
-- Sidas generaldirektör Jakob Granit lämnar sin roll - SVT Nyheter
-- Minst 30 döda i jihadistattacker i Nigeria - GP
-- Person hittad död i utbrunnen villa i Borlänge - SVT Nyheter
-- Direkt – Kriget i Ukraina – Fokus på återuppbyggnad vid Ukrainamöte - Dagens Nyheter
-- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Positiva signaler från Iran inför samtal med USA - GP
-- Apotek misstänks ha lurat tio regioner på miljonbelopp – för falska svettbehandlingar - Dagens Nyheter
+- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
+- Dna-analysen dröjde – hann skjuta ihjäl tre - Aftonbladet
+- Rysk drönare närmade sig franska hangarfartyget i Malmö – stördes ut - SVT Nyheter
+- Grönt ljus för fler säkra aborter i EU - GP
+- Radarparets mål: lösa två kriser – på en dag - SvD
+- Socionomens kalasväskor innehöll 25 kilo knark - GP
 - Tolv gymnasieelever har fått utvisningsbeslut – skolornas nya riktlinjer - Dagens Nyheter
-- Forssells lösning för utvisade unga sågas: ”Berör inte så många” - GP
-- Migrationsverket: Utvisar inte små barn ensamma - Västerbottens-Kuriren
-- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
-- Clinton: Trump borde frågas ut om Epsteinkontakt - GP
-- Mamdani i konflikt med polisen efter snöbollskrig - Dagens Nyheter
-- Lösa alpackor vid väg i Ervalla - Expressen
-- Kommunens plötsliga krav: 88 000 kronor - Expressen
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- Nya svenska planen för att runda Budapest om miljarder till Ukraina - Dagens Nyheter
+- Dokument om påstådda Trumpövergrepp doldes - Aftonbladet
+- Klart: Markhyran höjs med 161 procent för brf i Stockholm - Dagens Nyheter
+- Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
 - Miljardärens lyckokast – bitcoin-fabrik blev en guldgruva - Dagens PS
-- Ebay kapar 800 tjänster efter miljardköp - Affärsvärlden
-- Affärsvärlden ger köpråd för Genovis - Affärsvärlden
+- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
 - HUAWEI WATCH GT Runner 2: Professionell löparklocka utvecklad tillsammans med maratonlegendaren Eliud Kipchoge - Mynewsdesk
-- James Webb har fotat nebulosan som ser ut som en hjärna. Ny bild på Exposed Cranium Nebula. - feber.se
+- KRÖNIKA: SVT:s satsning hittar inte riktigt formen - Barometern-OT
+- Valve stäms – anklagas för att låtit både barn och vuxna spela olagligt - Teknikveckan
+- Nvidia Shield får ny uppdatering: Experience Upgrade 9.2.4 - Swedroid
+- Nicholas Wennö: Här är veckans bästa strömningstips - Dagens Nyheter
 
 ## World News
 
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -54,14 +54,14 @@ _Updated: 2026-02-26 19:36_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +69,7 @@ _Updated: 2026-02-26 19:36_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -123,25 +123,26 @@ _Updated: 2026-02-26 19:36_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
@@ -150,9 +151,9 @@ _Updated: 2026-02-26 19:36_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-02-26 19:36_
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
