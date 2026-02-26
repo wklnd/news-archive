@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 07:08_
+_Updated: 2026-02-26 08:34_
 
 ## Top Stories
 
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Protester när Trump höll rekordlångt tal till nationen - GP
 - Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
-- USA-expert: Konfrontativt och nationalistiskt tal - Västerbottens-Kuriren
+- Demoskop: Fortsatt kalldusch för M – bland det lägsta stödet för mandatperioden - SvD
 - Tobias Pettersson Bisarra följder när Sverige utvisar tonåringar - Hufvudstadsbladet
-- Positiva signaler från Iran inför samtal med USA - GP
-- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
-- Varning: Farligt lavinläge i fjällen - Västerbottens-Kuriren
+- Omfattande attacker mot Ukraina - Västerbottens-Kuriren
+- Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
 - Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
-- 25 februari 15.00, Bedrägeri, Stockholms län - polisen.se
-- 11 av 25 gärningsmän hade kontakt med psykiatrin innan våldsdåden - SVT Nyheter
-- Sverigefinnarnas dag 24 februari - Länsstyrelsen
-- Nytt fall i Epsteinskandalens efterdyningar - GP
+- INSÄNDARE - Vart ska patienterna ta vägen? - Allehanda.se
+- Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
+- Nordkorea sträcker ut hand till USA - Expressen
 - Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
-- Putins nya rädsla – sätter in extra skydd - Expressen
-- Lämnade make och barn – hittades 24 år senare - Bulletin
+- Republikanska toppen: Kan bli slutet för Trump - Expressen
+- Fredsbön med kungen och Silvia i slottskyrkan en vacker mardröm - Aftonbladet
+- Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
+- Fortum: Därför måste regeringen sänka skatten på el - Altinget.se
 - Minibaren är död – länge leve kylskåpet - Dagens PS
-- Den svenska elskatten har stigit 600 procent – riskerar att få högst i Europa - Börskollen
-- 22-åring startar nytt företag i Hedemora - Södra Dalarnes Tidning
-- Garmin redovisar årets SOS‑incidenter - mobil.se
+- Elprisskillnader har gett Svenska kraftnät jättekassa - Omni
+- Trots kraschen – får köra elbil med 3000 hk - Carup.se
 - Uppgifter: Macbook Pro med pekskärm släpps i år - Macworld.se
-- När släpps "GTA 6" i Sverige? Allt om årets största spel - MovieZine.se
 
 ## World News
 
@@ -38,7 +38,7 @@ _Updated: 2026-02-26 07:08_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -65,10 +65,10 @@ _Updated: 2026-02-26 07:08_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
@@ -153,11 +153,11 @@ _Updated: 2026-02-26 07:08_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
