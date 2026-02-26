@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 01:01_
+_Updated: 2026-02-27 01:53_
 
 ## Top Stories
 
-- Björn af Kleen: Ilhan Omar backar inte en millimeter för Trump - Dagens Nyheter
 - Ukraina lägger fram ny strategi – tre punkter - SvD
+- Björn af Kleen: Ilhan Omar backar inte en millimeter för Trump - Dagens Nyheter
+- Iransamtal avslutade i Genève - GP
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Polisen om göteborgarnas agerande: ”Djupt oroande” - GP
-- Elitstudentens nödrop – ”greps av fejkpoliser” - Aftonbladet
-- Iransamtal avslutade med ”mycket goda framsteg” - GP
+- Kung Harald har skrivits ut från sjukhuset - SVT Nyheter
+- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - Sidas generaldirektör Jakob Granit lämnar sin roll - SVT Nyheter
-- DN Direkt – Kristersson vill inte ge besked om uppehållstillstånd - Dagens Nyheter
+- Misstanken: Rawa Majid bakom ”Don Fox” - Dagens Nyheter
 - Arvsmassan avslöjar: Kvinnor föredrog neandertalare - Dagens Nyheter
-- Forssells lösning för utvisade unga sågas: ”Berör inte så många” - GP
-- Hätsk rysk reaktion vid sidan om Ukrainas USA-möte - Dagens Nyheter
-- De flydde när Thailand gick till attack med svenskt stridsflyg - Dagens Nyheter
-- Högerextremisten Robinson togs emot med stora leenden i Washington - Dagens Nyheter
-- Klart: Markhyran höjs med 161 procent för brf i Stockholm - Dagens Nyheter
-- Arma krönikörer på sportlov - Kvartal
-- GP och SvD avslöjar: Så färdas bilder från Metas smarta glasögon - GP
+- Rysk drönare närmade sig franska hangarfartyget i Malmö – stördes ut - SVT Nyheter
+- Afghanska ”storskaliga” attacker mot Pakistan - Västerbottens-Kuriren
+- Ebay kapar 800 tjänster globalt - Folkbladet
 - Dagens Dubbel Tips Eskilstuna 27/2 - Travcash
-- Nothing släpper hörlurarna Headphone a - mobil.se
-- En ny titt på LEGO Batman: Legacy of the Dark Knight. Det ultimata Batman-spelet? - feber.se
 - Låtsas att du är en kapybara i nytt spel. Simulator för dem som vill ta det lugnt. - feber.se
+- Ny app ska varna för smartglasögon - Expressen
+- Nvidia Shield får ny uppdatering: Experience Upgrade 9.2.4 - Swedroid
+- Så kokas riset till perfektion på Hoze i Majorna - GP
+- Teater gör fars om Palmeutredningen: ”Vi kommer aldrig att kunna överträffa verkligheten” - Dagens Nyheter
+- Därför känner du igen Lilla Al-Fadji i Melodifestivalen - Expressen
+- TV: Visade retrospel – nostalgisk återblick: ”Jag har med mig 90 spel” - Filipstads Tidning
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-02-27 01:01_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- New communications project on China’s global “Belt and Road Initiative” - Utrikespolitiska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -77,22 +77,22 @@ _Updated: 2026-02-27 01:01_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -131,14 +131,14 @@ _Updated: 2026-02-27 01:01_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
