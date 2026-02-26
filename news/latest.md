@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-26 14:06_
+_Updated: 2026-02-26 15:55_
 
-- Trump administration’s third-country deportation policy unlawful, judge finds - The Washington Post
-- California’s governor race has a clear top tier - Politico
-- Ukraine Is Losing the War - Foreign Affairs
 - North Korea’s ​Kim Jong-un Hints at Improving U.S. Relations — With Caveats - The New York Times
+- Scoop: Pentagon takes first step toward blacklisting Anthropic - Axios
+- Trump administration to withhold $259M in Minnesota Medicaid funds, citing fraud - The Washington Post
+- New York is sending workers, equipment to Massachusetts to help them dig out from historic blizzard - Syracuse.com
+- How China is masking drone flights in potential Taiwan rehearsal - Reuters
+- Ukraine Is Losing the War - Foreign Affairs
 - Iran, U.S. resume nuclear negotiations as Trump’s war clock ticks down - The Washington Post
-- Republicans’ alarm grows about holding Texas Senate seat - Politico
-- ‘I’ve never seen Conservatives this cooperative’ - Politico
+- Republicans are freaking out over Texas Senate race - Politico
+- Gov. Sarah Huckabee Sanders’s Plan to Build a Prison in Arkansas Divides GOP - The New York Times
+- Morality is a Long Game - Emptywheel
+- A British Special Election Could Hardly Have Come at a Worse Time for Starmer - The New York Times
 - Hong Kong court jails father of US-based democracy activist under national security law - CNN
 - New boss takes over at the Louvre four months after audacious jewelry heist - NBC News
 - Floods ravage southeastern Brazil and kill 46 as rescuers race to find the missing - AP News
-- Kim Jong Un's Reappointment Hailed as Supreme Triumph - Newser
+- Every business wants your review. What's with the feedback frenzy? - NPR
 - Asia tech stocks rally as Nvidia earnings soothe AI slowdown fears - CNBC
-- Exclusive: Rare earth shortages worsen in US aerospace, chips despite trade truce, sources say - Reuters
-- Bank of America resets AMD stock price target on deal with Meta - thestreet.com
 - Full Year 2025 Results - Stellantis.com
-- Amazon’s AI-powered Alexa+ gets new personality options - TechCrunch
-- Galaxy S26 'Now Nudge' is basically Google Pixel's Magic Cue, but you're forced to use Samsung Keyboard - 9to5Google
-- NYT Crossword Answers for Feb. 26, 2026 - The New York Times
-- ‘ARC Raiders’ Leans Even Harder Into PvE With New Shrouded Sky Change - Forbes
-- 'Survivor 50' premiere recap: Everything you didn't see on TV - Entertainment Weekly
+- Exclusive: Rare earth shortages worsen in US aerospace, chips despite trade truce, sources say - Reuters
+- 11 Apple deals you can grab before Apple’s March event — iPads, AirPods and MacBooks - Tom's Guide
+- Google Messages Details page brings back edit history - 9to5Google
