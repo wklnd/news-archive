@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 12:12_
+_Updated: 2026-02-26 13:12_
 
 ## Top Stories
 
-- Källor: FBI-agenter sparkade efter Trumputredning - GP
+- Vilma Anderssons rättspsykiatriska utredning: ”Levt ett dubbelliv” - Aftonbladet
+- Nya siffrorna visar: Norrköping tappar – befolkningen minskar - NT
+- Interndokument visar M:s plan – stjäla 160 000 röster från S och C - Aftonbladet
+- Uppgifter: Hot mot energisystemen i Norden - GP
+- Hemtjänstens miss – äldre Malmöbo bodde i sin egen avföring - Sydsvenskan
+- DN Direkt – Pakistan: Flera döda i våg av militanta attacker - Dagens Nyheter
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Migrationsverkets plan: Workshops i Syrien - Aftonbladet
-- Adhd-jätten stoppas omedelbart av Ivo - SvD
-- ”Vi behöver öka beläggningen i Ö-vik” - Allehanda.se
-- Dna-matchning dröjde – hann begå trippelmord - Dagens Nyheter
-- E14 i Järpen avstängd efter trafikolycka – fem personer inblandade - SVT Nyheter
-- Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
-- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
-- Nordkorea sträcker ut hand till USA - Expressen
+- Varning: Farligt lavinläge i fjällen - Västerbottens-Kuriren
+- Pizzabagare fast i degmaskin i Stockholm - Expressen
+- Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
+- Månadskrönika februari: Frontlinjen går genom våra flöden - Reportrar utan gränser
+- Orbáns attack på Zelenskyj - Expressen
 - ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
-- Republikanska toppen: Kan bli slutet för Trump - Expressen
-- Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
+- Kommunens krav på Eric, 79: 88 000 kronor - Expressen
+- KI-barometern sjönk i februari - DI
 - Sökte 200 jobb efter redovisningsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
 - Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
-- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
-- Nu jagar Skatteverket i slalombackarna - Dagens PS
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
 - LÄSARTEXT: PRO Föllinge-Laxsjö-Hotagen - Östersunds-Posten
-- Färgglad budget-MacBook på väg – men till vilket pris? - Teknikveckan
 
 ## World News
 
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -68,31 +68,31 @@ _Updated: 2026-02-26 12:12_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- Swindled millions found 15 years later - Sveriges Radio
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
 
 ## Health
 
