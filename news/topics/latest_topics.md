@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 11:12_
+_Updated: 2026-02-26 12:12_
 
 ## Top Stories
 
-- SMHI utökar varningar för ishalka - SVT Nyheter
-- Kung Harald kvar på sjukhuset för observation - GP
+- Källor: FBI-agenter sparkade efter Trumputredning - GP
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Vilma Andersson lyssnar inte på häktespersonalen, enligt uppgifter - Aftonbladet
-- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
-- DN Direkt – Larm om bedrägerier i Stockholmsområdet - Dagens Nyheter
-- Positiva beskedet: HPV-vaccin ger långvarigt skydd - GP
+- Migrationsverkets plan: Workshops i Syrien - Aftonbladet
+- Adhd-jätten stoppas omedelbart av Ivo - SvD
+- ”Vi behöver öka beläggningen i Ö-vik” - Allehanda.se
+- Dna-matchning dröjde – hann begå trippelmord - Dagens Nyheter
+- E14 i Järpen avstängd efter trafikolycka – fem personer inblandade - SVT Nyheter
 - Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
-- 25 februari 21.55, Trafikkontroll, Västerbottens län - Polisen.se
-- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
+- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
 - Nordkorea sträcker ut hand till USA - Expressen
 - ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Republikanska toppen: Kan bli slutet för Trump - Expressen
 - Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
+- Sökte 200 jobb efter redovisningsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
+- Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
 - Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
-- Fortum: Därför måste regeringen sänka skatten på el - Altinget.se
-- Hyresgäst får tillbaka 144 000 – betalat överhyra - Västerbottens-Kuriren
-- Sökte 200 jobb efter revisorsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
+- Nu jagar Skatteverket i slalombackarna - Dagens PS
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- UNIDO beviljat Absolicon 9 miljoner kronor till solvärmeanläggning i Sydafrika - Cision
+- LÄSARTEXT: PRO Föllinge-Laxsjö-Hotagen - Östersunds-Posten
+- Färgglad budget-MacBook på väg – men till vilket pris? - Teknikveckan
 
 ## World News
 
@@ -42,7 +42,7 @@ _Updated: 2026-02-26 11:12_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -54,22 +54,22 @@ _Updated: 2026-02-26 11:12_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -146,7 +146,6 @@ _Updated: 2026-02-26 11:12_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -154,11 +153,12 @@ _Updated: 2026-02-26 11:12_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
