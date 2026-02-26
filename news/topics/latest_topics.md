@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 13:12_
+_Updated: 2026-02-26 14:01_
 
 ## Top Stories
 
-- Vilma Anderssons rättspsykiatriska utredning: ”Levt ett dubbelliv” - Aftonbladet
-- Nya siffrorna visar: Norrköping tappar – befolkningen minskar - NT
-- Interndokument visar M:s plan – stjäla 160 000 röster från S och C - Aftonbladet
-- Uppgifter: Hot mot energisystemen i Norden - GP
-- Hemtjänstens miss – äldre Malmöbo bodde i sin egen avföring - Sydsvenskan
-- DN Direkt – Pakistan: Flera döda i våg av militanta attacker - Dagens Nyheter
-- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
-- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Varning: Farligt lavinläge i fjällen - Västerbottens-Kuriren
-- Pizzabagare fast i degmaskin i Stockholm - Expressen
+- Uppgifter till TV4: Allvarligt hot mot Nordens energisystem - SVT Nyheter
 - Karin Eriksson: Därför blir kung Haralds bräckliga hälsa ett större hot - Dagens Nyheter
+- Vilma Anderssons rättspsykiatriska utredning: ”Levt ett dubbelliv” - Aftonbladet
+- Apotek misstänks ha lurat tio regioner på miljonbelopp – för falska svettbehandlingar - Dagens Nyheter
+- SMHI utökar varningar för ishalka - SVT Nyheter
+- Hemtjänstens miss – äldre Malmöbo bodde i sin egen avföring - Sydsvenskan
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- MEDAN DU SOV: Här är nattens nyheter - NLT
+- 25 februari 21.55, Trafikkontroll, Västerbottens län - polisen.se
+- Möbelhärvan: Anställd som sålde möbler för miljonbelopp har avskedats - SVT Nyheter
+- Kim sträcker ut handen till USA - SVT Nyheter
+- Domstol: Fel av Ungern att stoppa radio - Folkbladet
+- Norge kan sluta ta emot ukrainska män - Västerbottens-Kuriren
 - Månadskrönika februari: Frontlinjen går genom våra flöden - Reportrar utan gränser
-- Orbáns attack på Zelenskyj - Expressen
-- ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Kommunens krav på Eric, 79: 88 000 kronor - Expressen
-- KI-barometern sjönk i februari - DI
-- Sökte 200 jobb efter redovisningsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
+- Gardell: Klarna borde valt Stockholm, inte New York - DI
 - Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
+- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- LÄSARTEXT: PRO Föllinge-Laxsjö-Hotagen - Östersunds-Posten
+- Fler detaljer om Apples nya ”budget-Macbook” - Macworld.se
 
 ## World News
 
 - Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -68,8 +68,8 @@ _Updated: 2026-02-26 13:12_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -121,21 +121,21 @@ _Updated: 2026-02-26 13:12_
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -146,6 +146,7 @@ _Updated: 2026-02-26 13:12_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -153,12 +154,11 @@ _Updated: 2026-02-26 13:12_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2024-05-07 Webbinarium: Arbetsmiljön inom den gröna näringen – hur skapar vi en bättre arbetsmiljö i jord- och skogsbruket? - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
