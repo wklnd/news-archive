@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 09:34_
+_Updated: 2026-02-26 10:06_
 
 ## Top Stories
 
-- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
-- Omfattande attacker mot Ukraina - Expressen
-- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
 - Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
+- Ny sladdolycka i Falun – polisen: sänk farten - Falu-Kuriren
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Omfattande attacker mot Ukraina - Västerbottens-Kuriren
 - USA-expert: Konfrontativt och nationalistiskt tal - Västerbottens-Kuriren
-- DN Direkt – Larm om bedrägerier i Stockholmsområdet - Dagens Nyheter
-- Positiva beskedet: HPV-vaccin ger långvarigt skydd - GP
-- Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
+- Positiva beskedet: HPV-vaccin ger långvarigt skydd - Aftonbladet
 - Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
-- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
-- Källor: FBI-agenter sparkade efter Trumputredning - Västerbottens-Kuriren
+- Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
+- 26 februari 07.10, Sammanfattning natt, Jämtlands län - Polisen.se
+- Källor: FBI-agenter sparkade efter Trumputredning - Folkbladet
 - ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
 - Republikanska toppen: Kan bli slutet för Trump - Expressen
-- Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
+- Rekordmånga på svarta listan – flygbolag värst - SvD
+- Sökte 200 jobb efter revisorsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
 - Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
-- Minibaren är död – länge leve kylskåpet - Dagens PS
-- Klimatomställning inom transport och energi kräver mer än ny teknik – delaktiga medarbetare avgörande - Mynewsdesk
+- Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
 - ”Umeå behöver en riskanalys vid köp av IT-system” - Västerbottens-Kuriren
 
@@ -31,14 +31,13 @@ _Updated: 2026-02-26 09:34_
 - Protean ska lansera en global aktiefond i år - Finanswatch.se
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -46,29 +45,31 @@ _Updated: 2026-02-26 09:34_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- 290 million for digitalisation of Swedish industry - Vinnova
-- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- In English - About Gothenburgs Digital twin - Göteborgs Stad
-- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
-- “My biggest lesson was realizing that domain expertise matters more than algorithmic complexity.“ - Towards Data Science
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- AI BANS och kompetensplikt: EU AI ACT-en ny era när det gäller att hantera konstgjord intelligens - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Sam Altman: The extraordinary firing of an AI superstar - BBC
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -97,24 +98,24 @@ _Updated: 2026-02-26 09:34_
 
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
