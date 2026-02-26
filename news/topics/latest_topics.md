@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 10:06_
+_Updated: 2026-02-26 11:12_
 
 ## Top Stories
 
-- Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
-- Ny sladdolycka i Falun – polisen: sänk farten - Falu-Kuriren
-- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- SMHI utökar varningar för ishalka - SVT Nyheter
+- Kung Harald kvar på sjukhuset för observation - GP
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Omfattande attacker mot Ukraina - Västerbottens-Kuriren
-- USA-expert: Konfrontativt och nationalistiskt tal - Västerbottens-Kuriren
-- Positiva beskedet: HPV-vaccin ger långvarigt skydd - Aftonbladet
+- Vilma Andersson lyssnar inte på häktespersonalen, enligt uppgifter - Aftonbladet
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- DN Direkt – Larm om bedrägerier i Stockholmsområdet - Dagens Nyheter
+- Positiva beskedet: HPV-vaccin ger långvarigt skydd - GP
 - Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
-- Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
-- 26 februari 07.10, Sammanfattning natt, Jämtlands län - Polisen.se
-- Källor: FBI-agenter sparkade efter Trumputredning - Folkbladet
+- 25 februari 21.55, Trafikkontroll, Västerbottens län - Polisen.se
+- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
+- Nordkorea sträcker ut hand till USA - Expressen
 - ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
-- Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
 - Republikanska toppen: Kan bli slutet för Trump - Expressen
-- Rekordmånga på svarta listan – flygbolag värst - SvD
+- Hårda pressen inne på svenska ambassaden – avslöjas av chatt - Dagens Nyheter
+- Rekordmånga på Svarta listan – bilhandlarna ”värstingar” - Aftonbladet
+- Fortum: Därför måste regeringen sänka skatten på el - Altinget.se
+- Hyresgäst får tillbaka 144 000 – betalat överhyra - Västerbottens-Kuriren
 - Sökte 200 jobb efter revisorsutbildningen – jobbar fortfarande som gitarrlärare - Dagens Nyheter
-- Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
-- Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- ”Umeå behöver en riskanalys vid köp av IT-system” - Västerbottens-Kuriren
+- UNIDO beviljat Absolicon 9 miljoner kronor till solvärmeanläggning i Sydafrika - Cision
 
 ## World News
 
@@ -37,7 +37,7 @@ _Updated: 2026-02-26 10:06_
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -99,11 +99,12 @@ _Updated: 2026-02-26 10:06_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
@@ -112,10 +113,9 @@ _Updated: 2026-02-26 10:06_
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Laerdal Medical AB och Swedish Net Air & Defence AB i nytt partnerskap för simulering och träningsmaterial inom sjukvårdsrelaterad träning - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -125,19 +125,19 @@ _Updated: 2026-02-26 10:06_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
