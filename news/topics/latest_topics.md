@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-26 08:34_
+_Updated: 2026-02-26 09:34_
 
 ## Top Stories
 
+- Mårten Palme: Mordutredningen har grumlat minnet av vår far - Dagens Nyheter
+- Omfattande attacker mot Ukraina - Expressen
 - Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Protester när Trump höll rekordlångt tal till nationen - GP
 - Fyra personer i amerikansk båt dödade av kubanska kustbevakningen - SVT Nyheter
-- Demoskop: Fortsatt kalldusch för M – bland det lägsta stödet för mandatperioden - SvD
-- Tobias Pettersson Bisarra följder när Sverige utvisar tonåringar - Hufvudstadsbladet
-- Omfattande attacker mot Ukraina - Västerbottens-Kuriren
+- USA-expert: Konfrontativt och nationalistiskt tal - Västerbottens-Kuriren
+- DN Direkt – Larm om bedrägerier i Stockholmsområdet - Dagens Nyheter
+- Positiva beskedet: HPV-vaccin ger långvarigt skydd - GP
 - Glädjebeskedet till helgen: Sol och första vårvärmen på väg - Corren
-- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
-- INSÄNDARE - Vart ska patienterna ta vägen? - Allehanda.se
 - Nya siffrorna visar: Norrköping tappar – befolkningen krymper - NT
-- Nordkorea sträcker ut hand till USA - Expressen
+- Emma Bouvin: Min make – bromsklossen – letar genast fel med upplägget - Dagens Nyheter
+- Källor: FBI-agenter sparkade efter Trumputredning - Västerbottens-Kuriren
+- ”Bonusprinsen”: Kan nog ha klappat till henne - Dagens Nyheter
 - Norska kung Harald inlagd på sjukhus på Teneriffa - Dagens Nyheter
 - Republikanska toppen: Kan bli slutet för Trump - Expressen
-- Fredsbön med kungen och Silvia i slottskyrkan en vacker mardröm - Aftonbladet
 - Miljarder till yrkeshögskolan utan krav på undervisningens omfattning - Dagens Nyheter
-- Fortum: Därför måste regeringen sänka skatten på el - Altinget.se
+- Press på Saabs "guldägg" – pensionärer räddningen? - Dagens PS
 - Minibaren är död – länge leve kylskåpet - Dagens PS
-- Elprisskillnader har gett Svenska kraftnät jättekassa - Omni
-- Trots kraschen – får köra elbil med 3000 hk - Carup.se
-- Uppgifter: Macbook Pro med pekskärm släpps i år - Macworld.se
+- Klimatomställning inom transport och energi kräver mer än ny teknik – delaktiga medarbetare avgörande - Mynewsdesk
+- Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
+- ”Umeå behöver en riskanalys vid köp av IT-system” - Västerbottens-Kuriren
 
 ## World News
 
@@ -35,62 +35,61 @@ _Updated: 2026-02-26 08:34_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews.se
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- 290 million for digitalisation of Swedish industry - Vinnova
+- Rapid Rise and GDPR Scrutiny of New AI Systems - Deloitte
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- In English - About Gothenburgs Digital twin - Göteborgs Stad
+- Smart Grid: Den konstgjorda intelligensen inom området förnybara energier - Xpert.Digital - Konrad Wolfenstein
+- “My biggest lesson was realizing that domain expertise matters more than algorithmic complexity.“ - Towards Data Science
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- AI BANS och kompetensplikt: EU AI ACT-en ny era när det gäller att hantera konstgjord intelligens - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Sam Altman: The extraordinary firing of an AI superstar - BBC
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
+- Artificial intelligence will not turn into a Frankenstein's monster | Alan Winfield - The Guardian
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Swindled millions found 15 years later - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
 
@@ -135,9 +134,9 @@ _Updated: 2026-02-26 08:34_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
