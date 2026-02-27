@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 20:05_
+_Updated: 2026-02-27 21:21_
 
-- 'I saw nothing, I did nothing wrong,' Bill Clinton says as he testifies about Jeffrey Epstein - BBC
-- US urges its citizens to leave Israel immediately amid strike threat to Iran - The Guardian
-- Carvalho’s big bet on AI imploded at L.A. schools. Now, it’s the center of FBI raids - Los Angeles Times
+- Transgender youths are targeted in Scouting America changes pushed by the Pentagon - AP News
 - The Birthrate Is Plunging. Why Some Say That’s a Good Thing. - The New York Times
-- At least 10 FBI agents who worked on Trump investigation fired - BBC
 - SNL mocked her as a 'scary mom.' In the Senate, Katie Britt is an emerging dealmaker - NPR
-- Scouting America will alter its policies to maintain support from the US military, Pentagon says - AP News
+- UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans - CNN
 - After Supreme Court ruling, White House does damage control on trade deals - Politico
-- Takeaways from Hillary Clinton's deposition. And, Paramount outbids for Warner Bros. - NPR
+- Regime Change in Cuba Appeals to Trump but Carries Risks - The New York Times
+- Trump Live Updates: Bill Clinton Says He 'Did Nothing Wrong' in House Epstein Inquiry - The New York Times
+- Solar power’s newest friends: MAGA influencers - Politico
 - Weather tracker: US cities close schools and cancel flights amid heavy snowfall - The Guardian
-- With only 3 women left, an Amazon tribe faced extinction. An unexpected birth now brings hope - AP News
-- How a Call From Trump Ignited a Bitter Feud Between Two U.S. Allies - The New York Times
-- Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1 - Al Jazeera
-- Ukrainian missiles hit energy installations in Russia's Belgorod - Reuters
+- A Trump Call Ignited Saudi-U.A.E. Feud - The New York Times
+- Afghanistan's new penal code sets 15 days in prison for wife-beating, 5 months for animal fights - AP News
+- Canada's Carney visits India to boost trade, mend ties on latest 'middle powers' trip - Reuters
+- European Commission says EU funds can be used for cross-border abortion access - Euronews.com
+- CBS News and CNN staffers fear ‘disaster’ as Paramount wins Warner Bros battle - The Guardian
+- Dow tumbles 700 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC
 - Elon Musk’s Secret Web of Companies in Texas - The New York Times
-- Exclusive: Target to drop synthetic colors from all cereals - Axios
-- US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)
-- State Farm Announces $5 Billion Cash Back Dividend For Customers—Here’s How To Claim - Forbes
+- Zillow predicts major mortgage rate change, homebuying shift - thestreet.com
 - Honor exec showcases Magic V6’s crease-less display - GSMArena.com news - GSMArena.com
-- A cheap MacBook is the perfect way for Apple to win over Windows users - Engadget
+- Would any of the reported MacBook compromises be a deal-breaker for you? [Poll] - 9to5Mac
+- Samsung confirms an improved S Pen is in the works - SamMobile
