@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 20:01_
+_Updated: 2026-02-27 21:09_
 
 ## Top Stories
 
-- Misstänkt farligt föremål på Limhamn - SVT Nyheter
-- Oro för unikt villaområde – när äldreboendet växer - GP
-- Direkt – Kriget i Ukraina – Larm om ukrainskt robotanfall i Ryssland - Dagens Nyheter
+- Benjamin Dousa och Johan Forssell om domen mot aktivisten - SVT Nyheter
+- Misstänkt föremål i Malmö var ofarligt - SVT Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj bjuder in Slovakien till samtal - Dagens Nyheter
+- Bar Kiosko och arepas klara för Malmös nya streetfoodpark - Sydsvenskan
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
+- Oro för unikt villaområde – när äldreboendet växer - GP
+- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
+- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
 - EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
-- Polisen om göteborgarnas agerande: ”Djupt oroande” - GP
-- DEBATT: Skolverkets flumskola har prövats och misslyckats – håll dem borta från nya läroplanen - GP
 - Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
-- Tonåring gripen för terrorplaner i Norge - Västerbottens-Kuriren
-- Orbáns valbudskap: Välj mellan mig och Zelenskyj - Dagens PS
 - ”Bonusprinsens” häktning förlängs - GP
-- Viscaria: "Hyckleri – Sverige har glömt sitt arv som gruvnation" - Dagens PS
-- BioGaia: Direktförsäljning i fokus - Affärsvärlden
+- Orbáns valbudskap: Välj mellan mig och Zelenskyj - Dagens PS
+- Ryska dubbelattacken – mitt under räddningsaktionen - Expressen
+- Så kan du spara hundralappar på tågbiljetten - Dagens Nyheter
+- Svenska bolagets prestigeorder: Ska bygga BMW:s bilar - Dagens PS
 - Skatteverket tvingar bolag i konkurs – i onödan - News55
-- TMF: Tydlig ROT-effekt för renoveringsmarknaden - Bostadspolitik
+- Elton, 16, flyger planet själv – målet är att bli SAS-pilot: ”En dröm” - NWT
+- Quiz: Vad kan du om Pokémon? - GP
 - Google Översätt-appen uppdateras med nya AI-funktioner - PC för Alla
-- Legion Go Fold är både en laptop och en handhållen spelkonsol. Nytt koncept från Lenovo med vikbar skärm. - feber.se
-- Xcode 26.3 släpps med stöd för AI-agenter - Teknikveckan
-- Den rebelliske ikonen – Tag Heuer Monaco Chronograph - Dagens PS
 
 ## World News
 
@@ -31,6 +31,7 @@ _Updated: 2026-02-27 20:01_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -43,7 +44,6 @@ _Updated: 2026-02-27 20:01_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -77,22 +77,22 @@ _Updated: 2026-02-27 20:01_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
