@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 15:38_
+_Updated: 2026-02-27 17:06_
 
 ## Top Stories
 
-- Ledare: Mathias Bred: Palmeutredningen blottlade hur Sverige styrdes - NWT
-- DN Direkt – USA uppmanar ambassadpersonal att lämna Israel - Dagens Nyheter
-- Barn dog under förlossning – Region Kronoberg gör Lex Maria-anmälan - SVT Nyheter
-- Starmer ”besviken” – men tänker inte avgå - Omni
-- Nu börjar lodjursjakten - Naturvårdsverket
-- Rekordlågt: Här föds minst antal barn i Sverige - GP
+- Väderglädjen – tvåsiffriga plusgrader på flera håll i Skåne - Sydsvenskan
+- Tonåring gripen för terrorplaner i Norge - SVT Nyheter
+- Oro för unikt villaområde – när äldreboendet växer - GP
+- Dambergs löfte: Staten ska sluta slösa pengar - SvD
+- Lodjursjakt i flera län får grönt ljus - SVT Nyheter
+- DEBATT: MP: Tonårsutvisningarna måste stoppas nu - Norran
 - Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
 - Brister i säkerhetsskydd – GU krävs på miljoner - SVT Nyheter
 - S-förslaget: Sätt finsk trupp på Gotland - Dagens Nyheter
-- 48 000 djur avlivas efter fågelinfluensa - Västerbottens-Kuriren
-- Polen vill förbjuda sociala medier för barn - Västerbottens-Kuriren
-- Ukraina säger sig ha attackerat rysk oljedepå - Omni
+- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
+- Polen vill förbjuda sociala medier för barn - GP
+- DN Direkt – Amanda Lind: Klistra inte på oss att vi är ”soft on crime” - Dagens Nyheter
 - Forskning i fokus när Lotta Edholm besöker Bryssel - Regeringen.se
-- Humanitär hjälp måste släppas in - situationen i Gaza är katastrofal - Läkare Utan Gränser
-- Lytens köp av Northvolt i Skellefteå klart - SVT Nyheter
-- Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
-- Private Equity-döden: Starkast överlever, svagast försvinner tyst - Dagens PS
-- Ingen vill ha fejkade burgare – anses dyrt och onyttigt - Realtid
-- Häpnadsväckande upptäckt: Oregerligt svart hål bryter mot alla regler - Illustrerad Vetenskap
+- Kung Harald skrivs ut från sjukhuset - Folkbladet
+- BioGaia: Direktförsäljning i fokus - Affärsvärlden
+- Film om Brasiliens legendariska VM-lag från 1970. Dyker upp på Netflix någon gång snart. - feber.se
 - Umeågrupp vann SM – i koreansk dans - Västerbottens-Kuriren
+- Den rebelliske ikonen – Tag Heuer Monaco Chronograph - Dagens PS
+- Nvidia pausar drivrutin som orsakar fläktproblem - Nordichardware
+- Sveriges nya roll: Vara bäst på att vara sämst - SvD
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-02-27 15:38_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - » GMMP: Global backlash syns i världens medier - Fempers
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
@@ -66,10 +66,10 @@ _Updated: 2026-02-27 15:38_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-02-27 15:38_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
