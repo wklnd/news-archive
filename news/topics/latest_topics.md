@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 23:52_
+_Updated: 2026-02-28 00:51_
 
 ## Top Stories
 
-- Benjamin Dousa och Johan Forssell om domen mot aktivisten - SVT Nyheter
-- Ingvar Carlsson i ny bok: Hatet är huvudspåret till varför Palme mördades - Dagens Nyheter
-- Bar Kiosko och arepas klara för Malmös nya streetfoodpark - Sydsvenskan
+- Misstänkt föremål i Malmö var ofarligt - SVT Nyheter
+- Ingvar Carlsson i ny bok: Hatet är huvudspåret till varför Olof mördades - Dagens Nyheter
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
-- Ukraina: Över 50 ghananer dödade i Rysslands krig - GP
-- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
 - Kuratorer möter unga som ska utvisas: ”Ta hit ministrarna” - Dagens Nyheter
+- Bar Kiosko och arepas klara för Malmös nya streetfoodpark - Sydsvenskan
+- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
 - Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- Ukraina: Över 50 ghananer dödade i Rysslands krig - Dagens Nyheter
-- Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
-- Tonåring gripen för terrorplaner i Norge - Västerbottens-Kuriren
-- Larm om ukrainskt robotanfall i Ryssland - GP
+- Dags att jämföra Liberalerna med Kalle Anka-partiet - Aftonbladet
+- Meteorologens besked: Våren kan komma i dag - Aftonbladet
+- Experten om USA och Iran: ”Sammantagna bilden är att det blinkar rött” - SVT Nyheter
+- UPPDATERAS: Mycket svåra ryska förluster fortsätter - rysk oljedepå bombad - finansministrarna Reeves och Svantesson: Ryssland ljuger om sin haverererande ekonomi - cornucopia.se
+- DN Direkt – Tonåring gripen för terrorplaner i Norge - Dagens Nyheter
+- Lavrovs ilska: Ingen deadline för krigets slut - Expressen
 - Så kan du spara hundralappar på tågbiljetten - Dagens Nyheter
 - ”Vi ska inte göra aktieägare rika” - SvD
-- Svenska bolagets prestigeorder: Ska bygga BMW:s bilar - Dagens PS
-- Rekorddyr februari i norr – fortsatt höga elpriser i mars - Bixia - Cision News
+- Skatteverket tvingar bolag i konkurs – i onödan - News55
+- Finansiering för att öka Sveriges robusthet och resiliens - Energimyndigheten
 - Quiz: Vad kan du om Pokémon? - GP
-- Elton, 16, flyger planet själv – målet är att bli SAS-pilot: ”En dröm” - NWT
+- Världens säkraste bil hittades dumpad på åker - Carup.se
 
 ## World News
 
-- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -36,12 +35,13 @@ _Updated: 2026-02-27 23:52_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,7 +51,7 @@ _Updated: 2026-02-27 23:52_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -122,23 +122,23 @@ _Updated: 2026-02-27 23:52_
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
