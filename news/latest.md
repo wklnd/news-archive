@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 18:05_
+_Updated: 2026-02-27 19:18_
 
+- Scouting America will alter its policies to maintain support from the US military, Pentagon says - AP News
+- The Birthrate Is Plunging. Why Some Say That’s a Good Thing. - The New York Times
 - SNL mocked her as a 'scary mom.' In the Senate, Katie Britt is an emerging dealmaker - NPR
-- Trump’s Foreign Policy: Resurrecting Empire - The New York Times
+- After Supreme Court ruling, White House does damage control on trade deals - Politico
 - Left-wing plumber helps Greens sink ruling Labour and far-right in surprise U.K. election win - NBC News
+- AP report: FBI fires agents who worked on Trump classified document investigation - PBS
+- 'Weird' Man Is Arrested Outside of Nancy Guthrie's Home After Driving Past Property '50 to 100 Times' - Realtor.com
+- Trump Administration Live Updates: Deposition of Bill Clinton Begins in Epstein Inquiry - The New York Times
 - Weather tracker: US cities close schools and cancel flights amid heavy snowfall - The Guardian
-- What to know about the LA school superintendent whose home was searched by the FBI - PBS
-- 'El Mencho' dead: What comes next after notorious drug boss, leader of Jalisco New Generation Cartel killed by Mexican military? - ABC7 Chicago
-- U.S. Birthrate Declines to an All-Time Low, but There’s a Story of Success - The New York Times
 - Denver Mayor Bars ICE From City Property and Orders Protection for Protesters - The New York Times
 - With only 3 women left, an Amazon tribe faced extinction. An unexpected birth now brings hope - AP News
-- A Trump Call Ignited Saudi-U.A.E. Feud - The New York Times
-- Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1 - Al Jazeera
+- How a Call From Trump Ignited a Bitter Feud Between Two U.S. Allies - The New York Times
+- Ukraine reportedly hits power station in Russia's Belgorod Oblast, oil depot in occupied Luhansk - The Kyiv Independent
 - EU says social fund can be used for cross-border abortion access - Euronews.com
-- Wholesale inflation was hotter than expected in January - CNN
-- Stocks sell off on tech struggles and hot U.S. inflation report, Dow slides 700 points: Live updates - CNBC
-- Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News
-- US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)
+- CBS News and CNN staffers fear ‘disaster’ as Paramount wins Warner Bros battle - The Guardian
+- Dow tumbles 500 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC
+- Elon Musk’s Secret Web of Companies in Texas - The New York Times
+- Exclusive: Target to drop synthetic colors from all cereals - Axios
 - Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro - ZDNET
-- Phones are going to get weird next week - The Verge
-- Razer’s new laptop sleeve wirelessly charges other devices - The Verge
-- Samsung Uncommited to Another iPhone Air Rival or Trifold, COO Says - Bloomberg
+- A cheap MacBook is the perfect way for Apple to win over Windows users - Engadget
