@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 19:03_
+_Updated: 2026-02-27 20:01_
 
 ## Top Stories
 
+- Misstänkt farligt föremål på Limhamn - SVT Nyheter
 - Oro för unikt villaområde – när äldreboendet växer - GP
-- Ny vändning: Lodjursjakten stoppas tillfälligt - SVT Nyheter
-- Statsministern, utrikesministern och försvarsministern besökte Malmö - Regeringen.se
-- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
-- S-förslaget: Sätt finsk trupp på Gotland - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Larm om ukrainskt robotanfall i Ryssland - Dagens Nyheter
+- Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
+- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
-- VIKTOR BARTH-KRON: Splittring – även efter döden - Expressen
-- Labour tappar sitt fäste till Green Party – har röstat rött i 100 år - Bulletin
+- Polisen om göteborgarnas agerande: ”Djupt oroande” - GP
+- DEBATT: Skolverkets flumskola har prövats och misslyckats – håll dem borta från nya läroplanen - GP
 - Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
+- Tonåring gripen för terrorplaner i Norge - Västerbottens-Kuriren
 - Orbáns valbudskap: Välj mellan mig och Zelenskyj - Dagens PS
-- ”Bonusprinsens” häktning förlängs - Västerbottens-Kuriren
-- Lytens köp av Northvolt i Skellefteå klart - SVT Nyheter
+- ”Bonusprinsens” häktning förlängs - GP
+- Viscaria: "Hyckleri – Sverige har glömt sitt arv som gruvnation" - Dagens PS
 - BioGaia: Direktförsäljning i fokus - Affärsvärlden
-- Nu tar unga med föräldrar till jobbintervjun: "Blev chockad" - Dagens PS
-- USA:s ekonomi – kan avgöra höstens USA-val - SvD
+- Skatteverket tvingar bolag i konkurs – i onödan - News55
+- TMF: Tydlig ROT-effekt för renoveringsmarknaden - Bostadspolitik
 - Google Översätt-appen uppdateras med nya AI-funktioner - PC för Alla
 - Legion Go Fold är både en laptop och en handhållen spelkonsol. Nytt koncept från Lenovo med vikbar skärm. - feber.se
-- Film om Brasiliens legendariska VM-lag från 1970. Dyker upp på Netflix någon gång snart. - feber.se
 - Xcode 26.3 släpps med stöd för AI-agenter - Teknikveckan
-- Oscars: Höga berg och djupa dalar på klassisk fransk kvarterskrog - Dagens Nyheter
+- Den rebelliske ikonen – Tag Heuer Monaco Chronograph - Dagens PS
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- IAEA report says Iran must allow inspections, points at Isfahan - Reuters
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -59,8 +59,6 @@ _Updated: 2026-02-27 19:03_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Nästa generations Internet of Things - EU Digital Strategy
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -68,8 +66,10 @@ _Updated: 2026-02-27 19:03_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -101,12 +101,14 @@ _Updated: 2026-02-27 19:03_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -114,8 +116,6 @@ _Updated: 2026-02-27 19:03_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -133,12 +133,12 @@ _Updated: 2026-02-27 19:03_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
