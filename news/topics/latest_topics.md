@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 22:53_
+_Updated: 2026-02-27 23:52_
 
 ## Top Stories
 
 - Benjamin Dousa och Johan Forssell om domen mot aktivisten - SVT Nyheter
-- Kuratorer möter unga som ska utvisas: ”Ta hit ministrarna” - Dagens Nyheter
-- Misstänkt föremål i Malmö var ofarligt - SVT Nyheter
 - Ingvar Carlsson i ny bok: Hatet är huvudspåret till varför Palme mördades - Dagens Nyheter
 - Bar Kiosko och arepas klara för Malmös nya streetfoodpark - Sydsvenskan
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
-- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
+- Ukraina: Över 50 ghananer dödade i Rysslands krig - GP
+- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
+- Kuratorer möter unga som ska utvisas: ”Ta hit ministrarna” - Dagens Nyheter
 - Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
 - EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- Tankesmedja: Ukraina överväger att släppa territorium - Dagens Nyheter
+- Ukraina: Över 50 ghananer dödade i Rysslands krig - Dagens Nyheter
 - Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
-- Ukraina: Över 50 ghananer dödade i Rysslands krig - Västerbottens-Kuriren
-- UPPDATERAS: Mycket svåra ryska förluster fortsätter - rysk oljedepå bombad - finansministrarna Reeves och Svantesson: Ryssland ljuger om sin haverererande ekonomi - cornucopia.se
+- Tonåring gripen för terrorplaner i Norge - Västerbottens-Kuriren
+- Larm om ukrainskt robotanfall i Ryssland - GP
 - Så kan du spara hundralappar på tågbiljetten - Dagens Nyheter
 - ”Vi ska inte göra aktieägare rika” - SvD
 - Svenska bolagets prestigeorder: Ska bygga BMW:s bilar - Dagens PS
 - Rekorddyr februari i norr – fortsatt höga elpriser i mars - Bixia - Cision News
-- Elton, 16, flyger planet själv – målet är att bli SAS-pilot: ”En dröm” - NWT
 - Quiz: Vad kan du om Pokémon? - GP
+- Elton, 16, flyger planet själv – målet är att bli SAS-pilot: ”En dröm” - NWT
 
 ## World News
 
@@ -36,22 +36,22 @@ _Updated: 2026-02-27 22:53_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - » GMMP: Global backlash syns i världens medier - Fempers
-- Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - 31 globalfonder åker ur PPM – avgiften halveras - Placera.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -100,22 +100,22 @@ _Updated: 2026-02-27 22:53_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Johan von Schreeb - Karolinska Institutet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
