@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 17:06_
+_Updated: 2026-02-27 18:00_
 
 ## Top Stories
 
 - Väderglädjen – tvåsiffriga plusgrader på flera håll i Skåne - Sydsvenskan
-- Tonåring gripen för terrorplaner i Norge - SVT Nyheter
 - Oro för unikt villaområde – när äldreboendet växer - GP
-- Dambergs löfte: Staten ska sluta slösa pengar - SvD
-- Lodjursjakt i flera län får grönt ljus - SVT Nyheter
-- DEBATT: MP: Tonårsutvisningarna måste stoppas nu - Norran
-- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
-- Brister i säkerhetsskydd – GU krävs på miljoner - SVT Nyheter
+- Jonson (M) öppnar för kärnvapen - SVT Nyheter
+- Tonåring gripen för terrorplaner i Norge - SVT Nyheter
+- Adam Cwejman: Regimen i Iran förstår bara styrka - GP
+- Statsministern, utrikesministern och försvarsministern besökte Malmö - Regeringen.se
+- Kvinna dog på Akademiska sjukhuset – anställd åtalas - SVT Nyheter
+- Åtgärder för att trygga informationssäkerheten kring Cosmic - Region Blekinge
 - S-förslaget: Sätt finsk trupp på Gotland - Dagens Nyheter
-- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
-- Polen vill förbjuda sociala medier för barn - GP
-- DN Direkt – Amanda Lind: Klistra inte på oss att vi är ”soft on crime” - Dagens Nyheter
+- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
+- Fyllnadsvalet i Manchester blev en käftsmäll för Starmer - Yle
+- ”Bonusprinsens” häktning förlängs - GP
+- DN Direkt – USA: Ökad risk för terror i Israel - Dagens Nyheter
 - Forskning i fokus när Lotta Edholm besöker Bryssel - Regeringen.se
-- Kung Harald skrivs ut från sjukhuset - Folkbladet
+- Nu tar unga med föräldrar till jobbintervjun: "Blev chockad" - Dagens PS
 - BioGaia: Direktförsäljning i fokus - Affärsvärlden
+- Expert: AI ersätter rådgivning – gissar helt fel: "Ger lägre pension" - News55
 - Film om Brasiliens legendariska VM-lag från 1970. Dyker upp på Netflix någon gång snart. - feber.se
+- Xcode 26.3 släpps med stöd för AI-agenter - Teknikveckan
 - Umeågrupp vann SM – i koreansk dans - Västerbottens-Kuriren
-- Den rebelliske ikonen – Tag Heuer Monaco Chronograph - Dagens PS
-- Nvidia pausar drivrutin som orsakar fläktproblem - Nordichardware
-- Sveriges nya roll: Vara bäst på att vara sämst - SvD
 
 ## World News
 
@@ -32,19 +32,19 @@ _Updated: 2026-02-27 17:06_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -121,24 +121,24 @@ _Updated: 2026-02-27 17:06_
 
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
