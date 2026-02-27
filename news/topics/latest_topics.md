@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 18:00_
+_Updated: 2026-02-27 19:03_
 
 ## Top Stories
 
-- Väderglädjen – tvåsiffriga plusgrader på flera håll i Skåne - Sydsvenskan
 - Oro för unikt villaområde – när äldreboendet växer - GP
-- Jonson (M) öppnar för kärnvapen - SVT Nyheter
-- Tonåring gripen för terrorplaner i Norge - SVT Nyheter
-- Adam Cwejman: Regimen i Iran förstår bara styrka - GP
+- Ny vändning: Lodjursjakten stoppas tillfälligt - SVT Nyheter
 - Statsministern, utrikesministern och försvarsministern besökte Malmö - Regeringen.se
-- Kvinna dog på Akademiska sjukhuset – anställd åtalas - SVT Nyheter
-- Åtgärder för att trygga informationssäkerheten kring Cosmic - Region Blekinge
+- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
 - S-förslaget: Sätt finsk trupp på Gotland - Dagens Nyheter
 - Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
-- Fyllnadsvalet i Manchester blev en käftsmäll för Starmer - Yle
-- ”Bonusprinsens” häktning förlängs - GP
-- DN Direkt – USA: Ökad risk för terror i Israel - Dagens Nyheter
-- Forskning i fokus när Lotta Edholm besöker Bryssel - Regeringen.se
-- Nu tar unga med föräldrar till jobbintervjun: "Blev chockad" - Dagens PS
+- VIKTOR BARTH-KRON: Splittring – även efter döden - Expressen
+- Labour tappar sitt fäste till Green Party – har röstat rött i 100 år - Bulletin
+- Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
+- Orbáns valbudskap: Välj mellan mig och Zelenskyj - Dagens PS
+- ”Bonusprinsens” häktning förlängs - Västerbottens-Kuriren
+- Lytens köp av Northvolt i Skellefteå klart - SVT Nyheter
 - BioGaia: Direktförsäljning i fokus - Affärsvärlden
-- Expert: AI ersätter rådgivning – gissar helt fel: "Ger lägre pension" - News55
+- Nu tar unga med föräldrar till jobbintervjun: "Blev chockad" - Dagens PS
+- USA:s ekonomi – kan avgöra höstens USA-val - SvD
+- Google Översätt-appen uppdateras med nya AI-funktioner - PC för Alla
+- Legion Go Fold är både en laptop och en handhållen spelkonsol. Nytt koncept från Lenovo med vikbar skärm. - feber.se
 - Film om Brasiliens legendariska VM-lag från 1970. Dyker upp på Netflix någon gång snart. - feber.se
 - Xcode 26.3 släpps med stöd för AI-agenter - Teknikveckan
-- Umeågrupp vann SM – i koreansk dans - Västerbottens-Kuriren
+- Oscars: Höga berg och djupa dalar på klassisk fransk kvarterskrog - Dagens Nyheter
 
 ## World News
 
-- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- IAEA report says Iran must allow inspections, points at Isfahan - Reuters
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
@@ -39,10 +39,10 @@ _Updated: 2026-02-27 18:00_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
@@ -77,22 +77,22 @@ _Updated: 2026-02-27 18:00_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -145,20 +145,20 @@ _Updated: 2026-02-27 18:00_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
-- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Framtidens jordbruk - European Commission
 - Lediga jobb - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
