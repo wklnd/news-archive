@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 07:05_
+_Updated: 2026-02-27 08:31_
 
 - Epstein files contain explicit but unsubstantiated claim that Trump abused minor - The Guardian
-- Columbia Student Is Released From ICE After Mamdani-Trump Meeting - The New York Times - The New York Times
+- Anthropic CEO says it ‘cannot in good conscience accede’ to Pentagon’s demands for AI use - AP News
 - Trump's surgeon general pick questioned birth control. Here's why women take it - Axios
-- Pakistan strikes Afghan cities as cross-border attacks escalate - BBC
-- After F.B.I. Raid, Los Angeles School Board Discusses Superintendent’s Future - The New York Times
-- Kansas revokes driver’s licenses from trans residents in latest assault on rights - The Guardian
-- FedEx Says It Could Return Tariff Refunds to Customers - The New York Times
-- US and Iran wrap up latest nuclear talks without a deal as the risk of war looms - AP News
-- Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard - Axios
-- How many people watched Trump's State of the Union address? - USA Today
+- Green Party wins Gorton and Denton by-election with Labour pushed into third by Reform - BBC
+- 'Nearly blind' refugee found dead after being released by Border Patrol in New York - NBC News
+- D.A. Rejects Assault Charge Against Man Who Threw Snowballs at Officers - The New York Times - The New York Times
+- Mamdani pitches Trump on housing in latest White House visit - AP News
+- Judge: IRS broke law ‘approximately 42,695 times’ in giving DHS data - The Washington Post
+- Idaho Sen. Risch to Trump BLM nominee: You have no authority to sell public land - Idaho Statesman
+- Ukraine Is Losing the War - Foreign Affairs
+- How the UK Could Remove Former Prince Andrew From the Royal Line of Succession - The New York Times - The New York Times
 - Death toll from Brazil floods rises to 46; 21 people still missing - Reuters
 - Italy calls for suspension of carbon price in major attack on EU climate policy - politico.eu
-- Kenyan police arrest man accused of recruiting fighters for Russia’s war in Ukraine - AP News
 - Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News
-- U.S. Mortgage Rates Fall Below 6% for First Time in Years - The New York Times
 - Meta’s Internal Chip Design Efforts Hit Roadblocks - The Information
 - US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)
-- iRacing Development Update: February 2026 - iRacing.com | iRacing.com Motorsport Simulations - iRacing
+- David Zaslav Calls Sale Process Rigorous, Highly Competitive & Thorough, Touts WBD “Creative Resurgence” - Deadline
+- Samsung’s announces new AirPods clones: the Galaxy Buds 4 and Buds 4 Pro - The Verge
 - NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR
-- New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica
+- iRacing Development Update: February 2026 - iRacing.com | iRacing.com Motorsport Simulations - iRacing
