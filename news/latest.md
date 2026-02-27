@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 01:59_
+_Updated: 2026-02-27 05:17_
 
-- Columbia Student Arrested by ICE in a University Building Is Released - The New York Times - The New York Times
-- Congressional Republicans will also investigate missing Epstein files related to Trump - NPR
-- Trump, seeking executive power over elections, is urged to declare emergency - The Washington Post
-- Justice Department Exposed Cooperating Witnesses in Epstein Files - The New York Times - The New York Times
-- Donald Trump’s State Of The Union Drew Around 28 Million Viewers Across Major Networks, Per Early Nielsen Data - Deadline
+- Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition - The New York Times - The New York Times
+- Epstein files contain explicit but unsubstantiated claim that Trump abused minor - The Guardian
+- U.S.-Iran nuclear talks were "positive," senior U.S. official says - Axios
 - Trump’s surgeon general pick, Casey Means, still lacks votes for confirmation - Politico
-- Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard - Axios
-- Denver Mayor Bars ICE From City Property and Orders Protection for Protesters - The New York Times
-- Democrats in four states seek to bar ICE employees from future civil service jobs - The Guardian
-- Trump’s next tariff fight: Keeping the money - Politico
-- Polls close in Gorton and Denton by-election and vote counting begins - BBC
-- Merz calls for rebalancing of Germany’s ‘unhealthy’ trade ties with China - politico.eu
+- Trump, seeking executive power over elections, is urged to declare emergency - The Washington Post
+- Mamdani Meets Again With Trump, Emerging With Two Unexpected Victories - The New York Times - The New York Times
+- Columbia Student Is Released From ICE After Mamdani-Trump Meeting - The New York Times - The New York Times
+- How many people watched Trump's State of the Union address? - USA Today
+- D.A. Rejects Assault Charge Against Man Who Threw Snowballs at Officers - The New York Times - The New York Times
+- Judge: IRS broke law ‘approximately 42,695 times’ in giving DHS data - The Washington Post
 - Ukraine Is Losing the War - Foreign Affairs
-- Mud volcano erupts near homes in Colombia; evacuations underway - BNO News
-- US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)
-- Social media addiction trial takes new turn with therapist's testimony - Reuters
-- Walmart Agrees to $100 Million FTC Settlement Over Driver Pay - WSJ
-- Lenovo Legion Go Fold concept leaks with 7.7-inch to 11.6-inch folding POLED display, Lunar Lake SoC - VideoCardz.com
-- Huawei GT Runner 2 Accuracy Review: The Next Best GPS Design? - DC Rainmaker
-- New Galaxy S25 update expands worldwide following S26 debut - SamMobile
+- How the UK Could Remove Former Prince Andrew From the Royal Line of Succession - The New York Times - The New York Times
+- Italy calls for suspension of carbon price in major attack on EU climate policy - politico.eu
+- Death toll from Brazil floods rises to 46; 21 people still missing - Reuters
+- Weber Recalls Over 3.2 Million Metal Wire Bristle Grill Brushes Due to Ingestion Hazard | CPSC.gov - CPSC.gov
+- FanDuel parent Flutter reports disappointing fourth-quarter earnings - CNBC
+- Meta’s Internal Chip Design Efforts Hit Roadblocks - The Information
+- Stellantis says no 2025 profit sharing checks for its U.S. autoworkers - The Detroit News
+- New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica
+- Two unique new MacBook Pros are launching this year, starting next week - 9to5Mac
