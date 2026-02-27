@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 09:27_
+_Updated: 2026-02-27 10:02_
 
 ## Top Stories
 
 - Amanda Lind: Klistra inte på oss att vi är ”soft on crime” - Dagens Nyheter
-- Försvarsministern öppnar för kärnvapen i Sverige i krigstid - Ny Teknik
+- Jonson öppnar för kärnvapen i Sverige i krigstid - Västerbottens-Kuriren
 - Trumps Iranmöte i natt – överväger attack - GP
-- Säverman: Ett kombiverktyg för alla lägen - Dagens Nyheter
 - Iransamtal avslutade i Genève - GP
-- Polisen rasar mot McDonalds-gäster efter misshandel - Expressen
-- INSÄNDARE: Det nya journalsystemet är ett haveri - Ekuriren
-- Misstänkte trippelmördaren: I stan för narkotika - Västerbottens-Kuriren
+- Misstänkte trippelmördaren: I stan för narkotika - Folkbladet
 - 26 februari 21.31, Trafikkontroll, Västerbottens län - polisen.se
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
+- Postnord förstörde 18 rättsmedicinska prover - Expressen
+- 400 miljoner per år för isbrytning – nu vill Sjöfartsverket att staten betalar - Ny Teknik
+- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
+- Elsas mamma välkomnar utlovad utredning - Bulletin
+- Hätsk rysk reaktion vid sidan om Ukrainas USA-möte - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Elbrist i Kiev till april - Dagens Nyheter
-- Danmark håller val i mars - GP
-- ”Bonusprinsens” nya attack: ”Hon får 4 miljoner av Netflix” - Expressen
-- Orbáns attack på Zelenskyj: Respektera oss! - Aftonbladet
-- USA:s ekonomi – kan avgöra höstens USA-val - Sydsvenskan
+- DN Direkt – USA: Amerikaner ombord på båt som besköts av Kuba - Dagens Nyheter
+- Genombrottet – 21 år efter Lisas försvinnande - Expressen
+- USA:s ekonomi – kan avgöra höstens USA-val - SvD
 - Luften gick ur börsballongerna - DI
-- Bedragare försökte sälja Gerts nya traktor på Facebook: ”Bluffannons” - NWT
-- En ny titt på LEGO Batman: Legacy of the Dark Knight. Det ultimata Batman-spelet? - feber.se
+- Polen vill förbjuda sociala medier för barn - Omni
 - Dagens Dubbel Tips Eskilstuna 27/2 - Travcash
 - Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
+- Hur internet var på väg att kollapsa. Veritasium snackar sårbarhet i XZ. - feber.se
 
 ## World News
 
@@ -43,7 +43,7 @@ _Updated: 2026-02-27 09:27_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
