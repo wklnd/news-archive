@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 21:54_
+_Updated: 2026-02-27 22:53_
 
 ## Top Stories
 
 - Benjamin Dousa och Johan Forssell om domen mot aktivisten - SVT Nyheter
 - Kuratorer möter unga som ska utvisas: ”Ta hit ministrarna” - Dagens Nyheter
 - Misstänkt föremål i Malmö var ofarligt - SVT Nyheter
+- Ingvar Carlsson i ny bok: Hatet är huvudspåret till varför Palme mördades - Dagens Nyheter
 - Bar Kiosko och arepas klara för Malmös nya streetfoodpark - Sydsvenskan
-- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
+- 40 år efter Palmemordet är vi fortfarande lika vilsna - Dagens Nyheter
+- Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
 - Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
 - EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- Meteorologens besked: Våren kan komma i dag - Aftonbladet
-- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
+- Tankesmedja: Ukraina överväger att släppa territorium - Dagens Nyheter
 - Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
-- ”Bonusprinsens” häktning förlängs - GP
+- Ukraina: Över 50 ghananer dödade i Rysslands krig - Västerbottens-Kuriren
 - UPPDATERAS: Mycket svåra ryska förluster fortsätter - rysk oljedepå bombad - finansministrarna Reeves och Svantesson: Ryssland ljuger om sin haverererande ekonomi - cornucopia.se
-- Ryska dubbelattacken – mitt under räddningsaktionen - Expressen
 - Så kan du spara hundralappar på tågbiljetten - Dagens Nyheter
-- Skatteverket tvingar bolag i konkurs – i onödan - News55
-- TMF: Tydlig ROT-effekt för renoveringsmarknaden - Bostadspolitik
+- ”Vi ska inte göra aktieägare rika” - SvD
+- Svenska bolagets prestigeorder: Ska bygga BMW:s bilar - Dagens PS
 - Rekorddyr februari i norr – fortsatt höga elpriser i mars - Bixia - Cision News
 - Elton, 16, flyger planet själv – målet är att bli SAS-pilot: ”En dröm” - NWT
 - Quiz: Vad kan du om Pokémon? - GP
@@ -51,7 +51,7 @@ _Updated: 2026-02-27 21:54_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -59,6 +59,7 @@ _Updated: 2026-02-27 21:54_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-02-27 21:54_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -77,22 +77,22 @@ _Updated: 2026-02-27 21:54_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -104,15 +104,15 @@ _Updated: 2026-02-27 21:54_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -154,11 +154,11 @@ _Updated: 2026-02-27 21:54_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk - European Commission
-- Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - EU Digital Strategy
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
