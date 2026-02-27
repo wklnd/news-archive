@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 22:59_
+_Updated: 2026-02-27 23:57_
 
-- Trump Live Updates: Bill Clinton Says He 'Did Nothing Wrong' in House Epstein Inquiry - The New York Times
-- With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed - The New York Times
-- Transgender youths are targeted in Scouting America changes pushed by the Pentagon - AP News
-- Trump’s ballroom project can continue for now, court says - NPR
-- Transgender Kansans Sue After Driver’s Licenses Are Abruptly Canceled - The New York Times
-- UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans - CNN
-- Anthropic refuses to bend to Pentagon on AI safeguards as dispute nears deadline - AP News
-- After Supreme Court ruling, White House does damage control on trade deals - Politico
-- Detained Columbia student released after Mamdani-Trump phone call, day of protests - Gothamist
-- Is the Twin Cities region in for a Saturday snow surprise? - Bring Me The News
+- Pentagon Attacks Anthropic Chief as Deadline Looms in Standoff - The New York Times
+- Trump ‘not happy’ with Iran situation and says military force is still an option - The Guardian
 - Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says - AP News
+- Justice Department indicts 30 more in anti-ICE church protest in Minnesota - NBC News
+- Trump’s ballroom project can continue for now, court says - NPR
+- Border Patrol Left a Refugee at a Cafe. Days Later, He Was Found Dead. - The New York Times
+- Carvalho’s big bet on AI imploded at L.A. schools. Now, it’s the center of FBI raids - Los Angeles Times
+- Solar power’s newest friends: MAGA influencers - Politico
+- The Birthrate Is Plunging. Why Some Say That’s a Good Thing. - The New York Times
+- Hegseth strikes new deal with Scouts: Girls allowed for now, DEI is banned - The Washington Post
 - Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home - The New York Times
-- With only 3 women left, an Amazon tribe faced extinction. An unexpected birth now brings hope - AP News
 - Marco Rubio orders US officials to stop commentary that could strain Iran talks - The Guardian
-- Dow tumbles 700 points after hot inflation report, mounting concerns about AI impact: Live updates - CNBC
+- Canada says India no longer linked to violent crime ahead of Carney trip - BBC
+- European Commission says EU funds can be used for cross-border abortion access - Euronews.com
+- Stock Market Today: Dow Sinks On Hot Inflation; Nvidia Plunges On OpenAI Deal (Live Coverage) - Investor's Business Daily
+- Meta’s Defense In Social Media Addiction Trial Is Basically A Shrug - Defector
 - Elon Musk’s Secret Web of Companies in Texas - The New York Times
-- Mortgage Rates Fall Below 6% for the First Time Since 2022 - WSJ
-- In Landmark Trial, Plaintiff Says Social Media Harm Started at Age 6 - The New York Times
-- Samsung Uncommited to Another iPhone Air Rival or Trifold, COO Says - Bloomberg.com
-- Samsung confirms an improved S Pen is in the works - SamMobile
+- Here’s Why CoreWeave (CRWV) Is Dragging Down Nebius and Iren After Its Mixed Q4 - TipRanks
+- Google is winding down the Pixel Studio app - 9to5Google
+- How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times
