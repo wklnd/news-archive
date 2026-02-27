@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-27 05:17_
+_Updated: 2026-02-27 07:05_
 
-- Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition - The New York Times - The New York Times
 - Epstein files contain explicit but unsubstantiated claim that Trump abused minor - The Guardian
-- U.S.-Iran nuclear talks were "positive," senior U.S. official says - Axios
-- Trump’s surgeon general pick, Casey Means, still lacks votes for confirmation - Politico
-- Trump, seeking executive power over elections, is urged to declare emergency - The Washington Post
-- Mamdani Meets Again With Trump, Emerging With Two Unexpected Victories - The New York Times - The New York Times
 - Columbia Student Is Released From ICE After Mamdani-Trump Meeting - The New York Times - The New York Times
+- Trump's surgeon general pick questioned birth control. Here's why women take it - Axios
+- Pakistan strikes Afghan cities as cross-border attacks escalate - BBC
+- After F.B.I. Raid, Los Angeles School Board Discusses Superintendent’s Future - The New York Times
+- Kansas revokes driver’s licenses from trans residents in latest assault on rights - The Guardian
+- FedEx Says It Could Return Tariff Refunds to Customers - The New York Times
+- US and Iran wrap up latest nuclear talks without a deal as the risk of war looms - AP News
+- Scoop: US citizens were on stolen boat in deadly shooting with Cuba's coast guard - Axios
 - How many people watched Trump's State of the Union address? - USA Today
-- D.A. Rejects Assault Charge Against Man Who Threw Snowballs at Officers - The New York Times - The New York Times
-- Judge: IRS broke law ‘approximately 42,695 times’ in giving DHS data - The Washington Post
-- Ukraine Is Losing the War - Foreign Affairs
-- How the UK Could Remove Former Prince Andrew From the Royal Line of Succession - The New York Times - The New York Times
-- Italy calls for suspension of carbon price in major attack on EU climate policy - politico.eu
 - Death toll from Brazil floods rises to 46; 21 people still missing - Reuters
-- Weber Recalls Over 3.2 Million Metal Wire Bristle Grill Brushes Due to Ingestion Hazard | CPSC.gov - CPSC.gov
-- FanDuel parent Flutter reports disappointing fourth-quarter earnings - CNBC
+- Italy calls for suspension of carbon price in major attack on EU climate policy - politico.eu
+- Kenyan police arrest man accused of recruiting fighters for Russia’s war in Ukraine - AP News
+- Young woman says she was on social media 'all day long' as a child in landmark addiction trial - AP News
+- U.S. Mortgage Rates Fall Below 6% for First Time in Years - The New York Times
 - Meta’s Internal Chip Design Efforts Hit Roadblocks - The Information
-- Stellantis says no 2025 profit sharing checks for its U.S. autoworkers - The Detroit News
+- US Department of Labor proposes rule clarifying employee, independent contractor status under federal wage and hour laws - U.S. Department of Labor (.gov)
+- iRacing Development Update: February 2026 - iRacing.com | iRacing.com Motorsport Simulations - iRacing
+- NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR
 - New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica
-- Two unique new MacBook Pros are launching this year, starting next week - 9to5Mac
