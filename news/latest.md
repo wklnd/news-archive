@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 00:57_
+_Updated: 2026-02-28 01:55_
 
-- Trump says he'd 'love not to' attack Iran, 'but sometimes you have to' - CNBC
-- With Possible Iran Strike Looming, U.S. Says Staff Can Leave Israel, and Urges Speed - The New York Times
 - Justice Department indicts 30 more in anti-ICE church protest in Minnesota - NBC News
-- Pentagon and Scouting America reach deal to keep ties after Hegseth’s anti-DEI push - AP News
+- Senate GOP candidates pray for an endorsement as they join Trump in Texas - CNN
 - New Ring Camera Footage Near Nancy Guthrie’s Home Shows Car Speeding Down the Road Minutes After Her Abduction - Yahoo News New Zealand
+- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
 - Trump suggests US could carry out ‘friendly takeover’ of Cuba - The Guardian
-- Kamala Harris makes last-minute pitch for Jasmine Crockett with robocall - The Texas Tribune
-- Live Updates: Trump Weighs Iran Strikes, Bill Clinton Testifies in Epstein Inquiry - The New York Times
-- The Birthrate Is Plunging. Why Some Say That’s a Good Thing. - The New York Times
-- Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says - AP News
+- Victims’ Families Stunned by Failure of Air Safety Bill in House - The New York Times
+- Transgender Kansans Sue After Driver’s Licenses Are Abruptly Canceled - The New York Times
+- After El Mencho killing, who will run Mexico's biggest cartel? It could be a man born in California - Los Angeles Times
+- UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans - CNN
+- Rare 2,000-year-old treasure unearthed by metal detectorists in Wales: "We were astonished" - CBS News
 - Hungary Plays Spoiler in Europe as Orban Strains for Votes at Home - The New York Times
 - EU fast-tracks trade deal with South America's Mercosur, to France's chagrin - Reuters
-- European Commission says EU funds can be used for cross-border abortion access - Euronews.com
-- Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low - Bloomberg.com
-- Meta’s Defense In Social Media Addiction Trial Is Basically A Shrug - Defector
+- Stock Market Today: Dow Drops 600 Points; Indexes on Pace for Monthly Losses — Live Updates - WSJ
 - Elon Musk’s Secret Web of Companies in Texas - The New York Times
-- Mortgage Rates Fall Below 6% for the First Time Since 2022 - WSJ
-- It's Official: Resident Evil Requiem Uses Sony's Brand-New PSSR Upscaler - Digital Foundry
-- A cheap MacBook is the perfect way for Apple to win over Windows users - Engadget
+- Here’s Why CoreWeave (CRWV) Is Dragging Down Nebius and Iren After Its Mixed Q4 - TipRanks
+- Bank of America resets Nvidia price target after earnings - thestreet.com
 - How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times
+- The Trump phone sure looks a lot like this HTC handset - The Verge
+- Steam Deck turns 4, Valve still has no update on a successor - VideoCardz.com
+- The Ultimate Guide to Teenage Mutant Ninja Turtles Sealed - Draftsim
