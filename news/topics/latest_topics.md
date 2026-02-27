@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-27 10:02_
+_Updated: 2026-02-27 11:07_
 
 ## Top Stories
 
-- Amanda Lind: Klistra inte på oss att vi är ”soft on crime” - Dagens Nyheter
-- Jonson öppnar för kärnvapen i Sverige i krigstid - Västerbottens-Kuriren
-- Trumps Iranmöte i natt – överväger attack - GP
+- Tre svenska barn kvar i IS-lägret - Aftonbladet
+- Inbrott i Ulvsunda – fotanglar skapade kaos på vägarna - Mitt i
+- Säverman: Ett kombiverktyg för alla lägen - Dagens Nyheter
+- Dålig kondition eller alkohol – det är värst - Aftonbladet
+- ”De åt toalettpapper och tvål”: Ukrainska krigsfångar berättar om svält i rysk fångenskap - Dagens.se
 - Iransamtal avslutade i Genève - GP
-- Misstänkte trippelmördaren: I stan för narkotika - Folkbladet
-- 26 februari 21.31, Trafikkontroll, Västerbottens län - polisen.se
+- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
+- Amanda Lind: Klistra inte på oss att vi är ”soft on crime” - Dagens Nyheter
 - Postnord förstörde 18 rättsmedicinska prover - Expressen
-- 400 miljoner per år för isbrytning – nu vill Sjöfartsverket att staten betalar - Ny Teknik
-- Ny katastrofsiffra för Liberalerna – lägst hittills - Dagens Nyheter
-- Elsas mamma välkomnar utlovad utredning - Bulletin
-- Hätsk rysk reaktion vid sidan om Ukrainas USA-möte - Dagens Nyheter
+- Jonson öppnar för kärnvapen i Sverige i krigstid - Västerbottens-Kuriren
+- Pakistans försvarsminister förklarar ”öppet krig” mot talibanerna i Afghanistan - GP
 - Direkt – Kriget i Ukraina – Elbrist i Kiev till april - Dagens Nyheter
-- DN Direkt – USA: Amerikaner ombord på båt som besköts av Kuba - Dagens Nyheter
-- Genombrottet – 21 år efter Lisas försvinnande - Expressen
+- Historisk seger för gröna i Labour-fäste - tidningensyre.se
+- Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
 - USA:s ekonomi – kan avgöra höstens USA-val - SvD
-- Luften gick ur börsballongerna - DI
-- Polen vill förbjuda sociala medier för barn - Omni
-- Dagens Dubbel Tips Eskilstuna 27/2 - Travcash
-- Största bilden hittills av Vintergatans centrum - Chalmers tekniska högskola
-- Hur internet var på väg att kollapsa. Veritasium snackar sårbarhet i XZ. - feber.se
+- Mer muskler, mindre mage – tre regler som faktiskt fungerar - Dagens PS
+- Novo Nordisk i miljardavtal gällande nästa generations viktpiller - Placera.se
+- Google släpper ny version av populärt bildverktyg - Omni
+- Så försökte bedragare sälja Gerts nya traktor på Facebook - NWT
+- Test: Anker Soundcore Liberty Buds – hörlurar med annorlunda design - m3.se
 
 ## World News
 
@@ -33,35 +33,36 @@ _Updated: 2026-02-27 10:02_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Medaljregn över Mindshare i Festival of Media Global Awards - Mindshare
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Fondtorgsnämnden meddelar tilldelningsbeslut i upphandlingen av aktivt förvaltade globala aktiefonder - Cision
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Nästa generations Internet of Things - EU Digital Strategy
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-02-27 10:02_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -124,7 +124,6 @@ _Updated: 2026-02-27 10:02_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -136,29 +135,30 @@ _Updated: 2026-02-27 10:02_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
