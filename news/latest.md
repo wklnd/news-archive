@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 09:53_
+_Updated: 2026-02-28 10:58_
 
-- Israel says it has launched attack on Iran, as explosions reported in Tehran - BBC
-- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times - The New York Times
-- Blind refugee found dead in New York after released by immigration authorities - BBC
+- Blind refugee found dead in New York after being released by immigration authorities - BBC
+- Top Democrats, voting rights experts slam Trump's draft illegal order to seize control of voting - Democracy Docket
 - Attorney general announces indictment against 30 more people who protested at a Minnesota church - AP News
-- Mamdani did Trump a solid by keeping their White House meeting under wraps - Politico
-- Fewer Detectives Will Hunt for Nancy Guthrie, Signaling a New Phase - The New York Times
-- Renee Good was ‘slow to anger, quick to love,’ her father tells AP - AP News
+- Transgender Kansas Residents Sue After Driver’s Licenses Are Invalidated - The New York Times - The New York Times
+- Biden seizes on Trump's sinking favorability in a combative speech in South Carolina - NBC News
+- Trump advisers scramble to justify possible US military intervention in Iran - The Guardian
 - Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed - AP News
-- Columbia Student Detained by ICE Promotes ‘Beauty’ and ‘Brains’ Online - The New York Times - The New York Times
 - Justice Dept. Tries to Slow Down Legal Battle Over Tariff Refunds - The New York Times - The New York Times
+- Columbia Student Detained by ICE Promotes ‘Beauty’ and ‘Brains’ Online - The New York Times - The New York Times
+- UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans - CNN
 - Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat - BBC
+- North Korea’s Kim gifts rifles to officials and his daughter takes aim after party congress - AP News
 - A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
-- North Korean leader presents new sniper rifles to party officials - Reuters
-- Europe Needs Some Space From China and Trump. Its Firms Don’t. - The New York Times
-- FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer, saying schedule could stress safety systems - ABC7 Chicago
-- Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios
+- OpenAI strikes deal with Pentagon, hours after rival Anthropic was blacklisted by Trump - CNBC
+- New Report Uncovers Elon Musk’s Hidden Network of 90-Plus Texas Companies Buying Land and Influence - inc.com
+- See the New Trailer for Pokémon Winds and Pokémon Waves, Coming to Nintendo Switch 2 - Pokemon.com
+- What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors
 - Ultrahuman bets on redesigned smart ring to win back US market after Oura dispute - TechCrunch
-- New Studio Display may have higher-end model with these upgrades, per leak - 9to5Mac
 - Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto
-- How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times - The New York Times
+- ‘Scream 7’ Shrieking At Record Decibels With Franchise-Best $59M Debut – Box Office Update - Deadline
