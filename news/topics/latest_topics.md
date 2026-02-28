@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 06:40_
+_Updated: 2026-02-28 07:56_
 
 ## Top Stories
 
+- Hade mördaren tvättat händerna före skotten? - SvD
+- Barnmorskan trotsade Ivo:s förbud – riskerar fängelse - GP
+- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
+- USA-ursäkten till Danmark för Grönlandsbråk - Expressen
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
-- Erik de la Reguera: På bara några timmar skulle franska kärnvapen kunna finnas i Sverige - Dagens Nyheter
+- Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
+- Debatt: Liberalerna måste våga bryta Tidöavtalet – för rättsstatens och framtidens skull - VF
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
-- Vi tar hem en vinst i portföljen – här är småbolaget som ersätter - Privata Affärer
-- Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
 - Meteorologens besked: Våren kan komma i dag - Aftonbladet
-- Henrik Jalalian: Falafel skrämmer Peter Kullgren – då blir han hela Sveriges curlingpappa - ETC.se
-- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
 - Experten om USA och Iran: ”Sammantagna bilden är att det blinkar rött” - SVT Nyheter
-- IAEA manar Iran att släppa fram uraninspektion - GP
-- UPPDATERAS: Mycket svåra ryska förluster fortsätter - rysk oljedepå bombad - finansministrarna Reeves och Svantesson: Ryssland ljuger om sin haverererande ekonomi - cornucopia.se
-- Orbáns attack på Zelenskyj: Respektera oss! - Expressen
+- Skuggstaten ska säkra mullornas makt över Iran - Västerbottens-Kuriren
+- Ukraina: 120 strider på ett dygn - Dagens Nyheter
+- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
+- AI-bolaget som vägrar vika sig för Trump - GP
+- Finansiering för att öka Sveriges robusthet och resiliens - Energimyndigheten
 - Recept kan hämtas ut igen – stora problem under dagen - Omni
 - Stjärnan lurad på stan av ”raggande” man - SvD
-- Blygsam uppgång väntas på Stockholmsbörsen - Placera.se
-- Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
 - Astronomer håller andan: En av universums största stjärnor kan gå in i dramatisk och instabil fas - Illustrerad Vetenskap
 - iFi GO Link 2 blåser liv i dina sladd-hörlurar. Blir din för 69 euro. - feber.se
-- Världens säkraste bil hittades dumpad på åker - Carup.se
 
 ## World News
 
@@ -33,19 +33,19 @@ _Updated: 2026-02-28 06:40_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
@@ -99,23 +99,23 @@ _Updated: 2026-02-28 06:40_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Johan von Schreeb - Karolinska Institutet
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -138,7 +138,7 @@ _Updated: 2026-02-28 06:40_
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
