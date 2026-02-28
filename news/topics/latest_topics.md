@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 04:57_
+_Updated: 2026-02-28 06:40_
 
 ## Top Stories
 
-- USA-ursäkten till Danmark för Grönlandsbråk - Expressen
-- Lodjursjakten stoppas: ”Folk går in med liv och lust” - SVT Nyheter
+- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
+- Erik de la Reguera: På bara några timmar skulle franska kärnvapen kunna finnas i Sverige - Dagens Nyheter
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
-- IAEA manar Iran att släppa fram uraninspektion - SvD
-- Regeringen duckar natur­restaureringen – ”alldeles för låga ambitioner” - Natursidan
-- Stort utbrott av fågelinfluensa i Torsås – 48 000 fåglar avlivas - SVT Nyheter
-- Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
+- Vi tar hem en vinst i portföljen – här är småbolaget som ersätter - Privata Affärer
 - Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
 - Meteorologens besked: Våren kan komma i dag - Aftonbladet
+- Henrik Jalalian: Falafel skrämmer Peter Kullgren – då blir han hela Sveriges curlingpappa - ETC.se
+- Tomas Ramberg: Det kan bli MP som får skämmas när Sverige missar klimatmålen - Dagens Nyheter
 - Experten om USA och Iran: ”Sammantagna bilden är att det blinkar rött” - SVT Nyheter
-- Danska Säpo: Rysk valpåverkan sannolik - GP
-- Tonåring gripen för terrorplaner i Norge - Expressen
+- IAEA manar Iran att släppa fram uraninspektion - GP
+- UPPDATERAS: Mycket svåra ryska förluster fortsätter - rysk oljedepå bombad - finansministrarna Reeves och Svantesson: Ryssland ljuger om sin haverererande ekonomi - cornucopia.se
 - Orbáns attack på Zelenskyj: Respektera oss! - Expressen
-- Börsen handlades upp – Viaplay lyfte på Telia-avtal - Omni
-- LEDARE: EU-planen för svenska elkunder leker med elden - Expressen
 - Recept kan hämtas ut igen – stora problem under dagen - Omni
-- Tesla mot Jämtkraft i Åre – facklig blockad stoppar - Dagens Arbete
-- Quiz: Vad kan du om Pokémon? - GP
+- Stjärnan lurad på stan av ”raggande” man - SvD
+- Blygsam uppgång väntas på Stockholmsbörsen - Placera.se
+- Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
+- Astronomer håller andan: En av universums största stjärnor kan gå in i dramatisk och instabil fas - Illustrerad Vetenskap
+- iFi GO Link 2 blåser liv i dina sladd-hörlurar. Blir din för 69 euro. - feber.se
 - Världens säkraste bil hittades dumpad på åker - Carup.se
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
@@ -55,21 +55,21 @@ _Updated: 2026-02-28 04:57_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -77,22 +77,22 @@ _Updated: 2026-02-28 04:57_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2026-02-28 04:57_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -154,9 +154,9 @@ _Updated: 2026-02-28 04:57_
 - Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
