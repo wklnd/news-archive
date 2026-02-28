@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 18:55_
+_Updated: 2026-02-28 19:52_
 
 - The Bloody Rise and Fall of Mexico’s Top Crime Boss - The New York Times
-- France's Macron calls for urgent meeting of U.N. security council on Iran - Reuters
+- Democrats demand war powers vote after U.S. strikes Iran - Axios
+- Flights cancelled as travel warnings issued after US-Israeli strikes on Iran - BBC
 - Canceled contracts, a failed polygraph and personal disputes: Inside the turbulent tenure of Noem’s former cyber czar - Politico
 - North Carolina Democrats latest to chart future of the party in congressional primary - NPR
-- ‘Acts of war unauthorized by Congress’: Trump’s congressional critics denounce Iran strikes - Politico
-- US Forces Locked in Air-Defense Battles Amid Fight With Iran: Official - Business Insider
+- Trump suggests U.S. could have 'friendly takeover of Cuba' - PBS
+- Digital forensics could be the tool that helps 'paint a picture of truth' in the Guthrie case - NBC News
+- Trump and Rubio have brought Cuba's government to the brink - dw.com
 - A Supreme Court case over whether marijuana users can own guns is creating unusual alliances - AP News
-- More people are moving out of the U.S. than moving in for the first time since the Great Depression—a bad omen for the $38.8 trillion national debt - Fortune
-- Renee Good was ‘slow to anger, quick to love,’ her father tells AP - AP News
-- Flights cancelled as travel warnings issued after US-Israeli strikes on Iran - BBC
-- Iranian missiles shake Gulf cities after US, Israeli strikes on Iran - Reuters
-- Bitcoin Slides Below $64,000 After Explosions Reported in Tehran - Bloomberg
-- Warren Buffett's Successor, Greg Abel, Has Inherited a $318 Billion Portfolio That Has 61% of Invested Assets in These 5 Unstoppable Stocks - The Motley Fool
+- Oil Prices Have Been Rising Over Fears of Conflict - WSJ
+- Berkshire CEO Greg Abel vows to keep Buffett's culture of disciplined investing in first annual letter - CNBC
 - What’s at Stake for Oil Markets as Trump Strikes Iran - Bloomberg
-- Zillow forecasts critical mortgage rate change, homebuyer reaction - thestreet.com
-- Ultrahuman bets on redesigned smart ring to win back US market after Oura dispute - TechCrunch
+- Is AMD a Buy After Meta Deal? - The Motley Fool
+- Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors
+- Our Editors' Choice-Winning Bose QuietComfort Ultra Headphones Are Now 35% Off - PCMag
 - Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto
-- BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com
-- Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games
-- Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86 - The New York Times
+- Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. - The Guardian
+- ‘Scream 7’ Shrieking At Record Decibels With Franchise-Best $60M+ Debut – Box Office Update - Deadline
+- Tess Holliday Says She Was Denied Life Insurance Because of Her Weight - The Cut
+- Beloved actress, rock star’s daughter fighting for her life: ‘Hanging on by a thread’ - PennLive.com
