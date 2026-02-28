@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 12:55_
+_Updated: 2026-02-28 13:50_
 
-- Iran latest: US and Israel launch attack on Iran, as Trump says 'major combat operations' under way - follow live - BBC
-- Cuba unveils new details in fatal US boat shooting and says a 2nd boat on mission failed - AP News
-- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
+- OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic - CNN
 - After Supreme Court ruling, White House does damage control on trade deals - Politico
+- Blind refugee found dead in New York after being released by immigration authorities - BBC
+- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
 - Biden seizes on Trump's sinking favorability in a combative speech in South Carolina - NBC News
-- Fewer Detectives Will Hunt for Nancy Guthrie, Signaling a New Phase - The New York Times
+- DOJ charges 30 more for Minnesota church protest - Politico
+- ‘Acts of war unauthorized by Congress’: Trump’s congressional critics denounce Iran strikes - Politico
+- Renee Good was ‘slow to anger, quick to love,’ her father tells AP - AP News
 - Mamdani did Trump a solid by keeping their White House meeting under wraps - Politico
-- Attorney general announces indictment against 30 more people who protested at a Minnesota church - AP News
 - Justice Dept. Tries to Slow Down Legal Battle Over Tariff Refunds - The New York Times
-- Israel, Iran Close Airspace for Flights After Strike on Tehran - Bloomberg.com
+- Carney Visiting India, Australia and Japan to Build Canada’s ‘Middle Power’ Bonds - The New York Times
+- UK Green Party: How a working-class plumber threw a wrench in Starmer’s election plans - CNN
 - US and Israel launch a major attack on Iran and Trump urges Iranians to 'take over your government' - San Francisco Chronicle
-- Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat - BBC
-- Europe Needs Some Space From China and Trump. Its Firms Don’t. - The New York Times
-- New Report Uncovers Elon Musk’s Hidden Network of 90-Plus Texas Companies Buying Land and Influence - inc.com
+- Underground and under fire: why Israel’s hospitals are preparing differently for the next war with Iran - Ynetnews
+- Stock Market News Today, 2/27/26 – U.S. Stock Futures Slide as Nvidia Drops 5.6% - TipRanks
+- FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer - ABC7 Chicago
+- Dow Jones Futures: Trump's Anthropic Move Hits Market ETFs; Don't Forget S&P 500's Hottest Stocks - Investor's Business Daily
 - Nvidia CEO delivers blunt 7-word rebuttal on software stocks - thestreet.com
-- Here’s Why CoreWeave (CRWV) Dragged Down Nebius and Iren After Its Mixed Q4 - TipRanks
-- What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors
-- Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto
-- Add Drift Tuning to Select New Vehicles Including the Brand New Shitzu Keitora - Rockstar Games
-- Samsung confirms satellite connectivity for Galaxy S26 and older Galaxy devices - 9to5Google
+- New Studio Display may have higher-end model with these upgrades, per leak - 9to5Mac
+- Mutants and Mutagen in Magic: The Gathering® | Teenage Mutant Ninja Turtles - Magic: The Gathering
