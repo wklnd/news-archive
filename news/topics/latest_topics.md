@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 23:44_
+_Updated: 2026-03-01 00:47_
 
 ## Top Stories
 
 - UD: Res inte till Qatar eller Dubai - Västerbottens-Kuriren
+- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Experten: Så kan Talibanerna svara på Pakistans attack - GP
+- USA: Pakistan har rätt att försvara sig mot talibanerna - Omni
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
-- SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
 - Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
+- Tidningen som drevs av talmannen har tagits över av högerextremister - ETC.se
 - Karin Eriksson: Ska Trump säkra segern åt Mette Frederiksen? - Dagens Nyheter
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
-- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
+- Open AI gör upp med Pentagon - Hufvudstadsbladet
 - Gardell om Klarna: "Ett misstag att notera i USA" - Placera.se
+- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
 - Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
 - Xiaomi lanserar Wear OS-klockan Watch 5 med superlång batteritid - mobil.se
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
-- Unga fruns svar efter hårda kängan till Dolph Lundgren i Melodifestivalen - Expressen
+- Melodifestivalen: Gry Forssells kupp i tv – grylappar - Expressen
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-02-28 23:44_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
+- Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -119,8 +119,8 @@ _Updated: 2026-02-28 23:44_
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -133,26 +133,26 @@ _Updated: 2026-02-28 23:44_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
@@ -161,4 +161,4 @@ _Updated: 2026-02-28 23:44_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Mjau_gåvoshop_mars - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
