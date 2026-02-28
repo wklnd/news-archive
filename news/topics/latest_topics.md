@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 21:42_
+_Updated: 2026-02-28 22:48_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Smällar i Dubai – fyra skadade - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
 - Experten: Så kan Talibanerna svara på Pakistans attack - GP
+- Här går tusentals samman – i protest mot Seniors utsläpp - Ekuriren
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
 - 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
-- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
-- M:s valmiss – fick ändra i sista stund - Expressen
+- SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
+- Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
-- Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
-- Minst 20 döda i flygkrasch i Bolivia - Expressen
+- Karin Eriksson: Ska Trump säkra segern åt Mette Frederiksen? - Dagens Nyheter
+- Skuggstaten ska säkra mullornas makt över Iran - Aftonbladet
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
-- Gul varning för snöfall - Expressen
+- Minst 20 döda i flygkrasch i Bolivia - Expressen
 - E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
 - Tydlig ROT-effekt för kök- och badrumsinredningar 2025 - Tidningen ByggMaterial
-- Nya matmomsen: Hämtmat blir billigare – men inte att äta på plats - News55
+- USA svartlistar AI-bolaget Anthropic för vapenvägran – sluter avtal med Open AI - Omni
+- Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
-- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
 ## World News
 
@@ -56,20 +56,20 @@ _Updated: 2026-02-28 21:42_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-02-28 21:42_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -142,15 +142,16 @@ _Updated: 2026-02-28 21:42_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -161,4 +162,3 @@ _Updated: 2026-02-28 21:42_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
