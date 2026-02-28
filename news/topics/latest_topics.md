@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 19:45_
+_Updated: 2026-02-28 20:55_
 
 ## Top Stories
 
-- Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
-- Här har kungens okända häst stått död – i 400 år - GP
-- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- Skuggstaten ska säkra mullornas makt över Iran - SvD
+- Direkt – Krisen i Mellanöstern – Smällar i Dubai – fyra skadade - Dagens Nyheter
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- Bondens oro: Då kanske vi får kassera all mat - laholmstidning.se
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
+- Experten: Så kan Talibanerna svara på Pakistans attack - GP
+- 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
 - Professor: ”Spiraler i bukhålan ska opereras bort” - Dagens Nyheter
-- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
-- Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
-- M:s valmiss – fick ändra i sista stund - Expressen
+- LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
+- Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
+- Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
+- Uppgifter: Khameneis palats förstört – Senaste nytt om Iran och konflikten med USA - SVT Nyheter
 - Minst 20 döda i flygkrasch i Bolivia - Expressen
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Gul varning för snöfall - Expressen
 - Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
-- En enda fråga återstår i fallet om Bonnesen - SvD
+- E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
-- Gardell om Klarna: "Ett misstag att notera i USA" - Placera.se
+- En enda fråga återstår i fallet om Bonnesen - SvD
+- Nya investerare tar över garantiåtaganden i Qlifes företrädesemission - Biostock
 - (+) Krönika: Mest överraskande på Xiaomis stora lansering - mobil.se
-- Test: Xiaomi 17 Ultra – Övertygande kameramobil - mobil.se
+- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
 - Annual Report 2024 - Olof Palme International Center
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -85,14 +85,14 @@ _Updated: 2026-02-28 19:45_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -106,6 +106,7 @@ _Updated: 2026-02-28 19:45_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
@@ -115,7 +116,6 @@ _Updated: 2026-02-28 19:45_
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -129,6 +129,7 @@ _Updated: 2026-02-28 19:45_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -138,14 +139,13 @@ _Updated: 2026-02-28 19:45_
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -154,11 +154,11 @@ _Updated: 2026-02-28 19:45_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
