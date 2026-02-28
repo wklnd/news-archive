@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 18:49_
+_Updated: 2026-02-28 19:45_
 
 ## Top Stories
 
 - Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
+- Här har kungens okända häst stått död – i 400 år - GP
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- 28 februari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
-- Gul vädervarning för snöfall i Hälsingland - Ljusnan
+- Skuggstaten ska säkra mullornas makt över Iran - SvD
+- 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- Experten: Så kan Talibanerna svara på Pakistans attack - GP
+- Professor: ”Spiraler i bukhålan ska opereras bort” - Dagens Nyheter
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
 - Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
-- Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
-- Hund på villovägar - Expressen
-- Sköt fruns föräldrar – för 208 miljoner - Expressen
-- Trumps sjukhusfartyg styr inte mot Grönland – på väg åt motsatt håll - Dagens Nyheter
-- Tankesmedja: Ukraina överväger att släppa territorium - Dagens Nyheter
+- M:s valmiss – fick ändra i sista stund - Expressen
+- Minst 20 döda i flygkrasch i Bolivia - Expressen
+- Trumps bisarra sexutspel: ”Som en hund” - Expressen
+- Gul varning för snöfall - Expressen
+- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
 - En enda fråga återstår i fallet om Bonnesen - SvD
-- AI-bolaget alla pratar om – detta är Anthropic - Sydsvenskan
-- Gardell om Klarna: "Ett misstag att notera i USA" - Placera.se
+- DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
 - Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
+- Gardell om Klarna: "Ett misstag att notera i USA" - Placera.se
+- (+) Krönika: Mest överraskande på Xiaomis stora lansering - mobil.se
 - Test: Xiaomi 17 Ultra – Övertygande kameramobil - mobil.se
-- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
@@ -85,35 +85,35 @@ _Updated: 2026-02-28 18:49_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
