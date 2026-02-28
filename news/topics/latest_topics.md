@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 16:48_
+_Updated: 2026-02-28 17:45_
 
 ## Top Stories
 
-- Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
 - Skuggstaten ska säkra mullornas makt över Iran - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Skoterförare räddad av norsk helikopter – förd till sjukhus - Norran
-- Modigt om kejserliga övergrepp som klassresans pris - Dagens Nyheter
+- 28 februari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
+- Snö i norr, regn i söder – SMHI varnar - Nerikes Allehanda
+- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
+- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
 - Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
-- Körde från polisen – kraschade - Expressen
 - Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
+- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - M:s valmiss – fick ändra i sista stund - Expressen
+- Gul varning för snöfall - Expressen
 - Minst 20 döda i flygkrasch i Bolivia - Expressen
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Gul varning för snöfall - Expressen
-- USA-ursäkten för Grönlandsbråket - Expressen
+- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
 - En enda fråga återstår i fallet om Bonnesen - SvD
 - AI-bolaget alla pratar om – detta är Anthropic - Sydsvenskan
-- LEDARE: De får miljarder för två timmars jobb - Expressen
 - Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
+- LEDARE: De får miljarder för två timmars jobb - Expressen
 - Test: Xiaomi 17 Ultra – Övertygande kameramobil - mobil.se
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
@@ -99,23 +99,23 @@ _Updated: 2026-02-28 16:48_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Institutionen för vårdvetenskap - Malmö universitet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -142,13 +142,12 @@ _Updated: 2026-02-28 16:48_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
@@ -161,4 +160,5 @@ _Updated: 2026-02-28 16:48_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
