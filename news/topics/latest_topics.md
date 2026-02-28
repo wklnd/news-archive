@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 09:01_
+_Updated: 2026-02-28 09:47_
 
 ## Top Stories
 
-- Björn Wiman: Palmemordet har avslöjat den hemska sanningen om oss själva - Dagens Nyheter
-- Israel har angripit Iran – explosion nära ayatollan - GP
-- Minst 15 döda i flygolycka i Bolivia - SVT Nyheter
 - Barnmorskan trotsade Ivo:s förbud – riskerar fängelse - GP
-- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
+- Pojke påkörd av bil på Limhamn – föraren smet - SVT Nyheter
+- DN Direkt – Årets första trana har landat vid Hornborgasjön - Dagens Nyheter
+- Debatt: Liberalerna måste våga bryta Tidöavtalet – för rättsstatens och framtidens skull - VF
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
-- Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
-- Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
-- VIKTOR BARTH-KRON: Splittring – även efter döden - Expressen
+- Erik de la Reguera: På bara några timmar skulle franska kärnvapen kunna finnas i Sverige - Dagens Nyheter
+- LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
+- Körde från polisen – kraschade - Expressen
+- Meteorologens besked: Våren kan komma i dag - Aftonbladet
+- Israel och USA attackerar Iran - Dagens Nyheter
+- Skuggstaten ska säkra mullornas makt över Iran - GP
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
 - USA-ursäkten till Danmark för Grönlandsbråk - Expressen
-- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
-- Ryska dubbelattacken – mitt under räddningsaktionen - Expressen
 - Rött på Wall Street – Nvidia fortsätter falla - Västerbottens-Kuriren
+- Tydlig ROT-effekt för kök- och badrumsinredningar 2025 - Tidningen ByggMaterial
 - Finansiering för att öka Sveriges robusthet och resiliens - Energimyndigheten
 - Recept kan hämtas ut igen – stora problem under dagen - Omni
-- Teslaaktioner ger laddkaos i fjällen - Kvartal
 - Panasonic-partnerskap bakom världens första ST 2110-lösning för stora skärmar - Metal Supply
 - Jag har testat gott om e-läsare men Onyx Boox Go 7 är den första Android-baserade e-boksläsaren jag verkligen gillar - TechRadar
 
@@ -36,9 +36,9 @@ _Updated: 2026-02-28 09:01_
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -119,16 +119,18 @@ _Updated: 2026-02-28 09:01_
 
 ## Science
 
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -137,8 +139,6 @@ _Updated: 2026-02-28 09:01_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
