@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 12:48_
+_Updated: 2026-02-28 13:42_
 
 ## Top Stories
 
-- I NATT: Skoterförare till sjukhus – räddad av norsk helikopter - Norran
+- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
+- Lodjursjakten stoppas i Västra Götaland tills vidare - SVT Nyheter
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
 - INSÄNDARE: Idag uppmärksammar vi sällsynta sjukdomar - Ekuriren
-- Göteborgaren Shirin: "Kan inte nå familjen i Iran" - GP
-- Tillfälliga trafikåtgärder i hamnen när fartyget Charles de Gaulle besöker Malmö - Malmö stad
-- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
-- LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
+- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
+- Attacker mot Iran: Ställ dina frågor till experten - GP
 - M:s valmiss – fick ändra i sista stund - Expressen
+- LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
-- Israel och USA har attackerat Iran - SVT Nyheter
-- DN Direkt – Minst 15 döda i flygkrasch i Bolivia - Dagens Nyheter
-- DN Direkt – Årets första trana har landat vid Hornborgasjön - Dagens Nyheter
+- Mohamsson om opinionen: ”Är katastrofsiffror” - Aftonbladet
+- DN Direkt – Inte längre misstänkt för terrorbrott - Dagens Nyheter
+- Plan fyllt med pengar kraschade – minst 20 döda - Västerbottens-Kuriren
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
+- USA-ursäkten för Grönlandsbråket - Expressen
+- AI-bolaget alla pratar om – detta är Anthropic - Sydsvenskan
 - Elbil blir bensinbil med ett klick – löser räckviddsångesten - Dagens PS
 - Tvillingarna vann över Ryanair: ”Känns asbra” - Nerikes Allehanda
-- Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
-- ”Lugna och tysta hundar – välkomna in!” - Mariestads-Tidningen
-- Lanserar ny pjäxa: "Vi ville ta det ett steg längre" - Langd.se
+- Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
+- Han har ägnat 47 år åt en galen idé: Nu ska den följa med Nasa till månen – och avslöja något vi aldrig tidigare har sett - Illustrerad Vetenskap
+- Forskare återbesökte världens största T-rex-skelett – och upptäckte något som nog förändrar din syn på den förhistoriska jätten - Illustrerad Vetenskap
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -41,12 +40,13 @@ _Updated: 2026-02-28 12:48_
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -99,23 +99,23 @@ _Updated: 2026-02-28 12:48_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Erik Selin-delägt bolag får FDA- godkännande – Multi4 Medical redo att lansera i USA - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
+- Vi presenterar HealthBench - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
