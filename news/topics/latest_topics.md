@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 15:53_
+_Updated: 2026-02-28 16:48_
 
 ## Top Stories
 
+- Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
+- Skuggstaten ska säkra mullornas makt över Iran - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- Skoterförare räddad av norsk helikopter – förd till sjukhus - Norran
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
-- Skoterolycka i fjällen – en till sjukhus - Expressen
+- Skoterförare räddad av norsk helikopter – förd till sjukhus - Norran
+- Modigt om kejserliga övergrepp som klassresans pris - Dagens Nyheter
 - Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
+- Körde från polisen – kraschade - Expressen
 - Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
 - M:s valmiss – fick ändra i sista stund - Expressen
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
 - Minst 20 döda i flygkrasch i Bolivia - Expressen
-- Gul varning för snöfall - Expressen
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Skuggstaten ska säkra mullornas makt över Iran - Aftonbladet
+- Gul varning för snöfall - Expressen
+- USA-ursäkten för Grönlandsbråket - Expressen
+- En enda fråga återstår i fallet om Bonnesen - SvD
 - AI-bolaget alla pratar om – detta är Anthropic - Sydsvenskan
-- Företagarnas vd sågar Svenska kraftnät: ”Joakim von Anka” • 85 miljarder orörda - Expressen
 - LEDARE: De får miljarder för två timmars jobb - Expressen
 - Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
-- Asus Chromebook Plus CX3402: En uppgradering som inte riktigt lyfter - PC för Alla
-- Forskare återbesökte världens största T-rex-skelett – och upptäckte något som nog förändrar din syn på den förhistoriska jätten - Illustrerad Vetenskap
+- Test: Xiaomi 17 Ultra – Övertygande kameramobil - mobil.se
+- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2026-02-28 15:53_
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
@@ -58,6 +58,7 @@ _Updated: 2026-02-28 15:53_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Nästa generations Internet of Things - Shaping Europe’s digital future
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -66,10 +67,9 @@ _Updated: 2026-02-28 15:53_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Avtalet mellan Open AI och AMD kan ge nya öppningar för AI-hungriga företag - Computer Sweden
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2026-02-28 15:53_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-02-28 15:53_
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -125,7 +125,6 @@ _Updated: 2026-02-28 15:53_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -135,10 +134,11 @@ _Updated: 2026-02-28 15:53_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
