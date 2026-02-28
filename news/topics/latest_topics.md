@@ -1,69 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 11:47_
+_Updated: 2026-02-28 12:48_
 
 ## Top Stories
 
+- I NATT: Skoterförare till sjukhus – räddad av norsk helikopter - Norran
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- DN Direkt – Pojke påkörd i Malmö – förd till sjukhus - Dagens Nyheter
-- JUST NU: SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
-- Debatt: Liberalerna måste våga bryta Tidöavtalet – för rättsstatens och framtidens skull - VF
-- Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
-- Hon har designat den virala Ikea-apan: ”Det var verkligen min baby” - Dagens Nyheter
+- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
+- INSÄNDARE: Idag uppmärksammar vi sällsynta sjukdomar - Ekuriren
+- Göteborgaren Shirin: "Kan inte nå familjen i Iran" - GP
+- Tillfälliga trafikåtgärder i hamnen när fartyget Charles de Gaulle besöker Malmö - Malmö stad
+- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - M:s valmiss – fick ändra i sista stund - Expressen
-- Mohamsson om opinionen: ”Är katastrofsiffror” - Aftonbladet
-- EU-lagen som regeringen inte vill ha: Så ska den genomföras - Dagens Nyheter
-- UD utökar reseavrådan för Israel - GP
-- Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
-- USA-ursäkten för Grönlandsbråket - Expressen
-- Sköt fruns föräldrar – för 208 miljoner - Expressen
-- Tvillingarna vann över Ryanair: ”Känns asbra” - Nerikes Allehanda
+- Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
+- Israel och USA har attackerat Iran - SVT Nyheter
+- DN Direkt – Minst 15 döda i flygkrasch i Bolivia - Dagens Nyheter
+- DN Direkt – Årets första trana har landat vid Hornborgasjön - Dagens Nyheter
+- Trumps bisarra sexutspel: ”Som en hund” - Expressen
 - Så ser du hur mycket du får tillbaka på skatten 2026 - Dagens Nyheter
+- Elbil blir bensinbil med ett klick – löser räckviddsångesten - Dagens PS
+- Tvillingarna vann över Ryanair: ”Känns asbra” - Nerikes Allehanda
 - Bakom kulisserna på Sellpy: Här hamnar kläderna du skickar in - Dagens Nyheter
-- Tydlig ROT-effekt för kök- och badrumsinredningar 2025 - Tidningen ByggMaterial
 - ”Lugna och tysta hundar – välkomna in!” - Mariestads-Tidningen
-- Panasonic-partnerskap bakom världens första ST 2110-lösning för stora skärmar - Metal Supply
+- Lanserar ny pjäxa: "Vi ville ta det ett steg längre" - Langd.se
 
 ## World News
 
-- Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Brazilien uppnår global protagonism med sjukhus av excellens i internationella rankningar - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -104,7 +104,7 @@ _Updated: 2026-02-28 11:47_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -125,11 +125,11 @@ _Updated: 2026-02-28 11:47_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -145,7 +145,7 @@ _Updated: 2026-02-28 11:47_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -155,10 +155,10 @@ _Updated: 2026-02-28 11:47_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk
 - Här är världens största jordbruk - ATL
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk och Skogsbruk
+- Sveriges klimatmål kräver omställning av svenskt jordbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
