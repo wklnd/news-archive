@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 06:43_
+_Updated: 2026-02-28 07:20_
 
-- Trump moves toward Iran attack as mediator says nuclear deal is close - The Washington Post
 - Federal prosecutors in Luigi Mangione case won't appeal ruling that took death penalty off the table - ABC News
-- L.A.U.S.D. Chief Alberto Carvalho Is Placed on Leave Following F.B.I. Raid - The New York Times
-- Student Remains in Honduras After ICE Vows to Deport Her Again - The New York Times
-- At least 11 killed after military cargo plane crashes in Bolivia - BBC
-- President Trump Is Delivering for Texans - The White House (.gov)
 - Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
-- Full Transcript: Omani Foreign Minister Badr Albusaidi tells "Face the Nation" a U.S.-Iran deal is "within our reach" - CBS News
+- President Trump Is Delivering for Texans - The White House (.gov)
+- Fewer Detectives Will Hunt for Nancy Guthrie, Signaling a New Phase - The New York Times
+- Biden seizes on Trump's sinking favorability in a combative speech in South Carolina - NBC News
+- U.S.-Iran deal is "within our reach," Omani mediator says - CBS News
 - Columbia Student Detained by ICE Promotes ‘Beauty’ and ‘Brains’ Online - The New York Times
 - ‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws - The Guardian
 - Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat - BBC
+- A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India - BBC
 - Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks - Al Jazeera
-- Fact check: Did the EU bypass Hungary's veto on Ukraine’s €90 billion loan? - Euronews.com
+- FAA plans to reduce flights at Chicago O'Hare, cites boost in schedules - Reuters
 - Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low - Bloomberg.com
-- FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer, saying schedule could stress safety systems - ABC7 Chicago
 - Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios
 - Zillow predicts major mortgage rate change, homebuying shift - thestreet.com
-- Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors
 - Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica
-- Steam Deck turns 4, Valve still has no update on a successor - VideoCardz.com
+- What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads, and More - MacRumors
+- The 2026 Chevrolet Corvette ZR1X Is Peak Corvette - Road & Track
+- Ultrahuman bets on redesigned smart ring to win back US market after Oura dispute - TechCrunch
+- Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86 - The New York Times
