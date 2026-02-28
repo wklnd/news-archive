@@ -1,13 +1,13 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 22:48_
+_Updated: 2026-02-28 23:44_
 
 ## Top Stories
 
+- UD: Res inte till Qatar eller Dubai - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
 - Experten: Så kan Talibanerna svara på Pakistans attack - GP
-- Här går tusentals samman – i protest mot Seniors utsläpp - Ekuriren
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
 - 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
 - SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
@@ -15,15 +15,15 @@ _Updated: 2026-02-28 22:48_
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
 - Karin Eriksson: Ska Trump säkra segern åt Mette Frederiksen? - Dagens Nyheter
-- Skuggstaten ska säkra mullornas makt över Iran - Aftonbladet
-- Trumps bisarra sexutspel: ”Som en hund” - Expressen
-- Minst 20 döda i flygkrasch i Bolivia - Expressen
-- E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- Tydlig ROT-effekt för kök- och badrumsinredningar 2025 - Tidningen ByggMaterial
-- USA svartlistar AI-bolaget Anthropic för vapenvägran – sluter avtal med Open AI - Omni
+- E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
+- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
+- Gardell om Klarna: "Ett misstag att notera i USA" - Placera.se
 - Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
+- Xiaomi lanserar Wear OS-klockan Watch 5 med superlång batteritid - mobil.se
+- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
+- Unga fruns svar efter hårda kängan till Dolph Lundgren i Melodifestivalen - Expressen
 
 ## World News
 
@@ -39,11 +39,11 @@ _Updated: 2026-02-28 22:48_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
+- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -101,21 +101,21 @@ _Updated: 2026-02-28 22:48_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -142,16 +142,15 @@ _Updated: 2026-02-28 22:48_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Här är världens största jordbruk - ATL
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
@@ -161,4 +160,5 @@ _Updated: 2026-02-28 22:48_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
