@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 07:56_
+_Updated: 2026-02-28 09:01_
 
 ## Top Stories
 
-- Hade mördaren tvättat händerna före skotten? - SvD
+- Björn Wiman: Palmemordet har avslöjat den hemska sanningen om oss själva - Dagens Nyheter
+- Israel har angripit Iran – explosion nära ayatollan - GP
+- Minst 15 döda i flygolycka i Bolivia - SVT Nyheter
 - Barnmorskan trotsade Ivo:s förbud – riskerar fängelse - GP
-- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- Skärpta utsläppsregler för Senior Material - Eskilstuna kommun
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- USA-ursäkten till Danmark för Grönlandsbråk - Expressen
 - Skoterförare åkte på böter i Storuman - Västerbottens-Kuriren
-- Här är misstagen som sänkte Palmeutredningen - Dagens Nyheter
-- Debatt: Liberalerna måste våga bryta Tidöavtalet – för rättsstatens och framtidens skull - VF
 - Region Blekinge ska granska journalsystemet Cosmic - SVT Nyheter
-- Meteorologens besked: Våren kan komma i dag - Aftonbladet
-- Experten om USA och Iran: ”Sammantagna bilden är att det blinkar rött” - SVT Nyheter
-- Skuggstaten ska säkra mullornas makt över Iran - Västerbottens-Kuriren
-- Ukraina: 120 strider på ett dygn - Dagens Nyheter
+- Statsministern: ”Lagen kan inte anpassas efter varje människoöde” - Omni
+- VIKTOR BARTH-KRON: Splittring – även efter döden - Expressen
+- Trumps bisarra sexutspel: ”Som en hund” - Expressen
+- USA-ursäkten till Danmark för Grönlandsbråk - Expressen
 - Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
-- AI-bolaget som vägrar vika sig för Trump - GP
+- Ryska dubbelattacken – mitt under räddningsaktionen - Expressen
+- Rött på Wall Street – Nvidia fortsätter falla - Västerbottens-Kuriren
 - Finansiering för att öka Sveriges robusthet och resiliens - Energimyndigheten
 - Recept kan hämtas ut igen – stora problem under dagen - Omni
-- Stjärnan lurad på stan av ”raggande” man - SvD
-- Astronomer håller andan: En av universums största stjärnor kan gå in i dramatisk och instabil fas - Illustrerad Vetenskap
-- iFi GO Link 2 blåser liv i dina sladd-hörlurar. Blir din för 69 euro. - feber.se
+- Teslaaktioner ger laddkaos i fjällen - Kvartal
+- Panasonic-partnerskap bakom världens första ST 2110-lösning för stora skärmar - Metal Supply
+- Jag har testat gott om e-läsare men Onyx Boox Go 7 är den första Android-baserade e-boksläsaren jag verkligen gillar - TechRadar
 
 ## World News
 
@@ -36,9 +36,9 @@ _Updated: 2026-02-28 07:56_
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -105,7 +105,7 @@ _Updated: 2026-02-28 07:56_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -146,7 +146,7 @@ _Updated: 2026-02-28 07:56_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Kostnader för jordbrukets gröna omställning - LRF - Lantbrukarnas Riksförbund
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -155,10 +155,10 @@ _Updated: 2026-02-28 07:56_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
