@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-02-28 05:00_
+_Updated: 2026-02-28 06:43_
 
-- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
-- Student Remains in Honduras After ICE Vows to Deport Her Again - The New York Times
-- Mamdani did Trump a solid by keeping their White House meeting under wraps - Politico
-- Attorney general announces indictment against 30 more people who protested at a Minnesota church - AP News
-- Transgender Kansas Residents Sue After Driver’s Licenses Are Invalidated - The New York Times
-- Fewer Detectives Will Hunt for Nancy Guthrie, Signaling a New Phase - The New York Times
-- Live Updates: Trump Weighs Iran Strikes, Bill Clinton Testifies in Epstein Inquiry - The New York Times
 - Trump moves toward Iran attack as mediator says nuclear deal is close - The Washington Post
+- Federal prosecutors in Luigi Mangione case won't appeal ruling that took death penalty off the table - ABC News
+- L.A.U.S.D. Chief Alberto Carvalho Is Placed on Leave Following F.B.I. Raid - The New York Times
+- Student Remains in Honduras After ICE Vows to Deport Her Again - The New York Times
+- At least 11 killed after military cargo plane crashes in Bolivia - BBC
+- President Trump Is Delivering for Texans - The White House (.gov)
+- Kamala Harris Endorses Jasmine Crockett in Texas Senate Race - The New York Times
+- Full Transcript: Omani Foreign Minister Badr Albusaidi tells "Face the Nation" a U.S.-Iran deal is "within our reach" - CBS News
+- Columbia Student Detained by ICE Promotes ‘Beauty’ and ‘Brains’ Online - The New York Times
 - ‘More exploitation, fewer rights’: Argentina braces for sweeping overhaul of labor laws - The Guardian
 - Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat - BBC
-- EU fast-tracks trade deal with South America's Mercosur, to France's chagrin - Reuters
-- Europe Needs Some Space From China and Trump. Its Firms Don’t. - The New York Times
-- Warner Bros. Sale to Paramount Over Netflix Won’t Save Movie Theaters: ‘Pick Your Poison’ - Variety
+- Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks - Al Jazeera
+- Fact check: Did the EU bypass Hungary's veto on Ukraine’s €90 billion loan? - Euronews.com
 - Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low - Bloomberg.com
-- FAA Will Order Significant Flight Cuts At Chicago O'Hare—American vs. United Battle Hits Breaking Point - View from the Wing
-- Meta’s Defense In Social Media Addiction Trial Is Basically A Shrug - Defector
-- The Steam Deck Will Receive a Price Increase in Asia Starting March 6th - Steam Deck HQ
-- Ultrahuman bets on redesigned smart ring to win back US market after Oura dispute - TechCrunch
-- How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed - The New York Times
-- Amazon Restocks a Whole Bunch of Pokémon TCG Cards for Pokémon's 30th Anniversary - IGN
+- FAA to ask airlines to reduce flights at Chicago's O'Hare airport this summer, saying schedule could stress safety systems - ABC7 Chicago
+- Pentagon approves OpenAI safety red lines after dumping Anthropic - Axios
+- Zillow predicts major mortgage rate change, homebuying shift - thestreet.com
+- Two More Studio Display 2 Upgrades Leaked in New Report - MacRumors
+- Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica
+- Steam Deck turns 4, Valve still has no update on a successor - VideoCardz.com
