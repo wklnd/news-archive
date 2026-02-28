@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-02-28 20:55_
+_Updated: 2026-02-28 21:42_
 
 ## Top Stories
 
 - Direkt – Krisen i Mellanöstern – Smällar i Dubai – fyra skadade - Dagens Nyheter
 - 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
-- Bondens oro: Då kanske vi får kassera all mat - laholmstidning.se
-- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
 - Experten: Så kan Talibanerna svara på Pakistans attack - GP
+- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
 - 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
-- Professor: ”Spiraler i bukhålan ska opereras bort” - Dagens Nyheter
+- Erik Varden: fastereträttens tionde reflektion – ”Om urskiljning" - Vatican News
+- M:s valmiss – fick ändra i sista stund - Expressen
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
-- Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
 - Tommy Sundvall: ”Arbetsplatsen är den sista diktaturen” - Dagens Nyheter
-- Uppgifter: Khameneis palats förstört – Senaste nytt om Iran och konflikten med USA - SVT Nyheter
+- Skatteverket ber om ursäkt – ska ta bort skenskrivna från Ulla-Lenas stuga - Hem & Hyra
 - Minst 20 döda i flygkrasch i Bolivia - Expressen
 - Trumps bisarra sexutspel: ”Som en hund” - Expressen
 - Trump: Diskuterar ”övertagande” av Kuba - Aftonbladet
+- Gul varning för snöfall - Expressen
 - E.ON om Svenska kraftnäts plan: Flaskhalsintäkterna bör användas mer direkt för kundnytta - ENERGInyheter.se
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- En enda fråga återstår i fallet om Bonnesen - SvD
-- Nya investerare tar över garantiåtaganden i Qlifes företrädesemission - Biostock
-- (+) Krönika: Mest överraskande på Xiaomis stora lansering - mobil.se
+- Tydlig ROT-effekt för kök- och badrumsinredningar 2025 - Tidningen ByggMaterial
+- Nya matmomsen: Hämtmat blir billigare – men inte att äta på plats - News55
+- Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 
 ## World News
@@ -41,8 +41,8 @@ _Updated: 2026-02-28 20:55_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -55,21 +55,21 @@ _Updated: 2026-02-28 20:55_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -85,14 +85,14 @@ _Updated: 2026-02-28 20:55_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-02-28 20:55_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
