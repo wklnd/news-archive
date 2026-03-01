@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 09:09_
+_Updated: 2026-03-01 09:51_
 
 ## Top Stories
 
-- Misstänkt handgranat detonerat i Malmö - SVT Nyheter
-- Shahens son: Regimen hamnar på historiens soptipp - Västerbottens-Kuriren
-- 01 mars 07.41, Sammanfattning natt, Jönköpings län - polisen.se
+- Ny ordstrid mellan Trump och Iran – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Hundratals har stormat amerikanska konsulatet i Pakistan - Dagens Nyheter
+- Bilbrand på väg 777 – trafikstopp i Söderköping - NT
+- Explosion i Malmö – polisen misstänker handgranat - Omni
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- 28 februari 07.08, Sammanfattning natt, Örebro län - polisen.se
-- Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
-- 28 februari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
-- Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
-- LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
-- Alvin, 19, svängde sin lastbil i diket för att rädda andra - Falu-Kuriren
-- Shahens son: Regimen hamnar på historiens soptipp - GP
+- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
+- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
+- 01 mars 07.41, Sammanfattning natt, Södermanlands län - polisen.se
+- Efter fyra år av krig: Tetiana, 19, riskerar utvisning - Enköpingsposten
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- Svenskarna tror på bostadslyft 2026 – optimismen ökar - News55
-- LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
-- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
-- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
-- Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
-- Apple bekräftar att vi får se nya prylar nästa vecka - Macworld.se
+- DEBATT: Arbetstidsförkortning gör oss alla fattigare - GP
+- Rebecka Adin Vill du verkligen ha dyrare bostäder igen? - GP
+- Elbolaget ser kraftig ökning – "Många klarar inte av det" - News55
+- Microsofts AI-assistent blir agentisk med Copilot Tasks - PC för Alla
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
+- 5 tips till dig som vågar spela "Resident Evil Requiem" - MovieZine
+- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
+- Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
 - ”Jag upptäckte alldeles för sent att man måste jobba på en relation” - Dagens Nyheter
 
 ## World News
@@ -36,16 +36,16 @@ _Updated: 2026-03-01 09:09_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -120,18 +120,17 @@ _Updated: 2026-03-01 09:09_
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -139,6 +138,7 @@ _Updated: 2026-03-01 09:09_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
