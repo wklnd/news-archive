@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 23:46_
+_Updated: 2026-03-02 00:49_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Iran hävdar att de attackerat hangarfartyg - Dagens Nyheter
+- Skjutning i Texas utreds för terrorkoppling - Kvartal
+- Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
 - Beskedet i sista stund: lodjursjakten stoppas - VF
 - Ragnars fynd kunde knäckt gåtan - UNT
-- "Det finns fem sekunder som hade ändrat hur alla såg på det här" - Norran
 - 01 mars 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
-- Här uppträdde Sveriges största artister – så ska nöjesplatsen få nytt liv - Smålandsposten
+- Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
+- Mamma larmade om sonens mordplan: ”Glad att han inte skjutit någon” - Dagens Nyheter
+- Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - Polisen.se
 - 01 mars 08.15, Sammanfattning natt, Jämtlands län - Polisen.se
-- Hangarfartyget Charles de Gaulle ska lämna Malmö för Medelhavet - SVT Nyheter
-- 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
-- Olika tro men gemensam fasta i Gaza - Dagens Nyheter
+- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
 - USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
-- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
-- Moskvas kedja faller - DI
 - Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
-- Kungabarnen tar ut miljoner i vinst - Expressen
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
-- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
+- Kungabarnen tar ut miljoner i vinst - Expressen
+- Många struntar i röd gubbe: ”Man chansar med sitt liv” - Skövde Nyheter
 - Tv-spelsnostalgi och tävlingsglädje när Delsbo spelade tillsammans - Hudiksvalls Tidning
+- Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
+- Det här är Sonos nya bärbara högtalare – en blandning mellan Roam och Move - Teknikveckan
+- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2026-03-01 23:46_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -100,24 +100,25 @@ _Updated: 2026-03-01 23:46_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Institutionen för vårdvetenskap - Malmö universitet
+- Hälsa och teknik - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -128,15 +129,14 @@ _Updated: 2026-03-01 23:46_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -155,8 +155,8 @@ _Updated: 2026-03-01 23:46_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
