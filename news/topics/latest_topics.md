@@ -1,21 +1,20 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 18:51_
+_Updated: 2026-03-01 19:47_
 
 ## Top Stories
 
-- UD avråder från alla resor till Israel och Palestina – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- Beskedet i sista stund: lodjursjakten stoppas - VF
+- Cypern avfärdar uppgifter om iranska robotar - GP
+- En till sjukhus efter skoterolycka – tog tvärstopp vid diket - Norran
 - DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
 - Ragnars fynd kunde knäckt gåtan - UNT
-- Flera döda i Pakistan – försökte storma konsulat - GP
+- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
-- Moskvas kedja faller - DI
-- Suspekt vadslagning om attacken mot Iran - DI
+- Svenska elpriser: Du betalar, de sparar, och ingenting händer - Dagens PS
 - Geely tar Europavägen mot världstoppen - SvD
 - Kungabarnen tar ut miljoner i vinst - Expressen
 - Nya Cupra Born på väg – längre räckvidd och uppdaterad teknik - Dagens PS
@@ -23,6 +22,7 @@ _Updated: 2026-03-01 18:51_
 - Elever och proffs delar scen i föreställning om miljö: ”Väldigt coolt” - sla.se
 - V64 Tips Romme 2/3: Jackpot från Dalarna! - Travcash
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
+- När Lena Endre och Ingela Olsson gör upp i ringen vill man inte titta bort - Dagens Nyheter
 - Meira Omar slår tillbaka efter kritiken på Tiktok - Aftonbladet
 
 ## World News
@@ -38,10 +38,10 @@ _Updated: 2026-03-01 18:51_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -83,13 +83,13 @@ _Updated: 2026-03-01 18:51_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -102,27 +102,28 @@ _Updated: 2026-03-01 18:51_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Institutionen för vårdvetenskap - Malmö universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -134,11 +135,10 @@ _Updated: 2026-03-01 18:51_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
