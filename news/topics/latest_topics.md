@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 11:52_
+_Updated: 2026-03-01 12:51_
 
 ## Top Stories
 
-- Oroligheter vid USA-baser i flera länder – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Nya explosioner i Kabul - Västerbottens-Kuriren
-- 01 mars 07.41, Sammanfattning natt, Östergötlands län - polisen.se
-- Insändare: Snart ska lodjur dödas i våra skogar - Arvika Nyheter
-- Kraftig smäll på Eriksfältsgatan – boende evakuerades - Sydsvenskan
-- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
+- USA:s konsulat i Pakistan stormat - SVT Nyheter
+- Iranska robotar mot Cypern - Aftonbladet
+- SMHI varnar för snöfall i tre län - Expressen
+- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
+- 01 mars 07.41, Sammanfattning natt, Östergötlands län - Polisen.se
+- 01 mars 08.15, Sammanfattning natt, Jämtlands län - Polisen.se
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
-- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
+- 01 mars 07.41, Sammanfattning natt, Södermanlands län - Polisen.se
+- Viktigare än någonsin att stå upp mot kärnvapnen - tidningensyre.se
+- Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
+- Fem heta motorfrågor och politiska vägval - Dagens Nyheter
+- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
 - LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
-- DEBATT: Arbetsmiljön i vården är i kris - en kommission behövs! - Dala-Demokraten
-- DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- Elbolaget ser kraftig ökning – "Många klarar inte av det" - News55
+- Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
 - 5 tips till dig som vågar spela "Resident Evil Requiem" - MovieZine
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
-- Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
 - ”Jag upptäckte alldeles för sent att man måste jobba på en relation” - Dagens Nyheter
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-01 11:52_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -83,13 +83,13 @@ _Updated: 2026-03-01 11:52_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -123,22 +123,22 @@ _Updated: 2026-03-01 11:52_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
