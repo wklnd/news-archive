@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-01 16:55_
+_Updated: 2026-03-01 17:53_
 
-- What the US–Israeli strikes on Iran mean for the price of oil - The Guardian
+- Three US service members killed in Iran operation as Israeli rescuers say nine dead in Iran strike - BBC
+- How Trump's Iran gamble is different than past regime overthrows - Axios
 - Flights cancelled and new travel warnings issued after Iran strikes - BBC
-- Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes - Reuters
 - At least 9 killed in pro-Iran protest at US consulate in Pakistan’s Karachi - Al Jazeera
-- 3 killed, 14 injured after downtown Austin shooting; police say suspect dead - KVUE
-- What’s Really at Stake in the Fight Between Anthropic and the Pentagon - WSJ
-- Congress to vote on Trump’s war powers in aftermath of Iran strikes - CNN
-- A Supreme Court case over whether marijuana users can own guns is creating unusual alliances - AP News
 - At least 148 dead after reported strike on school, Iran says - BBC
-- The U.S. Released the Epstein Files. The Arrests Are Overseas. - The New York Times
+- Fact-Checking Trump’s Justifications for Attacking Iran - The New York Times - The New York Times
+- 3 dead, 14 hospitalized in shooting on Sixth Street; suspect killed by Austin police - KUT
+- A Supreme Court case over whether marijuana users can own guns is creating unusual alliances - AP News
+- Iran Is Under Attack - The War Zone
+- The U.S. Released the Epstein Files. The Arrests Are Overseas. - The New York Times - The New York Times
+- Photos show damage to Dubai luxury tourist hotspot after Iranian strike - Business Insider
+- Woman killed, dozens injured as Iranian missile strikes Tel Aviv residential block - The Times of Israel
+- $100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock - CNBC
+- U.S. Races to Accomplish Iran Mission Before Munitions Run Out - WSJ
+- Why did Netflix back down from its deal to acquire Warner Bros.? - TechCrunch
+- OPEC+ Agrees in Principle to 206k B/D Hike for April: Delegates - Bloomberg.com
 - Exclusive | A New Threat to Power Grids: Data Centers Unplugging at Once - WSJ
-- Prediction: This Will Be Microsoft's Stock Price in 3 Years. (Hint: You're Going to Want to Buy Now) - The Motley Fool
-- Cathie Wood Invests $20M in CoreWeave Despite the Selloff — What Other Stocks Did She Trade? - TipRanks
-- The Schwab U.S. Dividend Equity ETF Has Delivered a 12.9% Annualized Return. These 2 Top Holdings Showcase the Power of its Investment Strategy. - The Motley Fool
-- Everything announced at MWC 2026: The new Leica Leitzphone by Xiaomi, Honor's ultra-thin MagicPad 4 and more - Engadget
-- Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post
-- Totally wired! 8 of the best wired earphones - starting from $24 - Creative Bloq
-- Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto
-- PGA Awards: ‘One Battle After Another’ Takes Home Top Film Prize - The Hollywood Reporter
-- Horoscope for Sunday, March 01, 2026 - Chicago Sun-Times
+- Trump’s Iran strikes accelerate the world’s drift from dollar dominance | Heather Stewart - The Guardian
+- Hands on: Xiaomi Pad 8 Pro is the closest you can get to an iPad Pro on Android - Mashable
+- Samsung Galaxy S26 vs. Apple iPhone 17: Battle of the Premium Phones - PCMag
