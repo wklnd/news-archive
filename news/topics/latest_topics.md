@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 19:47_
+_Updated: 2026-03-01 20:57_
 
 ## Top Stories
 
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- Cypern avfärdar uppgifter om iranska robotar - GP
 - En till sjukhus efter skoterolycka – tog tvärstopp vid diket - Norran
-- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
-- Ragnars fynd kunde knäckt gåtan - UNT
+- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- Svenskan från skolan kom tillbaka: ”Mirakel” - SvD
+- Ragnars vapen kunde knäckt gåtan - UNT
 - Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
 - DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
-- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
+- Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
+- Unicef: Barn i Gaza firar ramadan under stora svårigheter - Dagens Nyheter
 - Svenska elpriser: Du betalar, de sparar, och ingenting händer - Dagens PS
-- Geely tar Europavägen mot världstoppen - SvD
 - Kungabarnen tar ut miljoner i vinst - Expressen
+- Geely tar Europavägen mot världstoppen - SvD
 - Nya Cupra Born på väg – längre räckvidd och uppdaterad teknik - Dagens PS
+- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
+- Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
+- Kan ditt efternamn tyda på kunglig härkomst? Vad registren avslöjar - Dagens.se
 - Film om krossat glas vann Huleägget - Lokalpressen
-- Elever och proffs delar scen i föreställning om miljö: ”Väldigt coolt” - sla.se
-- V64 Tips Romme 2/3: Jackpot från Dalarna! - Travcash
-- Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
-- När Lena Endre och Ingela Olsson gör upp i ringen vill man inte titta bort - Dagens Nyheter
 - Meira Omar slår tillbaka efter kritiken på Tiktok - Aftonbladet
 
 ## World News
@@ -97,30 +97,29 @@ _Updated: 2026-03-01 19:47_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Institutionen för vårdvetenskap - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -131,7 +130,6 @@ _Updated: 2026-03-01 19:47_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -139,6 +137,8 @@ _Updated: 2026-03-01 19:47_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
