@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 17:46_
+_Updated: 2026-03-01 18:51_
 
 ## Top Stories
 
-- Storbritannien: Iran har avfyrat robotar mot Cypern – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
-- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
-- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- UD avråder från alla resor till Israel och Palestina – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
+- Beskedet i sista stund: lodjursjakten stoppas - VF
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- Ragnars fynd kunde knäckt gåtan - UNT
+- Flera döda i Pakistan – försökte storma konsulat - GP
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
+- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
 - 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
-- Efter fyra år av krig: Tetiana, 19, riskerar utvisning - Enköpingsposten
-- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
 - Moskvas kedja faller - DI
-- ”Fönstren skakade av smällarna” - Östersunds-Posten
 - Suspekt vadslagning om attacken mot Iran - DI
 - Geely tar Europavägen mot världstoppen - SvD
-- Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
-- Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Kyla och snö stoppar inte naturens värstingar - Aftonbladet
+- Kungabarnen tar ut miljoner i vinst - Expressen
+- Nya Cupra Born på väg – längre räckvidd och uppdaterad teknik - Dagens PS
+- Film om krossat glas vann Huleägget - Lokalpressen
+- Elever och proffs delar scen i föreställning om miljö: ”Väldigt coolt” - sla.se
+- V64 Tips Romme 2/3: Jackpot från Dalarna! - Travcash
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
-- Science fiction-legendaren Dan Simmons är död. Författaren av Hyperion har lämnat oss. - feber.se
-- Heldag med klimatfilmer på Tellus - Mitt i
-- Recension: Mayhem är en veritabel kölhalning på Hisingen - GP
+- Meira Omar slår tillbaka efter kritiken på Tiktok - Aftonbladet
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2026-03-01 17:46_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -83,13 +83,13 @@ _Updated: 2026-03-01 17:46_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -149,12 +149,11 @@ _Updated: 2026-03-01 17:46_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2026-03-01 17:46_
 - Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
