@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 00:49_
+_Updated: 2026-03-02 01:47_
 
 ## Top Stories
 
-- Skjutning i Texas utreds för terrorkoppling - Kvartal
+- Direkt – Krisen i Mellanöstern – Trump: Sänkt nio iranska fartyg - Dagens Nyheter
+- Utvecklingen i Mellanöstern är allvarlig och kan snabbt förvärras - Regeringen.se
+- Ryska hotet mot Europa: ”Dags slå till” - Expressen
 - Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
-- Beskedet i sista stund: lodjursjakten stoppas - VF
 - Ragnars fynd kunde knäckt gåtan - UNT
-- 01 mars 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
-- Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
 - Mamma larmade om sonens mordplan: ”Glad att han inte skjutit någon” - Dagens Nyheter
+- Kyla och snö stoppar inte naturens värstingar - Västerbottens-Kuriren
+- DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
-- 01 mars 13.07, Trafikkontroll, Västernorrlands län - Polisen.se
-- 01 mars 08.15, Sammanfattning natt, Jämtlands län - Polisen.se
-- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- Tre döda i skjutning i Texas – FBI misstänker terrordåd - Omni
 - USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
-- Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
+- Moskvas kedja faller - DI
+- Trumps troféer borde få Putin att se rött - Expressen
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Kungabarnen tar ut miljoner i vinst - Expressen
 - Många struntar i röd gubbe: ”Man chansar med sitt liv” - Skövde Nyheter
+- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
+- Svenskt företag satsar på virtuella stängsel - ATL
 - Tv-spelsnostalgi och tävlingsglädje när Delsbo spelade tillsammans - Hudiksvalls Tidning
 - Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
-- Det här är Sonos nya bärbara högtalare – en blandning mellan Roam och Move - Teknikveckan
-- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
 
 ## World News
 
+- Fomoin och MarsCat Global samarbetar för att utveckla infrastrukturen för decentraliserade applikationer. - Traders Union
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -41,7 +42,6 @@ _Updated: 2026-03-02 00:49_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -55,7 +55,6 @@ _Updated: 2026-03-02 00:49_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-03-02 00:49_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -77,20 +77,22 @@ _Updated: 2026-03-02 00:49_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
