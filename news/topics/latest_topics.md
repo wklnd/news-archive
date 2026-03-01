@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 05:27_
+_Updated: 2026-03-01 07:07_
 
 ## Top Stories
 
-- Iran bekräftar: Ayatolla Khamenei är död - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- 28 februari 14.00, Trafikkontroll, Västernorrlands län - Polisen.se
+- Guide: Fynda prisvärda fjällhus i Norge - Privata Affärer
 - Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
-- Melodifestivalen: Gry Forssells kupp i tv – grylappar - Expressen
+- Jan Andersson Snälla snälla Mello – vi har rätt att kräva mer än detta - GP
 - SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
+- 28 februari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
 - Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
-- Alvin, 19, svängde sin lastbil i diket för att rädda andra - Falu-Kuriren
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
 - Elbolaget ser kraftig ökning – "Många klarar inte av det" - News55
 - LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
-- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
+- Tv-bråket löst – Viaplay och Telia överens - Kristianstadsbladet
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 - Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Apple bekräftar att vi får se nya prylar nästa vecka - Macworld.se
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
+- Melodifestivalen: Gry Forssells kupp i tv – grylappar - Expressen
 - Gina Dirawi fick skavsår i New York – utvecklades till sepsis - Expressen
-- Därför får amerikanska Alexa tävla i mellon - Omni
-- Nessvolds känslor efter besöket från ”Terese i kassan” - Expressen
+- Johan Croneman: Busschaufförerna kan vara Vasaloppets mest älskvärda personer - Dagens Nyheter
 
 ## World News
 
@@ -77,21 +77,22 @@ _Updated: 2026-03-01 05:27_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -145,19 +146,19 @@ _Updated: 2026-03-01 05:27_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
