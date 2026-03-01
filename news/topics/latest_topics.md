@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 10:54_
+_Updated: 2026-03-01 11:52_
 
 ## Top Stories
 
-- Flera döda i Pakistan – försökte storma konsulat - GP
-- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- Pro-iransk grupp hävdar attack mot USA-baser i Irak - GP
+- Oroligheter vid USA-baser i flera länder – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Nya explosioner i Kabul - Västerbottens-Kuriren
-- ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
+- 01 mars 07.41, Sammanfattning natt, Östergötlands län - polisen.se
+- Insändare: Snart ska lodjur dödas i våra skogar - Arvika Nyheter
+- Kraftig smäll på Eriksfältsgatan – boende evakuerades - Sydsvenskan
 - Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- DN Direkt – Explosion i Malmö – pekar på handgranat - Dagens Nyheter
-- DN Direkt – Sanna Nielsen och Lilla Al-Fadji till final i Mellon - Dagens Nyheter
+- Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
+- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
 - 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
 - LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
+- DEBATT: Arbetsmiljön i vården är i kris - en kommission behövs! - Dala-Demokraten
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
 - Elbolaget ser kraftig ökning – "Många klarar inte av det" - News55
-- DEBATT: Arbetstidsförkortning gör oss alla fattigare - GP
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
 - 5 tips till dig som vågar spela "Resident Evil Requiem" - MovieZine
-- Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
+- Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
 - ”Jag upptäckte alldeles för sent att man måste jobba på en relation” - Dagens Nyheter
 
@@ -39,13 +39,13 @@ _Updated: 2026-03-01 10:54_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -56,13 +56,13 @@ _Updated: 2026-03-01 10:54_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -83,13 +83,13 @@ _Updated: 2026-03-01 10:54_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-03-01 10:54_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Tiefenbacher Group and OnDosis enter a strategic partnership for game-changing integration of medicines and digital health - Mynewsdesk
 
 ## Science
 
@@ -154,11 +154,11 @@ _Updated: 2026-03-01 10:54_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
