@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 08:07_
+_Updated: 2026-03-01 09:09_
 
 ## Top Stories
 
 - Misstänkt handgranat detonerat i Malmö - SVT Nyheter
-- UD: Res inte till Qatar eller Dubai - GP
-- Direkt – Krisen i Mellanöstern – Iran har gått till motattack - Dagens Nyheter
-- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- Shahens son: Regimen hamnar på historiens soptipp - Västerbottens-Kuriren
+- 01 mars 07.41, Sammanfattning natt, Jönköpings län - polisen.se
 - ANNA LÖVHEIM: Försvar räcker inte – vi behöver få bort angriparen! - NT
-- Guide: Fynda prisvärda fjällhus i Norge - Privata Affärer
-- SMHI utfärdar gul varning för snöfall i delar av Värmland - NWT
+- 28 februari 07.08, Sammanfattning natt, Örebro län - polisen.se
+- Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
+- 28 februari 14.00, Trafikkontroll, Västernorrlands län - polisen.se
 - Försvarsmakten bekräftar observation av rysk drönare - Försvarsmakten
 - LEDARE: Fredagsdans när barnavdelningen stänger?! - Tidningen Ångermanland
 - Alvin, 19, svängde sin lastbil i diket för att rädda andra - Falu-Kuriren
+- Shahens son: Regimen hamnar på historiens soptipp - GP
 - DEBATT: Livsmedelstillgång i norr – en nationell beredskapsfråga - DI
-- Elbolaget ser kraftig ökning – "Många klarar inte av det" - News55
+- Svenskarna tror på bostadslyft 2026 – optimismen ökar - News55
 - LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
-- Tv-bråket löst – Viaplay och Telia överens - Kristianstadsbladet
+- LEDARE: Elpriserna är en av landets största orättvisor - Kristianstadsbladet
 - Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
 - Xiaomi visar upp en ny vattenrenare med touchknappar för köket - Teknikveckan
 - Apple bekräftar att vi får se nya prylar nästa vecka - Macworld.se
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
-- Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
-- Jan Andersson Snälla snälla Mello – vi har rätt att kräva mer än detta - GP
+- ”Jag upptäckte alldeles för sent att man måste jobba på en relation” - Dagens Nyheter
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Brazilien uppnår global framträdande plats med spetssjukhus i internationella rankningar - Mix Vale
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -77,21 +77,22 @@ _Updated: 2026-03-01 08:07_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
