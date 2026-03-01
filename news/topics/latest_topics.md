@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 22:49_
+_Updated: 2026-03-01 23:46_
 
 ## Top Stories
 
-- Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- UD avråder från alla resor till Israel - UNT
+- Direkt – Krisen i Mellanöstern – Iran hävdar att de attackerat hangarfartyg - Dagens Nyheter
 - Beskedet i sista stund: lodjursjakten stoppas - VF
-- Svenskan från skolan kom tillbaka: ”Mirakel” - SvD
-- Ragnars vapen kunde knäckt gåtan - UNT
-- En till sjukhus efter skoterolycka – tog tvärstopp vid diket - Norran
-- DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
-- Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
+- Ragnars fynd kunde knäckt gåtan - UNT
+- "Det finns fem sekunder som hade ändrat hur alla såg på det här" - Norran
+- 01 mars 07.41, Sammanfattning natt, Jönköpings län - Polisen.se
+- Här uppträdde Sveriges största artister – så ska nöjesplatsen få nytt liv - Smålandsposten
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - Polisen.se
-- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- 01 mars 08.15, Sammanfattning natt, Jämtlands län - Polisen.se
+- Hangarfartyget Charles de Gaulle ska lämna Malmö för Medelhavet - SVT Nyheter
+- 28 februari 07.08, Sammanfattning natt, Örebro län - Polisen.se
 - Olika tro men gemensam fasta i Gaza - Dagens Nyheter
-- Rederijätten stoppar sin trafik i Hormuzsundet - DI
-- Kungabarnen tar ut miljoner i vinst - Expressen
+- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
+- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
+- Moskvas kedja faller - DI
 - Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
+- Kungabarnen tar ut miljoner i vinst - Expressen
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
+- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
 - Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
-- Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
-- Kan ditt efternamn tyda på kunglig härkomst? Vad registren avslöjar - Dagens.se
-- Film om krossat glas vann Huleägget - Lokalpressen
+- Tv-spelsnostalgi och tävlingsglädje när Delsbo spelade tillsammans - Hudiksvalls Tidning
 
 ## World News
 
@@ -40,12 +40,12 @@ _Updated: 2026-03-01 22:49_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -77,22 +77,20 @@ _Updated: 2026-03-01 22:49_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stockholm Beauty Week i nytt partnerskap med Rankona Mazon och amaNordic för den ultimata skönhetsupplevelsen - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -100,22 +98,22 @@ _Updated: 2026-03-01 22:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
