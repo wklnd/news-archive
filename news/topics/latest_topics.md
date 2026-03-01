@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 12:51_
+_Updated: 2026-03-01 13:43_
 
 ## Top Stories
 
-- USA:s konsulat i Pakistan stormat - SVT Nyheter
-- Iranska robotar mot Cypern - Aftonbladet
-- SMHI varnar för snöfall i tre län - Expressen
+- Storbritannien: Iran har avfyrat robotar mot Cypern – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Flera döda i Pakistan – försökte storma konsulat - Folkbladet
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- 01 mars 07.41, Sammanfattning natt, Östergötlands län - Polisen.se
-- 01 mars 08.15, Sammanfattning natt, Jämtlands län - Polisen.se
+- Frågan efter skavsåret var ofattbar: Vill du dö? - SvD
+- Nya explosioner i Kabul - Västerbottens-Kuriren
+- SMHI varnar för snöfall i tre län - Expressen
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
-- Fler unga anmäls försvunna: ”Vaksamhet för kriminalitet” - Dagens Nyheter
-- 01 mars 07.41, Sammanfattning natt, Södermanlands län - Polisen.se
+- 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
+- 01 mars 07.41, Sammanfattning natt, Södermanlands län - polisen.se
 - Viktigare än någonsin att stå upp mot kärnvapnen - tidningensyre.se
+- Alireza Arafi utsedd till tillfällig högsta ledare – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
+- Suspekt vadslagning om attacken mot Iran - DI
 - Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
 - Fem heta motorfrågor och politiska vägval - Dagens Nyheter
-- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
 - LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
 - Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
 - 5 tips till dig som vågar spela "Resident Evil Requiem" - MovieZine
-- Xiaomi lanserar mobiltillbehören Redmi Buds 8 Pro, Xiaomi Tag och UltraThin Magnetic Power Bank - mobil.se
-- Lilla Al-Fadji och Sanna Nielsen tar sig direkt till final i Melodifestivalen - Aftonbladet
-- ”Jag upptäckte alldeles för sent att man måste jobba på en relation” - Dagens Nyheter
+- Samsung S26 har ljusstarkare objektiv till kameran på 200 megapixel - Fotosidan
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-01 12:51_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -66,10 +66,10 @@ _Updated: 2026-03-01 12:51_
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
@@ -130,7 +130,6 @@ _Updated: 2026-03-01 12:51_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -138,6 +137,7 @@ _Updated: 2026-03-01 12:51_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
