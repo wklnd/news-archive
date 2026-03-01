@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 15:55_
+_Updated: 2026-03-01 16:49_
 
 ## Top Stories
 
-- Utvecklingen i Mellanöstern är allvarlig och kan snabbt förvärras - Regeringen.se
+- Missilattack mot skyddsrum i Israel – minst åtta döda - Aftonbladet
 - DN Direkt – Explosion i Malmö – pekar på handgranat - Dagens Nyheter
-- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
-- Frågan efter skavsåret var ofattbar: Vill du dö? - SvD
-- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- Cypern avfärdar uppgifter om iranska robotar - GP
+- Direkt – Krisen i Mellanöstern – Iran hävdar att de attackerat hangarfartyg - Dagens Nyheter
+- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
+- Flera döda i Pakistan – försökte storma konsulat - GP
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
-- 01 mars 07.41, Sammanfattning natt, Södermanlands län - polisen.se
-- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
 - Moskvas kedja faller - DI
 - Suspekt vadslagning om attacken mot Iran - DI
 - Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
 - Nya trenden: Din konsumtion är ditt vapen - Dagens PS
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
+- Kommun gör sitcom för att rekrytera. Tomelilla använder humor för att locka personal till äldreomsorgen. - feber.se
 - Kyla och snö stoppar inte naturens värstingar - SvD
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
 - Science fiction-legendaren Dan Simmons är död. Författaren av Hyperion har lämnat oss. - feber.se
-- Heldag med klimatfilmer på Tellus - Mitt i
 - Recension: Mayhem är en veritabel kölhalning på Hisingen - GP
 
 ## World News
@@ -68,7 +68,7 @@ _Updated: 2026-03-01 15:55_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
