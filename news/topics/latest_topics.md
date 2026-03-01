@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 16:49_
+_Updated: 2026-03-01 17:46_
 
 ## Top Stories
 
-- Missilattack mot skyddsrum i Israel – minst åtta döda - Aftonbladet
-- DN Direkt – Explosion i Malmö – pekar på handgranat - Dagens Nyheter
-- Cypern avfärdar uppgifter om iranska robotar - GP
-- Direkt – Krisen i Mellanöstern – Iran hävdar att de attackerat hangarfartyg - Dagens Nyheter
-- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
-- Flera döda i Pakistan – försökte storma konsulat - GP
-- Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
-- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- Storbritannien: Iran har avfyrat robotar mot Cypern – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
+- UPPDATERAS: Belgien har prejat ryskt tankfartyg - cornucopia.se
+- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
+- Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
+- 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
+- Efter fyra år av krig: Tetiana, 19, riskerar utvisning - Enköpingsposten
+- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
 - Moskvas kedja faller - DI
+- ”Fönstren skakade av smällarna” - Östersunds-Posten
 - Suspekt vadslagning om attacken mot Iran - DI
+- Geely tar Europavägen mot världstoppen - SvD
 - Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
-- Nya trenden: Din konsumtion är ditt vapen - Dagens PS
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Kommun gör sitcom för att rekrytera. Tomelilla använder humor för att locka personal till äldreomsorgen. - feber.se
-- Kyla och snö stoppar inte naturens värstingar - SvD
+- Kyla och snö stoppar inte naturens värstingar - Aftonbladet
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
 - Science fiction-legendaren Dan Simmons är död. Författaren av Hyperion har lämnat oss. - feber.se
+- Heldag med klimatfilmer på Tellus - Mitt i
 - Recension: Mayhem är en veritabel kölhalning på Hisingen - GP
 
 ## World News
@@ -68,7 +68,7 @@ _Updated: 2026-03-01 16:49_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -101,7 +101,7 @@ _Updated: 2026-03-01 16:49_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Institutionen för vårdvetenskap - Malmö universitet
@@ -145,20 +145,20 @@ _Updated: 2026-03-01 16:49_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
