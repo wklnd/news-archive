@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-01 22:56_
+_Updated: 2026-03-01 23:52_
 
-- US says it sinks Iranian warship - Reuters
+- Live updates: U.S. confirms 3 troops killed in Iran war as Trump says operation is "ahead of schedule" - CBS News
 - Just one in four Americans supports US strikes on Iran, Reuters/Ipsos poll finds - Reuters
 - Reza Pahlavi makes his pitch to lead Iran - Politico
 - Ten killed in pro-Iran protest at US consulate in Pakistan’s Karachi - Al Jazeera
-- Why the Epstein Investigations Took So Long and Did So Little - The New York Times
-- Iran strikes: Trump 'agreed to talk' with Iran's leaders - DW.com
-- US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
+- At least nine killed after Iranian strike on Israel’s Beit Shemesh - Al Jazeera
+- Lucas: Ninety-Five - University of North Carolina Athletics - University of North Carolina Athletics
+- Why Diplomacy Was Doomed: Trump’s Issue Was Iran’s Leadership Itself - The New York Times
+- The U.S. is destroying Iran's navy after it tried to shut down global oil flows - Axios
 - At least 153 dead after reported strike on school, Iran says - BBC
-- N.J. weather: Snow, sleet, rain in forecast for Sunday. Temperatures could hit 70s by next weekend. - NJ.com
-- Iran Attacks USS Abraham Lincoln With 4 Ballistic Missiles, IRGC Says in Statement - EurAsian Times
+- Body of notorious cartel boss "El Mencho" returned to family by Mexican authorities - CBS News
+- Iran strikes: Trump 'agreed to talk' with Iran's leaders - DW.com
 - Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base as fighting enters 4th day - AP News
-- Iran’s Attacks on Persian Gulf Countries Crack Their Safe Haven Image - The New York Times
-- Gulf businesses reel as Iran strikes trigger regional shutdowns - Reuters
-- Oil Markets Face Iran Conflict With Little in Reserve - WSJ
-- Berkshire Hathaway’s CEO Suggests These 4 Companies Are Forever Stocks—and 2 That Might Not Be - Barron's
-- Honor MagicBook Pro 14 2026 Laptop Review - OLED all-rounder impresses with Panther Lake - Notebookcheck
-- Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more - Engadget
+- Netflix’s Co-CEO Explains Why He Quit the Warner Bros. Fight - Bloomberg.com
+- As Iran attacks Dubai, the tax-free haven for the global elite could see 'catastrophic' fallout - Fortune
+- Safe-haven yen and Swiss franc gain as weekend Iran strikes unnerve markets - Reuters
+- Trump’s Iran strikes accelerate the world’s drift from dollar dominance | Heather Stewart - The Guardian
 - China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot - CNBC
-- Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post
-- ‘Scream 7’ Roars To Record Decibels With Franchise-Best $97M+ Global Debut – Box Office Update - Deadline
+- Xbox 360 boss shuts down “gamer CEO” criticism from co‑founder - Windows Central
+- Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more - Engadget
+- Samsung Galaxy S26 vs. Apple iPhone 17: Battle of the Premium Phones - PCMag
