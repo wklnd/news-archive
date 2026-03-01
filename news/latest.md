@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-01 11:00_
+_Updated: 2026-03-01 11:56_
 
-- Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israel attack - BBC
-- The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck. - The New York Times
-- Death toll at girls' school hit in strike rises to 148 - CNN
-- Protesters rally across US after strikes on Iran that killed Khamenei - The Guardian
-- Two months, two tracks: How Trump chose war with Iran - Axios
+- Israel and Iran exchange fresh attacks after Iran's Supreme Leader Khamenei killed - BBC
+- Dozens dead in Iran school blast blamed on US and Israel strikes - BBC
 - Gauging the Impact of Massive U.S.-Israeli Strikes on Iran - Council on Foreign Relations
 - Body of notorious cartel boss "El Mencho" returned to family by Mexican authorities - CBS News
+- Lucas: Virginia Tech Rapid Reactions - University of North Carolina Athletics
+- 2026 NFL combine stock up/stock down, Day 3: Taylen Green among 10 players on the move - NFL.com
+- Outside White House, hundreds protest attack on Iran, urge end to conflict - The Washington Post
 - Hegseth Cuts Ties With Yale, Georgetown and Other Top Universities - The New York Times
-- FBI Raises Terrorism Alert Over Fears of Retaliation by Iran - Bloomberg.com
-- Trump Stays Out of Public View After U.S. Launches Military Assault on Iran - The New York Times
-- Warren Buffett's Final $373 Billion Warning Sent Shockwaves Through Wall Street - The Motley Fool
-- Berkshire CEO Abel seeks to reassure shareholders after taking baton from Buffett - Reuters
+- Church Statement on the Evolving Situation in Iran - newsroom.churchofjesuschrist.org
+- Oman's Foreign Minister Said US-Iran Deal Was 'Within Our Reach.' Then Trump Started Bombing - Common Dreams
+- Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikes - Reuters
 - Veteran analyst sends shocking message on Nvidia after earnings - thestreet.com
-- Struggling Sweetgreen is rethinking its menu pricing - Restaurant Business
+- Warren Buffett's Final $373 Billion Warning Sent Shockwaves Through Wall Street - The Motley Fool
+- Struggling Sweetgreen is rethinking its menu pricing - Restaurant Business Magazine
+- Berkshire CEO Abel seeks to reassure shareholders after taking baton from Buffett - Reuters
+- Hands on: Xiaomi Pad 8 Pro is the closest you can get to an iPad Pro on Android - Mashable
+- Samsung Galaxy S26 vs. Apple iPhone 17: Battle of the Premium Phones - PCMag
 - Column | Asking Eric: Grandson has no motivation; daughter enables him - The Washington Post
 - Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto
-- Bethesda Is Quietly Rebuilding Fallout 76's Foundation With The Backwoods | Preview - MMORPG.com
-- Xbox 360 boss shuts down “gamer CEO” criticism from co‑founder - Windows Central
-- BRIT Awards 2026 Winners: Geese, Rosalía, Olivia Dean, and More - Pitchfork
-- The First Beatle To Spend Significant Time in Jail Might Surprise You, Although He’d Argue It Was for the Best: “I Needed To Learn a Lesson” - American Songwriter
+- Seth Rollins’ WWE WrestleMania Status After Elimination Chamber Return - Ringside News
