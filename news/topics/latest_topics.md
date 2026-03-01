@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 20:57_
+_Updated: 2026-03-01 21:44_
 
 ## Top Stories
 
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- En till sjukhus efter skoterolycka – tog tvärstopp vid diket - Norran
-- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- UD avråder från alla resor till Israel - UNT
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- Beskedet i sista stund: lodjursjakten stoppas - VF
 - Svenskan från skolan kom tillbaka: ”Mirakel” - SvD
 - Ragnars vapen kunde knäckt gåtan - UNT
-- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
 - DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
-- Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
-- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
-- Unicef: Barn i Gaza firar ramadan under stora svårigheter - Dagens Nyheter
+- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
+- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
 - Svenska elpriser: Du betalar, de sparar, och ingenting händer - Dagens PS
 - Kungabarnen tar ut miljoner i vinst - Expressen
 - Geely tar Europavägen mot världstoppen - SvD
-- Nya Cupra Born på väg – längre räckvidd och uppdaterad teknik - Dagens PS
+- Lytens köp ger hopp: ”Spännande tider väntar” - Norran
 - Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
 - Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
 - Kan ditt efternamn tyda på kunglig härkomst? Vad registren avslöjar - Dagens.se
 - Film om krossat glas vann Huleägget - Lokalpressen
-- Meira Omar slår tillbaka efter kritiken på Tiktok - Aftonbladet
+- Därför trendar drum’n’bass – igen - GP
+- Retrovåg i skuggan av strömningen – vhs växer - Aftonbladet
 
 ## World News
 
@@ -39,8 +39,8 @@ _Updated: 2026-03-01 20:57_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
