@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 13:43_
+_Updated: 2026-03-01 15:22_
 
 ## Top Stories
 
-- Storbritannien: Iran har avfyrat robotar mot Cypern – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Flera döda i Pakistan – försökte storma konsulat - Folkbladet
-- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Kraftig explosion i Teheran - Dagens Nyheter
+- Flera döda i Pakistan – försökte storma konsulat - GP
+- Pakistan–Afghanistan: Islamabad vägrar samtal när gränsstriderna trappas upp - RiktpunKt.nu
+- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - Frågan efter skavsåret var ofattbar: Vill du dö? - SvD
-- Nya explosioner i Kabul - Västerbottens-Kuriren
-- SMHI varnar för snöfall i tre län - Expressen
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
+- En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
 - 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
 - 01 mars 07.41, Sammanfattning natt, Södermanlands län - polisen.se
-- Viktigare än någonsin att stå upp mot kärnvapnen - tidningensyre.se
-- Alireza Arafi utsedd till tillfällig högsta ledare – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
+- Cypern avfärdar uppgifter om iranska robotar - Aftonbladet
+- Moskvas kedja faller - DI
 - Suspekt vadslagning om attacken mot Iran - DI
 - Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
+- Nya trenden: Din konsumtion är ditt vapen - Dagens PS
 - Fem heta motorfrågor och politiska vägval - Dagens Nyheter
-- LEDARE: Sänkt matmoms – klen åtgärd av en borgerlig regering - LT
+- Kyla och snö stoppar inte naturens värstingar - SvD
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
-- Ultrahuman lanserar Ring Pro med 15 dagars batteri - Teknikveckan
-- 5 tips till dig som vågar spela "Resident Evil Requiem" - MovieZine
-- Samsung S26 har ljusstarkare objektiv till kameran på 200 megapixel - Fotosidan
+- Science fiction-legendaren Dan Simmons är död. Författaren av Hyperion har lämnat oss. - feber.se
+- Heldag med klimatfilmer på Tellus - Mitt i
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-03-01 13:43_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global lista lyfter fram sju hälsoinstitutioner i Brazilien som referenser inom vård och teknik - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -42,6 +41,7 @@ _Updated: 2026-03-01 13:43_
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Swedish research shows storms can help slow down global warming - Sveriges Radio
@@ -67,9 +67,9 @@ _Updated: 2026-03-01 13:43_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-01 13:43_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
