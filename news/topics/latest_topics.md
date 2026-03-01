@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 21:44_
+_Updated: 2026-03-01 22:49_
 
 ## Top Stories
 
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
 - UD avråder från alla resor till Israel - UNT
-- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
 - Beskedet i sista stund: lodjursjakten stoppas - VF
 - Svenskan från skolan kom tillbaka: ”Mirakel” - SvD
 - Ragnars vapen kunde knäckt gåtan - UNT
+- En till sjukhus efter skoterolycka – tog tvärstopp vid diket - Norran
 - DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
-- 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
+- 01 mars 13.07, Trafikkontroll, Västernorrlands län - Polisen.se
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
-- Svenska elpriser: Du betalar, de sparar, och ingenting händer - Dagens PS
+- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- Olika tro men gemensam fasta i Gaza - Dagens Nyheter
+- Rederijätten stoppar sin trafik i Hormuzsundet - DI
 - Kungabarnen tar ut miljoner i vinst - Expressen
-- Geely tar Europavägen mot världstoppen - SvD
+- Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
 - Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
 - Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
 - Kan ditt efternamn tyda på kunglig härkomst? Vad registren avslöjar - Dagens.se
 - Film om krossat glas vann Huleägget - Lokalpressen
-- Därför trendar drum’n’bass – igen - GP
-- Retrovåg i skuggan av strömningen – vhs växer - Aftonbladet
 
 ## World News
 
@@ -66,10 +66,10 @@ _Updated: 2026-03-01 21:44_
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,6 +80,7 @@ _Updated: 2026-03-01 21:44_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-03-01 21:44_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-01 21:44_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
