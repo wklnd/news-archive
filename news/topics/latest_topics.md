@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-01 15:22_
+_Updated: 2026-03-01 15:55_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Kraftig explosion i Teheran - Dagens Nyheter
-- Flera döda i Pakistan – försökte storma konsulat - GP
-- Pakistan–Afghanistan: Islamabad vägrar samtal när gränsstriderna trappas upp - RiktpunKt.nu
-- DEBATT: Eskilstuna kommun: Det gör vi för att minska utsläppen - Ekuriren
+- Utvecklingen i Mellanöstern är allvarlig och kan snabbt förvärras - Regeringen.se
+- DN Direkt – Explosion i Malmö – pekar på handgranat - Dagens Nyheter
 - 01 mars 13.07, Trafikkontroll, Västernorrlands län - polisen.se
 - Frågan efter skavsåret var ofattbar: Vill du dö? - SvD
+- Yttrandefrihetsexperten om domen: ”Måste framkalla rädsla” - SVT Nyheter
 - Torklapparna på BB i Malmö blev rikspolitik: ”Det minsta problemet vi har” - Dagens Nyheter
 - En man förd till sjukhus efter misshandel i Jönköping - SVT Nyheter
 - 01 mars 08.15, Sammanfattning natt, Jämtlands län - polisen.se
 - 01 mars 07.41, Sammanfattning natt, Södermanlands län - polisen.se
-- Cypern avfärdar uppgifter om iranska robotar - Aftonbladet
+- USA:s konsulat i Pakistan stormat – uppgifter om flera döda - Expressen
 - Moskvas kedja faller - DI
 - Suspekt vadslagning om attacken mot Iran - DI
 - Spårningsbrickor är mer än bara Airtags – vi har testat 6 modeller - Expressen
 - Nya trenden: Din konsumtion är ditt vapen - Dagens PS
-- Fem heta motorfrågor och politiska vägval - Dagens Nyheter
+- Lytens köp ger hopp: ”Spännande tider väntar” - Norran
 - Kyla och snö stoppar inte naturens värstingar - SvD
 - Fukttålig vätgassensor kan bana väg för säker vätgas i stor skala - Telgenytt
 - Science fiction-legendaren Dan Simmons är död. Författaren av Hyperion har lämnat oss. - feber.se
 - Heldag med klimatfilmer på Tellus - Mitt i
+- Recension: Mayhem är en veritabel kölhalning på Hisingen - GP
 
 ## World News
 
@@ -38,14 +38,14 @@ _Updated: 2026-03-01 15:22_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Swedish research shows storms can help slow down global warming - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -99,30 +99,30 @@ _Updated: 2026-03-01 15:22_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Institutionen för vårdvetenskap - Malmö universitet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
@@ -130,15 +130,15 @@ _Updated: 2026-03-01 15:22_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,11 +149,12 @@ _Updated: 2026-03-01 15:22_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-03-01 15:22_
 - Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
