@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 08:10_
+_Updated: 2026-03-02 09:31_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Europeiska ledare samarbetar med USA - Dagens Nyheter
+- Han kom in på läkarlinjen som 17-åring – nu sprids hans pluggtips på Tiktok - Sydsvenskan
 - Larm om hög smäll i Årsta - SVT Nyheter
-- DEBATT: Från Iran till Libanon – när stater förlorar kontrollen över krig och fred - Bulletin
-- Kommuner bryter avtal med fuskande hemtjänstföretag - Omni
-- Skjutning i Texas utreds för terrorkoppling - Kvartal
+- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
+- Polisen dras med 459 olösta gängmord: ”Vi skannar av” - Omni
 - DEBATT: Lodjuret fyller en viktig roll i det ekologiska systemet - Corren
-- Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
+- Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
+- Vi vill veta vad alla tycker om vår service och vårt bemötande - Vårt Luleå
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
 - Pappa till LVU-barn hotade politiker och socialtjänst i Huddinge - SVT Nyheter
-- Nattens händelser från polisen i Örebro län - Örebro Tribune
-- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
 - Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
-- Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
 - Vad hände med Open AI? - SvD
+- Mercedes nya kostar över 100 miljoner kronor - Dagens PS
+- Göran Persson alltjämt sämst betalda banktoppen - Dagens PS
 - Therése stoppades före tvåårsgränsen: ”Förbannad” - Dagens Arbete
-- Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Avvaktande inledning på året för second hand-marknaden - Svensk Handel
+- Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
 - De 5 TV-apparater från CES 2026 som jag är mest sugen på att testa – inklusive OLED- och RGB-TV-apparater från LG och Samsung - TechRadar
 - Glöm oled – därför är mini-led ett bättre val - m3.se
 - Test: Detta är en nästan fulländad Chromebook - PC för Alla
-- Äntligen en vikbar telefon som du inte behöver oroa dig för - Ljud & Bild
+- Joakim Lundell: ”Jag ljög – om trekanten” - Expressen
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-03-02 08:10_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -39,14 +38,15 @@ _Updated: 2026-03-02 08:10_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-03-02 08:10_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -148,17 +148,17 @@ _Updated: 2026-03-02 08:10_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- De gick från reko till eko - ST-tidningen
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
