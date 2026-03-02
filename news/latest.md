@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-02 08:35_
+_Updated: 2026-03-02 09:36_
 
-- Where Iran has retaliated across the Middle East, according to satellite images and videos - The Washington Post
 - Canada's Mark Carney meets India PM Narendra Modi in historic trip to reset ties with India - BBC
 - Hunkered at Mar-a-Lago, Trump makes his club a makeshift Situation Room - CNN
 - US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
 - Hundreds of thousands of travelers stranded following U.S.-Israel attacks on Iran - PBS
 - Trump said he's pro legal immigration, his policies say otherwise - PBS
-- FBI probing whether Iran attack motivated Austin shooter who killed 2 - The Washington Post
-- US intel did not suggest a preemptive strike from Iran before US-Israeli attacks, AP sources say - AP News
 - Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge - The New York Times - The New York Times
+- FBI probing whether Iran attack motivated Austin shooter who killed 2 - The Washington Post
 - Inside El Mencho’s last hideout: Blood, bullets and a cartel boss’ life of luxury - Los Angeles Times
-- Starmer says he will give US permission to use UK bases for Iran missions - Politico
-- Live updates: Trump says Iran operation could take "four weeks or less," 3 U.S. troops killed - CBS News
-- Israel expands offensive with new wave of coordinated strikes in Iran and Lebanon - Fox News
-- US-Israel war on Iran live: explosions heard in Gulf cities and Jerusalem; evacuations in Beirut as conflict spreads to Lebanon - The Guardian
-- Companies Race to Reassure and Relocate Employees Caught in Middle East Conflict - WSJ
+- Iran's Prince Reza Pahlavi says "this is our chance" after Khamenei's death - CBS News
+- Texas 2026 Primary Poll: Talarico & Paxton with Narrow Edges in Senate Primaries - - Emerson Polling
+- Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
+- Iranian missile warhead falls less than a kilometer from Temple Mount, al-Aqsa Mosque - The Times of Israel
+- Markets begin to react as Trump’s attack on Iran risks hitting American pocketbooks - The Washington Post
+- Oil prices fallout: OPEC producers boost output after Iran strikes - Axios
 - Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why. - The Motley Fool
-- Gold, Silver Rise as Middle East Conflict Spurs Safe-Haven Demand - WSJ
-- NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms - NVIDIA Newsroom
-- A robot arm with puppy dog eyes is just one of Lenovo’s new desktop AI concepts - The Verge
-- Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more - Engadget
+- How AI Could Wreck Your 401(k) - Forbes
+- The iPad Pro Has Its First Worthy Android Replacement - bgr.com
+- Ed Iskenderian, Hot Rod Pioneer Known as the ‘Camfather,’ Dies at 104 - The New York Times
+- This 10,000 mAh Qi2 battery bank for Pixel 10 is thin without compromise [Gallery] - 9to5Google
+- Today’s NYT Strands Hints, Spangram, Answers: Sunday, March 1 (Dressing Down) - Forbes
