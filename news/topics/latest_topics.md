@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 07:03_
+_Updated: 2026-03-02 08:10_
 
 ## Top Stories
 
-- Israel inleder attacker mot Hizbollah i Libanon – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Larm om hög smäll i Årsta - SVT Nyheter
-- Ryska hotet mot Europa: ”Dags slå till” - Expressen
+- DEBATT: Från Iran till Libanon – när stater förlorar kontrollen över krig och fred - Bulletin
+- Kommuner bryter avtal med fuskande hemtjänstföretag - Omni
+- Skjutning i Texas utreds för terrorkoppling - Kvartal
+- DEBATT: Lodjuret fyller en viktig roll i det ekologiska systemet - Corren
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- Ragnars fynd kunde knäckt gåtan - UNT
-- Jepson om sin konst, kommande turnén och The Ark-filmen - Smålandsposten
-- DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
-- Se hur männen smugglade kokain för 1,4 miljarder till Malmö - SVT Nyheter
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
-- Hangarfartyget Charles de Gaulle ska lämna Malmö för Medelhavet - SVT Nyheter
-- Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
+- Pappa till LVU-barn hotade politiker och socialtjänst i Huddinge - SVT Nyheter
+- Nattens händelser från polisen i Örebro län - Örebro Tribune
+- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
 - Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
+- Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
+- Vad hände med Open AI? - SvD
 - Therése stoppades före tvåårsgränsen: ”Förbannad” - Dagens Arbete
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Få skattar för sin dricks - Hotellrevyn
-- LEDARE: Sänkt matmoms är en klen åtgärd - Kristianstadsbladet
-- Tv-spelsnostalgi och tävlingsglädje när Delsbo spelade tillsammans - Hudiksvalls Tidning
-- Det här är Sonos nya bärbara högtalare – en blandning mellan Roam och Move - Teknikveckan
-- Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
-- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
+- Avvaktande inledning på året för second hand-marknaden - Svensk Handel
+- De 5 TV-apparater från CES 2026 som jag är mest sugen på att testa – inklusive OLED- och RGB-TV-apparater från LG och Samsung - TechRadar
+- Glöm oled – därför är mini-led ett bättre val - m3.se
+- Test: Detta är en nästan fulländad Chromebook - PC för Alla
+- Äntligen en vikbar telefon som du inte behöver oroa dig för - Ljud & Bild
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-02 07:03_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -110,35 +110,35 @@ _Updated: 2026-03-02 07:03_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - E-hälsa inom EU - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
