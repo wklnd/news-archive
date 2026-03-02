@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-02 19:28_
+_Updated: 2026-03-02 20:24_
 
-- India and Canada reset ties with 'landmark' nuclear energy deal - BBC
-- 6 Voters React to Attacks on Iran Ahead of the Texas Primaries - The New York Times
-- Hunkered at Mar-a-Lago, Trump makes his club a makeshift Situation Room - CNN
+- Lebanese PM bans Hezbollah’s military activities after attack on Israel - Al Jazeera
 - How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times
 - Supreme Court hears challenge to law barring drug users from having guns - NBC News
+- 6 Conservative Voters React to Attacks on Iran Ahead of the Texas Primaries - The New York Times
+- India and Canada reset ties with 'landmark' nuclear energy deal - BBC
 - Bagram Air Base Targeted by Pakistan, Afghanistan Says - The New York Times
-- Trump pursues Iranian decapitation without a plan for what comes next - The Washington Post
 - Honored Nationwide, Jesse Jackson Is Less Celebrated in His Hometown - The New York Times
+- A NYC wine importer sued the Trump administration over tariffs and won. Now what? - Gothamist
 - Iran's nuclear ambassador alleges that US-Israeli airstrikes targeted the Natanz enrichment facility - Yahoo
-- UPDATED: State police identify suspect, victims in beltway road rage stabbing - InsideNoVa.com
-- France offers to station nuclear weapons across Europe for the first time - Financial Times
+- Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late. - The New York Times
 - Starmer Faces Dilemma After British Base in Cyprus Was Hit by a Drone - The New York Times
-- Iran conflict escalates: 4 U.S. service members killed as death toll climbs - Axios
-- Hundreds of thousands of travelers stranded following U.S.-Israel attacks on Iran - PBS
-- Energy In Focus as Global Equity Traders Brace For Iran Impact - Bloomberg.com
+- 7 key points in U.S.-Iran relations since 1953 - NPR
+- Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
+- Live updates: Trump won't rule out ground troops in Iran as U.S. military confirms 4 troops killed in war - CBS News
+- Nasdaq turns positive in major comeback as traders buy the dip after U.S.-Iran attacks: Live updates - CNBC
 - BlackRock, EQT-Led Consortium to Acquire AES for $10.7 Billion - WSJ
-- S&P 500 turns positive in major comeback as traders buy the dip after U.S.-Iran attacks: Live updates - CNBC
-- Warren Buffett Went Out With a Bang by Selling 75% of His Apple Stake and Piling Into This Consumer-Facing Company for 6 Consecutive Quarters - The Motley Fool
-- Hands-on: Motorola Razr Fold’s software is halfway between Pixel and Samsung [Gallery] - 9to5Google
-- Nintendo Indie World Showcase Announced For Tomorrow, 3rd March 2026 - Nintendo Life
+- Versant is about to test Wall Street’s appetite for cable TV in its first earnings report as a public company - CNBC
+- How long do electric vehicle batteries actually last? - NPR
+- Nothing just revealed Phone (4a)’s colors, but Phone (4a) Pro remains a mystery [Gallery] - 9to5Google
+- Motorola's Edge 70 Fusion phone has a huge curved 144Hz display - Engadget
