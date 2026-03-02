@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 23:57_
+_Updated: 2026-03-03 00:54_
 
 ## Top Stories
 
+- Samir Abu Eid: Inga nyheter i Hegseths tal – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Misstänkt farligt föremål i stadshuset i Uppsala – var ofarligt - Aftonbladet
 - Michael Winiarski: Allians med en försvagad Putin ingen försäkring för diktatorer - Dagens Nyheter
-- Ljus och grönska – så blir nya superfängelset - SvD
-- Europa sluter upp bakom Trump - SvD
+- Nya superfängelset ska ge ”sympatiskt intryck” - SvD
 - Sverige i samtal med Frankrike om kärnvapen – Senaste nytt om valet 2026 - SVT Nyheter
-- Pete Hegseth: ”Syftet var inte ett regimskifte” - Omni
+- Fågelinfluensa på Värmdö – tre svanungar har dött - Mitt i
 - Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
 - JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
 - 02 mars 18.20, Trafikkontroll, Västerbottens län - Polisen.se
-- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
+- Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
 - UD-chef: Därför evakuerar Sverige inte strandsatta - Dagens Nyheter
+- Qatar: Två iranska stridsflyg nedskjutna - Västerbottens-Kuriren
 - EU trevar efter gemensam linje: ”Inte läge att läxa upp allierade” - Dagens Nyheter
-- Expert: Högst osannolikt att Sverige dras in - GP
-- Flera dödade i ryska anfall - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Libanon: 52 döda i israeliska attacker - Dagens Nyheter
+- Streamingjättar slås ihop efter storaffären - SvD
+- Buffetts bolag tappar under ledning av ny vd - DI
 - Köpläge i vinnaren på svenskt plånbokslyft – uppsida på nästan 14 procent - Privata Affärer
-- Nya mediejätten ska köpa Warner Brothers – det händer nu - Dagens Nyheter
-- Galna priset på svenska kaffeburken – fyrsiffrigt belopp: ”Känns lite märkligt” - Expressen
-- Vingårdarna nöjda med första året: ”Fått fast position” - Omni
+- Vad hände med Open AI? - SvD
 - Asylprövning av asylsökande som åberopbar sexuell läggning och könsidentitet som asylskäl - Delegationen för migrationsstudier - Delmi
 - Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
 
@@ -34,7 +34,7 @@ _Updated: 2026-03-02 23:57_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
