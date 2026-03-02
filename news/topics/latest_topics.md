@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 23:01_
+_Updated: 2026-03-02 23:57_
 
 ## Top Stories
 
-- New York-bor krigströtta: ”Borde inte vara en världspolis” - GP
-- Europa sluter upp bakom Trump - SvD
 - Misstänkt farligt föremål i stadshuset i Uppsala – var ofarligt - Aftonbladet
 - Michael Winiarski: Allians med en försvagad Putin ingen försäkring för diktatorer - Dagens Nyheter
-- Pete Hegseth: ”Syftet var inte ett regimskifte” - Omni
-- Direkt – Krisen i Mellanöstern – Libanon: 52 döda i israeliska attacker - Dagens Nyheter
-- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
+- Ljus och grönska – så blir nya superfängelset - SvD
+- Europa sluter upp bakom Trump - SvD
 - Sverige i samtal med Frankrike om kärnvapen – Senaste nytt om valet 2026 - SVT Nyheter
+- Pete Hegseth: ”Syftet var inte ett regimskifte” - Omni
+- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
 - JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
 - 02 mars 18.20, Trafikkontroll, Västerbottens län - Polisen.se
-- Qatar: Två iranska stridsflyg nedskjutna - Västerbottens-Kuriren
-- EU trevar efter gemensam linje: ”Inte läge att läxa upp allierade” - Dagens Nyheter
+- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
 - UD-chef: Därför evakuerar Sverige inte strandsatta - Dagens Nyheter
-- Cypern avfärdar uppgifter om iranska robotar - Aftonbladet
-- Vad hände med Open AI? - SvD
+- EU trevar efter gemensam linje: ”Inte läge att läxa upp allierade” - Dagens Nyheter
+- Expert: Högst osannolikt att Sverige dras in - GP
+- Flera dödade i ryska anfall - Aftonbladet
 - Köpläge i vinnaren på svenskt plånbokslyft – uppsida på nästan 14 procent - Privata Affärer
-- Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
+- Nya mediejätten ska köpa Warner Brothers – det händer nu - Dagens Nyheter
 - Galna priset på svenska kaffeburken – fyrsiffrigt belopp: ”Känns lite märkligt” - Expressen
+- Vingårdarna nöjda med första året: ”Fått fast position” - Omni
 - Asylprövning av asylsökande som åberopbar sexuell läggning och könsidentitet som asylskäl - Delegationen för migrationsstudier - Delmi
 - Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
 
@@ -31,20 +31,20 @@ _Updated: 2026-03-02 23:01_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
+- 40 years of RSF, 40 years of press freedom history - RSF.org
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -55,6 +55,7 @@ _Updated: 2026-03-02 23:01_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-03-02 23:01_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -111,16 +111,15 @@ _Updated: 2026-03-02 23:01_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
@@ -130,6 +129,7 @@ _Updated: 2026-03-02 23:01_
 - Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
