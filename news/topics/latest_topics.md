@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 15:40_
+_Updated: 2026-03-02 17:07_
 
 ## Top Stories
 
-- Flera amerikanska stridsflyg har störtat i Kuwait – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Israel attackerar ”hjärtat” av Teheran - GP
+- Kristersson: Utesluter inte storkrig - Dagens Nyheter
+- Kristersson: Inga möjligheter att hjälpa – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Systrarnas rop på hjälp: ”Glöm oss inte” - Dagens Nyheter
-- Jubel i Kreml – krigskassan göds - SvD
-- Brand på ett av världens största raffinaderier - Omni
-- E-type fast i Dubai: Läskigt - Västerbottens-Kuriren
-- ”Ännu färre får hjälp vid ett förbud” - SvD
+- Jubel i Kreml över höjt pris på olja – krigskassan göds | Fredrik Fahlman - SvD
+- Direkt – Krisen i Mellanöstern – UD:s konsulära enhet i krisorganisation - Dagens Nyheter
 - I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
 - Banan kastad mot talmannen i Norrköping – livvakter ingrep - SVT Nyheter
+- Migrationsverket: Kan komma fler utvisningsbeslut mot bebisar - Dagens Nyheter
 - Risk för gräsbrand i södra Sverige - Expressen
-- Statsvetaren om migrationsreglerna: ”Juridisk snårskog” - Dagens Nyheter
-- Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
-- Strandsatta svenskar kan bli fast i veckor - GP
+- Brittisk bas på Cypern evakueras efter flyglarm - GP
 - Nathan Shachar: Tusentals israeler lever i underjordiska stationer - Dagens Nyheter
 - Moskvas kedja faller - DI
 - Vad hände med Open AI? - SvD
-- Lappland Guldprospektering inleder ett borrprogram i sökandet efter källan till 50 guldrika flyttblock — borrningen startar vecka 11 - Cision News
-- Tidningen ger köpråd för bioteknikbolag – potential på 28 procent - Börskollen
-- Rivstart för gårdsförsäljningen – så mycket vin såldes - SvD
-- Qualcomm släpper nytt chipp för bärbara AI-prylar - Computer Sweden
+- ”Skydd på 10 000 kronor genom hemförsäkringen” - Expressen
+- Elon Musk: "Utan elbilar och autonomi väntar dinosauriernas öde" - Allt om Elbil
+- Flyttade 40 mil – för att bli bonde i Oviken - Östersunds-Posten
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
+- Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
+- Maxad spelmobil med tunna ramar och extrem prestanda - mobil.se
 
 ## World News
 
@@ -68,8 +68,31 @@ _Updated: 2026-03-02 15:40_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+
+## Business
+
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -100,22 +123,22 @@ _Updated: 2026-03-02 15:40_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
-- Science center etableras på Campus Helsingborg - Lunds universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
