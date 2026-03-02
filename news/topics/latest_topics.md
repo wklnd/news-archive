@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 12:11_
+_Updated: 2026-03-02 13:08_
 
 ## Top Stories
 
 - Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
-- Sofia är strandsatt i Dubai – önskar mer hjälp av UD - SVT Nyheter
+- Brand på ett av världens största raffinaderier - Omni
 - Fiasko för Bryggerietplanen – domstol upphäver beslut - Sydsvenskan
-- Han kom in på läkarlinjen som 17-åring – här är hans pluggtips - Sydsvenskan
-- Insändare. Ersätt troféjakt på lodjur med jaktfria turistområden - Dagens Nyheter
 - Flera dödade i ryska anfall - GP
-- Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
-- Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
 - Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
 - Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
-- Ingmar Nevéus: Två inte särskilt behagliga dofter av USA - Dagens Nyheter
-- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
-- Iran: Ingen förhandling med USA - Expressen
-- Vad hände med Open AI? - SvD
-- Elon Musk: "Utan elbilar och autonomi väntar dinosauriernas öde" - Allt om Elbil
-- BioGaia: Gräver guld i USA - Placera.se
+- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
 - Storbråk på snabbmatsrestaurang i Åre - Expressen
+- Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
+- Malmer Stenergard: ”Risk för eskalering” - Dagens Nyheter
+- Ingmar Nevéus: Två inte särskilt behagliga dofter av USA - Dagens Nyheter
+- Moskvas kedja faller - DI
+- William, 31, fast i Kuwait efter attacken mot Iran - Hudiksvalls Tidning
+- Svensk industri ångar på – starkaste siffran på fyra år - Omni
+- Norwegian lovade full refund – men gömde ett avgörande undantag - Dagens PS
+- Tåget som kan krossa din öl – och kanske dig - Dagens PS
+- BioGaia: Gräver guld i USA - Placera.se
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
-- Den ljusaste av alla stjärnor har synts tydligt på himlen i 10 000 år – men det kommer snart att förändras - Illustrerad Vetenskap
-- De 5 TV-apparater från CES 2026 som jag är mest sugen på att testa – inklusive OLED- och RGB-TV-apparater från LG och Samsung - TechRadar
+- Skidåkare äter "planetär kost" under världscupen i Åre: "Vi kan skydda snön med våra matval" - Impact Loop
 
 ## World News
 
@@ -67,9 +67,9 @@ _Updated: 2026-03-02 12:11_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-03-02 12:11_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Institutionen för vårdvetenskap - Malmö universitet
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
