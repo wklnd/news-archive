@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 05:15_
+_Updated: 2026-03-02 07:03_
 
 ## Top Stories
 
-- Ryska hotet mot Europa: ”Dags slå till” - Expressen
+- Israel inleder attacker mot Hizbollah i Libanon – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Larm om hög smäll i Årsta - SVT Nyheter
-- Europeiska länder: Kan svara - GP
+- Ryska hotet mot Europa: ”Dags slå till” - Expressen
 - Betongsossen kan inte sluta läsa de taskiga mejlen - Sydsvenskan
-- Ragnars vapen kunde knäckt gåtan - UNT
-- Beskedet i sista stund: lodjursjakten stoppas - VF
-- Kyla och snö stoppar inte naturens värstingar - GP
+- Ragnars fynd kunde knäckt gåtan - UNT
+- Jepson om sin konst, kommande turnén och The Ark-filmen - Smålandsposten
+- DN/Ipsos: Väljarna ser sig inte längre som liberaler - Dagens Nyheter
+- Se hur männen smugglade kokain för 1,4 miljarder till Malmö - SVT Nyheter
 - Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
 - Hangarfartyget Charles de Gaulle ska lämna Malmö för Medelhavet - SVT Nyheter
-- Nya riktlinjer kring evenemang: ”Det här har blivit en skandal” - KT-Kuriren
 - Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
-- Tre döda i skjutning i Texas – FBI misstänker terrordåd - Omni
 - Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
 - Therése stoppades före tvåårsgränsen: ”Förbannad” - Dagens Arbete
 - Lytens köp ger hopp: ”Spännande tider väntar” - Norran
-- Många struntar i röd gubbe: ”Man chansar med sitt liv” - Skövde Nyheter
-- Facit för elpriset i februari: 700 procent dyrare än i fjol - pt.se
+- Få skattar för sin dricks - Hotellrevyn
+- LEDARE: Sänkt matmoms är en klen åtgärd - Kristianstadsbladet
 - Tv-spelsnostalgi och tävlingsglädje när Delsbo spelade tillsammans - Hudiksvalls Tidning
 - Det här är Sonos nya bärbara högtalare – en blandning mellan Roam och Move - Teknikveckan
 - Vikbara smartphones har ett batteriproblem. Honor menar att Magic V6 är lösningen - Ljud & Bild
+- Nya upptäckter väcker uppseende: Geologer löser gåtan med jordens inre - Illustrerad Vetenskap
 
 ## World News
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-02 05:15_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,10 +80,11 @@ _Updated: 2026-03-02 05:15_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-03-02 05:15_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-03-02 05:15_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Institutionen för vårdvetenskap - Malmö universitet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- E-hälsa inom EU - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Johan von Schreeb - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -131,12 +131,12 @@ _Updated: 2026-03-02 05:15_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-02 05:15_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- De gick från reko till eko - ST-tidningen
