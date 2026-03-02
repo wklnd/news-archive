@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 13:08_
+_Updated: 2026-03-02 13:53_
 
 ## Top Stories
 
+- Kristersson: Det iranska folket förtjänar bättre - GP
+- Pappa till LVU-barn hotade politiker och socialtjänst i Huddinge - SVT Nyheter
 - Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
-- Brand på ett av världens största raffinaderier - Omni
+- Jubel i Kreml över höjt pris på olja – krigskassan göds | Fredrik Fahlman - SvD
 - Fiasko för Bryggerietplanen – domstol upphäver beslut - Sydsvenskan
-- Flera dödade i ryska anfall - GP
-- Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
-- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
+- Brand på ett av världens största raffinaderier - Omni Ekonomi
 - I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
 - Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
 - Storbråk på snabbmatsrestaurang i Åre - Expressen
-- Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
-- Malmer Stenergard: ”Risk för eskalering” - Dagens Nyheter
+- Politiker vill stoppa onödiga jobbmöten: ”Slöseri med skattepengar” - Dagens Nyheter
+- Nathan Shachar: Tusentals israeler lever i underjordiska stationer - Dagens Nyheter
 - Ingmar Nevéus: Två inte särskilt behagliga dofter av USA - Dagens Nyheter
+- Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
 - Moskvas kedja faller - DI
-- William, 31, fast i Kuwait efter attacken mot Iran - Hudiksvalls Tidning
-- Svensk industri ångar på – starkaste siffran på fyra år - Omni
+- Elon Musk: "Utan elbilar och autonomi väntar dinosauriernas öde" - Allt om Elbil
 - Norwegian lovade full refund – men gömde ett avgörande undantag - Dagens PS
-- Tåget som kan krossa din öl – och kanske dig - Dagens PS
 - BioGaia: Gräver guld i USA - Placera.se
+- Tåget som kan krossa din öl – och kanske dig - Dagens PS
+- Qualcomm släpper nytt chipp för bärbara AI-prylar - Computer Sweden
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
-- Skidåkare äter "planetär kost" under världscupen i Åre: "Vi kan skydda snön med våra matval" - Impact Loop
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
+- 40 years of RSF, 40 years of press freedom history - RSF.org
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- 48 städer krokar arm i global klimatomställning - Cision News
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- MSC Cruises markerar global infrastrukturvåg - travelnews.se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
 
 ## Technology
 
@@ -67,9 +67,9 @@ _Updated: 2026-03-02 13:08_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,10 +80,11 @@ _Updated: 2026-03-02 13:08_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2026-03-02 13:08_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Institutionen för vårdvetenskap - Malmö universitet
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
