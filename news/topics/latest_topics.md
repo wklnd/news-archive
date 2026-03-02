@@ -1,41 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 11:08_
+_Updated: 2026-03-02 12:11_
 
 ## Top Stories
 
 - Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
 - Sofia är strandsatt i Dubai – önskar mer hjälp av UD - SVT Nyheter
 - Fiasko för Bryggerietplanen – domstol upphäver beslut - Sydsvenskan
-- Han kom in på läkarlinjen som 17-åring – nu sprids hans pluggtips på Tiktok - Sydsvenskan
-- Kommuner bryter avtal med fuskande hemtjänstföretag - Omni
-- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
-- Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
+- Han kom in på läkarlinjen som 17-åring – här är hans pluggtips - Sydsvenskan
+- Insändare. Ersätt troféjakt på lodjur med jaktfria turistområden - Dagens Nyheter
+- Flera dödade i ryska anfall - GP
 - Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
-- Hälsocentralerna i Kalmar län får höga betyg - Region Kalmar Län
-- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
+- Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
+- Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
 - Ingmar Nevéus: Två inte särskilt behagliga dofter av USA - Dagens Nyheter
 - Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
 - Iran: Ingen förhandling med USA - Expressen
 - Vad hände med Open AI? - SvD
-- Mercedes nya kostar över 100 miljoner kronor - Dagens PS
-- Göran Persson halkar efter storbankernas toppar - EFN
-- Therése stoppades före tvåårsgränsen: ”Förbannad” - Dagens Arbete
+- Elon Musk: "Utan elbilar och autonomi väntar dinosauriernas öde" - Allt om Elbil
+- BioGaia: Gräver guld i USA - Placera.se
+- Storbråk på snabbmatsrestaurang i Åre - Expressen
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
 - Den ljusaste av alla stjärnor har synts tydligt på himlen i 10 000 år – men det kommer snart att förändras - Illustrerad Vetenskap
 - De 5 TV-apparater från CES 2026 som jag är mest sugen på att testa – inklusive OLED- och RGB-TV-apparater från LG och Samsung - TechRadar
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
@@ -43,9 +44,8 @@ _Updated: 2026-03-02 11:08_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -67,9 +67,9 @@ _Updated: 2026-03-02 11:08_
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,11 +80,10 @@ _Updated: 2026-03-02 11:08_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-03-02 11:08_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-03-02 11:08_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Institutionen för vårdvetenskap - Malmö universitet
-- Hälsa och teknik - Chalmers tekniska högskola
-- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- E-hälsa inom EU - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
@@ -128,6 +128,7 @@ _Updated: 2026-03-02 11:08_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
+- Science center etableras på Campus Helsingborg - Lunds universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -135,10 +136,9 @@ _Updated: 2026-03-02 11:08_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
