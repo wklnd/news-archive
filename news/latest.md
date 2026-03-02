@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-02 20:24_
+_Updated: 2026-03-02 21:24_
 
-- Lebanese PM bans Hezbollah’s military activities after attack on Israel - Al Jazeera
-- How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times
-- Supreme Court hears challenge to law barring drug users from having guns - NBC News
-- 6 Conservative Voters React to Attacks on Iran Ahead of the Texas Primaries - The New York Times
+- Live updates: Trump warns Iran about larger strikes as war spirals in Middle East - CNN
+- Anthropic vs. White House puts $60 billion at risk - Axios
 - India and Canada reset ties with 'landmark' nuclear energy deal - BBC
-- Bagram Air Base Targeted by Pakistan, Afghanistan Says - The New York Times
 - Honored Nationwide, Jesse Jackson Is Less Celebrated in His Hometown - The New York Times
+- Trump pursues Iranian decapitation without a plan for what comes next - The Washington Post
+- Supreme Court leans toward a marijuana user's challenge to gun restriction - NBC News
+- AP Decision Notes: What to expect in North Carolina’s state primaries - AP News
 - A NYC wine importer sued the Trump administration over tariffs and won. Now what? - Gothamist
-- Iran's nuclear ambassador alleges that US-Israeli airstrikes targeted the Natanz enrichment facility - Yahoo
-- Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late. - The New York Times
+- Iran's nuclear ambassador alleges that US-Israeli airstrikes targeted the Natanz enrichment facility - AP News
+- As Trump Bombs Iran, America’s Allies Watch Fitfully From Sidelines - The New York Times
 - Starmer Faces Dilemma After British Base in Cyprus Was Hit by a Drone - The New York Times
-- 7 key points in U.S.-Iran relations since 1953 - NPR
-- Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
-- Live updates: Trump won't rule out ground troops in Iran as U.S. military confirms 4 troops killed in war - CBS News
-- Nasdaq turns positive in major comeback as traders buy the dip after U.S.-Iran attacks: Live updates - CNBC
-- BlackRock, EQT-Led Consortium to Acquire AES for $10.7 Billion - WSJ
-- Versant is about to test Wall Street’s appetite for cable TV in its first earnings report as a public company - CNBC
+- Qatar shoots down two Iranian Su-24 fighter jets over airspace as Gulf states suffer Iran strikes - The Jerusalem Post
+- Bagram Air Base Targeted by Pakistan, Afghanistan Says - The New York Times
+- Global week ahead: Operation Epic Fury means new risks for markets - CNBC
 - How long do electric vehicle batteries actually last? - NPR
+- Versant is about to test Wall Street’s appetite for cable TV in its first earnings report as a public company - CNBC
+- NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture - NVIDIA Newsroom
 - Nothing just revealed Phone (4a)’s colors, but Phone (4a) Pro remains a mystery [Gallery] - 9to5Google
-- Motorola's Edge 70 Fusion phone has a huge curved 144Hz display - Engadget
+- Motorola News | Motorola's new partnership with GrapheneOS - Motorola News
+- Qualcomm debuts its first Wi-Fi 8-ready chip, commits to launching 6G networks by 2029 - 9to5Google
