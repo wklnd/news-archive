@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 21:11_
+_Updated: 2026-03-02 21:58_
 
 ## Top Stories
 
 - Misstänkt farligt föremål i stadshuset i Uppsala - Aftonbladet
 - Europa sluter upp bakom Trump - SvD
 - Hegseth: Regimskifte inte målet - SVT Nyheter
-- Qatar: Två iranska stridsflyg nedskjutna - Skånska Dagbladet
-- Uppgift: UD:s konsulära enhet går upp i stabsläge - Omni
+- DN Direkt – Tarmbakterie sprids – sjukvården i stabsläge - Dagens Nyheter
 - Michael Winiarski: Allians med en försvagad Putin ingen försäkring för diktatorer - Dagens Nyheter
+- Sverige i samtal med Frankrike om kärnvapen – Senaste nytt om valet 2026 - SVT Nyheter
+- JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
 - 02 mars 18.20, Trafikkontroll, Västerbottens län - Polisen.se
+- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
 - Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
-- Tusentals flyg inställda efter attackerna – detta gäller nu - NWT
-- Hundratal dödade i anfall mot liten by - GP
-- Stena-fartyg träffat av drönare i Persiska viken - Aftonbladet
-- Flera dödade i ryska anfall - Aftonbladet
-- Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
-- Vingårdarna nöjda med första året: ”Fått fast position” - Omni
+- Dr Alban fast i Doha efter attackerna mot Iran - Expressen
+- Cypern avfärdar uppgifter om iranska robotar - Aftonbladet
+- Flera amerikanska stridsflyg har störtat i Kuwait – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Iran: Ingen förhandling med USA - Expressen
 - Vad hände med Open AI? - SvD
+- Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
+- Galna priset på svenska kaffeburken – fyrsiffrigt belopp: ”Känns lite märkligt” - Expressen
+- Vingårdarna nöjda med första året: ”Fått fast position” - Omni
 - Asylprövning av asylsökande som åberopbar sexuell läggning och könsidentitet som asylskäl - Delegationen för migrationsstudier - Delmi
 - Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
-- Maxad spelmobil med tunna ramar och extrem prestanda - mobil.se
-- Mekaniskt, low profile eller magnetiskt? Rösta och vinn veckans tangentbord från Keychron. - feber.se
-- Alex och Sigge möts av frikyrklig extas - SvD
 
 ## World News
 
@@ -33,11 +33,11 @@ _Updated: 2026-03-02 21:11_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -45,7 +45,7 @@ _Updated: 2026-03-02 21:11_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -129,7 +129,7 @@ _Updated: 2026-03-02 21:11_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- En marsch för vetenskap och forskning! - Framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -146,7 +146,6 @@ _Updated: 2026-03-02 21:11_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -154,11 +153,12 @@ _Updated: 2026-03-02 21:11_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
