@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 20:04_
+_Updated: 2026-03-02 21:11_
 
 ## Top Stories
 
-- Merz träffar Trump – och vill rädda Ukraina | Therese Larsson Hultin - SvD
+- Misstänkt farligt föremål i stadshuset i Uppsala - Aftonbladet
+- Europa sluter upp bakom Trump - SvD
 - Hegseth: Regimskifte inte målet - SVT Nyheter
+- Qatar: Två iranska stridsflyg nedskjutna - Skånska Dagbladet
+- Uppgift: UD:s konsulära enhet går upp i stabsläge - Omni
 - Michael Winiarski: Allians med en försvagad Putin ingen försäkring för diktatorer - Dagens Nyheter
 - 02 mars 18.20, Trafikkontroll, Västerbottens län - Polisen.se
 - Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
-- Flera dödade i ryska anfall - Aftonbladet
-- Migrationsverket: Kan komma fler utvisningsbeslut mot bebisar - Dagens Nyheter
-- Banan kastad mot talmannen i Norrköping – livvakter ingrep - SVT Nyheter
-- 4 000 svenskar strandsatta i Dubai och Doha - GP
+- Tusentals flyg inställda efter attackerna – detta gäller nu - NWT
 - Hundratal dödade i anfall mot liten by - GP
-- Kuwait sköt ner amerikanska stridsflyg av misstag - Aftonbladet
-- Iran: Ingen förhandling med USA - Expressen
-- Nu kommer deklarationen – viktiga datum att hålla koll på - NWT
-- Vad hände med Open AI? - SvD
+- Stena-fartyg träffat av drönare i Persiska viken - Aftonbladet
+- Flera dödade i ryska anfall - Aftonbladet
 - Så mycket sparar du på att köra elbil jämfört med bensinbil - Dagens Nyheter
-- Nya fyndet: Mera guld i Norrland - Dagens PS
+- Vingårdarna nöjda med första året: ”Fått fast position” - Omni
+- Vad hände med Open AI? - SvD
 - Asylprövning av asylsökande som åberopbar sexuell läggning och könsidentitet som asylskäl - Delegationen för migrationsstudier - Delmi
 - Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
 - Maxad spelmobil med tunna ramar och extrem prestanda - mobil.se
-- Lenovo visar upp AI-roboten AI Workmate - m3.se
+- Mekaniskt, low profile eller magnetiskt? Rösta och vinn veckans tangentbord från Keychron. - feber.se
+- Alex och Sigge möts av frikyrklig extas - SvD
 
 ## World News
 
@@ -38,6 +38,7 @@ _Updated: 2026-03-02 20:04_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
@@ -45,12 +46,11 @@ _Updated: 2026-03-02 20:04_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - mynewsdesk.com
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -60,7 +60,7 @@ _Updated: 2026-03-02 20:04_
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -73,26 +73,26 @@ _Updated: 2026-03-02 20:04_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - mynewsdesk.com
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - mynewsdesk.com
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - mynewsdesk.com
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
-- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - mynewsdesk.com
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - mynewsdesk.com
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - mynewsdesk.com
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - mynewsdesk.com
-- Ny nyckelrekrytering utmanar konkurrenterna - mynewsdesk.com
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -101,7 +101,7 @@ _Updated: 2026-03-02 20:04_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
-- Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
@@ -113,9 +113,9 @@ _Updated: 2026-03-02 20:04_
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - mynewsdesk.com
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -125,13 +125,13 @@ _Updated: 2026-03-02 20:04_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - mynewsdesk.com
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - mynewsdesk.com
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
@@ -143,22 +143,22 @@ _Updated: 2026-03-02 20:04_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - mynewsdesk.com
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - mynewsdesk.com
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är här - EU Digital Strategy
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - mynewsdesk.com
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - mynewsdesk.com
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - mynewsdesk.com
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - mynewsdesk.com
-- Fröätare hjälper oss att bekämpa ogräs på åkern - mynewsdesk.com
+- Mjau_gåvoshop_mars - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
