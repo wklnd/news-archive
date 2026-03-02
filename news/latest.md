@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-02 13:58_
+_Updated: 2026-03-02 15:45_
 
-- March 1, 2026 — Day two of the launch of a US-Israeli military operation against Iran - CNN
-- US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
+- Middle East crisis live: Kuwait mistakenly shoots down three US fighter planes, as US says Iran’s ‘reckless’ attacks threaten regional stability - The Guardian
+- Live updates: U.S. military confirms 4 troops killed in Iran war; Kuwait downs 3 U.S. jets in "friendly fire" - CBS News
+- Middle East aviation grounded with airspace and airports closed - Euronews.com
 - Afghanistan Says Pakistan Tried to Strike Prized Air Base - The New York Times
-- Hundreds of thousands of travelers stranded following U.S.-Israel attacks on Iran - PBS
-- Oil prices jump and shares fall as conflict escalates - BBC
-- Joint Statement on Iran’s Missile and Drone Attacks in the Region - U.S. Department of State (.gov)
+- Supreme Court hears challenge to law barring drug users from having guns - NBC News
+- U.S. cities step up security amid Iran tensions - Axios
+- US military reportedly used Claude in Iran strikes despite Trump’s ban - The Guardian
+- Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late. - The New York Times
 - The Iran Strike Is All About China - The Free Press
-- Inside El Mencho’s last hideout: Blood, bullets and a cartel boss’ life of luxury - Los Angeles Times
-- Strike on Girls’ School Kills at Least 175, Iranian State Media Says - The New York Times
-- Trump said he's pro legal immigration, his policies say otherwise - PBS
-- The Iran war makes it official – America is breaking with Europe - New Statesman
-- MOD confirms suspected Iranian drone strike on RAF base in Cyprus - the-independent.com
+- Trump campaign peace promises loom large over wartime presidency - Axios
+- Where Iran has retaliated across the Middle East, according to satellite images and videos - The Washington Post
+- As Trump Bombs Iran, America’s Allies Watch Fitfully From Sidelines - The New York Times
+- Starmer says he will give US permission to use UK bases for Iran missions - Politico
 - Timeline of how hostilities led to Trump's decision to attack Iran - USA Today
-- Berkshire Hathaway’s CEO Suggests These 4 Companies Are Forever Stocks—and 2 That Might Not Be - Barron's
+- How long do electric vehicle batteries actually last? - NPR
 - China's annual parliament meet to unveil roadmap for tech race with the West - Reuters
-- Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why. - The Motley Fool
+- How AI Could Wreck Your 401(k) - Forbes
 - Oil prices fallout: OPEC producers boost output after Iran strikes - Axios
+- Hands-on: Motorola Razr Fold’s software is halfway between Pixel and Samsung [Gallery] - 9to5Google
 - AMD will bring its "Ryzen AI" processors to standard desktop PCs for the first time - Ars Technica
-- The winners of the smartphone boom think they know what the next big tech gadget is - CNN
-- Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge
