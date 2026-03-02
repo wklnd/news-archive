@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-03 00:58_
+_Updated: 2026-03-03 01:58_
 
-- Live updates: Videos of Bill and Hillary Clinton's Epstein testimonies released - BBC
-- Trump pursues Iranian decapitation without a plan for what comes next - The Washington Post
+- Inside the plan to kill Ali Khamenei - Financial Times
+- Live Updates: U.S. death toll in Iran war rises to 6 as Trump says campaign could last 5 weeks - CBS News
+- Melania Trump presides over U.N. Security Council meeting as U.S. continues Iran strikes - CBS News
+- Capitol agenda: Trump’s Iran gamble hits the Hill - Politico
 - Supreme Court leans toward a marijuana user's challenge to gun restriction - NBC News
-- Iran conflict could worsen America's affordability crisis - Axios
 - France to boost nuclear arsenal and extend deterrence to European allies - BBC
-- India and Canada reset ties with 'landmark' nuclear energy deal - BBC
+- ‘The Hardest Hits Are Yet to Come’ for Iran, Rubio Says - WSJ
 - AP Decision Notes: What to expect in North Carolina’s state primaries - AP News
-- Melania Trump presiding over U.N. Security Council meeting to discuss education's role in "world peace" - CBS News
-- Trump awards the Medal of Honor to 3 US soldiers in a White House ceremony - AP News
-- Iran Live Updates: Trump Says Strikes to Continue for Four to Five Weeks - WSJ
-- UAE and Qatar Urge Allies to Help Trump Find Iran Off-Ramp - Bloomberg.com
-- Middle East crisis live: Israel launches new attacks on Tehran and Beirut as Iran closes critical Strait of Hormuz - The Guardian
-- We texted 1,000 Americans about U.S. strikes in Iran. Here’s what they said. - The Washington Post
-- Iran war prediction market bets draw heat: 'Insane this is legal' - CNBC
-- How long do electric vehicle batteries actually last? - NPR
+- Trump claims Iran missiles could have hit America ‘soon’ - Politico
+- Limited flights from UAE begin as governments seek to extract citizens from Middle East - AP News
+- European military installations are targeted in Iran retaliation - Defense News
+- Inside Iran's succession: who could replace Ali Khamenei? - ایران اینترنشنال
+- India and Canada reset ties with 'landmark' nuclear energy deal - BBC
 - Iran, Berkshire Hathaway earnings, OpenAI's Pentagon deal and more in Morning Squawk - CNBC
-- Iran attacks show US haven status is in peril - Financial Times
+- US stocks recover, gold rises and oil surges as war with Iran spreads - CNN
+- How long do electric vehicle batteries actually last? - NPR
+- The best mobile tech announced at MWC 2026 so far - The Verge
 - AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops - Ars Technica
 - Nothing just revealed Phone (4a)’s colors, but Phone (4a) Pro remains a mystery [Gallery] - 9to5Google
-- Motorola Razr Fold hands-on at MWC 2026: Bright screens, inside and out - Engadget
+- TCL's New Screen Blends Nxtpaper Tech With AMOLED, and It Looks Fantastic - PCMag
