@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 10:03_
+_Updated: 2026-03-02 11:08_
 
 ## Top Stories
 
-- Viktigaste nyheterna på tre minuter - Omni
-- Stridsflyg störtade nära USA-bas i Kuwait - GP
+- Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
+- Sofia är strandsatt i Dubai – önskar mer hjälp av UD - SVT Nyheter
+- Fiasko för Bryggerietplanen – domstol upphäver beslut - Sydsvenskan
 - Han kom in på läkarlinjen som 17-åring – nu sprids hans pluggtips på Tiktok - Sydsvenskan
 - Kommuner bryter avtal med fuskande hemtjänstföretag - Omni
 - Anställda larmar: Våld har blivit vardag på vårdjätten Weminds HVB-hem - ETC.se
-- DEBATT: Lodjuret fyller en viktig roll i det ekologiska systemet - Corren
 - Efter gängkrigen: Hundratals olösta dödsskjutningar - Dagens Nyheter
 - Så många bedöms få återvandringsbidrag - Västerbottens-Kuriren
-- Vi vill veta vad alla tycker om vår service och vårt bemötande - Vårt Luleå
-- Unga musiker tror på mänskligt skapande – trots AI: ”För jävligt” - Helagotland
-- Cypern bekräftar drönarattack mot brittisk bas - Västerbottens-Kuriren
+- Hälsocentralerna i Kalmar län får höga betyg - Region Kalmar Län
+- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Ingmar Nevéus: Två inte särskilt behagliga dofter av USA - Dagens Nyheter
 - Därför siktar Iran in sig på Gulfländerna – se attacken mot lyxhotellet i Dubai - SVT Nyheter
 - Iran: Ingen förhandling med USA - Expressen
-- Kaos i iranska fängelser – fångar får inte mat - Aftonbladet
 - Vad hände med Open AI? - SvD
-- Varningen: Självkörande bilar går att manipulera - Dagens PS
-- Göran Persson alltjämt sämst betalda banktoppen - Dagens PS
-- Claude planerade angreppet mot Iran - SvD
+- Mercedes nya kostar över 100 miljoner kronor - Dagens PS
+- Göran Persson halkar efter storbankernas toppar - EFN
+- Therése stoppades före tvåårsgränsen: ”Förbannad” - Dagens Arbete
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
+- Den ljusaste av alla stjärnor har synts tydligt på himlen i 10 000 år – men det kommer snart att förändras - Illustrerad Vetenskap
 - De 5 TV-apparater från CES 2026 som jag är mest sugen på att testa – inklusive OLED- och RGB-TV-apparater från LG och Samsung - TechRadar
 
 ## World News
 
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-03-02 10:03_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -106,6 +106,7 @@ _Updated: 2026-03-02 10:03_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa och teknik - Chalmers tekniska högskola
+- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
@@ -114,8 +115,7 @@ _Updated: 2026-03-02 10:03_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-02 10:03_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - De gick från reko till eko - ST-tidningen
