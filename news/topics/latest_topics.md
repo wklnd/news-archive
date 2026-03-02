@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-02 17:07_
+_Updated: 2026-03-02 18:01_
 
 ## Top Stories
 
-- Israel attackerar ”hjärtat” av Teheran - GP
-- Kristersson: Utesluter inte storkrig - Dagens Nyheter
-- Kristersson: Inga möjligheter att hjälpa – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Systrarnas rop på hjälp: ”Glöm oss inte” - Dagens Nyheter
-- Jubel i Kreml över höjt pris på olja – krigskassan göds | Fredrik Fahlman - SvD
 - Direkt – Krisen i Mellanöstern – UD:s konsulära enhet i krisorganisation - Dagens Nyheter
-- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
-- Banan kastad mot talmannen i Norrköping – livvakter ingrep - SVT Nyheter
-- Migrationsverket: Kan komma fler utvisningsbeslut mot bebisar - Dagens Nyheter
-- Risk för gräsbrand i södra Sverige - Expressen
+- Hegseth: Regimskifte inte målet - SVT Nyheter
 - Brittisk bas på Cypern evakueras efter flyglarm - GP
+- Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
+- Fågelinfluensa på avelsanläggning - Jordbruksaktuellt
+- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Storbråk på snabbmatsrestaurang i Åre - Expressen
+- Banan kastad mot talmannen i Norrköping – livvakter ingrep - SVT Nyheter
+- Tillämpningen av EU:s migrations- och asylpakt i Sverige - Delegationen för migrationsstudier - Delmi
+- Militant grupp tar på sig ansvar för flera drönarattacker - Yle
+- Hundratal dödade i anfall mot liten by - GP
+- Flera dödade i ryska anfall - Aftonbladet
 - Nathan Shachar: Tusentals israeler lever i underjordiska stationer - Dagens Nyheter
-- Moskvas kedja faller - DI
+- Nya fyndet: Mera guld i Norrland - Dagens PS
 - Vad hände med Open AI? - SvD
-- ”Skydd på 10 000 kronor genom hemförsäkringen” - Expressen
-- Elon Musk: "Utan elbilar och autonomi väntar dinosauriernas öde" - Allt om Elbil
-- Flyttade 40 mil – för att bli bonde i Oviken - Östersunds-Posten
+- Svenska Stenas fartyg träffat i Persiska viken - Expressen
+- Musks attack på bilindustrin: ”Dinosaurier” - Carup.se
 - Anker Innovations presenterar tekniknyheter på MWC 2026 med fokus på laddning, smarta hem och ljud. - Via TT
 - Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
-- Maxad spelmobil med tunna ramar och extrem prestanda - mobil.se
 
 ## World News
 
@@ -34,7 +34,6 @@ _Updated: 2026-03-02 17:07_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -46,6 +45,7 @@ _Updated: 2026-03-02 17:07_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- 48 städer krokar arm i global klimatomställning - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-03-02 17:07_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI-modeller försöker fuska i schack när de förlorar - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
