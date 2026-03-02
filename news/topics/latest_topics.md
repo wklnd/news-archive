@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 00:54_
+_Updated: 2026-03-03 01:50_
 
 ## Top Stories
 
-- Samir Abu Eid: Inga nyheter i Hegseths tal – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Misstänkt farligt föremål i stadshuset i Uppsala – var ofarligt - Aftonbladet
 - Michael Winiarski: Allians med en försvagad Putin ingen försäkring för diktatorer - Dagens Nyheter
-- Nya superfängelset ska ge ”sympatiskt intryck” - SvD
 - Sverige i samtal med Frankrike om kärnvapen – Senaste nytt om valet 2026 - SVT Nyheter
 - Fågelinfluensa på Värmdö – tre svanungar har dött - Mitt i
-- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
 - JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
+- Explosion vid port i Rågsved - SVT Nyheter
+- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
 - 02 mars 18.20, Trafikkontroll, Västerbottens län - Polisen.se
 - Patientundersökning: Kronoberg över riksgenomsnittet – Kalmar bäst i landet på tillgänglighet - SVT Nyheter
+- I dag testas signalen Viktigt meddelande till allmänheten - Länsstyrelsen
+- Qatar: Två iranska stridsflyg nedskjutna - GP
 - UD-chef: Därför evakuerar Sverige inte strandsatta - Dagens Nyheter
-- Qatar: Två iranska stridsflyg nedskjutna - Västerbottens-Kuriren
 - EU trevar efter gemensam linje: ”Inte läge att läxa upp allierade” - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Libanon: 52 döda i israeliska attacker - Dagens Nyheter
-- Streamingjättar slås ihop efter storaffären - SvD
-- Buffetts bolag tappar under ledning av ny vd - DI
+- Börsen idag: Öppning i moll väntas - Placera.se
+- Brand i Renströmsgruvan – personalen inrymdes - Norran
+- Klart dyrare elpris i ett svenskt område - Expressen
 - Köpläge i vinnaren på svenskt plånbokslyft – uppsida på nästan 14 procent - Privata Affärer
-- Vad hände med Open AI? - SvD
 - Asylprövning av asylsökande som åberopbar sexuell läggning och könsidentitet som asylskäl - Delegationen för migrationsstudier - Delmi
-- Nasa gör stora förändringar i sitt månprogram. Kommer nu som tidigast att landa på månen 2028. - feber.se
+- Maxad spelmobil med tunna ramar och extrem prestanda - mobil.se
 
 ## World News
 
@@ -34,7 +34,8 @@ _Updated: 2026-03-03 00:54_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -42,7 +43,6 @@ _Updated: 2026-03-03 00:54_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
@@ -55,7 +55,6 @@ _Updated: 2026-03-03 00:54_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-03-03 00:54_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-03-03 00:54_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
