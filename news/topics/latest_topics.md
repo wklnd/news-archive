@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 22:57_
+_Updated: 2026-03-03 23:56_
 
 ## Top Stories
 
-- Regeringen: Polisen bör få använda AI i realtid - Omni
+- Drönarattacker och bränder nära Iran - GP
+- Andra får hjälp hem från Qatar – Robert och hans spädbarn blir kvar - Aftonbladet
+- Direkt – Krisen i Mellanöstern – EU hjälper till med evakuering av strandsatta - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Uppgifter: Förenade Arabemiraten överväger attack mot Iran - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Revolutionsgardet skickar hotfulla sms till iranier - Dagens Nyheter
-- Trump om samtal: Nu är det för sent - GP
-- Direkt – Krisen i Mellanöstern – UD: Arbetar med full kraft för att frita Djalali - Dagens Nyheter
-- Analys: Kom igen nu Merz, visa lite stake i Vita huset - Omni
-- Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
+- Direkt – Krisen i Mellanöstern – Merz: Vi vill ha bort regimen - Dagens Nyheter
 - Enögd släkting bakom människans ögon - GP
-- Man misstänks ha stulit el i 20 år – krävs på 314 000 kronor - Dagens Nyheter
 - Kritik mot att L vill förbjuda fula skolor: ”Har hon helt tappat det?” - Dagens Nyheter
-- Ali välkomnar attacken mot sitt hemland: ”Folk dansar på gatorna” - Dalslänningen
-- Trump erbjuder militär eskort genom Hormuzsundet - Västerbottens-Kuriren
+- Fängelsedom för smygfilmning - SVT Nyheter
+- Okynnesåkning är inte konsekvenslöst - Land Lantbruk och Skogsbruk
+- Macron: Koalition ska säkra sjöfartsleder - GP
 - DN Direkt – Pappan till misstänkt skolskytt döms för dråp - Dagens Nyheter
 - Kvinnorna dominerar i Trumps regering: ”Blir farligare” - Dagens Nyheter
-- Svensk mitt i kriget: Israel är det bästa landet att bli strandsatt i - Världen idag
+- Clintons ilska under Epsteinförhöret: ”Klar med det här” - Dagens Nyheter
 - Studenterna chockas av deklarationen – flera förvirringar: ”Ska inte dö än” - NWT
-- Bonnesens advokat ifrågasätter intervju - SvD
-- Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
 - Daytradern i börspaniken: ”Är ett klassiskt köpläge” - EFN
-- Tullinge U18:s segerrad mot IFK Tumba IK 2 intakt - hockeysverige.se
+- Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
+- Experten: Lär fortsätta stiga i värde - Aftonbladet
 - Oneplus har en ny kompakt toppmodell på gång - Swedroid
+- Tullinge U18:s segerrad mot IFK Tumba IK 2 intakt - hockeysverige.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-03-03 22:57_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 
 ## Technology
 
@@ -106,6 +106,7 @@ _Updated: 2026-03-03 22:57_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -113,52 +114,51 @@ _Updated: 2026-03-03 22:57_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- E-hälsa inom EU - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
