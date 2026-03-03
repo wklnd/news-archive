@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-03 16:29_
+_Updated: 2026-03-03 17:31_
 
-- Live updates: War with Iran, Trump says it’s ‘too late’ for talks, as Israel strikes Tehran - CNN
-- Tuesday briefing: ‘An historic rupture’ as the Middle East crisis spreads - The Guardian
-- Lindsey Graham’s Attempt To Defend Trump Turns Into Social Media Punchline - HuffPost
-- Iranian Naval Forces are Major Target in Operation Epic Fury Strikes - USNI News
+- Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN
+- Kristi Noem set to face senators over DHS shutdown, immigration enforcement - NPR
+- Donald Trump Denounces Two of MAGA’s Biggest Stars in New Civil War - The Daily Beast
+- Threat from Iran conflict spreads across Middle East in 72 hours - The Washington Post
 - U.S. Capitol security "heightened" due to Iran conflict - Axios
+- Scoop: Trump calls Kurdish leaders in Iran war effort - Axios
+- The road to the midterms starts Tuesday. What to expect in key primary races in Texas, North Carolina and Arkansas - Yahoo
 - Trump says 'sad to see' US-UK relationship deteriorate over Iran strikes - Reuters
-- Savannah Guthrie returns to her mother’s home in first sighting there since disappearance - AP News
-- Iran is not Venezuela as much as Trump wants it to be - Politico
+- Crocodile found by boy lurking in a creek near family's home, 1,200 miles from its tropical habitat - CBS News
+- Iran strikes the US Embassy in Saudi Arabia as war expands yet again - AP News
 - An Emboldened Israel Is Seizing Opportunities to Remake Region - The New York Times
-- Qatar Says It Shot Down Two Iranian Bombers - The New York Times
-- Pakistan Strikes Bagram Air Base, Satellite Images Show - The New York Times
-- World reacts as U.S.-Israeli attacks on Iran sprawl into regional war - PBS
-- Target says it's on track to end its sales slump after another lackluster quarter - CNBC
 - Toyota's buyout deal is a bigger win for Elliott than for governance - Reuters
-- JPMorgan’s Jamie Dimon warns there’s too much complacency in markets - MarketWatch
+- JPMorgan’s Jamie Dimon warns of a ‘skunk’ that could derail markets - MarketWatch
 - Best Buy’s holiday sales disappoint, but retailer shows progress in growing profits - CNBC
-- Motorola partners with GrapheneOS for future phones - theregister.com
+- The candy heir vs. chocolate skimpflation : Planet Money - NPR
+- OnePlus 15T Confirmed to Launch with Periscope Camera - TelecomTalk
+- Big Google Home update lets Gemini describe live camera feeds - The Verge
 - Vivo's X300 Ultra goes global and gets a huge 400mm Zeiss telephoto lens - Engadget
-- These Men Want to Know Their ‘Sexual Market Value’ - The New York Times
-- Xbox Insiders: Try Highlight Reels on the ROG Xbox Ally X Starting Today! - Xbox Wire
+- Galaxy S26 vs. S26+ vs. S26 Ultra: Everything You Need to Know About Samsung's 2026 Flagship Phones - PCMag
+- Is ‘Sinners’ Winning Best Picture? Michael B. Jordan’s Victory at the Actor Awards Sets the Movie Up for Oscars Glory - Variety
