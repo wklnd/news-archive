@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-03 17:31_
+_Updated: 2026-03-03 18:27_
 
-- Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN
 - Kristi Noem set to face senators over DHS shutdown, immigration enforcement - NPR
 - Donald Trump Denounces Two of MAGA’s Biggest Stars in New Civil War - The Daily Beast
-- Threat from Iran conflict spreads across Middle East in 72 hours - The Washington Post
+- Jalisco cartel leader ‘El Mencho’ buried in a golden casket in a Guadalajara cemetery - AP News
+- Melania Trump Promotes ‘Peace Through Education’ at U.N. as War With Iran Expands - The New York Times
 - U.S. Capitol security "heightened" due to Iran conflict - Axios
-- Scoop: Trump calls Kurdish leaders in Iran war effort - Axios
-- The road to the midterms starts Tuesday. What to expect in key primary races in Texas, North Carolina and Arkansas - Yahoo
-- Trump says 'sad to see' US-UK relationship deteriorate over Iran strikes - Reuters
-- Crocodile found by boy lurking in a creek near family's home, 1,200 miles from its tropical habitat - CBS News
-- Iran strikes the US Embassy in Saudi Arabia as war expands yet again - AP News
+- Minnesota county attorney investigating Gregory Bovino and other federal officials over immigration crackdown - CNN
+- North Carolina primary could mean Roy Cooper vs Michael Whatley in pivotal fall Senate race - AP News
+- Live updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't "go unanswered" - CBS News
+- War with Iran strains the US-UK relationship as Starmer and Trump disagree - AP News
+- Iran May Have Miscalculated With Its Initial Response - Newser
 - An Emboldened Israel Is Seizing Opportunities to Remake Region - The New York Times
-- Toyota's buyout deal is a bigger win for Elliott than for governance - Reuters
+- Dow drops 1,200 points as oil surges, bond yields climb in response to deepening Iran conflict: Live updates - CNBC
+- Target’s new CEO unveils his turnaround plan - CNN
 - JPMorgan’s Jamie Dimon warns of a ‘skunk’ that could derail markets - MarketWatch
 - Best Buy’s holiday sales disappoint, but retailer shows progress in growing profits - CNBC
-- The candy heir vs. chocolate skimpflation : Planet Money - NPR
-- OnePlus 15T Confirmed to Launch with Periscope Camera - TelecomTalk
+- Apple unveils new Studio Display and all-new Studio Display XDR - Apple
+- Apple’s new products add C1X chip for three unique advantages - 9to5Mac
+- Call Of Duty Announces Black Ops Royale, A New Warzone Battle-Royale Mode Inspired By Blackout - Game Informer
 - Big Google Home update lets Gemini describe live camera feeds - The Verge
-- Vivo's X300 Ultra goes global and gets a huge 400mm Zeiss telephoto lens - Engadget
-- Galaxy S26 vs. S26+ vs. S26 Ultra: Everything You Need to Know About Samsung's 2026 Flagship Phones - PCMag
-- Is ‘Sinners’ Winning Best Picture? Michael B. Jordan’s Victory at the Actor Awards Sets the Movie Up for Oscars Glory - Variety
+- Zendaya and Tom Holland are married, stylist says: Their relationship through the years - Yahoo
