@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 15:38_
+_Updated: 2026-03-03 17:12_
 
 ## Top Stories
 
-- BB-chef pudlar: Personalen hade rätt om tvättlappar - Omni
-- Riksdagen ställer in Cypernresa - GP
-- Kan bli Trumps dyraste misstag - SvD
 - Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
-- Israel utökar närvaron i Libanon - Dagens Nyheter
-- Efter blockaden: Malmökrog i konkurs - Sydsvenskan
-- Dömda sexbrottslingar får hotbrev – krävs på pengar - Dagens Nyheter
-- Ettårig flicka dog i Skellefteå kommun – föräldrarna åtalas - SVT Nyheter
-- SMHI: I morgon blir det vår - Dagens Nyheter
-- En hittad död efter brand utanför Hoting - SVT Nyheter
+- Lögnanklagad barnmorska står fast: Jag blev våldtagen i kulverten - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – FN vill att attack mot iransk skola utreds - Dagens Nyheter
 - Fem döda i brand i Finland - GP
+- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
+- Skånsk byggföretagare döms till fängelse för människohandel - SVT Nyheter
+- JUST NU: Kvinna hittad död i bostad – man anhållen misstänkt för mord - NWT
+- En reform av Allmänna arvsfonden för stärkt legitimitet och struktur - Regeringen.se
+- Så blev Afnan (S), 21, symbol i migrationsdebatten: ”Försöker klara vardagen” - SVT Nyheter
+- Kritik mot att L vill förbjuda fula skolor: ”Har hon helt tappat det?” - Dagens Nyheter
+- UD om USA:s krisdrag: ”Signal om allvarligt läge” - Aftonbladet
 - Svenska Pamela fast i Dubai: ”Inte sovit på tre dygn” - Dagens Nyheter
 - KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
-- Iran-konflikten en varningsklocka för AI-branschen | Björn Jeffery - SvD
-- Miljardären hyllas som geni – aktien rusar efter oron i Iran - EFN
-- Experten: Lär fortsätta stiga i värde - Aftonbladet
-- Svenskar saknar kriskassa – majoriteten har mindre än 1 000 kronor hemma - sbab.se
-- Bose QuietComfort Ultra Earbuds (2 Gen) recension: Bose gör det igen med den bästa brusreduceringen i earbuds hittills - TechRadar
-- Rädd för mörkret? IKEA lanserar en nattlampa för 39 kronor - Teknikveckan
+- Iran: Ingen förhandling med USA - Aftonbladet
+- Incidenten som får AI-jättarna att darra - SvD
+- Birgitte Bonnesen har anlänt till Högsta domstolen - SvD
+- Slättö byggstartar 41 000 kvm för Stadium i Norrköping - Fastighetsvärlden
+- Finansministerns plan om kriget slår mot hushållsekonomin - Aftonbladet
+- Apple släpper två nya modeller av Studio Display - Macworld.se
+- Mixa och matcha på IKEA - Örebronyheter
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
@@ -38,15 +38,15 @@ _Updated: 2026-03-03 15:38_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- New Secretary General appointed - Olof Palme International Center
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -75,8 +75,8 @@ _Updated: 2026-03-03 15:38_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -107,7 +107,7 @@ _Updated: 2026-03-03 15:38_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -122,10 +122,11 @@ _Updated: 2026-03-03 15:38_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -134,11 +135,10 @@ _Updated: 2026-03-03 15:38_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-03 15:38_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Framtidens jordbruk är här - EU Digital Strategy
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Tält.jpg - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
