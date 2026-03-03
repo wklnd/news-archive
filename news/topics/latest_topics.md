@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 23:56_
+_Updated: 2026-03-04 00:53_
 
 ## Top Stories
 
-- Drönarattacker och bränder nära Iran - GP
-- Andra får hjälp hem från Qatar – Robert och hans spädbarn blir kvar - Aftonbladet
+- Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
 - Direkt – Krisen i Mellanöstern – EU hjälper till med evakuering av strandsatta - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Uppgifter: Förenade Arabemiraten överväger attack mot Iran - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Revolutionsgardet skickar hotfulla sms till iranier - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Merz: Vi vill ha bort regimen - Dagens Nyheter
-- Enögd släkting bakom människans ögon - GP
+- Direkt – Krisen i Mellanöstern – Storbritannien skickar fartyg och helikoptrar - Dagens Nyheter
+- Kriget i Iran stoppar hopptävlingar i Qatar - GP
+- Sprickan växer i ”det speciella förhållandet” - SvD
+- Årsmöteshandlingar inför årsmötet 2026 - GAIS
 - Kritik mot att L vill förbjuda fula skolor: ”Har hon helt tappat det?” - Dagens Nyheter
-- Fängelsedom för smygfilmning - SVT Nyheter
+- Kritik mot nedläggning av museer: ”Galenskap” - SVT Nyheter
+- Ali välkomnar attacken mot sitt hemland: ”Folk dansar på gatorna” - Dalslänningen
 - Okynnesåkning är inte konsekvenslöst - Land Lantbruk och Skogsbruk
-- Macron: Koalition ska säkra sjöfartsleder - GP
-- DN Direkt – Pappan till misstänkt skolskytt döms för dråp - Dagens Nyheter
 - Kvinnorna dominerar i Trumps regering: ”Blir farligare” - Dagens Nyheter
-- Clintons ilska under Epsteinförhöret: ”Klar med det här” - Dagens Nyheter
+- Jan-Owe och Mirijam fast på Maldiverna – medicinen tryter - Expressen
+- Trump: ”Vi ska stoppa all handel med Spanien” - Aftonbladet
+- Donald Trump hotar med hämnd efter attacken mot ambassaden i Saudiarabien - Expressen
 - Studenterna chockas av deklarationen – flera förvirringar: ”Ska inte dö än” - NWT
+- Ericsson-toppen: Så ska mobilnätet stoppa drönare - Dagens industri
+- Användarna dumpar Chat GPT efter avtalet med Trump - Dagens industri
 - Daytradern i börspaniken: ”Är ett klassiskt köpläge” - EFN
-- Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
-- Experten: Lär fortsätta stiga i värde - Aftonbladet
 - Oneplus har en ny kompakt toppmodell på gång - Swedroid
 - Tullinge U18:s segerrad mot IFK Tumba IK 2 intakt - hockeysverige.se
 
@@ -46,7 +46,7 @@ _Updated: 2026-03-03 23:56_
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -121,44 +121,44 @@ _Updated: 2026-03-03 23:56_
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Tält.jpg - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
