@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-03 01:58_
+_Updated: 2026-03-03 05:22_
 
-- Inside the plan to kill Ali Khamenei - Financial Times
-- Live Updates: U.S. death toll in Iran war rises to 6 as Trump says campaign could last 5 weeks - CBS News
-- Melania Trump presides over U.N. Security Council meeting as U.S. continues Iran strikes - CBS News
-- Capitol agenda: Trump’s Iran gamble hits the Hill - Politico
-- Supreme Court leans toward a marijuana user's challenge to gun restriction - NBC News
+- US urges citizens to immediately leave over a dozen Middle East countries - Al Jazeera
+- The hole in the sky: How Middle East airspace closures are reshaping global aviation - CNN
+- Supreme Court Sides With Religious Parents, Blocking California’s Trans Student Policy - The New York Times
+- DNC announces frontrunner cities and date for 2028 convention, will not hold midterm convention - CBS News
+- Iranian Kamikaze Drone Boat Makes First Successful Strike Of War - The War Zone
+- In Republican Win, Supreme Court Retains G.O.P. District in New York - The New York Times
+- Texas Tech Student Identified as One of the Victims in Austin Shooting - The New York Times
+- Greg Bovino, other federal agents investigated for Operation Metro Surge actions - Star Tribune
+- Trump Still Doesn’t Seem to Have a Strategy in Iran - Slate
+- Highlights of the Clintons’ videotaped Epstein depositions - The Washington Post
+- How the Bombing of Iran Is Affecting Lebanon, Kuwait and Other Countries - The New York Times
+- IDF strike kills Hezbollah intel chief; Lebanon to ban terror group’s military activity - The Times of Israel
 - France to boost nuclear arsenal and extend deterrence to European allies - BBC
-- ‘The Hardest Hits Are Yet to Come’ for Iran, Rubio Says - WSJ
-- AP Decision Notes: What to expect in North Carolina’s state primaries - AP News
-- Trump claims Iran missiles could have hit America ‘soon’ - Politico
-- Limited flights from UAE begin as governments seek to extract citizens from Middle East - AP News
-- European military installations are targeted in Iran retaliation - Defense News
-- Inside Iran's succession: who could replace Ali Khamenei? - ایران اینترنشنال
-- India and Canada reset ties with 'landmark' nuclear energy deal - BBC
-- Iran, Berkshire Hathaway earnings, OpenAI's Pentagon deal and more in Morning Squawk - CNBC
-- US stocks recover, gold rises and oil surges as war with Iran spreads - CNN
-- How long do electric vehicle batteries actually last? - NPR
-- The best mobile tech announced at MWC 2026 so far - The Verge
-- AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops - Ars Technica
-- Nothing just revealed Phone (4a)’s colors, but Phone (4a) Pro remains a mystery [Gallery] - 9to5Google
+- Qatar Says It Shot Down Two Iranian Bombers - The New York Times
+- AES to Be Taken Private in $33 Billion Deal. Why It’s the S&P 500’s Worst Stock Today. - Barron's
+- S&P 500 futures slide as traders monitor latest with U.S.-Iran conflict: Live updates - CNBC
+- Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing - Bloomberg
+- The Coolest Gadgets From MWC 2026 - Gizmodo
+- Early Galaxy S27 Ultra rumor says Samsung might finally upgrade its main 200MP sensor - 9to5Google
 - TCL's New Screen Blends Nxtpaper Tech With AMOLED, and It Looks Fantastic - PCMag
