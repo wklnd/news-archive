@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 09:25_
+_Updated: 2026-03-03 10:00_
 
 ## Top Stories
 
+- IDF: Attacker utförs mot Teheran och Beirut – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Brittisk bas på Cypern evakueras efter Iranattacker - GP
+- DN Direkt – Live Nation anklagas för monopol - Dagens Nyheter
+- Stort utslag på Trumps hals: ”Förebyggande behandling” - Omni
 - I påsk kan du äta sillen och ha den kvar - GP
 - Här är Göteborgs bästa vårdcentral – se hela listan - GP
-- Brittisk bas på Cypern evakueras efter Iranattacker - GP
-- Akademiker arbetslösa – företag vill ha yrkesfolk - SvD
-- Zlatans lyxbygge går inte att sälja - Expressen
-- Bra ingångsläge efter raset – köp aktien med uppsida på över 40 procent - Privata Affärer
-- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
 - Masskrock på väg 40 – halt i morgontrafiken i Västsverige - SVT Nyheter
-- Halt på E6 – flertal olyckor på samma plats - SVT Nyheter
-- Sverige i samtal med Frankrike om kärnvapen – Senaste nytt om valet 2026 - SVT Nyheter
-- Bitcoin rusar – utflöden från Iran sjudubblades: ”Potentiell kapitalflykt” - EFN
+- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
+- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
+- JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
+- KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
+- Kriget kan bli fredsskapande - SvD
+- Rökutveckling på Finlandskryssning - Expressen
+- Korn: Iranierna firar och Mediesverige sörjer - Bulletin
+- Akademiker arbetslösa – företag vill ha yrkesfolk - SvD
 - Siljansvik: Krafttillgångar till kraftig rabatt - Affärsvärlden
-- Brand i Renströmsgruvan – personalen inrymdes - Norran
+- Bitcoin rusar – utflöden från Iran sjudubblades: ”Potentiell kapitalflykt” - EFN
 - Streamingjättar slås ihop efter storaffären - SvD
 - Identitetsangrepp vanligaste cyberhotet – avvikande inloggningar toppar säkerhetslarmen - Mynewsdesk
 - Ja till konstgjord lagun - Skärgården
-- Från vattenvärld till fnösktorr planet – Mars geologiska historia kartlagd - Cision News
-- Logitech Pro X Superlight 2c - recension - TechRadar
-- Kalle Lind: Så blev ”Fäbodjäntan” en svensk klassiker - Dagens Nyheter
-- Livepodd med Det politiska spelet i Luleå, Karlskrona, Falun och Visby - Sveriges Radio
 
 ## World News
 
@@ -99,23 +99,23 @@ _Updated: 2026-03-03 09:25_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- E-hälsa inom EU - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-03-03 09:25_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
-- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- De gick från reko till eko - ST-tidningen
