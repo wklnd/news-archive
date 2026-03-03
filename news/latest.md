@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-04 00:58_
+_Updated: 2026-03-04 01:57_
 
-- President Trump shares a new reason why the U.S. attacked Iran - NPR
-- Live updates: Voter confusion snarls Texas primary as midterms begin - AP News
+- Apalachee High School Shooting: Colin Gray Found Guilty of Murder - The New York Times - The New York Times
 - Tillis threatens to hijack Senate business amid frustrations with Noem - Politico
-- US offering military support, insurance for Middle East oil and gas shipments - Politico
 - Struggling Democrats need to drop out of California’s crowded governor race or risk a GOP win, party leader warns - Los Angeles Times
 - Rubio's war remarks blow open MAGA's Israel divide - Axios
-- DHS Investigates Gregory Bovino’s Remarks About Prosecutor’s Jewish Faith - The New York Times
-- Minnesota Sues Federal Government Over Withheld Medicaid Funds - The New York Times
-- As Trump Bashes Spain, the German Chancellor Piles On - The New York Times
+- Minab school bombing: how the worst mass casualty event of the Iran war unfolded – a visual guide - The Guardian
+- Epstein files: Howard Lutnick volunteers to testify to House Oversight committee - CNBC
+- Minnesota launches investigation that could bring charges against US immigration officers - The Guardian
 - State Department employee fatally shot by trooper after stabbings on I-495 - WTOP
-- Live updates: Amid Iran strikes, three U.S. embassies close in Middle East; airspace closes in six countries - The Washington Post
-- China calls for vessels in strait of Hormuz to be protected amid soaring shipping costs - The Guardian
-- IDF sends troops further into south Lebanon and strikes Beirut amid Hezbollah attacks - The Times of Israel
+- Operation Epic Fury: Unmatched Power, Unrelenting Force of America’s Warriors - The White House (.gov)
+- Congestion Pricing Wins in Court After Lengthy Battle With Trump - The New York Times - The New York Times
+- Live updates: As Iran war expands, U.S. Consulate in Dubai hit by suspected drone strike; 3 embassies close - The Washington Post
+- Israel sends troops into southern Lebanon as Hezbollah says it is ready for ‘open war’ - AP News
 - Poland Will Eventually Seek Its Own Nuclear Weapons, Tusk Says - Bloomberg.com
+- Trump's Iran attack rattles Russian hardliners who call for Putin to double down on war in Ukraine - Reuters
+- Dow closes down 400 points after falling as much as 1,200 points as Iran conflict volatility continues: Live updates - CNBC
 - What another sales decline for Target says about consumers - Star Tribune
-- How Anonymous Bettors Cashed In on the Iran Strike, Just Hours Before It Happened - The New York Times - The New York Times
-- What was really behind Block’s Jack Dorsey laying off nearly half his company’s staff? - The Guardian
 - Justice Department lawyer says concert ticket industry is broken because of Ticketmaster - AP News
-- Everything Apple announced this week: iPhone 17e, new MacBooks, M4 iPad Air and more - Engadget
-- Amid new competition, Chrome speeds up its release schedule - TechCrunch
+- Gas Prices Top $3.10 Days Into Iran Conflict—Here’s The Latest - Forbes
+- Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More - Xbox Wire
+- Warframe's long-awaited Switch 2 upgrade finally has a release date, and there's a Dead by Daylight-style mode coming too - Eurogamer
