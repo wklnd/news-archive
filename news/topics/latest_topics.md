@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 17:12_
+_Updated: 2026-03-03 18:07_
 
 ## Top Stories
 
 - Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
-- Lögnanklagad barnmorska står fast: Jag blev våldtagen i kulverten - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Dödstalet stiger i Iran - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – FN vill att attack mot iransk skola utreds - Dagens Nyheter
-- Fem döda i brand i Finland - GP
-- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
-- Skånsk byggföretagare döms till fängelse för människohandel - SVT Nyheter
-- JUST NU: Kvinna hittad död i bostad – man anhållen misstänkt för mord - NWT
+- Flicka hölls fast av man med bil - Expressen
+- Utrikesministern om strandsatta svenskar: Byggts upp jättetryck – Senaste nytt om valet 2026 - SVT Nyheter
+- DIREKT: Granne misstänks för mordbranden - Hufvudstadsbladet
 - En reform av Allmänna arvsfonden för stärkt legitimitet och struktur - Regeringen.se
-- Så blev Afnan (S), 21, symbol i migrationsdebatten: ”Försöker klara vardagen” - SVT Nyheter
 - Kritik mot att L vill förbjuda fula skolor: ”Har hon helt tappat det?” - Dagens Nyheter
-- UD om USA:s krisdrag: ”Signal om allvarligt läge” - Aftonbladet
-- Svenska Pamela fast i Dubai: ”Inte sovit på tre dygn” - Dagens Nyheter
+- Så blev Afnan (S), 21, symbol i migrationsdebatten: ”Försöker klara vardagen” - SVT Nyheter
+- Thedéen: Utdraget krig kan skapa inflation - GP
 - KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Iran: Ingen förhandling med USA - Aftonbladet
+- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
+- Donald Trump hotar med hämnd efter attacken mot ambassaden i Saudiarabien - Expressen
+- Svensk mitt i kriget: Israel är det bästa landet att bli strandsatt i - Världen idag
+- Studenterna chockas av deklarationen – flera förvirringar: ”Ska inte dö än” - NWT
 - Incidenten som får AI-jättarna att darra - SvD
-- Birgitte Bonnesen har anlänt till Högsta domstolen - SvD
-- Slättö byggstartar 41 000 kvm för Stadium i Norrköping - Fastighetsvärlden
-- Finansministerns plan om kriget slår mot hushållsekonomin - Aftonbladet
-- Apple släpper två nya modeller av Studio Display - Macworld.se
+- Dags för fritidshus? Här är det billigast i Sverige - Expressen
+- Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
 - Mixa och matcha på IKEA - Örebronyheter
+- Apple släpper två nya modeller av Studio Display - Macworld.se
 
 ## World News
 
@@ -35,8 +35,8 @@ _Updated: 2026-03-03 17:12_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -44,7 +44,7 @@ _Updated: 2026-03-03 17:12_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -55,7 +55,6 @@ _Updated: 2026-03-03 17:12_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +69,7 @@ _Updated: 2026-03-03 17:12_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -107,7 +107,7 @@ _Updated: 2026-03-03 17:12_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -149,16 +149,16 @@ _Updated: 2026-03-03 17:12_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Tält.jpg - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
