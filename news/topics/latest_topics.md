@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 18:07_
+_Updated: 2026-03-03 19:12_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Storbritannien skickar ”sannolikt” militärfartyg till Cypern - Dagens Nyheter
 - Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Dödstalet stiger i Iran - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – FN vill att attack mot iransk skola utreds - Dagens Nyheter
-- Flicka hölls fast av man med bil - Expressen
-- Utrikesministern om strandsatta svenskar: Byggts upp jättetryck – Senaste nytt om valet 2026 - SVT Nyheter
-- DIREKT: Granne misstänks för mordbranden - Hufvudstadsbladet
+- Lögnanklagad barnmorska står fast: Jag blev våldtagen i kulverten - Sydsvenskan
+- Journalister i Iran arbetar under bombanfall och repression - Reportrar utan gränser
+- Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
 - En reform av Allmänna arvsfonden för stärkt legitimitet och struktur - Regeringen.se
+- Lurades och fick äta hundmat – unik dom - Dagens Nyheter
 - Kritik mot att L vill förbjuda fula skolor: ”Har hon helt tappat det?” - Dagens Nyheter
-- Så blev Afnan (S), 21, symbol i migrationsdebatten: ”Försöker klara vardagen” - SVT Nyheter
 - Thedéen: Utdraget krig kan skapa inflation - GP
-- KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
+- ”Franska kärnvapen kan hamna i Sverige” - GP
+- Fem döda i brand i Finland - GP
+- Ruta gick sönder – helikopter tvingades landa i Nödinge - Expressen
 - Donald Trump hotar med hämnd efter attacken mot ambassaden i Saudiarabien - Expressen
-- Svensk mitt i kriget: Israel är det bästa landet att bli strandsatt i - Världen idag
 - Studenterna chockas av deklarationen – flera förvirringar: ”Ska inte dö än” - NWT
-- Incidenten som får AI-jättarna att darra - SvD
-- Dags för fritidshus? Här är det billigast i Sverige - Expressen
+- Birgitte Bonnesen har anlänt till Högsta domstolen - SvD
 - Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
-- Mixa och matcha på IKEA - Örebronyheter
+- Dags för fritidshus? Här är det billigast i Sverige - Expressen
 - Apple släpper två nya modeller av Studio Display - Macworld.se
+- Oneplus har en ny kompakt toppmodell på gång - Swedroid
+- Mixa och matcha på IKEA - Örebronyheter
 
 ## World News
 
@@ -55,7 +55,9 @@ _Updated: 2026-03-03 18:07_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,9 +69,7 @@ _Updated: 2026-03-03 18:07_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -122,43 +122,43 @@ _Updated: 2026-03-03 18:07_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- PRM v 154.jpg - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
