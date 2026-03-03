@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 11:07_
+_Updated: 2026-03-03 12:06_
 
 ## Top Stories
 
-- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
-- USA: Lämna Mellanöstern nu - Dagens Nyheter
+- Därför tycker personal och ledning så olika om BB-krisen i Malmö - Sydsvenskan
+- Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
 - Malmöbon Victor, 24, vill byta ett gem mot ett hus - Sydsvenskan
+- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
+- Ettårig flicka dog i Skellefteå kommun – föräldrarna åtalas - SVT Nyheter
+- Thedéen: Stora geopolitiska spänningar - SvD
+- Dömda sexbrottslingar får hotbrev – krävs på pengar - Dagens Nyheter
+- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
 - Utsläppen från vägtrafiken minskar igen - Trafikverket
 - Här är Göteborgs bästa vårdcentral – se hela listan - GP
-- KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
-- Buss ersätter all tågtrafik Göteborg-Stenungsund - Trafiken.nu
-- Halt på E6 – flertal olyckor på samma plats - SVT Nyheter
-- JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
 - Irans hot: Ska fortsätta attackera Cypern - Expressen
+- KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
 - Kriget kan bli fredsskapande - SvD
 - Korn: Iranierna firar och Mediesverige sörjer - Bulletin
-- Qatar: Två iranska stridsflyg nedskjutna - Aftonbladet
 - Akademiker arbetslösa – företag vill ha yrkesfolk - SvD
-- Rekordmånaderna för elbilar i Sverige fortsätter – Volvo toppar februari - Allt om Elbil
 - Siljansvik: Krafttillgångar till kraftig rabatt - Affärsvärlden
-- Bitcoin rusar – utflöden från Iran sjudubblades: ”Potentiell kapitalflykt” - EFN
-- Mixa och matcha på IKEA - Örebronyheter
-- Ja till konstgjord lagun - Skärgården
+- Zlatans lyxbygge går inte att sälja - Expressen
+- Boprisindikatorn stiger – högsta nivån på ett år - Placera.se
+- 10 000 européer har förbeställt en europeisk smartphone som inte skickar data till Apple eller Google - Ljud & Bild
+- Sonos kan vara på väg att släppa Sonos Era 100 SL - Teknikveckan
 
 ## World News
 
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -84,8 +84,8 @@ _Updated: 2026-03-03 11:07_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
@@ -99,23 +99,23 @@ _Updated: 2026-03-03 11:07_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- E-hälsa inom EU - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
+- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -129,15 +129,15 @@ _Updated: 2026-03-03 11:07_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
