@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 12:06_
+_Updated: 2026-03-03 13:06_
 
 ## Top Stories
 
-- Därför tycker personal och ledning så olika om BB-krisen i Malmö - Sydsvenskan
+- Efter debatten om strävt papper – Malin födde i Malmö: ”Mer sparsamma” - Omni
 - Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
+- Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Så blev Afnan (S), 21, symbol i migrationsdebatten: ”Försöker klara vardagen” - SVT Nyheter
+- ”Bonusprinsen” erkänner nya brott - Aftonbladet
 - Malmöbon Victor, 24, vill byta ett gem mot ett hus - Sydsvenskan
-- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
 - Ettårig flicka dog i Skellefteå kommun – föräldrarna åtalas - SVT Nyheter
-- Thedéen: Stora geopolitiska spänningar - SvD
 - Dömda sexbrottslingar får hotbrev – krävs på pengar - Dagens Nyheter
-- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
-- Utsläppen från vägtrafiken minskar igen - Trafikverket
-- Här är Göteborgs bästa vårdcentral – se hela listan - GP
+- Halt i Västsverige – sex bilar i krock - GP
+- Okynnesåkning är inte konsekvenslöst - Land Lantbruk och Skogsbruk
+- Donald Trump hotar med hämnd efter attacken mot ambassaden i Saudiarabien - Expressen
 - Irans hot: Ska fortsätta attackera Cypern - Expressen
-- KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Kriget kan bli fredsskapande - SvD
-- Korn: Iranierna firar och Mediesverige sörjer - Bulletin
-- Akademiker arbetslösa – företag vill ha yrkesfolk - SvD
-- Siljansvik: Krafttillgångar till kraftig rabatt - Affärsvärlden
-- Zlatans lyxbygge går inte att sälja - Expressen
-- Boprisindikatorn stiger – högsta nivån på ett år - Placera.se
+- Vill förbjuda fula skolor - Expressen
+- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
+- Svenskar saknar kriskassa – majoriteten har mindre än 1 000 kronor hemma - sbab.se
 - 10 000 européer har förbeställt en europeisk smartphone som inte skickar data till Apple eller Google - Ljud & Bild
 - Sonos kan vara på väg att släppa Sonos Era 100 SL - Teknikveckan
+- Körkortslös förare körde full – straffas med böter - Mariestads-Tidningen
+- Mixa och matcha på IKEA - Örebronyheter
+- Befriande utställning om brott och straff på Kalmar konstmuseum - Dagens Nyheter
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2026-03-03 12:06_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -67,9 +67,9 @@ _Updated: 2026-03-03 12:06_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -96,9 +96,9 @@ _Updated: 2026-03-03 12:06_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
+- Vi presenterar HealthBench - OpenAI
 - E-hälsa inom EU - Läkartidningen
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -108,14 +108,14 @@ _Updated: 2026-03-03 12:06_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-03-03 12:06_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2026-03-03 12:06_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- Tält.jpg - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
