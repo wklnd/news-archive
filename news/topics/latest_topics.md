@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 10:00_
+_Updated: 2026-03-03 11:07_
 
 ## Top Stories
 
-- IDF: Attacker utförs mot Teheran och Beirut – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Brittisk bas på Cypern evakueras efter Iranattacker - GP
-- DN Direkt – Live Nation anklagas för monopol - Dagens Nyheter
-- Stort utslag på Trumps hals: ”Förebyggande behandling” - Omni
-- I påsk kan du äta sillen och ha den kvar - GP
+- Tio bilar i krock – halt på vägar i Västsverige - Aftonbladet
+- USA: Lämna Mellanöstern nu - Dagens Nyheter
+- Malmöbon Victor, 24, vill byta ett gem mot ett hus - Sydsvenskan
+- Utsläppen från vägtrafiken minskar igen - Trafikverket
 - Här är Göteborgs bästa vårdcentral – se hela listan - GP
-- Masskrock på väg 40 – halt i morgontrafiken i Västsverige - SVT Nyheter
-- DN Direkt – Explosion vid port i södra Stockholm - Dagens Nyheter
-- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
-- JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
 - KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
+- Äggfrysning och IVF – så ska KD locka storstadskvinnorna - Dagens Nyheter
+- Buss ersätter all tågtrafik Göteborg-Stenungsund - Trafiken.nu
+- Halt på E6 – flertal olyckor på samma plats - SVT Nyheter
+- JUST NU: Lodjursjakten stoppad i Västerbotten - Norran
+- Irans hot: Ska fortsätta attackera Cypern - Expressen
 - Kriget kan bli fredsskapande - SvD
-- Rökutveckling på Finlandskryssning - Expressen
 - Korn: Iranierna firar och Mediesverige sörjer - Bulletin
+- Qatar: Två iranska stridsflyg nedskjutna - Aftonbladet
 - Akademiker arbetslösa – företag vill ha yrkesfolk - SvD
+- Rekordmånaderna för elbilar i Sverige fortsätter – Volvo toppar februari - Allt om Elbil
 - Siljansvik: Krafttillgångar till kraftig rabatt - Affärsvärlden
 - Bitcoin rusar – utflöden från Iran sjudubblades: ”Potentiell kapitalflykt” - EFN
-- Streamingjättar slås ihop efter storaffären - SvD
-- Identitetsangrepp vanligaste cyberhotet – avvikande inloggningar toppar säkerhetslarmen - Mynewsdesk
+- Mixa och matcha på IKEA - Örebronyheter
 - Ja till konstgjord lagun - Skärgården
 
 ## World News
@@ -83,16 +83,16 @@ _Updated: 2026-03-03 10:00_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2026-03-03 10:00_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- De gick från reko till eko - ST-tidningen
