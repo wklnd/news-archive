@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-03 18:27_
+_Updated: 2026-03-03 19:28_
 
-- Kristi Noem set to face senators over DHS shutdown, immigration enforcement - NPR
-- Donald Trump Denounces Two of MAGA’s Biggest Stars in New Civil War - The Daily Beast
+- Threat from Iran conflict spreads across Middle East in 72 hours - The Washington Post
+- How Trump assassination attempts played into his decision to attack Iran - The Washington Post
+- Israel bombs council choosing Iran's next supreme leader, official says - Axios
 - Jalisco cartel leader ‘El Mencho’ buried in a golden casket in a Guadalajara cemetery - AP News
 - Melania Trump Promotes ‘Peace Through Education’ at U.N. as War With Iran Expands - The New York Times
 - U.S. Capitol security "heightened" due to Iran conflict - Axios
+- Noem to Appear Before Congress for First Time Since Minnesota Immigration Surge - The New York Times
+- A Christmas rifle, possible warning signs and 41 seconds of gunfire: Jurors weigh Colin Gray's fate - AP News
 - Minnesota county attorney investigating Gregory Bovino and other federal officials over immigration crackdown - CNN
-- North Carolina primary could mean Roy Cooper vs Michael Whatley in pivotal fall Senate race - AP News
-- Live updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't "go unanswered" - CBS News
+- Netanyahu takes a gamble on American support for Israel with the war against Iran - AP News
 - War with Iran strains the US-UK relationship as Starmer and Trump disagree - AP News
-- Iran May Have Miscalculated With Its Initial Response - Newser
 - An Emboldened Israel Is Seizing Opportunities to Remake Region - The New York Times
-- Dow drops 1,200 points as oil surges, bond yields climb in response to deepening Iran conflict: Live updates - CNBC
-- Target’s new CEO unveils his turnaround plan - CNN
-- JPMorgan’s Jamie Dimon warns of a ‘skunk’ that could derail markets - MarketWatch
-- Best Buy’s holiday sales disappoint, but retailer shows progress in growing profits - CNBC
-- Apple unveils new Studio Display and all-new Studio Display XDR - Apple
-- Apple’s new products add C1X chip for three unique advantages - 9to5Mac
-- Call Of Duty Announces Black Ops Royale, A New Warzone Battle-Royale Mode Inspired By Blackout - Game Informer
-- Big Google Home update lets Gemini describe live camera feeds - The Verge
-- Zendaya and Tom Holland are married, stylist says: Their relationship through the years - Yahoo
+- What to know about the Strait of Hormuz, a key passageway essential for global energy supply - AP News
+- Dow drops 700 points as oil surges, bond yields climb in response to deepening Iran conflict: Live updates - CNBC
+- Toyota's buyout deal is a bigger win for Elliott than for governance - Reuters
+- Blackstone’s Flagship Private Credit Fund Hit by Record Redemptions - Bloomberg.com
+- The Galaxy S26 series doesn't feature 10-bit displays - SamMobile
+- Activision Unveils Black Ops Royale, a “Blackout-Inspired” Mode for Call of Duty: Warzone Coming Next Week - Wccftech
+- Samsung’s Digital Home Key will work with UWB and NFC smart locks - 9to5Google
+- Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More - Xbox Wire
