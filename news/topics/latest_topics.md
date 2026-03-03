@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-03 13:54_
+_Updated: 2026-03-03 15:38_
 
 ## Top Stories
 
 - BB-chef pudlar: Personalen hade rätt om tvättlappar - Omni
+- Riksdagen ställer in Cypernresa - GP
+- Kan bli Trumps dyraste misstag - SvD
 - Källor: Så gick attentatet mot Khamenei till - Dagens Nyheter
-- Man stångad av tjur – förd till sjukhus - Expressen
-- ”Bonusprinsen” erkänner nya brott - Aftonbladet
-- Malmöbon Victor, 24, vill byta ett gem mot ett hus - Sydsvenskan
-- Ettårig flicka dog i Skellefteå kommun – föräldrarna åtalas - SVT Nyheter
+- Israel utökar närvaron i Libanon - Dagens Nyheter
+- Efter blockaden: Malmökrog i konkurs - Sydsvenskan
 - Dömda sexbrottslingar får hotbrev – krävs på pengar - Dagens Nyheter
+- Ettårig flicka dog i Skellefteå kommun – föräldrarna åtalas - SVT Nyheter
 - SMHI: I morgon blir det vår - Dagens Nyheter
-- En hittad död efter brand i utanför Hoting - SVT Nyheter
-- Halt i Västsverige – sex bilar i krock - GP
-- Irans hot: Ska fortsätta attackera Cypern - Expressen
-- Donald Trump hotar med hämnd efter attacken mot ambassaden i Saudiarabien - Expressen
-- Vill förbjuda fula skolor - Expressen
+- En hittad död efter brand utanför Hoting - SVT Nyheter
+- Fem döda i brand i Finland - GP
+- Svenska Pamela fast i Dubai: ”Inte sovit på tre dygn” - Dagens Nyheter
 - KD: Kapa alla diplomatiska förbindelser med Iran - Expressen
-- Akademiker arbetslösa – företag vill ha yrkesfolk - Corren
+- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
+- Iran-konflikten en varningsklocka för AI-branschen | Björn Jeffery - SvD
+- Miljardären hyllas som geni – aktien rusar efter oron i Iran - EFN
+- Experten: Lär fortsätta stiga i värde - Aftonbladet
 - Svenskar saknar kriskassa – majoriteten har mindre än 1 000 kronor hemma - sbab.se
-- 5 produkter som höjer njutningen på resan - perfekta att packa i handbagaget - Metro Mode
-- IKEA lanserar TOFSMYGGA – smart utomhusuttag med Matter-stöd - Teknikveckan
-- 10 000 européer har förbeställt en europeisk smartphone som inte skickar data till Apple eller Google - Ljud & Bild
-- Körkortslös förare körde full – straffas med böter - Mariestads-Tidningen
+- Bose QuietComfort Ultra Earbuds (2 Gen) recension: Bose gör det igen med den bästa brusreduceringen i earbuds hittills - TechRadar
+- Rädd för mörkret? IKEA lanserar en nattlampa för 39 kronor - Teknikveckan
 
 ## World News
 
@@ -36,8 +36,8 @@ _Updated: 2026-03-03 13:54_
 - Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
@@ -55,8 +55,8 @@ _Updated: 2026-03-03 13:54_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -74,12 +74,12 @@ _Updated: 2026-03-03 13:54_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finance Panel: IMF on economic and financial policies in Sweden - SNS.se
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -91,31 +91,31 @@ _Updated: 2026-03-03 13:54_
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- E-hälsa inom EU - Läkartidningen
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Vi presenterar HealthBench - OpenAI
-- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Kulturens roll för hälsa – erfarenheter från ett nordiskt och ryskt samarbete - Akademiliv
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-03 13:54_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
