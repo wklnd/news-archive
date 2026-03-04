@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 09:58_
+_Updated: 2026-03-04 11:04_
 
 ## Top Stories
 
-- Avskedsceremoni för Khamenei i kväll – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Avspärrningar runt misstänkt föremål på Jägersro - Sydsvenskan
-- DN Direkt – Bilbrand leder till köer mot Arlanda - Dagens Nyheter
-- Frontalkrock – ambulanshelikopter på plats utanför Degerfors - Expressen
-- Explosion i Beirut – fortsatta attacker - Västerbottens-Kuriren
-- Fler misstänkta brott mot samhällsviktig verksamhet - Västerbottens-Kuriren
-- Bilbrand skapar köer mot Arlanda - SVT Nyheter
+- Frontalkrock – två till sjukhus utanför Degerfors - Expressen
+- Direkt – Krisen i Mellanöstern – Flygbas i Qatar träffad av robot - Dagens Nyheter
+- Kommunalrådet i Åsele avgår – efter avslöjande om husköp - SVT Nyheter
+- Kraftig explosion i bostadsområde i södra Stockholm - Aftonbladet
+- Direkt – Krisen i Mellanöstern – EU hjälper till med evakuering av strandsatta - Dagens Nyheter
+- DEBATT: Oron över anhöriga i Iran river i mig – men hoppet om frihet bultar lika starkt - GP
 - Ulf Kristersson om regeringsfrågan: SD är mer erfaret nu - Dagens Nyheter
+- Bilbrand skapade köer mot Arlanda – körfälten öppna igen - SVT Nyheter
+- Döda svanar hade fågelinfluensa – SVA varnar: ”Mata inte” - Dagens Nyheter
 - Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
-- Förtroendet för sjukhusen ökar men minskar för vården som helhet - NewsMachine AB
-- Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
 - Norge skickar UD-personal till Mellanöstern - Dagens Nyheter
-- Uppgifter: Storbritannien skickar krigsfartyg till Cypern - Expressen
-- Europa sluter upp bakom Trump - SvD
+- Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
+- SVT-journalistens panik när luftrummet stängdes – fastnade - Expressen
+- Pappan döms för sin sons skolmassaker - Expressen
 - Många får mindre tillbaka på skatten: ”Kan bli en kalldusch” - Dagens Nyheter
-- Experten: Lär fortsätta stiga i värde - Aftonbladet
+- Mon Amie-burken skapar hysteri – kunder gråter och hotar - Aftonbladet
 - Nya soptunnor på väg – så funkar sorteringen hemma - Smålands Dagblad
 - Svenska Stenas fartyg träffat av drönare - Omni
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Highguard stänger för gott - FZ.se
+- Nya Androidfunktioner i mars som släpps för alla - Swedroid
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-03-04 09:58_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2026-03-04 09:58_
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -102,16 +102,16 @@ _Updated: 2026-03-04 09:58_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -148,17 +148,17 @@ _Updated: 2026-03-04 09:58_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - PRM v 154.jpg - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Patrik Niklasson ny Doggy - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
