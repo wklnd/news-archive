@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 23:57_
+_Updated: 2026-03-05 00:57_
 
 ## Top Stories
 
+- Vita Huset: Spanien kommer samarbeta med USA:s militär – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Sammis benbrott kostade 65000 - myndighetens kritik mot höga priserna - GP
-- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
-- Larm om lavin i Åre - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
-- Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
+- Tjörnbron avstängd – efter bombhot - GP
+- Macrons mål: Säkra sitt inflytande - SvD
+- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
-- Gul varning för vind och snöfall på kalfjället - Jokkmokks kommun
+- Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
+- Jämställdhetsexperten lyfter mäns psykiska mående: ”Jag skulle aldrig vilja vara man” - HD – Nyheter Dygnet Runt
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- Resultat av polisens arbete i trafiken. - Brottsplatskartan.se
-- Massflykt från södra Libanon i Israelattacker - GP
+- Spanien förnekar militärt samarbete med USA - GP
 - Macrons strategi – första steg mot EU-bomber? - GP
+- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
 - Turkiet: Robot från Iran stoppad - Aftonbladet
-- Vakterna låste och gick - Expressen
-- Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
-- Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Nya bolåneregler i april: ”Kommer underlätta” - Omni
 - Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
+- Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
+- När kriget kommer räcker inte AI-råden - SvD
+- Börsnoteringen av Arenit är en nit - Affärsvärlden
 - Apple släpper billig datormodell kallad Macbook Neo - Expressen
-- Är du pollenallergisk? Dagens hälsofråga. - feber.se
+- Här kan du få 6000 kronor om du köper en elmoppe. Barcelona vill ha mer tvåhjuligt och eldrivet. - feber.se
 
 ## World News
 
@@ -123,7 +123,6 @@ _Updated: 2026-03-04 23:57_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -131,7 +130,7 @@ _Updated: 2026-03-04 23:57_
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -139,6 +138,7 @@ _Updated: 2026-03-04 23:57_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
