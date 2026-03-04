@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 17:05_
+_Updated: 2026-03-04 18:04_
 
 ## Top Stories
 
 - Utter påkörd av bilist - Magazin24
-- Fransmän och britter flygs hem – så agerar andra länder - Dagens Nyheter
 - DN Direkt – M-politiker föll ihop i riksdagen - Dagens Nyheter
-- Man gripen i Polen misstänkt för grova narkotikabrott - polisen.se
-- Vårdcentraler i Göteborg stoppas – avtalen hävs - GP
-- Hegseth: Torped från amerikansk ubåt sänkte iranskt krigsfartyg - Yle
+- Fransmän och britter flygs hem – så agerar andra länder - Dagens Nyheter
+- Pengaregn över Staffanstorps föreningar – och bonus till alla anställda - Sydsvenskan
+- Två miljoner resenärer påverkade av krisen - Västerbottens-Kuriren
+- Kommunalrådet i Åsele avgår – efter avslöjande om husköp - SVT Nyheter
 - 14-åriga Deniz ville be statsministern hjälpa hennes systrar i Iran – släpptes inte fram - Dagens Nyheter
-- DEBATT: Oron över anhöriga i Iran river i mig – men hoppet om frihet bultar lika starkt - GP
 - Här ställs tågen in – i ett års tid - GP
 - Yttrande om ”Utvärdering av Sveriges penningpolitik 2015–2024” - Sveriges Riksbank
+- DN Direkt – Lavin gick vid Tegelfjäll i Åre - Dagens Nyheter
+- Turkiet: Robot från Iran stoppad - Aftonbladet
 - Anna-Lena Laurén: Därför låser tyskarna in passagerarna i flygplan - Dagens Nyheter
-- Ayatollan sörjdes i Stockholmsmoskén - Expressen
 - UPPDATERAS: Ukraina har befriat 460 km2 - rysk helikopter nedskjuten av ryssarna - 10 MEUR i borgen för att Belgien ska släppa rysk skuggflottetanker - cornucopia.se
 - Vakterna låste och gick - Expressen
-- Fler larm i Saabs visselblåsarsystem - Placera.se
-- Tunga investeringschefen: Historien talar för köpläge - Affärsvärlden
-- Audis Concept C ska ta över efter TT - Dagens PS
-- Renault visar nytt framtidskoncept – och ny Dacia-crossover - Dagens PS
+- Bessent: Tullarna höjs någon gång den här veckan - Omni
+- Börsnoteringen av Arenit är en nit - Affärsvärlden
+- Så vill vd:n rädda krisande Nissan – utesluter inte en försäljning: ”Allt kan hända” - motormagasinet.se
+- Apple släpper billig datormodell kallad Macbook Neo - Expressen
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Finsk studie: Pollen kan sänka elevers provresultat. Allergiska hjärnor presterar sämre. - feber.se
+- Ett nytt Gran Turismo ser ut att vara under utveckling - Teknikveckan
 
 ## World News
 
