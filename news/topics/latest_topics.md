@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 06:54_
+_Updated: 2026-03-04 08:04_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Amerikanskt konsulat träffat av drönare - Dagens Nyheter
+- Macrons strategi – första steg mot EU-bomber? - SvD
+- Nu ska kyrkans bönder rusta för kris – och krig - Skånska Dagbladet
 - Terroranklagas efter båtskjutning - Aftonbladet
 - Kraftig explosion i bostadsområde i södra Stockholm - Aftonbladet
+- WIDAR ANDERSSON: Vi behöver se hela folkrätten och inte blunda för terrorns brott - NT
 - Nathan Shachar: Libanon förbannar Hizbollah – gav Israel svepskäl för attacker - Dagens Nyheter
-- ”EU:s gröna giv måste styras om” - SvD
-- DEBATT: Troféjakt på lodjur får inte vara norm - Nerikes Allehanda
-- SMHI: I morgon blir det vår - Dagens Nyheter
-- Tre järvungar födda på Kolmården - Västerbottens-Kuriren
+- Ulf Kristersson om regeringsfrågan: SD är mer erfaret nu - Dagens Nyheter
 - Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
-- En hittad död efter brand utanför Hoting - SVT Nyheter
+- SMHI: I morgon blir det vår - Dagens Nyheter
+- Här maxar du dagsljuset - Mitt i
 - Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
-- Uppgifter: Storbritannien skickar krigsfartyg till Cypern - Expressen
-- Svenska Stenas fartyg träffat av drönare - Omni
+- Europa sluter upp bakom Trump - SvD
+- Dags att deklarera – här är expertens tips: ”Inte som förr när man hade hundra pärmar” - skaraborgsbygden.se
+- Thedéen: Utdraget krig kan skapa inflation - Tidningen Näringslivet
 - Daytradern i börspaniken: ”Är ett klassiskt köpläge” - EFN
-- Charlie åt knark – veterinärbesök kostade 20 000 - Aftonbladet
-- Experten: Lär fortsätta stiga i värde - Aftonbladet
+- Svenska Stenas fartyg träffat av drönare - Omni
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Oneplus har en ny kompakt toppmodell på gång - Swedroid
+- Philips OLED910 - recension: den ljusstarkaste och mest prisvärda OLED-TV du kan köpa - TechRadar
+- Nya Androidfunktioner i mars som släpps för alla - Swedroid
 - The Sims 4 har fått en egen marknadsplats. Och konsolspelare får tillgång till Custom Content. - feber.se
-- Apple kan behöva Googles servrar för nya Siri - mobil.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-03-04 06:54_
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- New Secretary General appointed - Olof Palme International Center
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -76,13 +76,12 @@ _Updated: 2026-03-04 06:54_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finance Minister: Middle East war no threat to Sweden's economy - Sveriges Radio
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,28 +92,29 @@ _Updated: 2026-03-04 06:54_
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
