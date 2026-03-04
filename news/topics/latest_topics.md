@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 18:04_
+_Updated: 2026-03-04 19:09_
 
 ## Top Stories
 
-- Utter påkörd av bilist - Magazin24
 - DN Direkt – M-politiker föll ihop i riksdagen - Dagens Nyheter
-- Fransmän och britter flygs hem – så agerar andra länder - Dagens Nyheter
-- Pengaregn över Staffanstorps föreningar – och bonus till alla anställda - Sydsvenskan
+- Statsministern om utvisade systrarna i Iran: ”Jag känner inte saker” - GP
+- Påkörd utter i Uttersberg - - Fagersta Nyheter
+- Risk för stor flyktingkris: ”Turkiet står på tå” - Dagens Nyheter
 - Två miljoner resenärer påverkade av krisen - Västerbottens-Kuriren
 - Kommunalrådet i Åsele avgår – efter avslöjande om husköp - SVT Nyheter
 - 14-åriga Deniz ville be statsministern hjälpa hennes systrar i Iran – släpptes inte fram - Dagens Nyheter
-- Här ställs tågen in – i ett års tid - GP
-- Yttrande om ”Utvärdering av Sveriges penningpolitik 2015–2024” - Sveriges Riksbank
-- DN Direkt – Lavin gick vid Tegelfjäll i Åre - Dagens Nyheter
-- Turkiet: Robot från Iran stoppad - Aftonbladet
-- Anna-Lena Laurén: Därför låser tyskarna in passagerarna i flygplan - Dagens Nyheter
-- UPPDATERAS: Ukraina har befriat 460 km2 - rysk helikopter nedskjuten av ryssarna - 10 MEUR i borgen för att Belgien ska släppa rysk skuggflottetanker - cornucopia.se
-- Vakterna låste och gick - Expressen
-- Bessent: Tullarna höjs någon gång den här veckan - Omni
+- KD-toppen: ”Förbjud slöja i förskola och lågstadiet” - Dagens Nyheter
+- Kraftvärmeverk som skulle elda sopor i Stockholm stoppas - Dagens Nyheter
+- Larm om lavin i Åre - SVT Nyheter
+- Turkiet har stoppat robot från Iran - Aftonbladet
+- Så gör andra länder med sina strandsatta medborgare – S-kritik mot regeringen - SVT Nyheter
+- Börsen idag: Öppning i moll väntas - Placera.se
+- Oppositionen kritisk till kärnvapensamarbete - TV4 Nyheterna
+- Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
+- Trendbrott: Lägre taxeringsvärden påverkar bostadsrättsföreningar - Dagens Nyheter
 - Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Så vill vd:n rädda krisande Nissan – utesluter inte en försäljning: ”Allt kan hända” - motormagasinet.se
+- Relevance Communication Nordic AB: Ekdals perspektiv lockar stor publik - 220 000 spelningar första månaden - Aktiellt
 - Apple släpper billig datormodell kallad Macbook Neo - Expressen
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Ett nytt Gran Turismo ser ut att vara under utveckling - Teknikveckan
 
 ## World News
 
@@ -56,13 +56,13 @@ _Updated: 2026-03-04 18:04_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -74,17 +74,14 @@ _Updated: 2026-03-04 18:04_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Airline SAS announces billions in cuts to regain financial footing - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -93,6 +90,9 @@ _Updated: 2026-03-04 18:04_
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -102,7 +102,7 @@ _Updated: 2026-03-04 18:04_
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
@@ -148,17 +148,17 @@ _Updated: 2026-03-04 18:04_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- PRM v 154.jpg - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Patrik Niklasson ny Doggy - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
