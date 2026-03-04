@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 12:04_
+_Updated: 2026-03-04 13:03_
 
 ## Top Stories
 
+- Svenskt nödteam på plats i Riyadh – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
 - Handgranat hittad vid bilfirma i Malmö - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Kristersson: Nödteam är på plats i Riyadh - Dagens Nyheter
-- Iranskt flottfartyg sjunker utanför Sri Lanka - SvD
-- SOS International nedringt efter Iranattackerna - Västerbottens-Kuriren
-- Grannar i protest: ”Cykelväg tar för mycket plats från bilarna” - Sydsvenskan
-- Kraftig explosion i bostadsområde i södra Stockholm - Aftonbladet
+- Kustbevakningen i krock med färja i Grisslehamn - SVT Nyheter
+- Kommunalrådet i Åsele avgår – efter avslöjande om husköp - SVT Nyheter
+- Ledare: Lämna inte strandsatta i sticker, Kristersson! - Hallands Nyheter
+- Människorättsgrupp: 181 barn har dödats i kriget - Omni
+- Löftet som kan avgöra valet skrämmer slag på arbetsgivarna - HD – Nyheter Dygnet Runt
 - Ulf Kristersson om regeringsfrågan: SD är mer erfaret nu - Dagens Nyheter
-- Bilbrand skapade köer mot Arlanda – körfälten öppna igen - SVT Nyheter
 - Döda svanar hade fågelinfluensa – SVA varnar: ”Mata inte” - Dagens Nyheter
 - Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
 - Norge skickar UD-personal till Mellanöstern - Dagens Nyheter
+- Anna-Lena Laurén: Därför låser tyskarna in passagerarna i flygplan - Dagens Nyheter
 - Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
-- Börsen idag: Öppning i moll väntas - Placera.se
-- Sprickan växer i ”det speciella förhållandet” - Aftonbladet
+- JUST NU: Föll ihop under debatten – avbröts: ”Mår bra” - Expressen
+- Så högt kan bensinpriset bli om kriget fortsätter - GP
+- LISTA: Alla avdrag du kan göra på skatten 2026 - Aftonbladet
+- Två miljoner resenärer påverkade av krigsutbrottet - Dagens industri
 - Många får mindre tillbaka på skatten: ”Kan bli en kalldusch” - Dagens Nyheter
-- Peter Benson: Därför faller börsen – och det kan hända nu - Placera.se
-- Mon Amie-burken skapar hysteri – kunder gråter och hotar - Aftonbladet
-- Bredare utbud – nära 40 procent av nya bilar i Sverige är elbilar - Ny Teknik
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Lista: Månadens dyraste hus i Nordmaling - Västerbottningen
+- Highguard dödas – efter mindre än två månader - Aftonbladet
 
 ## World News
 
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -38,11 +39,10 @@ _Updated: 2026-03-04 12:04_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
@@ -67,9 +67,9 @@ _Updated: 2026-03-04 12:04_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -103,41 +103,41 @@ _Updated: 2026-03-04 12:04_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
+- 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
@@ -148,12 +148,12 @@ _Updated: 2026-03-04 12:04_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
