@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-04 10:02_
+_Updated: 2026-03-04 11:22_
 
-- Live updates: 4 U.S. soldiers killed in Iran conflict identified; 3 U.S. embassies close amid air strikes - The Washington Post
-- Trump officials' briefing to Congress on Iran derided as "bullsh*t" by Democrats - Axios
-- U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’ - The New York Times
+- First US soldiers to die in Iran conflict are identified - BBC
 - Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor - The New York Times
-- Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together - CNN
-- Iran war live: Israeli strike kills four in Lebanon, US names its first casualties - Reuters
-- Bill Gates, Kathryn Ruemmler among new targets in House Oversight’s Epstein investigation investigation - Politico
-- Internal DHS watchdog: Noem is obstructing our work - Politico
-- Russia Gets a Chance to Boost Oil Income as War Disrupts Hormuz - Bloomberg.com
-- UAE considers striking Iranian missile sites as regional war spreads - Axios
-- China is about to show the world its plan to win the future - CNN
 - CIA station in Saudi capital hit in drone attack - The Washington Post
-- Feds Warn Savannah Chrisley Over Alleged False, Misleading Weight Loss Statements - TMZ
-- Goldman’s Solomon Says Market Reaction to War Is ‘Benign’ So Far - Bloomberg.com
+- Iran war live: Israeli strike kills four in Lebanon, US names its first casualties - Reuters
+- James Talarico will win Democratic primary in Texas Senate race, CNN projects - CNN
+- Bill Gates, Kathryn Ruemmler among new targets in House Oversight’s Epstein investigation investigation - Politico
+- Congress taking first votes on Iran war as debate rages about US goals - AP News
+- Struggling Democrats need to drop out of California’s crowded governor race or risk a GOP win, party leader warns - Los Angeles Times
+- Live Updates: Trump defends war with Iran as conflict widens, military names first service members who were killed - CBS News
+- China is about to show the world its plan to win the future - CNN
+- UAE considers striking Iranian missile sites as regional war spreads - Axios
+- Trapped Between U.S. and Iran, Gulf Countries Face Nightmare Scenario - The New York Times
+- Panic Sweeps Korean Stocks in Biggest Two-Day Crash Since 2008 - Bloomberg
+- China's factory activity slumps more than expected in February as holiday disrupts production - CNBC
 - MrBeast Is Getting Into Financial Services With His Step App. Parents, Pay Attention. - The New York Times
-- Blue Owl slides below listing price as private credit worries mount - Financial Times
+- Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles - The New York Times
 - Google brings Android’s desktop mode to Pixel devices - The Verge
-- Google accelerates Chrome’s release cycle from every four weeks to two - The Verge
-- We played Pokémon Pokopia, ask us anything - The Verge
+- The Oppo Find X9 Ultra also steps outside China - PhoneArena
+- Samsung confirms Galaxy S26 series has an 8-bit display following 10-bit confusion - 9to5Google
 - Fallout 76: The Backwoods Release Notes - Bethesda.net
