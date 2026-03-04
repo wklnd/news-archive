@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 22:57_
+_Updated: 2026-03-04 23:57_
 
 ## Top Stories
 
-- Nytt fängelse i Sundsvall kan skapa 270 jobb – två platser utreds - SVT Nyheter
 - Sammis benbrott kostade 65000 - myndighetens kritik mot höga priserna - GP
-- Statsministern om utvisade systrarna i Iran: ”Jag känner inte saker” - GP
-- Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
+- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
+- Larm om lavin i Åre - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
+- Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
 - Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
 - Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
-- DN Direkt – Ingen allvarlig psykisk störning vid dubbelmord - Dagens Nyheter
+- Gul varning för vind och snöfall på kalfjället - Jokkmokks kommun
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
-- Svenska rederijätten om Trumps löfte: ”Mycket som är oklart” - Dagens industri
+- Resultat av polisens arbete i trafiken. - Brottsplatskartan.se
+- Massflykt från södra Libanon i Israelattacker - GP
 - Macrons strategi – första steg mot EU-bomber? - GP
-- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
 - Turkiet: Robot från Iran stoppad - Aftonbladet
+- Vakterna låste och gick - Expressen
 - Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
-- Topplista: De mest energieffektiva elbilarna 2026 - Dagens PS
 - Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Arbetslösheten inom EMU sjönk i januari - Dagens industri
-- Bekräftat: ”Assassin’s Creed Black flag” gör comeback - Aftonbladet
+- Nya bolåneregler i april: ”Kommer underlätta” - Omni
+- Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
+- Apple släpper billig datormodell kallad Macbook Neo - Expressen
 - Är du pollenallergisk? Dagens hälsofråga. - feber.se
 
 ## World News
@@ -31,22 +31,22 @@ _Updated: 2026-03-04 22:57_
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -99,45 +99,45 @@ _Updated: 2026-03-04 22:57_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
