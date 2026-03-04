@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 15:37_
+_Updated: 2026-03-04 17:05_
 
 ## Top Stories
 
+- Utter påkörd av bilist - Magazin24
 - Fransmän och britter flygs hem – så agerar andra länder - Dagens Nyheter
+- DN Direkt – M-politiker föll ihop i riksdagen - Dagens Nyheter
+- Man gripen i Polen misstänkt för grova narkotikabrott - polisen.se
+- Vårdcentraler i Göteborg stoppas – avtalen hävs - GP
+- Hegseth: Torped från amerikansk ubåt sänkte iranskt krigsfartyg - Yle
 - 14-åriga Deniz ville be statsministern hjälpa hennes systrar i Iran – släpptes inte fram - Dagens Nyheter
-- Ukrainas framgång – slår hårt mot Putin - expressen.se
-- Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
-- Bilbrand skapade köer mot Arlanda – körfälten öppna igen - SVT Nyheter
-- Bli röstmottagare i valet 2026 - Sundbybergs stad
+- DEBATT: Oron över anhöriga i Iran river i mig – men hoppet om frihet bultar lika starkt - GP
+- Här ställs tågen in – i ett års tid - GP
+- Yttrande om ”Utvärdering av Sveriges penningpolitik 2015–2024” - Sveriges Riksbank
 - Anna-Lena Laurén: Därför låser tyskarna in passagerarna i flygplan - Dagens Nyheter
-- Ayatollan sörjdes i Stockholmsmoskén - expressen.se
-- Dödsdömd svensk övergiven i Irans skräckfängelse - Aftonbladet
-- Börsen idag: Öppning i moll väntas - Placera.se
-- Många får mindre tillbaka på skatten: ”Kan bli en kalldusch” - Dagens Nyheter
-- Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Drivmedelsduellen: Vinnare och förlorare 2025 - Dagens PS
-- Så vill vd:n rädda krisande Nissan – utesluter inte en försäljning: ”Allt kan hända” - motormagasinet.se
+- Ayatollan sörjdes i Stockholmsmoskén - Expressen
+- UPPDATERAS: Ukraina har befriat 460 km2 - rysk helikopter nedskjuten av ryssarna - 10 MEUR i borgen för att Belgien ska släppa rysk skuggflottetanker - cornucopia.se
+- Vakterna låste och gick - Expressen
+- Fler larm i Saabs visselblåsarsystem - Placera.se
+- Tunga investeringschefen: Historien talar för köpläge - Affärsvärlden
+- Audis Concept C ska ta över efter TT - Dagens PS
+- Renault visar nytt framtidskoncept – och ny Dacia-crossover - Dagens PS
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Microsoft avslöjar datumen för den årliga utvecklarkonferensen Build - PC för Alla
-- Microsoft filar på AI som kan spela dina spel åt dig - m3.se
-- Logitech Pro X2 Superstrike - recension: den bästa gamingmusen för esport - TechRadar
-- Försvaret köper in musikinstrument för 90 miljoner - Dagens Nyheter
-- Zara Larssons skämtsamma svar om abort väcker reaktioner - TV4 Nyheterna
+- Finsk studie: Pollen kan sänka elevers provresultat. Allergiska hjärnor presterar sämre. - feber.se
 
 ## World News
 
@@ -42,10 +42,10 @@ _Updated: 2026-03-04 15:37_
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -56,13 +56,13 @@ _Updated: 2026-03-04 15:37_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -128,7 +128,6 @@ _Updated: 2026-03-04 15:37_
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
@@ -137,8 +136,9 @@ _Updated: 2026-03-04 15:37_
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -150,7 +150,7 @@ _Updated: 2026-03-04 15:37_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
