@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-04 13:06_
+_Updated: 2026-03-04 13:57_
 
-- Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together - CNN
-- North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam - NPR
-- Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge - The New York Times
+- ICE has spun a massive surveillance web. We talked to people caught in it - NPR
 - Scandal-plagued Rep. Tony Gonzales forced to runoff - Politico
 - Social media believed to be tied to Austin shooter is full of antisemitic, anti-Christian, misogynistic posts - CBS News
-- Trump Immigration Sweeps Spawn Underground Safe Houses - The New York Times
-- Bill Gates, Kathryn Ruemmler among new targets in House Oversight’s Epstein investigation investigation - Politico
-- Congress taking first votes on Iran war as debate rages about US goals - AP News
+- Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor - The New York Times
+- North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam - NPR
+- Lock step no more: Iran war shows cracks in Trump’s conservative media support - AP News
 - CIA station in Saudi capital hit in drone attack - The Washington Post
+- U.S. Strikes on Iran Reinforce North Korea’s Nuclear Resolve - WSJ
+- Germany’s Merz sits powerless as Trump attacks European allies in Oval Office - politico.eu
 - US identifies troops killed during actions against Iran - Army Times
-- China is about to show the world its plan to win the future - CNN
-- Greece deploys warships, jets to Cyprus after drone strikes on UK air base Akrotiri - Defense News
+- Stock market today: Dow, S&P 500, Nasdaq futures turn higher as Iran reportedly calls for talks to end conflict - Yahoo Finance UK
+- Markets in Europe gain while Asian shares swoon as the war with Iran widens and oil surges higher - AP News
+- Goldman CEO says markets may take a 'couple of weeks' to digest Iran war impact - Reuters
 - Roundup: Verizon / Oil stocks / Charlie’s Law - Baton Rouge Business Report
-- Feds Warn Savannah Chrisley Over Alleged False, Misleading Weight Loss Statements - TMZ
-- Trump met with Coinbase CEO before bashing banks over crypto bill - Politico
-- 5 ways the Iran conflict is upending Europe’s energy plans - politico.eu
-- The T-Mobile Samsung Galaxy S26 Ultra "On Us" Deal Explained (No Trade-In or Port-In Required) - IGN
+- New MacBooks, the iPhone 17E, and more: Everything we know about Apple’s March 2026 announcements - The Verge
+- Google turns Pixel’s Now Playing into a standalone app — and it’s a big deal - Android Central
 - The Oppo Find X9 Ultra also steps outside China - PhoneArena
-- Galaxy S26 Ultra screen issue has some worried - PhoneArena
-- A suite of government hacking tools targeting iPhones is now being used by cybercriminals - TechCrunch
+- The Galaxy S26 series doesn't feature 10-bit displays - SamMobile
+- Christian Bale Weighs in on “Bold Choice” to Make a New ‘American Psycho’: “All the Best to ‘Em” - The Hollywood Reporter
+- ‘Marshals’ Premiere Draws 9.52M Viewers, CBS’ Biggest Non NFL-Aided Series Debut Since ‘FBI’ - Deadline
