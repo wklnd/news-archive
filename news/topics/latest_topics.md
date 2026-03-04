@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 00:57_
+_Updated: 2026-03-05 01:52_
 
 ## Top Stories
 
-- Vita Huset: Spanien kommer samarbeta med USA:s militär – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
 - Sammis benbrott kostade 65000 - myndighetens kritik mot höga priserna - GP
-- Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
-- Tjörnbron avstängd – efter bombhot - GP
+- Tjörnbron fick stängas – efter bombhot - GP
 - Macrons mål: Säkra sitt inflytande - SvD
+- Hizbollahledare vägrar ge upp i Israelattacker - GP
 - Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
 - Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
 - Jämställdhetsexperten lyfter mäns psykiska mående: ”Jag skulle aldrig vilja vara man” - HD – Nyheter Dygnet Runt
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- Spanien förnekar militärt samarbete med USA - GP
 - Macrons strategi – första steg mot EU-bomber? - GP
-- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
 - Turkiet: Robot från Iran stoppad - Aftonbladet
+- Trump hotar "avbryta all handel" med Spanien - GP
+- LUF får kritik – hyllar dödandet av Khamenei - GP
 - Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
-- Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
 - När kriget kommer räcker inte AI-råden - SvD
-- Börsnoteringen av Arenit är en nit - Affärsvärlden
+- Nya krav på chefer när AI blir ”den sakkunnige” - Chef och Chefakademin
+- Högkvarterets nya etablering klar – flyttar till Frösundavik - Officerstidningen
 - Apple släpper billig datormodell kallad Macbook Neo - Expressen
-- Här kan du få 6000 kronor om du köper en elmoppe. Barcelona vill ha mer tvåhjuligt och eldrivet. - feber.se
+- Så ser du Nothings lanseringevenemang - mobil.se
 
 ## World News
 
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -38,7 +39,6 @@ _Updated: 2026-03-05 00:57_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global drogsajt stängd – svenskar gripna - Drugnews
@@ -123,22 +123,22 @@ _Updated: 2026-03-05 00:57_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
