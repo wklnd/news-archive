@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-04 05:13_
+_Updated: 2026-03-04 07:00_
 
-- Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN
-- Tillis threatens to hijack Senate business amid frustrations with Noem - Politico
-- State Board Extends Voting at 1 Halifax County Precinct; No Primary Results Will Be Released Statewide Until 8:30 p.m. - NCSBE (.gov)
-- Struggling Democrats need to drop out of California’s crowded governor race or risk a GOP win, party leader warns - Los Angeles Times
+- Apalachee High School Shooting: Colin Gray Found Guilty of Murder - The New York Times
 - Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor - The New York Times
-- Crockett vs. Talarico. Progressive vs. Moderate. Right? - The New York Times
+- Hundreds of voters in Dallas area turned away from polling places amid new rules confusion - CNN
+- Thousands in Iran Attend Burial of Children Killed in Bombing of School - The New York Times
 - Internal DHS watchdog: Noem is obstructing our work - Politico
-- DHS Investigates Gregory Bovino’s Remarks About Prosecutor’s Jewish Faith - The New York Times - The New York Times
-- ‘I’m the f--king deputy chief of staff’: Jersey City mayor reassigns former aide to predecessor over police body cam footage - Politico
-- IDF destroys secret nuclear site, thousands of missile pads - The Jerusalem Post
-- Israel sends troops into southern Lebanon as Hezbollah says it is ready for ‘open war’ - AP News
+- Who won in Texas? See live primary election results - Austin American-Statesman
+- US, Ecuadorian forces took action in Ecuador to combat drug trafficking, US military says - Reuters
+- CIA station in Saudi capital hit in drone attack - The Washington Post
 - UAE considers striking Iranian missile sites as regional war spreads - Axios
-- Hacked traffic cameras and US intelligence: How a plot to kill Iran’s supreme leader came together - CNN
+- China is about to show the world its plan to win the future - CNN
+- House Republicans are publicly cheering Trump’s Iran war. Privately, many are worried. - Politico
+- China's factory activity slumps more than expected in February as holiday disrupts production - CNBC
 - Target tackles groceries as first swing to revive sales growth - Star Tribune
-- McDonald's CEO roasted after his tiny first bite of new Big Arch burger goes viral - Fox News
 - Palantir wants its old employees back: 'The shire is calling' - Business Insider
 - Live Nation Accused of Hurting Music Fans as Antitrust Trial Begins - The New York Times
+- Google brings Android’s desktop mode to Pixel devices - The Verge
 - A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED
 - Google accelerates Chrome’s release cycle from every four weeks to two - The Verge
-- The Division 10th Anniversary Showcase: The Division 2 Anniversary Season and Roadmap, The Division Resurgence Launch Date - Ubisoft
+- Fallout 76: The Backwoods Release Notes - Bethesda.net
+- Why Jeff Zucker Is Bullish About an $8 Billion Megadeal to Create a TV Production Giant - The Hollywood Reporter
