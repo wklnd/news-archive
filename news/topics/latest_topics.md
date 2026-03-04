@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 21:12_
+_Updated: 2026-03-04 21:57_
 
 ## Top Stories
 
-- Trafiken genom Hormuzsundet har minskat kraftigt - GP
-- Israel i jätteattack mot Iran – 100 flygplan fällde 250 bomber - Expressen
+- Hela Irak utan ström: ”Lämna landet” - Aftonbladet
 - Statsministern om utvisade systrarna i Iran: ”Jag känner inte saker” - GP
-- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - Svenska Ivan, 15, evakuerades från förenade Arabemiraten - Expressen
 - Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
+- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
+- Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
 - Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
 - Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
-- KD-toppen: ”Förbjud slöja i förskola och lågstadiet” - Dagens Nyheter
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- USA vill beväpna kurder för att störta regimen i Iran – så stora är chanserna - Omni
-- Sandra Stiskalo: Plötsligt är Donald Trump jättearg på Keir Starmer - Dagens Nyheter
+- KD-toppen: ”Förbjud slöja i förskola och lågstadiet” - Dagens Nyheter
+- Macrons strategi – första steg mot EU-bomber? - GP
 - Turkiet: Robot från Iran stoppad - Aftonbladet
-- Vakterna låste och gick - Expressen
+- Sandra Stiskalo: Plötsligt är Donald Trump jättearg på Keir Starmer - Dagens Nyheter
+- Så gör andra länder med sina strandsatta medborgare – S-kritik mot regeringen - SVT Nyheter
 - Fler larm i Saabs visselblåsarsystem - Placera.se
+- Börsnoteringen av Arenit är en nit - Affärsvärlden
 - Trendbrott: Lägre taxeringsvärden påverkar bostadsrättsföreningar - Dagens Nyheter
-- Bessent: 15% tullar väntas införas i veckan - Placera.se
-- Drönarattacker slog ut Qatars LNG – världens gaspriser rusar - ENERGInyheter.se
+- Arbetslösheten inom EMU sjönk i januari - Dagens industri
+- Efter år av rykten: det bästa “Assassin’s Creed”-spelet får en remake - MovieZine
 - Apple släpper billig datormodell kallad Macbook Neo - Expressen
-- Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
 
 ## World News
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-04 21:12_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -107,13 +107,13 @@ _Updated: 2026-03-04 21:12_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
@@ -151,14 +151,14 @@ _Updated: 2026-03-04 21:12_
 - PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Patrik Niklasson ny Doggy - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
