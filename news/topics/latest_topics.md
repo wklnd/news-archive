@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 21:57_
+_Updated: 2026-03-04 22:57_
 
 ## Top Stories
 
-- Hela Irak utan ström: ”Lämna landet” - Aftonbladet
+- Nytt fängelse i Sundsvall kan skapa 270 jobb – två platser utreds - SVT Nyheter
+- Sammis benbrott kostade 65000 - myndighetens kritik mot höga priserna - GP
 - Statsministern om utvisade systrarna i Iran: ”Jag känner inte saker” - GP
-- Svenska Ivan, 15, evakuerades från förenade Arabemiraten - Expressen
 - Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
 - Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
 - Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
-- Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
+- DN Direkt – Ingen allvarlig psykisk störning vid dubbelmord - Dagens Nyheter
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- KD-toppen: ”Förbjud slöja i förskola och lågstadiet” - Dagens Nyheter
+- Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
+- Svenska rederijätten om Trumps löfte: ”Mycket som är oklart” - Dagens industri
 - Macrons strategi – första steg mot EU-bomber? - GP
+- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
 - Turkiet: Robot från Iran stoppad - Aftonbladet
-- Sandra Stiskalo: Plötsligt är Donald Trump jättearg på Keir Starmer - Dagens Nyheter
-- Så gör andra länder med sina strandsatta medborgare – S-kritik mot regeringen - SVT Nyheter
-- Fler larm i Saabs visselblåsarsystem - Placera.se
+- Fler larmade om missförhållanden på Saab i fjol - Affärsvärlden - Placera.se
+- Topplista: De mest energieffektiva elbilarna 2026 - Dagens PS
 - Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Trendbrott: Lägre taxeringsvärden påverkar bostadsrättsföreningar - Dagens Nyheter
 - Arbetslösheten inom EMU sjönk i januari - Dagens industri
-- Efter år av rykten: det bästa “Assassin’s Creed”-spelet får en remake - MovieZine
-- Apple släpper billig datormodell kallad Macbook Neo - Expressen
+- Bekräftat: ”Assassin’s Creed Black flag” gör comeback - Aftonbladet
+- Är du pollenallergisk? Dagens hälsofråga. - feber.se
 
 ## World News
 
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -38,15 +39,14 @@ _Updated: 2026-03-04 21:57_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-04 21:57_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Sim-to-Real-Gap: Die rasante Beschleunigung der künstlichen Intelligenz und das unersetzliche Handwerk - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2026-03-04 21:57_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
@@ -151,9 +151,9 @@ _Updated: 2026-03-04 21:57_
 - PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
