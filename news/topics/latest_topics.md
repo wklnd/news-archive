@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 20:03_
+_Updated: 2026-03-04 21:12_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Containerskepp träffat av projektil - Dagens Nyheter
-- Hela Irak utan ström: ”Lämna landet” - Aftonbladet
-- Kina skickar särskilt sändebud för medling i Mellanöstern - Placera.se
+- Trafiken genom Hormuzsundet har minskat kraftigt - GP
+- Israel i jätteattack mot Iran – 100 flygplan fällde 250 bomber - Expressen
 - Statsministern om utvisade systrarna i Iran: ”Jag känner inte saker” - GP
-- Utter påkörd av bilist - Magazin24
-- DN Direkt – M-politiker föll ihop i riksdagen - Dagens Nyheter
-- 14-åriga Deniz ville be statsministern hjälpa hennes systrar i Iran – släpptes inte fram - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
+- Svenska Ivan, 15, evakuerades från förenade Arabemiraten - Expressen
+- Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
+- Svensk man gripen i Polen – misstänks för grova narkotikabrott i Malmö - SVT Nyheter
+- Jacques Mwepu vill inte ha barn på Kumla: Vore fegt att inte säga vad jag tycker - Dagens Nyheter
+- KD-toppen: ”Förbjud slöja i förskola och lågstadiet” - Dagens Nyheter
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- Martins mamma om allt stöd de fått: "Jag har inga ord" - NT
-- Larm om lavin i Åre - SVT Nyheter
-- Fransmän och britter flygs hem – så agerar andra länder - Dagens Nyheter
-- Turkiet har stoppat robot från Iran - Aftonbladet
-- Så gör andra länder med sina strandsatta medborgare – S-kritik mot regeringen - SVT Nyheter
-- SVT-journalistens panik när luftrummet stängdes – fastnade - Expressen
+- USA vill beväpna kurder för att störta regimen i Iran – så stora är chanserna - Omni
+- Sandra Stiskalo: Plötsligt är Donald Trump jättearg på Keir Starmer - Dagens Nyheter
+- Turkiet: Robot från Iran stoppad - Aftonbladet
+- Vakterna låste och gick - Expressen
+- Fler larm i Saabs visselblåsarsystem - Placera.se
 - Trendbrott: Lägre taxeringsvärden påverkar bostadsrättsföreningar - Dagens Nyheter
-- Vad händer om kriget mot Iran blir långvarigt? - Morningstar Canada
-- Börsnoteringen av Arenit är en nit - Affärsvärlden
-- Bonnesen tillbaka i rätten: ”Goda chanser” - Omni
+- Bessent: 15% tullar väntas införas i veckan - Placera.se
+- Drönarattacker slog ut Qatars LNG – världens gaspriser rusar - ENERGInyheter.se
 - Apple släpper billig datormodell kallad Macbook Neo - Expressen
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
 
 ## World News
 
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - 40 years of RSF, 40 years of press freedom history - RSF.org
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -56,13 +56,13 @@ _Updated: 2026-03-04 20:03_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -78,13 +78,14 @@ _Updated: 2026-03-04 20:03_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finance Minister: Middle East war no threat to Sweden's economy - Sveriges Radio
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
+- Airline SAS announces billions in cuts to regain financial footing - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-03-04 20:03_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -107,13 +107,13 @@ _Updated: 2026-03-04 20:03_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
@@ -151,14 +151,14 @@ _Updated: 2026-03-04 20:03_
 - PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Tält.jpg - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Patrik Niklasson ny Doggy - Mynewsdesk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
