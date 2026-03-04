@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-04 13:57_
+_Updated: 2026-03-04 15:42_
 
 - ICE has spun a massive surveillance web. We talked to people caught in it - NPR
+- At least 100 people missing after Iranian military ship sinks off Sri Lanka - Al Jazeera
+- The Iran war’s troubling missile math - CNN
 - Scandal-plagued Rep. Tony Gonzales forced to runoff - Politico
+- US-Israeli bombardment of Iran intensifies, as Tehran vows to destroy Mideast infrastructure - AP News
+- Americans trying to evacuate Middle East frustrated with government response - CBS News
+- Pete Hegseth claims ‘America is winning’ in pugnacious Iran war briefing – US politics live - The Guardian
 - Social media believed to be tied to Austin shooter is full of antisemitic, anti-Christian, misogynistic posts - CBS News
-- Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor - The New York Times
-- North Carolina Rep. Valerie Foushee holds narrow lead over challenger Nida Allam - NPR
-- Lock step no more: Iran war shows cracks in Trump’s conservative media support - AP News
-- CIA station in Saudi capital hit in drone attack - The Washington Post
+- Global Leaders Brace for the Fallout From Trump’s Fast Metastasizing War - The New York Times
+- Trump's new reasoning for Iran strikes. And, takeaways from the first 2026 primaries - NPR
+- Nepal election: Is the monarchy still a force, two decades after ouster? - Al Jazeera
 - U.S. Strikes on Iran Reinforce North Korea’s Nuclear Resolve - WSJ
-- Germany’s Merz sits powerless as Trump attacks European allies in Oval Office - politico.eu
-- US identifies troops killed during actions against Iran - Army Times
-- Stock market today: Dow, S&P 500, Nasdaq futures turn higher as Iran reportedly calls for talks to end conflict - Yahoo Finance UK
-- Markets in Europe gain while Asian shares swoon as the war with Iran widens and oil surges higher - AP News
-- Goldman CEO says markets may take a 'couple of weeks' to digest Iran war impact - Reuters
-- Roundup: Verizon / Oil stocks / Charlie’s Law - Baton Rouge Business Report
-- New MacBooks, the iPhone 17E, and more: Everything we know about Apple’s March 2026 announcements - The Verge
-- Google turns Pixel’s Now Playing into a standalone app — and it’s a big deal - Android Central
+- America has a housing affordability crisis. Building houses for rent can help - NPR
+- Target tackles groceries as first swing to revive sales growth - Star Tribune
+- Big investors have been fleeing for-sale housing market, even before Trump ordered ban - CNBC
+- I was at a QuitGPT protest, and the discontent extends far beyond OpenAI's Pentagon deal - Business Insider
+- Samsung Galaxy A37 and A57 pricing leak reveals heavier MSRPs - Notebookcheck
 - The Oppo Find X9 Ultra also steps outside China - PhoneArena
-- The Galaxy S26 series doesn't feature 10-bit displays - SamMobile
-- Christian Bale Weighs in on “Bold Choice” to Make a New ‘American Psycho’: “All the Best to ‘Em” - The Hollywood Reporter
-- ‘Marshals’ Premiere Draws 9.52M Viewers, CBS’ Biggest Non NFL-Aided Series Debut Since ‘FBI’ - Deadline
+- Google brings Android’s desktop mode to Pixel devices - The Verge
+- Dear Meta Smart Glasses Wearers: You’re Being Watched, Too - Gizmodo
