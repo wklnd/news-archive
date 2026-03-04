@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-04 09:12_
+_Updated: 2026-03-04 09:58_
 
 ## Top Stories
 
-- HRANA: Fler än 1 000 civila dödade i Iran – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Kraftig explosion i bostadsområde i södra Stockholm - Aftonbladet
-- Myndigheten hjälper gårdar att rusta inför kris: ”Planera” - Västerås Tidning
-- Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
-- Jakten på lodjur i Mark har ställts in efter domstolsbeslut - Mark-Posten
-- Nathan Shachar: Libanon förbannar Hizbollah – gav Israel svepskäl för attacker - Dagens Nyheter
+- Avskedsceremoni för Khamenei i kväll – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Avspärrningar runt misstänkt föremål på Jägersro - Sydsvenskan
+- DN Direkt – Bilbrand leder till köer mot Arlanda - Dagens Nyheter
+- Frontalkrock – ambulanshelikopter på plats utanför Degerfors - Expressen
+- Explosion i Beirut – fortsatta attacker - Västerbottens-Kuriren
+- Fler misstänkta brott mot samhällsviktig verksamhet - Västerbottens-Kuriren
+- Bilbrand skapar köer mot Arlanda - SVT Nyheter
 - Ulf Kristersson om regeringsfrågan: SD är mer erfaret nu - Dagens Nyheter
-- Hanna Hellquist: Det är tyvärr inte jag som blivit överdirektör på Sida - Dagens Nyheter
+- Anna-Karin Wyndhamn: Skolverket saboterar regeringens kursomläggning - GP
 - Förtroendet för sjukhusen ökar men minskar för vården som helhet - NewsMachine AB
-- Ny våtmark ska stärka natur och friluftsliv - Västerås Tidning
 - Adam Cwejman: Islamvänstern samlas i sitt stöd för regimen i Iran - GP
-- Europa sluter upp bakom Trump - SvD
+- Norge skickar UD-personal till Mellanöstern - Dagens Nyheter
 - Uppgifter: Storbritannien skickar krigsfartyg till Cypern - Expressen
-- Pappa döms för sonens skolskjutning - Aftonbladet
+- Europa sluter upp bakom Trump - SvD
 - Många får mindre tillbaka på skatten: ”Kan bli en kalldusch” - Dagens Nyheter
-- Sju av tio företag i Kalmar län har svårt att rekrytera - Oskarshamns-Nytt
-- Dags att deklarera – här är expertens tips: ”Inte som förr när man hade hundra pärmar” - skaraborgsbygden.se
+- Experten: Lär fortsätta stiga i värde - Aftonbladet
+- Nya soptunnor på väg – så funkar sorteringen hemma - Smålands Dagblad
 - Svenska Stenas fartyg träffat av drönare - Omni
 - Se bilderna: Forskare avslöjar 650 ljusår långt jättelikt objekt i hjärtat av vår egen galax - Illustrerad Vetenskap
-- Philips OLED910 - recension: den ljusstarkaste och mest prisvärda OLED-TV du kan köpa - TechRadar
+- Highguard stänger för gott - FZ.se
 
 ## World News
 
@@ -75,8 +75,8 @@ _Updated: 2026-03-04 09:12_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -96,25 +96,25 @@ _Updated: 2026-03-04 09:12_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
-- Vi presenterar HealthBench - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
