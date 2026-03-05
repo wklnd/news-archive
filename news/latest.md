@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-05 15:47_
+_Updated: 2026-03-05 17:33_
 
-- Pro-American Kurdish Forces Are Preparing Possible Iran Incursion - The New York Times - The New York Times
-- Spanish prime minister rebukes Trump’s war in Iran, escalating feud - The Washington Post
-- China Sets Economy’s Growth Target Below 5% for First Time in Decades - The New York Times - The New York Times
-- "Come to work": A primary fight between House Democrats in Texas turns nasty - Axios
-- How depleted weapons stockpiles could affect the Iran conflict - BBC
-- Three women found dead in apparent homicides in Wayne County; suspect at large - KUTV
+- Iran’s invisible 'First Lady': Who Was Khamenei’s wife? - ایران اینترنشنال
+- US launches Precision Strike Missiles in Iran war in first combat use - Military Times
+- Significant icing, plowable snow possible in parts of Massachusetts Thursday night into Friday, weather maps show - CBS News
 - RFK Jr. pushes medical schools to teach more about nutrition - NBC News
-- Man accused of plot to assassinate Trump testifies Iran pressured him, says Biden and Haley were other possible targets - CBS News
 - Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries - The New York Times - The New York Times
-- Iran’s Underground ‘Missile Cities’ Have Become One of Its Biggest Vulnerabilities - WSJ
-- Hardline cleric Arafi joins wartime leadership as Iran juggles conflict, succession - Reuters
-- Travelers Stranded by U.S.-Israel Conflict With Iran Face Endless Flight Cancellations - The New York Times
-- Donald Trump Begs War-Torn Country for Help on Iran - The Daily Beast
+- North Carolina Voters Punish Incumbents in Primary Election - The New York Times
+- First repatriation flights land in Israel, outbound travel to start Sunday - The Times of Israel
+- MP's husband and two men bailed after arrests for alleged China spying - BBC
+- Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
+- Why China Won’t Help Iran - Foreign Affairs
 - Eli Lilly launches program to help boost employer coverage of obesity drugs in U.S. - CNBC
 - Susie Wiles sounds the alarm on gas prices - Politico
-- The Block layoffs are just the beginning - Business Insider
-- Just three companies dominated the $189B in VC investments last month - TechCrunch
+- I talked to one of the laid-off Block employees. He gave me a sobering warning. - Business Insider
+- Revolut applies for US banking licence in push to crack American market - Financial Times
+- Nothing’s Headphone A are something worth considering - The Verge
+- OnePlus 15T: New compact flagship surpasses Xiaomi 17 Pro and Vivo X300 with larger battery - Notebookcheck
+- Nothing Phone 4a Pro hands-on: A premium design with a price to match the Pixel 10a - Engadget
 - Apple Music to add Transparency Tags to distinguish AI music, says report - TechCrunch
-- OpenAI brings its Codex coding app to Windows - Engadget
-- Nothing Phone (4a) Pro teaser hints at return of the Glyph Matrix display - 9to5Google
+- Vladimir review – Rachel Weisz is unswervingly brilliant in a TV show you’ll admire for years to come - The Guardian
+- Harry Styles Left as a Dominant Male Pop Star. He Returns to a Crowd. - The New York Times
