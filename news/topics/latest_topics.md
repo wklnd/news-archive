@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 09:25_
+_Updated: 2026-03-05 10:00_
 
 ## Top Stories
 
+- Utrikesministern: Förstår frustrationen - GP
 - Ebba Busch: “Jättefå bär niqab – men det är ett kanonstort problem” - Dagens Nyheter
-- Tjörnbron stängdes av efter bombhot - SVT Nyheter
-- Iran avfyrar nya robotar mot Israel - Västerbottens-Kuriren
+- Iran avfyrar nya robotar mot Israel - Skånska Dagbladet
 - Nato tappar mest i Förtroendebarometern 2026 - GP
 - Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
-- Roberts familj fast i Doha – fick inte prata med kristeamet: ”Hjälplösa” - Aftonbladet
+- Tjörnbron stängdes av efter bombhot - SVT Nyheter
+- Fössta tossdan i mass: ”Inget fel att prata vår dialekt” - SVT Nyheter
+- Ann-Sofie Hermansson: Min väns varning kom 20 år för tidigt - Fokus - Sveriges nyhetsmagasin
 - 05 mars 07.16, Sammanfattning natt, Västernorrlands län - polisen.se
-- Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
-- Skoterolycka i Härjedalen – föraren till sjukhus - SVT Nyheter
-- ”Vi krävde bara vår rätt och fick kulor som svar” - Dagens Nyheter
+- Löftet som kan avgöra valet skrämmer slag på arbetsgivarna - HD – Nyheter Dygnet Runt
 - Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Strömavbrott i hela Irak - Dagens Nyheter
 - UPPGIFTER: Kina slår till mot Iran - Marcus Oscarsson
-- Märkligt bråk mellan Trump och Spanien - Expressen
+- Irankriget en energikick för Putin - Dagens industri
 - Hemlighet på börsen – en faktor avgör mellan jättevinst och förlust | Björn Jeffery - SvD
 - Euron utmanar dollarn – kan slå mot Europas export - Dagens PS
-- Kriget kan ta ifrån Trump hans viktigaste vallöfte - EFN
+- Ny stor studie av arbetstidsförkortning - Prevent - arbetsmiljö i samverkan
 - Advokatens SvD-attack: ”Uppstår en oklarhet” - SvD
 - 9 snabba program för en långsam pc - PC för Alla
 - Här är LG:s OLED-modeller för 2026 – för första gången i Europa - LG OLED G6 och C6 närmar sig - Ljud & Bild
-- Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
 
 ## World News
 
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -79,7 +79,7 @@ _Updated: 2026-03-05 09:25_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Finance Panel: IMF on economic and financial policies in Sweden - sns.se
+- Finance Panel: IMF on economic and financial policies in Sweden - Studieförbundet Näringsliv och Samhälle (SNS)
 - Finance Minister: Middle East war no threat to Sweden's economy - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
