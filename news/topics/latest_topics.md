@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 23:58_
+_Updated: 2026-03-06 01:36_
 
 ## Top Stories
 
-- Trump sparkar Kristi Noem - SVT Nyheter
-- Lucy, 38, ställer in resan – efter drönarattacken - Expressen
-- Sri Lanka evakuerar iranskt fartygs besättning - Omni
-- Tre fick pengar för att flytta - 8 Sidor
-- Mordmisstänkta mannen släpps fri – utredningen fortsätter - KT-Kuriren
+- Israels offensiv tränger djupare – bombar Beirut - GP
+- Kartan visar: Trump inte rädd att använda militär styrka - Hufvudstadsbladet
 - Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
-- Kvinna avliden efter brand i källare i Luleå - SVT Nyheter
-- Landsort kan säljas – S-varningen: "Attraktiv för främmande makt" - Dagens Nyheter
-- Nato tappar mest i Förtroendebarometern 2026 - GP
+- Fortsatt ökning av bröstcancer globalt - Västerbottens-Kuriren
+- Evakueringar på Cypern – fler EU-länder rycker ut till öns försvar - Omni
+- Mordmisstänkta mannen släpps fri – utredningen fortsätter - KT-Kuriren
 - 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
+- Varnar för vattenläckor: ”Ser redan nu fler än normalt” - Helagotland
 - Greta Thunberg slagträ i danska valrörelsen - GP
-- Förslag: Kärnvapen tillåts inom Finlands gränser - SVT Nyheter
-- Slut med vegobacon – EU förbjuder namnet - Omni
 - Familj från Sverige flyger hem – efter hjälp från EU - Expressen
+- Slopar Finland kärnvapenförbud? Besked väntas i kväll - Hufvudstadsbladet
+- Ukrainas framgång – slår hårt mot Putin - Expressen
 - Skatteverket skickar ut årets deklaration - nya regler för ränteavdrag - SvD
+- Ditt sparande i krig – Det här kan staten göra med dina pengar - Dagens.se
 - Nya bolåneregler – så här påverkas du - Aftonbladet
-- Rådet: Två banker och kontanter - SvD
-- Utländska hackare slog till mot regionen – läste anställdas mejl i månader - NWT
+- Redogörelse för penningpolitiken året 2025 - Sveriges Riksbank
+- Nästa Xbox ska spela PC-spel. Microsoft bekräftar Project Helix för nästa konsolgeneration. - feber.se
 - Vi har kollat in Skodas vackra kombi! Vision O är lovande. - feber.se
 - Navigera med Star Trek - mobil.se
+- Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
 
 ## World News
 
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Corren kan vinna pris för satsningen på unga - Corren
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Tidningsjätte i England lägger ner efter skandal - SvD
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -103,8 +103,8 @@ _Updated: 2026-03-05 23:58_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -113,8 +113,8 @@ _Updated: 2026-03-05 23:58_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
@@ -123,22 +123,22 @@ _Updated: 2026-03-05 23:58_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
