@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 05:14_
+_Updated: 2026-03-05 07:00_
 
 ## Top Stories
 
@@ -10,18 +10,18 @@ _Updated: 2026-03-05 05:14_
 - Handgranat hittad hos bilfirma på Jägersro - Sydsvenskan
 - Utredare föreslår straffavgift för skattehöjande kommuner – Senaste nytt om valet 2026 - SVT Nyheter
 - Birgitta Rubin: 30 års kris på Världskulturmuseerna måste lösas vettigt - Dagens Nyheter
+- Pengar på väg till dessa svenskar: Får 350 000 kronor extra utbetalt i 3 omgångar - Dagens.se
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
 - Trafikolycka på E14 – krockade med vilt - Östersunds-Posten
-- Ledare: ”Utan industri finns ingen omställning” - Tidningen Näringslivet
-- DEBATT: Det är inte ansvarsfull migrationspolitik – det är skatteslöseri - NSD
+- Skoterolycka i Härjedalen – föraren till sjukhus - SVT Nyheter
 - Macrons strategi – första steg mot EU-bomber? - GP
 - Vakterna låste och gick - Expressen
-- Märkliga bråket fortsätter mellan Trump och Spanien - Expressen
+- Försökte fängsla Biden – på grund av pennan - Expressen
 - Turkiet: Robot från Iran stoppad - Aftonbladet
+- Reptilanalys visar: här är techvinnarna - SvD
+- Ny stor studie av arbetstidsförkortning - Prevent - arbetsmiljö i samverkan
 - Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
-- ”Vi ser en nedåtgående trend” – Så många upphandlingar har överprövats sedan 2021 - RT-Forum
 - Bessent: 15% tullar väntas införas i veckan - Placera.se
-- Nya krav på chefer när AI blir ”den sakkunnige” - Chef och Chefakademin
 - Här är LG:s OLED-modeller för 2026 – för första gången i Europa - LG OLED G6 och C6 närmar sig - Ljud & Bild
 - Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
 
@@ -35,6 +35,7 @@ _Updated: 2026-03-05 05:14_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -46,7 +47,6 @@ _Updated: 2026-03-05 05:14_
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- 48 städer krokar arm i global klimatomställning - Cision
 
 ## Technology
 
@@ -57,6 +57,7 @@ _Updated: 2026-03-05 05:14_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,31 +69,30 @@ _Updated: 2026-03-05 05:14_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Finance Minister: Middle East war no threat to Sweden's economy - Sveriges Radio
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
+- Airline SAS announces billions in cuts to regain financial footing - Sveriges Radio
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -148,17 +148,17 @@ _Updated: 2026-03-05 05:14_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- PRM v 154.jpg - Mynewsdesk
+- Tält.jpg - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Patrik Niklasson ny Doggy - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
