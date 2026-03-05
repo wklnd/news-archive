@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 18:09_
+_Updated: 2026-03-05 20:26_
 
 ## Top Stories
 
-- Iranska drönare slog ned i Azerbajdzjan - Hufvudstadsbladet
-- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
-- Resebolag har fått hem 20 svenskar – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Evakueringar på Cypern – fler EU-länder rycker ut till öns försvar - Omni
-- Brister i djurhållningen på Kolmårdens djurpark - Länsstyrelsen
-- Hundratals demonstrerade mot ”orättvisa” utvisningar - GP
-- Jimmie Åkesson: Pausa tonårsutvisningarna - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Källa: Trump uppmanar kurderna att välja sida - Dagens Nyheter
+- Iran: ”Över tusen personer har dödats i kriget” - Omni
+- Här är fem stora demokratier som är emot Trumps krig mot Iran - Dagens Nyheter
 - Kvinna avliden efter brand i källare i Luleå - SVT Nyheter
-- Lagrådet sågar regeringens straffreform - Västerbottens-Kuriren
+- Systrarna inifrån Iran: ”Hör bomber hela tiden” - Aftonbladet
+- Två dog i kollision – kvinna åtalas - Västerbottens-Kuriren
+- Jimmie Åkesson: Pausa tonårsutvisningarna - Dagens Nyheter
+- Landsort kan säljas – S-varningen: "Attraktiv för främmande makt" - Dagens Nyheter
+- Första nya återvandringsbidragen beviljade - Västerbottens-Kuriren
 - Stängdes av från gym – misstänks ha slagit sönder 29 kortläsare - Dagens Nyheter
+- Amerikansk Mellanösternexpert om kriget i Iran: ”Hur slutar man när man väl börjat?” - Yle
 - ”Står på deras sida när USA släpper lös kaos” - SvD
-- Sanna Torén Björling: Zelenskyjs desperata drag – gör en Trump - Dagens Nyheter
-- Första fartyget sänkt av torped på decennier: ”Uppseendeväckande” - Dagens Nyheter
-- Libanon bombas – Hamasledare uppges död - Västerbottens-Kuriren
-- DNB-förvaltare: Saab och Kongsberg kan bli vinnare på utdragen konflikt - Börsvärlden
-- Skanska: Dold rabatt i stabil byggaffär - Affärsvärlden
-- Så tjänar USA på EU:s desperata behov av gas - Dagens Nyheter
+- Dessa städer i Storbritannien löper störst risk att utsättas för en attack från Iran - Dagens.se
+- Dödsdömd svensk övergiven i Irans skräckfängelse - Aftonbladet
+- Nya hotet i kriget: Matprischock väntar - Expressen
+- Tysk betallösning ska få européer att överge Mastercard - Dagens PS
 - Nya bolåneregler i april: ”Kommer underlätta” - Omni
-- (+) Allt om vårens hetaste telefoner och andra prylar: Mobil svarar - mobil.se
-- Oneplus 15T har ett 88 procent större batteri än Iphone 17 Pro - Swedroid
+- Utländska hackare slog till mot regionen – läste anställdas mejl i månader - NWT
+- Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
+- Första trailern för S05 av The Boys är här! Vilket blir seriens sista. - feber.se
 
 ## World News
 
@@ -34,19 +34,19 @@ _Updated: 2026-03-05 18:09_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Corren kan vinna pris för satsningen på unga - Corren
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- 48 städer krokar arm i global klimatomställning - Cision News
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -66,9 +66,9 @@ _Updated: 2026-03-05 18:09_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -103,42 +103,42 @@ _Updated: 2026-03-05 18:09_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-03-05 18:09_
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Patrik Niklasson ny Doggy - Mynewsdesk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- Mjau Svenska Smaker i gele-Sill.jpg - Mynewsdesk
