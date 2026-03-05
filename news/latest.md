@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-06 00:01_
+_Updated: 2026-03-06 01:40_
 
-- DHS Secretary Kristi Noem out, Trump says - Axios
-- U.S.-Israeli strikes continue across Iran; Iranian drones hit Azerbaijan - NPR
-- The American Servicemembers Who Were Killed in Kuwait - WSJ
-- Jimmy Kimmel Takes on ICE Barbie Affair Rumors - The Daily Beast
-- How 2 court rulings this week shifted the tariff refund debate - Yahoo Finance
+- GOP Sen. Steve Daines’ last-minute withdrawal from Senate race was meant to block Democrats from fielding a top-tier recruit - CNN
+- Senate fails to advance bill to end DHS shutdown with House still set to vote - CBS News
 - Pentagon Says It’s Told Anthropic the Firm Is Supply-Chain Risk - Bloomberg.com
-- RFK Jr. pushes medical schools to teach more about nutrition - NBC News
-- Trump says he’ll help pick Iran’s leader, predicts regime change in Cuba - Politico
-- A Political Earthquake Rattles the North Carolina Legislature - The New York Times
-- ‘That’s bad for him to say’: Trump puts Paxton on notice in Texas Senate primary - Politico
 - Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
-- House to vote on Trump's war powers. And, Minnesota sues over halted Medicaid funding - NPR
-- Isolated and under fire: Iran strikes out as Russia and China stand aside - Reuters
-- Iran's high-risk war strategy seems to centre on endurance and deterrence - BBC
-- Susie Wiles sounds the alarm on gas prices - Politico
+- How 2 court rulings this week shifted the tariff refund debate - Yahoo Finance
+- ‘That’s bad for him to say’: Trump puts Paxton on notice in Texas Senate primary - Politico
+- Savannah Guthrie Visits ‘Today,’ Plans a Return to Show - The New York Times
+- RFK Jr. pushes medical schools to teach more about nutrition - NBC News
+- California Governor’s Race: Here’s Who’s Running in 2026 - The New York Times
+- House Democrat moves to impeach Pam Bondi over handling of Epstein files - Axios
+- US and Mideast countries seek Kyiv’s drone expertise as Russia-Ukraine talks put on ice - AP News
+- Israel to attack Iran's underground missile sites in second phase of war, sources say - Reuters
+- Missile Allegedly Fired at Turkey Brings Talk of Article 5 - Newser
+- At least 13 hospitals and health facilities hit during attacks on Iran, WHO says - The Guardian
+- Stock Market Today: Dow Drops More Than 1,000 Points, Oil Pushes Higher on Widening Iran Conflict— Live Updates - WSJ
+- US Mulls Requiring Permits for Global Nvidia, AMD AI Chip Sales - Bloomberg.com
 - Home sellers are relisting properties at fastest pace in a decade, but spring supply is still low - CNBC
-- Why Broadcom Stock Has Done What Nvidia Couldn’t After Earnings - Barron's
-- David Ellison Vows CNN Will Be Independent as Paramount Buys WBD - Variety
+- In leaked audio, Salesforce president says company is 'appropriately adjusting' after Marc Benioff's ICE jokes - Business Insider
 - macOS Tahoe 26.3.1 update will “upgrade” your M5’s CPU to new “super” cores - Ars Technica
-- Google starts shaming apps that drain your battery - Android Authority
+- All of Apple's new launches graded from worst to best - AppleInsider
