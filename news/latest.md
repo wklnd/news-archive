@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-05 21:46_
+_Updated: 2026-03-05 23:05_
 
+- Live updates: Iran war spreads as European nations drawn further in - CNN
 - Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
-- Trump's TikTok deal benefited firms that 'personally enriched' him, lawsuit says - NBC News
-- Live updates: Residents flee Beirut as Israel warns Lebanon’s southern suburbs to evacuate - AP News
-- Trump ballroom vote pushed to April after critics blast 'hideous,' 'appalling,' 'shameful' plans - NBC News
-- Trump mulls Noem firing - Punchbowl News
-- Texas lawmaker admits 'lapse in judgement' in affair with aide - BBC
+- States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court - CNBC
+- Nepalis vote in first election since Gen Z uprising for change - BBC
+- Iran's new Ayatollah vows to 'shed Trump's blood' in chilling televised address - Daily Express US
+- Iran is 'confident' it could counter a U.S. ground invasion, foreign minister says - NBC News
+- Trump fires Kristi Noem as homeland security secretary - NBC News
 - Anthropic Reopens Talks with Pentagon After Feud Over AI Safety - Bloomberg
+- Deliberations Start in Sex-Trafficking Trial of Alexander Brothers - The New York Times
 - RFK Jr. pushes medical schools to teach more about nutrition - NBC News
-- North Carolina Voters Punish Incumbents in Primary Election - The New York Times
-- Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries - The New York Times
-- Live Updates: Trump says he must have a role in choosing Iran's next leader as war expands - CBS News
-- House to vote on Trump's war powers. And, Minnesota sues over halted Medicaid funding - NPR
-- Live. Iran fires its biggest barrage on Qatar, targets UAE in latest missile and drone strikes - Euronews.com
-- Israel says it knocked out Iran’s cyber warfare headquarters - Politico
+- Iran-US war latest: UK refuses to rule out joining strikes as more nations dragged into conflict - The Independent
+- Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India - AP News
+- U.S.-Israeli strikes continue across Iran; Iranian drones hit Azerbaijan - NPR
+- Iranian bombers came within 'two minutes' of striking largest US base in Middle East before Qatari air force shot aircraft down: report - New York Post
+- Stock market today: Dow falls more than 800 points, S&P 500 and Nasdaq sink as Iran war jitters return with another oil surge - Yahoo Finance
 - Susie Wiles sounds the alarm on gas prices - Politico
 - Home sellers are relisting properties at fastest pace in a decade, but spring supply is still low - CNBC
-- US weekly jobless claims unchanged; layoffs decline 55% in February - Yahoo Finance
-- Why Broadcom Stock Has Done What Nvidia Couldn’t After Earnings - Barron's
+- Why Iran war oil price shock won't stop Trump's Fed pick Warsh from cutting interest rates - CNBC
+- Apple unveils lower cost iPhone 17e, raises prices on MacBooks - Fox Business
 - Nothing Phone (4a) series goes official with major Pro upgrades from £349 - 9to5Google
-- WhatsApp will soon join the premium subscription club - Android Police
