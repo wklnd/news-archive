@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 17:25_
+_Updated: 2026-03-05 18:09_
 
 ## Top Stories
 
-- Åkesson: Pausa tonårsutvisningarna - Corren
 - Iranska drönare slog ned i Azerbajdzjan - Hufvudstadsbladet
-- Kritik mot Kolmårdens delfinarium – brister i djurhållningen - SVT Nyheter
-- Europa sänder hjälp mot iranska anfall - Västerbottens-Kuriren
-- Våren är här – men räkna med sju bakslag - Aftonbladet
-- Första nya återvandringsbidragen beviljade - GP
-- Annie Reuterskiöld: Ebba Busch hundvisslar och hoppas på det bästa - Dagens Nyheter
+- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
+- Resebolag har fått hem 20 svenskar – Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Evakueringar på Cypern – fler EU-länder rycker ut till öns försvar - Omni
+- Brister i djurhållningen på Kolmårdens djurpark - Länsstyrelsen
+- Hundratals demonstrerade mot ”orättvisa” utvisningar - GP
+- Jimmie Åkesson: Pausa tonårsutvisningarna - Dagens Nyheter
+- Kvinna avliden efter brand i källare i Luleå - SVT Nyheter
+- Lagrådet sågar regeringens straffreform - Västerbottens-Kuriren
 - Stängdes av från gym – misstänks ha slagit sönder 29 kortläsare - Dagens Nyheter
-- Ålder för cancerscreening ses över - SVT Nyheter
-- Krångliga journalsystem drabbar både patienter och läkare - Altinget.se
+- ”Står på deras sida när USA släpper lös kaos” - SvD
 - Sanna Torén Björling: Zelenskyjs desperata drag – gör en Trump - Dagens Nyheter
-- Libanon bombas – Hamasledare uppges död - Västerbottens-Kuriren
 - Första fartyget sänkt av torped på decennier: ”Uppseendeväckande” - Dagens Nyheter
-- Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
-- Börsen öppnar svagt ned – Systemair rasar på rapport - Dagens industri
-- Vad händer med din ekonomi om kriget kommer? Riksbankschefen Stefan Ingves svarar - e55.se
-- Intellegos handelsstopp hävt – kan handlas utanför börsen - Placera.se
+- Libanon bombas – Hamasledare uppges död - Västerbottens-Kuriren
+- DNB-förvaltare: Saab och Kongsberg kan bli vinnare på utdragen konflikt - Börsvärlden
 - Skanska: Dold rabatt i stabil byggaffär - Affärsvärlden
-- Notebook LM får nu mer filmiska videoöversikter - PC för Alla
+- Så tjänar USA på EU:s desperata behov av gas - Dagens Nyheter
+- Nya bolåneregler i april: ”Kommer underlätta” - Omni
+- (+) Allt om vårens hetaste telefoner och andra prylar: Mobil svarar - mobil.se
 - Oneplus 15T har ett 88 procent större batteri än Iphone 17 Pro - Swedroid
 
 ## World News
 
+- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Corren kan vinna pris för satsningen på unga - Corren
@@ -80,65 +80,65 @@ _Updated: 2026-03-05 17:25_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
-- Finance Minister: Middle East war no threat to Sweden's economy - Sveriges Radio
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Airline SAS announces billions in cuts to regain financial footing - Sveriges Radio
+- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- CGM J4 logga 16_9.jpg - Mynewsdesk
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
