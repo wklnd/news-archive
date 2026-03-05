@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-05 11:25_
+_Updated: 2026-03-05 12:23_
 
+- Israel and Iran launch new strikes as first UK flight bringing citizens home is delayed - BBC
 - Trump Follows His Gut. His National Security Advisers Try to Keep Up. - The New York Times
-- NATO Air Defenses Shoot Down Iranian Missile Headed Toward Turkey - The New York Times
-- How depleted weapons stockpiles could affect the Iran conflict - BBC
-- Scoop: White House casts doubt on Pentagon-Anthropic reconciliation - Axios
+- Why China Won’t Help Iran - Foreign Affairs
+- Anthropic chief back in talks with Pentagon about AI deal - Financial Times
 - Daines Drops Re-election Bid in Montana, Upending a Senate Race - The New York Times
-- Anti-AIPAC group loses first primary test as Rep. Valerie Foushee hangs on - Politico
 - Texas judge declines to close Camp Mystic but bars construction on campus hit by flooding - NBC News
 - Live Updates: Hegseth says U.S. "just getting started" in Iran war as conflict intensifies and spreads - CBS News
+- Anti-AIPAC group loses first primary test as Rep. Valerie Foushee hangs on - Politico
+- Spanish prime minister rebukes Trump’s war in Iran, escalating feud - The Washington Post
 - Britain looks to Frederiksen’s migration plan to neutralize Farage - politico.eu
 - ‘He’s no Winston Churchill’: why Starmer can shrug off Trump’s insults over Iran - The Guardian
+- Iran launches new attacks, saying US will 'bitterly regret' sinking warship, calls for Trump's blood - AP News
 - Israel's president says it's "about time that everybody tells Iran, 'Guys, we're fed up,'" as he lays out goals for war - CBS News
-- Chinese military flights around Taiwan fall, Trump-Xi meeting may be factor - Reuters
-- Europe faces gas storage scramble as Iran conflict tightens supply - Reuters
-- Amazon to cuts jobs in robotics division -- report (AMZN:NASDAQ) - Seeking Alpha
-- Netflix, After Walking Away From Warner Bros. Deal, Will 'Move Forward' With '$2.8 Billion in Our Pocket That We Didn't Have a Few Weeks Ago,' CFO Says - Variety
-- Bruce Johnston Leaves Beach Boys After Six Decades - Pitchfork
-- Love Is Blind Season 10: Alex and Ashley Unpack That Explosive Wedding Rejection - Netflix
-- L.A. Is One Step Closer To Streamlining Local Film & TV Production Processes - Deadline
-- WWE Star Brings Back Original Championship - WrestleTalk
-- Why these 7 NHL teams won’t — but should — make a trade deadline blockbuster - The New York Times
+- Amazon cuts jobs in strategically important robotics division - Business Insider
+- The Numbers Behind Jack Dorsey’s Latest Career Stumble - Forbes
+- FAA to cap flights at Chicago O'Hare to avoid disruptions - The Points Guy
+- Apple Music to add Transparency Tags to distinguish AI music, says report - TechCrunch
+- Pokémon Pokopia Limited-Time Special Event Announced - "More Spores For Hoppip" - Nintendo Life
+- The T-Mobile Samsung Galaxy S26 Ultra "On Us" Deal Explained (No Trade-In or Port-In Required) - IGN
+- Resident Evil Requiem almost hits Street Fighter 6's total sales in days, a reminder that fighting games are still a drop in the bucket - EventHubs
