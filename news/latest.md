@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-05 01:57_
+_Updated: 2026-03-05 05:17_
 
-- US Senate to vote on Trump's war powers as Iran conflict continues - BBC
-- Ali Khamenei’s son Mojtaba favourite to succeed him as Iran’s supreme leader - The Guardian
-- Satellite images show Iran school strike hit more buildings than earlier reported - NPR
-- Top defense officials push back on concerns about U.S. munitions shortage - The Washington Post
-- Russia blames Ukrainian naval drones as tanker sinks in Mediterranean - BBC
-- Americans aren't sold on Iran attacks, new polls show - Axios
-- ICE confirms a measles outbreak in the nation's largest detention facility in Texas - NBC News
-- Colorado Governor Signals He’ll Commute Sentence of Election Denier - The New York Times
-- Dozens of Catholic priests molested hundreds of Rhode Island victims over decades, multiyear investigation reveals - PBS
-- Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden - The New York Times
-- Carney Says That Canada’s Support for Airstrikes Came ‘With Regret’ - The New York Times
-- Iran Claims It Has "Complete Control" Over Strait of Hormuz - Crude Oil Prices Today | OilPrice.com
-- Israel sends troops into southern Lebanon as Hezbollah says it is ready for ‘open war’ - AP News
-- Supply chain disruptions from the Iran war could raise prices for drugs, electronics and more - AP News
-- Trump has an AI data center problem ahead of the midterms — with no easy solutions - CNBC
-- TerraPower Nuclear Reactor in Wyoming Gets Federal Permit - The New York Times
-- CNBC's UK Exchange newsletter: FTSE 100's defensive slant comes into its own - CNBC
-- Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead - The Verge
+- Middle East war: Trump had ‘feeling’ Iran was going to attack US interests, White House says - Financial Times
+- Ayatollah Khamenei’s son, who is front-runner for supreme leader, was treated for impotency, couldn’t find a wife - New York Post
+- WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began - NPR
+- Poll: Majority of voters disapprove of how Trump has handled Iran - NBC News
+- ICE taking steps to close detention center at Fort Bliss, document shows - The Washington Post
+- Sen. Steve Daines announces he will not seek reelection - Politico
+- Second Iowa soldier identified among 6 US service members killed in Iranian strike - KCCI
+- Anti-AIPAC group loses first primary test as Rep. Valerie Foushee hangs on - Politico
+- Canadian PM Mark Carney offers to team up with Australia as ‘strategic cousins’ to push back against dominant superpowers - The Guardian
+- Travelers Stranded by U.S.-Israel Conflict With Iran Face Endless Flight Cancellations - The New York Times
+- Global sea levels have been underestimated due to poor modelling, research suggests - The Guardian
+- Mapping Damage to Iran’s Ballistic Missile Sites With Satellite Images - The New York Times
+- Elon Musk defends himself against accusations of misconduct leading up to Twitter takeover - AP News
+- Top Fed Official, Wary of Inflation, Calls for Extended Rate Pause - The New York Times
+- 4 Trader Joe’s items recalled for possibly containing glass - KTLA
+- China Sets Economy’s Growth Target Below 5% for First Time in Decades - The New York Times
+- Motorola's Razr Fold price is finally confirmed, and it's... not as low as expected - PhoneArena
 - Google Pixel 10a review: Better than you’ve heard - 9to5Google
-- Google’s latest Pixel drop allows Gemini to order groceries for you and more - The Verge
+- LG reveals pricing for its 2026 OLED TVs - Engadget
+- Ubisoft, NASCAR announce collaboration with The Crew Motorfest - NASCAR.com
