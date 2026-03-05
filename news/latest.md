@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-05 14:00_
+_Updated: 2026-03-05 15:47_
 
-- Live Updates: Hegseth says U.S. "just getting started" in Iran war as conflict intensifies and spreads - CBS News
-- Americans aren't sold on Iran attacks, new polls show - Axios
+- Pro-American Kurdish Forces Are Preparing Possible Iran Incursion - The New York Times - The New York Times
 - Spanish prime minister rebukes Trump’s war in Iran, escalating feud - The Washington Post
-- Pakistani man says Iran forced him into plot to kill Trump, media say - Reuters
-- Daines Drops Re-election Bid in Montana, Upending a Senate Race - The New York Times
-- ‘This L is on her’: Black lawmakers and strategists dump on Crockett - Politico
-- Anti-AIPAC group loses first primary test as Rep. Valerie Foushee hangs on - Politico
-- Trump Follows His Gut. His National Security Advisers Try to Keep Up. - The New York Times
-- Britain looks to Frederiksen’s migration plan to neutralize Farage - politico.eu
-- Exclusive: Ukraine's F-16 jets were starved of US-made missiles for weeks - Reuters
-- Israel's president says it's "about time that everybody tells Iran, 'Guys, we're fed up,'" as he lays out goals for war - CBS News
-- Europe faces gas storage scramble as Iran conflict tightens supply - Reuters
-- Bettors wagered $54 million on Khamenei’s death. Now they’re not getting paid. - The Washington Post
-- Having Fired 57,000 Humans, Amazon (AMZN) Now Sets Its Sights on the Company’s Robots - TipRanks
-- Trump tells AI companies they need ‘PR help’ over data centre backlash - Financial Times
-- Apple's Two New Studio Display Models Feature Different A19 Chips - MacRumors
-- Apple Music introduces metadata tags to disclose AI-generated content - 9to5Mac
-- Google Search rolls out Gemini’s Canvas in AI Mode to all US users - TechCrunch
+- China Sets Economy’s Growth Target Below 5% for First Time in Decades - The New York Times - The New York Times
+- "Come to work": A primary fight between House Democrats in Texas turns nasty - Axios
+- How depleted weapons stockpiles could affect the Iran conflict - BBC
+- Three women found dead in apparent homicides in Wayne County; suspect at large - KUTV
+- RFK Jr. pushes medical schools to teach more about nutrition - NBC News
+- Man accused of plot to assassinate Trump testifies Iran pressured him, says Biden and Haley were other possible targets - CBS News
+- Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries - The New York Times - The New York Times
+- Iran’s Underground ‘Missile Cities’ Have Become One of Its Biggest Vulnerabilities - WSJ
+- Hardline cleric Arafi joins wartime leadership as Iran juggles conflict, succession - Reuters
+- Travelers Stranded by U.S.-Israel Conflict With Iran Face Endless Flight Cancellations - The New York Times
+- Donald Trump Begs War-Torn Country for Help on Iran - The Daily Beast
+- Eli Lilly launches program to help boost employer coverage of obesity drugs in U.S. - CNBC
+- Susie Wiles sounds the alarm on gas prices - Politico
+- The Block layoffs are just the beginning - Business Insider
+- Just three companies dominated the $189B in VC investments last month - TechCrunch
+- Apple Music to add Transparency Tags to distinguish AI music, says report - TechCrunch
 - OpenAI brings its Codex coding app to Windows - Engadget
-- 'The Bride!' Review: Jessie Buckley in Maggie Gyllenhaal Horror - The Hollywood Reporter
+- Nothing Phone (4a) Pro teaser hints at return of the Glyph Matrix display - 9to5Google
