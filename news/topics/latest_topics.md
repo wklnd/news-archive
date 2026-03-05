@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 20:26_
+_Updated: 2026-03-05 21:42_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Källa: Trump uppmanar kurderna att välja sida - Dagens Nyheter
-- Iran: ”Över tusen personer har dödats i kriget” - Omni
-- Här är fem stora demokratier som är emot Trumps krig mot Iran - Dagens Nyheter
-- Kvinna avliden efter brand i källare i Luleå - SVT Nyheter
-- Systrarna inifrån Iran: ”Hör bomber hela tiden” - Aftonbladet
-- Två dog i kollision – kvinna åtalas - Västerbottens-Kuriren
+- Somar Al Naher: Irakkriget visar vad som väntar iranierna - ETC.se
+- Göteborg donerar 40 spårvagnar till Ukraina - SVT Nyheter
+- Två tunnor blir tre i Täby – redan i höst - Mitt i
+- Mordmisstänkta mannen släpps fri – utredningen fortsätter - KT-Kuriren
+- JUST NU: Skolverkets generaldirektör avgår - Vi Lärare
+- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
 - Jimmie Åkesson: Pausa tonårsutvisningarna - Dagens Nyheter
+- Kvinna avliden efter brand i källare i Luleå - SVT Nyheter
 - Landsort kan säljas – S-varningen: "Attraktiv för främmande makt" - Dagens Nyheter
-- Första nya återvandringsbidragen beviljade - Västerbottens-Kuriren
 - Stängdes av från gym – misstänks ha slagit sönder 29 kortläsare - Dagens Nyheter
-- Amerikansk Mellanösternexpert om kriget i Iran: ”Hur slutar man när man väl börjat?” - Yle
-- ”Står på deras sida när USA släpper lös kaos” - SvD
+- DN Direkt – EU stoppar vegetarisk ”bacon” men tillåter korv - Dagens Nyheter
 - Dessa städer i Storbritannien löper störst risk att utsättas för en attack från Iran - Dagens.se
+- De hoppas på frihet för kvinnor – men är oense om USA:s krig - Yle
 - Dödsdömd svensk övergiven i Irans skräckfängelse - Aftonbladet
-- Nya hotet i kriget: Matprischock väntar - Expressen
-- Tysk betallösning ska få européer att överge Mastercard - Dagens PS
-- Nya bolåneregler i april: ”Kommer underlätta” - Omni
-- Utländska hackare slog till mot regionen – läste anställdas mejl i månader - NWT
+- Flygande turbiner ger vindkraft i Kina - Dagens PS
+- Pontus smarta trick gav honom nytt jobb efter 60 - Expressen
+- Nya bolåneregler – så här påverkas du - Aftonbladet
+- ”ChatGPT – med rätt att döda?” - SVT Nyheter
+- JUST NU: Prinsessan Madeleines nya kungliga uppdrag - Svensk Damtidning
 - Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
-- Första trailern för S05 av The Boys är här! Vilket blir seriens sista. - feber.se
 
 ## World News
 
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
@@ -58,8 +58,8 @@ _Updated: 2026-03-05 20:26_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -151,7 +151,7 @@ _Updated: 2026-03-05 20:26_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
