@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 12:07_
+_Updated: 2026-03-05 13:07_
 
 ## Top Stories
 
-- Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
-- Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
-- Utrikesministern om Djalali: Mycket orolig - SvD
-- Irankriget: Fartyg i lågor och väpnad milis - GP
-- Saab-personal fast i Abu Dhabi: "Ansträngd situation" - Corren
-- Nato tappar mest i Förtroendebarometern 2026 - GP
+- Iranska drönare slog ned i Azerbajdzjan - Västerbottens-Kuriren
+- Liverrapport: Hennes berättelse om livet med bonusprinsen fortsätter - Aftonbladet
+- ”Kina stärks – utan att de behöver göra något” - SvD
+- Uppgifter: USA beväpnar kurder i hopp om uppror - GP
+- Direkt – Krisen i Mellanöstern – Iran: Attackerat amerikanskt fartyg - Dagens Nyheter
+- Våren är här – men räkna med sju bakslag - Aftonbladet
 - Fössta tossdan i mass: ”Inget fel att prata vår dialekt” - SVT Nyheter
-- Ann-Sofie Hermansson: Min väns varning kom 20 år för tidigt - Fokus - Sveriges nyhetsmagasin
+- Annie Reuterskiöld: Ebba Busch hundvisslar och hoppas på det bästa - Dagens Nyheter
+- Krångliga journalsystem drabbar både patienter och läkare - Altinget.se
 - 05 mars 07.16, Sammanfattning natt, Västernorrlands län - polisen.se
-- Ung man anhållen för misshandel mot flickvän - Nerikes Allehanda
-- Direkt – Krisen i Mellanöstern – Luftanfall mot södra Beirut - Dagens Nyheter
+- Libanon bombas – Hamasledare uppges död - Västerbottens-Kuriren
 - Kinas femårsplan visar: mål med elbilar nu uppnått - Elbilen
 - Soldaterna larmar: ”Trump är utsedd av Jesus” - Expressen
-- Ukraina har befriat 460 km2 - rysk helikopter nedskjuten av ryssarna - 10 MEUR i borgen för att Belgien ska släppa rysk skuggflottetanker - cornucopia.se
-- Gapet visar hemlighet på börsen - SvD
-- Svenskarnas förmögenhet på rekordnivåer - Expressen
+- S-ledaren: Har inte sagt ja till kärnvapensamtal - ETC.se
 - Gates bakom nytt privat kärnkraftverk i USA - Dagens PS
 - Svenska företag har svårt att hitta rätt AI-kompetens - Omni
+- Ny stor studie av arbetstidsförkortning - Prevent - arbetsmiljö i samverkan
+- Otroliga räckvidden i elbilen – efter 50 000 mil - Carup.se
+- Open AI släpper kodverktyget Codex för Windows - PC för Alla
 - Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
-- Tiktok kommer inte lägga till totalsträckskryptering för direktmeddelanden - m3.se
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-03-05 12:07_
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -41,6 +40,7 @@ _Updated: 2026-03-05 12:07_
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -55,8 +55,8 @@ _Updated: 2026-03-05 12:07_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
@@ -119,46 +119,46 @@ _Updated: 2026-03-05 12:07_
 
 ## Science
 
-- Olika slutsatser från samma data - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- PRM v 154.jpg - Mynewsdesk
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Här är världens största jordbruk - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- PRM v 154.jpg - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Tält.jpg - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Patrik Niklasson ny Doggy - Mynewsdesk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
