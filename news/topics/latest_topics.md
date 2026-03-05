@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 08:07_
+_Updated: 2026-03-05 09:25_
 
 ## Top Stories
 
-- Tjörnbron fick stängas efter bombhot - Västerbottens-Kuriren
 - Ebba Busch: “Jättefå bär niqab – men det är ett kanonstort problem” - Dagens Nyheter
-- Hon får full lön första sjukdagen – han förlorar 1 500 spänn - Sydsvenskan
-- Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Tjörnbron stängdes av efter bombhot - SVT Nyheter
+- Iran avfyrar nya robotar mot Israel - Västerbottens-Kuriren
+- Nato tappar mest i Förtroendebarometern 2026 - GP
 - Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
-- Klart: Våren har kommit till Stockholm - SvD
-- Trafikolycka på E14 – krockade med vilt - Östersunds-Posten
+- Roberts familj fast i Doha – fick inte prata med kristeamet: ”Hjälplösa” - Aftonbladet
+- 05 mars 07.16, Sammanfattning natt, Västernorrlands län - polisen.se
 - Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
 - Skoterolycka i Härjedalen – föraren till sjukhus - SVT Nyheter
-- M-politiker föll ihop i riksdagen – Senaste nytt om valet 2026 - SVT Nyheter
+- ”Vi krävde bara vår rätt och fick kulor som svar” - Dagens Nyheter
 - Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
+- UPPGIFTER: Kina slår till mot Iran - Marcus Oscarsson
 - Märkligt bråk mellan Trump och Spanien - Expressen
-- Macrons strategi – första steg mot EU-bomber? - GP
-- Försökte fängsla Biden – på grund av pennan - Expressen
-- Ny stor studie av arbetstidsförkortning - Prevent - arbetsmiljö i samverkan
-- Domare: Bolag har rätt till återbetalning av Trumptullar - Omni
-- Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
-- Fortsatta ras i Asien under onsdagsmorgonen - Volvo EX60 verkar sälja - bostadspriserna steg i februari - cornucopia.se
+- Hemlighet på börsen – en faktor avgör mellan jättevinst och förlust | Björn Jeffery - SvD
+- Euron utmanar dollarn – kan slå mot Europas export - Dagens PS
+- Kriget kan ta ifrån Trump hans viktigaste vallöfte - EFN
+- Advokatens SvD-attack: ”Uppstår en oklarhet” - SvD
+- 9 snabba program för en långsam pc - PC för Alla
 - Här är LG:s OLED-modeller för 2026 – för första gången i Europa - LG OLED G6 och C6 närmar sig - Ljud & Bild
 - Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
 
@@ -31,22 +31,22 @@ _Updated: 2026-03-05 08:07_
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global drogsajt stängd – svenskar gripna - Drugnews
 
 ## Technology
 
