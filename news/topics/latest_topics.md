@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 15:42_
+_Updated: 2026-03-05 17:25_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Över 100 flyg ska lämna Dubai - Dagens Nyheter
-- Iran: Anfall mot amerikanskt tankfartyg - GP
-- Påstigning fram på Lunds stadsbussar för att minska fuskåkandet - NewsMachine AB
-- Kriget rubbar inte Kina – ”följer egna planer” - SvD
-- Europa sänder hjälp mot iranska anfall - GP
-- Cyklist död efter olycka i Malmö - GP
-- Fössta tossdan i mass: ”Inget fel att prata vår dialekt” - SVT Nyheter
+- Åkesson: Pausa tonårsutvisningarna - Corren
+- Iranska drönare slog ned i Azerbajdzjan - Hufvudstadsbladet
+- Kritik mot Kolmårdens delfinarium – brister i djurhållningen - SVT Nyheter
+- Europa sänder hjälp mot iranska anfall - Västerbottens-Kuriren
+- Våren är här – men räkna med sju bakslag - Aftonbladet
+- Första nya återvandringsbidragen beviljade - GP
 - Annie Reuterskiöld: Ebba Busch hundvisslar och hoppas på det bästa - Dagens Nyheter
-- Polisbilar med radar ska fånga fler fortkörare - Västerviks-Tidningen
-- Ebba Busch: ”Jättefå bär niqab – men det är ett kanonstort problem” - Dagens Nyheter
-- Libanon bombas – Hamasledare uppges död - GP
+- Stängdes av från gym – misstänks ha slagit sönder 29 kortläsare - Dagens Nyheter
+- Ålder för cancerscreening ses över - SVT Nyheter
+- Krångliga journalsystem drabbar både patienter och läkare - Altinget.se
 - Sanna Torén Björling: Zelenskyjs desperata drag – gör en Trump - Dagens Nyheter
-- Cyklist död efter krock med lastbil i Malmö - Expressen
+- Libanon bombas – Hamasledare uppges död - Västerbottens-Kuriren
+- Första fartyget sänkt av torped på decennier: ”Uppseendeväckande” - Dagens Nyheter
 - Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
-- Var inte glad för skatteåterbäringen! - GP
+- Börsen öppnar svagt ned – Systemair rasar på rapport - Dagens industri
+- Vad händer med din ekonomi om kriget kommer? Riksbankschefen Stefan Ingves svarar - e55.se
+- Intellegos handelsstopp hävt – kan handlas utanför börsen - Placera.se
 - Skanska: Dold rabatt i stabil byggaffär - Affärsvärlden
-- ”Får man ut sin lön om det blir krig i Sverige?” – Stefan Ingves svarar - Dagens Nyheter
-- Chrome ska börja uppdateras varannan vecka - Computer Sweden
+- Notebook LM får nu mer filmiska videoöversikter - PC för Alla
 - Oneplus 15T har ett 88 procent större batteri än Iphone 17 Pro - Swedroid
-- Bekräftat: ”Assassin’s Creed Black flag” gör comeback - Aftonbladet
 
 ## World News
 
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -37,11 +36,12 @@ _Updated: 2026-03-05 15:42_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Corren kan vinna pris för satsningen på unga - Corren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
@@ -51,19 +51,19 @@ _Updated: 2026-03-05 15:42_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -97,48 +97,48 @@ _Updated: 2026-03-05 15:42_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Johan von Schreeb - Karolinska Institutet
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 
 ## Science
 
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
