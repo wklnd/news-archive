@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-05 07:00_
+_Updated: 2026-03-05 08:07_
 
 ## Top Stories
 
-- Tjörnbron fick stängas – efter bombhot - GP
-- Ulf Kristersson äter glass medan Mellanöstern brinner - Aftonbladet
-- Lavin gick i Tegefjäll: ”Cirka 200 meter bred” - Östersunds-Posten
-- Handgranat hittad hos bilfirma på Jägersro - Sydsvenskan
-- Utredare föreslår straffavgift för skattehöjande kommuner – Senaste nytt om valet 2026 - SVT Nyheter
-- Birgitta Rubin: 30 års kris på Världskulturmuseerna måste lösas vettigt - Dagens Nyheter
-- Pengar på väg till dessa svenskar: Får 350 000 kronor extra utbetalt i 3 omgångar - Dagens.se
-- Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
+- Tjörnbron fick stängas efter bombhot - Västerbottens-Kuriren
+- Ebba Busch: “Jättefå bär niqab – men det är ett kanonstort problem” - Dagens Nyheter
+- Hon får full lön första sjukdagen – han förlorar 1 500 spänn - Sydsvenskan
+- Senaste nytt om Iran och konflikten med USA och Israel - SVT Nyheter
+- Försäkringskassan föreslås få en ”bidragspolis” - Sydsvenskan
+- Klart: Våren har kommit till Stockholm - SvD
 - Trafikolycka på E14 – krockade med vilt - Östersunds-Posten
+- Topp tre i landet – nytt högt förtroende för vården i länet - Dagens Vimmerby
 - Skoterolycka i Härjedalen – föraren till sjukhus - SVT Nyheter
+- M-politiker föll ihop i riksdagen – Senaste nytt om valet 2026 - SVT Nyheter
+- Kurdisk aktivist: Vi är redo att gå med i kriget - Dagens Nyheter
+- Märkligt bråk mellan Trump och Spanien - Expressen
 - Macrons strategi – första steg mot EU-bomber? - GP
-- Vakterna låste och gick - Expressen
 - Försökte fängsla Biden – på grund av pennan - Expressen
-- Turkiet: Robot från Iran stoppad - Aftonbladet
-- Reptilanalys visar: här är techvinnarna - SvD
 - Ny stor studie av arbetstidsförkortning - Prevent - arbetsmiljö i samverkan
+- Domare: Bolag har rätt till återbetalning av Trumptullar - Omni
 - Svenska arbetsgivare: AI-kompetens större bristvara än it-kompetens - Computer Sweden
-- Bessent: 15% tullar väntas införas i veckan - Placera.se
+- Fortsatta ras i Asien under onsdagsmorgonen - Volvo EX60 verkar sälja - bostadspriserna steg i februari - cornucopia.se
 - Här är LG:s OLED-modeller för 2026 – för första gången i Europa - LG OLED G6 och C6 närmar sig - Ljud & Bild
 - Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
 
 ## World News
 
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- » GMMP: Global backlash syns i världens medier - Fempers
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -104,41 +104,41 @@ _Updated: 2026-03-05 07:00_
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
