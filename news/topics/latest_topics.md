@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 09:58_
+_Updated: 2026-03-06 11:03_
 
 ## Top Stories
 
-- Tjejerna fast i Dubai: ”Sverige sitter bara och väntar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Som Timbroprofilen sa: Nu riskerar M att framstå som en lydig hund. - GP
+- Rapport: Stora skillnader i vård för barn med adhd - GP
+- Explosion vid bostad i Göteborg - Västerbottens-Kuriren
 - Därför får vårdcentralen i Angered sämst betyg i Göteborg - GP
 - Deras pappa hittades död i källaren – nu berättar systrarna om mattmordet - Dagens Nyheter
-- Låg död på LSS-boende i fyra dygn - Västerbottens-Kuriren
-- Fortsatt ökning av bröstcancer globalt - GP
-- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
+- Fortsatt svårt få hem svenskar: ”Minutbevakar” - GP
 - Digitalt EU sjukförsäkringskort ska ge ökad rörlighet och enklare vård på resan - Regeringen.se
+- Barn påkört i centrala Stockholm - SVT Nyheter
 - Förslag om tonårsutvisningar presenteras i dag – Senaste nytt om valet 2026 - SVT Nyheter
 - 06 mars 07.26, Sammanfattning natt, Västernorrlands län - polisen.se
-- Ännu ett fuskande vårdbolag - Proletären
-- Uppgifter: Rökutveckling i Riyad efter hot - Omni
-- Trump sparkar Kristi Noem – utser efterträdare - Omni
-- Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
-- Trump förskjuter gamla kompisen - Expressen
-- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
+- DN Direkt – Turist drunknade efter dingoattack i Australien - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
+- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
+- Mats Qviberg: UD har ingen skyldighet att hjälpa puckon - Fokus - Sveriges nyhetsmagasin
+- Miljardärens lager: 16 000 kilo guld - Dagens PS
+- Panelen: Vad skulle en allmän arbetstidsförkortning betyda för dig och för samhället i stort? - tidningensyre.se
 - Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
-- Faktisk månadslön - Fakta och fördjupning 2026 - lo.se
-- 50 000 bilkunder kan få pengar tillbaka – KO kräver återbetalning från DNB - e55.se
+- EU-kommissionen: Minska beroendet av Kina och USA - Bussmagasinet
 - Inga fler problem med programvara: Dirac Live flyttar in hos HiFi Klubben - Ljud & Bild
 - MYSTERIET: Vårstanken inte bara hundbajs – professorns oväntade svar - NWT
 
@@ -29,40 +29,40 @@ _Updated: 2026-03-06 09:58_
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
@@ -122,19 +122,19 @@ _Updated: 2026-03-06 09:58_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -153,12 +153,12 @@ _Updated: 2026-03-06 09:58_
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
