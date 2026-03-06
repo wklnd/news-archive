@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 08:05_
+_Updated: 2026-03-06 09:12_
 
 ## Top Stories
 
 - DN Direkt – Kristerssons besked: Stopp för barn på Tiktok - Dagens Nyheter
-- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
-- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
+- Därför får vårdcentralen i Angered sämst betyg i Göteborg - GP
 - Deras pappa hittades död i källaren – nu berättar systrarna om mattmordet - Dagens Nyheter
-- Fortsatt ökning av bröstcancer globalt - GP
+- Låg död på LSS-boende i fyra dygn - Västerbottens-Kuriren
+- DN Direkt – Trump planerar att sparka Kristi Noem - Dagens Nyheter
+- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
 - Förslag om tonårsutvisningar presenteras i dag – Senaste nytt om valet 2026 - SVT Nyheter
 - Ännu ett fuskande vårdbolag - Proletären
-- Knark för miljarder borta – fräcka kuppen mot gänget - Expressen
-- Spelet bakom planerna på nytt fängelse - Sundsvalls Tidning
-- 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
-- USA och Venezuela fördjupar relation - SVT Nyheter
-- Ingmar Nevéus: Till sist blev Kristi Noem som en kvinnlig Trumpkopia - Dagens Nyheter
-- Trump förskjuter gamla kompisen - Expressen
-- Kriget mot Iran skakar Dubais affärsmodell - Realtid
-- Nya bolåneregler – så här påverkas du - Aftonbladet
+- 06 mars 07.26, Sammanfattning natt, Västernorrlands län - polisen.se
+- Explosion vid bostad i Kvillebäcken på Hisingen - GP
+- Därför har dansen blivit ett politiskt språk i Iran 5 mars 2026 - P1 Kultur - Sveriges Radio
+- Uppgifter: Rökutveckling i Riyad efter hot - Omni
+- DN Direkt – USA-minister till Venezuela för mineralmöte - Dagens Nyheter
+- Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
+- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
+- 50 000 bilkunder kan få pengar tillbaka – KO kräver återbetalning från DNB - e55.se
 - Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
 - Det borde vara omöjligt: Nytt jättefynd i närliggande solsystem är en gåta för astronomer - Illustrerad Vetenskap
-- Apple har precis presenterat en ny iPad Air med M4 – här är allt som är nytt - TechRadar
-- Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
-- Navigera med Star Trek - mobil.se
+- Nothings nya hörlurar erbjuder 135 timmars batteritid - Swedroid
+- Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- NT kan vinna pris för satsningen på unga - NT
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -38,6 +37,7 @@ _Updated: 2026-03-06 08:05_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -45,7 +45,7 @@ _Updated: 2026-03-06 08:05_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 
 ## Technology
@@ -101,7 +101,7 @@ _Updated: 2026-03-06 08:05_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
