@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-06 05:54_
+_Updated: 2026-03-06 07:34_
 
-- Live updates: US and Israel signal that attacks on Iran will intensify - CNN
-- Israeli evacuation order for Beirut's southern suburbs sparks panic - BBC
-- Mike Johnson calls on Tony Gonzales to drop out after affair with staffer - Axios
-- Anthropic officially designated a supply chain risk by Pentagon - BBC
-- Canada's Mark Carney under fire as ‘all over the place’ on Iran, risking wider US rift - Fox News
-- Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails - The New York Times
-- GOP restrainers say Trump abandoned them - Politico
 - Live Updates: As Iran war expands, Trump says he must have a role in choosing the country's next leader - CBS News
-- 'More surprises ahead': IDF chief Zamir signals escalation as war enters a new phase - ynetnews
+- Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times
+- Texas Representative Tony Gonzales Will Not Seek Re-election - The New York Times
+- Pregnant women in ERs took less Tylenol after Trump autism warning - NPR
+- U.S. and Venezuela reach historic agreement to re-establish diplomatic ties - Axios
+- Iowa man who killed 3 Utah women said 'it had to be done,' charges say - KSL.com
+- Bernard LaFayette, Selma voting rights organizer, has died - CNN
+- GOP restrainers say Trump abandoned them - Politico
+- Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked Memo - WSJ
+- Lev Parnas Running for Congress as a Democrat in Florida - The New York Times
 - Iran appeared to surveil center where U.S. forces were killed in Kuwait, Army memo says - CBS News
-- Nepalis vote in first election since Gen Z uprising for change - BBC
-- FDA Push for Fake Brain Surgery Trial Spurs Ethical Concerns - Bloomberg
-- Oaktree's Howard Marks says there's no systemic problem with private credit - CNBC
-- Exclusive | Baby-faced Goldman Sachs bankers could be fired over ‘unauthorized’ magazine photo shoots: sources - New York Post
-- Prediction markets are playing a dangerous game - The Verge
-- First MacBook Neo Benchmarks Are In: Here's How It Compares the M1 MacBook Air - MacRumors
-- macOS Tahoe 26.3.1 update will “upgrade” your M5’s CPU to new “super” cores - Ars Technica
-- Oura acquires Doublepoint, a startup that specializes in gesture recognition technology - TechCrunch
+- Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
+- Exclusive: Azerbaijan wants "official explanation" from Iran after drone attack - Axios
+- At least 13 hospitals and health facilities hit during attacks on Iran, WHO says - The Guardian
+- US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Bloomberg
+- Historic winter storms weigh on Gap, Old Navy performance after 800 temporary store closures - CNBC
+- How $800 Monthly Car Payments Are Hurting Car Sales - The New York Times
+- Asian Stocks to Fall, Oil Climbs as Conflict Rages: Markets Wrap - Bloomberg
 - Ditto Plushies Have Invaded Our Heart Right In Time For Pokopia Fever - Kotaku
-- Anonymous Oscar Ballots Reveal Sinners, One Battle After Another in Tight Race - Variety
+- Claim the Vapid Firebolt ASP Off-Roader and Much More with GTA+ - Rockstar Games
