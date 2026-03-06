@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-06 16:22_
+_Updated: 2026-03-06 17:20_
 
-- Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked Memo - WSJ
+- Officer seriously wounded in Lebanon as strikes pound Hezbollah bastion near Beirut - The Times of Israel
 - Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- Pete Hegseth’s ‘Politically Correct Wars’ Rant Has People Asking 1 Big Question - HuffPost
 - Russian Offensive Campaign Assessment, March 5, 2026 - Institute for the Study of War
-- U.S. and Venezuela reach historic agreement to re-establish diplomatic ties - Axios
-- Israel pounds Beirut in expansion of war; Iran says countries have begun mediation efforts - Reuters
 - Forecast: More sloppy weather to create a slick evening and morning commute - WBUR
-- Massive war price tag could be a massive problem for GOP leaders - Politico
 - Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times - Los Angeles Times
-- US aims to exhume and identify 88 USS Arizona crew members buried as unknowns after Pearl Harbor - AP News
-- Florida college Republicans group chat reveals racist texts: ‘Avoid the coloreds like the plague’ - The Guardian
+- People love to hate changing clocks twice a year, but can’t agree how to fix it - AP News
+- Jury deliberating at sex trafficking trial of the Alexander brothers, real estate’s ‘A Team’ - AP News
 - 4 Men Arrested on Suspicion of Spying on Jews in London for Iran - The New York Times
-- Finland plans to lift decades-old ban on hosting nuclear weapons - BBC
+- Khamenei’s Killing Sparks Anger and Grief in South Asia’s Shiite Muslims - The New York Times
 - As Trump Out-Putins Putin, Russia’s Global Influence Erodes - The New York Times
-- The Iran War Is Hitting Gulf Markets, Lifting Israel and Shifting Risk Across the Region - WSJ
-- The Kalshi and Polymarket CEO feud: They hate each other - NPR
+- Gulf food strategy tested as Iran war snarls shipping routes - Reuters
 - U.S. Gas Prices, Up 11% in a Week, Pile Pressure on Trump - The New York Times
-- Qatar energy minister warns war will force Gulf to halt energy exports within weeks, FT says - Reuters
-- Jet fuel's huge price surge points to coming pain from Iran war - Reuters
-- Google makes Gmail, Drive, and Docs ‘agent-ready’ for OpenClaw - PCWorld
-- Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything
+- Retail sales fell more than expected in January, biggest drop in eight months - CNN
+- What the Iran war market turmoil means for those nearing retirement - CNBC
+- Mark Zuckerberg says criminal behavior on Facebook inevitable - The Guardian
+- Apple Announces New Collaboration With Sydney Opera House - MacRumors
+- Copilot swallows your browser. You're welcome - theregister.com
+- Meet your new phone away from phone - The Verge
+- Missing From Apple's Announcements: iPad 12 With Apple Intelligence - MacRumors
