@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 16:08_
+_Updated: 2026-03-06 17:04_
 
 ## Top Stories
 
-- Chartrat plan ska hämta svenskar i Dubai – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Efter kritiken – åldersgränser för screening ses över - Dagens Nyheter
-- Finland pratar om kärnvapen - 8 Sidor
+- IDF: Khameneis bunker förstörd – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Hovrätten ändrar – mördare får livstid - Västerbottens-Kuriren
 - Försäkringskassan föreslås bli ”bidragspolis” - Publikt
+- Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
 - Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
-- Ukrainska drönarexperter till Mellanöstern - GP
+- Ukrainska drönarexperter till Mellanöstern - Dagens Nyheter
 - 06 mars 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
+- Museer kritiserar ny hyra: ”Blir mycket högre” - GP
 - Nytt besked om batterifabrikens utsläpp – Senior materials behöver ny dispens - Ny Teknik
-- Tidölaget skärper strypgreppet mot välfärden - internationalen.se
-- Hovrätten ändrar dom – Henrik Bergström döms till livstid - Expressen
-- SVT:s korrespondent: Panik i massevakueringar i Libanon - SVT Nyheter
-- Fyra gripna i Storbritannien – ska ha spionerat på judar för Iran - GP
-- Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
-- Tågstopp mellan Stockholm – Göteborg/Malmö - Expressen
+- FRA: En ”ännu farligare tid” väntar Sverige - Dagens Nyheter
+- Chartrat plan ska hämta svenskar i Dubai – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Høiby: Minns att jag tog strypgrepp på henne - Västerbottens-Kuriren
+- Trump kräver ”villkorslös kapitulation” av Iran - GP
+- Här är fem stora demokratier som är emot Trumps krig mot Iran - Dagens Nyheter
 - Tror på blodbad: ”Ingen poäng att finnas kvar” - SvD
-- EQT tittar på NAVTOR – miljardaffär kan vänta - Affärsvärlden
-- ”Om alla jobbar fyra dagar med bibehållen lön blir vi fattigare” - Tidningen Näringslivet
+- EQT tittar på shippingbolag – miljardaffär väntas - Affärsvärlden
+- Börsen faller – oväntat svag jobbsiffra: ”Fed i svår sits” - EFN
+- Fler sparar i stablecoins – kan vara mer lönsamt än sparkonton - Dagens PS
 - Så blir Apples nya billigare Macbook - Dagens industri
 - Ikea börjar sälja minihögtalaren Kallsup för 59 kronor styck - Swedroid
-- Mobilrebell utan USA och Kina har fått fart: 10 000 har redan beställt - Realtid
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2026-03-06 16:08_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Corren kan vinna pris för satsningen på unga - Corren
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
