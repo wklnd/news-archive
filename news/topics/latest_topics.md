@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 20:00_
+_Updated: 2026-03-06 21:09_
 
 ## Top Stories
 
 - Polischef har kopplingar till misstänkt i narkotikahärva - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Ving flyger hem 300 strandsatta resenärer - Dagens Nyheter
 - Kristersson tog två katter i nackskinnet - SvD
-- Trump tycks backa om marktrupper: ”Ett slöseri” - Omni
-- I ett underjordiskt garage försöker sjukhusclownen muntra upp sjuka barn - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Ving flyger hem 300 strandsatta resenärer - Dagens Nyheter
 - Här är Göteborgs nya tågstation – inifrån - GP
+- I ett underjordiskt garage försöker sjukhusclownen muntra upp sjuka barn - Dagens Nyheter
+- Trump: Kuba kan falla inom kort - CNN - Placera.se
 - Barns uppväxtvillkor i utanförskapsområden ska kartläggas - Regeringen.se
+- Regeringen inför ändringar för spårbytare: ”Har gett orimliga konsekvenser” - Omni
 - Flera fel i Kirunas nya badhus – kostar 42 miljoner - Dagens Nyheter
-- 06 mars 13.38, Trafikkontroll, Västernorrlands län - polisen.se
-- KU:s utfrågningar om granskningsärenden 2026 - Riksdagen
+- Nytt besked om batterifabrikens utsläpp – Senior materials behöver ny dispens - Ny Teknik
 - Direkt – Krisen i Mellanöstern – Drönare slog ned nära oljeanläggningar i Irak - Dagens Nyheter
-- Trump kräver ”villkorslös kapitulation” av Iran - GP
+- Høiby: Minns att jag tog strypgrepp på henne - GP
+- Island håller folkomröstning om EU den 29 augusti - Yle
 - Direkt – Krisen i Mellanöstern – Misstänks ha spionerat på judiska mål i London – fyra gripna - Dagens Nyheter
-- Stabilitet blir lätt en ursäkt för att fega ur - SvD
-- Premiummärke stoppar el-SUV i Sverige efter svag försäljning - Dagens PS
+- Smarta glasögon delar innehåll – Meta stäms - Sydsvenskan
 - ”Om alla jobbar fyra dagar med bibehållen lön blir vi fattigare” - Tidningen Näringslivet
 - Bortom Visa och Mastercard: Nya EU-betalningar intar e-handeln - Ehandel.se
-- Amerikanska regeringen vägrar återbetala tullar - Placera.se
+- Novakand byter spår med förnyat forskningsfokus - Placera.se
+- Vårens stora actionspel hade varit perfekt – om inte för en frustrerande detalj - MovieZine
 - Galaxy S26-serien sätter förbeställningsrekord i Sydkorea, börjar säljas i Sverige - Swedroid
-- Mobilrebell utan USA och Kina har fått fart: 10 000 har redan beställt - Realtid
 
 ## World News
 
@@ -51,18 +51,18 @@ _Updated: 2026-03-06 20:00_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
