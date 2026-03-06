@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 06:55_
+_Updated: 2026-03-06 08:05_
 
 ## Top Stories
 
-- DN Direkt – Trump planerar att sparka Kristi Noem - Dagens Nyheter
-- Kristerssons besked: Stopp för barn på Tiktok - SvD
-- Fortsatt ökning av bröstcancer globalt - Västerbottens-Kuriren
-- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
-- ”Vi har aldrig sett så många laviner” - Östersunds-Posten
-- Försäkringskassan föreslås få en ”bidragspolis” - Aftonbladet
-- 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
-- Spelet bakom planerna på nytt fängelse - Sundsvalls Tidning
+- DN Direkt – Kristerssons besked: Stopp för barn på Tiktok - Dagens Nyheter
+- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
+- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
+- Deras pappa hittades död i källaren – nu berättar systrarna om mattmordet - Dagens Nyheter
+- Fortsatt ökning av bröstcancer globalt - GP
+- Förslag om tonårsutvisningar presenteras i dag – Senaste nytt om valet 2026 - SVT Nyheter
+- Ännu ett fuskande vårdbolag - Proletären
 - Knark för miljarder borta – fräcka kuppen mot gänget - Expressen
-- I kväll stängs Götatunneln - GP
+- Spelet bakom planerna på nytt fängelse - Sundsvalls Tidning
+- 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
 - USA och Venezuela fördjupar relation - SVT Nyheter
-- Sorg efter attack mot skola - 8 Sidor
-- Kriget har nått EU:s gränser, säger expert om upptrappningen i Mellanöstern - Yle
-- Familj från Sverige flyger hem – efter hjälp från EU - Expressen
+- Ingmar Nevéus: Till sist blev Kristi Noem som en kvinnlig Trumpkopia - Dagens Nyheter
+- Trump förskjuter gamla kompisen - Expressen
+- Kriget mot Iran skakar Dubais affärsmodell - Realtid
+- Nya bolåneregler – så här påverkas du - Aftonbladet
 - Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
-- EU-kommissionen vill rädda industrin med krav på europeiskt innehåll - Europaportalen
-- Utländska hackare slog till mot regionen – läste anställdas mejl i månader - NWT
 - Det borde vara omöjligt: Nytt jättefynd i närliggande solsystem är en gåta för astronomer - Illustrerad Vetenskap
 - Apple har precis presenterat en ny iPad Air med M4 – här är allt som är nytt - TechRadar
+- Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
 - Navigera med Star Trek - mobil.se
 
 ## World News
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- NT kan vinna pris för satsningen på unga - NT
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
-- NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 
 ## Technology
 
@@ -84,7 +84,7 @@ _Updated: 2026-03-06 06:55_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-03-06 06:55_
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -128,13 +128,13 @@ _Updated: 2026-03-06 06:55_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
