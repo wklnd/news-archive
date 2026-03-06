@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 09:12_
+_Updated: 2026-03-06 09:58_
 
 ## Top Stories
 
-- DN Direkt – Kristerssons besked: Stopp för barn på Tiktok - Dagens Nyheter
+- Tjejerna fast i Dubai: ”Sverige sitter bara och väntar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Därför får vårdcentralen i Angered sämst betyg i Göteborg - GP
 - Deras pappa hittades död i källaren – nu berättar systrarna om mattmordet - Dagens Nyheter
 - Låg död på LSS-boende i fyra dygn - Västerbottens-Kuriren
-- DN Direkt – Trump planerar att sparka Kristi Noem - Dagens Nyheter
-- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
+- Fortsatt ökning av bröstcancer globalt - GP
+- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
+- Digitalt EU sjukförsäkringskort ska ge ökad rörlighet och enklare vård på resan - Regeringen.se
 - Förslag om tonårsutvisningar presenteras i dag – Senaste nytt om valet 2026 - SVT Nyheter
-- Ännu ett fuskande vårdbolag - Proletären
 - 06 mars 07.26, Sammanfattning natt, Västernorrlands län - polisen.se
-- Explosion vid bostad i Kvillebäcken på Hisingen - GP
-- Därför har dansen blivit ett politiskt språk i Iran 5 mars 2026 - P1 Kultur - Sveriges Radio
+- Ännu ett fuskande vårdbolag - Proletären
 - Uppgifter: Rökutveckling i Riyad efter hot - Omni
-- DN Direkt – USA-minister till Venezuela för mineralmöte - Dagens Nyheter
+- Trump sparkar Kristi Noem – utser efterträdare - Omni
 - Bombar vid gränsen – efter uppgifter om plan med kurdiska styrkor - Dagens Nyheter
+- Trump förskjuter gamla kompisen - Expressen
 - Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
-- 50 000 bilkunder kan få pengar tillbaka – KO kräver återbetalning från DNB - e55.se
 - Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
-- Det borde vara omöjligt: Nytt jättefynd i närliggande solsystem är en gåta för astronomer - Illustrerad Vetenskap
-- Nothings nya hörlurar erbjuder 135 timmars batteritid - Swedroid
-- Marathon är en annan typ av extraction shooter – och det är inte ett spel för alla - TechRadar
+- Faktisk månadslön - Fakta och fördjupning 2026 - lo.se
+- 50 000 bilkunder kan få pengar tillbaka – KO kräver återbetalning från DNB - e55.se
+- Inga fler problem med programvara: Dirac Live flyttar in hos HiFi Klubben - Ljud & Bild
+- MYSTERIET: Vårstanken inte bara hundbajs – professorns oväntade svar - NWT
 
 ## World News
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -39,14 +39,14 @@ _Updated: 2026-03-06 09:12_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -56,14 +56,14 @@ _Updated: 2026-03-06 09:12_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -84,7 +84,7 @@ _Updated: 2026-03-06 09:12_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -101,21 +101,21 @@ _Updated: 2026-03-06 09:12_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -154,11 +154,11 @@ _Updated: 2026-03-06 09:12_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 20220407_121141.jpg - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- De gick från reko till eko - ST-tidningen
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
