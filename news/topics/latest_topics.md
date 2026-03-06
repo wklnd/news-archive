@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 05:12_
+_Updated: 2026-03-06 06:55_
 
 ## Top Stories
 
-- IDF: Attacker mot Hizbollah i Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Låg död på LSS-boende i fyra dygn - Västerbottens-Kuriren
+- DN Direkt – Trump planerar att sparka Kristi Noem - Dagens Nyheter
+- Kristerssons besked: Stopp för barn på Tiktok - SvD
 - Fortsatt ökning av bröstcancer globalt - Västerbottens-Kuriren
 - Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
-- Som Timbroprofilen sa: Nu riskerar M att framstå som en lydig hund. - GP
-- Kartan visar: Trump inte rädd att använda militär styrka - Hufvudstadsbladet
+- ”Vi har aldrig sett så många laviner” - Östersunds-Posten
+- Försäkringskassan föreslås få en ”bidragspolis” - Aftonbladet
 - 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
-- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
-- Utbildning läggs på is – och lärare sägs upp - Östersunds-Posten
-- Varnar för vattenläckor: ”Ser redan nu fler än normalt” - Helagotland
-- Rosa ryggsäck används i propagandakrig efter skolattacken - Dagens Nyheter
+- Spelet bakom planerna på nytt fängelse - Sundsvalls Tidning
+- Knark för miljarder borta – fräcka kuppen mot gänget - Expressen
+- I kväll stängs Götatunneln - GP
 - USA och Venezuela fördjupar relation - SVT Nyheter
+- Sorg efter attack mot skola - 8 Sidor
 - Kriget har nått EU:s gränser, säger expert om upptrappningen i Mellanöstern - Yle
 - Familj från Sverige flyger hem – efter hjälp från EU - Expressen
 - Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
-- DN Direkt – Stockholmsbörsen knäade under oljepriset - Dagens Nyheter
 - EU-kommissionen vill rädda industrin med krav på europeiskt innehåll - Europaportalen
-- Skönhetstrenden på 30 000 fot som kan vara helt onödig - Dagens PS
-- Vi har kollat in Skodas vackra kombi! Vision O är lovande. - feber.se
+- Utländska hackare slog till mot regionen – läste anställdas mejl i månader - NWT
+- Det borde vara omöjligt: Nytt jättefynd i närliggande solsystem är en gåta för astronomer - Illustrerad Vetenskap
+- Apple har precis presenterat en ny iPad Air med M4 – här är allt som är nytt - TechRadar
 - Navigera med Star Trek - mobil.se
 
 ## World News
@@ -36,16 +36,16 @@ _Updated: 2026-03-06 05:12_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -56,14 +56,14 @@ _Updated: 2026-03-06 05:12_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -84,7 +84,7 @@ _Updated: 2026-03-06 05:12_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -100,17 +100,17 @@ _Updated: 2026-03-06 05:12_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Johan von Schreeb - Karolinska Institutet
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -153,12 +153,12 @@ _Updated: 2026-03-06 05:12_
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- 20220407_121141.jpg - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- De gick från reko till eko - ST-tidningen
