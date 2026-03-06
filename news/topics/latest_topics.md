@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 12:02_
+_Updated: 2026-03-06 13:02_
 
 ## Top Stories
 
-- Rapport: Stora skillnader i vård för barn med adhd - Aftonbladet
-- FRA: En ”ännu farligare tid” väntar Sverige - SvD
-- DN Direkt – Kristerssons besked: Stopp för barn på Tiktok - Dagens Nyheter
-- Därför får vårdcentralen i Angered sämst betyg i Göteborg - GP
-- Källan om Trumps krav: ”Kurderna måste välja sida” - GP
-- Ungern beslagtar guld – Zelenskyj hotar med armén - GP
-- Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
-- Deras pappa hittades död i källaren – nu berättar systrarna om mattmordet - Dagens Nyheter
-- Digitalt EU sjukförsäkringskort ska ge ökad rörlighet och enklare vård på resan - Regeringen.se
-- Förslag om tonårsutvisningar presenteras i dag – Senaste nytt om valet 2026 - SVT Nyheter
-- Uppgifter: Rökutveckling i Riyad efter hot - Omni
-- DN Direkt – Turist drunknade efter dingoattack i Australien - Dagens Nyheter
+- Rapport: Stora skillnader i vård för barn med adhd - GP
+- 38-åring mördade flickvän och försökte mörda exfru i Västerås – döms till fängelse - SVT Nyheter
+- Fortsatt svårt att få hem svenskar • ”Minutbevakar” - Dagens Nyheter
 - Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
-- Familj från Sverige flyger hem – efter hjälp från EU - Expressen
-- 4,2 miljarder kilometer på Europas vägar – varje år - Dagens PS
-- Panelen: Vad skulle en allmän arbetstidsförkortning betyda för dig och för samhället i stort? - tidningensyre.se
-- Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
-- Gräsrotsrörelse för att bojkotta Chat GPT växer - Omni
+- Nytt besked om batterifabrikens utsläpp – Senior materials behöver ny dispens - Ny Teknik
+- Därför får vårdcentralen i Angered sämst betyg i Göteborg - GP
+- 06 mars 07.26, Sammanfattning natt, Västernorrlands län - Polisen.se
+- Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat - Brottsplatskartan.se
+- ”Sverige rustar militärt – men utan folkbildning faller totalförsvaret” - Arbetet
+- Polisinsats efter skolhot i Leksand – en person frihetsberövad - SVT Nyheter
+- Orbán stoppar transporter och pengar till Ukraina - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
+- Trump sparkar Kristi Noem - SVT Nyheter
+- Trump förskjuter gamla kompisen - Expressen
+- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
+- EQT tittar på NAVTOR – miljardaffär kan vänta - Affärsvärlden
+- Gapet mellan rörlig och bunden boränta krymper - Dagens PS
+- Kriget i Gulfregionen – konsekvenser för sjöfarten - TRANSPORTochLOGISTIK.se
 - Så blir Apples nya billigare Macbook - Dagens industri
 - Mobilrebell utan USA och Kina har fått fart: 10 000 har redan beställt - Realtid
 
@@ -39,13 +39,13 @@ _Updated: 2026-03-06 12:02_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Corren kan vinna pris för satsningen på unga - Corren
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -155,10 +155,10 @@ _Updated: 2026-03-06 12:02_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
