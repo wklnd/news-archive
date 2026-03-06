@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 13:51_
+_Updated: 2026-03-06 15:35_
 
 ## Top Stories
 
+- Djup Tidöspricka om permanenta uppehållstillstånd: ”Betyder ingenting” - Aftonbladet
+- Kreml: Kärnvapen i Finland ett hot mot Ryssland - GP
+- 06 mars 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
+- Museerna om hyresförslaget: "Blir ingen trygghet" - Magasin K
+- Hovrätten ändrar dom – Henrik Bergström döms till livstid - Expressen
 - Efter kritiken – åldersgränser för screening ses över - Dagens Nyheter
-- Rapport: Stora skillnader i vård för barn med adhd - GP
-- "Babyface" misstänktes för ny våldtäkt – döms för sexköp - GP
-- Försäkringskassan kan få egen underrättelseverksamhet - Dagens Juridik
-- Fortsatt svårt att få hem svenskar • ”Minutbevakar” - Dagens Nyheter
-- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
-- Allvarliga kritiken mot nya journalsystemet Cosmic - SVT Nyheter
-- Kristerssons besked: Stopp för barn på Tiktok - Dagens Nyheter
-- 06 mars 07.26, Sammanfattning natt, Västernorrlands län - polisen.se
-- Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat - Brottsplatskartan.se
+- 06 mars 13.38, Trafikkontroll, Västerbottens län - Polisen.se
+- Nytt besked om batterifabrikens utsläpp – Senior materials behöver ny dispens - Ny Teknik
+- Flygvapnet deltar i Cold Response 2026 – flygverksamhet över norra Sverige - Försvarsmakten
+- Rapport: Stora skillnader i vård för barn med adhd - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Misstänks ha spionerat på judiska mål i London – fyra gripna - Dagens Nyheter
-- Mats Qviberg: UD har ingen skyldighet att hjälpa puckon - Fokus - Sveriges nyhetsmagasin
-- UPPGIFTER: USA ber Ukraina om hjälp i kriget - Marcus Oscarsson
+- Expert om kurdlett uppror: ”Litar inte på USA” - Aftonbladet
 - Tror på blodbad: ”Ingen poäng att finnas kvar” - SvD
-- Därför har Arjeplog Sveriges minst pålitliga elnät - Dagens Nyheter
 - EQT tittar på NAVTOR – miljardaffär kan vänta - Affärsvärlden
-- Gapet mellan rörlig och bunden boränta krymper - GP
+- Fraktjätten pausar två stora linjer - Dagens PS
+- Gapet mellan rörlig och bunden boränta krymper - e55.se
 - Så blir Apples nya billigare Macbook - Dagens industri
+- Epic Games frispråkiga vd får munkavle till 2032 - Omni
+- Ikea börjar sälja minihögtalaren Kallsup för 59 kronor styck - Swedroid
 - Mobilrebell utan USA och Kina har fått fart: 10 000 har redan beställt - Realtid
 
 ## World News
 
+- Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
+- Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Corren kan vinna pris för satsningen på unga - Corren
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -84,7 +84,7 @@ _Updated: 2026-03-06 13:51_
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -100,10 +100,10 @@ _Updated: 2026-03-06 13:51_
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
@@ -113,9 +113,9 @@ _Updated: 2026-03-06 13:51_
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2026-03-06 13:51_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Här är världens största jordbruk - ATL
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är här - Shaping Europe’s digital future
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är världens största jordbruk - ATL
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
