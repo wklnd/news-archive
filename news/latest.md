@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-06 08:28_
+_Updated: 2026-03-06 09:26_
 
+- Trump removes DHS Secretary Kristi Noem after controversial tenure - The Washington Post
 - U.S. and Venezuela reach historic agreement to re-establish diplomatic ties - Axios
-- Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times
-- Sri Lanka Is Caught in the Middle as Second Iranian Vessel Seeks Safe Haven - The New York Times
-- CENTCOM says 'US forces control the skies,' releases video of fresh strikes on Iran - Fox News
+- Slain Soldiers’ Families Speak Out After Pentagon Pete Frames Them as PR Problem - The Daily Beast
+- Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times - Los Angeles Times
 - Pregnant women in ERs took less Tylenol after Trump autism warning - NPR
+- House Turns Back Bid to Restrict Trump’s War Powers in Iran - The New York Times
+- Bernard LaFayette, civil rights leader who helped launch Voting Rights Act, dies aged 85 - The Guardian
+- ‘Dead in the water’: Anti-war GOP feel abandoned by Trump - Politico
 - Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked Memo - WSJ
-- Lev Parnas Running for Congress as a Democrat in Florida - The New York Times
-- GOP restrainers say Trump abandoned them - Politico
 - Iran appeared to surveil center where U.S. forces were killed in Kuwait, Army memo says - CBS News
-- Dozens Killed and Thousands Displaced in Growing Pakistan-Afghan Border Conflict - Drop Site News
-- Iran War: US Issues License to Allow Some Russian Oil Sales to India - Bloomberg.com
-- Missile Allegedly Fired at Turkey Brings Talk of Article 5 - Newser
-- US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Bloomberg.com
-- How $800 Monthly Car Payments Are Hurting Car Sales - The New York Times
+- Exclusive | U.A.E. Explores Freezing Iranian Assets to Punish Tehran for Attacks - WSJ
+- Department of State Charter Flight Departs Middle East to United States - U.S. Department of State (.gov)
+- Iran War: US Issues License to Allow Some Russian Oil Sales to India - Bloomberg
 - Historic winter storms weigh on Gap, Old Navy performance after 800 temporary store closures - CNBC
-- Mark Zuckerberg says criminal behavior on Facebook inevitable - The Guardian
+- How $800 Monthly Car Payments Are Hurting Car Sales - The New York Times
+- OpenAI's 'stunning admission': Maybe people don't want to book stuff inside ChatGPT - Business Insider
+- Agencies clarify the capital treatment of tokenized securities - Federal Reserve Board (.gov)
+- Extending single-minus amplitudes to gravitons - OpenAI
 - Ditto Plushies Have Invaded Our Heart Right In Time For Pokopia Fever - Kotaku
-- Claim the Vapid Firebolt ASP Off-Roader and Much More with GTA+ - Rockstar Games
-- The Super Hero Team-based PVP Shooter - Marvel Rivals
-- 7 Tips On How Not To Die In ‘Marathon’ - Forbes
+- Super Mario Run x Super Mario Bros. Wonder Nintendo Switch 2 Edition + Meetup in Bellabel Park event now live - Nintendo Everything
