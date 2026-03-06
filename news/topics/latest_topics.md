@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 00:55_
+_Updated: 2026-03-07 01:50_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Irans president i samtal med Putin - Dagens Nyheter
 - Polischef har kopplingar till misstänkt i narkotikahärva - SVT Nyheter
 - Fast i Kuwait: ”Blir kanske kvar till april” - SvD
-- Hovrätten ändrar dom – Henrik Bergström döms till livstid - Expressen
-- Avslöjandet om Meta sprids över hela världen - SvD
-- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
-- Misstänkt falskflaggat fartyg bordat utanför Trelleborg - SVT Nyheter
-- Sverige skickar sjukvårdspersonal till Mellanöstern - Regeringen.se
-- ”En miljon hektar kan tas ur bruk” – Så övertolkar myndigheterna nya naturplanen - Tidningen Näringslivet
-- Friad efter mordmisstankarna i Hallsberg - Nerikes Allehanda
 - Stabilitet blir lätt en ursäkt för att fega ur - SvD
+- Misstänkt falskflaggat fartyg bordat utanför Trelleborg - SVT Nyheter
+- 06 mars 13.37, Trafikkontroll, Jämtlands län - Polisen.se
+- Hovrätten ändrar – mördare får livstid - GP
+- ”En miljon hektar kan tas ur bruk” – Så övertolkar myndigheterna nya naturplanen - Tidningen Näringslivet
 - UPPGIFTER: USA ber Ukraina om hjälp i kriget - Marcus Oscarsson
+- Låg död på LSS-boende i fyra dygn - Aftonbladet
+- Drönare slog ned nära oljeanläggningar i Irak - GP
 - JUST NU: Putin hjälper Iran – attackerar USA - Expressen
-- Expert om kurdlett uppror: ”Litar inte på USA” - Aftonbladet
-- Frågetecknen du kan reda ut inför deklarationen - Falköpings Tidning
 - ”Om alla jobbar fyra dagar med bibehållen lön blir vi fattigare” - Tidningen Näringslivet
-- Microsoft fortsätter använda Anthropics AI trots Pentagon-beslut - Placera.se
-- Nya ”Mario Tennis Fever” till Switch 2 överraskar absolut ingen - GP
 - Vårens stora actionspel hade varit perfekt – om inte för en frustrerande detalj - MovieZine
+- Nya ”Mario Tennis Fever” till Switch 2 överraskar absolut ingen - GP
 - Spelhelgen är gåvan som fortsätter ge – vad spelar du? - FZ.se
 - Galaxy S26-serien sätter förbeställningsrekord i Sydkorea, börjar säljas i Sverige - Swedroid
+- Kris, SVT? Det här är ett sakta förfall - Expressen
+- Duons musik varvar politik med pepp: ”Det handlar om att vara glad trots allt” - Dagens Nyheter
+- Skjuter upp USA-turné – bandet får inte visum - GP
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-03-07 00:55_
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Corren kan vinna pris för satsningen på unga - Corren
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Corren kan vinna pris för satsningen på unga - corren.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -55,14 +55,14 @@ _Updated: 2026-03-07 00:55_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
