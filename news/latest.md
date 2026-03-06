@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-06 13:05_
+_Updated: 2026-03-06 13:57_
 
-- Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times
-- Hegseth blasts Brits, says Iran's chaotic retaliation has driven its own allies 'into the American orbit' - Fox News
-- U.S. and Venezuela reach historic agreement to re-establish diplomatic ties - Axios
-- Pregnant women in ERs took less Tylenol after Trump autism warning - NPR
+- Russian Offensive Campaign Assessment, March 5, 2026 - Institute for the Study of War
 - Wave of strikes in Beirut’s Dahieh; US says B-2 bombers hit underground missile sites, 30 Iranian vessels sunk - ynetnews
+- How each House member voted on Trump’s Iran war powers - CNN
+- Anxiety grows among California Democrats as gubernatorial candidates rebuff calls to drop out - Los Angeles Times
+- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- Mike Johnson calls on Tony Gonzales to drop out after affair with staffer - Axios
+- Republicans confront the massive cost of Trump’s Middle East war - Politico
+- Lindsey Halligan faces investigation by Florida Bar - The Washington Post
 - Anthropic Says It Will Fight New Pentagon Move as CEO Apologizes for Leaked Memo - WSJ
-- Florida college Republicans group chat reveals racist texts: ‘Avoid the coloreds like the plague’ - The Guardian
-- Army reservist, 20, killed in Iranian drone strike in Kuwait spent final hours reassuring family: ‘I’m good’ - Fox News
-- More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit - Al Jazeera
-- Trump calls on Kurds to aid U.S. effort in Iran, offers support - The Washington Post
-- Dozens Killed and Thousands Displaced in Growing Pakistan-Afghan Border Conflict - Drop Site News
-- Exclusive: Azerbaijan wants "official explanation" from Iran after drone attack - Axios
+- Trump’s trade war has hurt farmers. There are new warning signs for Republicans. - Politico
+- Sri Lanka takes control of an Iranian vessel off its coast after US sank an Iranian warship - AP News
+- Khamenei’s Killing Sparks Anger and Grief in South Asia’s Shiite Muslims - The New York Times
+- As Trump Out-Putins Putin, Russia’s Global Influence Erodes - The New York Times
+- WATCH: IDF airs video showing world-first F-35 downing of manned plane in Iran - The Times of Israel
 - Dow futures fall as index heads for worst week since October: Live updates - CNBC
 - Historic winter storms weigh on Gap, Old Navy performance after 800 temporary store closures - CNBC
-- EssilorLuxottica heir seeks multibillion deal to buy out siblings - Financial Times
 - Mark Zuckerberg says criminal behavior on Facebook inevitable - The Guardian
+- ChatGPT Backlash Reveals New Pitfalls in Aligning With Trump - Bloomberg.com
+- OnePlus 15T: New compact flagship surpasses Xiaomi 17 Pro and Vivo X300 with larger battery - Notebookcheck
 - Amazon is rolling out a redesigned Fire TV app - TechCrunch
-- First MacBook Neo Benchmarks Are In: Here's How It Compares to the M1 MacBook Air - MacRumors
-- Samsung Galaxy S26 Ultra review: The stealth upgrade - Engadget
-- Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything
