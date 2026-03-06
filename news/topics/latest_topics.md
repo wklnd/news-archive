@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 15:35_
+_Updated: 2026-03-06 16:08_
 
 ## Top Stories
 
-- Djup Tidöspricka om permanenta uppehållstillstånd: ”Betyder ingenting” - Aftonbladet
-- Kreml: Kärnvapen i Finland ett hot mot Ryssland - GP
-- 06 mars 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
-- Museerna om hyresförslaget: "Blir ingen trygghet" - Magasin K
-- Hovrätten ändrar dom – Henrik Bergström döms till livstid - Expressen
+- Chartrat plan ska hämta svenskar i Dubai – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Efter kritiken – åldersgränser för screening ses över - Dagens Nyheter
-- 06 mars 13.38, Trafikkontroll, Västerbottens län - Polisen.se
+- Finland pratar om kärnvapen - 8 Sidor
+- Försäkringskassan föreslås bli ”bidragspolis” - Publikt
+- Svensk expert: Så länge kan Iran hålla ut - Aftonbladet
+- Ukrainska drönarexperter till Mellanöstern - GP
+- 06 mars 13.38, Trafikkontroll, Västernorrlands län - Polisen.se
 - Nytt besked om batterifabrikens utsläpp – Senior materials behöver ny dispens - Ny Teknik
-- Flygvapnet deltar i Cold Response 2026 – flygverksamhet över norra Sverige - Försvarsmakten
-- Rapport: Stora skillnader i vård för barn med adhd - Västerbottens-Kuriren
+- Tidölaget skärper strypgreppet mot välfärden - internationalen.se
+- Hovrätten ändrar dom – Henrik Bergström döms till livstid - Expressen
+- SVT:s korrespondent: Panik i massevakueringar i Libanon - SVT Nyheter
+- Fyra gripna i Storbritannien – ska ha spionerat på judar för Iran - GP
 - Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
-- Expert om kurdlett uppror: ”Litar inte på USA” - Aftonbladet
+- Tågstopp mellan Stockholm – Göteborg/Malmö - Expressen
 - Tror på blodbad: ”Ingen poäng att finnas kvar” - SvD
 - EQT tittar på NAVTOR – miljardaffär kan vänta - Affärsvärlden
-- Fraktjätten pausar två stora linjer - Dagens PS
-- Gapet mellan rörlig och bunden boränta krymper - e55.se
+- ”Om alla jobbar fyra dagar med bibehållen lön blir vi fattigare” - Tidningen Näringslivet
 - Så blir Apples nya billigare Macbook - Dagens industri
-- Epic Games frispråkiga vd får munkavle till 2032 - Omni
 - Ikea börjar sälja minihögtalaren Kallsup för 59 kronor styck - Swedroid
 - Mobilrebell utan USA och Kina har fått fart: 10 000 har redan beställt - Realtid
 
@@ -30,23 +30,23 @@ _Updated: 2026-03-06 15:35_
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- From a small Swedish town to a global crime network: international operation strikes top-tier organised crime - Europol
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Corren kan vinna pris för satsningen på unga - Corren
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -81,9 +81,10 @@ _Updated: 2026-03-06 15:35_
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Minister bought Ericsson shares — on the day the company benefited from multibillion government grant - Sveriges Radio
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-03-06 15:35_
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -123,7 +123,6 @@ _Updated: 2026-03-06 15:35_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -135,10 +134,11 @@ _Updated: 2026-03-06 15:35_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
