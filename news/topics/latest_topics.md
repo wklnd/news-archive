@@ -1,34 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-06 01:36_
+_Updated: 2026-03-06 05:12_
 
 ## Top Stories
 
-- Israels offensiv tränger djupare – bombar Beirut - GP
-- Kartan visar: Trump inte rädd att använda militär styrka - Hufvudstadsbladet
-- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
+- IDF: Attacker mot Hizbollah i Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Låg död på LSS-boende i fyra dygn - Västerbottens-Kuriren
 - Fortsatt ökning av bröstcancer globalt - Västerbottens-Kuriren
-- Evakueringar på Cypern – fler EU-länder rycker ut till öns försvar - Omni
-- Mordmisstänkta mannen släpps fri – utredningen fortsätter - KT-Kuriren
+- Nytt besked om batterifabrikens utsläpp – behöver ny dispens - Ny Teknik
+- Som Timbroprofilen sa: Nu riskerar M att framstå som en lydig hund. - GP
+- Kartan visar: Trump inte rädd att använda militär styrka - Hufvudstadsbladet
 - 05 mars 20.40, Trafikkontroll, Jämtlands län - polisen.se
+- JOEL HALLDORF: Systrar utvisade till Iran – politiken är hjärtlös och huvudlös - NT
+- Utbildning läggs på is – och lärare sägs upp - Östersunds-Posten
 - Varnar för vattenläckor: ”Ser redan nu fler än normalt” - Helagotland
-- Greta Thunberg slagträ i danska valrörelsen - GP
+- Rosa ryggsäck används i propagandakrig efter skolattacken - Dagens Nyheter
+- USA och Venezuela fördjupar relation - SVT Nyheter
+- Kriget har nått EU:s gränser, säger expert om upptrappningen i Mellanöstern - Yle
 - Familj från Sverige flyger hem – efter hjälp från EU - Expressen
-- Slopar Finland kärnvapenförbud? Besked väntas i kväll - Hufvudstadsbladet
-- Ukrainas framgång – slår hårt mot Putin - Expressen
-- Skatteverket skickar ut årets deklaration - nya regler för ränteavdrag - SvD
-- Ditt sparande i krig – Det här kan staten göra med dina pengar - Dagens.se
-- Nya bolåneregler – så här påverkas du - Aftonbladet
-- Redogörelse för penningpolitiken året 2025 - Sveriges Riksbank
-- Nästa Xbox ska spela PC-spel. Microsoft bekräftar Project Helix för nästa konsolgeneration. - feber.se
+- Mardrömsscenariot: Attacker som slår ut vattnet - Aftonbladet
+- DN Direkt – Stockholmsbörsen knäade under oljepriset - Dagens Nyheter
+- EU-kommissionen vill rädda industrin med krav på europeiskt innehåll - Europaportalen
+- Skönhetstrenden på 30 000 fot som kan vara helt onödig - Dagens PS
 - Vi har kollat in Skodas vackra kombi! Vision O är lovande. - feber.se
 - Navigera med Star Trek - mobil.se
-- Barbie firar den 8 mars. Med nya dockor av Serena Williams och Regina Sirvent. - feber.se
 
 ## World News
 
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Trump celebrates Messi, revels in Inter Miami’s “good looks” - Reuters
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -37,16 +40,13 @@ _Updated: 2026-03-06 01:36_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Corren kan vinna pris för satsningen på unga - Corren
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Tidningsjätte i England lägger ner efter skandal - SvD
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -58,17 +58,17 @@ _Updated: 2026-03-06 01:36_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -102,6 +102,7 @@ _Updated: 2026-03-06 01:36_
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
@@ -113,7 +114,6 @@ _Updated: 2026-03-06 01:36_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
@@ -122,30 +122,29 @@ _Updated: 2026-03-06 01:36_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,9 +155,10 @@ _Updated: 2026-03-06 01:36_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
-- Mjau Svenska Smaker i gele-Sill.jpg - Mynewsdesk
+- 2022-03-22 Webbinarium: Mellangrödor i praktiken - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
