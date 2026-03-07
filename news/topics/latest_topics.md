@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 06:46_
+_Updated: 2026-03-07 07:59_
 
 ## Top Stories
 
+- Ukrainska drönarexperter till Mellanöstern - GP
+- 07 mars 06.50, Sammanfattning natt, Västernorrlands län - polisen.se
+- Zelenskyj stödjer trupper vid Donetsk-fronten - Aftonbladet
 - Misstanken om elitförbandets mystiska order - Aftonbladet
+- Regeringen vill se över Fastighetsverkets avkastningskrav - SvD
+- Misstänkt falskflaggat fartyg bordat utanför Trelleborg - SVT Nyheter
+- MCF: Svenskar måste vara redo för tre års krig - Västerbottens-Kuriren
 - Polischef har kopplingar till misstänkt i narkotikahärva - SVT Nyheter
-- Museerna om hyresförslaget: "Blir ingen trygghet" - Magasin K
-- Månadens tio ETF:er – nya fonden ger exponering mot attraktiv europeisk sektor - Privata Affärer
-- En person misstänkt efter takstolsraset i Tingsryd - Byggnadsarbetaren
-- Villas stora X-faktor klev fram – och ordnade ny finalbiljett: ”Tycker om att göra bra saker” - NLT
 - 06 mars 13.37, Trafikkontroll, Jämtlands län - polisen.se
-- Emma tar ut mer föräldraledighet: ”Min sambo tjänar mer än mig” - NWT
-- Norden måste stå upp för jämställdhet och hbtqi-personers rättigheter i FN - Altinget.se
-- Kristerssons besked: Stopp för barn på Tiktok - SvD
-- Direkt – Krisen i Mellanöstern – Iran: Över 1 300 civila döda - Dagens Nyheter
-- Orbán stoppar transporter och pengar till Ukraina - Dagens Nyheter
+- Ministern: Jämställdheten under attack - Aktuell Hållbarhet
+- Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
+- Varnar efter Trumps ord: ”Evigt krig” - Expressen
 - Stabilitet blir lätt en ursäkt för att fega ur - SvD
-- UPPGIFTER: USA ber Ukraina om hjälp i kriget - Marcus Oscarsson
+- Låg död på LSS-boende i fyra dygn - Aftonbladet
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- Anthropic får känna på Trumps maffiametoder - Computer Sweden
+- Microsoft fortsätter använda Anthropics AI trots Pentagon-beslut - Placera.se
+- Qatar varnar för dubblat oljepris - Placera.se
 - Novakand byter spår med förnyat forskningsfokus - Placera.se
-- Varningen: Risk för finanskris om kriget fortsätter • ”Sänka världsekonomierna” - Expressen
 - Oneplus 15T har ett 88 procent större batteri än Iphone 17 Pro - Swedroid
 - Galaxy S26-serien sätter förbeställningsrekord i Sydkorea, börjar säljas i Sverige - Swedroid
 
 ## World News
 
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
-- Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -37,16 +37,16 @@ _Updated: 2026-03-07 06:46_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Corren kan vinna pris för satsningen på unga - Corren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -97,36 +97,36 @@ _Updated: 2026-03-07 06:46_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -138,7 +138,7 @@ _Updated: 2026-03-07 06:46_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 
 ## Jordbruk
 
