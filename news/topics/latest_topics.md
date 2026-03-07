@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 15:55_
+_Updated: 2026-03-07 16:49_
 
 ## Top Stories
 
-- Tawan, 20, utvisades innan stoppet: ”Inte rättvist” - Dagens Nyheter
-- En befaras död efter norskt snöskred - Västerbottens-Kuriren
-- Grönländaren som kallas för landsförrädare: ”Världens sista revolutionär” - GP
-- Hizbollah: I markstrider med Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Maryam gömmer sig undan bomberna i Iran: ”Allt skakar” - Aftonbladet
-- Miljonärerna strömmade till Dubai – nu flyr de: ”Kan rita om kartan” - EFN
-- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryska ambassadören kallas till UD – efter drönarincident - SVT Nyheter
-- PATRIK KRONQVIST: Islamisternas nya mål: radikalisera småbarn - expressen.se
-- Här är landets bästa och sämsta vårdcentraler - Senioren
-- Anna-Lena Laurén: Trots känslorus och alkohol var ingen aggressiv - Dagens Nyheter
+- Demonstration skapar stora störningar i spårvagnstrafiken - Expressen
 - Flera döda i ryska attacker mot Ukraina - GP
-- 300 personer kidnappade i Nigeria - GP
+- En befaras död efter snöskred - SVT Nyheter
+- Grönländaren som kallas för landsförrädare: ”Världens sista revolutionär” - GP
+- Teorin: Massiv attack – ”alla bombers moder” - Expressen
+- Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
+- Tawan, 20, utvisades innan stoppet: ”Inte rättvist” - Dagens Nyheter
+- MCF: Svenskar måste vara redo för tre års krig - Corren
+- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Brand på pendeltåg i Stockholm - Expressen
+- Irans president: ”Ber om ursäkt till våra grannländer” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Stabilitet blir lätt en ursäkt för att fega ur - SvD
-- Direkt – Krisen i Mellanöstern – Irans varning till USA: Väntar i Hormuzsundet - Dagens Nyheter
+- Ukrainska drönarexperter till Mellanöstern - Dagens Nyheter
+- Varnar efter Trumps ord: ”Evigt krig” - Expressen
+- Riksbankscheferna: Så låga är deras boräntor - SvD
 - Populära sajter säljer utgången teknik – trots upprepade tillsyner - Dagens Nyheter
 - Att navigera på börsen när osäkerheten ökar - Placera.se
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
@@ -35,13 +35,13 @@ _Updated: 2026-03-07 15:55_
 - Calgary and Edmonton submit joint bid for 2028 World Cup of Hockey - Global News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -51,48 +51,48 @@ _Updated: 2026-03-07 15:55_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - sns.se
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 
 ## Health
 
@@ -125,19 +125,19 @@ _Updated: 2026-03-07 15:55_
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
