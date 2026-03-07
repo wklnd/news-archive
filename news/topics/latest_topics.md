@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 22:48_
+_Updated: 2026-03-07 23:44_
 
 ## Top Stories
 
-- Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter
-- Gregoria kördes ihjäl av cyklisten på Möllan: ”På en sekund förändrades allt” - Sydsvenskan
-- Nya bilder på misstänkta ryska krigsbrott med brandstridsmedel - Dagens Nyheter
-- Ung kvinna i Iran: ”Jag har svårt att föreställa mig framtiden” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Fler svenskar flygs hem - Dagens Nyheter
+- Bomb mot nattklubb i Peru skadar tiotals - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iranska diplomater lämnar Libanon – flygs till Ryssland - Dagens Nyheter
+- Man anhållen misstänkt för våldtäkt - Expressen
+- Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Tusentals amerikaner evakuerade - Dagens Nyheter
+- Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
 - Räddningsinsats norr om Åre efter lavin - SVT Nyheter
-- Behandling dröjde – kvinna i Skåne dog av septisk chock - Expressen
-- Bilder: Jernhusen visade nya klenoden Grand Central - Fastighetsvärlden
 - Här är landets bästa och sämsta vårdcentraler - Senioren
+- Undersköterskorna skulle utvisas till Iran: ”Vågar inte hoppas” - Dagens Nyheter
+- TV: När är det okej att lämna hundbajset? - Tranås Tidning
+- Sverige stoppar utvisningar till oroligt Libanon - Hufvudstadsbladet
 - Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
 - Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
 - Varnar efter Trumps ord: ”Evigt krig” - Expressen
-- Nationalsporten: att håna 19-åringar i skyddsrum - Kvartal
 - Här ska Kinas järngrepp om Europa brytas - SvD
-- Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
 - Så mycket kostade dyraste huset i Kristinehamns kommun i februari - nkp.se
 - Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
-- DJI betalar 300 000 kronor till hacker. Han som kom åt 7 000 DJI Romo-dammsugare. - feber.se
+- Efter avslöjandet: DJI betalar 30 000 dollar till användare som hittade sårbarhet - Teknikveckan
+- Smart teknik och biologiska superkrafter: Så överlevde neandertalarna Europas brutala istider - varldenshistoria.se
 
 ## World News
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-07 22:48_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,16 +101,16 @@ _Updated: 2026-03-07 22:48_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
