@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 09:04_
+_Updated: 2026-03-07 09:49_
 
 ## Top Stories
 
-- Grace, 32, fick lägenhet i Göteborg – på mindre än en vecka - GP
-- Skott mot bil i Malmö - SVT Nyheter
-- Ukrainska drönarexperter till Mellanöstern - GP
-- JUST NU: Putin hjälper Iran – attackerar USA - Expressen
-- Läkemedlet ger hopp – men stoppas i Sverige: ”De leker med våra liv” - Aftonbladet
-- Polischef har kopplingar till misstänkt i narkotikahärva - SVT Nyheter
+- Larm om skottlossning i Malmö - TV4 Nyheterna
+- Flera döda i ryska attacker mot Ukraina - Dagens Nyheter
 - 07 mars 06.50, Sammanfattning natt, Västernorrlands län - polisen.se
-- 06 mars 13.37, Trafikkontroll, Jämtlands län - polisen.se
-- Finland stöder kvinnor i konflikter och stärker jämställdheten vid FN:s session om kvinnors ställning - Ulkoministeriö
+- Läkemedlet ger hopp – men stoppas i Sverige: ”De leker med våra liv” - Aftonbladet
+- JUST NU: Putin hjälper Iran – attackerar USA - Expressen
+- Storfavoriten sjuk inför Melodifestivalfinalen - Norran
+- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kristerssons besked: Stopp för barn på Tiktok - SvD
+- Emma om kränkningar på återvinningscentralen: ”Jag har blivit kallad slampa” - SVT Nyheter
+- Här är landets bästa och sämsta vårdcentraler - Senioren
+- Kanada vill ha bort exprins Andrew från tronföljden - Yle
 - Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
-- 300 personer kidnappade i Nigeria - GP
-- Zelenskyj stödjer trupper vid Donetsk-fronten - Aftonbladet
-- Varnar efter Trumps ord: ”Evigt krig” - Expressen
-- DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
+- Hizbollah: I markstrider med Israel - Västerbottens-Kuriren
+- 300 personer kidnappade i Nigeria - Aftonbladet
+- Skenande gaspris kan ge dyrare gödsel – och dyrare mat - Omni
 - Forskare: Uppkopplade bilar skickar enorma mängder data - Dagens PS
+- DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
 - Microsoft fortsätter använda Anthropics AI trots Pentagon-beslut - Placera.se
-- Amerikanska regeringen vägrar återbetala tullar - Placera.se
+- Sofia Åhman ryter ifrån – efter Filip Hammars utspel: ”Konstigt” - Svensk Damtidning
 - Photoroom: Frilägg bilder med smidig AI-app - PC för Alla
-- Vårens stora actionspel hade varit perfekt – om inte för en frustrerande detalj - MovieZine
 
 ## World News
 
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Corren kan vinna pris för satsningen på unga - Corren
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -142,12 +142,12 @@ _Updated: 2026-03-07 09:04_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
