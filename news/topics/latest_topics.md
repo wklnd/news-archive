@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 15:21_
+_Updated: 2026-03-07 15:55_
 
 ## Top Stories
 
-- Irans president: ”Ber om ursäkt till våra grannländer” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tawan, 20, utvisades innan stoppet: ”Inte rättvist” - Dagens Nyheter
-- En befaras död efter norskt snöskred - GP
+- En befaras död efter norskt snöskred - Västerbottens-Kuriren
 - Grönländaren som kallas för landsförrädare: ”Världens sista revolutionär” - GP
-- Flera döda i ryska attacker mot Ukraina - GP
-- Undersköterskorna skulle utvisas till Iran: ”Vågar inte hoppas” - Dagens Nyheter
-- 07 mars 06.50, Sammanfattning natt, Västernorrlands län - Polisen.se
-- Larm om skottlossning i Malmö - GP
-- 06 mars 13.38, Trafikkontroll, Västerbottens län - Polisen.se
+- Hizbollah: I markstrider med Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Maryam gömmer sig undan bomberna i Iran: ”Allt skakar” - Aftonbladet
+- Miljonärerna strömmade till Dubai – nu flyr de: ”Kan rita om kartan” - EFN
+- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska ambassadören kallas till UD – efter drönarincident - SVT Nyheter
 - PATRIK KRONQVIST: Islamisternas nya mål: radikalisera småbarn - expressen.se
+- Här är landets bästa och sämsta vårdcentraler - Senioren
+- Anna-Lena Laurén: Trots känslorus och alkohol var ingen aggressiv - Dagens Nyheter
+- Flera döda i ryska attacker mot Ukraina - GP
 - 300 personer kidnappade i Nigeria - GP
-- Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
-- Orbán stoppar transporter och pengar till Ukraina - Dagens Nyheter
 - Stabilitet blir lätt en ursäkt för att fega ur - SvD
 - Direkt – Krisen i Mellanöstern – Irans varning till USA: Väntar i Hormuzsundet - Dagens Nyheter
+- Populära sajter säljer utgången teknik – trots upprepade tillsyner - Dagens Nyheter
+- Att navigera på börsen när osäkerheten ökar - Placera.se
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
-- Amerikanska regeringen vägrar återbetala tullar - Placera.se
 - Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
 - Siktade på brösten – döms för misshandel - Falköpings Tidning
 
@@ -30,13 +30,13 @@ _Updated: 2026-03-07 15:21_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Calgary and Edmonton submit joint bid for 2028 World Cup of Hockey - Global News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - NT kan vinna pris för satsningen på unga - NT
@@ -46,7 +46,7 @@ _Updated: 2026-03-07 15:21_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -55,44 +55,44 @@ _Updated: 2026-03-07 15:21_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Green steel company Stegra reported to meet with creditors Tuesday - Sveriges Radio
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -100,7 +100,6 @@ _Updated: 2026-03-07 15:21_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
@@ -108,37 +107,38 @@ _Updated: 2026-03-07 15:21_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
