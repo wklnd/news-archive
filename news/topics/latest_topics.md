@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 00:49_
+_Updated: 2026-03-08 01:46_
 
 ## Top Stories
 
+- Trump: Vill inte att kurder går in - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iranska diplomater lämnar Libanon – flygs till Ryssland - Dagens Nyheter
-- Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter
+- Nya bilder på misstänkta ryska krigsbrott med brandstridsmedel - Dagens Nyheter
 - Felicia vinner Melodifestivalen 2026 - Aftonbladet
+- Försiktig glädje bland kristna efter beskedet att migrationspolitiken ses över - Dagen
 - Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
-- Explosion på Dubais flygplats – fick stänga igen - Folkbladet
-- Nationalsporten: att håna 19-åringar i skyddsrum - Kvartal
 - Räddningsinsats norr om Åre efter lavin - SVT Nyheter
 - Behandling dröjde – kvinna dog av septisk chock - GP
 - Här är landets bästa och sämsta vårdcentraler - Senioren
 - Undersköterskorna skulle utvisas till Iran: ”Vågar inte hoppas” - Dagens Nyheter
-- Nya bilder på misstänkta ryska krigsbrott med brandstridsmedel - Dagens Nyheter
-- Stopp för utvisningar till oroligt Libanon - Aftonbladet
+- Källor: Trump vill samarbeta om Irans olja • Venezuela är förebild - Expressen
 - JUST NU: Frontalkrock i Degerfors – ambulanshelikopter på väg - NWT
-- Leavitt: På väg att ta kontroll över Irans luftrum - Expressen
+- Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
+- UPPGIFTER: Kriget eskalerar – Trump har bestämt sig - Marcus Oscarsson
+- Nathan Shachar: Flottan är ur spel – därför kan Iran ändå blockera sundet - Dagens Nyheter
 - Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
-- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- OLJEPRIS OCH JOBBMISS TYNGDE BÖRSERNA, S&P 500 -1,3% - Placera.se
+- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
 - Så mycket kostade dyraste huset i Kristinehamns kommun i februari - nkp.se
 - Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
 
@@ -55,35 +55,39 @@ _Updated: 2026-03-08 00:49_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -94,7 +98,6 @@ _Updated: 2026-03-08 00:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
@@ -102,13 +105,14 @@ _Updated: 2026-03-08 00:49_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
