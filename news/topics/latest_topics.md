@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 23:44_
+_Updated: 2026-03-08 00:49_
 
 ## Top Stories
 
-- Bomb mot nattklubb i Peru skadar tiotals - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iranska diplomater lämnar Libanon – flygs till Ryssland - Dagens Nyheter
-- Man anhållen misstänkt för våldtäkt - Expressen
 - Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Tusentals amerikaner evakuerade - Dagens Nyheter
+- Felicia vinner Melodifestivalen 2026 - Aftonbladet
 - Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
+- Explosion på Dubais flygplats – fick stänga igen - Folkbladet
+- Nationalsporten: att håna 19-åringar i skyddsrum - Kvartal
 - Räddningsinsats norr om Åre efter lavin - SVT Nyheter
+- Behandling dröjde – kvinna dog av septisk chock - GP
 - Här är landets bästa och sämsta vårdcentraler - Senioren
 - Undersköterskorna skulle utvisas till Iran: ”Vågar inte hoppas” - Dagens Nyheter
-- TV: När är det okej att lämna hundbajset? - Tranås Tidning
-- Sverige stoppar utvisningar till oroligt Libanon - Hufvudstadsbladet
-- Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
-- Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
-- Varnar efter Trumps ord: ”Evigt krig” - Expressen
-- Här ska Kinas järngrepp om Europa brytas - SvD
+- Nya bilder på misstänkta ryska krigsbrott med brandstridsmedel - Dagens Nyheter
+- Stopp för utvisningar till oroligt Libanon - Aftonbladet
+- JUST NU: Frontalkrock i Degerfors – ambulanshelikopter på väg - NWT
+- Leavitt: På väg att ta kontroll över Irans luftrum - Expressen
+- Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
+- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
+- OLJEPRIS OCH JOBBMISS TYNGDE BÖRSERNA, S&P 500 -1,3% - Placera.se
 - Så mycket kostade dyraste huset i Kristinehamns kommun i februari - nkp.se
 - Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
-- Efter avslöjandet: DJI betalar 30 000 dollar till användare som hittade sårbarhet - Teknikveckan
-- Smart teknik och biologiska superkrafter: Så överlevde neandertalarna Europas brutala istider - varldenshistoria.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-03-07 23:44_
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- NT kan vinna pris för satsningen på unga - NT
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- NT kan vinna pris för satsningen på unga - NT
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Corren kan vinna pris för satsningen på unga - Corren
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -75,19 +75,15 @@ _Updated: 2026-03-07 23:44_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -103,7 +99,7 @@ _Updated: 2026-03-07 23:44_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -120,7 +116,7 @@ _Updated: 2026-03-07 23:44_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -129,14 +125,14 @@ _Updated: 2026-03-07 23:44_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
