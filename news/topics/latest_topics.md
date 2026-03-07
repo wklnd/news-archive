@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 21:44_
+_Updated: 2026-03-07 22:48_
 
 ## Top Stories
 
 - Ramadan i krigets spår – stängda portar och tomma gator - Dagens Nyheter
 - Gregoria kördes ihjäl av cyklisten på Möllan: ”På en sekund förändrades allt” - Sydsvenskan
-- Israel kräver att Libanon avväpnar Hizbollah - GP
-- Ung kvinna i Iran: ”Jag har svårt att föreställa mig framtiden” - Dagens Nyheter
-- Minst 25 döda i översvämningar i Kenya - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Skyskrapa skadad i Dubai - Dagens Nyheter
-- Man skadad i skottlossning i södra Stockholm - SVT Nyheter
-- Räddningsinsats norr om Åre efter lavin - SVT Nyheter
-- Pappans ord om döttrarnas försök att mörda honom - SVT Nyheter
-- Hovrätten ändrar – mördare får livstid - GP
 - Nya bilder på misstänkta ryska krigsbrott med brandstridsmedel - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Stopp för utvisningar till oroligt Libanon - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Tusentals amerikaner evakuerade - Dagens Nyheter
-- Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
+- Ung kvinna i Iran: ”Jag har svårt att föreställa mig framtiden” - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Fler svenskar flygs hem - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iranska diplomater lämnar Libanon – flygs till Ryssland - Dagens Nyheter
+- Räddningsinsats norr om Åre efter lavin - SVT Nyheter
+- Behandling dröjde – kvinna i Skåne dog av septisk chock - Expressen
+- Bilder: Jernhusen visade nya klenoden Grand Central - Fastighetsvärlden
+- Här är landets bästa och sämsta vårdcentraler - Senioren
+- Direkt – Krisen i Mellanöstern – Saudiarabien: Stoppat nya drönare - Dagens Nyheter
+- Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
+- Varnar efter Trumps ord: ”Evigt krig” - Expressen
+- Nationalsporten: att håna 19-åringar i skyddsrum - Kvartal
 - Här ska Kinas järngrepp om Europa brytas - SvD
-- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
+- Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
 - Så mycket kostade dyraste huset i Kristinehamns kommun i februari - nkp.se
-- Steam Machine kan försenas – Valve osäkra inför 2026 - Teknikveckan
+- Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
+- DJI betalar 300 000 kronor till hacker. Han som kom åt 7 000 DJI Romo-dammsugare. - feber.se
 
 ## World News
 
@@ -32,44 +32,44 @@ _Updated: 2026-03-07 21:44_
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - NT kan vinna pris för satsningen på unga - NT
-- Sveriges Annonsörer värd för Global Marketer Conference 2026 - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Corren kan vinna pris för satsningen på unga - Corren
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,22 +77,20 @@ _Updated: 2026-03-07 21:44_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
