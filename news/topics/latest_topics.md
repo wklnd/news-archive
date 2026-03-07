@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 13:43_
+_Updated: 2026-03-07 15:21_
 
 ## Top Stories
 
 - Irans president: ”Ber om ursäkt till våra grannländer” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tawan, 20, utvisades innan stoppet: ”Inte rättvist” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Efter explosioner – Emirates ställer in alla flyg till Dubai - Dagens Nyheter
+- En befaras död efter norskt snöskred - GP
+- Grönländaren som kallas för landsförrädare: ”Världens sista revolutionär” - GP
 - Flera döda i ryska attacker mot Ukraina - GP
-- MP kräver nollvision mot försenade tåg: ”Kan Ukraina borde vi kunna” - Dagens Nyheter
-- Trump ser chansen att bli den oövervinnerlige - Expressen
-- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Larm om skottlossning i Malmö - GP
+- Undersköterskorna skulle utvisas till Iran: ”Vågar inte hoppas” - Dagens Nyheter
 - 07 mars 06.50, Sammanfattning natt, Västernorrlands län - Polisen.se
-- 06 mars 13.37, Trafikkontroll, Jämtlands län - Polisen.se
-- Anna-Lena Laurén: Trots känslorus och alkohol var ingen aggressiv - Dagens Nyheter
-- Vita huset: Trump avgör när Iran kapitulerat - Aftonbladet
+- Larm om skottlossning i Malmö - GP
+- 06 mars 13.38, Trafikkontroll, Västerbottens län - Polisen.se
+- PATRIK KRONQVIST: Islamisternas nya mål: radikalisera småbarn - expressen.se
 - 300 personer kidnappade i Nigeria - GP
 - Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
-- Sandviks ex-VD och stridspiloten reser pengar – utan institutioner - Affärsvärlden
-- Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
-- AI-hysterin når ny nivå – tre bolag tog 83 procent av pengarna - Dagens PS
+- Orbán stoppar transporter och pengar till Ukraina - Dagens Nyheter
+- Stabilitet blir lätt en ursäkt för att fega ur - SvD
+- Direkt – Krisen i Mellanöstern – Irans varning till USA: Väntar i Hormuzsundet - Dagens Nyheter
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- Turismen ökar trycket på vårdcentralen: ”De vanliga besöken ska inte stå tillbaka” - VF
-- Allvarlig WordPress-bugg låter hackare skapa adminkonton - Teknikveckan
+- Sandström: Så tog Kina kontroll över Northvolt - Affärsvärlden
+- Amerikanska regeringen vägrar återbetala tullar - Placera.se
+- Krönikor: Vita husets video är pinsam, humorlös och otäck - Omni
+- Siktade på brösten – döms för misshandel - Falköpings Tidning
 
 ## World News
 
@@ -38,8 +38,8 @@ _Updated: 2026-03-07 13:43_
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- NT kan vinna pris för satsningen på unga - NT
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- NT kan vinna pris för satsningen på unga - NT
 - Corren kan vinna pris för satsningen på unga - Corren
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
@@ -51,23 +51,23 @@ _Updated: 2026-03-07 13:43_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -78,21 +78,21 @@ _Updated: 2026-03-07 13:43_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -146,19 +146,19 @@ _Updated: 2026-03-07 13:43_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
 - Framtidens jordbruk är här - EU Digital Strategy
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 22 August, 2023 Webinar: From Droughts and Floods to Landslides – How do we preserve agricultural and cultural landscapes and ecosystems during extreme weather events? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
