@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-07 06:49_
+_Updated: 2026-03-07 08:02_
 
-- Justice Dept. releases missing Epstein documents with Trump allegations - The Washington Post
-- Iran war: What is happening on day seven of US-Israel attacks? - Al Jazeera
-- A Sex Scandal and ‘Mein Kampf’ Give Democrats Hope in West Texas Race - The New York Times
-- Democrats are probing companies awarded a $220 million ad contract for ties to Noem, Lewandowski - NBC News
-- Coast Guard announces passing of Petty Officer Tyler Jaggers following rescue operation injury - United States Coast Guard (.mil)
-- Darrell Issa announces retirement from the House - Politico
-- Steyer questions Swalwell’s eligibility to run for California governor - Politico
-- Live updates: Strong tornadoes, baseball-size hail target America's Heartland in storm outbreak - FOX Weather
-- Russia is providing Iran intelligence to target U.S. forces, officials say - The Washington Post
-- Americans stranded in UAE vent anger at lack of US government support - Financial Times
-- US could lift sanctions on more Russian oil, says Bessent - Reuters
-- Live updates: Trump says no deal with Iran until ‘unconditional surrender’ - CNN
-- Stock Market News From March 6, 2026: Dow Slides as Stagflation Worries Roil Markets - Barron's
+- Iran Live Updates: Trump Demands Iran's 'Unconditional Surrender' as Israel Strikes Tehran - The New York Times - The New York Times
+- California official calling on Trump administration to return deaf Bay Area boy, his family deported to Colombia - ABC7 Los Angeles
+- Russia is providing intelligence to Iran on the location of U.S. forces, sources say - NBC News
+- Trump tells CNN Cuba is soon going to fall: ‘I’m going to put Marco over there’ - CNN
+- Markwayne Mullin, Trump’s Pick to Replace Noem at DHS, Learned to Spar in Oklahoma - The New York Times - The New York Times
+- IRIS Dena: The final voyage of the Iranian warship sunk by the US - BBC
+- Scoop: Rep. Darrell Issa expected to retire from Congress - Axios
+- BREAKING: Medical examiner, police on scene after tornado sweeps through Union City - WWMT
+- Trump scrambles to address gas prices that have spiked to the highest ever on his watch - Yahoo Finance
+- FBI probes possible internet outage in Nancy Guthrie case - NewsNation
+- Shield of the Americas Summit to showcase Trump's push to reshape the hemisphere - Axios
+- Trump’s Real Plan for Iran Might Be Coming Into View - Slate
+- Americans stuck in the Middle East recount finding their way home with little government help - AP News
+- Unprepared for Iranian drones, U.S. and partners seek Ukraine’s help - The Washington Post
+- Saks Global to close 15 more stores. See shuttering locations. - USA Today
+- Trump Accounts: IRS announces rules proposal for $1K payments - The Hill
 - United CEO Scott Kirby says higher airfare could be ahead after fuel price spike - CNBC
-- Iran Is Bombing Data Centers in Retaliation - Futurism
-- Costco says it'll return tariff money to members — if it gets refund - Axios
-- Valve says it still plans to ship the Steam Machine in 2026 - The Verge
-- GLP-1 Patients Report New Side Effect—and It’s Worse Than ‘Ozempic Face’ - The Daily Beast
-- Celebrity sighting: Actress among first to ride LEGOLAND’s new space-themed coaster - fox5sandiego.com
-- Free Play Days – Call of Duty Black Ops 7, Sonic Racing: CrossWorlds, FBC: Firebreak and Black Desert - Xbox Wire
+- Wall Street’s Safety Net Is Giving Way as Iran War Hits Markets - Bloomberg
+- Android 16 QPR3: Pixel Launcher search bar loses M3 Expressive redesign - 9to5Google
+- Xbox Drops 2 AAA Free Games, No Game Pass Required To Play - GAMINGbible
