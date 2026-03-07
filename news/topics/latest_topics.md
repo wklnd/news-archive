@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-07 09:49_
+_Updated: 2026-03-07 10:54_
 
 ## Top Stories
 
-- Larm om skottlossning i Malmö - TV4 Nyheterna
-- Flera döda i ryska attacker mot Ukraina - Dagens Nyheter
-- 07 mars 06.50, Sammanfattning natt, Västernorrlands län - polisen.se
-- Läkemedlet ger hopp – men stoppas i Sverige: ”De leker med våra liv” - Aftonbladet
+- Emirates återupptar verksamheten – Dubais flygplats stängd – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska ambassadören uppkallad till UD - GP
+- Stjärnans dubbla liv: Stal från Ica – var nära att gå under - Aftonbladet
 - JUST NU: Putin hjälper Iran – attackerar USA - Expressen
-- Storfavoriten sjuk inför Melodifestivalfinalen - Norran
-- Sverige skickar sjukvårdspersonal till strandsatta – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kristerssons besked: Stopp för barn på Tiktok - SvD
-- Emma om kränkningar på återvinningscentralen: ”Jag har blivit kallad slampa” - SVT Nyheter
-- Här är landets bästa och sämsta vårdcentraler - Senioren
-- Kanada vill ha bort exprins Andrew från tronföljden - Yle
-- Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
-- Hizbollah: I markstrider med Israel - Västerbottens-Kuriren
-- 300 personer kidnappade i Nigeria - Aftonbladet
 - Skenande gaspris kan ge dyrare gödsel – och dyrare mat - Omni
-- Forskare: Uppkopplade bilar skickar enorma mängder data - Dagens PS
+- Storfavoriten sjuk inför Melodifestivalfinalen - Norran
+- 07 mars 06.50, Sammanfattning natt, Västernorrlands län - Polisen.se
+- Polischef har kopplingar till misstänkt i narkotikahärva - SVT Nyheter
+- DEBATT: Ingen kvinna ska dödas - Jönköpings-Posten
+- 06 mars 13.37, Trafikkontroll, Jämtlands län - Polisen.se
+- Ingmar Nevéus: Trumplojala republikaner kan komma att ångra sina röster - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran: Inga attacker mot grannländer – om inte de attackerar - Dagens Nyheter
+- Hizbollah: I markstrider med Israel - Västerbottens-Kuriren
+- Flera döda i ryska attacker mot Ukraina - Västerbottens-Kuriren
+- Sandviks ex-VD och stridspiloten reser pengar – utan institutioner - Affärsvärlden
+- Wallenberg har lyckats med det omöjliga - Dagens PS
+- AI-hysterin når ny nivå – tre bolag tog 83 procent av pengarna - Dagens PS
 - DEBATT: Sänkt arbetstidsmått – en jämställdhetsfråga - Vimmerby Tidning
-- Microsoft fortsätter använda Anthropics AI trots Pentagon-beslut - Placera.se
-- Sofia Åhman ryter ifrån – efter Filip Hammars utspel: ”Konstigt” - Svensk Damtidning
 - Photoroom: Frilägg bilder med smidig AI-app - PC för Alla
+- Vårens stora actionspel hade varit perfekt – om inte för en frustrerande detalj - MovieZine
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Corren kan vinna pris för satsningen på unga - Corren
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- ECB-ledamot: Större global roll kan stärka euron - EFN
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Corren kan vinna pris för satsningen på unga - Corren
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -58,8 +58,8 @@ _Updated: 2026-03-07 09:49_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -80,19 +80,19 @@ _Updated: 2026-03-07 09:49_
 - Finance Panel: IMF on economic and financial policies in Sweden - sns.se
 - Finance Minister on stock market plunge: 'Swedish economy stands strong' - Sveriges Radio
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
@@ -114,8 +114,8 @@ _Updated: 2026-03-07 09:49_
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
