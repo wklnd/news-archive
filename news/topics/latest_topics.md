@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 17:46_
+_Updated: 2026-03-08 18:52_
 
 ## Top Stories
 
-- Gängtopp skjuten med flera skott – polisen befarar hämndaktioner - Aftonbladet
+- Dricksvattenanläggning i Iran attackerad: ”Stor risk” - Aftonbladet
+- Massiv forskarkritik mot ålderskontroller på internet - Teknikveckan
 - Planerade arenabygget pausas – på obestämd tid - GP
-- Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
-- Cykeln stals och bjöds ut – då spårade de upp säljaren - Sydsvenskan
+- KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
 - Irans Araghchi i amerikansk tv: Be om ursäkt - GP
-- Ukraina vann mer mark än det förlorade i februari, säger Syrskyj - Dagens.se
+- Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
+- KD vill införa åldersgräns för smartphones - Västerbottens-Kuriren
+- Så vände Malmö misstron mot socialtjänsten - Dagens Nyheter
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
-- 08 mars 07.48, Sammanfattning natt, Västernorrlands län - polisen.se
-- Kvinnodagen: Så jämställt är Sverige - GP
-- Expert: Sverige kan ta täten för kärnvapen i Norden - Dagens Nyheter
-- Nya sökningarna efter förvunna MH370 resultatlösa - Dagens Nyheter
-- Explosion på Dubais flygplats – fick stänga igen - Aftonbladet
-- UD om kritiken kring Swishplanet: ”Bleknar ganska snabbt” - Aftonbladet
+- Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
+- Oljedepåer i lågor i Teheran – eldklot och rök - GP
+- Direkt – Krisen i Mellanöstern – Qatar Airways flyger från Doha - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
+- Explosion vid USA:s ambassad i Oslo – ingen gripen - SVT Nyheter
 - Forskaren: AI tar jobb från unga svenskar - SvD
+- Jonas Fröberg: Miljardrullning i monopolnäten - Dagens Nyheter
 - Lönegapet störst i toppen - DI
-- Kriget i Iran adderar ny oro på bostadsmarknaden - DI
-- Deklarationsdags! Här är avdragen du inte få missa - expressen.se
+- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
 - 10 Volvo-bilar på Blocket att drömma om – har du råd? - auto motor & sport
 
@@ -36,13 +36,13 @@ _Updated: 2026-03-08 17:46_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -98,9 +98,10 @@ _Updated: 2026-03-08 17:46_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -108,12 +109,11 @@ _Updated: 2026-03-08 17:46_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Anna Mia Ekström - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 
@@ -142,23 +142,23 @@ _Updated: 2026-03-08 17:46_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
