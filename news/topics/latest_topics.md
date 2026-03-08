@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 16:50_
+_Updated: 2026-03-08 17:46_
 
 ## Top Stories
 
-- Storbrand vid oljedepå och skyskrapa i lågor efter nattens attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Gängtopp skjuten med flera skott – polisen befarar hämndaktioner - Aftonbladet
 - Planerade arenabygget pausas – på obestämd tid - GP
-- Cykeln stals och bjöds ut – då spårade de upp säljaren - Sydsvenskan
 - Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
-- Här bor kvinnorna mitt i Texas – helt utan män - GP
-- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
-- Ovanligt höga temperaturer: ”Varmare och ljusare tider” - Dagens Nyheter
+- Cykeln stals och bjöds ut – då spårade de upp säljaren - Sydsvenskan
+- Irans Araghchi i amerikansk tv: Be om ursäkt - GP
+- Ukraina vann mer mark än det förlorade i februari, säger Syrskyj - Dagens.se
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- KD: "Orimliga tonårsutvisningar ska stoppas" - Oskarshamns-Nytt
-- Oljedepåer i lågor i Teheran – eldklot och rök - GP
+- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
+- 08 mars 07.48, Sammanfattning natt, Västernorrlands län - polisen.se
+- Kvinnodagen: Så jämställt är Sverige - GP
 - Expert: Sverige kan ta täten för kärnvapen i Norden - Dagens Nyheter
 - Nya sökningarna efter förvunna MH370 resultatlösa - Dagens Nyheter
-- Ukraina vann mer mark än det förlorade i februari, säger Syrskyj - Dagens.se
-- Lönegapet störst i toppen - DI
-- Kvinnor klår männen på börsen - SvD
+- Explosion på Dubais flygplats – fick stänga igen - Aftonbladet
+- UD om kritiken kring Swishplanet: ”Bleknar ganska snabbt” - Aftonbladet
 - Forskaren: AI tar jobb från unga svenskar - SvD
-- Bedrägeriförsök ökar under deklarationen - Hem - Värnamo
+- Lönegapet störst i toppen - DI
+- Kriget i Iran adderar ny oro på bostadsmarknaden - DI
+- Deklarationsdags! Här är avdragen du inte få missa - expressen.se
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
-- Superbilarna som många faktiskt har råd med - Carup.se
+- 10 Volvo-bilar på Blocket att drömma om – har du råd? - auto motor & sport
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2026-03-08 16:50_
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - NT kan vinna pris för satsningen på unga - NT
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Corren kan vinna pris för satsningen på unga - Corren
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -65,11 +65,11 @@ _Updated: 2026-03-08 16:50_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
@@ -98,10 +98,9 @@ _Updated: 2026-03-08 16:50_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -109,11 +108,12 @@ _Updated: 2026-03-08 16:50_
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Fakulteten för hälsa och samhälle - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Anna Mia Ekström - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 
