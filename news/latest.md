@@ -1,24 +1,4 @@
 # Top News Headlines
 
-_Updated: 2026-03-08 05:19_
+_Updated: 2026-03-08 07:01_
 
-- Trump says Iran at fault for strike on girls school - Politico
-- At least 6 dead after tornado rips through Michigan and storms hit central U.S. - CBS News
-- In War’s First Week, a Punishing Military Campaign With No Coherent Endgame - The New York Times
-- Russia kills 10 in Ukraine strike including children with new missile - Al Jazeera
-- Cubastroika: Inside Trump plan to save Cuba's economy and win control - USA Today
-- Recent U.S. Assessment Found an Attack on Iran Unlikely to Result in Regime Change - The New York Times
-- Judge rules Kari Lake unlawfully ran U.S. media agency, voiding layoffs - The Washington Post
-- US Navy’s Newest Supercarrier Transited The Suez Canal, Entered Red Sea - Forbes
-- Shedding light on how Epstein used visits to Interlochen to target girls - NPR
-- ‘Operation Epstein Distraction’: Trump’s bloody Iran ‘hype videos’ seem to target niche audience - The Guardian
-- Russia Revels in a Sudden Reversal in Fortunes as Oil and Gas Prices Soar - The New York Times
-- Rapper-politician Balendra Shah on course to be Nepal's next prime minister - BBC
-- India letting Iran warship dock after US sank another off Sri Lanka, officials say - The Times of Israel
-- Putin calls for immediate halt to Iran conflict - Reuters
-- Inside the booming business of wellness third spaces and membership clubs - CNBC
-- Paramount Eyes Changes to Historic Studio Lot Following Warner Bros. Merger - The Hollywood Reporter
-- The #1 Rule For Retiring On Dividends (3 Stocks That Prove It) - Seeking Alpha
-- Oil surges to its highest price since 2023, and stocks drop after U.S. jobs report - NPR
-- DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge
-- Apple adds Steve Lemay and Molly Anderson to its leadership page - 9to5Mac
