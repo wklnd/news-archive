@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 06:56_
+_Updated: 2026-03-08 08:03_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Attack mot hotell i Beirut – flera döda - Dagens Nyheter
+- Svenskplanet har lyft – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- L: Sälj operan och lägg pengarna på kulturen - GP
+- ”Inga kvinnor ska uppleva det jag gjort” - SvD
 - Länderna som USA anfallit – så gick det - SvD
+- KD vill se åldersgräns för smarta telefoner - Omni
 - Uppgifter: Dödade Ali Khameneis son skadad - Västerbottens-Kuriren
-- Kuwait: Drönarattack mot flygplats - GP
-- Felicia vinner Melodifestivalen 2026 – tårarna efter vinsten - Aftonbladet
-- UPPGIFTER: Ryssland slår till mot Sverige – ”kan bli en motreaktion” - Marcus Oscarsson
 - Svalt intresse för kvinnodagen – Molly: ”Ingen pratar om det” - SVT Nyheter
+- Bespara oss fina ord – låt oss bara göra vårt jobb - Aftonbladet
 - Räddningsinsats norr om Åre efter lavin - SVT Nyheter
 - Larm om skottlossning i Malmö - GP
-- Här är landets bästa och sämsta vårdcentraler - Senioren
+- Direkt – Krisen i Mellanöstern – Överväger att skicka specialstyrkor till Iran - Dagens Nyheter
+- Explosion vid USA:s ambassad i Oslo - GP
+- Direkt – Krisen i Mellanöstern – Källor: Överväger att skicka specialstyrkor till Iran - Dagens Nyheter
 - Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
-- UPPGIFTER: Kriget eskalerar – Trump har bestämt sig - Marcus Oscarsson
-- Uppgifter: USA låg sannolikt bakom skolattack - Dagens Nyheter
-- Källor: Trump vill samarbeta om Irans olja • Venezuela är förebild - Expressen
 - Deklarationsdags! Här är avdragen du inte få missa - Expressen
-- Här är allt du behöver veta om de nya amorteringsreglerna – så påverkar de dig som ska köpa eller renovera en bostad - GP
+- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
+- Så slår Irankonflikten mot världsekonomin - Dagens Nyheter
 - Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
-- Emirates ställer in igen: ”Åk inte till flygplatsen” - GP
 - Succé för gårdens nya event - SkLT
 - Galaxy S26-serien sätter förbeställningsrekord i Sydkorea, börjar säljas i Sverige - Swedroid
 
@@ -40,13 +40,13 @@ _Updated: 2026-03-08 06:56_
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Corren kan vinna pris för satsningen på unga - Corren
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -98,46 +98,46 @@ _Updated: 2026-03-08 06:56_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Institutionen för vårdvetenskap - Malmö universitet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige siktar mot världstoppen - 45 projekt inleder satsning på framtidens teknik - Vinnova
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
@@ -153,7 +153,7 @@ _Updated: 2026-03-08 06:56_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
