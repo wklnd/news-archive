@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 22:49_
+_Updated: 2026-03-08 23:47_
 
 ## Top Stories
 
-- Göran Eriksson: Har Donald Trump gjort läxan av Irakkriget till Irankriget? | Göran Eriksson - SvD
+- Har Trump gjort läxan av Irakkriget? - SvD
+- Så försökte han värva unga – till grova våldsdåd - GP
+- Prinsessorna avgörande i striden om tronföljden - SvD
 - Putin vill isolera ryssarna – så slår de tillbaka i nätstriden - Dagens Nyheter
-- Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
-- Irans Araghchi i amerikansk tv: Be om ursäkt - GP
 - KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
-- Då går USA in med marktrupper - Expressen
+- Fall inte för utspelen om skolan - SvD
 - Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
-- KD vill införa åldersgräns för smartphones - Aftonbladet
+- Teknikstrul på Visby lasarett – operationer ställs in - SVT Nyheter
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- KD: "Orimliga tonårsutvisningar ska stoppas" - Oskarshamns-Nytt
+- Misstänkt grov misshandel på buss – två skadade - SVT Nyheter
+- Hotfulla orden om Trump: ”Han måste betala priset” - Expressen
 - Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Iran: Över 100 döda i attack mot fartyg - Dagens Nyheter
-- UD om svenska strandsatta turisters klagomål: ”Det är krig” - SvD
-- UPPGIFTER: Gränsen nådd för Erdogan – skickar stridsflygplan - Marcus Oscarsson
-- Forskaren: AI tar jobb från unga svenskar - SvD
+- Israelisk insats i natt – ny jakt på fångad pilot - Expressen
+- Hemliga vapnet som alla vill åt - Expressen
+- Nya EU-regler: Nu slipper du bankernas dolda avgifter - Dagens PS
+- Lönegapet störst i toppen - DI
+- DEBATT: Jämställdhet – Dalarnas viktigaste tillväxtfråga? - Borlänge Tidning
 - Får skylla mig själv när jag köpte den här bilen - Aftonbladet
-- Phd-paradoxen – meriter räcker inte för att överbrygga finansieringsgapet för kvinnor - Biostock
 - Potentiellt genombrott: En liten glasplatta kan innehålla två miljoner böcker i 10 000 år - Illustrerad Vetenskap
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
-- Rykte: MacBook Neo 2 kan få pekskärm - Teknikveckan
 
 ## World News
 
@@ -102,18 +102,18 @@ _Updated: 2026-03-08 22:49_
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Institutionen för vårdvetenskap - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Johan von Schreeb - Karolinska Institutet
 - Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 
