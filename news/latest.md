@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-08 16:00_
+_Updated: 2026-03-08 16:56_
 
+- Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites - AP News
+- Trump, 79, Issues Bonkers ‘Last Moments’ Takeover Threat - The Daily Beast
 - U.S. weighs sending special forces to seize Iran's nuclear stockpile - Axios
 - A Republican’s Stand Against the Iran War Stirs Up a Heated Kentucky Primary - The New York Times
-- Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory - BBC
-- After Olympics controversy, Eileen Gu gets nothing but love at SF parade - SFGATE
-- Israel pounds Iran missile sites, airport as Tehran fires back repeated salvos, threatens Europe - The Times of Israel
+- Iran’s Historic Capital Is Ground Zero for the U.S.-Israeli Air War - WSJ
+- Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran - Axios
 - Death Valley sees its most spectacular superbloom in a decade - NBC News
 - US embassy in Oslo hit by explosion, Norway police say - BBC
-- How Georgia supercharged sleepy utility board elections - Politico
 - How a sketch of an unknown woman found in a Georgia swamp revealed a twisted case of death and deception - CBS News
-- Iran president apologizes for attacks on neighbors, mocks Trump’s call for ‘unconditional surrender' - Fox News
+- Dan Crenshaw blames primary loss on clickbait misinformation - The Texas Tribune
 - Iran’s Revolutionary Guards: The Spine of a Militarized State - The New York Times
-- Iranian projectiles continue to strike Gulf countries; Tehran says new leader appointed - CNBC
-- World War II museum ships suddenly feel less like history after a US submarine sank an Iranian warship - Business Insider
+- Under threat, Iraqi Kurds resist pressure to join Iran war - Axios
+- HORMUZ TRACKER: Iran-Linked Ships Transit as Others Stay Away - Bloomberg.com
+- As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters
 - Trump’s ‘roaring’ economy meets a rough start to 2026: What the latest numbers show - AP News
-- AI is spurring a big expansion of high-voltage power lines. Landowners and locals are fighting back - AP News
+- War to force Gulf producers to stop energy exports within days, push oil to $150, Qatar minister says - Seeking Alpha
+- Oil prices ‘could breach $100 a barrel within days’ amid supply disruption from Iran war - The Guardian
 - 4 Berkshire Hathaway Stocks That New CEO Greg Abel "Expect Will Compound Over Decades" - The Motley Fool
-- Stock Market Rally Attempt Depends On Iran War, Oil's Next Move - Investor's Business Daily
 - Apple's Strange TikTok Videos Capturing Gen Z's Attention - MacRumors
-- Apple still has over a dozen products in the pipeline for 2026, here’s what’s coming - 9to5Mac
-- 4 Underrated Smart TV Features You Need To Start Using - bgr.com
+- Engadget review recap: Galaxy S26 Ultra, Galaxy Buds 4, Dell XPS 14 and more - Engadget
