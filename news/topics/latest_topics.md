@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 08:03_
+_Updated: 2026-03-08 09:07_
 
 ## Top Stories
 
-- Svenskplanet har lyft – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Svenskarna från Dubai har landat - Dagens Nyheter
 - L: Sälj operan och lägg pengarna på kulturen - GP
-- ”Inga kvinnor ska uppleva det jag gjort” - SvD
-- Länderna som USA anfallit – så gick det - SvD
-- KD vill se åldersgräns för smarta telefoner - Omni
-- Uppgifter: Dödade Ali Khameneis son skadad - Västerbottens-Kuriren
+- Tomma lägenheter pressar kommuner: ”Minskat invånarantal slår hårt” - Dagens Nyheter
 - Svalt intresse för kvinnodagen – Molly: ”Ingen pratar om det” - SVT Nyheter
-- Bespara oss fina ord – låt oss bara göra vårt jobb - Aftonbladet
+- 08 mars 07.48, Sammanfattning natt, Västernorrlands län - polisen.se
+- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
+- DEBATT: Knivstas våldsutsatta kvinnor måste få bättre stöd! - UNT
 - Räddningsinsats norr om Åre efter lavin - SVT Nyheter
 - Larm om skottlossning i Malmö - GP
-- Direkt – Krisen i Mellanöstern – Överväger att skicka specialstyrkor till Iran - Dagens Nyheter
-- Explosion vid USA:s ambassad i Oslo - GP
-- Direkt – Krisen i Mellanöstern – Källor: Överväger att skicka specialstyrkor till Iran - Dagens Nyheter
+- Uppgifter: Dödade Ali Khameneis son skadad - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Zelenskyj i samtal med Macron: ”Hållit viktiga försvarslinjer” - Dagens Nyheter
+- Explosion på Dubais flygplats – fick stänga igen - Västerbottens-Kuriren
 - Land för land: Så påverkas flygtrafiken av kriget - Aftonbladet
 - Deklarationsdags! Här är avdragen du inte få missa - Expressen
+- Hellre aktie än smycke som dopgåva - Lidingö Nyheter
 - Får skylla mig själv när jag köpte den här bilen - Aftonbladet
-- Så slår Irankonflikten mot världsekonomin - Dagens Nyheter
-- Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
-- Succé för gårdens nya event - SkLT
-- Galaxy S26-serien sätter förbeställningsrekord i Sydkorea, börjar säljas i Sverige - Swedroid
+- Ford återkallar drygt 1,7 miljoner bilar i USA - DI
+- Knepet som tar bort Office från en pc du har slängt - PC för Alla
+- En spelare har skapat Stockholm i Assetto Corsa - Teknikveckan
 
 ## World News
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - NT kan vinna pris för satsningen på unga - NT
+- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
