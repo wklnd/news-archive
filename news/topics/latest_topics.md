@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 23:47_
+_Updated: 2026-03-09 00:49_
 
 ## Top Stories
 
 - Har Trump gjort läxan av Irakkriget? - SvD
 - Så försökte han värva unga – till grova våldsdåd - GP
-- Prinsessorna avgörande i striden om tronföljden - SvD
 - Putin vill isolera ryssarna – så slår de tillbaka i nätstriden - Dagens Nyheter
-- KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
 - Fall inte för utspelen om skolan - SvD
-- Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
+- KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
+- Direkt – Krisen i Mellanöstern – Israel: Fem befälhavare dödade i hotellattack - Dagens Nyheter
+- Varning för ishalka söder om länsgränsen - Västerbottens-Kuriren
 - Teknikstrul på Visby lasarett – operationer ställs in - SVT Nyheter
+- KD: "Orimliga tonårsutvisningar ska stoppas" - Oskarshamns-Nytt
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- Misstänkt grov misshandel på buss – två skadade - SVT Nyheter
-- Hotfulla orden om Trump: ”Han måste betala priset” - Expressen
 - Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
-- Israelisk insats i natt – ny jakt på fångad pilot - Expressen
+- Irans svar till USA: Operation ”galning” - Expressen
+- Trumps attacker försvagar Putin: ”Ser patetisk ut” - Expressen
 - Hemliga vapnet som alla vill åt - Expressen
 - Nya EU-regler: Nu slipper du bankernas dolda avgifter - Dagens PS
+- Inget krigsslut i sikte: ”Finns inga gränser” - SvD
 - Lönegapet störst i toppen - DI
 - DEBATT: Jämställdhet – Dalarnas viktigaste tillväxtfråga? - Borlänge Tidning
-- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
-- Potentiellt genombrott: En liten glasplatta kan innehålla två miljoner böcker i 10 000 år - Illustrerad Vetenskap
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
+- Rykte: MacBook Neo 2 kan få pekskärm - Teknikveckan
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-08 23:47_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Corren kan vinna pris för satsningen på unga - Corren
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -120,25 +120,25 @@ _Updated: 2026-03-08 23:47_
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
