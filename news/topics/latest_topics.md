@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 18:52_
+_Updated: 2026-03-08 19:48_
 
 ## Top Stories
 
-- Dricksvattenanläggning i Iran attackerad: ”Stor risk” - Aftonbladet
-- Massiv forskarkritik mot ålderskontroller på internet - Teknikveckan
+- Från Metula syns den totala förödelsen i södra Libanon - Dagens Nyheter
+- Irans Araghchi i amerikansk tv: Be om ursäkt - GP
 - Planerade arenabygget pausas – på obestämd tid - GP
 - KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
-- Irans Araghchi i amerikansk tv: Be om ursäkt - GP
-- Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
-- KD vill införa åldersgräns för smartphones - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Irans hint om nya ledaren: En som USA ogillar - Dagens Nyheter
+- Ukraina vann mer mark än det förlorade i februari, säger Syrskyj - Dagens.se
+- KD vill införa åldersgräns för smartphones - GP
 - Så vände Malmö misstron mot socialtjänsten - Dagens Nyheter
-- 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
 - Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
-- Oljedepåer i lågor i Teheran – eldklot och rök - GP
-- Direkt – Krisen i Mellanöstern – Qatar Airways flyger från Doha - Dagens Nyheter
+- 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
 - Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
-- Explosion vid USA:s ambassad i Oslo – ingen gripen - SVT Nyheter
-- Forskaren: AI tar jobb från unga svenskar - SvD
+- Direkt – Krisen i Mellanöstern – Förenade Arabemiraten: Svarar på robot- och drönarhot - Dagens Nyheter
+- ”Shield of the Americas” – Trump bildar militärallians - Marcus Oscarsson
+- Explosion på Dubais flygplats – fick stänga igen - Aftonbladet
 - Jonas Fröberg: Miljardrullning i monopolnäten - Dagens Nyheter
 - Lönegapet störst i toppen - DI
 - Får skylla mig själv när jag köpte den här bilen - Aftonbladet
+- Phd-paradoxen – meriter räcker inte för att överbrygga finansieringsgapet för kvinnor - Biostock
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
-- 10 Volvo-bilar på Blocket att drömma om – har du råd? - auto motor & sport
+- Rykte: MacBook Neo 2 kan få pekskärm - Teknikveckan
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
@@ -45,7 +45,7 @@ _Updated: 2026-03-08 18:52_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -80,16 +80,16 @@ _Updated: 2026-03-08 18:52_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -98,24 +98,24 @@ _Updated: 2026-03-08 18:52_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Institutionen för vårdvetenskap - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- Anna Mia Ekström - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 
 ## Science
 
