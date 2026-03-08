@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 19:48_
+_Updated: 2026-03-08 20:57_
 
 ## Top Stories
 
-- Från Metula syns den totala förödelsen i södra Libanon - Dagens Nyheter
+- ”Så stärks jämställdheten i Sverige” - Västerbottens-Kuriren
+- Putin vill isolera ryssarna – så slår de tillbaka i nätstriden - Dagens Nyheter
 - Irans Araghchi i amerikansk tv: Be om ursäkt - GP
+- Hemliga vapnet som alla vill åt - Expressen
+- Slopat lönekrav i vården välkomnas – med tvekan - SvD
 - Planerade arenabygget pausas – på obestämd tid - GP
-- KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
-- Direkt – Krisen i Mellanöstern – Irans hint om nya ledaren: En som USA ogillar - Dagens Nyheter
-- Ukraina vann mer mark än det förlorade i februari, säger Syrskyj - Dagens.se
-- KD vill införa åldersgräns för smartphones - GP
 - Så vände Malmö misstron mot socialtjänsten - Dagens Nyheter
 - Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
+- KD vill se åldersgräns för smarta telefoner - Omni
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Tusentals amerikaner evakuerade - Dagens Nyheter
+- Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
 - Direkt – Krisen i Mellanöstern – Förenade Arabemiraten: Svarar på robot- och drönarhot - Dagens Nyheter
-- ”Shield of the Americas” – Trump bildar militärallians - Marcus Oscarsson
 - Explosion på Dubais flygplats – fick stänga igen - Aftonbladet
-- Jonas Fröberg: Miljardrullning i monopolnäten - Dagens Nyheter
+- Forskaren: AI tar jobb från unga svenskar - SvD
 - Lönegapet störst i toppen - DI
 - Får skylla mig själv när jag köpte den här bilen - Aftonbladet
 - Phd-paradoxen – meriter räcker inte för att överbrygga finansieringsgapet för kvinnor - Biostock
+- Potentiellt genombrott: En liten glasplatta kan innehålla två miljoner böcker i 10 000 år - Illustrerad Vetenskap
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
-- Rykte: MacBook Neo 2 kan få pekskärm - Teknikveckan
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-03-08 19:48_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Corren kan vinna pris för satsningen på unga - Corren
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -80,16 +80,16 @@ _Updated: 2026-03-08 19:48_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -130,14 +130,14 @@ _Updated: 2026-03-08 19:48_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Forskning vid Institutionen för biomedicinsk vetenskap - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
