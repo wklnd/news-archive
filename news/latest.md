@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-08 22:56_
+_Updated: 2026-03-08 23:53_
 
-- Iran war spreading economic damage far beyond oil and gas markets - The Washington Post
-- Explosion at U.S. Embassy in Norway may be 'linked to current security situation,' police say - NBC News
-- Vital Water Desalination Plants in Iran and Bahrain Are Attacked - The New York Times
-- Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran - Axios
-- Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit - NPR
-- ‘End of an era’: death of Khamenei seen as Iran’s Berlin Wall moment - The Guardian
+- Pentagon Announces Seventh U.S. Death in War With Iran - The New York Times
 - Device ignited at Gracie Mansion protest was an improvised explosive, NYPD says - NBC News
+- Vital Water Desalination Plants in Iran and Bahrain Are Attacked - The New York Times
+- Trump raises the stakes in Iran by weighing deployment of US ground forces - Financial Times
+- U.S. weighs sending special forces to seize Iran's nuclear stockpile - Axios
+- Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit - NPR
 - NTSB board member Inman says he was fired by White House - Reuters
-- A Republican’s Stand Against the Iran War Stirs Up a Heated Kentucky Primary - The New York Times
-- 1933 decision looms over WA 'millionaires tax' - The Seattle Times
-- Photos: These bold women stand up for justice, rights ... and freedom - NPR
-- Trump: "Knocked out" 42 Iranian ships, will "take care" of Cuba - Axios
-- Live Updates: Iran Says It’s Close to Naming New Supreme Leader as Attacks on Infrastructure Grow - The New York Times
+- Explosion at US embassy in Oslo may have been terrorism, Norway police say - BBC
+- In Kentucky, Trump Allies Clash With Massie Over Iran War - The New York Times
+- 12 years on, renewed hunt for missing Flight MH370 comes up empty - Politico
 - Iran attacks breach international law, Swiss Defence Minister says - Reuters
-- Dow Jones Futures Eye Oil Prices. Trump Says Iran War 'More Popular' Than Ever With MAGA Base. - Investor's Business Daily
-- 4 Berkshire Hathaway Stocks That New CEO Greg Abel "Expect Will Compound Over Decades" - The Motley Fool
-- Newsmax Host Corrects Colleague Who Misstated Big Economic News: ‘Actually…’ - Mediaite
+- Trump’s ‘roaring’ economy meets a rough start to 2026: What the latest numbers show - AP News
+- 'Nightmare scenario' looms as global markets head for the biggest oil output disruption in history, top energy guru warns - Fortune
 - The Best "Magnificent Seven" Stocks to Buy in March - The Motley Fool
-- Engadget review recap: Galaxy S26 Ultra, Galaxy Buds 4, Dell XPS 14 and more - Engadget
-- This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work - WIRED
+- Baby Boomers Are Turning To High-Yield Dividend ETFs For Reliable Income - moneydigest.com
+- Apple Planning 'MacBook Ultra' With Touchscreen and Higher Price - MacRumors
+- Apple's Strange TikTok Videos Capturing Gen Z's Attention - MacRumors
+- Despite New CEO's Teasing, Xbox Insider Says Exclusives Are "Absolutely Not Happening" - TheGamer
+- Palmer Luckey’s $1bn pitch to reboot 1990s video game consoles - Financial Times
+- Winner of Netflix’s ‘Outlast’ Charged With Child Rape - TMZ
