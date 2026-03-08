@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 20:57_
+_Updated: 2026-03-08 21:45_
 
 ## Top Stories
 
 - ”Så stärks jämställdheten i Sverige” - Västerbottens-Kuriren
+- Frontalkrock på E45 – flera skadade - Folkbladet
+- Göran Eriksson: Har Donald Trump gjort läxan av Irakkriget till Irankriget? | Göran Eriksson - SvD
 - Putin vill isolera ryssarna – så slår de tillbaka i nätstriden - Dagens Nyheter
 - Irans Araghchi i amerikansk tv: Be om ursäkt - GP
 - Hemliga vapnet som alla vill åt - Expressen
-- Slopat lönekrav i vården välkomnas – med tvekan - SvD
-- Planerade arenabygget pausas – på obestämd tid - GP
-- Så vände Malmö misstron mot socialtjänsten - Dagens Nyheter
 - Minderårig flicka larmade BRIS efter misstänkt våldtäkt - Dagens Nyheter
-- KD vill se åldersgräns för smarta telefoner - Omni
+- KD vill införa åldersgräns för smartphones - Aftonbladet
+- Så vände Malmö misstron mot socialtjänsten - Dagens Nyheter
 - 08 mars 14.36, Trafikkontroll, Västernorrlands län - polisen.se
-- Direkt – Krisen i Mellanöstern – Tusentals amerikaner evakuerade - Dagens Nyheter
-- Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Förenade Arabemiraten: Svarar på robot- och drönarhot - Dagens Nyheter
-- Explosion på Dubais flygplats – fick stänga igen - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Två döda i Saudiarabien av nedskjuten projektil - Dagens Nyheter
+- Ingen gripen efter explosion vid USA-ambassad - Västerbottens-Kuriren
+- ”Shield of the Americas” – Trump bildar militärallians - Marcus Oscarsson
+- ”Krokodiler överallt” - Expressen
 - Forskaren: AI tar jobb från unga svenskar - SvD
 - Lönegapet störst i toppen - DI
+- Jonas Fröberg: Miljardrullning i monopolnäten - Dagens Nyheter
 - Får skylla mig själv när jag köpte den här bilen - Aftonbladet
-- Phd-paradoxen – meriter räcker inte för att överbrygga finansieringsgapet för kvinnor - Biostock
 - Potentiellt genombrott: En liten glasplatta kan innehålla två miljoner böcker i 10 000 år - Illustrerad Vetenskap
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
 
@@ -32,7 +32,6 @@ _Updated: 2026-03-08 20:57_
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - NT kan vinna pris för satsningen på unga - NT
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -41,6 +40,7 @@ _Updated: 2026-03-08 20:57_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Corren kan vinna pris för satsningen på unga - Corren
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
