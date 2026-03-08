@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-08 10:55_
+_Updated: 2026-03-08 11:52_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Svenskarna från Dubai har landat - Dagens Nyheter
-- Kommunen som riskerar att gå under: ”Ingen bryr sig om oss, vi finns inte” - Dagens Nyheter
-- L: Sälj operan och lägg pengarna på kulturen - GP
 - Stänger E4 hela dagen efter olycka norr om Gävle - Aftonbladet
+- KD vill införa åldersgräns för smartphones - GP
+- Problem för storbanker - Expressen
+- Israels premiärminister Netanyahu har strävat efter kriget mot i Iran i 40 år - har stöd av folket. - Expressen
 - 08 mars 07.48, Sammanfattning natt, Västernorrlands län - polisen.se
-- Direkt – Kriget i Ukraina – Zelenskyj i samtal med Macron: ”Hållit viktiga försvarslinjer” - Dagens Nyheter
+- INSÄNDARE: Stoppa utvisningarna av rotade barnfamiljer - Gefle Dagblad
 - Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
-- Misstänkt grov misshandel på buss – två skadade - SVT Nyheter
-- Polismyndigheten tar fram ny e-legitimation – Sverige-id - PC för Alla
-- Regeringen ändrar migrationspolitiken – tonårsutvisningar stoppas - Dagens Nyheter
-- Uppgifter: Dödade Ali Khameneis son skadad - Västerbottens-Kuriren
+- Sammanfattning av nattens händelser - Skillingaryd
+- DEBATT: SVT blir en megafon för en exilmonarki - Expressen
+- Svenska signalen till Ryssland: ”Allvarligt” - Expressen
+- Direkt – Krisen i Mellanöstern – Källor: Överväger att skicka specialstyrkor till Iran - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Svenskarna från Dubai har landat - Dagens Nyheter
+- Zelenskyj stödjer trupper vid Donetsk-fronten - Aftonbladet
 - E-type har landat på Arlanda – var fast i Dubai - Expressen
-- Hans brott chockade hela landet – är nu död - Expressen
-- UPPGIFTER: Kriget eskalerar – Trump har bestämt sig - Marcus Oscarsson
 - Deklarationsdags! Här är avdragen du inte få missa - Expressen
 - Raseri mot Open AI:s deal: ”Har gått för långt” - SvD
-- Elon Musk pressas i domstol om miljardköpet av Twitter - Dagens PS
-- DN Direkt – Stäms på miljarder för höga Playstation-priser - Dagens Nyheter
+- Elon Musk i rätten: min tweet om Twitter-affären var kanske inte så smart - Teknikveckan
+- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
 - Kraftfullare flaggskepp från System Audio - Ljud & Bild
 - Knepet som tar bort Office från en pc du har slängt - PC för Alla
 
@@ -30,23 +30,23 @@ _Updated: 2026-03-08 10:55_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- NT kan vinna pris för satsningen på unga - NT
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- NT kan vinna pris för satsningen på unga - NT
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Corren kan vinna pris för satsningen på unga - Corren
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -97,25 +97,25 @@ _Updated: 2026-03-08 10:55_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Fakulteten för hälsa och samhälle - Malmö universitet
+- Institutionen för vårdvetenskap - Malmö universitet
+- Hälsa och teknik - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
-- Anna Mia Ekström - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
