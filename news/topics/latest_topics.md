@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 13:56_
+_Updated: 2026-03-09 15:44_
 
 ## Top Stories
 
-- Film motsäger Trump – amerikansk robot slog ned - GP
-- Hundratals svenskar hemma efter flygkaoset - SvD
-- Två åtalas efter dubbelmord i Biskopsgården - SVT Nyheter
-- 30-tal platser testade: Här hittades PFAS i Göteborg - GP
-- Hovrätten meddelar dom i mål om mord i stadsdelen Berga i Linköping sommaren 2024 - Sveriges Domstolar
-- Larm: Sköt vit fosfor mot hem i Libanon - Folkbladet
-- Kallades nazistpyssling – högeraktivist förlorar förtalsmål - Dagens Nyheter
-- Forna fiender styr nu i 60 kommuner – ”ganska kontroversiellt i mitt parti” - Dagens Nyheter
-- Rysk medborgare anhållen efter insatsen mot fartyget Caffa utanför Trelleborg - SVT Nyheter
-- Härvan växer igen – åtta nya apotek utreds i botoxärendet - Svensk Farmaci
 - SVT:s korrespondent: Ingen förändring med ny ledare – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- 30-tal platser testade: Här hittades PFAS i Göteborg - GP
+- Polisen släpper bilder efter dåd mot USA-ambassad - Dagens Nyheter
+- Film motsäger Trump – amerikansk robot slog ned - GP
+- Miljonnota för Västtrafik – 17 miljoner dyrare avtal och bussköp för 100 miljoner - RT-Forum
+- Israeliska markstyrkor djupare in i Libanon - GP
+- Kallades nazistpyssling – högeraktivist förlorar förtalsmål - Dagens Nyheter
+- 09 mars 13.48, Trafikkontroll, Norrbottens län - Polisen.se
+- Armén och flygvapnet redo för Cold Response 26 - Försvarsmakten
+- Anna Olskog: Staten behöver ta tillbaka kontrollen - Vi Lärare
+- Synagoga skadad i nattlig explosion - Västerbottens-Kuriren
+- Fler utreds efter barbranden i Schweiz - GP
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- DN Direkt – Flera döda i ras på soptipp - Dagens Nyheter
-- JD Vance gick emot Trump om kriget i Iran – ändrade sig - Expressen
+- Spårvagn har kört på elsparkcyklist i centrala Göteborg - Expressen
 - Experten om oljepriset: ”Går mot en energikris” - Aftonbladet
+- Högt oljepris och börsras: ”Ökar oförutsägbarheten” - SVT Nyheter
 - Så kan oljekrisen slå mot plånboken - SvD
-- Energiekonom: Svenskar klarar av dyrare bensin - Omni
-- Hög chef slutar på Open AI i protest - SvD
+- Nya elavgifterna slår mot bostadsrättsföreningar – ”omöjligt att göra rätt” - Dagens Nyheter
 - Oneplus delar bild på lilla versionen av flaggskeppet - Swedroid
 - Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
@@ -29,23 +29,23 @@ _Updated: 2026-03-09 13:56_
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Corren kan vinna pris för satsningen på unga - Corren
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -63,10 +63,10 @@ _Updated: 2026-03-09 13:56_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -78,6 +78,7 @@ _Updated: 2026-03-09 13:56_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2026-03-09 13:56_
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Thach Thanh Medical Center: Förebyggande medicin fortsätter att vara en stark "sköld". - Vietnam.vn
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Enheten för radiologi - Karolinska Institutet
 
 ## Science
 
