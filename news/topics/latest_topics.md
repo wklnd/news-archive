@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 21:22_
+_Updated: 2026-03-09 21:57_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trump: Inte nära beslut om marktrupper - Dagens Nyheter
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
 - 2 000 lägenheter står tomma i Eskilstuna – kommunalrådet vill riva - Dagens Nyheter
-- ”Dousas dubbelspel om biståndet” - SvD
-- Oljeledningarna som rundar sundet: "Allt hjälper" - SvD
+- Lund vill avsluta kritiserad författares fristad - Dagens Nyheter
 - Förare togs av polisen – körde på bussgata - Östersunds-Posten
+- Anhållen på fartyg är rysk medborgare - GP
+- Zelenskyj: Elva länder har bett om drönarhjälp - GP
+- DN Direkt – Larm om oljeutsläpp i Lysekil - Dagens Nyheter
 - Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
 - 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
-- Kalix i sorg – anställd klämdes under traktorblad och avled - SVT Nyheter
-- Nathan Shachar: Irans regim är revolutionär – Kubas och Venezuelas ledare bara låtsas - Dagens Nyheter
-- Nya bilder visar: Amerikansk missil ska ha träffat flickskolan - Aftonbladet
+- Pappan i Älvsbyn döms för barnpornografibrott - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Kriget i stort sett avslutat - Dagens Nyheter
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- Orbáns krav på EU: ”Allvarligaste hotet” - Expressen
+- Spårvagn har kört på elsparkcyklist i centrala Göteborg - Expressen
+- Var tredje man i Gen Z tycker att kvinnan ska lyda - Dagens Nyheter
 - Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- Industrisamtal om strategisk europeisk styrka - Regeringen.se
-- Hundratals svenskar hemma efter flygkaoset - Aftonbladet
-- Larmen inifrån börsbolaget Powercell: Bluff bakom hyllad grön vätgasteknik - SVT Nyheter
+- Så mycket har priset på diesel rusat efter kriget med Iran började - News55
+- Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
+- Larm inifrån småsparar-favoriten: ”Fungerar inte” - Breakit
 - Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
 - Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
@@ -41,7 +41,7 @@ _Updated: 2026-03-09 21:22_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -65,8 +65,8 @@ _Updated: 2026-03-09 21:22_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -78,7 +78,6 @@ _Updated: 2026-03-09 21:22_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -87,12 +86,13 @@ _Updated: 2026-03-09 21:22_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
