@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 14:00_
+_Updated: 2026-03-09 15:50_
 
-- Pennsylvania State Police trooper shot, killed in West Caln Township, officials say - CBS News
-- House Republicans face internal and external headwinds as they gather to map out 2026 - Politico
-- Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets. - The New York Times
-- Trump vows to escalate war as divisions in Iran emerge - Los Angeles Times - Los Angeles Times
-- A deadly climate change effect is even worse than feared, study finds - USA Today
-- Armed or unarmed? US and Iran spar over status of Iranian warship sunk by a submarine - AP News
-- Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu
-- Dow futures tumble nearly 600 points as oil tops $100 a barrel, raising stagflation fear: Live updates - CNBC
+- U.S. Authorities Are Investigating Device Thrown Near Gracie Mansion - The New York Times
+- Consumers Paid Tariffs on Overseas Items. Now They Want a Refund. - The New York Times
+- Allowing Iranian ship to dock was right thing to do, Indian foreign minister says - Reuters
+- Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says - The New York Times
+- House Republicans’ meager majority faces big problems ahead of the midterms - Politico
+- ‘Enough is enough’: Judge dismisses case of deported Babson student, attorney appeals - Boston 25 News
+- Live Nation reaches settlement with DOJ in antitrust fight - Politico
+- Snow forecast updated for Portland, region. Here’s where accumulation is most likely - OregonLive.com
+- Iran War Live Updates: G-7 to Discuss Possible Release of Oil Reserves - WSJ
+- US begins large military drill with South Korea while waging war in the Middle East - AP News
+- Two Months for Gulf Oil Output to Fully Return After War Ends, Analyst Says - WSJ
+- 12 years on, renewed hunt for missing Malaysia Airlines flight comes up empty - NPR
+- Exclusive | Trump Sons Back New Drone Company Targeting Pentagon Sales - WSJ
+- Iran conflict forces Asian central banks into sharp policy rethink - Reuters
 - Iran war sends shockwaves through African fuel market and economies - AP News
-- Oil Tops $110 as Iran War Forces More Gulf Giants to Cut Output - Bloomberg.com
-- It's the worst day for Australian stock markets since 2020 - investingLive
+- War to force Gulf producers to stop energy exports within days, push oil to $150, Qatar minister says - Seeking Alpha
 - iPhone Fold design leaks in purported 3D CAD rendering files - 9to5Mac
+- OnePlus 15T: Official first look at new compact flagship phone revealed - Notebookcheck
 - Apple 'HomePad' to Offer Magnetic Snap-to-Wall Feature and More - MacRumors
-- Samsung wants to let you vibe code apps and more on future Galaxy phones - 9to5Google
-- Microsoft's CEO to Xbox: We will "always" invest in gaming. - Windows Central
-- Gate to Rihanna’s home, an RV hit by bullets as suspect fired assault-style rifle, police say - Los Angeles Times
-- Jamie Lee Curtis appears to clap back at Timothee Chalamet's controversial opera and ballet comments - Daily Mail Online
-- Oscars 2026: the nominees, the movies, the ones to watch - Financial Times
-- Horoscope for Monday, March 09, 2026 - Chicago Sun-Times
-- Tomorrow's Top 25 Today: Florida jumps to No. 4; Louisville, Wisconsin enters projected AP Top 25 - CBS Sports
+- UK Charts: Pokémon Pokopia 'Undersupplied' At Retail And Falls Short - Nintendo Life
