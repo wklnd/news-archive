@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 13:23_
+_Updated: 2026-03-09 14:00_
 
-- Huge fire in Scotland triggers train chaos, partial collapse of historic building - CNN
 - Pennsylvania State Police trooper shot, killed in West Caln Township, officials say - CBS News
-- Trump vows legislative blockade until SAVE America voter-ID bill is passed - CNBC
-- Allowing Iranian ship to dock was right thing to do, Indian foreign minister says - Reuters
-- Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say - Axios
-- What is Trump's true objective in the Iran war? U.S. targets provide a clue - Los Angeles Times - Los Angeles Times
-- Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets. - The New York Times
-- U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows - The New York Times
 - House Republicans face internal and external headwinds as they gather to map out 2026 - Politico
-- White House Removes Republican Member of N.T.S.B. - The New York Times
-- Nepal election 2026 results - follow live - BBC
+- Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets. - The New York Times
+- Trump vows to escalate war as divisions in Iran emerge - Los Angeles Times - Los Angeles Times
+- A deadly climate change effect is even worse than feared, study finds - USA Today
+- Armed or unarmed? US and Iran spar over status of Iranian warship sunk by a submarine - AP News
 - Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu
-- US begins large military drill with South Korea while waging war in the Middle East - AP News
-- Kids' willpower is no match for fast food and screens. Try this instead - NPR
-- Dow futures tumble as U.S. oil surges to begin the week's trading: Live updates - CNBC
-- OpenAI robotics leader resigns over concerns about Pentagon AI deal - NPR
-- Oil Prices Are Soaring Today. Buy These 2 Energy Stocks Right Now, According to Wall Street - TipRanks
-- Trump’s ‘roaring’ economy meets a rough start to 2026: What the latest numbers show - AP News
-- OnePlus 15T: Official first look at new compact flagship phone revealed - Notebookcheck
+- Dow futures tumble nearly 600 points as oil tops $100 a barrel, raising stagflation fear: Live updates - CNBC
+- Iran war sends shockwaves through African fuel market and economies - AP News
+- Oil Tops $110 as Iran War Forces More Gulf Giants to Cut Output - Bloomberg.com
+- It's the worst day for Australian stock markets since 2020 - investingLive
 - iPhone Fold design leaks in purported 3D CAD rendering files - 9to5Mac
+- Apple 'HomePad' to Offer Magnetic Snap-to-Wall Feature and More - MacRumors
+- Samsung wants to let you vibe code apps and more on future Galaxy phones - 9to5Google
+- Microsoft's CEO to Xbox: We will "always" invest in gaming. - Windows Central
+- Gate to Rihanna’s home, an RV hit by bullets as suspect fired assault-style rifle, police say - Los Angeles Times
+- Jamie Lee Curtis appears to clap back at Timothee Chalamet's controversial opera and ballet comments - Daily Mail Online
+- Oscars 2026: the nominees, the movies, the ones to watch - Financial Times
+- Horoscope for Monday, March 09, 2026 - Chicago Sun-Times
+- Tomorrow's Top 25 Today: Florida jumps to No. 4; Louisville, Wisconsin enters projected AP Top 25 - CBS Sports
