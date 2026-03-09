@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 21:57_
+_Updated: 2026-03-09 22:59_
 
 ## Top Stories
 
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
-- 2 000 lägenheter står tomma i Eskilstuna – kommunalrådet vill riva - Dagens Nyheter
-- Lund vill avsluta kritiserad författares fristad - Dagens Nyheter
+- Kan L-ordet bli acceptabelt i USA igen? | Merete Mazzarella - SvD
+- Fox News visade inte missen – ”ta av din keps” - SvD
+- Israeliska soldater bryter tystnaden: ”Orkar inte vända bort blicken längre” - Dagens Nyheter
+- Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
 - Förare togs av polisen – körde på bussgata - Östersunds-Posten
-- Anhållen på fartyg är rysk medborgare - GP
-- Zelenskyj: Elva länder har bett om drönarhjälp - GP
 - DN Direkt – Larm om oljeutsläpp i Lysekil - Dagens Nyheter
-- Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
-- 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Pappan i Älvsbyn döms för barnpornografibrott - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Kriget i stort sett avslutat - Dagens Nyheter
+- 09 mars 21.36, Trafikkontroll, Norrbottens län - polisen.se
+- Kvinna till sjukhus med helikopter efter skoterolycka - Hudiksvalls Tidning
+- Zelenskyj: Elva länder har bett om drönarhjälp - Corren
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- Spårvagn har kört på elsparkcyklist i centrala Göteborg - Expressen
-- Var tredje man i Gen Z tycker att kvinnan ska lyda - Dagens Nyheter
+- Orbáns krav på EU: ”Allvarligaste hotet” - Expressen
+- Nordisk spricka om kärnvapen – Sverige positivt - Expressen
+- Industrisamtal om strategisk europeisk styrka - Regeringen.se
 - Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- Så mycket har priset på diesel rusat efter kriget med Iran började - News55
-- Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
-- Larm inifrån småsparar-favoriten: ”Fungerar inte” - Breakit
+- The post Omtag i Tyskland och ny indikation – Oncopeptides vd berättar mer appeared first on Biostock - Placera.se
+- Så var det att flytta hemifrån – unga i Dalarna: ”Måste fixa allt själv” - SVT Nyheter
+- Oneplus delar bild på lilla versionen av flaggskeppet - Swedroid
 - Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
 - Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
@@ -56,17 +56,17 @@ _Updated: 2026-03-09 21:57_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -142,13 +142,13 @@ _Updated: 2026-03-09 21:57_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +161,4 @@ _Updated: 2026-03-09 21:57_
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
