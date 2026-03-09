@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 07:08_
+_Updated: 2026-03-09 08:36_
 
 ## Top Stories
 
-- Khameneis son ny ledare i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Misär under ryska ockupationen: ”Grälas om vatten” - SvD
-- Kommer tonårsutvisningarna att bli en valfråga? - Dagens Arena
-- Man till sjukhus efter mordförsök - Aftonbladet
-- Tredje världskriget startar inte i Iran, men Trumps hybris är ett allt större hot - Yle
-- Person påkörd på mack – förs akut till sjukhus - Expressen
+- De delar samma dröm – men är helt oense om vägen dit - Aftonbladet
+- Elias, 10, äter få saker – men smarties, pommes och bearnaisedipp går ner - HD
+- Unikt tillfälle: Köp ett kloster för elva miljoner - Sydsvenskan
+- De tänker stämma Sveriges transvård: ”Trauma och livslånga men” - GP
+- Gröna segrade i tyskt delstatsval – men också högerradikala AFD går framåt - Dagens Nyheter
+- 09 mars 06.58, Sammanfattning natt, Örebro län - Polisen.se
+- Forna fiender styr nu i 60 kommuner – ”ganska kontroversiellt i mitt parti” - Dagens Nyheter
 - Varning för ishalka söder om länsgränsen - Västerbottens-Kuriren
-- KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
-- Teknikstrul på Visby lasarett – operationer ställs in - SVT Nyheter
-- Misstänkt grov misshandel på buss – två skadade - SVT Nyheter
-- Irans president: ”Fienden misstolkade mina ord” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
+- Kommer tonårsutvisningarna att bli en valfråga? - Dagens Arena
+- Gick emot Trump – ändrade sig: ”Kan hemsöka” - Expressen
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
+- Irans svar till USA: Operation ”galning” - Expressen
 - Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
-- Trumps attacker försvagar Putin: ”Ser patetisk ut” - Expressen
+- Nytt mål för effektiv energianvändning och genomförande av det omarbetade direktivet om byggnaders energiprestanda - Regeringen.se
+- Inget krigsslut i sikte: ”Finns inga gränser” - SvD
+- Hamlet BioPharma ingår avsiktsförklaring för Alpha1H - Biostock
 - Nya EU-regler: Nu slipper du bankernas dolda avgifter - Dagens PS
-- Miljonkontraktet riktades – direkt till tidigare vd:ns företag - NSD
-- Snart kommer den virala kaffeburken till Norrtälje - Norrtelje Tidning
-- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
+- Sålde sitt bolag i december – nu växlar han upp med en ny grej - Breakit
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
-- 10 Volvo-bilar på Blocket att drömma om – har du råd? - auto motor & sport
 
 ## World News
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- NT kan vinna pris för satsningen på unga - NT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- NT kan vinna pris för satsningen på unga - NT
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Corren kan vinna pris för satsningen på unga - Corren
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -65,11 +65,11 @@ _Updated: 2026-03-09 07:08_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -99,45 +99,45 @@ _Updated: 2026-03-09 07:08_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Nhu Xuan Medical Center: Upprätthåller "skölden" av förebyggande hälsovård, tar hand om människors hälsa på gräsrotsnivå. - Vietnam.vn
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Institutionen för vårdvetenskap - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Johan von Schreeb - Karolinska Institutet
+- Biträdande sekreterare för provinsiella partikommittén Vo Thi Minh Sinh gratulerade Tan Ky Medical Center till Vietnams läkardag. - Vietnam.vn
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
