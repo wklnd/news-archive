@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 18:31_
+_Updated: 2026-03-09 19:25_
 
 ## Top Stories
 
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
+- 2 000 lägenheter står tomma i Eskilstuna – kommunalrådet vill riva - Dagens Nyheter
+- Ranstorp: Trump har visst en plan – kritikerna har fel - Kvartal
 - Film motsäger Trump – amerikansk robot slog ned - GP
-- Direkt – Krisen i Mellanöstern – Trump: Inte nära beslut om marktrupper - Dagens Nyheter
 - Förare togs av polisen – körde på bussgata - Östersunds-Posten
-- Bris: Samtal om våld vanligt ämne - SVT Nyheter
-- Experten om oljepriset: ”Går mot en energikris” - Aftonbladet
-- Smog i Göteborg: "Hälsan blir sämre för alla" - Expressen
+- DN Direkt – V-krav: Frys hyrorna och höj bostadsbidragen - Dagens Nyheter
 - Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
 - Kallades nazistpyssling – högeraktivist förlorar förtalsmål - Dagens Nyheter
 - 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Turkiet sköt ned ballistisk robot från Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Misstänkt terrorförsök i New York - UNT
-- Turkiet: Iransk robot nedskjuten - Hufvudstadsbladet
+- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Iransk robot nedskjuten av Nato över Turkiet - Dagens Nyheter
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
+- Misär under ryska ockupationen: ”Grälas om vatten” - Aftonbladet
+- Nordisk spricka om kärnvapen – Sverige positivt - Expressen
+- Börsen faller och oljepriset rusar – experter svarade på era frågor - SVT Nyheter
 - Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
 - Nya elavgifterna slår mot bostadsrättsföreningar – ”omöjligt att göra rätt” - Dagens Nyheter
 - Expert: Iran har riktat in sig på världsekonomins akilleshälar - Dagens Nyheter
-- Hundratals svenskar hemma efter flygkaoset - Aftonbladet
 - Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
-- Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
+- REPLACED får ett nytt släppdatum. 14 april. - feber.se
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -98,23 +98,23 @@ _Updated: 2026-03-09 18:31_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Institutionen för vårdvetenskap - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Enheten för radiologi - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
@@ -142,11 +142,12 @@ _Updated: 2026-03-09 18:31_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -154,11 +155,10 @@ _Updated: 2026-03-09 18:31_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
