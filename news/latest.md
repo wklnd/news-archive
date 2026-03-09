@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 15:50_
+_Updated: 2026-03-09 17:39_
 
-- U.S. Authorities Are Investigating Device Thrown Near Gracie Mansion - The New York Times
+- U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows - The New York Times
+- Turkey says second Iranian ballistic missile shot down by NATO defences in airspace - Reuters
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+- After slashing federal jobs, Trump administration ramps up hiring - The Washington Post
 - Consumers Paid Tariffs on Overseas Items. Now They Want a Refund. - The New York Times
-- Allowing Iranian ship to dock was right thing to do, Indian foreign minister says - Reuters
-- Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says - The New York Times
-- House Republicans’ meager majority faces big problems ahead of the midterms - Politico
-- ‘Enough is enough’: Judge dismisses case of deported Babson student, attorney appeals - Boston 25 News
-- Live Nation reaches settlement with DOJ in antitrust fight - Politico
+- Ukraine Helps U.S. Mideast Bases With Stopping Drones - The New York Times
 - Snow forecast updated for Portland, region. Here’s where accumulation is most likely - OregonLive.com
-- Iran War Live Updates: G-7 to Discuss Possible Release of Oil Reserves - WSJ
-- US begins large military drill with South Korea while waging war in the Middle East - AP News
-- Two Months for Gulf Oil Output to Fully Return After War Ends, Analyst Says - WSJ
-- 12 years on, renewed hunt for missing Malaysia Airlines flight comes up empty - NPR
-- Exclusive | Trump Sons Back New Drone Company Targeting Pentagon Sales - WSJ
-- Iran conflict forces Asian central banks into sharp policy rethink - Reuters
-- Iran war sends shockwaves through African fuel market and economies - AP News
-- War to force Gulf producers to stop energy exports within days, push oil to $150, Qatar minister says - Seeking Alpha
+- Major water main break floods Uptown streets, drops water pressure across area - wwltv.com
+- Europe rallies around Cyprus during Iran war as Macron visits to show support for island - AP News
+- March 7, 2026 - Letters from an American | Heather Cox Richardson | Substack
+- Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu
+- Greek Oil Tanker Exits Hormuz Shipping Strait With Signal Off - Bloomberg.com
+- Oil Prices Spike Over $110 a Barrel, Highest Since Pandemic - The New York Times
+- Novo Nordisk to Sell Weight-Loss Drugs Through Hims & Hers - WSJ
+- War Flips LNG Surplus Narrative, Morgan Stanley Says - Crude Oil Prices Today | OilPrice.com
+- Yardeni Raises Odds of US Market Meltdown to 35% on Iran War - Bloomberg.com
+- Leaked Oppo Find N6 renders reveal it'll come in at least one color you already love - PhoneArena
 - iPhone Fold design leaks in purported 3D CAD rendering files - 9to5Mac
-- OnePlus 15T: Official first look at new compact flagship phone revealed - Notebookcheck
 - Apple 'HomePad' to Offer Magnetic Snap-to-Wall Feature and More - MacRumors
-- UK Charts: Pokémon Pokopia 'Undersupplied' At Retail And Falls Short - Nintendo Life
+- Pokémon Pokopia Physical Edition Price Raised to $80 on Amazon, Amid Reports of Stock Constraints - IGN
