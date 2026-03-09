@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 19:25_
+_Updated: 2026-03-09 20:06_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Trump: Inte nära beslut om marktrupper - Dagens Nyheter
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
-- 2 000 lägenheter står tomma i Eskilstuna – kommunalrådet vill riva - Dagens Nyheter
-- Ranstorp: Trump har visst en plan – kritikerna har fel - Kvartal
-- Film motsäger Trump – amerikansk robot slog ned - GP
-- Förare togs av polisen – körde på bussgata - Östersunds-Posten
-- DN Direkt – V-krav: Frys hyrorna och höj bostadsbidragen - Dagens Nyheter
+- Äldre man död i trafikolycka - Västerbottens-Kuriren
+- Lund vill avsluta kritiserad författares fristad - Dagens Nyheter
+- Alla svenskar i Libanon uppmanas lämna direkt - Omni
+- Goda avsikter dör när de blir politik - SvD
+- DN Direkt – Larm om oljeutsläpp i Lysekil - Dagens Nyheter
 - Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
-- Kallades nazistpyssling – högeraktivist förlorar förtalsmål - Dagens Nyheter
 - 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Iransk robot nedskjuten av Nato över Turkiet - Dagens Nyheter
+- Risk att lodjursjakten brinner inne – rättsligt arbete ännu inte påbörjat - Svensk Jakt
+- Nathan Shachar: Irans regim är revolutionär – Kubas och Venezuelas ledare bara låtsas - Dagens Nyheter
+- Misstänkt terrorförsök i New York - UNT
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- Misär under ryska ockupationen: ”Grälas om vatten” - Aftonbladet
 - Nordisk spricka om kärnvapen – Sverige positivt - Expressen
-- Börsen faller och oljepriset rusar – experter svarade på era frågor - SVT Nyheter
+- Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
 - Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
-- Nya elavgifterna slår mot bostadsrättsföreningar – ”omöjligt att göra rätt” - Dagens Nyheter
-- Expert: Iran har riktat in sig på världsekonomins akilleshälar - Dagens Nyheter
+- Industrisamtal om strategisk europeisk styrka - Regeringen.se
+- Affärsvärlden: IPC fortsatt favorit i oljesektorn - upprepar sin köprekommendation - Börsvärlden
 - Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
-- REPLACED får ett nytt släppdatum. 14 april. - feber.se
+- Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -98,47 +98,24 @@ _Updated: 2026-03-09 19:25_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Institutionen för vårdvetenskap - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-
-## Science
-
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,6 +125,7 @@ _Updated: 2026-03-09 19:25_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -161,4 +139,3 @@ _Updated: 2026-03-09 19:25_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
