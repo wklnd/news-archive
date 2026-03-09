@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 20:06_
+_Updated: 2026-03-09 21:22_
 
 ## Top Stories
 
 - Direkt – Krisen i Mellanöstern – Trump: Inte nära beslut om marktrupper - Dagens Nyheter
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
-- Äldre man död i trafikolycka - Västerbottens-Kuriren
-- Lund vill avsluta kritiserad författares fristad - Dagens Nyheter
-- Alla svenskar i Libanon uppmanas lämna direkt - Omni
-- Goda avsikter dör när de blir politik - SvD
-- DN Direkt – Larm om oljeutsläpp i Lysekil - Dagens Nyheter
+- 2 000 lägenheter står tomma i Eskilstuna – kommunalrådet vill riva - Dagens Nyheter
+- ”Dousas dubbelspel om biståndet” - SvD
+- Oljeledningarna som rundar sundet: "Allt hjälper" - SvD
+- Förare togs av polisen – körde på bussgata - Östersunds-Posten
 - Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
 - 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Risk att lodjursjakten brinner inne – rättsligt arbete ännu inte påbörjat - Svensk Jakt
+- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
+- Kalix i sorg – anställd klämdes under traktorblad och avled - SVT Nyheter
 - Nathan Shachar: Irans regim är revolutionär – Kubas och Venezuelas ledare bara låtsas - Dagens Nyheter
-- Misstänkt terrorförsök i New York - UNT
+- Nya bilder visar: Amerikansk missil ska ha träffat flickskolan - Aftonbladet
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- Nordisk spricka om kärnvapen – Sverige positivt - Expressen
+- Orbáns krav på EU: ”Allvarligaste hotet” - Expressen
 - Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
 - Industrisamtal om strategisk europeisk styrka - Regeringen.se
-- Affärsvärlden: IPC fortsatt favorit i oljesektorn - upprepar sin köprekommendation - Börsvärlden
+- Hundratals svenskar hemma efter flygkaoset - Aftonbladet
+- Larmen inifrån börsbolaget Powercell: Bluff bakom hyllad grön vätgasteknik - SVT Nyheter
 - Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
 - Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
@@ -41,7 +41,7 @@ _Updated: 2026-03-09 20:06_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
@@ -78,6 +78,7 @@ _Updated: 2026-03-09 20:06_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -86,13 +87,12 @@ _Updated: 2026-03-09 20:06_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -116,6 +116,29 @@ _Updated: 2026-03-09 20:06_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+
+## Science
+
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
