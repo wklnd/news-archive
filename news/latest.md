@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 23:59_
+_Updated: 2026-03-10 01:00_
 
-- Trump Threatens to Crowd Out Republicans’ Midterm Message - The New York Times
+- Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is "very far ahead of schedule" - CBS News
 - Live updates: Trump calls choice of Iran’s leader a ‘big mistake’ as war roils global economy - CNN
-- Tennessee GOP Rep. Andy Ogles says Muslims ‘don’t belong’ in America - Politico
-- Ohio State University President Resigns Over ‘Inappropriate Relationship’ - The New York Times
-- Pennsylvania state police trooper shot and killed during traffic stop in West Caln Twp. Chester County - 6abc Philadelphia
+- Seventh U.S. service member killed in Iran war ID'd as Sgt. Benjamin Pennington - CNBC
+- O.S.U. President Walter Carter Jr. Resigns Over ‘Inappropriate Relationship’ - The New York Times
 - Senate Dems threaten wave of war votes to force Iran hearing - Politico
-- Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says he has "a plan" for oil prices - CBS News
-- Trump to hold a press conference after markets close on Monday - Reuters
+- 2 Bucks County, Pennsylvania, men charged in "ISIS-inspired" attack outside NYC Mayor Mamdani's residence - CBS News
+- ‘We’ve got to pay attention’: GOP anxiety spikes over rising energy prices - Politico
 - Billionaires Made 19% of Federal Election Campaign Contributions in 2024 - The New York Times
-- Republican Rep. Kiley leaves GOP, tightening Johnson's margins - Axios
+- Anthropic sues Trump administration amid AI dispute with Pentagon - NBC News
+- War tests Dubai as safe space for the super rich - Axios
+- Ukraine Helps U.S. Bases in the Mideast With Stopping Drones - The New York Times
 - Turkey Says NATO Defenses Shot Down a Second Iranian Missile - The New York Times
-- France to deploy almost dozen warships, mulls Hormuz mission, Macron says - Reuters
-- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
-- HMS Prince of Wales unlikely to head to the Middle East - BBC
-- As oil prices soar, G-7 decides against tapping emergency stockpiles - The Washington Post
+- Bahrain declares force majeure as Iran sets its only refinery ablaze - Euronews.com
+- Justice Department and Live Nation Reach Settlement Terms in Antitrust Case - The New York Times
 - Stock and Bond Traders Eye Another Volatile Open - Bloomberg.com
+- World shares tumble as Iran war pushes crude prices over $110 a barrel - NPR
 - Iran War Imperils $300 Billion in Gulf AI Spending - The Information
-- U.S. Gasoline Prices, Rising Again, Hit $3.48 a Gallon - The New York Times
-- Pixel 11 Pro Fold looks barely different and just barely thinner in first leak [Gallery] - 9to5Google
 - Apple iPad Air M4 review: a little bit faster now - The Verge
+- Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri - Bloomberg.com
+- Pixel 11 Pro Fold looks barely different and just barely thinner in first leak [Gallery] - 9to5Google
