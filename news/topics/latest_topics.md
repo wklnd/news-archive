@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 05:20_
+_Updated: 2026-03-09 07:08_
 
 ## Top Stories
 
 - Khameneis son ny ledare i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Misär under ryska ockupationen: ”Grälas om vatten” - SvD
+- Kommer tonårsutvisningarna att bli en valfråga? - Dagens Arena
 - Man till sjukhus efter mordförsök - Aftonbladet
 - Tredje världskriget startar inte i Iran, men Trumps hybris är ett allt större hot - Yle
+- Person påkörd på mack – förs akut till sjukhus - Expressen
+- Varning för ishalka söder om länsgränsen - Västerbottens-Kuriren
 - KARL RYDÅ: Skit i blommorna på kvinnodagen – det här är en bättre present - UNT
-- Kommer tonårsutvisningarna att bli en valfråga? - Dagens Arena
-- Barn i kritiskt läge efter bilolycka - Aftonbladet
-- Varning för ishalka i södra Norrland - Folkbladet
 - Teknikstrul på Visby lasarett – operationer ställs in - SVT Nyheter
 - Misstänkt grov misshandel på buss – två skadade - SVT Nyheter
-- Spårvagn har kört på elsparkcyklist i centrala Göteborg - Expressen
-- Iransk robot förstörde fredsgruppens kontor i Tel Aviv - Expressen
+- Irans president: ”Fienden misstolkade mina ord” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
+- Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
 - Trumps attacker försvagar Putin: ”Ser patetisk ut” - Expressen
-- Hemliga vapnet som alla vill åt - Expressen
 - Nya EU-regler: Nu slipper du bankernas dolda avgifter - Dagens PS
-- Inget krigsslut i sikte: ”Finns inga gränser” - SvD
-- Lönegapet störst i toppen - DI
 - Miljonkontraktet riktades – direkt till tidigare vd:ns företag - NSD
+- Snart kommer den virala kaffeburken till Norrtälje - Norrtelje Tidning
+- Får skylla mig själv när jag köpte den här bilen - Aftonbladet
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
 - 10 Volvo-bilar på Blocket att drömma om – har du råd? - auto motor & sport
 
@@ -39,14 +39,14 @@ _Updated: 2026-03-09 05:20_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Corren kan vinna pris för satsningen på unga - Corren
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-03-09 05:20_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -79,8 +79,8 @@ _Updated: 2026-03-09 05:20_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2026-03-09 05:20_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Olika slutsatser från samma data - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 
 ## Jordbruk
 
