@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 17:31_
+_Updated: 2026-03-09 18:31_
 
 ## Top Stories
 
 - Smog i Göteborg – dålig luftkvalité: Disigt och dimma - GP
-- Direkt – Krisen i Mellanöstern – Uppmaningen: Lämna Libanon - Dagens Nyheter
 - Film motsäger Trump – amerikansk robot slog ned - GP
-- 30-tal platser testade: Här hittades PFAS i Göteborg - GP
-- Experten om oljepriset: ”Går mot en energikris” - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Trump: Inte nära beslut om marktrupper - Dagens Nyheter
+- Förare togs av polisen – körde på bussgata - Östersunds-Posten
 - Bris: Samtal om våld vanligt ämne - SVT Nyheter
+- Experten om oljepriset: ”Går mot en energikris” - Aftonbladet
+- Smog i Göteborg: "Hälsan blir sämre för alla" - Expressen
+- Domstolsanställd skulle på gängmans begravning – åtalas för dataintrång - Dagens Nyheter
 - Kallades nazistpyssling – högeraktivist förlorar förtalsmål - Dagens Nyheter
-- Bil fattade eld – man död efter trafikolycka - Aftonbladet
 - 09 mars 13.48, Trafikkontroll, Norrbottens län - polisen.se
-- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
-- Norska bonusprinsen begär att bli släppt - Västerbottens-Kuriren
+- Turkiet sköt ned ballistisk robot från Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Misstänkt terrorförsök i New York - UNT
-- UPPDATERAS: Ukraina skyddar amerikanska baser i Jordanien - ryssar kapitulerar, inte fått mat på veckor och sårade evakueras inte utan dör - cornucopia.se
-- Gick emot Trump – ändrade sig sen - Expressen
+- Turkiet: Iransk robot nedskjuten - Hufvudstadsbladet
+- Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
+- Bankdirektör om PPM: ”Rätt långt från Ica” - SvD
 - Nya elavgifterna slår mot bostadsrättsföreningar – ”omöjligt att göra rätt” - Dagens Nyheter
-- Europa använder pensionspengarna fel – Sverige pekas ut - Dagens PS
-- Jeep: Kunderna ska avgöra el eller bensin - Dagens PS
 - Expert: Iran har riktat in sig på världsekonomins akilleshälar - Dagens Nyheter
-- Oneplus delar bild på lilla versionen av flaggskeppet - Swedroid
+- Hundratals svenskar hemma efter flygkaoset - Aftonbladet
+- Nya Huawei GT Runner 2 ska vara en av marknadens bästa löparklockor – jag har testat den och jämfört med en Garmin-klocka - TechRadar
 - Slay the Spire 2 nådde över en halv miljon spelare i helgen - FZ.se
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -39,13 +39,13 @@ _Updated: 2026-03-09 17:31_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -63,10 +63,10 @@ _Updated: 2026-03-09 17:31_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -99,7 +99,7 @@ _Updated: 2026-03-09 17:31_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -107,7 +107,7 @@ _Updated: 2026-03-09 17:31_
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
@@ -142,12 +142,11 @@ _Updated: 2026-03-09 17:31_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -155,10 +154,11 @@ _Updated: 2026-03-09 17:31_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
