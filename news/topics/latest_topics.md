@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 00:55_
+_Updated: 2026-03-10 01:51_
 
 ## Top Stories
 
+- Glädjeskutt på Wall Street efter Trumps utspel - Dagens Nyheter
+- Flervåningshus raserat i attack mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Källor: Då är Trump öppen för att Mojtaba dödas - Dagens Nyheter
+- Presidenten: Hizbollah vill att Libanon kollapsar - GP
 - Israeliska soldater bryter tystnaden: ”Orkar inte vända bort blicken längre” - Dagens Nyheter
-- Avgörande Watergate-källa död - SvD
-- 09 mars 21.36, Trafikkontroll, Norrbottens län - polisen.se
-- Bryter med fristadsförfattare: ”Gräns passeras” - Västerbottens-Kuriren
-- Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
-- Iran avfyrar nya robotar mot Israel - Västerbottens-Kuriren
-- Förare togs av polisen – körde på bussgata - Östersunds-Posten
-- Risk att lodjursjakten brinner inne – rättsligt arbete ännu inte påbörjat - Svensk Jakt
-- Besked: Därför syns militärflyg i luften - Västerbottens-Kuriren
-- Kvinna till sjukhus med helikopter efter skoterolycka - Hudiksvalls Tidning
-- Putin: Kan leverera olja och gas till Europa - Hufvudstadsbladet
-- Nordisk spricka om kärnvapen – Sverige positivt - Expressen
-- Misär under ryska ockupationen: ”Grälas om vatten” - Aftonbladet
 - Trump rasade mot Starmer – relationen iskall - Expressen
-- Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- The post Omtag i Tyskland och ny indikation – Oncopeptides vd berättar mer appeared first on Biostock - Placera.se
-- Så var det att flytta hemifrån – unga i Dalarna: ”Måste fixa allt själv” - SVT Nyheter
-- Miljardsatsningen hotad: ”Tomma laddstationer ingen bra affär” - Dagens Nyheter
+- Man död efter trafikolycka i Norra Åsum - SVT Nyheter
+- Livstid fastställs för gängmord i Linköping - Aftonbladet
+- Larm om oljeutsläpp i Lysekil - Västerbottens-Kuriren
+- 09 mars 21.36, Trafikkontroll, Norrbottens län - polisen.se
+- Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
+- UPPDATERAS: Ukraina skyddar amerikanska baser i Jordanien - ryssar kapitulerar, inte fått mat på veckor och sårade evakueras inte utan dör - cornucopia.se
+- Beviset mot Trumps lögn – USA pekas ut - Expressen
+- Oljepriset oroar transport: ”Risk för konkursvåg” - Omni
+- Stockholmsbörsen inledde börsveckan ned - tyngt av höga oljepriser och Mellanösternoro, OMXS30-index -1,5 procent - Aktiellt
+- Kriget och kärnkraften håller elpriset uppe - Byggahus.se
+- Charterbolag erbjuder påskresor till Dubai - SvD
+- Forskarnas dom om världens äldsta isberg - Expressen
 - Minishoot’ Adventures recension - varvat.se
 - Dagens Dubbel Tips Sovalla/Åby 11/3 - Travcash
 
 ## World News
 
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
@@ -42,8 +42,8 @@ _Updated: 2026-03-10 00:55_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 48 städer krokar arm i global klimatomställning - Cision
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
@@ -98,16 +98,17 @@ _Updated: 2026-03-10 00:55_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Thach Thanh Medical Center: Förebyggande medicin fortsätter att vara en stark "sköld". - Vietnam.vn
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Institutionen för vårdvetenskap - Malmö universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -115,30 +116,29 @@ _Updated: 2026-03-10 00:55_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
