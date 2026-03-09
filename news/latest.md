@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 23:03_
+_Updated: 2026-03-09 23:59_
 
-- Oil prices jump and markets slide as Iran names new supreme leader and digs in - AP News
-- Middle East crisis live: Iran mocks US operation as Trump calls selection of new supreme leader a ‘big mistake’ - The Guardian
-- Iran sends out suspected ‘operational trigger’ to activate sleeper cells abroad after Khamenei’s death, US officials warn - New York Post
-- Hegseth vows he and Trump will 'go as far as we need' to topple Iranian regime as conflict escalates - New York Post
+- Trump Threatens to Crowd Out Republicans’ Midterm Message - The New York Times
+- Live updates: Trump calls choice of Iran’s leader a ‘big mistake’ as war roils global economy - CNN
 - Tennessee GOP Rep. Andy Ogles says Muslims ‘don’t belong’ in America - Politico
-- Trump says it's 'too soon' to talk about seizing Iran's oil — but doesn't rule it out - NBC News
-- Ohio State President Ted Carter resigns over inappropriate relationship - The Columbus Dispatch
-- Anthropic sues Trump administration amid AI dispute with Pentagon - NBC News
+- Ohio State University President Resigns Over ‘Inappropriate Relationship’ - The New York Times
+- Pennsylvania state police trooper shot and killed during traffic stop in West Caln Twp. Chester County - 6abc Philadelphia
+- Senate Dems threaten wave of war votes to force Iran hearing - Politico
+- Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says he has "a plan" for oil prices - CBS News
+- Trump to hold a press conference after markets close on Monday - Reuters
+- Billionaires Made 19% of Federal Election Campaign Contributions in 2024 - The New York Times
 - Republican Rep. Kiley leaves GOP, tightening Johnson's margins - Axios
-- Billionaires Are Swaying Elections in All Corners of America - The New York Times
-- HMS Prince of Wales unlikely to head to the Middle East - BBC
+- Turkey Says NATO Defenses Shot Down a Second Iranian Missile - The New York Times
 - France to deploy almost dozen warships, mulls Hormuz mission, Macron says - Reuters
-- Bahrain declares force majeure as Iran sets its only refinery ablaze - Euronews.com
-- Greek Oil Tanker Exits Hormuz Shipping Strait With Signal Off - Bloomberg.com
+- Iris Dena: Torpedoed Iranian warship was offered sanctuary in India - BBC
+- HMS Prince of Wales unlikely to head to the Middle East - BBC
+- As oil prices soar, G-7 decides against tapping emergency stockpiles - The Washington Post
 - Stock and Bond Traders Eye Another Volatile Open - Bloomberg.com
 - Iran War Imperils $300 Billion in Gulf AI Spending - The Information
-- How the Iran energy shock could bring lasting geopolitical change - Axios
-- Schumer calls on Trump to release oil from reserve to lower gas prices - Axios
+- U.S. Gasoline Prices, Rising Again, Hit $3.48 a Gallon - The New York Times
+- Pixel 11 Pro Fold looks barely different and just barely thinner in first leak [Gallery] - 9to5Google
 - Apple iPad Air M4 review: a little bit faster now - The Verge
-- Samsung phones add a handy new security trick - Sammy Fans
