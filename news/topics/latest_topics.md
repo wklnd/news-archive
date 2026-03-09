@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-09 08:36_
+_Updated: 2026-03-09 10:02_
 
 ## Top Stories
 
-- De delar samma dröm – men är helt oense om vägen dit - Aftonbladet
+- SVT:s korrespondent: Ingen förändring med ny ledare – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Elias, 10, äter få saker – men smarties, pommes och bearnaisedipp går ner - HD
-- Unikt tillfälle: Köp ett kloster för elva miljoner - Sydsvenskan
+- Synagoga skadad i nattlig explosion - Västerbottens-Kuriren
+- De delar samma dröm – men är helt oense om vägen dit - Aftonbladet
 - De tänker stämma Sveriges transvård: ”Trauma och livslånga men” - GP
-- Gröna segrade i tyskt delstatsval – men också högerradikala AFD går framåt - Dagens Nyheter
-- 09 mars 06.58, Sammanfattning natt, Örebro län - Polisen.se
+- Unikt tillfälle: Köp ett kloster för elva miljoner - Sydsvenskan
 - Forna fiender styr nu i 60 kommuner – ”ganska kontroversiellt i mitt parti” - Dagens Nyheter
 - Varning för ishalka söder om länsgränsen - Västerbottens-Kuriren
-- Fler fall av hjärtmuskelsjukdom i Sverige – så känner du igen symtomen - Dagens Nyheter
-- Kommer tonårsutvisningarna att bli en valfråga? - Dagens Arena
-- Gick emot Trump – ändrade sig: ”Kan hemsöka” - Expressen
+- Slaget om planeten: Måste vi bli fattigare för att överleva? - Dagens Nyheter
+- 09 mars 06.58, Sammanfattning natt, Örebro län - Polisen.se
 - Emiraten försöker återta sitt rykte – influerare sprider positiv bild - Dagens Nyheter
-- Irans svar till USA: Operation ”galning” - Expressen
-- Dricksvattenanläggning attackerad: ”Stor risk” - Aftonbladet
+- Misär under ryska ockupationen: ”Grälas om vatten” - Aftonbladet
+- Spårvagn har kört på elsparkcyklist i centrala Göteborg - Expressen
+- Trumps attacker försvagar Putin: ”Ser patetisk ut” - Expressen
+- Powercells svar efter SVT:s avslöjande: Bolaget har inget att dölja - SVT Nyheter
+- Swish återkommande betalningar nu hos Swedbank och Nordea - mobil.se
 - Nytt mål för effektiv energianvändning och genomförande av det omarbetade direktivet om byggnaders energiprestanda - Regeringen.se
-- Inget krigsslut i sikte: ”Finns inga gränser” - SvD
-- Hamlet BioPharma ingår avsiktsförklaring för Alpha1H - Biostock
-- Nya EU-regler: Nu slipper du bankernas dolda avgifter - Dagens PS
 - Sålde sitt bolag i december – nu växlar han upp med en ny grej - Breakit
+- Valve vagare kring sin hårdvara – kommer släppas "det här året" - FZ.se
 - Osäker AI-agent hyllas på fest: ”Beredd att dödas med svärd för detta” - Omni
 
 ## World News
@@ -30,12 +30,12 @@ _Updated: 2026-03-09 08:36_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Fynd i Västsverige avslöjade global knarkhärva - SvD
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global tjänst för nätfiske nedstängd av Europol - Computer Sweden
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - NT kan vinna pris för satsningen på unga - NT
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
@@ -56,12 +56,12 @@ _Updated: 2026-03-09 08:36_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -160,5 +160,5 @@ _Updated: 2026-03-09 08:36_
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
