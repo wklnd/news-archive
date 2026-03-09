@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-09 01:55_
+_Updated: 2026-03-09 05:23_
 
-- Trump raises the stakes in Iran by weighing deployment of US ground forces - Financial Times
-- Fox News uses old clip of Trump after he wore hat while saluting slain US soldiers - The Guardian
+- U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows - The New York Times
 - Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say - Axios
+- Nepal election 2026 results - follow live - BBC
+- ‘Beloved’ East Bay teacher identified as victim in fatal Downtown Oakland shooting - KTVU
+- Crew of Iran navy vessel IRIS Bushehr flee to Sri Lanka, source says - ایران اینترنشنال
 - Explosion at US embassy in Oslo may have been terrorism, Norway police say - BBC
-- ICE Detention of Teen Musicians Roils Texas Mariachi Community - The New York Times
-- China Eyes ‘Landmark’ Year for US Ties, Urges End to Iran War - Bloomberg.com
-- Israeli ambassador to US declines to rule out putting boots on the ground in Iran - Politico
+- White House Removes Republican Member of N.T.S.B. - The New York Times
+- Fox News uses old clip of Trump after he wore hat while saluting slain US soldiers - The Guardian
+- Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets. - The New York Times - The New York Times
+- The ‘Great Iran Collapse’ Narrative Is Missing a Huge Chunk of the Story - 19FortyFive
+- International Women’s Day is a celebration and a call to action. Here are things to know - AP News
+- HORMUZ TRACKER: Iran-Linked Ships Are the Only Ones to Transit - Bloomberg.com
+- Security Alert: U.S. Embassy Riyadh, Saudi Arabia – March 8, 2026 – Update 2 - U.S. Embassy & Consulates in Saudi Arabia (.gov)
 - Photos: These bold women stand up for justice, rights ... and freedom - NPR
-- Syria's Kurds caution Iran's Kurds against aligning with US against Tehran - Reuters
-- Iran attacks breach international law, Swiss Defence Minister says - Reuters
-- 12 years on, renewed hunt for missing Flight MH370 comes up empty - Politico
-- OpenAI robotics leader resigns over concerns about Pentagon AI deal - NPR
-- 'Nightmare scenario' looms as global markets head for the biggest oil output disruption in history, top energy guru warns - Fortune
+- Dow futures tumble over 1,000 points as U.S. oil nears $120 a barrel to begin the week's trading: Live updates - CNBC
+- Japan, South Korea stocks tumble over 6% as oil tops $100 amid broader Asia market rout - CNBC
 - Trump’s ‘roaring’ economy meets a rough start to 2026: What the latest numbers show - AP News
-- Newsmax Host Corrects Colleague Who Misstated Big Economic News: ‘Actually…’ - Mediaite
-- Apple planning new 3D-printed aluminum chassis for iPhone and Apple Watch: report - 9to5Mac
-- Some buyers return Samsung Galaxy S26 Ultra over screen issue - Sammy Fans
-- DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge
-- Palmer Luckey’s $1bn pitch to reboot 1990s video game consoles - Financial Times
-- Writers Guild Awards 2026 Winners List - Deadline
+- Analyzing the SpaceX IPO: What would it take to justify a $1.5 trillion market cap? - Fortune
+- A Wink, a Nod or a Duck: The Secrets Behind Car Owners’ Secret Handshakes - The New York Times
+- Microsoft's CEO to Xbox: We will "always" invest in gaming. - Windows Central
