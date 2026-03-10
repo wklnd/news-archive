@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 22:02_
+_Updated: 2026-03-10 23:02_
 
-- US and Iran dig in and ramp up threats as war rages with no end in sight - AP News
-- How the special election to replace Marjorie Taylor Greene is testing the power of Trump’s endorsement - CNN
+- Explosions in Tehran as Hegseth says today will be 'most intense' day of strikes on Iran so far - BBC
 - Oil prices volatile on conflicting reports about Strait of Hormuz - NBC News
-- Iran war’s oil shock fuels GOP political anxiety - The Washington Post
+- What to expect in Georgia's special election to fill Marjorie Taylor Greene's former seat - PBS
 - Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
-- Trump: Iran war could be over soon, but not this week; oil disruption would trigger harsher strikes - The Times of Israel
-- FBI finds explosive residue in storage unit after 2 men are charged with lighting bombs in NYC - AP News
-- Alabama Governor Spares Death Row Inmate Who Didn’t Pull the Trigger - The New York Times
-- Thune stands firm on SAVE America Act as Trump threatens legislative blockade - CBS News
-- Judge Weighs Trump Antisemitism Inquiry Seeking List of Jews From Penn - The New York Times
-- Trump says he is 'disappointed' that Mojtaba Khamenei became Iran's supreme leader - Reuters
-- Australia grants asylum to 5 members of the Iranian women’s soccer team - AP News
-- Exclusive: U.S. dismissed Ukraine deal for anti-Iran drone tech last year - Axios
-- Iran Offers Hormuz Passage in Exchange for Diplomat Expulsions - WSJ
-- In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump - AP News
-- Stock Market Today: Major Indexes Little Changed as Investors Digest Iran Developments; Oil Futures Sink Below $85/Barrel - Investopedia
+- Iran war’s oil shock fuels GOP political anxiety - The Washington Post
+- There is no easy exit to Trump’s war - Financial Times
+- Alabama governor commutes death sentence of man who didn't kill anyone - NBC News
+- NYPD says suspicious device reported near Zohran Mamdani’s residence is ‘non-threatening’ - The Guardian
+- Thune rejects Trump on SAVE Act: ‘The votes aren’t there for a talking filibuster’ - The Hill
+- Scoop: White House readies executive order to weed out Anthropic - Axios
+- Trump says he's 'not happy' with Iran's choice of new supreme leader - Fox News
+- Iran begins laying mines in Strait of Hormuz, sources say - CNN
+- US and Iran dig in and ramp up threats as war rages with no end in sight - AP News
+- Australia grants asylum to five Iranian female athletes - The Jerusalem Post
 - Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war - CNBC
-- FDA backs away from RFK Jr.’s claims about drug’s promise for autism patients - Politico
-- Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive - TechCrunch
-- Sonos just launched Play, a new $299 portable speaker - The Verge
+- Oil and gas prices fall after Trump says war is 'very complete' - BBC
+- Home sales improved in February, but higher mortgage rates threaten that progress - Yahoo Finance
+- Businesses Ask the TACO Question About Iran - The New York Times
+- I reviewed the MacBook Neo, ask me anything - The Verge
+- Sonos announces two new products, including $299 portable AirPlay 2 speaker - 9to5Mac
