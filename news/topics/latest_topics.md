@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 12:06_
+_Updated: 2026-03-10 13:07_
 
 ## Top Stories
 
 - Trump: Slagit till mot fler än 5 000 mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Regeringen rasar mot S-linje om kärnvapen - Västerbottens-Kuriren
-- ”Sprider rykten om att pengarna är slut” - SvD
-- Ingen är nöjd – ändå blir flyktingbostäderna i Askim kvar - GP
-- ”I praktiken en enorm förlust av kompetens” - SvD
+- Så många klarar inte nya lönekraven för invandrad arbetskraft i Skåne - HD
+- Svantesson: ”Ingen vet vad Trump tänker” - Omni
+- Varnar: Så kan Sveriges ekonomi sänkas - SvD
+- Kvinna hittades död i träsk – par åtalas för mord - Mitt i
 - Expo-rapport: Stockholm sticker ut – högerextrema på kraftig frammarsch - Dagens Nyheter
-- Rysk befälhavare från bordade fartyget Caffa begärs häktad - SVT Nyheter
-- MP:s löfte inför valet: ”Alla ska ha råd” – Senaste nytt om valet 2026 - SVT Nyheter
 - SMHI varnar för gräsbränder - Västerbottens-Kuriren
-- Slopat lönekrav i vården välkomnas – med tvekan - Corren
-- Befälhavare från Caffa begärs häktad - Expressen
-- Irankriget fyller Putins krigskassa: ”Vinstlott” - Västerbottens-Kuriren
-- Uppgifter: Ryska elitsoldater ombord på skuggfartygen - Dagens Nyheter
-- SAS och Norwegian inför ”tillfälligt bränsletillägg” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Lättnadsrekyl för oljepriset - Skogsaktuellt
-- DNB Carnegie utvidgar värderingsintervallet för Powercell efter medieuppgifter - Affärsvärlden
-- Efter oljekrisen – flygbolag inför bränsletillägg - Västerbottens-Kuriren
-- Svantesson: Inte orolig för inflationen - GP
+- S kräver 600 miljoner till förlossningsvården - GP
+- Tomas Ramberg: Tidöpartierna när en revolutionär vid sin barm - Dagens Nyheter
+- Irankriget fyller Putins krigskassa: ”Vinstlott” - Corren
+- Spelet bakom oljebråket: Därför kan EU inte andas ut om Orbán faller - Dagens Nyheter
+- Ukrainas framgång: ”Detta är euforiskt” - Expressen
+- Källor: Marktrupper krävs för att beslagta Irans uran - Dagens Nyheter
+- Europeiska aktier studsar tillbaka när Trumps kommentar väcker hopp om slut på kriget med Iran - Morningstar Canada
+- Efter oljekrisen – flygbolag inför bränsletillägg - TV4 Nyheterna
+- DNB Carnegie utvidgar värderingsintervallet för Powercell efter medieuppgifter - Börsvärlden
+- Börsen lyfter kraftigt – oljepriset rasar - Västerbottens-Kuriren
 - Äntligen! Sin-remastern får trailer och 2026-release - FZ.se
-- Apple skjuter upp lansering av smarta hemdisplayen då Siri-uppgradering dröjer – Bloomberg - Investing.com Sverige
+- Imac får "uppfräschade" färger i år - Macworld.se
 
 ## World News
 
@@ -60,13 +60,13 @@ _Updated: 2026-03-10 12:06_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -120,25 +120,25 @@ _Updated: 2026-03-10 12:06_
 ## Science
 
 - 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-03-10 12:06_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
