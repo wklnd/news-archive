@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 19:29_
+_Updated: 2026-03-10 20:28_
 
-- Live updates: US will end war with Iran ‘on our timeline,’ Hegseth says - CNN
-- Georgia special election to replace MTG tests the power of Trump's endorsement - NPR
-- Alexander brothers, luxury real estate brokers, convicted of sex trafficking after weekslong trial - ABC7 Los Angeles
-- Trump says he's "not happy" about Iran's new supreme leader, Mojtaba Khamenei - CBS News
+- US and Iran dig in and ramp up threats as war rages with no end in sight - AP News
+- How the special election to replace Marjorie Taylor Greene is testing the power of Trump’s endorsement - CNN
+- Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
+- Trump’s ‘free flow of energy’ vow fails to restart shipping in strait of Hormuz - The Guardian
 - Iran war’s oil shock fuels GOP political anxiety - The Washington Post
-- Shots Fired at U.S. Consulate in Toronto, Police Say - The New York Times
+- Five ways the Iran war could unfold - Financial Times
 - Charles ‘Sonny’ Burton is slated for execution. He hopes the Alabama governor will grant him clemency - CNN
 - US investigators begin search of Epstein’s former ranch in New Mexico - Al Jazeera
+- Thune: Talking filibuster ‘more complicated and risky’ than people realize - Live Updates - Politico
 - DOJ's Ed Martin faces ethics charges from disciplinary office over threatening letter to Georgetown University - CBS News
-- Mamdani Chooses His Words Carefully After Alleged Terror Attack - The New York Times
+- "I Don't Believe He Can Live In Peace": Trump's Warning For Mojtaba Khamenei - NDTV
 - Australia grants asylum to 5 Iranian soccer players after Trump pressure - The Washington Post
-- What We’ve Learned From 10 Days of War - The New York Times
-- IDF hits Hezbollah command centers and finance body as rockets fly at northern Israel - The Times of Israel
-- Exclusive: U.S. dismissed Ukraine deal for anti-Iran drone tech last year - Axios
+- Trump gives mixed signals on Iran war. And, how Epstein built ties to scientists - NPR
+- Reducing Europe's nuclear energy sector was 'strategic mistake', EU chief says - Reuters
+- Oil prices fall despite Hesgeth's promise of even bigger strikes on Iran - NBC News
 - FDA backs away from RFK Jr.’s claims about drug’s promise for autism patients - Politico
-- Stock Market Today: Dow, Nasdaq Climb As Oil Prices Plummet Amid Ongoing U.S.-Iran Conflict (Live Coverage) - Investor's Business Daily
 - Businesses Ask the TACO Question About Iran - The New York Times
-- Iran war puts at risk key pipelines, terminals and refineries that supply the world with oil and gas - AP News
+- Stock Market Today: Dow Claws Higher; Micron Pops While Pharma Name Breaks Out (Live Coverage) - Investor's Business Daily
 - Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive - TechCrunch
-- MacBook Neo Wallpapers Now Available for All Macs in macOS Tahoe 26.4 Beta - MacRumors
+- Sonos just launched Play, a new $299 portable speaker - The Verge
