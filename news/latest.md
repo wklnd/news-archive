@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-11 00:59_
+_Updated: 2026-03-11 01:56_
 
 - Explosions in Tehran as Hegseth says today will be 'most intense' day of strikes on Iran so far - BBC
-- US Navy tells shipping industry Hormuz escorts not possible for now - Reuters
+- What to expect in Georgia's special election to fill Marjorie Taylor Greene's former seat - PBS
+- White House denies US military escorted tanker in Hormuz after deleted post - Al Jazeera
+- Iran’s new supreme leader’s name appears on missile aimed at Israel - The Independent
 - War expands to central Beirut as Israeli strike kills Iranians in luxury hotel - BBC
 - Iran war’s oil shock fuels GOP political anxiety - The Washington Post
-- What to expect in Georgia's special election to fill Marjorie Taylor Greene's former seat - PBS
-- Whistleblower claims ex-DOGE member says he took Social Security data to new job - The Washington Post
-- Here's how to check TSA wait times before your flight - Business Insider
-- Gov. Kay Ivey Commutes Death Sentence of Charles ‘Sonny’ Burton - The New York Times
-- Judge Is Skeptical of Penn’s Argument Against Trump Demand for List of Jews - The New York Times
 - FBI finds explosive residue in storage unit after 2 men are charged with lighting bombs in NYC - AP News
-- Iran signaling it may deploy mines to disrupt Strait of Hormuz, U.S. sources say - CBS News
-- Trump says he is 'disappointed' that Mojtaba Khamenei became Iran's supreme leader - Reuters
-- Photos from Iran and across the Middle East as the war enters Week 2 - NPR
+- Alabama governor commutes death sentence of man who didn't kill anyone - NBC News
+- Transportation Secretary Duffy tells Schumer to 'get off the political bandwagon' amid DHS funding standoff - Fox Business
+- Thune eyes action on SAVE America Act next week — without a ‘talking filibuster’ - Politico
 - More members of the Iranian women’s soccer team seek asylum as most of squad leaves Australia - CNN
+- Trump gives mixed signals on Iran war. And, how Epstein built ties to scientists - NPR
+- Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers - The New York Times
+- Almost 700,000 displaced, 84 children killed after Israeli strikes on Lebanon, UN agencies say - Reuters
+- Deleted Tweet From Energy Secretary Sends Oil Markets on Another Wild Ride - WSJ
 - Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war - CNBC
-- Stock Market Today: Oil Erases More of Its Recent Gains; Dow Inches Up — Live Updates - WSJ
-- Businesses Ask the TACO Question About Iran - The New York Times
-- Meta acquires Moltbook, the AI agent social network - Ars Technica
-- Sonos just launched Play, a new $299 portable speaker - The Verge
+- Home sales improved in February, but higher mortgage rates threaten that progress - Yahoo Finance
+- Michigan to continue antitrust case against Live Nation, Ticketmaster - Detroit Free Press
 - Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive - TechCrunch
+- Apple’s 'game changer' MacBook Neo gets rave reviews on pricing and design - Seeking Alpha
