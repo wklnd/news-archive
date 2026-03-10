@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 09:28_
+_Updated: 2026-03-10 10:04_
 
-- Francis Fukuyama: Why Iran Won’t Surrender - The Free Press
-- What to know about Mojtaba Khamenei, Iran's new supreme leader - NPR
-- The grim choice facing the Trump administration: Economic or naval collapse? - CNN
-- Alexander brothers, famous real estate brokers, guilty of sex trafficking - BBC
-- Ukraine war briefing: Trump set to ease oil-related sanctions following Putin call - The Guardian
+- Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is "very far ahead of schedule" - CBS News
+- World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader - Al Jazeera
+- Iran war live: Trump, Tehran trade threats over oil blockade - Reuters
+- Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
+- Fragments of U.S.-Made Missile Seen in Photos Taken by Iran Near Deadly School Strike - The New York Times
 - ‘We’ve got to pay attention’: GOP anxiety spikes over rising energy prices - Politico
+- Ohio State President Carter resigns over inappropriate relationship - The Columbus Dispatch
 - Trump is delaying Texas Senate endorsement to pressure GOP senators on SAVE America Act - Politico
-- Ohio State University president resigns over ‘inappropriate relationship’ - The Guardian
 - 2 Bucks County, Pennsylvania, men charged in "ISIS-inspired" attack outside NYC Mayor Mamdani's residence - CBS News
-- Missile in Deadly Iranian School Strike Appears to Be U.S.-Made, Photos Taken by Iran Show - The New York Times
+- Trump says some sanctions to be lifted on oil producers amid Iran war - Al Jazeera
 - Australia grants asylum to 5 members of the Iranian women’s soccer team - AP News
 - US, Iran spar over status of Iranian warship sunk by submarine - Military Times
-- 'Iran will determine when the war ends': IRGC responds to Donald Trump's 'short-lived conflict' remark - Deccan Herald
-- Who Is Balendra Shah, The Rapper Set to Be Nepal’s Next Prime Minister? - The New York Times
+- Trump says he discussed Ukraine and Iran conflicts with Putin - Reuters
+- Middle East war live: Iran vows to fight ‘as long as needed’ after Trump says war over ‘soon’ - France 24
 - Oil Drops as Trump Signals Iran Conflict Near End: Markets Wrap - Bloomberg
-- Broad agreement in G7 not to release oil reserves just yet, says G7 official - Reuters
-- FAA grounds all JetBlue flights after request from airline - AP News
-- Oil Prices Will Remain High as Iran War Continues - The New York Times
+- How the Iran war and surging oil prices are affecting consumers at the gas pump and beyond - AP News
+- FAA cancels groundstop for JetBlue planes - New York Post
+- China exports sharply beat expectations as trade surplus in the first two months surges to highest on record - CNBC
 - Exclusive: Official Google Pixel 11 Pro Fold CAD Renders First Look - Android Headlines
 - Everything New in iOS 26.4 Beta 4 - MacRumors
