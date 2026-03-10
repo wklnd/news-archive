@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 06:55_
+_Updated: 2026-03-10 08:05_
 
 ## Top Stories
 
-- Trump: Slagit till mot mer än 5 000 mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Internt larm: Psykiatrin i Stockholm utarmas - SvD
+- Trump: Slagit till mot fler än 5 000 mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Expo-rapport: Stockholm sticker ut – högerextrema på kraftig frammarsch - Dagens Nyheter
+- ”I praktiken en enorm förlust av kompetens” - SvD
+- Ingen är nöjd – ändå blir flyktingbostäderna i Askim kvar - GP
 - Trumps rådgivare: Kan ta kontroll över ö – och ta Irans olja - Expressen
+- Myten: Sverige stoppade transvården av barn - GP
+- Jimmie Åkesson: Jag är hundra procent säker – myndigheterna motverkar oss - Dagens Nyheter
+- Man död efter trafikolycka i Norra Åsum - SVT Nyheter
+- Livstid fastställs för gängmord i Linköping - GP
+- Här är alla utredningar som påverkar skolledare - Skolledaren
+- Irankriget fyller Putins krigskassa: ”Vinstlott” - GP
 - Direkt – Krisen i Mellanöstern – Källor: Då är Trump öppen för att Mojtaba dödas - Dagens Nyheter
-- Putins svek – ”kritiskt” för ryska armén - Expressen
-- 09 mars 21.36, Trafikkontroll, Norrbottens län - polisen.se
-- Polisen varnar för spioneri under Natoövningar i Norrbotten - Norran
-- Umeå snuvad på ny myndighet - Folkbladet
-- 09 mars 21.22, Trafikkontroll, Västernorrlands län - polisen.se
-- Västerbotten, resultat från några av dagens trafikkontroller. - Brottsplatskartan.se
 - Iran och Israel i nya attacker - Corren
 - Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
-- Larm: Sköt vit fosfor mot hem i Libanon - Västerbottens-Kuriren
-- DEBATT: Bödeln är död – nu börjar Irans återkomst - DI
-- Oljepriset backar något - Aftonbladet
-- Stockholmsbörsen inledde börsveckan ned - tyngt av höga oljepriser och Mellanösternoro, OMXS30-index -1,5 procent - Aktiellt
+- Oljepriset oroar transport: ”Risk för konkursvåg” - Omni
+- Säker genom krisen: Defensiva aktier som står pall för börsoron - Dagens PS
 - Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- Dousa: Sverige redo att möta ekonomiska följder av Irankonflikten - Börskollen
+- Stockholmsbörsen inledde börsveckan ned - tyngt av höga oljepriser och Mellanösternoro, OMXS30-index -1,5 procent - Aktiellt
+- KREATIV DESIGN: Sofias lekfulla stol får folk att mötas: ”Sällskap gör människor lyckliga” - NWT
 - Oneplus delar bild på lilla versionen av flaggskeppet - Swedroid
-- Forskarnas dom om världens äldsta isberg - Expressen
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
 - 48 städer krokar arm i global klimatomställning - Cision News
 
 ## Technology
@@ -65,10 +65,10 @@ _Updated: 2026-03-10 06:55_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -86,57 +86,57 @@ _Updated: 2026-03-10 06:55_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
-- Institutionen för vårdvetenskap - Malmö universitet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
