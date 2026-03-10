@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 08:05_
+_Updated: 2026-03-10 09:24_
 
 ## Top Stories
 
-- Trump: Slagit till mot fler än 5 000 mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Expo-rapport: Stockholm sticker ut – högerextrema på kraftig frammarsch - Dagens Nyheter
-- ”I praktiken en enorm förlust av kompetens” - SvD
+- Börsrally i Asien efter Trumps krigsbesked - Västerbottens-Kuriren
 - Ingen är nöjd – ändå blir flyktingbostäderna i Askim kvar - GP
-- Trumps rådgivare: Kan ta kontroll över ö – och ta Irans olja - Expressen
-- Myten: Sverige stoppade transvården av barn - GP
-- Jimmie Åkesson: Jag är hundra procent säker – myndigheterna motverkar oss - Dagens Nyheter
+- Asienbörserna lyfter efter tunga fall – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Pinochetskugga över Chile när Kast tar över makten - Dagens Nyheter
+- En ny generation ritar om den högerextrema kartan - expo.se
+- Så undviker du att överskatta din förmåga - Dagens Nyheter
+- Polisen växlar upp för att stoppa rekrytering till kriminella nätverk - polisen.se
 - Man död efter trafikolycka i Norra Åsum - SVT Nyheter
-- Livstid fastställs för gängmord i Linköping - GP
-- Här är alla utredningar som påverkar skolledare - Skolledaren
-- Irankriget fyller Putins krigskassa: ”Vinstlott” - GP
-- Direkt – Krisen i Mellanöstern – Källor: Då är Trump öppen för att Mojtaba dödas - Dagens Nyheter
-- Iran och Israel i nya attacker - Corren
-- Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
-- Oljepriset oroar transport: ”Risk för konkursvåg” - Omni
-- Säker genom krisen: Defensiva aktier som står pall för börsoron - Dagens PS
-- Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
-- Stockholmsbörsen inledde börsveckan ned - tyngt av höga oljepriser och Mellanösternoro, OMXS30-index -1,5 procent - Aktiellt
+- Slopat lönekrav i vården välkomnas – med tvekan - Corren
+- Livstid fastställs för gängmord i Linköping - Västerbottens-Kuriren
+- Irankriget fyller Putins krigskassa: ”Vinstlott” - Västerbottens-Kuriren
+- Nye ledaren i Iran blir nu en måltavla för USA och Israel - Dagens Nyheter
+- Var tredje man i Gen Z tycker att kvinnan ska lyda - Dagens Nyheter
+- De tänker stämma Sveriges transvård: ”Trauma och livslånga men” - GP
+- Börslyft runt om i världen – oljepriset rasar - Tidningen Näringslivet
+- PowerCell Group bemöter påståenden om bristfällig teknologi (MFN) - Aktiellt
+- Analytiker: Energikris kan gynna skogsbolagen - Affärsvärlden
+- Akut brist på minneschip i AI-boomen: ”Kalla kårar” - Omni
 - KREATIV DESIGN: Sofias lekfulla stol får folk att mötas: ”Sällskap gör människor lyckliga” - NWT
-- Oneplus delar bild på lilla versionen av flaggskeppet - Swedroid
+- Oppos nya vecklösa vikbara mobil Find N6 släpps globalt - m3.se
 
 ## World News
 
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- 🌾 Rekordår för global matproduktion 2024 - Warp News
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
@@ -65,10 +65,10 @@ _Updated: 2026-03-10 08:05_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -86,10 +86,10 @@ _Updated: 2026-03-10 08:05_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -99,7 +99,7 @@ _Updated: 2026-03-10 08:05_
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
