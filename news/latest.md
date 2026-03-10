@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 05:14_
+_Updated: 2026-03-10 07:01_
 
 - Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is "very far ahead of schedule" - CBS News
+- Oil prices seesaw as Trump sends mixed messages on what’s next in Iran - The Washington Post
 - Alexander brothers, famous real estate brokers, guilty of sex trafficking - BBC
-- SAVE America Act is ‘No. 1 priority,’ Trump tells Republicans - Politico
-- Airport Delays: List of Airports With Long TSA Lines - Business Insider
-- New footage raises likelihood the US struck an Iranian school where a blast killed at least 165 - AP News
+- Trump Open to Khamenei Being Killed if He Doesn’t Cede to U.S. Demands - WSJ
 - Scoop: White House readies executive order to weed out Anthropic - Axios
-- O.S.U. President Walter Carter Jr. Resigns Over ‘Inappropriate Relationship’ - The New York Times
-- Rand Paul eyes next week for Mullin DHS confirmation hearing - Live Updates - Politico
+- Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz - CNBC
+- Ohio State University President Resigns Over ‘Inappropriate Relationship’ - WSJ
 - Trump is delaying Texas Senate endorsement to pressure GOP senators on SAVE America Act - Politico
-- Two ISIS Supporters Charged with Attempting to Detonate Explosive Devices During Protests Outside Gracie Mansion - Department of Justice (.gov)
-- Australia grants asylum to five Iranian women footballers - Al Jazeera
+- Rand Paul eyes next week for Mullin DHS confirmation hearing - Live Updates - Politico
+- 2 Bucks County, Pennsylvania, men charged in "ISIS-inspired" attack outside NYC Mayor Mamdani's residence - CBS News
+- Australia grants asylum to 5 members of the Iranian women’s soccer team - AP News
+- US, Iran spar over status of Iranian warship sunk by submarine - Military Times
 - Oil over $100, markets in freefall, and Iran's new Supreme Leader is Trump's 'worst case' scenario - Fortune
 - France Is Sending a Large Naval Force to the Middle East - The New York Times
-- War tests Dubai as safe space for the super rich - Axios
-- Oil prices sink, stocks jump in dramatic reversal - NBC News
-- Justice Department and Live Nation reach settlement over illegal monopoly case - AP News
-- Statement by IEA Executive Director Fatih Birol on his participation in a meeting of G7 Finance Ministers - IEA – International Energy Agency
+- Oil Drops as Trump Signals Iran Conflict Near End: Markets Wrap - Bloomberg.com
+- Broad agreement in G7 not to release oil reserves just yet, says G7 official - Reuters
+- China exports sharply beat expectations in the first two months as trade surplus surges to highest on record - CNBC
 - Goldman pitches hedge funds on strategies to bet against corporate loans - Financial Times
-- X says you can block Grok from editing your photos - The Verge
-- Testing Apple’s 2026 16-inch MacBook Pro, M5 Max, and its new “performance” cores - Ars Technica
+- Everything New in iOS 26.4 Beta 4 - MacRumors
+- Apple’s new M5 Max feels like a huge upgrade if you bought your laptop three years ago - The Verge
