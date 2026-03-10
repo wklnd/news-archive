@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 21:21_
+_Updated: 2026-03-10 21:58_
 
 ## Top Stories
 
-- 140 amerikanska soldater har skadats i kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uppgifter: Iran lägger minor i Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
 - Nya anfall i Libanon – hundratusen på flykt - GP
-- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
-- Bråk om förlossningsvården – S kräver mer pengar - Västerbottens-Kuriren
 - Jawid och Wajiha har sökt 500 lägenheter – "Det är väldigt jobbigt" - GP
+- S: Regeringen måste agera mot krisen i förlossningsvården - Socialdemokraterna
+- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
 - Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
-- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
 - Man påkörd av lastbil på motorväg - Västerbottens-Kuriren
-- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
-- Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Brand vid oljeindustri i Abu Dhabi efter attack - Dagens Nyheter
-- Irans nye ledare: En fastighetsmogul - Realtid
+- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
+- USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
+- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
+- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- Sprickan om kriget: ”Inte färdiga ännu” - Expressen
 - Turkiet förstärker luftvärnet - Västerbottens-Kuriren
-- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Så kan lantbruket och matpriserna påverkas av kriget i Iran - Jordbruksaktuellt
+- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
-- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
-- Pollensmocka slår mot elevernas provresultat - Aftonbladet
+- H&M:s kurslyft stärker Stefan Perssons grepp om rikast-titeln i Sverige - Börskollen
+- Pollensmocka slår mot elevernas provresultat - Västerbottens-Kuriren
 - Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
 
 ## World News
@@ -44,9 +44,9 @@ _Updated: 2026-03-10 21:21_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -55,18 +55,18 @@ _Updated: 2026-03-10 21:21_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Albanien utser AI-bot till minister - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -86,21 +86,21 @@ _Updated: 2026-03-10 21:21_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
