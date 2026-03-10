@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 00:54_
+_Updated: 2026-03-11 01:51_
 
 ## Top Stories
 
-- WHO varnar för ”svart regn” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Amerikanska medier: Iran minerar Hormuzsundet - Hufvudstadsbladet
-- Minst sex döda i bussbrand i Schweiz - GP
-- Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
-- Vattenläcka i Varberg: ”Allvarlig situation” - Hallands Nyheter
+- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- Minst sex döda i bussbrand i Schweiz - Dagens Nyheter
 - Jawid och Wajiha har sökt 500 lägenheter – "Det är väldigt jobbigt" - GP
-- Vinterkräksjukan fortsätter öka – smittskydd varnar: ”Undvik bufféer” - NWT
+- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
+- Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
+- Nu toppar vinterkräksjukan – värst sedan pandemin - GP
 - Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
 - USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
 - Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
-- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
-- USA har inte eskorterat oljetankfartyg genom Hormuzsundet, säger Vita huset av Investing.com - Investing.com Sverige
 - Direkt – Krisen i Mellanöstern – Iran: Diplomater dödades i israelisk attack i Libanon - Dagens Nyheter
-- Så kan Europa stötta folket i Iran: ”Sluta mumla” - ETC.se
+- ”Bonusprinsen” släpps inte ur häktet - Västerbottens-Kuriren
+- Regeringsilska efter S-ledarens kärnvapenkritik: ”Bryter mot överenskommelse” - SVT Nyheter
+- Zelenskyj: Elva länder har bett om drönarhjälp - GP
 - Så kan lantbruket och matpriserna påverkas av kriget i Iran - Jordbruksaktuellt
-- Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
+- Nya techmiljardärer kliver in bland Sveriges rikaste - DI
 - Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
-- Han är rikast i Sverige - Sydsvenskan
+- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
 - Pollen slår mot elevernas provresultat - Österbottens Tidning
 - Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
 
@@ -30,23 +30,23 @@ _Updated: 2026-03-11 00:54_
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- VFS Global rekommenderar att man skickar in visumansökningar tidigt och är försiktig med bedrägerier före högsäsongen. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- 48 städer krokar arm i global klimatomställning - Cision News
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -79,20 +79,20 @@ _Updated: 2026-03-11 00:54_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -142,6 +142,7 @@ _Updated: 2026-03-11 00:54_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
@@ -161,4 +162,3 @@ _Updated: 2026-03-11 00:54_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
