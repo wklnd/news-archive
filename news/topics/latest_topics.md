@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 20:07_
+_Updated: 2026-03-10 21:21_
 
 ## Top Stories
 
-- WHO varnar för ”svart regn” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- S: Regeringen måste agera mot krisen i förlossningsvården - Socialdemokraterna
-- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
-- Domstol: Risk för nya brott om Borg Høiby släpps - Omni
-- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
-- Polisen: Tre grupperingar runt IFK Göteborg ses som kriminella nätverk - GP
+- 140 amerikanska soldater har skadats i kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
+- Nya anfall i Libanon – hundratusen på flykt - GP
+- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
+- Bråk om förlossningsvården – S kräver mer pengar - Västerbottens-Kuriren
+- Jawid och Wajiha har sökt 500 lägenheter – "Det är väldigt jobbigt" - GP
 - Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
+- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
 - Man påkörd av lastbil på motorväg - Västerbottens-Kuriren
-- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
-- 10 mars 17.15, Trafikkontroll, Västerbottens län - polisen.se
+- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
 - Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
-- Ny evakueringsorder i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Stort raffinaderi nedstängt efter brand - Västerbottens-Kuriren
-- Erdogan varnar Iran efter nedskjuten robot - GP
+- Direkt – Krisen i Mellanöstern – Brand vid oljeindustri i Abu Dhabi efter attack - Dagens Nyheter
+- Irans nye ledare: En fastighetsmogul - Realtid
+- Turkiet förstärker luftvärnet - Västerbottens-Kuriren
 - Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
-- Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
+- Så kan lantbruket och matpriserna påverkas av kriget i Iran - Jordbruksaktuellt
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
-- DNB Carnegie utvidgar värderingsintervallet för Powercell efter medieuppgifter - Börsvärlden
-- Ny kurs: Jobba smartare i Microsoft 365 ute nu - Lunds universitet
-- Apples Homepad får magnetfäste för väggen - Macworld.se
+- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
+- Pollensmocka slår mot elevernas provresultat - Aftonbladet
+- Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
 
 ## World News
 
@@ -55,18 +55,18 @@ _Updated: 2026-03-10 20:07_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Albanien utser AI-bot till minister - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -79,20 +79,20 @@ _Updated: 2026-03-10 20:07_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
