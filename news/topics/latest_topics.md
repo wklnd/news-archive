@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 19:24_
+_Updated: 2026-03-10 20:07_
 
 ## Top Stories
 
 - WHO varnar för ”svart regn” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
-- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
-- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
 - S: Regeringen måste agera mot krisen i förlossningsvården - Socialdemokraterna
-- Risksupportergrupperingar blir kriminella nätverk - polisen.se
-- Man avliden efter påkörning av lastbil - SVT Nyheter
+- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
+- Domstol: Risk för nya brott om Borg Høiby släpps - Omni
+- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
+- Polisen: Tre grupperingar runt IFK Göteborg ses som kriminella nätverk - GP
+- Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
+- Man påkörd av lastbil på motorväg - Västerbottens-Kuriren
 - Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
 - 10 mars 17.15, Trafikkontroll, Västerbottens län - polisen.se
-- 10 mars 17.16, Trafikkontroll, Västernorrlands län - polisen.se
 - Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
 - Ny evakueringsorder i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Brand vid oljeindustri i Abu Dhabi efter attack - Dagens Nyheter
-- Kvinnor i Gaza drabbas särskilt hårt av Israels pågående folkmord - Örebronyheter
+- Stort raffinaderi nedstängt efter brand - Västerbottens-Kuriren
+- Erdogan varnar Iran efter nedskjuten robot - GP
 - Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
-- Aktiespararna om Powercell: Kan bli granskning av både börsen och myndigheter - Börsvärlden
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
+- DNB Carnegie utvidgar värderingsintervallet för Powercell efter medieuppgifter - Börsvärlden
 - Ny kurs: Jobba smartare i Microsoft 365 ute nu - Lunds universitet
 - Apples Homepad får magnetfäste för väggen - Macworld.se
 
 ## World News
 
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- 🌾 Rekordår för global matproduktion 2024 - Warp News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
@@ -97,10 +97,10 @@ _Updated: 2026-03-10 19:24_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -109,9 +109,9 @@ _Updated: 2026-03-10 19:24_
 - Institutionen för vårdvetenskap - Malmö universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
@@ -126,18 +126,18 @@ _Updated: 2026-03-10 19:24_
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
