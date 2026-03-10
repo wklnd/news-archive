@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 21:58_
+_Updated: 2026-03-10 22:58_
 
 ## Top Stories
 
-- Uppgifter: Iran lägger minor i Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- 140 amerikanska soldater har skadats i kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
-- Nya anfall i Libanon – hundratusen på flykt - GP
+- Flera döda i bussbrand i Schweiz - GP
+- ”Man är höger på riktigt – och skäms inte för det” - SvD
+- Bengt betalade för mycket för parkering i Malmö – fick p-bot ändå - Sydsvenskan
 - Jawid och Wajiha har sökt 500 lägenheter – "Det är väldigt jobbigt" - GP
-- S: Regeringen måste agera mot krisen i förlossningsvården - Socialdemokraterna
-- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
 - Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
-- Man påkörd av lastbil på motorväg - Västerbottens-Kuriren
-- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
-- USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
-- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
-- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
-- Sprickan om kriget: ”Inte färdiga ännu” - Expressen
-- Turkiet förstärker luftvärnet - Västerbottens-Kuriren
+- Man avliden efter påkörning av lastbil - SVT Nyheter
+- Sverige får köpa vapensystemet Himars av USA - GP
+- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
+- Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
+- ”Bonusprinsen” släpps inte ur häktet - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Iran: Diplomater dödades i israelisk attack i Libanon - Dagens Nyheter
+- Irans nye ledare: En fastighetsmogul - Realtid
 - Så kan lantbruket och matpriserna påverkas av kriget i Iran - Jordbruksaktuellt
-- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
-- H&M:s kurslyft stärker Stefan Perssons grepp om rikast-titeln i Sverige - Börskollen
-- Pollensmocka slår mot elevernas provresultat - Västerbottens-Kuriren
+- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
+- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
+- Pollen slår mot elevernas provresultat - Österbottens Tidning
 - Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
 
 ## World News
@@ -44,9 +44,9 @@ _Updated: 2026-03-10 21:58_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -56,12 +56,12 @@ _Updated: 2026-03-10 21:58_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -86,21 +86,21 @@ _Updated: 2026-03-10 21:58_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -146,6 +146,7 @@ _Updated: 2026-03-10 21:58_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -153,12 +154,11 @@ _Updated: 2026-03-10 21:58_
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
