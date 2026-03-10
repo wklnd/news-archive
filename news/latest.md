@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 15:47_
+_Updated: 2026-03-10 17:42_
 
-- Oil prices seesaw as Trump sends mixed messages on what’s next in Iran - The Washington Post
-- As War Sends Gas Prices Soaring, Americans Wince: ‘Harder to Exist.’ - The New York Times
-- What to know about Mojtaba Khamenei, Iran's new supreme leader - NPR
-- Georgia special election to replace MTG tests the power of Trump's endorsement - NPR
-- Alexander brothers, famous US real estate brokers, guilty of sex trafficking - BBC
-- Kentucky soldier stationed in Saudi Arabia is 7th U.S. military death in Iran war - PBS
+- Iran War: Trump Hints at Early End to Conflict, Easing Oil-Shock Concerns - Bloomberg
+- Georgia votes in high-stakes primary for Marjorie Taylor Greene’s House seat - The Guardian
+- Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
+- Trump says he's "not happy" about Iran's new supreme leader, Mojtaba Khamenei - CBS News
+- Iran war’s oil shock fuels GOP political anxiety - The Washington Post
+- Iran’s threats on U.S. soil: sleeper cells, lone wolves, cyberattacks and eerie numbers code - Los Angeles Times
+- US Steps Up Iran Strikes as Oil Industry Faces More Upheaval - Yahoo Finance
 - US investigators begin search of Epstein’s former ranch in New Mexico - Al Jazeera
-- Hegseth signals 'most intense day' of Iran strikes as attacks continue - Euronews.com
+- Ed Martin, outspoken Justice Department lawyer, is formally accused of ethical violations - CNN
 - Trump Antisemitism Inquiry Demanding List of Jews at Penn Heads to Court - The New York Times
-- Trump lays down law on Iran and SAVE Act in GOP pep talk - Axios
-- Australia grants asylum to 5 members of the Iranian women’s soccer team - AP News
-- 'Expel US & Israeli ambassadors': IRGC offers 'full freedom' in Strait of Hormuz to Arab, European nations on one condition - WION
+- Australia grants asylum to 5 Iranian soccer players after Trump pressure - The Washington Post
+- Human Rights Watch says that Israel has been illegally using white phosphorus in Lebanon - Reuters
+- Iran Offers Hormuz Passage in Exchange for Diplomat Expulsions - WSJ
 - Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers - The New York Times
-- US, Iran spar over status of Iranian warship sunk by submarine - Military Times
-- Calm returns to Wall Street as oil prices retreat below $90 per barrel - AP News
-- JetBlue flights to resume after request for ground stop, FAA says - abcnews.com
-- Stock Market Today: Oil Price Slides; Dow Futures Inch Lower — Live Updates - WSJ
-- China’s exports turbocharge into 2026 after record-breaking year - Reuters
+- Stock Market Today: Dow Dips After Trump's Iran Comments As Oil Prices Tumble (Live Coverage) - Investor's Business Daily
+- FDA backs away from RFK Jr.’s claims about drug’s promise for autism patients - Politico
+- China’s Export Machine Keeps Pumping Ahead of Trump Visit - WSJ
+- Iran war: How long before Gulf nations stop pumping oil? - DW.com
 - MacBook Neo Wallpapers Now Available for All Macs in macOS Tahoe 26.4 Beta - MacRumors
-- Pixel 11 Pro Fold Already Looking Pretty Hot - Droid Life
+- Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive - TechCrunch
