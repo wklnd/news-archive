@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 01:51_
+_Updated: 2026-03-10 05:11_
 
 ## Top Stories
 
-- Glädjeskutt på Wall Street efter Trumps utspel - Dagens Nyheter
-- Flervåningshus raserat i attack mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Slagit till mot mer än 5 000 mål - Corren
+- Oljepriset fortsätter nedåt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Källor: Då är Trump öppen för att Mojtaba dödas - Dagens Nyheter
+- Putins svek – ”kritiskt” för ryska armén - Expressen
 - Presidenten: Hizbollah vill att Libanon kollapsar - GP
-- Israeliska soldater bryter tystnaden: ”Orkar inte vända bort blicken längre” - Dagens Nyheter
-- Trump rasade mot Starmer – relationen iskall - Expressen
-- Man död efter trafikolycka i Norra Åsum - SVT Nyheter
-- Livstid fastställs för gängmord i Linköping - Aftonbladet
-- Larm om oljeutsläpp i Lysekil - Västerbottens-Kuriren
+- Trumps rådgivare: Kan ta kontroll över ö – och ta Irans olja - Expressen
 - 09 mars 21.36, Trafikkontroll, Norrbottens län - polisen.se
+- Man död efter trafikolycka i Norra Åsum - SVT Nyheter
+- Umeå snuvad på ny myndighet - Folkbladet
+- Polisen varnar för spioneri under Natoövningar i Norrbotten - Norran
 - Rysslands näste i spillror – amerikanska vapen slår till - Marcus Oscarsson
+- Frankrike vill att ”defensivt” uppdrag ska öppna Hormuz - Omni
+- Brittiska stridsflyg har skjutit ner drönare - Västerbottens-Kuriren
 - UPPDATERAS: Ukraina skyddar amerikanska baser i Jordanien - ryssar kapitulerar, inte fått mat på veckor och sårade evakueras inte utan dör - cornucopia.se
-- Beviset mot Trumps lögn – USA pekas ut - Expressen
-- Oljepriset oroar transport: ”Risk för konkursvåg” - Omni
+- Oljepriset backar något - Aftonbladet
 - Stockholmsbörsen inledde börsveckan ned - tyngt av höga oljepriser och Mellanösternoro, OMXS30-index -1,5 procent - Aktiellt
-- Kriget och kärnkraften håller elpriset uppe - Byggahus.se
-- Charterbolag erbjuder påskresor till Dubai - SvD
+- Bristen på chip allt mer akut: ”Får kalla kårar” - SvD
+- Dousa: Sverige redo att möta ekonomiska följder av Irankonflikten - Börskollen
 - Forskarnas dom om världens äldsta isberg - Expressen
 - Minishoot’ Adventures recension - varvat.se
-- Dagens Dubbel Tips Sovalla/Åby 11/3 - Travcash
 
 ## World News
 
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Europol: 13 svenskar gripna i global narkotikahärva - SVT Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Fynd i Västsverige avslöjade global knarkhärva - SvD
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
-- 48 städer krokar arm i global klimatomställning - Cision
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Fynd i Västsverige avslöjade global knarkhärva - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- We are exhibiting at Aidex 2024, the Global Humanitarian Aid Event - Mynewsdesk
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- 48 städer krokar arm i global klimatomställning - Cision
 
 ## Technology
 
@@ -56,17 +56,17 @@ _Updated: 2026-03-10 01:51_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -97,47 +97,47 @@ _Updated: 2026-03-10 01:51_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Thach Thanh Medical Center: Förebyggande medicin fortsätter att vara en stark "sköld". - Vietnam.vn
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC - Health Information Sharing and Analysis Center
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Hälsa och teknik - Chalmers tekniska högskola
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Anna Mia Ekström - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
