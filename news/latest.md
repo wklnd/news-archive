@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 12:22_
+_Updated: 2026-03-10 13:19_
 
-- Trump says Iran war will be over "very soon" - Axios
+- Iran-US war: Huge explosions in Tehran after Trump’s vow to end war ‘very soon’ - The Independent
 - What to know about Mojtaba Khamenei, Iran's new supreme leader - NPR
-- The grim choice facing the Trump administration: Economic or naval collapse? - CNN
-- Alexander brothers, famous real estate brokers, guilty of sex trafficking - BBC
+- Trump says it’s an ‘honor’ to keep Strait of Hormuz open for China and other countries - Fox News
 - Fragments of U.S.-Made Missile Seen in Photos Taken by Iran Near Deadly School Strike - The New York Times
-- Trump promised to fill America’s oil reserves ‘right to the top.’ A year later, oil has exceeded $100 and they’re still less than 60% full - Fortune
-- Ohio State University president resigns over ‘inappropriate relationship’ - The Guardian
+- Senate Republicans splinter over SAVE America Act's path as Trump calls for more revisions - NBC News
+- Trump says some sanctions to be lifted on oil producers amid Iran war - Al Jazeera
+- Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
+- US investigators begin search of Epstein’s former ranch in New Mexico - Al Jazeera
+- Ohio State University president to resign after disclosure of 'inappropriate relationship' - WLWT
 - 2 Bucks County, Pennsylvania, men charged in "ISIS-inspired" attack outside NYC Mayor Mamdani's residence - CBS News
-- Judge limits crowd control devices at Portland ICE building, says federal officers must identify themselves - Oregon Public Broadcasting - OPB
-- Workers at OpenAI show support for Anthropic as the company says it could lose $5 billion in its feud with the Pentagon - Business Insider
-- Australia grants asylum to five Iranian female soccer players after anthem protest - The Jerusalem Post
-- 'Expel US & Israeli ambassadors': IRGC offers 'full freedom' in Strait of Hormuz to Arab, European nations on one condition - WION
-- Trump and Putin discuss end to Iran and Ukraine wars on call - Axios
-- 'Iran will determine when the war ends': IRGC responds to Donald Trump's 'short-lived conflict' remark - Deccan Herald
-- US considering selling oil from strategic reserve, US energy chief says - Reuters
+- Australia grants asylum to five Iranian women footballers - Al Jazeera
+- Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns - CNBC
+- Trump says he discussed Ukraine and Iran conflicts with Putin - Reuters
+- North Korea denounces ‘muscle-flexing’ US-South Korean military exercises - Al Jazeera
+- Stock futures rise as oil declines after Trump signals Iran war may end soon: Live updates - CNBC
 - Amy Klobuchar Slams Live Nation Settlement: ‘Every Sign Points to a Backroom Deal’ - Rolling Stone
 - FAA briefly grounds all JetBlue flights after request from airline - AP News
-- China exports sharply beat expectations as trade surplus in the first two months surges to highest on record - CNBC
-- Everything New in iOS 26.4 Beta 4 - MacRumors
-- Super-early Pixel 11 Pro Fold leak provides ultra-clear look at Google's next big foldable - PhoneArena
+- China’s Exports Surge in First Two Months of Year - WSJ
+- Pixel 11 Pro Fold Already Looking Pretty Hot - Droid Life
+- XBox Project Helix suggests the 'console war' is over - Creative Bloq
