@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-10 10:04_
+_Updated: 2026-03-10 11:26_
 
-- Live Updates: As U.S.-Israeli war with Iran intensifies, Trump says it is "very far ahead of schedule" - CBS News
-- World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader - Al Jazeera
-- Iran war live: Trump, Tehran trade threats over oil blockade - Reuters
-- Alexander brothers convicted of sex trafficking in Manhattan federal court - NPR
+- Stock futures fall as traders weigh Trump's signal that Iran war may soon end: Live updates - CNBC
+- What to know about Mojtaba Khamenei, Iran's new supreme leader - NPR
+- Alexander brothers, famous real estate brokers, guilty of sex trafficking - BBC
 - Fragments of U.S.-Made Missile Seen in Photos Taken by Iran Near Deadly School Strike - The New York Times
-- ‘We’ve got to pay attention’: GOP anxiety spikes over rising energy prices - Politico
-- Ohio State President Carter resigns over inappropriate relationship - The Columbus Dispatch
-- Trump is delaying Texas Senate endorsement to pressure GOP senators on SAVE America Act - Politico
+- Ukraine war briefing: Trump set to ease oil-related sanctions following Putin call - The Guardian
+- The grim choice facing the Trump administration: Economic or naval collapse? - CNN
+- Ohio State University president resigns over ‘inappropriate relationship’ - The Guardian
 - 2 Bucks County, Pennsylvania, men charged in "ISIS-inspired" attack outside NYC Mayor Mamdani's residence - CBS News
-- Trump says some sanctions to be lifted on oil producers amid Iran war - Al Jazeera
-- Australia grants asylum to 5 members of the Iranian women’s soccer team - AP News
-- US, Iran spar over status of Iranian warship sunk by submarine - Military Times
-- Trump says he discussed Ukraine and Iran conflicts with Putin - Reuters
-- Middle East war live: Iran vows to fight ‘as long as needed’ after Trump says war over ‘soon’ - France 24
+- Judge limits crowd control devices at Portland ICE building, says federal officers must identify themselves - Oregon Public Broadcasting - OPB
+- Scoop: White House readies executive order to weed out Anthropic - Axios
+- Australia grants asylum to five Iranian female soccer players after anthem protest - The Jerusalem Post
+- Trump and Putin discuss end to Iran and Ukraine wars on call - Axios
+- US strike on Iranian warship tests India's neutrality - dw.com
+- Israel expects Lebanon offensive to outlast Iran conflict - Financial Times
 - Oil Drops as Trump Signals Iran Conflict Near End: Markets Wrap - Bloomberg
-- How the Iran war and surging oil prices are affecting consumers at the gas pump and beyond - AP News
-- FAA cancels groundstop for JetBlue planes - New York Post
-- China exports sharply beat expectations as trade surplus in the first two months surges to highest on record - CNBC
-- Exclusive: Official Google Pixel 11 Pro Fold CAD Renders First Look - Android Headlines
+- US considering selling oil from strategic reserve, US energy chief says - Reuters
+- Amy Klobuchar Slams Live Nation Settlement: ‘Every Sign Points to a Backroom Deal’ - Rolling Stone
+- JetBlue ground stop lifted soon after it began - CBS News
+- Pixel 11 Pro Fold Already Looking Pretty Hot - Droid Life
 - Everything New in iOS 26.4 Beta 4 - MacRumors
