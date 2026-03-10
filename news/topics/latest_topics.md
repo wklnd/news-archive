@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 09:24_
+_Updated: 2026-03-10 10:01_
 
 ## Top Stories
 
-- Börsrally i Asien efter Trumps krigsbesked - Västerbottens-Kuriren
+- Trump: Slagit till mot fler än 5 000 mål i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”I praktiken en enorm förlust av kompetens” - SvD
 - Ingen är nöjd – ändå blir flyktingbostäderna i Askim kvar - GP
-- Asienbörserna lyfter efter tunga fall – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Pinochetskugga över Chile när Kast tar över makten - Dagens Nyheter
-- En ny generation ritar om den högerextrema kartan - expo.se
-- Så undviker du att överskatta din förmåga - Dagens Nyheter
-- Polisen växlar upp för att stoppa rekrytering till kriminella nätverk - polisen.se
+- ”Sprider rykten om att pengarna är slut” - SvD
+- Expo-rapport: Stockholm sticker ut – högerextrema på kraftig frammarsch - Dagens Nyheter
+- Myten: Sverige stoppade transvården av barn - GP
 - Man död efter trafikolycka i Norra Åsum - SVT Nyheter
-- Slopat lönekrav i vården välkomnas – med tvekan - Corren
-- Livstid fastställs för gängmord i Linköping - Västerbottens-Kuriren
+- Polisen växlar upp för att stoppa rekrytering till kriminella nätverk - polisen.se
+- Slopat lönekrav i vården välkomnas – med tvekan - Västerbottens-Kuriren
+- Här är alla utredningar som påverkar skolledare - Skolledaren
+- Nya attacker mot Libanon i natt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Irankriget fyller Putins krigskassa: ”Vinstlott” - Västerbottens-Kuriren
 - Nye ledaren i Iran blir nu en måltavla för USA och Israel - Dagens Nyheter
-- Var tredje man i Gen Z tycker att kvinnan ska lyda - Dagens Nyheter
-- De tänker stämma Sveriges transvård: ”Trauma och livslånga men” - GP
-- Börslyft runt om i världen – oljepriset rasar - Tidningen Näringslivet
+- Varför är USA och Iran ärkefiender? - Aftonbladet
+- Lättnadsrekyl för oljepriset - Skogsaktuellt
 - PowerCell Group bemöter påståenden om bristfällig teknologi (MFN) - Aktiellt
 - Analytiker: Energikris kan gynna skogsbolagen - Affärsvärlden
 - Akut brist på minneschip i AI-boomen: ”Kalla kårar” - Omni
 - KREATIV DESIGN: Sofias lekfulla stol får folk att mötas: ”Sällskap gör människor lyckliga” - NWT
-- Oppos nya vecklösa vikbara mobil Find N6 släpps globalt - m3.se
+- Vilken Linux-distribution rekommenderar du? Dagens öppna fråga. - feber.se
 
 ## World News
 
