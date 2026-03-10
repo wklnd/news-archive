@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 23:50_
+_Updated: 2026-03-11 00:54_
 
 ## Top Stories
 
 - WHO varnar för ”svart regn” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Amerikanska medier: Iran minerar Hormuzsundet - Hufvudstadsbladet
+- Minst sex döda i bussbrand i Schweiz - GP
 - Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
-- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- Vattenläcka i Varberg: ”Allvarlig situation” - Hallands Nyheter
 - Jawid och Wajiha har sökt 500 lägenheter – "Det är väldigt jobbigt" - GP
-- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
-- Kristersson: ”Anmärkningsvärd svajighet” från S – Senaste nytt om valet 2026 - SVT Nyheter
+- Vinterkräksjukan fortsätter öka – smittskydd varnar: ”Undvik bufféer” - NWT
 - Chefsåklagarens larm: För lätt att lura till sig skattepengar - Dagens Nyheter
 - USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
-- UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
-- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
+- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
 - Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
-- Minst sex döda i bussbrand i Schweiz - Västerbottens-Kuriren
+- USA har inte eskorterat oljetankfartyg genom Hormuzsundet, säger Vita huset av Investing.com - Investing.com Sverige
 - Direkt – Krisen i Mellanöstern – Iran: Diplomater dödades i israelisk attack i Libanon - Dagens Nyheter
-- Irans nye ledare: En fastighetsmogul - Realtid
+- Så kan Europa stötta folket i Iran: ”Sluta mumla” - ETC.se
 - Så kan lantbruket och matpriserna påverkas av kriget i Iran - Jordbruksaktuellt
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
-- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
+- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Han är rikast i Sverige - Sydsvenskan
 - Pollen slår mot elevernas provresultat - Österbottens Tidning
 - Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
@@ -30,23 +30,23 @@ _Updated: 2026-03-10 23:50_
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- VFS Global rekommenderar att man skickar in visumansökningar tidigt och är försiktig med bedrägerier före högsäsongen. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- 48 städer krokar arm i global klimatomställning - Cision News
 
 ## Technology
 
@@ -86,13 +86,13 @@ _Updated: 2026-03-10 23:50_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -108,8 +108,8 @@ _Updated: 2026-03-10 23:50_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälsa och teknik - Chalmers tekniska högskola
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -119,30 +119,29 @@ _Updated: 2026-03-10 23:50_
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
@@ -162,3 +161,4 @@ _Updated: 2026-03-10 23:50_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
