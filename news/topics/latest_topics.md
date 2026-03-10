@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-10 18:32_
+_Updated: 2026-03-10 19:24_
 
 ## Top Stories
 
+- WHO varnar för ”svart regn” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
-- Andersson om kärnvapensamtalen: Vi har ingen överenskommelse med regeringen - Dagens Nyheter
-- Hegseth: ”I dag kommer vara den mest intensiva dagen av attacker” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Bråk om förlossningsvården – S kräver mer pengar - GP
+- Bonusprinsen pressad om sms: ”Smutsig hora” - Dagens Nyheter
 - UD gick bakom ryggen på Sida om Somaliapengarna: ”Inte bra” - Dagens Nyheter
-- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- S: Regeringen måste agera mot krisen i förlossningsvården - Socialdemokraterna
+- Risksupportergrupperingar blir kriminella nätverk - polisen.se
 - Man avliden efter påkörning av lastbil - SVT Nyheter
-- Ministern om kärnvapensamtal: S har velat – Senaste nytt om valet 2026 - SVT Nyheter
-- 10 mars 17.15, Trafikkontroll, Västerbottens län - Polisen.se
-- 10 mars 17.16, Trafikkontroll, Västernorrlands län - Polisen.se
-- ”Bonusprinsen” släpps inte ur häktet - Västerbottens-Kuriren
+- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
+- 10 mars 17.15, Trafikkontroll, Västerbottens län - polisen.se
+- 10 mars 17.16, Trafikkontroll, Västernorrlands län - polisen.se
+- Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
+- Ny evakueringsorder i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Brand vid oljeindustri i Abu Dhabi efter attack - Dagens Nyheter
-- Erdogan varnar Iran efter nedskjuten robot - GP
 - Kvinnor i Gaza drabbas särskilt hårt av Israels pågående folkmord - Örebronyheter
-- Aktiespararna om Powercell: Kan bli granskning av både börsen och myndigheter - Börsvärlden
+- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
+- Aktiespararna om Powercell: Kan bli granskning av både börsen och myndigheter - Börsvärlden
 - Kinneviks tystnad efter blankarattacken: ”Inget man vill ha slängt i ansiktet” - EFN
-- Rederi-vd: Troligt att oljepriset fortsätter upp • ”Just nu sitter 200 miljoner fat olja fast i Persiska viken” - SvD
+- Ny kurs: Jobba smartare i Microsoft 365 ute nu - Lunds universitet
 - Apples Homepad får magnetfäste för väggen - Macworld.se
-- Android-mobil kan få tre kameror på 200 megapixlar - Teknikveckan
 
 ## World News
 
@@ -56,12 +56,12 @@ _Updated: 2026-03-10 18:32_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -79,20 +79,20 @@ _Updated: 2026-03-10 18:32_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -147,18 +147,18 @@ _Updated: 2026-03-10 18:32_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
