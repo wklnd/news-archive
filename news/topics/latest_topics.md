@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 21:57_
+_Updated: 2026-03-11 22:57_
 
 ## Top Stories
 
-- Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
+- EU: 100 miljoner euro i humanitärt stöd till Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Över 20 döda i Libanon – tiondel av folket på flykt - Hufvudstadsbladet
-- Köpte Nutellapizza med en kompis – sen sköts de ihjäl av misstag - Dagens Nyheter
-- SMHI: Det är skillnaden mellan dimma och smog - GP
 - Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
-- Shahens son uppmanar iranierna: Vänta på min slutgiltiga signal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- EXTRA: Person hittad död – polisen utreder mord - Ekuriren
+- 1800-talsskolan räddas från rivning – görs om till bostäder - Sydsvenskan
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
 - DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
 - Man döms för våldtäkter mot barn - GP
 - ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
-- DN Direkt – Nytt brons till Zebastian Modin - Dagens Nyheter
-- Döms för att ha skickat flickor på morduppdrag - Västerbottens-Kuriren
-- Ukrainakriget: Flera döda i drönaranfall - GP
-- Libanons utrikesminister ber om hjälp från Heliga stolen för utsatta kristna - Vatican News
+- 11 mars 17.15, Trafikkontroll, Västernorrlands län - Polisen.se
+- Gammal bomb hittad i Dresden – 18 000 evakuerades - Västerbottens-Kuriren
+- DN Direkt – Döms för att ha skickat flickor på morduppdrag - Dagens Nyheter
+- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Israel: Kriget har ingen tidsgräns - Dagens Nyheter
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
-- Regeringen sänker BNP-prognos för i år - EFN
-- Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
+- Finansministern om kriget: ”Svensk ekonomi påverkas” - DI
+- Tiotals länder frigör sina beredskapslager för olja - Yle
 - Linus Larsson: AI-bolaget sade nej till ”mördarrobotar” – blev Trumps hatobjekt - Dagens Nyheter
-- Google om bygglovet: ”Positivt steg” - Avesta Tidning
-- Looking Glass släpper fotoram för hologrambilder. Ger dina bilder lite mer djup. - feber.se
+- Pokémon Pokopia är underbart livsfarligt - Aftonbladet
+- Lyxfällan-programledaren rasar mot Girls of Stockholm – efter uttalandet om pengar - Hänt
 
 ## World News
 
@@ -61,12 +61,12 @@ _Updated: 2026-03-11 21:57_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
@@ -86,13 +86,13 @@ _Updated: 2026-03-11 21:57_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -161,4 +161,4 @@ _Updated: 2026-03-11 21:57_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
