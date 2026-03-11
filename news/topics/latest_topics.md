@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 20:10_
+_Updated: 2026-03-11 21:25_
 
 ## Top Stories
 
-- Sverige släpper två miljoner fat olja från beredskapslager – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
 - Köpte Nutellapizza med en kompis – sen sköts de ihjäl av misstag - Dagens Nyheter
-- SMHI: Det är skillnaden mellan dimma och smog - GP
-- Uppgift: Brottslig anhörig fick Staaf att avgå - Omni
 - 1800-talsskolan räddas från rivning – görs om till bostäder - Sydsvenskan
-- Uppgifter: Gängspår har stärkts efter ambassadsprängning - GP
-- Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
+- Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
+- Shahens son uppmanar iranierna: Vänta på min slutgiltiga signal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- SMHI: Det är skillnaden mellan dimma och smog - GP
 - DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
 - Man döms för våldtäkter mot barn - GP
 - ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
-- Shahens son uppmanar iranierna: Vänta på min slutgiltiga signal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Nytt brons till Zebastian Modin - Dagens Nyheter
+- DN Direkt – Döms för att ha skickat flickor på morduppdrag - Dagens Nyheter
 - Nya EU-sanktioner mot Iran - Västerbottens-Kuriren
-- DN Direkt – Misstänkt farligt föremål i Borås - Dagens Nyheter
-- Tårar när vännerna vittnar om våldsnatten: ”Fy fan” - Dagens Nyheter
+- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
 - Regeringen sänker BNP-prognos för i år - EFN
-- Börsnedgång mattas av – besked om oljereserver - GP
+- Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
 - Nya AI-stjärnorna några av Sveriges rikaste - SvD
 - Google får grönt ljus – Så stort blir datacentret - Dala-Demokraten
-- Prisvänliga zero torque-putters från Wilson - Svensk Golf
+- Looking Glass släpper fotoram för hologrambilder. Ger dina bilder lite mer djup. - feber.se
 
 ## World News
 
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
-- Global lista över världens fredligaste länder - Sverige långt ner - News55
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -78,6 +78,7 @@ _Updated: 2026-03-11 20:10_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -85,13 +86,13 @@ _Updated: 2026-03-11 20:10_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
