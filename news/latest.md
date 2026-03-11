@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-11 13:19_
+_Updated: 2026-03-11 14:00_
 
-- Live updates: US says it destroyed 16 minelaying vessels near the Strait of Hormuz - AP News
-- Trump’s pick advances in race to replace Marjorie Taylor Greene - The Washington Post
-- Trump's Iran war messaging is all over the map - Axios
-- U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says - The New York Times
-- Internal Pentagon memo orders military commanders to remove Anthropic AI technology from key systems - CBS News
-- LAUSD Superintendent Alberto Carvalho breaks his silence after FBI raid - ABC7 Los Angeles
+- Missiles, Drones and Airstrikes Pound Middle East Into 12th Day of War - The New York Times
+- Georgia Democrat Leads Vote in Marjorie Taylor Greene’s District - Bloomberg
 - Middle East war live: US says it destroyed 16 minelayers near Strait of Hormuz - Financial Times
-- Tornadoes hit Midwest, homes destroyed and heavy damage reported - USA Today
-- Alabama governor commutes death sentence of inmate who didn't kill victim - CBS News
+- Trump's Iran war messaging is all over the map - Axios
+- Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come - The Guardian
+- Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz - CNBC
+- National park evacuated due to volcanic eruption, rock storm - SFGATE
+- LAUSD Superintendent Alberto Carvalho breaks his silence after FBI raid - ABC7 Los Angeles
 - The White House isn’t panicking about oil prices. That may change in a few weeks. - Politico
-- Swiss police probe if deadly bus fire was 'deliberate act' - dw.com
-- Iran keeps up attacks on Gulf states, says not a ‘single liter of oil’ will ship out - The Times of Israel
-- Trump 'not happy' with Iran's choice of Mojtaba Khamenei as new supreme leader - Fox News
-- An Iranian ayatollah appeals to the pope as war spreads across Middle East - National Catholic Reporter
+- Tornadoes hit Midwest, homes destroyed and heavy damage reported - USA Today
+- Iran’s new supreme leader was injured in legs on 1st day of war – report - The Times of Israel
+- Live Updates: Iran war brings new attacks on commercial ships, Dubai airport, as Tehran warns banks are next - CBS News
+- Fire engulfs a bus in Switzerland, killing 6 people and severely injuring 3 others - AP News
+- Pentagon says about 140 troops wounded, 8 severely, in war with Iran - The Washington Post
 - Stock Market News, March 10, 2026: Oil Extends Slide; Dow Slips - WSJ
-- IEA Proposes Largest Ever Oil Release from Reserves, WSJ Says - Bloomberg.com
-- Meta Acquires Moltbook: Social Media Platform For AI Agents - Forbes
-- Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries - The New York Times
+- IEA Proposes Largest Ever Oil Release from Reserves, WSJ Says - Bloomberg
+- Meta acquires Moltbook, the AI agent social network - Ars Technica
+- U.S. Inflation Data Unlikely to Have Much Impact on Dollar - WSJ
 - Samsung Galaxy S26 series' US pre-orders are up 25%, the Ultra is on top - GSMArena.com news - GSMArena.com
-- Crimson Desert Specs For PC, Console, And Other Platforms Revealed - Game Informer
+- Photographer Tyler Stalman tests the MacBook Neo with pro photo and video workflows - 9to5Mac
