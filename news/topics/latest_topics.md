@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 22:57_
+_Updated: 2026-03-11 23:55_
 
 ## Top Stories
 
-- EU: 100 miljoner euro i humanitärt stöd till Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Över 20 döda i Libanon – tiondel av folket på flykt - Hufvudstadsbladet
-- Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
-- EXTRA: Person hittad död – polisen utreder mord - Ekuriren
-- 1800-talsskolan räddas från rivning – görs om till bostäder - Sydsvenskan
+- Israel: Nya "storskaliga" anfall mot Beirut - GP
+- UNHCR-representanten: ”Oerhört orolig för vad som kan hända” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Irans nye ledare har inte synts till efter skadan - GP
+- ”Vill bygga en kyrka som är lojal mot Ryssland” - SvD
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
+- Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
 - DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
-- Man döms för våldtäkter mot barn - GP
-- ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
 - 11 mars 17.15, Trafikkontroll, Västernorrlands län - Polisen.se
-- Gammal bomb hittad i Dresden – 18 000 evakuerades - Västerbottens-Kuriren
-- DN Direkt – Döms för att ha skickat flickor på morduppdrag - Dagens Nyheter
+- Flera fortkörare av med körkortet – här stod polisen - Norran
+- Fem anhållna efter skjutning i Stockholm - GP
+- Bomb från andra världskriget hittad i Dresden – 18 000 evakuerades - GP
+- Trump säger att det finns "praktiskt taget inget kvar" att attackera i Iran - Investing.com Sverige
 - Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Israel: Kriget har ingen tidsgräns - Dagens Nyheter
+- Döms för att ha skickat flickor på morduppdrag - Folkbladet
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
-- Finansministern om kriget: ”Svensk ekonomi påverkas” - DI
 - Tiotals länder frigör sina beredskapslager för olja - Yle
+- Regeringen sänker BNP-prognos för i år - EFN
 - Linus Larsson: AI-bolaget sade nej till ”mördarrobotar” – blev Trumps hatobjekt - Dagens Nyheter
-- Pokémon Pokopia är underbart livsfarligt - Aftonbladet
-- Lyxfällan-programledaren rasar mot Girls of Stockholm – efter uttalandet om pengar - Hänt
+- Google om bygglovet: ”Positivt steg” - Avesta Tidning
+- Apples vikbara iPhone får iPad-liknande layout och multitasking av Investing.com - Investing.com Sverige
 
 ## World News
 
@@ -32,6 +32,7 @@ _Updated: 2026-03-11 22:57_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Konsekvenser av klimatförändringar - Världsnaturfonden WWF
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -42,10 +43,9 @@ _Updated: 2026-03-11 22:57_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -97,48 +97,48 @@ _Updated: 2026-03-11 22:57_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälsa och teknik - Chalmers tekniska högskola
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Vi presenterar HealthBench - OpenAI
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
