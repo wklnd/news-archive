@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-11 18:32_
+_Updated: 2026-03-11 19:33_
 
-- 'Largest ever' oil reserve release agreed by 32 countries, as Strait of Hormuz ships attacked - BBC
-- Harris, Fuller advance to a runoff in race to replace Marjorie Taylor Greene in Congress - Georgia Recorder
-- Millions face tornado and storm warnings after homes destroyed in Midwest - NBC News
-- Trump tells Axios there's "practically nothing left" to target in Iran - Axios
-- Fact-checking Trump's claim that Iran has Tomahawk missiles - PBS
+- Iran Attacks at Least One Ship in the Strait of Hormuz, a Key Oil Passage - The New York Times
+- Georgia Democrat Leads in Marjorie Taylor Greene’s District - Bloomberg
+- U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says - The New York Times
+- Live updates: Aftermath of deadly Midwest tornadoes as severe storm threat shifts east today - FOX Weather
 - Trump visits Ohio and Kentucky to downplay war's effect on economy and target a top GOP antagonist - AP News
-- Carvalho probe looms over LAUSD meeting as labor talks, charter renewal demand attention - Los Angeles Times
-- Ivey commutes controversial Alabama death sentence 2 days ahead of Sonny Burton’s execution - AL.com
-- Trump's Iran war messaging is all over the map - Axios
-- Bennie Thompson Defeats Young Challenger in Mississippi Primary - The New York Times
-- Iran war live updates: New supreme leader confirmed wounded - USA Today
-- A bus fire that killed 6 people could have been set deliberately, Swiss police say - NBC News
+- Mojtaba Khamenei was hurt in strike that killed his father, Iran’s Cyprus ambassador confirms - The Guardian
+- The U.S. attacks Iranian mine-laying vessels near the Strait of Hormuz - NPR
+- Kansas revoked 1,700 transgender drivers’ licenses. Some are leaving the state. - NBC News
+- Mississippi Second Congressional District Primary 2026: Live Election Results - The New York Times
+- Global Entry reopens, but airport wait times could still be long - The Washington Post
+- Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
 - Lords a-leaving: Britain is ejecting hereditary nobles from Parliament after 700 years - AP News
-- How the Strait of Hormuz closure affects global oil supply - Reuters
-- Stock Market Today: IEA to Launch Record Oil Reserves Release; Dow Slips as Inflation Holds Steady — Live Updates - WSJ
-- Gas climbs 43 cents since last week: These states had bigger jumps, data shows - The Hill
-- Oracle stock spikes 12% as strong Q3 earnings answer Wall Street AI buildout concerns - CNBC
-- JPMorgan Restricts Private Credit Lending After Loan Markdowns - Bloomberg.com
+- Swiss bus fire killing six 'intentional,' police say - Euronews.com
+- Dresden city centre to be evacuated after WW2 bomb found - BBC
+- February inflation was unchanged but predates surge in energy prices - The Washington Post
+- JPMorgan marking down loan portfolios of private credit groups - Financial Times
+- Oracle's Larry Ellison Downplays Software Apocalypse Fears - Business Insider
+- What Wall Street is getting wrong about Trump’s oil crisis - Daily Kos
 - Kuo shares MacBook Neo shipment and touchscreen updates, OLED MacBook Air timing - 9to5Mac
-- Surveys show owners of this older Galaxy phone aren’t rushing to upgrade to the S26 - Android Authority
+- Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’ - The Verge
