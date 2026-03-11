@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 13:06_
+_Updated: 2026-03-11 13:55_
 
 ## Top Stories
 
 - Fler attacker mot fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- MP och V vill stoppa fler tonårsutvisningar - SvD
-- Uppmaning: Spara på vattnet - Landskrona Direkt
-- Källor: Trump kan inte säkra Irans uran utan marktrupper - Expressen
-- Flera fartyg träffade i Hormuzsundet - Västerbottens-Kuriren
-- ”Vi lämnar aldrig vårt land – nu har vi betalat med blod” - Dagens Nyheter
+- Flera fartyg träffade i Hormuzsundet - GP
+- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- EU-basen: Inga tårar för regimen - GP
+- Irans nye ledare har inte synts till efter skadan - GP
+- H.M. Konungens pressuttalande i samband med statsbesöket i Polen - Kungahuset
 - Störningar på Sveriges Radios hemsida - SVT Nyheter
-- 15-årig flicka döms för våldtäkt av yngre pojke - Västerbottens-Kuriren
+- 15-årig flicka döms för våldtäkt - Västerbottens-Kuriren
 - Det fick barnen heta 2025 - Aktuellt i Politiken
 - Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- EU-basen: Inga tårar för regimen - GP
-- Kriget i Iran påminner om faran med militärt våld utan riktning - Altinget.se
-- Tiotals döda i oväder i Etiopien - Västerbottens-Kuriren
 - Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Tiotals döda i oväder i Etiopien - Västerbottens-Kuriren
+- Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
+- Källor: Trump kan inte säkra Irans uran utan marktrupper - Expressen
 - Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
-- Experterna: Köp nio aktier i börsturbulensen - DI
+- Tunga techförvaltaren om börsoron: "Det här är peak osäkerhet" - Affärsvärlden
 - Musk överlägset rikast – Trump på plats 645 - Omni
-- Räntekaos väntar när USA:s statsskuld blir en geopolitisk riskfaktor - Dagens PS
+- SBAB: Krisen i Mellanöstern riskerar att bryta trenden på bostadsmarknaden - Bostadspolitik
 - Nu kan du köpa Sonos Era 100 utan mikrofon. Sparar dig 300 kronor. - feber.se
 - Snart ska du få färre mejl från Microsoft Teams - PC för Alla
 
@@ -55,8 +55,8 @@ _Updated: 2026-03-11 13:06_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -119,26 +119,26 @@ _Updated: 2026-03-11 13:06_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
