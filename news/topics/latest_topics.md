@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 23:55_
+_Updated: 2026-03-12 00:50_
 
 ## Top Stories
 
-- Israel: Nya "storskaliga" anfall mot Beirut - GP
-- UNHCR-representanten: ”Oerhört orolig för vad som kan hända” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fyra döda i attack mot lägenhetshus i centrala Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
 - Irans nye ledare har inte synts till efter skadan - GP
-- ”Vill bygga en kyrka som är lojal mot Ryssland” - SvD
+- Direkt – Krisen i Mellanöstern – Två oljetankrar i brand efter attack - Dagens Nyheter
+- Uppgifter: Linda Staaf fick lämna toppjobbet – anhörig brottsmisstänkt - GP
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
-- Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
 - DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Uppdrag till Tandvårds- och läkemedelsförmånsverket och E-hälsomyndigheten att införa möjligheten för öppenvårdsapotek att erbjuda farmaceutiska tjänster - Regeringen.se
+- SMHI: Det är skillnaden mellan dimma och smog - GP
 - 11 mars 17.15, Trafikkontroll, Västernorrlands län - Polisen.se
-- Flera fortkörare av med körkortet – här stod polisen - Norran
-- Fem anhållna efter skjutning i Stockholm - GP
-- Bomb från andra världskriget hittad i Dresden – 18 000 evakuerades - GP
-- Trump säger att det finns "praktiskt taget inget kvar" att attackera i Iran - Investing.com Sverige
-- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Gammal bomb hittad i Dresden – 18 000 evakuerades - Västerbottens-Kuriren
+- Ukrainakriget: Flera döda i drönaranfall - GP
+- Direkt – Krisen i Mellanöstern – Israel: Kriget har ingen tidsgräns - Dagens Nyheter
 - Döms för att ha skickat flickor på morduppdrag - Folkbladet
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
 - Tiotals länder frigör sina beredskapslager för olja - Yle
 - Regeringen sänker BNP-prognos för i år - EFN
-- Linus Larsson: AI-bolaget sade nej till ”mördarrobotar” – blev Trumps hatobjekt - Dagens Nyheter
+- Rusande oljepris driver på världens energiskifte - Dagens Nyheter
 - Google om bygglovet: ”Positivt steg” - Avesta Tidning
 - Apples vikbara iPhone får iPad-liknande layout och multitasking av Investing.com - Investing.com Sverige
 
@@ -32,7 +32,6 @@ _Updated: 2026-03-11 23:55_
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Konsekvenser av klimatförändringar - Världsnaturfonden WWF
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -41,6 +40,7 @@ _Updated: 2026-03-11 23:55_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -98,24 +98,24 @@ _Updated: 2026-03-11 23:55_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Johan von Schreeb - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 
 ## Science
 
