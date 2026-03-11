@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-11 07:02_
+_Updated: 2026-03-11 08:31_
 
-- Trump-endorsed Republican advances to runoff in Georgia special election for MTG’s seat - Politico
 - Tehran endures ‘worst night of strikes’ amid mixed US messages about more to come - The Guardian
-- Wright deletes post that US helped tanker pass Hormuz - The Hill
+- Trump’s pick advances in race to replace Marjorie Taylor Greene - The Washington Post
+- 140 U.S. service members injured in Iran war - Axios
+- Middle East war live: US says it destroyed 16 minelayers near Strait of Hormuz - Financial Times
 - Fact-checking Trump's claim that Iran has Tomahawk missiles - PBS
-- US weighs sending forces into Iran to secure nuclear stockpile, reports say - The Guardian
-- Trump's Iran war messaging is all over the map - Axios
-- Large tornado downs trees and power lines in Illinois county - AP News
+- New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say - The New York Times
+- Tornadoes hit Midwest, homes destroyed and heavy damage reported - USA Today
 - Trump and GOP plot strategy - Axios
-- Video appears to show Gracie Mansion bomb suspect purchasing fuse at Pennsylvania fireworks store - CBS News
 - TSA absences double during shutdown, 300 officers quit, as some airports see longer security lines - CBS News
+- Thompson fends of challenger to win Mississippi primary - The Hill
 - Israel launches new strikes at Iran and Lebanon, as US says it has hit 16 Iranian mine-laying ships - BBC
 - 6 members of the Iranian women’s soccer team granted asylum in Australia - AP News
-- Fire engulfs a bus in Switzerland, killing 6 people and severely injuring 3 others - AP News
-- Iran’s Control of Hormuz Means It’s Exporting More Oil Today Than Before the War - WSJ
-- Live Nation and states ordered to hold settlement negotiations in antitrust case - NBC News
-- IEA Proposes Largest Ever Oil Stockpile Release, WSJ Says - Bloomberg.com
+- At least six dead, five injured in Switzerland bus fire - The Times of India
+- Trump calls war in Iran 'a little excursion ... to get rid of some evil,' predicting end to hostilities soon - Fortune
+- IEA Proposes Largest Ever Oil Stockpile Release, WSJ Says - Bloomberg
 - Stock Market News, March 10, 2026: Oil Extends Slide; Dow Slips - WSJ
-- Oracle Stock Jumps After Earnings Beat Expectations. Why It ‘Will Not Be’ Disrupted. - Barron's
+- Meta acquires Moltbook, the AI agent social network - Ars Technica
+- Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war - CNBC
 - Apple reveals MacBook Neo battery cycle limit - 9to5Mac
-- Apple's new emoji has a controversial past but fans love it anyway - Creative Bloq
+- Gemini in Chrome gets first international expansion - 9to5Google
