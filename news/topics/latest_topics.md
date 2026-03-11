@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 05:10_
+_Updated: 2026-03-11 06:57_
 
 ## Top Stories
 
-- Expert: Goda möjligheter för Iran att använda minor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trump varnar Iran för att minera Hormuzsundet - Dagens Nyheter
-- Spöklika radiosändningar skickas till Iran – väcker minnen av kalla kriget - Omni
-- Ukrainas nya framgång kan hindra rysk våroffensiv - Dagens Nyheter
-- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
-- Sverige får köpa vapensystemet Himars av USA - GP
-- 15 fortkörare vid Dåvamyran fick böter - Västerbottens-Kuriren
-- Ministern om S-krav på förlossningsvården: ”Politisk teater” - Dagens Nyheter
-- Befälhavare på bordat fartyg häktad - Västerbottens-Kuriren
-- Ny evakueringsorder i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
 - Minst sex döda i bussbrand i Schweiz - Dagens Nyheter
+- Spöklika radiosändningar skickas till Iran – väcker minnen av kalla kriget - Omni
+- Godkänner upplägg – först när SvD hör av sig - SvD
+- 15 fortkörare vid Dåvamyran fick böter - Västerbottens-Kuriren
+- DN Direkt – Befälhavare från bordat fartyg begärs häktad - Dagens Nyheter
+- Kristersson: ”Anmärkningsvärd svajighet” från S – Senaste nytt om valet 2026 - SVT Nyheter
+- 10 mars 17.16, Trafikkontroll, Västernorrlands län - polisen.se
+- IEA överväger rekordstort oljesläpp – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Minst sju döda i Libanon - Dagens Nyheter
 - Nattattacker mellan Iran och Israel - Västerbottens-Kuriren
-- Regeringsilska efter S-ledarens kärnvapenkritik: ”Bryter mot överenskommelse” - SVT Nyheter
+- Ryssland och Ukraina hävdar framgång vid fronten - GP
+- Här är misstagen du inte ska göra på jobbintervjun - Expressen
 - Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
 - Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
 - Podd: Så påverkas ekonomin av kriget i Iran - nextconomy.se
-- Nya techmiljardärer kliver in bland Sveriges rikaste - DI
 - Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
 - Sonos lanserar nya bärbara högtalaren Play “Mellanbarnet” - Teknikveckan
 
@@ -31,7 +31,7 @@ _Updated: 2026-03-11 05:10_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,8 +40,8 @@ _Updated: 2026-03-11 05:10_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
@@ -86,13 +86,13 @@ _Updated: 2026-03-11 05:10_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -148,17 +148,17 @@ _Updated: 2026-03-11 05:10_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
