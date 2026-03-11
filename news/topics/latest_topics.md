@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 08:07_
+_Updated: 2026-03-11 09:26_
 
 ## Top Stories
 
-- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trump varnar Iran för att minera Hormuzsundet - Dagens Nyheter
-- Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
+- Fartyg i Hormuzsundet träffat av ”okänd projektil” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Godkänner upplägg – först när SvD hör av sig - SvD
 - ”Grankrigets” två största påskbrasor kan bli lagliga i år - GP
-- Krisläge för skånska dricksvattnet - Sydsvenskan
+- Krisläge för skånska dricksvattnet: ”Kan bli väldigt besvärligt” - Sydsvenskan
+- John hittade fryst bebis: ”Såg hand” • Lyssna på ”Syskonen i frysen” - Expressen
+- Statsbesök till Polen - Kungahuset
 - Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
-- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
-- 15 fortkörare vid Dåvamyran fick böter - Västerbottens-Kuriren
-- IEA överväger rekordstort oljesläpp – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Iran: Diplomater dödades i israelisk attack i Libanon - Dagens Nyheter
-- Så tvingar Iran in folket i ett låtsasinternet - Västerbottens-Kuriren
-- Minst sex döda i bussbrand i Schweiz - Hufvudstadsbladet
-- Musks förmögenhet växer – överlägset rikast - SvD
-- Nya techmiljardärer kliver in bland Sveriges rikaste - DI
-- Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
-- Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
+- Sverige får köpa vapensystemet Himars av USA - Västerbottens-Kuriren
+- Rådjursolyckor under morgonen - Skillingaryd
+- Vattenläcka i Varberg: ”Allvarlig situation” - Hallands Nyheter
+- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fartyg i Hormuzsundet träffat - Expressen
+- Ryssland och Ukraina hävdar framgång vid fronten - Västerbottens-Kuriren
+- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
+- Rekordstort släpp av oljereserver i väst på gång - Västerbottens-Kuriren
+- Musk överlägset rikast i världen – Trump på plats 645 - Omni
+- Uppgifter: Stegra behöver mer än 20 miljarder - DI
+- Här är misstagen du inte ska göra på jobbintervjun - Expressen
 - Microsoft gör samma fel som våra kommunpolitiker - PC för Alla
-- Full pott för Huawei Freebuds Pro 5 – bästa brusreduceringen hittills - m3.se
+- Samsungs glasögonlösa 3D-skärm får stöd för över 120 spel - m3.se
 
 ## World News
 
+- Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -55,8 +55,8 @@ _Updated: 2026-03-11 08:07_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
