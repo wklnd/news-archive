@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 09:26_
+_Updated: 2026-03-11 10:00_
 
 ## Top Stories
 
 - Fartyg i Hormuzsundet träffat av ”okänd projektil” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Godkänner upplägg – först när SvD hör av sig - SvD
+- Fartyg brinner efter angrepp i Hormuzsundet - GP
 - ”Grankrigets” två största påskbrasor kan bli lagliga i år - GP
-- Krisläge för skånska dricksvattnet: ”Kan bli väldigt besvärligt” - Sydsvenskan
-- John hittade fryst bebis: ”Såg hand” • Lyssna på ”Syskonen i frysen” - Expressen
-- Statsbesök till Polen - Kungahuset
+- Misstänkt våldtäkt på hotell – man gripen - Västerbottens-Kuriren
+- Sanna: Dagen jag var ensam med massören i bastun - Dagens Nyheter
+- Ny rapport: Så kan Europa undvika en livsmedelskris - Dagens Nyheter
 - Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
+- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
 - Sverige får köpa vapensystemet Himars av USA - Västerbottens-Kuriren
-- Rådjursolyckor under morgonen - Skillingaryd
-- Vattenläcka i Varberg: ”Allvarlig situation” - Hallands Nyheter
+- 10 mars 17.15, Trafikkontroll, Västerbottens län - polisen.se
 - Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fartyg i Hormuzsundet träffat - Expressen
 - Ryssland och Ukraina hävdar framgång vid fronten - Västerbottens-Kuriren
-- Brittiska långdistansrobotar i Ukrainas attack - Dagens Nyheter
+- Minst sex döda i bussbrand i Schweiz - Hufvudstadsbladet
+- Nye ayatollan har inte synts till: "Välbehållen" - GP
 - Rekordstort släpp av oljereserver i väst på gång - Västerbottens-Kuriren
 - Musk överlägset rikast i världen – Trump på plats 645 - Omni
 - Uppgifter: Stegra behöver mer än 20 miljarder - DI
-- Här är misstagen du inte ska göra på jobbintervjun - Expressen
+- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
 - Microsoft gör samma fel som våra kommunpolitiker - PC för Alla
 - Samsungs glasögonlösa 3D-skärm får stöd för över 120 spel - m3.se
 
@@ -32,19 +32,19 @@ _Updated: 2026-03-11 09:26_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
@@ -55,14 +55,14 @@ _Updated: 2026-03-11 09:26_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
@@ -79,20 +79,20 @@ _Updated: 2026-03-11 09:26_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
