@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-11 22:03_
+_Updated: 2026-03-11 23:02_
 
-- U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says - The New York Times
-- Iran targets ships, Dubai airport and oil facilities as economic concerns mount - AP News
-- Trump tells Axios there's "practically nothing left" to target in Iran - Axios
-- FREE TO READ: Two dead after apparent tornado tears through Lake Village in Newton County - nwitimes.com
-- Mandelson Files Live Updates: Starmer Was Warned of Risks in Naming Epstein’s Friend As Ambassador - The New York Times
-- Iran says oil will reach $200 a barrel, warns of 'continuous strikes' - Reuters
 - Trump issues blunt message to Senate majority leader to pass voter ID legislation – US politics live - The Guardian
+- Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News
+- California could be attacked by drones because of Iran war, memo warns. Officials downplay threat - Los Angeles Times
+- 2 killed as at least 4 suspected tornadoes leave trail of damage in Kankakee Illinois, Lake Village Indiana, NWS says - ABC7 Chicago
+- Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response - WSJ
+- Iran says oil will reach $200 a barrel, warns of 'continuous strikes' - Reuters
 - Hern Senate bid sparks House GOP leadership scramble - Axios
+- Who is Markwayne Mullin? Trump ally will bring conservative immigration policies to DHS - CNBC
 - Bennie Thompson Defeats Young Challenger in Mississippi Primary - The New York Times
 - Kansas revoked 1,700 transgender drivers’ licenses. Some are leaving the state. - NBC News
-- Mojtaba Khamenei was hurt in strike that killed his father, Iran’s Cyprus ambassador confirms - The Guardian
-- Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
+- Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say - The New York Times - The New York Times
+- Middle East crisis live: three ships hit in strait of Hormuz as ‘largest ever’ oil reserve release agreed by 32 countries - The Guardian
 - No Nobles Day: Britain's Parliament boots its last hereditary Lords after 700 years - NPR
-- Germany news: WWII bomb forces major evacuation in Dresden - dw.com
+- Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
 - Nations agree to release oil reserves as war in Iran hits global economy - The Washington Post
-- U.S. Inflation Stayed Subdued Before Onset of Iran War - The New York Times
-- U.S. Gas Prices Jump for 11th Straight Day, and Oil Pushes Higher - The New York Times
+- US inflation stable ahead of Iran shock - BBC
+- More pain in private credit with JPMorgan reportedly tightening lending while a $33 billion fund sees heavy redemptions - MarketWatch
 - Stryker Hit With Suspected Iran-Linked Cyberattack - WSJ
 - After using MacBook Neo, it's clear Windows needs to rethink its PC strategy (and fast) - ZDNET
-- Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’ - The Verge
+- Microsoft’s next Xbox, Project Helix, won’t reach alpha until 2027 - The Verge
