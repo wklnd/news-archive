@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 19:27_
+_Updated: 2026-03-11 20:10_
 
 ## Top Stories
 
 - Sverige släpper två miljoner fat olja från beredskapslager – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Köpte Nutellapizza med en kompis – sen sköts de ihjäl av misstag - Dagens Nyheter
 - SMHI: Det är skillnaden mellan dimma och smog - GP
-- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Uppgift: Brottslig anhörig fick Staaf att avgå - Omni
 - 1800-talsskolan räddas från rivning – görs om till bostäder - Sydsvenskan
-- EXTRA: Person hittad död – polisen utreder mord - Ekuriren
-- EU-basen: Inga tårar för regimen - Västerbottens-Kuriren
-- Vilka frågor vill du ha svar på om vattenläckan i Varberg? - SVT Nyheter
-- Man döms för våldtäkter mot barn - Västerbottens-Kuriren
+- Uppgifter: Gängspår har stärkts efter ambassadsprängning - GP
+- Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
+- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Man döms för våldtäkter mot barn - GP
 - ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
-- Fem anhållna efter skjutning i Stockholm - GP
 - Shahens son uppmanar iranierna: Vänta på min slutgiltiga signal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nya EU-sanktioner mot Iran - Västerbottens-Kuriren
+- DN Direkt – Misstänkt farligt föremål i Borås - Dagens Nyheter
 - Tårar när vännerna vittnar om våldsnatten: ”Fy fan” - Dagens Nyheter
-- Drönaranfall i Sudan – flera döda - Sydsvenskan
-- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
-- Kommentar: Oljereserver lindrar men botar inte - DI
 - Regeringen sänker BNP-prognos för i år - EFN
+- Börsnedgång mattas av – besked om oljereserver - GP
 - Nya AI-stjärnorna några av Sveriges rikaste - SvD
 - Google får grönt ljus – Så stort blir datacentret - Dala-Demokraten
 - Prisvänliga zero torque-putters från Wilson - Svensk Golf
@@ -29,24 +29,24 @@ _Updated: 2026-03-11 19:27_
 
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Global lista över världens fredligaste länder - Sverige långt ner - News55
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -120,6 +120,7 @@ _Updated: 2026-03-11 19:27_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
@@ -129,15 +130,14 @@ _Updated: 2026-03-11 19:27_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
