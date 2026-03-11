@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 00:50_
+_Updated: 2026-03-12 01:50_
 
 ## Top Stories
 
-- Fyra döda i attack mot lägenhetshus i centrala Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran och Hizbollah i samordnat anfall mot Israel - Dagens Nyheter
 - Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
 - Irans nye ledare har inte synts till efter skadan - GP
-- Direkt – Krisen i Mellanöstern – Två oljetankrar i brand efter attack - Dagens Nyheter
+- Demokrater kräver svar om dödliga skolattacken - GP
 - Uppgifter: Linda Staaf fick lämna toppjobbet – anhörig brottsmisstänkt - GP
+- En död i attack mot tankfartyg - Aftonbladet
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
-- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
-- Uppdrag till Tandvårds- och läkemedelsförmånsverket och E-hälsomyndigheten att införa möjligheten för öppenvårdsapotek att erbjuda farmaceutiska tjänster - Regeringen.se
-- SMHI: Det är skillnaden mellan dimma och smog - GP
 - 11 mars 17.15, Trafikkontroll, Västernorrlands län - Polisen.se
-- Gammal bomb hittad i Dresden – 18 000 evakuerades - Västerbottens-Kuriren
-- Ukrainakriget: Flera döda i drönaranfall - GP
-- Direkt – Krisen i Mellanöstern – Israel: Kriget har ingen tidsgräns - Dagens Nyheter
-- Döms för att ha skickat flickor på morduppdrag - Folkbladet
-- Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
+- DN Direkt – Tre begärs häktade för mordförsök i Stockholm - Dagens Nyheter
+- Digital vårdgivare stoppas efter granskning: kan ha fakturerat miljoner fel - News55
+- Bomb från andra världskriget hittad i Dresden – 18 000 evakuerades - GP
+- Trump säger att det finns "praktiskt taget inget kvar" att attackera i Iran - Investing.com Sverige
+- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Libanons utrikesminister ber om hjälp från Heliga stolen för utsatta kristna - Vatican News
 - Tiotals länder frigör sina beredskapslager för olja - Yle
-- Regeringen sänker BNP-prognos för i år - EFN
 - Rusande oljepris driver på världens energiskifte - Dagens Nyheter
+- Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
+- Regeringen skjuter på införandet av lönetransparensdirektivet - Publikt
 - Google om bygglovet: ”Positivt steg” - Avesta Tidning
-- Apples vikbara iPhone får iPad-liknande layout och multitasking av Investing.com - Investing.com Sverige
+- Pokémon Pokopia är underbart livsfarligt - Aftonbladet
 
 ## World News
 
@@ -103,13 +103,13 @@ _Updated: 2026-03-12 00:50_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
@@ -123,7 +123,7 @@ _Updated: 2026-03-12 00:50_
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs: Open Science in the Swedish Context 2026 - snd.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
