@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 15:44_
+_Updated: 2026-03-11 17:12_
 
 ## Top Stories
 
-- Flera fartyg träffade i Hormuzsundet – tre saknas - GP
-- DN Direkt – Spanska tv-chefen ger sig in i Felicia-debatten - Dagens Nyheter
-- Smog kvar över Göteborg: ”Ovanligt” - GP
-- Fler attacker mot fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Olycka med pendelbåt – två till sjukhus - Västerbottens-Kuriren
-- H.M. Konungens pressuttalande i samband med statsbesöket i Polen - Kungahuset
+- Flera fartyg träffade i Hormuzsundet - Hufvudstadsbladet
+- SMHI: Det är skillnaden mellan dimma och smog - GP
 - Stor vattenläcka i Varberg – vattnet kan ta slut - Västerbottens-Kuriren
+- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Han bytte stadsliv mot hus på landet - Smålandsposten
+- Olycka med pendelbåt – två till sjukhus - Västerbottens-Kuriren
 - Störningar på Sveriges Radios hemsida - SVT Nyheter
-- 15-årig flicka döms för våldtäkter på 12-årig pojke - Dagens Nyheter
 - Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- Nya EU-sanktioner mot Iran - Västerbottens-Kuriren
-- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
-- Nye ayatollan har inte synts till: "Välbehållen" - Västerbottens-Kuriren
-- Trumps rådgivare pressar honom att avsluta kriget mot Iran - Dagens Nyheter
-- Ny konjunkturprognos från LF: Svensk ekonomi står pall för oljeprischock – tillväxten fortsätter - Cision News
+- 15-årig flicka döms för våldtäkt av yngre pojke - GP
+- Ny utredning om statens roll i kärnkraftsutbyggnaden – Senaste nytt om valet 2026 - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Nya EU-sanktioner mot Iran - Dagens Nyheter
+- Kriget i Iran påminner om faran med militärt våld utan riktning - Altinget.se
+- Irankriget: Dubais flygplats attackerad - Västerbottens-Kuriren
+- Ukrainakriget: Flera döda i drönaranfall - GP
+- Börsnedgång mattas av – besked om oljereserver - GP
+- Regeringen sänker BNP-prognos för i år - EFN
 - Så påverkar kriget i Iran svensk livsmedelsproduktion - Vinmagasinet Livets Goda
-- Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
 - Nya AI-stjärnorna några av Sveriges rikaste - SvD
 - Nu kan du köpa Sonos Era 100 utan mikrofon. Sparar dig 300 kronor. - feber.se
-- Superbilen som skapade hysteri – nu fyller den 60 - Carup.se
+- Gemini i Chrome lanseras nu i fler länder - PC för Alla
 
 ## World News
 
@@ -63,11 +63,11 @@ _Updated: 2026-03-11 15:44_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
@@ -86,13 +86,13 @@ _Updated: 2026-03-11 15:44_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
@@ -115,30 +115,30 @@ _Updated: 2026-03-11 15:44_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 
 ## Jordbruk
 
