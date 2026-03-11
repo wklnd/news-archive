@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 12:07_
+_Updated: 2026-03-11 13:06_
 
 ## Top Stories
 
-- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Flera fartyg träffade i Hormuzsundet - Västerbottens-Kuriren
-- Uppmaning: Spara på vattnet - Landskrona Direkt
-- ”Vi lämnar aldrig vårt land – nu har vi betalat med blod” - Dagens Nyheter
-- Man gripen – misstänkt för våldtäkt på kvinna på hotell - SVT Nyheter
-- H.M. Konungens pressuttalande i samband med statsbesöket i Polen - Kungahuset
-- Störningar på Sveriges Radios hemsida - SVT Nyheter
-- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- 15-årig flicka döms för våldtäkt av yngre pojke - Västerbottens-Kuriren
-- Ny utredning om statens roll i kärnkraftsutbyggnaden – Senaste nytt om valet 2026 - SVT Nyheter
 - Fler attacker mot fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- MP och V vill stoppa fler tonårsutvisningar - SvD
+- Uppmaning: Spara på vattnet - Landskrona Direkt
+- Källor: Trump kan inte säkra Irans uran utan marktrupper - Expressen
+- Flera fartyg träffade i Hormuzsundet - Västerbottens-Kuriren
+- ”Vi lämnar aldrig vårt land – nu har vi betalat med blod” - Dagens Nyheter
+- Störningar på Sveriges Radios hemsida - SVT Nyheter
+- 15-årig flicka döms för våldtäkt av yngre pojke - Västerbottens-Kuriren
+- Det fick barnen heta 2025 - Aktuellt i Politiken
+- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
 - EU-basen: Inga tårar för regimen - GP
-- Trump varnar Iran för att minera Hormuzsundet - Dagens Nyheter
-- Nye ayatollan har inte synts till: "Välbehållen" - Västerbottens-Kuriren
-- Oljepriset faller – IEA överväger rekordutsläpp av olja - EFN
-- Uppgifter: Stegra behöver mer än 20 miljarder - DI
+- Kriget i Iran påminner om faran med militärt våld utan riktning - Altinget.se
+- Tiotals döda i oväder i Etiopien - Västerbottens-Kuriren
+- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
+- Experterna: Köp nio aktier i börsturbulensen - DI
+- Musk överlägset rikast – Trump på plats 645 - Omni
 - Räntekaos väntar när USA:s statsskuld blir en geopolitisk riskfaktor - Dagens PS
-- Tunga techförvaltaren om börsoron: "Det här är peak osäkerhet" - Affärsvärlden
-- Sonos om krisåret: vi ändrade för mycket, för snabbt - Teknikveckan
-- Lego gör minifigur av Super Mario. Kommer nästa år. - feber.se
+- Nu kan du köpa Sonos Era 100 utan mikrofon. Sparar dig 300 kronor. - feber.se
+- Snart ska du få färre mejl från Microsoft Teams - PC för Alla
 
 ## World News
 
@@ -55,8 +55,8 @@ _Updated: 2026-03-11 12:07_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -79,12 +79,11 @@ _Updated: 2026-03-11 12:07_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-03-11 12:07_
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2026-03-11 12:07_
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
