@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 17:12_
+_Updated: 2026-03-11 18:11_
 
 ## Top Stories
 
-- Flera fartyg träffade i Hormuzsundet - Hufvudstadsbladet
+- Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
 - SMHI: Det är skillnaden mellan dimma och smog - GP
-- Stor vattenläcka i Varberg – vattnet kan ta slut - Västerbottens-Kuriren
-- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
-- Han bytte stadsliv mot hus på landet - Smålandsposten
-- Olycka med pendelbåt – två till sjukhus - Västerbottens-Kuriren
-- Störningar på Sveriges Radios hemsida - SVT Nyheter
-- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- 15-årig flicka döms för våldtäkt av yngre pojke - GP
-- Ny utredning om statens roll i kärnkraftsutbyggnaden – Senaste nytt om valet 2026 - SVT Nyheter
+- Tre begärs häktade för skjutningen i Fagersjö - Omni
+- Krav på stopp för alla tonårsutvisningar - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Nya EU-sanktioner mot Iran - Dagens Nyheter
+- Nödvattenplan aktiverad i Varberg: ”Kommer bli brist under dagen” - GP
+- Man döms för våldtäkter mot barn - GP
+- ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
+- 15-årig flicka döms för våldtäkter på 12-årig pojke - Dagens Nyheter
+- Störningar på Sveriges Radios hemsida - SVT Nyheter
+- Minst nio döda i nya ryska anfall - SVT Nyheter
 - Kriget i Iran påminner om faran med militärt våld utan riktning - Altinget.se
-- Irankriget: Dubais flygplats attackerad - Västerbottens-Kuriren
-- Ukrainakriget: Flera döda i drönaranfall - GP
-- Börsnedgång mattas av – besked om oljereserver - GP
+- Flygplatsen i Dubai attackerad - Hufvudstadsbladet
+- Nye ayatollan har inte synts till: "Välbehållen" - GP
 - Regeringen sänker BNP-prognos för i år - EFN
+- Kommentar: Oljereserver lindrar men botar inte - DI
 - Så påverkar kriget i Iran svensk livsmedelsproduktion - Vinmagasinet Livets Goda
 - Nya AI-stjärnorna några av Sveriges rikaste - SvD
 - Nu kan du köpa Sonos Era 100 utan mikrofon. Sparar dig 300 kronor. - feber.se
@@ -63,11 +63,11 @@ _Updated: 2026-03-11 17:12_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
@@ -122,23 +122,23 @@ _Updated: 2026-03-11 17:12_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 
 ## Jordbruk
 
