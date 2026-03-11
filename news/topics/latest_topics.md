@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 06:57_
+_Updated: 2026-03-11 08:07_
 
 ## Top Stories
 
 - Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trump varnar Iran för att minera Hormuzsundet - Dagens Nyheter
 - Britt-Marie Mattsson: Trumps olika besked om Iran kan vara strategi - GP
-- Minst sex döda i bussbrand i Schweiz - Dagens Nyheter
-- Spöklika radiosändningar skickas till Iran – väcker minnen av kalla kriget - Omni
 - Godkänner upplägg – först när SvD hör av sig - SvD
+- ”Grankrigets” två största påskbrasor kan bli lagliga i år - GP
+- Krisläge för skånska dricksvattnet - Sydsvenskan
+- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
+- USA ger grönt ljus för Sverige att köpa Himars - SVT Nyheter
+- Flera nyheter och mer säkerhet inför valet i höst - Arvika Nyheter
 - 15 fortkörare vid Dåvamyran fick böter - Västerbottens-Kuriren
-- DN Direkt – Befälhavare från bordat fartyg begärs häktad - Dagens Nyheter
-- Kristersson: ”Anmärkningsvärd svajighet” från S – Senaste nytt om valet 2026 - SVT Nyheter
-- 10 mars 17.16, Trafikkontroll, Västernorrlands län - polisen.se
 - IEA överväger rekordstort oljesläpp – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Minst sju döda i Libanon - Dagens Nyheter
-- Nattattacker mellan Iran och Israel - Västerbottens-Kuriren
-- Ryssland och Ukraina hävdar framgång vid fronten - GP
-- Här är misstagen du inte ska göra på jobbintervjun - Expressen
-- Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
+- Direkt – Krisen i Mellanöstern – Iran: Diplomater dödades i israelisk attack i Libanon - Dagens Nyheter
+- Så tvingar Iran in folket i ett låtsasinternet - Västerbottens-Kuriren
+- Minst sex döda i bussbrand i Schweiz - Hufvudstadsbladet
+- Musks förmögenhet växer – överlägset rikast - SvD
+- Nya techmiljardärer kliver in bland Sveriges rikaste - DI
 - Glädjeskutt på börsen efter Donald Trumps ord - Aftonbladet
-- Podd: Så påverkas ekonomin av kriget i Iran - nextconomy.se
-- Ny kurs om hur du jobbar smartare i Microsoft 365 - Lunds universitet
-- Sonos lanserar nya bärbara högtalaren Play “Mellanbarnet” - Teknikveckan
+- Flygbiljetterna blir dyrare då priset på jetbränsle skjuter i höjden - Yle
+- Microsoft gör samma fel som våra kommunpolitiker - PC för Alla
+- Full pott för Huawei Freebuds Pro 5 – bästa brusreduceringen hittills - m3.se
 
 ## World News
 
 - Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- DAR GLOBAL AND THE TRUMP ORGANIZATION'S NEW DUBAI ICON, TRUMP INTERNATIONAL HOTEL & TOWER, DUBAI -- HOME TO THE WORLD'S HIGHEST OUTDOOR POOL -- ATTRACTS GLOBAL INVESTORS (PR Newswire) - Aktiellt
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -40,11 +41,10 @@ _Updated: 2026-03-11 06:57_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
@@ -86,59 +86,59 @@ _Updated: 2026-03-11 06:57_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa och teknik - Chalmers tekniska högskola
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-03-11 06:57_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk är här - Shaping Europe’s digital future
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
