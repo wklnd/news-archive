@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 21:25_
+_Updated: 2026-03-11 21:57_
 
 ## Top Stories
 
 - Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
+- Över 20 döda i Libanon – tiondel av folket på flykt - Hufvudstadsbladet
 - Köpte Nutellapizza med en kompis – sen sköts de ihjäl av misstag - Dagens Nyheter
-- 1800-talsskolan räddas från rivning – görs om till bostäder - Sydsvenskan
+- SMHI: Det är skillnaden mellan dimma och smog - GP
 - Så görs ryssar redo för krig mot Sverige | Liza Alexandrova-Zorina - SvD
 - Shahens son uppmanar iranierna: Vänta på min slutgiltiga signal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SMHI: Det är skillnaden mellan dimma och smog - GP
-- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
+- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
 - Man döms för våldtäkter mot barn - GP
 - ”Vi får bara en chans” – oro inför de nationella proven - Dagens Nyheter
 - DN Direkt – Nytt brons till Zebastian Modin - Dagens Nyheter
-- DN Direkt – Döms för att ha skickat flickor på morduppdrag - Dagens Nyheter
-- Nya EU-sanktioner mot Iran - Västerbottens-Kuriren
-- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
+- Döms för att ha skickat flickor på morduppdrag - Västerbottens-Kuriren
+- Ukrainakriget: Flera döda i drönaranfall - GP
+- Libanons utrikesminister ber om hjälp från Heliga stolen för utsatta kristna - Vatican News
 - Regeringen vill utreda statens roll för ny kärnkraft – sågas av Miljöpartiet - ETC.se
 - Regeringen sänker BNP-prognos för i år - EFN
 - Goldman Sachs: IEA-släpp av reserver kan sänka oljepriset med 7 dollar - Börsvärlden
-- Nya AI-stjärnorna några av Sveriges rikaste - SvD
-- Google får grönt ljus – Så stort blir datacentret - Dala-Demokraten
+- Linus Larsson: AI-bolaget sade nej till ”mördarrobotar” – blev Trumps hatobjekt - Dagens Nyheter
+- Google om bygglovet: ”Positivt steg” - Avesta Tidning
 - Looking Glass släpper fotoram för hologrambilder. Ger dina bilder lite mer djup. - feber.se
 
 ## World News
@@ -88,8 +88,8 @@ _Updated: 2026-03-11 21:25_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
