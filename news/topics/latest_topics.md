@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-11 11:07_
+_Updated: 2026-03-11 12:07_
 
 ## Top Stories
 
-- Revolutionsgardet: Google och andra techföretag är ”Irans nya mål” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Iran attackerar flera mål i regionen - Västerbottens-Kuriren
+- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Flera fartyg träffade i Hormuzsundet - Västerbottens-Kuriren
 - Uppmaning: Spara på vattnet - Landskrona Direkt
 - ”Vi lämnar aldrig vårt land – nu har vi betalat med blod” - Dagens Nyheter
-- ”Grankrigets” två största påskbrasor kan bli lagliga i år - GP
-- Trump och hånet på hemmaplan - Aftonbladet
-- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
-- Då ska du koka dricksvattnet i Varberg - Hallands Nyheter
-- Rådjursolyckor under morgonen - Skillingaryd
 - Man gripen – misstänkt för våldtäkt på kvinna på hotell - SVT Nyheter
-- Israel: Ny attackvåg mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryssland och Ukraina hävdar framgång vid fronten - Västerbottens-Kuriren
+- H.M. Konungens pressuttalande i samband med statsbesöket i Polen - Kungahuset
+- Störningar på Sveriges Radios hemsida - SVT Nyheter
+- Nationella proven blev ett haveri – för nästan en miljard - Dagens Nyheter
+- 15-årig flicka döms för våldtäkt av yngre pojke - Västerbottens-Kuriren
+- Ny utredning om statens roll i kärnkraftsutbyggnaden – Senaste nytt om valet 2026 - SVT Nyheter
+- Fler attacker mot fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- EU-basen: Inga tårar för regimen - GP
+- Trump varnar Iran för att minera Hormuzsundet - Dagens Nyheter
 - Nye ayatollan har inte synts till: "Välbehållen" - Västerbottens-Kuriren
-- Tiotals döda i oväder i Etiopien - Västerbottens-Kuriren
-- Rekordstort släpp av oljereserver i väst på gång - Sydsvenskan
-- Musk överlägset rikast i världen – Trump på plats 645 - Omni
+- Oljepriset faller – IEA överväger rekordutsläpp av olja - EFN
 - Uppgifter: Stegra behöver mer än 20 miljarder - DI
-- Svantesson: Så slår kriget i Iran mot svensk ekonomi - Dagens Nyheter
+- Räntekaos väntar när USA:s statsskuld blir en geopolitisk riskfaktor - Dagens PS
+- Tunga techförvaltaren om börsoron: "Det här är peak osäkerhet" - Affärsvärlden
 - Sonos om krisåret: vi ändrade för mycket, för snabbt - Teknikveckan
-- Microsoft gör samma fel som våra kommunpolitiker - PC för Alla
+- Lego gör minifigur av Super Mario. Kommer nästa år. - feber.se
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-03-11 11:07_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
@@ -97,7 +97,6 @@ _Updated: 2026-03-11 11:07_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Thach Thanh Medical Center: Förebyggande medicin fortsätter att vara en stark "sköld". - Vietnam.vn
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
@@ -106,10 +105,11 @@ _Updated: 2026-03-11 11:07_
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa och teknik - Chalmers tekniska högskola
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
@@ -125,7 +125,6 @@ _Updated: 2026-03-11 11:07_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
@@ -138,6 +137,7 @@ _Updated: 2026-03-11 11:07_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 
 ## Jordbruk
