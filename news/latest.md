@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 05:19_
+_Updated: 2026-03-12 07:06_
 
-- US intelligence sees direct attacks by Iran on oil tankers as greater risk than mines - The Guardian
+- Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors - AP News
+- Pentagon probe points to U.S. missile hitting Iranian school - NPR
 - Officials downplay risk of Iranian drone attacks off California after FBI memo, but Newsom says state is "prepared" - CBS News
-- Senators demand answers on school strike in Iran as growing evidence points to US involvement - AP News
-- Live updates: Aftermath of deadly Midwest tornadoes as severe storm threat shifts east today - FOX Weather
-- Iran updates: The U.S. and allies announce plans to tap emergency oil reserves; missile strikes continue throughout the Middle East - Yahoo
-- Epstein’s longtime accountant testifies he was ‘not aware’ of sex offender’s crimes - NPR
+- First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress - The New York Times - The New York Times
+- Epstein's longtime accountant testifies on his wealth and business ties - PBS
+- Oil tankers burn near Iraq as Iranian strikes defy Trump's claim to have 'won' the war - Reuters
+- Illinois tornado outbreak: Kankakee County cleans up damage left by tornado, record-breaking hail; several injured - ABC7 Chicago
+- Lawmakers vent frustration over DHS shutdown as lines grow at nation’s airports - AP News
+- NYPD hero cop who chased down Gracie Mansion bomb suspect had just one thought: "Catch the bad guy" - CBS News
 - Trump’s energy ‘tiger team’ struggles to find its roar with Iran - Politico
-- ICE Lawyer Who Told Judge She Was Overwhelmed Is Running for Congress - The New York Times
-- ICE Barbie Creates Chaos as Hundreds of Her Employees Quit - The Daily Beast
-- FBI finds explosive materials in Pa. storage unit tied to NYC protest bombs - Spotlight PA
-- Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News
-- Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
 - Mojtaba Khamenei's Wound Reveals Who Really Rules Iran - Forbes
-- Satellite images capture airstrikes reducing Iran's vintage American-made F-14 Tomcats to wreckage - Business Insider
+- Trump news at a glance: Trump says war is won but ‘we don’t want to leave early’ as oil prices rise again - The Guardian
 - Nations agree to release oil reserves as war in Iran hits global economy - The Washington Post
-- US gasoline prices surpass $3.50 a gallon at the pumps - Reuters
-- Atlassian lays off 1,600 workers ahead of AI push - The Guardian
-- Asian Stocks to Fall, Oil Climbs with War in Focus: Markets Wrap - Bloomberg.com
-- MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple
-- Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica
+- Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
+- Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response - WSJ
+- Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts - Bloomberg.com
+- Cliffwater caps payouts at credit fund as redemption requests surge - Financial Times
+- Futures Tumble; Oil Soars On Tanker Attacks - Investor's Business Daily
+- Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica
+- Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’ - The Verge
