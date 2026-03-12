@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 13:19_
+_Updated: 2026-03-12 13:57_
 
-- Iran war live: Oil prices soar past $100 as tankers attacked in Gulf and Strait of Hormuz - Reuters
-- Oman Evacuates Ships From Oil Terminal in Precautionary Move - Bloomberg.com
+- Calls grow for Strait of Hormuz ship escorts as Iran escalates attacks - Axios
 - Iranian school was on U.S. target list, may have been mistaken as military site - The Washington Post
-- Hezbollah fires at least 150 rockets at north, Iran launches missiles in ‘integrated operation’ - The Times of Israel
+- Oil Tankers Attacked Off Iraq as Middle East Crisis Worsens - Bloomberg.com
+- Gov. Gavin Newsom says no ‘imminent threat’ to California after FBI memo on possible Iran drone attacks - CNN
 - Donald Trump’s Iran war tests US voters’ patience as petrol prices rise - Financial Times
-- Pentagon Tells Congress First Week of Iran War Cost More Than $11.3 Billion - The New York Times
+- Hezbollah, Iran continue launching coordinated barrages on northern, central Israel; sirens triggered in Eilat - ynetnews
 - What Americans sacrifice due to high health costs - Axios
-- Lawmakers vent frustration over DHS shutdown as lines grow at nation’s airports - AP News
 - WA income tax passes Senate, Ferguson expected to sign into law - The Seattle Times
-- Jimmy Kimmel Addresses the Notion of a Drone Strike on California - The New York Times
+- Immigration detention cases decline amid Trump admin pullback from hardline tactics - Politico
+- Officer having anxiety attack took ambulance sent for man dying from police shooting, report says - AP News
 - Iran official says new supreme leader is ‘fine’ despite absence from view - Financial Times
-- Giorgia Meloni, Trump’s Friend in Europe, Seeks Distance on Iran - The New York Times
+- Trump’s Iran War Is Causing Problems For His Ally in Italy, Giorgia Meloni - The New York Times
+- Iran updates: The U.S. and allies announce plans to tap emergency oil reserves; missile strikes continue throughout the Middle East - Yahoo
 - China Sends More Warplanes Toward Taiwan After Mystery Lull - Bloomberg.com
-- Chile turns right: Kast inaugurated as nation's most conservative leader since Pinochet - NPR
+- Iran War Is Causing Biggest-Ever Oil Market Disruption, IEA Says - Bloomberg.com
 - Dow futures fall 200 points as oil prices continue their ascent amid Iran war: Live updates - CNBC
 - Airline hedging strategies fall short as jet fuel price surges - Reuters
-- Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts - Bloomberg.com
-- Exclusive | Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund - WSJ
+- Atlassian cuts 10% of workforce to adapt to AI threat - Financial Times
 - How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac
 - Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch
