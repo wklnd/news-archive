@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 13:57_
+_Updated: 2026-03-12 15:47_
 
-- Calls grow for Strait of Hormuz ship escorts as Iran escalates attacks - Axios
-- Iranian school was on U.S. target list, may have been mistaken as military site - The Washington Post
-- Oil Tankers Attacked Off Iraq as Middle East Crisis Worsens - Bloomberg.com
+- Live Updates: Iran's war tactic of punishing U.S. Gulf allies sends oil prices back up and stock markets down - CBS News
+- Oil Tankers Attacked Off Iraq as Middle East Crisis Worsens - Bloomberg
+- Outdated intel likely led US to carry out deadly strike on Iranian elementary school, AP sources say - AP News
 - Gov. Gavin Newsom says no ‘imminent threat’ to California after FBI memo on possible Iran drone attacks - CNN
-- Donald Trump’s Iran war tests US voters’ patience as petrol prices rise - Financial Times
-- Hezbollah, Iran continue launching coordinated barrages on northern, central Israel; sirens triggered in Eilat - ynetnews
+- Thune eyes marathon sessions to ease MAGA anger over SAVE Act - Axios
+- Source: New Iranian supreme leader had fractured foot and face lacerations on first day of war - CNN
+- Gas is just the start: What else the Iran war could soon cost you - CNN
 - What Americans sacrifice due to high health costs - Axios
-- WA income tax passes Senate, Ferguson expected to sign into law - The Seattle Times
-- Immigration detention cases decline amid Trump admin pullback from hardline tactics - Politico
-- Officer having anxiety attack took ambulance sent for man dying from police shooting, report says - AP News
-- Iran official says new supreme leader is ‘fine’ despite absence from view - Financial Times
-- Trump’s Iran War Is Causing Problems For His Ally in Italy, Giorgia Meloni - The New York Times
-- Iran updates: The U.S. and allies announce plans to tap emergency oil reserves; missile strikes continue throughout the Middle East - Yahoo
-- China Sends More Warplanes Toward Taiwan After Mystery Lull - Bloomberg.com
-- Iran War Is Causing Biggest-Ever Oil Market Disruption, IEA Says - Bloomberg.com
-- Dow futures fall 200 points as oil prices continue their ascent amid Iran war: Live updates - CNBC
+- Are T.S.A. Lines Really That Long? What’s Going On at Airports. - The New York Times
+- Mike Johnson tells House Republicans housing bill could go to conference amid fight with Senate - Politico
+- Giorgia Meloni, Trump’s Friend in Europe, Seeks Distance on Iran - The New York Times
+- Live updates: Oil price tops $100 a barrel as Iran attacks on shipping worsen supply concerns - AP News
+- North Korean leader Kim and his daughter try out new pistols at shooting range - AP News
+- Iran War Causes Biggest-Ever Oil Market Disruption, IEA Says - Bloomberg
+- Futures Tumble; Oil Soars On Tanker Attacks - Investor's Business Daily
 - Airline hedging strategies fall short as jet fuel price surges - Reuters
 - Atlassian cuts 10% of workforce to adapt to AI threat - Financial Times
+- Have $1,000? These 3 Stocks Could Be Bargain Buys for 2026 and Beyond - The Motley Fool
+- ‘Immersive Navigation’ is the biggest Google Maps driving update in a decade - 9to5Google
 - How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac
-- Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch
