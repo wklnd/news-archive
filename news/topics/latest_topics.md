@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 18:34_
+_Updated: 2026-03-12 19:27_
 
 ## Top Stories
 
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
-- USA: Ingen eskort av oljetankrar i nuläget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- 52 fasttagna vid Göteborg energis bygge i hamnen - GP
-- Ukraina tar mark i Dnipro – tar hjälp av väder och Starlink - TV4 Nyheterna
-- DN Direkt – Kristersson: Fritt att skicka in ny ansökan - Dagens Nyheter
+- Israel: Ny anfallsvåg mot Beirut - GP
+- Man död i samband med polishandräckning - Aftonbladet
+- Kristersson: Skicka in ny ansökan - SVT Nyheter
+- Oljepriset backar efter nattens topp - Hufvudstadsbladet
 - Busshaveri på E6 – ruta krossad - GP
-- Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
-- Man död - gick genom isen i Örebro - Västerbottens-Kuriren
+- Sveriges Radio beskylls för dubbelmoral - Västerbottens-Kuriren
+- En man avliden efter isolycka utanför Vinön - SVT Nyheter
+- Lagrådet sågar sänkt straffbarhetsålder - Västerbottens-Kuriren
 - DN Direkt – Dubbla larm från SMHI – snöfall och gräsbrand - Dagens Nyheter
-- Insändare. Sätt ett tak på effektavgifterna - Dagens Nyheter
-- Rapparen vinner valet i Nepal - Sydsvenskan
-- Källor: USA bombade skola efter gamla underrättelser - Västerbottens-Kuriren
-- FN: Upp till 3,2 miljoner kan ha drivits på flykt i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Israel varslar om upptrappning i Libanon - Västerbottens-Kuriren
-- Snabb återhämtning i Västerbotten efter Northvolts konkurs - DagensNaringsliv.se
+- DN Direkt – Två gick genom isen – en död - Dagens Nyheter
+- Källor: USA bombade skola efter gamla underrättelser - GP
+- Iran exporterar olja till Kina genom Hormuzsundet som vanligt – trots kriget - Dagens Nyheter
+- Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
+- Northvolts uppgång och fall: Hela tidslinjen bakom kraschen - Norran
 - Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
-- Lyssna på Riksbanken om kontanterna - Cision
+- Lyssna på Riksbanken om kontanterna - Cision News
 - Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
-- ”Kraftig avsmältning av inlandsisen ökar” - Aftonbladet
 - Ny rapport: Bara var tredje tioåring leker varje dag - Notified
+- Windows 11-datorer kommer få ett Xbox-läge - PC för Alla
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-03-12 18:34_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- 48 städer krokar arm i global klimatomställning - Cision
+- 48 städer krokar arm i global klimatomställning - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
 - Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Swedish labour market improves despite global turbulence - Sveriges Radio
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 
 ## Technology
 
@@ -59,15 +59,15 @@ _Updated: 2026-03-12 18:34_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -77,6 +77,7 @@ _Updated: 2026-03-12 18:34_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -96,24 +97,24 @@ _Updated: 2026-03-12 18:34_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Fakulteten för hälsa och samhälle - Malmö universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Översikt - European Commission
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Johan von Schreeb - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
