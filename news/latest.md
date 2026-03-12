@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-13 00:59_
+_Updated: 2026-03-13 01:57_
 
-- Suspect in Detroit-area synagogue attack is killed by security, officials say - CBS News
+- Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US - Al Jazeera
+- Old Dominion University shooting that killed 1 being investigated as terrorism; gunman was previously convicted for ISIS support - CBS News
 - Live updates: Iran threatens energy infrastructure as Middle East conflict roils global economy - CNN
-- ROTC students at Old Dominion subdued and killed the shooter who killed 1 person, wounded 2 - AP News
-- U.S. Navy Won’t Be Ready To Escort Tankers Through Hormuz For Weeks (Updated) - The War Zone
-- Democrats ask Pentagon about Iran school strike and role of AI - NBC News
-- Loss of U.S. KC-135 Over Iraq > U.S. Central Command > Press Release View - centcom.mil
-- WA estate tax: Lawmakers roll back rate increase, fearing wealth exodus - The Seattle Times
-- Calif. law enforcement responds to 'unsubstantiated' report of Iran drone strike - SFGATE
+- Rescue effort under way as US military refueling plane crashes in Iraq - The Guardian
+- Tracking the wave of ship attacks that has choked off Strait of Hormuz - BBC
+- The Senate passed its first major housing bill since the subprime mortgage crisis. Can it actually become law? - Yahoo Finance
+- Washington state lawmakers pass ‘millionaire’s tax’ - Politico
 - Pentagon: First week of Iran war cost about $11B - Politico
-- Cruz seeks to advance Senate kids’ safety proposals in next 6 weeks - Politico
+- Calif. law enforcement responds to 'unsubstantiated' report of Iran drone strike - SFGATE
+- Judges say Trump’s attacks are fueling threats to their safety - Politico
 - What it will mean for the economy if the Strait of Hormuz stays closed - Axios
-- Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack - The New York Times
 - Iran War Causing Largest Ever Oil Disruption, I.E.A. Says - The New York Times
-- Iran-linked hackers take aim at US and other targets, raising risk of cyberattacks during war - AP News
-- Brent Oil Closes Above $100 for First Time Since August 2022 - Bloomberg
+- Conservative Euphoria Hits Chile as Right Surges in Latin America - The New York Times
+- Iran war: What is happening on day 13 of US-Israel attacks? - Al Jazeera
+- Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief - Bloomberg.com
 - U.S. Mortgage Rates Rise, Undercutting Housing Affordability Push - The New York Times - The New York Times
-- Iran war is the largest oil supply disruption in history, report finds - Politico
 - Live Nation Gets To Keep Its Monopoly Thanks To Trump’s Department Of Justice - Defector
-- Gemini Is Now Your Permanent Passenger in Google Maps - Gizmodo
+- Atlassian follows Block’s footsteps and cuts staff in the name of AI - TechCrunch
+- Google Maps Gets Chatty With a New Gemini-Powered Interface - WIRED
 - Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now - The Verge
