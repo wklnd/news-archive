@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 11:09_
+_Updated: 2026-03-12 12:07_
 
 ## Top Stories
 
 - Militärexpert: Iran har övertaget i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Nya attacker mot flera mål i Libanon - Dagens Nyheter
+- Demokrater kräver svar om dödliga skolattacken - Hufvudstadsbladet
 - DEBATT: Passivitetens tid är över – nu måste vi intensifiera stödet till folket i Iran - GP
-- Direkt – Krisen i Mellanöstern – Demokrater kräver svar om dödliga skolattacken - Dagens Nyheter
-- DN Direkt – S kräver stopp för kritiserade elavgifter - Dagens Nyheter
 - Flytt på Sahlgrenska – läkarnas larm: ”Ökad smittorisk för sjuka barn” - GP
-- De är vinnare och förlorare när våren flyttas - Västerbottens-Kuriren
-- Efter vattenläckan i Varberg: ”Spara på vattnet” - GP
-- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
-- Då stängs biltrafiken på Hornsgatan i Stockholm av - Dagens Nyheter
 - Trump segerviss – men fler fartyg står i brand - Västerbottens-Kuriren
+- Insändare. Sätt ett tak på effektavgifterna - Dagens Nyheter
+- De är vinnare och förlorare när våren flyttas - Västerbottens-Kuriren
+- DN Direkt – Riksdagen ska rösta om stopplag för tonårsutvisningar - Dagens Nyheter
+- Resultat av polisens arbete i trafiken. - Brottsplatskartan.se
+- Efter vattenläckan i Varberg: ”Spara på vattnet” - GP
+- Därför har Marco Rubio för stora skor - Dagens Nyheter
+- Ambassadbomb knyts till Irankriget – och Foxtrot - GP
+- En person till sjukhus efter misstänkt mordförsök i Trosa - SN, Södermanlands Nyheter
 - Minst nio döda i nya ryska anfall - SVT Nyheter
-- Uppgifter: Foxtrot betalar för attentat mot iranska regimkritiker - SVT Nyheter
-- LINDA JERNECK: Hjälp! Andersson kan ju ingenting om kärnvapen - Expressen
 - Ett år efter Northvolts konkurs – så gick det för ingenjörerna: ”Exceptionellt” - SVT Nyheter
-- Ledare: Socialdemokraterna hycklar om bränslepriset - NWT
-- Går det att slopa USA när det handlar om prylar och appar? - Expressen
-- Nya AI-stjärnorna några av Sveriges rikaste - SvD
+- Oljepriset backar efter nattens topp - SvD
+- AI-svenskar sticker ut på Forbes lista över rika - Omni
+- Miljarder upp i rök i ordbråk – har blankarna fog för attack? - Omni Ekonomi
 - Google om bygglovet: ”Positivt steg” - Avesta Tidning
 - Microsofts Xbox-läge kommer till alla med Windows 11. Börjar rullas ut nästa månad. - feber.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
+- VFS Global rekommenderar att man skickar in visumansökningar tidigt och är försiktig med bedrägerier före högsäsongen. - Vietnam.vn
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global lista över världens fredligaste länder - Sverige långt ner - News55
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -98,47 +98,47 @@ _Updated: 2026-03-12 11:09_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Thach Thanh Medical Center: Förebyggande medicin fortsätter att vara en stark "sköld". - Vietnam.vn
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Översikt - European Commission
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
