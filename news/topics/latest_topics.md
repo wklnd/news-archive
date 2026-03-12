@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 15:42_
+_Updated: 2026-03-12 17:29_
 
 ## Top Stories
 
-- Militärexpert: Iran har övertaget i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Demokrater kräver svar om dödliga skolattacken - Hufvudstadsbladet
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
+- USA: Ingen eskort av oljetankrar i nuläget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Demokrater kräver svar om dödliga skolattacken - Hufvudstadsbladet
+- Man död i samband med handräckning - Aftonbladet
 - 52 fasttagna vid Göteborg energis bygge i hamnen - GP
 - Fick massiv inre blödning av nationella proven - Dagens Nyheter
-- JUST NU: Norsk storm drar in över Värmland: ”Blåsigt och regn” - NWT
 - Insändare. Sätt ett tak på effektavgifterna - Dagens Nyheter
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
+- Kritiken efter vattenläckan i Varberg: Varför fick jag inte ett sms? - SVT Nyheter
 - De är vinnare och förlorare när våren flyttas - Västerbottens-Kuriren
-- Kristersson: Fritt att skicka in ny ansökan - GP
-- Resultat av polisens arbete i trafiken. - Brottsplatskartan.se
-- IDF: Attackerat kärnanläggning utanför Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Iran är på gränsen till nederlag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Anhörig till israelisk underrättelsechef åtalad - Dagens Nyheter
 - Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
 - Minst nio döda i nya ryska anfall - SVT Nyheter
 - Ett år efter Northvolts konkurs – så gick det för ingenjörerna: ”Exceptionellt” - SVT Nyheter
-- Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
 - Lyssna på Riksbanken om kontanterna - Cision
-- Lastbilarna står på tur – Kina expanderar snabbt - SvD
-- Värre än väntat när inlandsisen smälter - Arbetaren
-- Windows 11-datorer kommer få ett Xbox-läge - PC för Alla
+- Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
+- Årets börsuppgång utraderad – så slår det mot din pension - Dagens PS
+- ”Kraftig avsmältning av inlandsisen ökar” - Aftonbladet
+- WoW Midnight: Första intrycken - Aftonbladet
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- 48 städer krokar arm i global klimatomställning - Cision
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
+- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
+- Global lista över världens fredligaste länder - Sverige långt ner - News55
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -98,47 +98,47 @@ _Updated: 2026-03-12 15:42_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Institutionen för vårdvetenskap - Malmö universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
 - Översikt - European Commission
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Vi presenterar HealthBench - OpenAI
+- Fakulteten för hälsa och samhälle - Malmö universitet
+- Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 
 ## Jordbruk
 
