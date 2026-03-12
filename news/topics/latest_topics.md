@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 19:27_
+_Updated: 2026-03-12 20:08_
 
 ## Top Stories
 
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
-- Israel: Ny anfallsvåg mot Beirut - GP
+- Ukrainsk attack träffar rysk chipfabrik kopplad till robotproduktion - Dagens.se
+- Larm om skjutning på synagoga i Michigan - SVT Nyheter
 - Man död i samband med polishandräckning - Aftonbladet
-- Kristersson: Skicka in ny ansökan - SVT Nyheter
-- Oljepriset backar efter nattens topp - Hufvudstadsbladet
-- Busshaveri på E6 – ruta krossad - GP
-- Sveriges Radio beskylls för dubbelmoral - Västerbottens-Kuriren
-- En man avliden efter isolycka utanför Vinön - SVT Nyheter
+- Oljetankers i brand efter flera attacker under natten – oljepriset rusar - GP
+- Attack mot strandpromenad i Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
 - Lagrådet sågar sänkt straffbarhetsålder - Västerbottens-Kuriren
+- En man avliden efter isolycka utanför Vinön - SVT Nyheter
 - DN Direkt – Dubbla larm från SMHI – snöfall och gräsbrand - Dagens Nyheter
-- DN Direkt – Två gick genom isen – en död - Dagens Nyheter
-- Källor: USA bombade skola efter gamla underrättelser - GP
-- Iran exporterar olja till Kina genom Hormuzsundet som vanligt – trots kriget - Dagens Nyheter
+- DN Direkt – Rapparen vinner valet i Nepal - Dagens Nyheter
+- Källor: USA bombade skola efter gamla underrättelser - Västerbottens-Kuriren
+- Iran: Har tillåtit skepp att passera Hormuzsundet - GP
 - Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
-- Northvolts uppgång och fall: Hela tidslinjen bakom kraschen - Norran
-- Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
 - Lyssna på Riksbanken om kontanterna - Cision News
-- Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
+- Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
+- Wallenberg akut när megaprojekten faller - SvD
+- Trump rycker på axlarna åt de skenande oljepriserna: ”USA tjänar mycket pengar” - Omni
+- Värre än väntat när inlandsisen smälter - Arbetaren
 - Ny rapport: Bara var tredje tioåring leker varje dag - Notified
-- Windows 11-datorer kommer få ett Xbox-läge - PC för Alla
 
 ## World News
 
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- 48 städer krokar arm i global klimatomställning - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
-- Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Swedish labour market improves despite global turbulence - Sveriges Radio
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 
 ## Technology
 
@@ -59,15 +59,15 @@ _Updated: 2026-03-12 19:27_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -77,7 +77,6 @@ _Updated: 2026-03-12 19:27_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -96,49 +95,49 @@ _Updated: 2026-03-12 19:27_
 
 ## Health
 
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Johan von Schreeb - Karolinska Institutet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Avdelningen för forskningsstöd och externa relationer - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
