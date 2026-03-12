@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 23:00_
+_Updated: 2026-03-12 23:55_
 
 ## Top Stories
 
-- Mojtaba Khamenei: Kommer hämnas ”martyrernas blod” - SVT Nyheter
-- Ukrainsk attack träffar rysk chipfabrik kopplad till robotproduktion - Dagens.se
+- Fartyget Sea Owl I bordat i Östersjön - polisen.se
 - DN Direkt – Larm om skjutning vid synagoga i Detroit - Dagens Nyheter
-- Uppgifter: L på väg att svänga om SD - Västerbottens-Kuriren
-- DN Direkt – Två skadade i universitetsskjutning i USA - Dagens Nyheter
+- Uppgifter: Liberalerna på väg att svänga om SD - SVT Nyheter
+- Ukrainsk attack träffar rysk chipfabrik kopplad till robotproduktion - Dagens.se
+- Nye ayatollans första ord - GP
 - FN: Upp till 3,2 miljoner kan ha drivits på flykt i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
-- DN Direkt – Lagrådet sågar sänkt straffbarhetsålder - Dagens Nyheter
 - En man avliden efter isolycka utanför Vinön - SVT Nyheter
 - Sophiahemmet drar ner – sköterskor ska sköta tvätt - Dagens Nyheter
+- Alexander Mahmoud stor vinnare på Årets bild - Västerbottens-Kuriren
 - Israel varslar om upptrappning i Libanon - Västerbottens-Kuriren
 - Därför har Marco Rubio för stora skor - Hufvudstadsbladet
-- Attacker i Israel – nya uppmaningen till IDF – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Poddaren Joe Rogan i konservativt uppror mot Trumps krig - Dagens Nyheter
 - Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
 - Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
 - SweFinTech: Omedelbara betalningar avgörande för svensk innovation - Finanswatch.se
-- EU sårbart – beroendet av fossil import pekas ut - SvD
 - Mitt i energikrisen – elrea med minuspriser - Sydsvenskan
+- EU sårbart – beroendet av fossil import pekas ut - SvD
 - Värre än väntat när inlandsisen smälter - Arbetaren
-- Ny rapport: Bara var tredje tioåring leker varje dag - Notified
+- Windows 11-datorer kommer få ett Xbox-läge - PC för Alla
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Swedish labour market improves despite global turbulence - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 
 ## Technology
 
@@ -98,20 +98,20 @@ _Updated: 2026-03-12 23:00_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Matvanor för god hälsa och miljö - Läkartidningen
+- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Fakulteten för hälsa och samhälle - Malmö universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Översikt - European Commission
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Översikt - European Commission
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Matvanor för god hälsa och miljö - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
@@ -126,7 +126,6 @@ _Updated: 2026-03-12 23:00_
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -138,6 +137,7 @@ _Updated: 2026-03-12 23:00_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
