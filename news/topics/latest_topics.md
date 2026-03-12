@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 20:08_
+_Updated: 2026-03-12 21:23_
 
 ## Top Stories
 
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
 - Ukrainsk attack träffar rysk chipfabrik kopplad till robotproduktion - Dagens.se
-- Larm om skjutning på synagoga i Michigan - SVT Nyheter
-- Man död i samband med polishandräckning - Aftonbladet
-- Oljetankers i brand efter flera attacker under natten – oljepriset rusar - GP
-- Attack mot strandpromenad i Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Attackerna mot Beirut fortsätter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Larm om skjutning vid synagoga i Detroit - Dagens Nyheter
+- Kristersson: Skicka in ny ansökan - SVT Nyheter
+- Stena Bulks fartyg fast i Persiska viken ett bra tag till - GP
 - Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
-- Lagrådet sågar sänkt straffbarhetsålder - Västerbottens-Kuriren
 - En man avliden efter isolycka utanför Vinön - SVT Nyheter
-- DN Direkt – Dubbla larm från SMHI – snöfall och gräsbrand - Dagens Nyheter
-- DN Direkt – Rapparen vinner valet i Nepal - Dagens Nyheter
-- Källor: USA bombade skola efter gamla underrättelser - Västerbottens-Kuriren
-- Iran: Har tillåtit skepp att passera Hormuzsundet - GP
+- Dubbla larm från SMHI – snöfall och gräsbrand - Västerbottens-Kuriren
+- Insändare. Fängelse för mindre brott går emot våra värderingar - Dagens Nyheter
+- Peter Alestig: Mat är nästa geopolitiska vapen – och Putin har makten - Dagens Nyheter
 - Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
+- Källor: Fotografer portas – tog för ”fula” bilder på Hegseth - Dagens Nyheter
+- Far och dotter flydde Ryssland efter teckning mot kriget - Dagens Nyheter
 - Lyssna på Riksbanken om kontanterna - Cision News
 - Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
+- SweFinTech: Omedelbara betalningar avgörande för svensk innovation - Finanswatch.se
 - Wallenberg akut när megaprojekten faller - SvD
-- Trump rycker på axlarna åt de skenande oljepriserna: ”USA tjänar mycket pengar” - Omni
-- Värre än väntat när inlandsisen smälter - Arbetaren
 - Ny rapport: Bara var tredje tioåring leker varje dag - Notified
+- Matilda, 23, leder ett av länets största auktionshus - Östersunds-Posten
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-03-12 20:08_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Swedish labour market improves despite global turbulence - Sveriges Radio
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -95,25 +95,25 @@ _Updated: 2026-03-12 20:08_
 
 ## Health
 
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Fakulteten för hälsa och samhälle - Malmö universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Översikt - European Commission
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
@@ -151,7 +151,7 @@ _Updated: 2026-03-12 20:08_
 - Här är världens största jordbruk - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
