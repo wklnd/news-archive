@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 01:57_
+_Updated: 2026-03-12 05:19_
 
-- Pentagon probe points to U.S. missile hitting Iranian school - NPR
-- Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response - WSJ
-- California could be attacked by drones because of Iran war, memo warns. Officials downplay threat - Los Angeles Times
-- Tornadoes hit Illinois, Indiana and Texas as severe storms sweep US - The Guardian
-- Trump tells Axios there's "practically nothing left" to target in Iran - Axios
-- Flood: Conference may be only way forward for housing bill - Politico
-- Iran war: Trump says he'll tap Strategic Petroleum Reserve to cut energy costs - CNBC
-- ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker - The New York Times
-- Oklahoma Rep. Hern launches bid to succeed Mullin in Senate - Politico
-- Hawaii Faces Flooding, Fierce Winds and Even Snow from a ‘High-Impact’ Storm - The New York Times
+- US intelligence sees direct attacks by Iran on oil tankers as greater risk than mines - The Guardian
+- Officials downplay risk of Iranian drone attacks off California after FBI memo, but Newsom says state is "prepared" - CBS News
+- Senators demand answers on school strike in Iran as growing evidence points to US involvement - AP News
+- Live updates: Aftermath of deadly Midwest tornadoes as severe storm threat shifts east today - FOX Weather
+- Iran updates: The U.S. and allies announce plans to tap emergency oil reserves; missile strikes continue throughout the Middle East - Yahoo
+- Epstein’s longtime accountant testifies he was ‘not aware’ of sex offender’s crimes - NPR
+- Trump’s energy ‘tiger team’ struggles to find its roar with Iran - Politico
+- ICE Lawyer Who Told Judge She Was Overwhelmed Is Running for Congress - The New York Times
+- ICE Barbie Creates Chaos as Hundreds of Her Employees Quit - The Daily Beast
+- FBI finds explosive materials in Pa. storage unit tied to NYC protest bombs - Spotlight PA
+- Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News
 - Dozens of U.S. service members in Kuwait suffered serious injuries, including burns, brain trauma and shrapnel wounds, sources say - CBS News
-- Trump Administration to Announce New Trade Investigations - The New York Times
-- José Antonio Kast, the Pinochet fan about to swerve Chile to the far right - The Guardian
-- Iran says oil will reach $200 a barrel, warns of 'continuous strikes' - Reuters
+- Mojtaba Khamenei's Wound Reveals Who Really Rules Iran - Forbes
+- Satellite images capture airstrikes reducing Iran's vintage American-made F-14 Tomcats to wreckage - Business Insider
 - Nations agree to release oil reserves as war in Iran hits global economy - The Washington Post
-- U.S. Gas Prices Jump for 11th Straight Day, and Oil Pushes Higher - The New York Times
-- Trump's war on Iran creates an economic storm for consumers and the Fed - NBC News
-- As the Iran War Fallout Widens, Trump Seems to Be Turning to an Old Tactic. He’s in for a Rude Awakening. - Slate
+- US gasoline prices surpass $3.50 a gallon at the pumps - Reuters
+- Atlassian lays off 1,600 workers ahead of AI push - The Guardian
+- Asian Stocks to Fall, Oil Climbs with War in Focus: Markets Wrap - Bloomberg.com
 - MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple
-- Microsoft will start providing game studios with Project Helix consoles in 2027 - Engadget
+- Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica
