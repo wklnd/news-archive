@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 20:31_
+_Updated: 2026-03-12 21:28_
 
 - Live updates: Iran’s new supreme leader says Strait of Hormuz will remain closed in first purported message to public - CNN
-- Lebanon appeals to Israel’s allies to intervene as hundreds reported killed - The Washington Post
-- 2 injured, gunman dead in shooting at Old Dominion University, school says - Yahoo News UK
-- Capitol agenda: House revolt ahead for housing bill - Politico
-- Anthropic’s Claude would ‘pollute’ defense supply chain: Pentagon CTO - CNBC
-- Democrats ask Pentagon about Iran school strike and role of AI - NBC News
+- Live updates: Suspect dead after attack at West Bloomfield, Michigan synagogue - BBC
+- Senate passes bipartisan housing bill targeting large investors and easing regulations - NPR
+- Iranian school was on U.S. target list, may have been mistaken as military site - The Washington Post
+- What it will mean for the economy if the Strait of Hormuz stays closed - Axios
+- How Hegseth Came to See Moral Purpose in War as Weakness - The New York Times
+- 2 injured, suspect dead after shooting at Old Dominion University in Virginia - WBMA
 - TSA temporarily closes Terminal C security checkpoint at Philadelphia International Airport - 6abc Philadelphia
-- US Spent $11.3 Billion in First Week of War With Iran - Bloomberg
-- Trump administration may loosen US shipping rules to combat fuel price spike, White House says - Reuters
-- A State of Wealthy Entrepreneurs Passes a ‘Millionaires’ Tax’ - The New York Times
+- Trump administration considers loosening US shipping rules to combat fuel price spike - Reuters
+- Furious allies lobby Trump to keep deporting migrants - Politico
 - Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack - The New York Times
-- In Norwegian Arctic, civilian doctors, volunteer 'casualties' rehearse for war - Reuters
-- Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit - CNBC
-- Ukraine Central Bank Chief Slams Hungary Over $82 Million Heist - Bloomberg
-- Trump's plan to release 172 million barrels from oil reserves would cut US energy backstop by over 40% - Yahoo Finance
-- Oil prices jump as Iran war causes the 'largest supply disruption' in the history of petroleum markets - NBC News
+- Strike on Thai tanker in Strait of Hormuz may be message to the U.S., analyst says - CBS News
+- How do other countries view the U.S. and Israel's war with Iran? - CBS News
+- Ukraine showed NATO artillery crews how to use drones. Now they're figuring out how to make them work in the Arctic. - Business Insider
+- Iran War Causes Biggest-Ever Oil Market Disruption, IEA Says - Bloomberg
+- How airlines have hedged against fuel price increases - Dawn
 - Atlassian layoffs impact 63 workers in Washington as CTO steps down - GeekWire
-- When stock markets get shaken, it can pay for investors to be patient - AP News
-- Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation - TechCrunch
-- The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted - 9to5Google
+- Iran war is the largest oil supply disruption in history, report finds - Politico
+- Google Maps gets its biggest navigation redesign in a decade, plus more AI - Ars Technica
+- WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch
