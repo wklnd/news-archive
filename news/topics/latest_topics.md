@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 08:10_
+_Updated: 2026-03-12 09:28_
 
 ## Top Stories
 
-- IDF: Omfattande våg av attacker mot Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kriget i Iran påminner om faran med militärt våld utan riktning - Altinget.se
-- Två oljetankrar i brand efter attack – en död - Dagens Nyheter
-- Demokrater kräver svar om dödliga skolattacken - GP
+- Attack mot strandpromenad i Beirut – flera döda – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran och Hizbollah i samordnat anfall mot Israel - Dagens Nyheter
+- DEBATT: Passivitetens tid är över – nu måste vi intensifiera stödet till folket i Iran - GP
 - Flytt på Sahlgrenska – läkarnas larm: ”Ökad smittorisk för sjuka barn” - GP
-- Hot om hamnattacker – från både USA och Iran - Hufvudstadsbladet
+- Nu öppnar det hyllade galleriet i gravkapellet i Lund - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Demokrater kräver svar om dödliga skolattacken - Dagens Nyheter
 - De är vinnare och förlorare när våren flyttas - Västerbottens-Kuriren
 - Efter vattenläckan i Varberg: ”Spara på vattnet” - GP
 - Våra sista vildmarker hotas – byggsektorn måste tänka längre - Byggvärlden
-- LEDARE: “Kan operationer ha genomförts med smutsiga instrument?” - Helagotland
-- DEBATT: Passivitetens tid är över – nu måste vi intensifiera stödet till folket i Iran - GP
-- Ukrainakriget: Flera döda i drönaranfall - Västerbottens-Kuriren
-- Lögner och krig i Orbáns kamp för att sitta kvar - Västerbottens-Kuriren
-- Attacker mot fartyg i Hormuzsundet – Macron vädjar - GP
+- Hur bra är det för konditionen att gå på löpband? - Dagens Nyheter
+- Trump segerviss – men fler fartyg står i brand - Västerbottens-Kuriren
+- Ukrainakriget: Flera döda i drönaranfall - GP
+- Kaja Kallas: Jag måste göra något rätt om ryssarna inte gillar det - Dagens Nyheter
+- Rysk stödplan för Orbán - Aftonbladet
+- ANDREAS WESTERBERG: Ett år efter Northvolt – Skellefteå får ta nya tag utan hybris - Norran
+- Ledare: Socialdemokraterna hycklar om bränslepriset - NWT
 - USA tar ut 172 miljoner fat olja - SvD
-- Nu kommer guldregnet: Tio toppval för portföljen - EFN
 - Går det att slopa USA när det handlar om prylar och appar? - Expressen
-- AI-svenskar sticker ut på Forbes lista över rika - Omni
+- Ett av de bästa rollspelen någonsin blir gratis på PS Plus - MovieZine
 - Google om bygglovet: ”Positivt steg” - Avesta Tidning
-- Epic Games höjer priset på Fortnite-valutan V-Bucks - m3.se
 
 ## World News
 
-- Megaaffären lyfter American Express Global Business Travel - travelnews.se
+- Global lista över världens fredligaste länder - Sverige långt ner - News55
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
@@ -41,10 +41,10 @@ _Updated: 2026-03-12 08:10_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -61,15 +61,15 @@ _Updated: 2026-03-12 08:10_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Künstliche Intelligenz: KI als Schlüsseltechnologie in Deutschland – Deutschlands Wirtschaftswachstum – KI als entscheidender Faktor - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -120,25 +120,25 @@ _Updated: 2026-03-12 08:10_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
