@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 18:40_
+_Updated: 2026-03-12 19:32_
 
-- Missing in action: What we know about Mojtaba Khamenei's condition - Euronews.com
-- Lebanon appeals to Israel’s allies to intervene as hundreds reported killed - The Washington Post
-- First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress - The New York Times
-- Pentagon probe points to U.S. missile hitting Iranian school - NPR
-- Iran's secretive top leader vows to keep up attacks in his first statement since being appointed - AP News
-- What’s in the ‘SAVE America Act’ and why is it so important to Donald Trump? - CNN
+- Live updates: Iran’s new supreme leader says Strait of Hormuz will remain closed in first purported message to public - CNN
+- Three more ships struck in the Persian Gulf as Iran warns of oil prices hitting $200 - CNBC
 - Capitol agenda: House revolt ahead for housing bill - Politico
-- Gunman dead, 2 injured in Old Dominion University shooting - WAVY.com
+- Lebanon appeals to Israel’s allies to intervene as hundreds reported killed - The Washington Post
+- Pentagon probe points to U.S. missile hitting Iranian school - NPR
+- Thune eyes marathon sessions to ease MAGA anger over SAVE Act - Axios
+- What questions do you have about a WA income tax for millionaires? - The Seattle Times
+- TSA temporarily closes Terminal C security checkpoint at Philadelphia International Airport - 6abc Philadelphia
+- Gunman dead, 2 critically injured in Old Dominion University shooting - WAVY.com
 - Homan wants a reset with Trump’s soon-to-be DHS chief - Politico
-- Lawmakers vent frustration over DHS shutdown as lines grow at nation’s airports - The Seattle Times
 - Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack - The New York Times
-- Iran War Causing Largest Ever Oil Disruption, I.E.A. Says - The New York Times
+- Thailand Condemns Hormuz Ship Strike, Summons Iran Ambassador - Bloomberg.com
 - Russian court convicts 19 people over deadly 2024 Moscow concert hall attack - abcnews.com
-- Iran attacks busiest international airport and commercial ships in war with U.S., Israel - KATU
-- Middle East War Is Causing Largest Oil Supply Disruption in History, IEA Says - WSJ
+- Giant steel pipe erupts from road in major Japanese city - Dexerto
 - Stock Market Today: Dow Drops 600 On Oil Surge; Airline, Bank, Chip Shares Fall But Dell Posts Gain (Live Coverage) - Investor's Business Daily
-- Iran War Exposes Cracks for Airlines That Connect the World - Bloomberg
+- Iran War Exposes Cracks for Airlines That Connect the World - Bloomberg.com
+- Rivian R2 prices revealed: you’re going to have to wait longer for that $45,000 version - The Verge
 - Atlassian cuts 10% of workforce to adapt to AI threat - Financial Times
 - Google Maps brings a 3D map to your driving directions - Engadget
-- MacBook Neo Teardown: Modular Ports, Glue-Less Battery, Zero Tape - MacRumors
+- The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted - 9to5Google
