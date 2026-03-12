@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-12 10:06_
+_Updated: 2026-03-12 11:26_
 
-- Thai Cargo Ship Hit in Strait of Hormuz; Three Crew Missing - Bloomberg
-- Pentagon probe points to U.S. missile hitting Iranian school - NPR
-- Oil price surges back to $100 as explosions reported on two more foreign ships in Gulf - BBC
-- First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress - The New York Times - The New York Times
-- Epstein's longtime accountant testifies on his wealth and business ties - PBS
-- Officials downplay risk of Iranian drone attacks off California after FBI memo, but Newsom says state is "prepared" - CBS News
+- Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors - AP News
+- Iranian school was on U.S. target list, may have been mistaken as military site - The Washington Post
+- Trump administration estimates Iran war cost at over $11 billion in six days, source says - Reuters
+- Two Tankers Attacked In Iraq Waters, Oil Terminals Suspended - Bloomberg
+- Epstein’s longtime accountant testifies he was ‘not aware’ of sex offender’s crimes - NPR
+- Hezbollah fires at least 150 rockets at north, Iran launches missiles in ‘integrated operation’ - The Times of Israel
 - NYPD hero cop who chased down Gracie Mansion bomb suspect had just one thought: "Catch the bad guy" - CBS News
 - Lawmakers vent frustration over DHS shutdown as lines grow at nation’s airports - AP News
-- FREE TO READ: Two dead after apparent tornado tears through Lake Village in Newton County - nwitimes.com
 - A State of Wealthy Entrepreneurs Passes a ‘Millionaires’ Tax’ - The New York Times
-- Mojtaba Khamenei's Wound Reveals Who Really Rules Iran - Forbes
-- White House takes first step toward permanent fix for illegal tariffs - The Washington Post
-- Israel bombards Beirut suburbs and southern Lebanon as conflict with Hezbollah escalates - The Guardian
-- Iran updates: The U.S. and allies announce plans to tap emergency oil reserves; missile strikes continue throughout the Middle East - Yahoo
-- Why historic oil reserves release may do little to bring down rising prices - Al Jazeera
+- Federal attorney who complained ‘this job sucks’ is running for Congress against Rep. Ilhan Omar - Star Tribune
+- Source: New Iranian supreme leader had fractured foot and face lacerations on first day of war - CNN
+- Why did U.S. bombings cause 'acid rain' to fall in Iran? An atmospheric scientist explains - PBS
+- Contrary to What Israelis Think, Hezbollah Remains Strong in South Lebanon - Haaretz
+- Trump news at a glance: Trump says war is won but ‘we don’t want to leave early’ as oil prices rise again - The Guardian
+- Trump administration releasing 172 million barrels of oil from strategic reserve as Iran war causes soaring prices - CBS News
 - Asian Stocks to Fall, Oil Climbs with War in Focus: Markets Wrap - Bloomberg
-- How to Afford Housing in London: Multiple Roommates, No Living Room - The New York Times
+- Atlassian cuts 10% of workforce to adapt to AI threat - Financial Times
 - Exclusive | Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund - WSJ
+- How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac
 - Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica
-- MacBook Neo, iPhone 17e, iPad Air with M4, and more are now available - Apple
