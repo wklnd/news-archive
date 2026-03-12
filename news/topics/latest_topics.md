@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-12 17:29_
+_Updated: 2026-03-12 18:34_
 
 ## Top Stories
 
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
 - USA: Ingen eskort av oljetankrar i nuläget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Demokrater kräver svar om dödliga skolattacken - Hufvudstadsbladet
-- Man död i samband med handräckning - Aftonbladet
 - 52 fasttagna vid Göteborg energis bygge i hamnen - GP
-- Fick massiv inre blödning av nationella proven - Dagens Nyheter
+- Ukraina tar mark i Dnipro – tar hjälp av väder och Starlink - TV4 Nyheterna
+- DN Direkt – Kristersson: Fritt att skicka in ny ansökan - Dagens Nyheter
+- Busshaveri på E6 – ruta krossad - GP
+- Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
+- Man död - gick genom isen i Örebro - Västerbottens-Kuriren
+- DN Direkt – Dubbla larm från SMHI – snöfall och gräsbrand - Dagens Nyheter
 - Insändare. Sätt ett tak på effektavgifterna - Dagens Nyheter
-- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Kritiken efter vattenläckan i Varberg: Varför fick jag inte ett sms? - SVT Nyheter
-- De är vinnare och förlorare när våren flyttas - Västerbottens-Kuriren
-- Trump: Iran är på gränsen till nederlag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Anhörig till israelisk underrättelsechef åtalad - Dagens Nyheter
-- Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
-- Minst nio döda i nya ryska anfall - SVT Nyheter
-- Ett år efter Northvolts konkurs – så gick det för ingenjörerna: ”Exceptionellt” - SVT Nyheter
+- Rapparen vinner valet i Nepal - Sydsvenskan
+- Källor: USA bombade skola efter gamla underrättelser - Västerbottens-Kuriren
+- FN: Upp till 3,2 miljoner kan ha drivits på flykt i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Israel varslar om upptrappning i Libanon - Västerbottens-Kuriren
+- Snabb återhämtning i Västerbotten efter Northvolts konkurs - DagensNaringsliv.se
+- Utredning: Skarp kritik mot AP-fondernas satsning i Northvolt - SVT Nyheter
 - Lyssna på Riksbanken om kontanterna - Cision
 - Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
-- Årets börsuppgång utraderad – så slår det mot din pension - Dagens PS
 - ”Kraftig avsmältning av inlandsisen ökar” - Aftonbladet
-- WoW Midnight: Första intrycken - Aftonbladet
+- Ny rapport: Bara var tredje tioåring leker varje dag - Notified
 
 ## World News
 
@@ -57,8 +57,8 @@ _Updated: 2026-03-12 17:29_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -77,7 +77,6 @@ _Updated: 2026-03-12 17:29_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -158,7 +157,7 @@ _Updated: 2026-03-12 17:29_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
