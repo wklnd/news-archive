@@ -1,21 +1,21 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 00:53_
+_Updated: 2026-03-13 01:50_
 
 ## Top Stories
 
-- Fartyget Sea Owl I bordat i Östersjön - polisen.se
+- Kustbevakningen har bordat nytt misstänkt skuggfartyg - Dagens Nyheter
 - Uppgifter: Liberalerna på väg att svänga om SD - SVT Nyheter
-- Tiotusenkronorsfrågan: Var befinner sig nya ayatollan? - Dagens Nyheter
-- Trump: Iran snart besegrat - Hufvudstadsbladet
-- Larm om skottlossning vid synagoga - Corren
+- Nye ayatollans första ord - GP
+- Direkt – Krisen i Mellanöstern – Amerikanskt tankflygplan har kraschat i Irak - Dagens Nyheter
 - Iran: Har tillåtit skepp att passera Hormuzsundet - Västerbottens-Kuriren
+- Misstänkt dataintrång – statligt it-system uppges ha läckt på darknet - Dagens Nyheter
 - Kulturdebatt: Petningen av Arndtzén är ett förtroendeproblem för Sveriges Radio - GP
-- Årets bild 2025: Vinnarna & vinnarbilderna i årets tävling - Kamera & Bild
+- Årets bild: Se DN-fotografernas vinnande bidrag - Dagens Nyheter
 - Lagrådet emot förslag om sänkt straffbarhetsålder – Senaste nytt om valet 2026 - SVT Nyheter
-- Insändare. Fängelse för mindre brott går emot våra värderingar - Dagens Nyheter
-- DN Direkt – Rubio kämpar med att fylla Trumps skor – bokstavligen - Dagens Nyheter
+- Man död - gick genom isen i Örebro - Västerbottens-Kuriren
 - Poddaren Joe Rogan i konservativt uppror mot Trumps krig - Dagens Nyheter
+- Därför har Marco Rubio för stora skor - Hufvudstadsbladet
 - Ukrainsk attack träffar rysk chipfabrik kopplad till robotproduktion - Dagens.se
 - Ambassadbomb knyts till Irankriget – och Foxtrot - Västerbottens-Kuriren
 - Ny kritik mot AP-fondernas miljardfiasko i Northvolt - EFN
@@ -27,26 +27,26 @@ _Updated: 2026-03-13 00:53_
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Megaaffären lyfter American Express Global Business Travel - travelnews.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
-- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Swedish labour market improves despite global turbulence - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 
 ## Technology
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-13 00:53_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -95,25 +95,25 @@ _Updated: 2026-03-13 00:53_
 
 ## Health
 
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Matvanor för god hälsa och miljö - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Stor överförskrivning och ökat bruk av protonpumpshämmare - Läkartidningen
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Översikt - European Commission
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
@@ -159,5 +159,5 @@ _Updated: 2026-03-13 00:53_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
