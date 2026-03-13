@@ -1,43 +1,43 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 13:04_
+_Updated: 2026-03-13 13:53_
 
 ## Top Stories
 
-- Liberaler vill hoppa av – om partiet svänger om SD - GP
+- Hoppar av – om SD får grönt ljus - UNT
+- Krav på införande av effektavgifter stoppas - Regeringen.se
+- Israel: Ny anfallsvåg mot Beirut - Västerbottens-Kuriren
 - Klartecken för nytt polishus i centrala Göteborg - SVT Nyheter
-- Därför trotsar Trump experterna - SvD
-- Anhöriga överklagar dom om ambulansdåd till HD - GP
-- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Flerfamiljshus träffat av drönare i Beirut - Dagens Nyheter
-- Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
-- S kräver: Stoppa exportkablar och pausa effektavgifterna - Socialdemokraterna
-- Gul varning för starka vindar – elbolag höjer beredskapen - SVT Nyheter
+- DN Direkt – Anhöriga överklagar dom om ambulansdåd till HD - Dagens Nyheter
+- Oljetanker bordad – var på väg mot rysk hamn - GP
+- ”Chrippa” får sänkt straff - SvD
 - Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
+- Expressen-profilen talar ut om Christian Peterson: Värre än de gånger jag blivit mordhotad - ETC.se
+- DN Direkt – Krav på stopp för alla tonårsutvisningar fick nej - Dagens Nyheter
 - Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - ”Min far var en massmördare som aldrig erkände sin skuld” - Dagens Nyheter
-- Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
-- Israel och Iran i nattliga attacker - GP
-- Erik Magnusson Fyra skarpa EU-krav kan chockhöja skånska elpriser - Sydsvenskan
-- Bli granne med vindkraftverk – tjäna 38 000 om året - SvD
+- Amerikaner döda i tankplanskrasch i Irak - Västerbottens-Kuriren
+- DN Direkt – Olycka på E22 - Dagens Nyheter
+- Budkrig i innerstan – ny drömgräns passerad - SvD
 - Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
 - Praktikant orsakade krasch – småföretag fick ta smällen - Dagens PS
-- PEGI stramar till regelverket för lootlådor – EA Sports FC kan beröras - FZ.se
+- Kriget i Iran ger höjda bränslepriser – Lidköpingsbon: ”Vi tankar nu ifall det blir dyrare” - NLT
+- Har förbryllat astronomer i årtionden: Vår galax kan flyta runt i något enormt - Illustrerad Vetenskap
 - Google Maps får sin största uppgradering på länge - Omni
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -85,11 +85,11 @@ _Updated: 2026-03-13 13:04_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -122,11 +122,11 @@ _Updated: 2026-03-13 13:04_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -143,6 +143,7 @@ _Updated: 2026-03-13 13:04_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -153,11 +154,10 @@ _Updated: 2026-03-13 13:04_
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
