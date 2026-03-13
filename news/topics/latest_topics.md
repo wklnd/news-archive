@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 12:03_
+_Updated: 2026-03-13 13:04_
 
 ## Top Stories
 
-- Tomas Ramberg: Liberalerna kapitulerar snabbare än väntat - Dagens Nyheter
-- Nya attacker i Israel och Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Liberaler vill hoppa av – om partiet svänger om SD - GP
+- Klartecken för nytt polishus i centrala Göteborg - SVT Nyheter
+- Därför trotsar Trump experterna - SvD
+- Anhöriga överklagar dom om ambulansdåd till HD - GP
+- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Flerfamiljshus träffat av drönare i Beirut - Dagens Nyheter
+- Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
 - S kräver: Stoppa exportkablar och pausa effektavgifterna - Socialdemokraterna
-- Kriminella rekryterar på skola för funktionsnedsatta - Omni
-- Klart för nytt polishus i centrala Göteborg - GP
-- Efter bordning: Befälhavare misstänks för brott - Västerbottens-Kuriren
 - Gul varning för starka vindar – elbolag höjer beredskapen - SVT Nyheter
-- 13 mars 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
-- Torvindustrin nöjd med utredning som de själva varit inblandade i - Natursidan
-- Strömmer: ”Sociala insatser är inte tillräckliga” – Senaste nytt om valet 2026 - SVT Nyheter
-- Trump: En ära att få döda Irans ledare - GP
+- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
+- Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - ”Min far var en massmördare som aldrig erkände sin skuld” - Dagens Nyheter
 - Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
-- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
-- Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
-- Kriget i Iran ger höjda bränslepriser – Lidköpingsbon: ”Vi tankar nu ifall det blir dyrare” - NLT
-- Praktikant orsakade krasch – småföretag fick ta smällen - Dagens PS
+- Israel och Iran i nattliga attacker - GP
+- Erik Magnusson Fyra skarpa EU-krav kan chockhöja skånska elpriser - Sydsvenskan
 - Bli granne med vindkraftverk – tjäna 38 000 om året - SvD
+- Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
+- Praktikant orsakade krasch – småföretag fick ta smällen - Dagens PS
 - PEGI stramar till regelverket för lootlådor – EA Sports FC kan beröras - FZ.se
-- Här söker flest efter bostad i Sundsvall - Sundsvalls Tidning
+- Google Maps får sin största uppgradering på länge - Omni
 
 ## World News
 
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Swedish labour market improves despite global turbulence - Sveriges Radio
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -55,20 +55,20 @@ _Updated: 2026-03-13 12:03_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar
+- Albanien utser AI-bot till minister - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 
 ## Business
@@ -85,11 +85,11 @@ _Updated: 2026-03-13 12:03_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -113,8 +113,8 @@ _Updated: 2026-03-13 12:03_
 - Matvanor för god hälsa och miljö - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -122,19 +122,19 @@ _Updated: 2026-03-13 12:03_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -143,21 +143,21 @@ _Updated: 2026-03-13 12:03_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
