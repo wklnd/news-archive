@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-13 22:00_
+_Updated: 2026-03-13 23:04_
 
-- All 6 airmen on a US refueling plane that crashed in Iraq are dead, US military says - AP News
-- Suspect in Michigan synagogue attack had lost family in Israeli strike on Lebanon - The Guardian
-- Why has Trump eased sanctions on Russian oil - and will it help Putin? - BBC
-- US airport security misses first paycheck as homeland security shutdown nears one month – live - The Guardian
-- ROTC students at Old Dominion University killed shooter who left 1 dead, 2 wounded - PBS
-- Trump Threatens Iran’s Leaders And Insists U.S. Is Winning The War - Forbes
-- Weekend storm and possible blizzard could be one of biggest in metro history - Star Tribune
-- Cuba’s president confirms US talks as island’s energy and economic crises intensify - AP News
-- The SAVE America Act Is the Most Popular Election Reform in Decades - The White House (.gov)
-- Pentagon Is Moving Additional Marines, Warships to the Middle East - WSJ
+- All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says - AP News
+- Trump calls Iran leaders ‘deranged scumbags’ as Middle East violence spirals - The Guardian
+- Suspect in synagogue crash lost family in Israeli attack on Lebanon, official says - The Washington Post
+- TSA workers miss a full paycheck, while travelers keep paying airport security fees - NPR
+- Pentagon sends USS Tripoli, thousands of Marines to Middle East - Axios
+- Cuban president confirms talks with US officials amid Trump pressure - Politico
+- Person arrested on charges of selling rifle to gunman in Old Dominion University attack - CNN
+- N.C. Sheriff Poised to Pull Off Stunning Upset in Consequential G.O.P. Primary - The New York Times
+- Hegseth ignored military officials when he slashed offices that limit risk to civilians - Politico
+- Memo lays out Trump’s squeeze on Cuban doctor program - Politico
 - Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’ - AP News
+- FBI investigates attacks in Michigan and Virginia. And, Senate passes housing bill - NPR
 - Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
-- Tourists, expats and influencers detained in UAE over digital content showing Iran war impacts, activist says - CBS News
-- Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera
-- S&P 500 is under pressure again from oil crisis, heads for third-straight losing week: Live updates - CNBC
+- Iran unleashes oil shock to blunt US firepower - Reuters
+- California hit by much higher oil prices as Iran war stresses refiners - Reuters
 - Should I book travel now? What the Iran war means for your plans - CNN
-- Cracks emerged in a resilient US economy before war in Iran sent oil prices rocketing - AP News
-- Honda Cancels Plans for Three News EVs as It Scrambles to Rethink Strategy - Gizmodo
+- Amazon Announces Inference Chips Deal With Cerebras - WSJ
+- Economy was shakier than it appeared heading into Iran conflict - The Washington Post
 - M5 MacBook Air review: Still the best MacBook for almost everybody - Ars Technica
-- Apple is Up to Something Secret in New York - MacRumors
+- iPhone Fold: 5 Things We Learned This Week About Apple's Foldable - MacRumors
