@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-14 00:00_
+_Updated: 2026-03-14 00:59_
 
 - All 6 crew members on a US refueling plane that crashed in Iraq are dead, US military says - AP News
-- Subpoenas against Fed chair Powell tossed in a scathing opinion - Axios
-- Lebanese Family Members of Synagogue Attacker Died in Airstrike - The New York Times
-- Trump: Iran war will end when I ‘feel it in my bones’ - Politico
-- U.S. Deploying Thousands More To The Middle East - Forbes
-- TSA workers miss a full paycheck, while travelers keep paying airport security fees - NPR
-- Man arrested on charges of selling pistol to gunman in Old Dominion University attack - CNN
-- Berger continues to trail Page after final NC vote tally; recount possible - News & Observer
+- US judge throws out justice department subpoenas to Federal Reserve, citing ‘thin’ evidence - Financial Times
+- Family Members of Michigan Synagogue Attacker Died in Airstrike in Lebanon - The New York Times
+- Iran war: What is happening on day 14 of US-Israel attacks? - Al Jazeera
+- Republican lawmakers shrug at more funding for Iran war - Politico
+- ROTC students at Old Dominion University killed shooter who left 1 dead, 2 wounded - PBS
+- Berger continues to trail Page after final NC vote tally; recount possible - Raleigh News & Observer
 - Hegseth ignored military officials when he slashed offices that limit risk to civilians - Politico
-- Memo lays out Trump’s squeeze on Cuban doctor program - Politico
+- Powerful winter storm expected to slam the state this weekend - Star Tribune
+- Jury finds defendants guilty of terrorism-related charges in attack on Prairieland ICE detention center - CBS News
+- U.S. Deploying Thousands More To The Middle East - Forbes
 - Zelenskyy says US 30-day waiver on Russian oil sanctions is ‘not the right decision’ - AP News
 - FBI investigates attacks in Michigan and Virginia. And, Senate passes housing bill - NPR
 - Mojtaba Khamenei: Iranians react to new Supreme Leader's first address - BBC
-- Tourist Filmed Missile Strike in Dubai, Then Got Charged - Newser
-- S&P 500 falls to new low for year on Iran oil crisis, posts third-straight losing week: Live updates - CNBC
-- Oil only accounts for half the cost of a gallon of gas. Here's where the rest comes from. - CBS News
-- Mortgage Rates Surge to 7-Month Highs - Mortgage News Daily
+- California hit by much higher oil prices as Iran war stresses refiners - Reuters
+- Mortgage rates surge to highest since September, hitting spring housing market - CNBC
 - Amazon Announces Inference Chips Deal With Cerebras - WSJ
-- M5 MacBook Air review: Still the best MacBook for almost everybody - Ars Technica
-- iPhone Fold: 5 Things We Learned This Week About Apple's Foldable - MacRumors
+- Economy was shakier than it appeared heading into Iran conflict - The Washington Post
+- Parallels Confirms MacBook Neo Can Run Windows in a Virtual Machine - MacRumors
+- iPhone Fold’s crease-free display is about to hit major milestone, per leaker - 9to5Mac
