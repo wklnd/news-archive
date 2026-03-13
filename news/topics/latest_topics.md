@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 23:55_
+_Updated: 2026-03-14 00:53_
 
 ## Top Stories
 
-- Så har L-ledaren svängt – Då: Hellre överkörd av SD • Nu: "Jag är stolt" - GP
+- DN Direkt – L och SD överens om att sitta i regering tillsammans - Dagens Nyheter
+- Polis avlossade skott mot bil i Göteborg - Aftonbladet
 - Efter teknikstrulet – Försvarsmakten stöttar sjukvården på Gotland - SVT Nyheter
-- Polis sköt mot bil i Göteborg - Aftonbladet
-- Advokat: Inget förändrat kring tonårsutvisningar - Omni
 - Irland är den svaga länken i Europas försvar - Dagens Nyheter
-- Krav på införande av effektavgifter stoppas - hallekis.com
+- Rysk befälhavare på bordat fartyg har anhållits - GP
+- Advokat: Inget förändrat kring tonårsutvisningar - Omni
 - Kvinna från Eksjö allvarligt skadad efter fall på Mount Fuji i Japan - SVT Nyheter
-- Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
-- Det svenska skogsbruket – Sebastian Kirppu och Viveka Beckeman om vi ska avverka mer eller mindre. - Sveriges Radio
-- Advokat döms till långt fängelsestraff - Dagens industri
+- Krav på införande av effektavgifter stoppas - Regeringen.se
+- Advokat döms till långt fängelsestraff - Di
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
 - FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
-- Fyra häktade för bomb vid USA:s ambassad - GP
-- Sanna Torén Björling: Oljepengarna går till Putins krigskassa – det vet Vita huset - Dagens Nyheter
-- Bolsonaro inlagd på sjukhus – får intensivvård - Corren
-- Börsen på plus – oljepriset sjunker - Västerbottens-Kuriren
+- Fyra häktade för bomb vid USA:s ambassad - Västerbottens-Kuriren
+- Analys: Trump öppnar en dörr som varit stängd för Putin - GP
+- Källor: USA skickar fler fartyg och soldater – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stockholmsbörsen öppnar på rött – verkstadsbolag i botten - EFN
 - E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
-- Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
-- Byggnads varslar om blockad mot Nord Armering på Stegra i Boden - svenskbyggtidning -
+- Utredare: Reduktionsplikten kan behöva höjas - Sydsvenskan
+- Matmomsen halveras – handlarna lovar sänka - Senioren
 - Personlighetsdraget har stark koppling till ondska - Aftonbladet
 - Tembo är en trummaskin i trä. Styr rytmen genom att flytta puckar på ett spelbräde. - feber.se
 
@@ -29,24 +29,24 @@ _Updated: 2026-03-13 23:55_
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- 48 städer krokar arm i global klimatomställning - Cision News
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Swedish labour market improves despite global turbulence - Sveriges Radio
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -98,44 +98,44 @@ _Updated: 2026-03-13 23:55_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Johan von Schreeb - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
