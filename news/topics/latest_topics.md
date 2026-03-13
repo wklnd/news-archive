@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 13:53_
+_Updated: 2026-03-13 15:39_
 
 ## Top Stories
 
-- Hoppar av – om SD får grönt ljus - UNT
+- Liberaler vill hoppa av – om partiet svänger om SD - GP
+- Direkt – Krisen i Mellanöstern – Flerfamiljshus träffat av drönare i Beirut - Dagens Nyheter
+- Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
+- En person hittad död i vattnet – polis misstänker inte brott - SVT Nyheter
 - Krav på införande av effektavgifter stoppas - Regeringen.se
-- Israel: Ny anfallsvåg mot Beirut - Västerbottens-Kuriren
-- Klartecken för nytt polishus i centrala Göteborg - SVT Nyheter
-- DN Direkt – Anhöriga överklagar dom om ambulansdåd till HD - Dagens Nyheter
-- Oljetanker bordad – var på väg mot rysk hamn - GP
-- ”Chrippa” får sänkt straff - SvD
-- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
-- Expressen-profilen talar ut om Christian Peterson: Värre än de gånger jag blivit mordhotad - ETC.se
+- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
 - DN Direkt – Krav på stopp för alla tonårsutvisningar fick nej - Dagens Nyheter
+- Man död i samband med handräckning i Vänersborg - SVT Nyheter
+- Efter massiva kritiken – Stockholm öppnar för snöröjning i egen regi - Dagens Nyheter
 - Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
+- Minst fyra amerikaner döda i krasch i Irak - Hufvudstadsbladet
 - ”Min far var en massmördare som aldrig erkände sin skuld” - Dagens Nyheter
-- Amerikaner döda i tankplanskrasch i Irak - Västerbottens-Kuriren
-- DN Direkt – Olycka på E22 - Dagens Nyheter
+- Tyskt larm: Iran-kriget drabbar kemisk industri - Västerbottens-Kuriren
 - Budkrig i innerstan – ny drömgräns passerad - SvD
-- Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
-- Praktikant orsakade krasch – småföretag fick ta smällen - Dagens PS
-- Kriget i Iran ger höjda bränslepriser – Lidköpingsbon: ”Vi tankar nu ifall det blir dyrare” - NLT
+- Rausing efter köpet i EQT: ”Hyser stor tilltro” - Börskollen
+- Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
 - Har förbryllat astronomer i årtionden: Vår galax kan flyta runt i något enormt - Illustrerad Vetenskap
 - Google Maps får sin största uppgradering på länge - Omni
 
@@ -29,7 +29,6 @@ _Updated: 2026-03-13 13:53_
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -47,6 +46,7 @@ _Updated: 2026-03-13 13:53_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -55,20 +55,20 @@ _Updated: 2026-03-13 13:53_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 
 ## Business
@@ -85,11 +85,11 @@ _Updated: 2026-03-13 13:53_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -113,8 +113,8 @@ _Updated: 2026-03-13 13:53_
 - Matvanor för god hälsa och miljö - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
@@ -122,11 +122,11 @@ _Updated: 2026-03-13 13:53_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -143,21 +143,21 @@ _Updated: 2026-03-13 13:53_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
