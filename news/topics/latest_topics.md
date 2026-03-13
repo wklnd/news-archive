@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 17:09_
+_Updated: 2026-03-13 18:02_
 
 ## Top Stories
 
 - KARL RYDÅ: Hon har skrivit under Liberalernas dödsdom - UNT
-- Efter Buschs besked: Allt är oklart om effektavgifterna - Dagens Nyheter
-- Libanon: Flera döda i israelisk attack mot by - GP
 - Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
+- Kulturkrönika: Ingen bryr sig om kulturkanon – allra minst SD - GP
 - Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Romina Pourmokhtari: Står bakom Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
 - Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
-- Veterinärpriserna stiger – och hålls dolda - Sala Allehanda
+- En person hittad död i vattnet – polis misstänker inte brott - SVT Nyheter
+- Krav på införande av effektavgifter stoppas - Regeringen.se
 - Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Larmet: Anpassade skolor har blivit måltavlor för kriminella nätverk - Aftonbladet
-- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
-- USA: Sex döda efter flygkrasch – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Veterinärpriserna stiger – och hålls dolda - Sala Allehanda
+- Trump: En ära att få döda Irans ledare - GP
 - Kuba bekräftar: Vi har pratat med USA - Västerbottens-Kuriren
-- Minst fyra amerikaner döda i krasch i Irak - Hufvudstadsbladet
+- Libanon: Flera döda i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Stora ukrainska framgångar i skuggan av Irankriget - Omni
 - Tyskt larm: Iran-kriget drabbar kemisk industri - Västerbottens-Kuriren
-- Rausing efter köpet i EQT: ”Hyser stor tilltro” - Börskollen
+- Analytiker: Europa klarar rusande oljepris – än så länge - Affärsvärlden
 - Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
-- Budkrig i innerstan – ny drömgräns passerad - SvD
-- Har förbryllat astronomer i årtionden: Vår galax kan flyta runt i något enormt - Illustrerad Vetenskap
+- Legendariske investeraren: Nästan omöjligt att bli rik på börsen - Dagens PS
 - Google Maps får sin största uppgradering på länge - Omni
+- DEBATT: Skövde växer – men det gör även avgifterna och skulderna - Skövde Nyheter
 
 ## World News
 
@@ -119,23 +119,23 @@ _Updated: 2026-03-13 17:09_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -143,9 +143,9 @@ _Updated: 2026-03-13 17:09_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -154,10 +154,10 @@ _Updated: 2026-03-13 17:09_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
