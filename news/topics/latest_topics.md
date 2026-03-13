@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 21:07_
+_Updated: 2026-03-13 21:55_
 
 ## Top Stories
 
 - L tvärvänder om SD – lokala L-toppen: "Inget lätt besked för mig" - Corren
-- Prästen levererar mat till sjömännen på skuggfartyget - Dagens Nyheter
-- Krav på införande av effektavgifter stoppas - hallekis.com
-- Svensk kvinna svårt skadad på berget Fuji - SVT Nyheter
-- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
-- Liberala ungdomsförbundet kräver att hela partistyrelsen avgår – Senaste nytt om valet 2026 - SVT Nyheter
-- Person hittad död efter larm om drunkning - Norra Halland
-- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
-- Kristerssons svar: ”Det är inget konstigt i sig” - SvD
-- Larmet: Anpassade skolor har blivit måltavlor för kriminella nätverk - Aftonbladet
+- Ryssland följer utveckling kring bordade fartyg - Västerbottens-Kuriren
+- DN Direkt – Knarkboss gripen i Bolivia – skickas till USA - Dagens Nyheter
+- Debatt: Varför utvisar ni oss, Tidöpartierna? - ETC.se
+- Krav på införande av effektavgifter stoppas - Hällekiskuriren
+- Befälhavaren på Sea Owl 1 anhållen - Expressen
+- Kvinna från Eksjö allvarligt skadad efter fall på Mount Fuji i Japan - SVT Nyheter
+- Hårda smockan från Moderaterna: ”Helt verkningslösa” - Aftonbladet
+- Expressen-profilen talar ut om Christian Peterson: Värre än de gånger jag blivit mordhotad - ETC.se
+- Sameh Egyptson: Därför fortsätter S och V att försvara Islamic Relief - Fokus - Sveriges nyhetsmagasin
 - Sanna Torén Björling: Oljepengarna går till Putins krigskassa – det vet Vita huset - Dagens Nyheter
-- Bolsonaro inlagd på sjukhus – får intensivvård - Västerbottens-Kuriren
 - Flam efter attackerna: ”En ren tur att ingen har dödats” - Bulletin
-- Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Felicia Åkerman: Irankrisen kräver en ny börsmanual - Dagens Nyheter
+- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Bolsonaro inlagd på sjukhus – får intensivvård - Västerbottens-Kuriren
+- Börsen föll rejält – oljan fortsatt orosmoln - Västerbottens-Kuriren
 - Tre saker sparare kan tänka på när börsen är orolig - e55.se
 - Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
-- Megawatt-eran är här: Efter BYD – nu laddar Zeekr elbilar på sju minuter - Ny Teknik
-- Google Maps får sin största uppgradering på länge - Omni
+- Efter blockaden vid Stegra – nu får arbetarna sina löner - SVT Nyheter
+- Tembo är en trummaskin i trä. Styr rytmen genom att flytta puckar på ett spelbräde. - feber.se
 - Apple har lanserat ett nytt Instagram-konto – ska komma närmare ungdomarna - Teknikveckan
 
 ## World News
@@ -30,13 +30,12 @@ _Updated: 2026-03-13 21:07_
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -44,9 +43,10 @@ _Updated: 2026-03-13 21:07_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Swedish labour market improves despite global turbulence - Sveriges Radio
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -97,24 +97,24 @@ _Updated: 2026-03-13 21:07_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Johan von Schreeb - Karolinska Institutet
-- Översikt - European Commission
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Vi presenterar HealthBench - OpenAI
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Johan von Schreeb - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 
 ## Science
 
