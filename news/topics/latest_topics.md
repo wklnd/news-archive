@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 08:08_
+_Updated: 2026-03-13 09:27_
 
 ## Top Stories
 
 - Risk för dyrare elräkningar när nya tariffer införs i Luleå - SVT Nyheter
-- DN Direkt – Kustbevakningen har bordat nytt misstänkt skuggfartyg - Dagens Nyheter
-- Amerikanskt tankflygplan har kraschat i Irak - GP
-- Statligt it-system uppges ha hackats - NWT
-- Rysk olja får grönt ljus – USA pausar sanktioner tillfälligt - Börskollen
-- Fransmän attackerade i Irak – en död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Uppgifter: L på väg att svänga om SD - Västerbottens-Kuriren
-- Elisabeth Thand Ringqvist: Jag drömmer inte om gamla alliansen - Dagens Nyheter
+- Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
+- Iran: Har tillåtit skepp att passera Hormuzsundet - Västerbottens-Kuriren
+- Misstänkt dataintrång – statligt it-system uppges ha läckt på darknet - Dagens Nyheter
+- Nye ayatollans första ord - GP
+- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
 - Gängen knäcks och regeringen läcker pengar – här är bilderna som kan avgöra valet - Sydsvenskan
+- Uppgifter: L på väg att svänga om SD - Västerbottens-Kuriren
+- 13 mars 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
 - Strömmer: ”Sociala insatser är inte tillräckliga” – Senaste nytt om valet 2026 - SVT Nyheter
-- Irans ledare: Håll Hormuzsundet stängt - Hufvudstadsbladet
-- Trumps oklara Iranstrategi: ”Har en plan för allt” - Västerbottens-Kuriren
-- Iran: Har tillåtit skepp att passera Hormuzsundet - GP
-- Så ska polackerna sluta dricka om nätterna - GP
-- Kritisk metall upptäcktes först i Sverige – har aldrig brutit den - Dagens PS
-- Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
-- Nytt köpråd för kurskraschade Medivir - Dagens industri
-- Analyser: Rädsla kan förklara regeringens plötsliga attack - Omni
+- Trump: En ära att få döda Irans ledare - Västerbottens-Kuriren
+- USA lättar tillfälligt sanktioner mot rysk olja - Västerbottens-Kuriren
+- Nya attacker i Israel och Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Så ska polackerna sluta dricka om nätterna - Västerbottens-Kuriren
+- Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
+- Kriget i Iran ger höjda bränslepriser – Lidköpingsbon: ”Vi tankar nu ifall det blir dyrare” - NLT
+- Kriget hotar Spaniens energi- och livsmedelsförsörjning - Sydkusten
+- Carl Bennets succédrag: 45 miljoner blev en kvarts miljard - Dagens PS
 - Här söker flest efter bostad i Sundsvall - Sundsvalls Tidning
-- Keychrons nya tangentbord ger nostalgikick - PC för Alla
+- Google Maps får AI som svarar på frågor – och ny 3D-navigation - m3.se
 
 ## World News
 
@@ -34,7 +34,7 @@ _Updated: 2026-03-13 08:08_
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -45,7 +45,7 @@ _Updated: 2026-03-13 08:08_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -77,19 +77,17 @@ _Updated: 2026-03-13 08:08_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -119,25 +117,25 @@ _Updated: 2026-03-13 08:08_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
