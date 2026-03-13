@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 09:27_
+_Updated: 2026-03-13 10:01_
 
 ## Top Stories
 
-- Risk för dyrare elräkningar när nya tariffer införs i Luleå - SVT Nyheter
+- Regeringen stoppar kritiserad effektavgift på el - Dagens Nyheter
+- Uppgifter: Stor dataläcka från statligt it-system - Omni
+- Larmet: Specialskolor har blivit måltavlor för kriminella nätverk - Aftonbladet
 - Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
-- Iran: Har tillåtit skepp att passera Hormuzsundet - Västerbottens-Kuriren
-- Misstänkt dataintrång – statligt it-system uppges ha läckt på darknet - Dagens Nyheter
-- Nye ayatollans första ord - GP
-- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
-- Gängen knäcks och regeringen läcker pengar – här är bilderna som kan avgöra valet - Sydsvenskan
-- Uppgifter: L på väg att svänga om SD - Västerbottens-Kuriren
+- Trump: En ära att få döda Irans ledare - Västerbottens-Kuriren
+- Irans ledare: Håll Hormuzsundet stängt - Västerbottens-Kuriren
+- L-toppar i möte om SD – nytt besked väntas - Västerbottens-Kuriren
+- Elisabeth Thand Ringqvist: Jag drömmer inte om gamla alliansen - Dagens Nyheter
 - 13 mars 07.15, Sammanfattning natt, Västernorrlands län - polisen.se
 - Strömmer: ”Sociala insatser är inte tillräckliga” – Senaste nytt om valet 2026 - SVT Nyheter
-- Trump: En ära att få döda Irans ledare - Västerbottens-Kuriren
+- Iran exporterar olja till Kina genom Hormuzsundet som vanligt – trots kriget - Dagens Nyheter
+- Amerikanskt tankflygplan har störtat i Irak - Dagens Nyheter
 - USA lättar tillfälligt sanktioner mot rysk olja - Västerbottens-Kuriren
 - Nya attacker i Israel och Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Så ska polackerna sluta dricka om nätterna - Västerbottens-Kuriren
 - Bråse tillbaka i Novo Nordisk: "För billigt att negligera" - Affärsvärlden
 - Kriget i Iran ger höjda bränslepriser – Lidköpingsbon: ”Vi tankar nu ifall det blir dyrare” - NLT
-- Kriget hotar Spaniens energi- och livsmedelsförsörjning - Sydkusten
-- Carl Bennets succédrag: 45 miljoner blev en kvarts miljard - Dagens PS
+- SweFinTech: Omedelbara betalningar avgörande för svensk innovation - Finanswatch.se
+- Kinesiska BYD kan bli nästa namn i Formel 1 - Dagens PS
 - Här söker flest efter bostad i Sundsvall - Sundsvalls Tidning
 - Google Maps får AI som svarar på frågor – och ny 3D-navigation - m3.se
 
@@ -77,17 +77,19 @@ _Updated: 2026-03-13 09:27_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -156,6 +158,6 @@ _Updated: 2026-03-13 09:27_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
