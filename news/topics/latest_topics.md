@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 18:02_
+_Updated: 2026-03-13 19:06_
 
 ## Top Stories
 
-- KARL RYDÅ: Hon har skrivit under Liberalernas dödsdom - UNT
+- L tvärvänder om SD – lokala L-toppen: "Inget lätt besked för mig" - Corren
 - Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
-- Kulturkrönika: Ingen bryr sig om kulturkanon – allra minst SD - GP
-- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
-- Romina Pourmokhtari: Står bakom Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
-- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
 - En person hittad död i vattnet – polis misstänker inte brott - SVT Nyheter
+- Oklart vad som ska hända med kanon - SvD
+- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Här är den symboliska kramen – Senaste nytt om valet 2026 - SVT Nyheter
+- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
 - Krav på införande av effektavgifter stoppas - Regeringen.se
 - Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Veterinärpriserna stiger – och hålls dolda - Sala Allehanda
+- Expressen-profilen talar ut om Christian Peterson: Värre än de gånger jag blivit mordhotad - ETC.se
 - Trump: En ära att få döda Irans ledare - GP
+- USA: Sex döda efter amerikansk flygkrasch – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
 - Kuba bekräftar: Vi har pratat med USA - Västerbottens-Kuriren
-- Libanon: Flera döda i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Stora ukrainska framgångar i skuggan av Irankriget - Omni
 - Tyskt larm: Iran-kriget drabbar kemisk industri - Västerbottens-Kuriren
-- Analytiker: Europa klarar rusande oljepris – än så länge - Affärsvärlden
-- Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
+- Efter blockaden vid Stegra – nu får arbetarna sina löner - SVT Nyheter
+- Proffsen helt överens – här är aktierna att köpa i oron - EFN
 - Legendariske investeraren: Nästan omöjligt att bli rik på börsen - Dagens PS
 - Google Maps får sin största uppgradering på länge - Omni
-- DEBATT: Skövde växer – men det gör även avgifterna och skulderna - Skövde Nyheter
+- Apple har lanserat ett nytt Instagram-konto – ska komma närmare ungdomarna - Teknikveckan
 
 ## World News
 
@@ -55,36 +55,36 @@ _Updated: 2026-03-13 18:02_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- AI-modell underlättar tidig upptäckt av autism - Karolinska Institutet
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
@@ -97,24 +97,24 @@ _Updated: 2026-03-13 18:02_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Matvanor för god hälsa och miljö - Läkartidningen
-- Johan von Schreeb - Karolinska Institutet
+- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Johan von Schreeb - Karolinska Institutet
+- ADDI Medical och CompuGroup Medical har blivit utvalda som leverantörer i den europeiska H2020 Pre-commercial Procurement (PCP)-projektet ”CAREMATRIX” - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,7 @@ _Updated: 2026-03-13 18:02_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Kurs: Open Science in the Swedish Context 2026 - snd.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
@@ -141,23 +141,23 @@ _Updated: 2026-03-13 18:02_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
