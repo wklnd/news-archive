@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 20:00_
+_Updated: 2026-03-13 21:07_
 
 ## Top Stories
 
 - L tvärvänder om SD – lokala L-toppen: "Inget lätt besked för mig" - Corren
-- Efter bordning: Befälhavare misstänks för brott - GP
+- Prästen levererar mat till sjömännen på skuggfartyget - Dagens Nyheter
+- Krav på införande av effektavgifter stoppas - hallekis.com
+- Svensk kvinna svårt skadad på berget Fuji - SVT Nyheter
 - Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
 - Liberala ungdomsförbundet kräver att hela partistyrelsen avgår – Senaste nytt om valet 2026 - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – FN lanserar blixtinsamling för Libanon - Dagens Nyheter
-- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
-- En person hittad död i vattnet – polis misstänker inte brott - SVT Nyheter
-- Regeringen stoppar kritiserad effektavgift på el - Barometern-OT
-- Expressen-profilen talar ut om Christian Peterson: Värre än de gånger jag blivit mordhotad - ETC.se
+- Person hittad död efter larm om drunkning - Norra Halland
+- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
+- Kristerssons svar: ”Det är inget konstigt i sig” - SvD
 - Larmet: Anpassade skolor har blivit måltavlor för kriminella nätverk - Aftonbladet
 - Sanna Torén Björling: Oljepengarna går till Putins krigskassa – det vet Vita huset - Dagens Nyheter
-- Trump: Putin kanske hjälper Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kuba bekräftar: Vi har pratat med USA - Västerbottens-Kuriren
-- Minst fyra amerikaner döda i krasch i Irak - Hufvudstadsbladet
-- Proffsen helt överens – här är aktierna att köpa i oron - EFN
+- Bolsonaro inlagd på sjukhus – får intensivvård - Västerbottens-Kuriren
+- Flam efter attackerna: ”En ren tur att ingen har dödats” - Bulletin
+- Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Felicia Åkerman: Irankrisen kräver en ny börsmanual - Dagens Nyheter
+- Tre saker sparare kan tänka på när börsen är orolig - e55.se
 - Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
 - Megawatt-eran är här: Efter BYD – nu laddar Zeekr elbilar på sju minuter - Ny Teknik
-- Academedia faller efter L- och SD-uppgörelse - Aftonbladet
 - Google Maps får sin största uppgradering på länge - Omni
-- Disney+ tar tillbaka stödet för Dolby Vision i Europa - Teknikveckan
+- Apple har lanserat ett nytt Instagram-konto – ska komma närmare ungdomarna - Teknikveckan
 
 ## World News
 
@@ -61,8 +61,8 @@ _Updated: 2026-03-13 20:00_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
