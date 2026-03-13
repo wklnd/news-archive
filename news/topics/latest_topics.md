@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 06:59_
+_Updated: 2026-03-13 08:08_
 
 ## Top Stories
 
-- Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
+- Risk för dyrare elräkningar när nya tariffer införs i Luleå - SVT Nyheter
+- DN Direkt – Kustbevakningen har bordat nytt misstänkt skuggfartyg - Dagens Nyheter
 - Amerikanskt tankflygplan har kraschat i Irak - GP
-- Irans ledare: Håll Hormuzsundet stängt - Hufvudstadsbladet
-- Israel och Iran i nattliga attacker - Västerbottens-Kuriren
-- USA lättar sanktioner mot rysk olja - Västerbottens-Kuriren
-- DN Direkt – Uppgifter: L förbereder nytt besked om SD - Dagens Nyheter
+- Statligt it-system uppges ha hackats - NWT
+- Rysk olja får grönt ljus – USA pausar sanktioner tillfälligt - Börskollen
+- Fransmän attackerade i Irak – en död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uppgifter: L på väg att svänga om SD - Västerbottens-Kuriren
+- Elisabeth Thand Ringqvist: Jag drömmer inte om gamla alliansen - Dagens Nyheter
+- Gängen knäcks och regeringen läcker pengar – här är bilderna som kan avgöra valet - Sydsvenskan
 - Strömmer: ”Sociala insatser är inte tillräckliga” – Senaste nytt om valet 2026 - SVT Nyheter
-- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Fler får livstids fängelse för mord - GP
-- Efter vattenläckan i Varberg: ”Spara på vattnet” - Västerbottens-Kuriren
+- Irans ledare: Håll Hormuzsundet stängt - Hufvudstadsbladet
 - Trumps oklara Iranstrategi: ”Har en plan för allt” - Västerbottens-Kuriren
-- Så ska polackerna sluta dricka om nätterna - Västerbottens-Kuriren
-- Minst nio döda i nya ryska anfall - SVT Nyheter
-- Källor: Rapport pekar ut USA för skolattacken - SvD
+- Iran: Har tillåtit skepp att passera Hormuzsundet - GP
+- Så ska polackerna sluta dricka om nätterna - GP
 - Kritisk metall upptäcktes först i Sverige – har aldrig brutit den - Dagens PS
-- Granskning: LKAB har mörkat tiotals livsfarliga händelser på arbetsplatser - Omni
-- Regeringen sänker BNP-prognos för i år - EFN
-- Snabb återhämtning i Västerbotten efter Northvolts konkurs - DagensNaringsliv.se
+- Hormuzkrisen hotar gödselmarknaden – en ny inflationsrisk för globala livsmedelspriser - ig.com
+- Nytt köpråd för kurskraschade Medivir - Dagens industri
+- Analyser: Rädsla kan förklara regeringens plötsliga attack - Omni
 - Här söker flest efter bostad i Sundsvall - Sundsvalls Tidning
-- Crimson Desert har både stora filer och kontroversiell DRM - varvat.se
+- Keychrons nya tangentbord ger nostalgikick - PC för Alla
 
 ## World News
 
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -45,7 +46,6 @@ _Updated: 2026-03-13 06:59_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -77,17 +77,19 @@ _Updated: 2026-03-13 06:59_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -108,54 +110,54 @@ _Updated: 2026-03-13 06:59_
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Matvanor för god hälsa och miljö - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Data blir en tillgång för bönderna - Land Lantbruk
