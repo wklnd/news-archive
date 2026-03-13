@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 00:53_
+_Updated: 2026-03-14 01:53_
 
 ## Top Stories
 
-- DN Direkt – L och SD överens om att sitta i regering tillsammans - Dagens Nyheter
+- LUF-ledaren: Simona Mohamsson borde lämna - GP
 - Polis avlossade skott mot bil i Göteborg - Aftonbladet
-- Efter teknikstrulet – Försvarsmakten stöttar sjukvården på Gotland - SVT Nyheter
+- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
+- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
+- Rysk ilska mot Andersson: ”Vem är du att hota?” - Omni
 - Irland är den svaga länken i Europas försvar - Dagens Nyheter
-- Rysk befälhavare på bordat fartyg har anhållits - GP
-- Advokat: Inget förändrat kring tonårsutvisningar - Omni
+- Expert: Riskfylld operation att borda ett fartyg - Dagens Nyheter
 - Kvinna från Eksjö allvarligt skadad efter fall på Mount Fuji i Japan - SVT Nyheter
 - Krav på införande av effektavgifter stoppas - Regeringen.se
-- Advokat döms till långt fängelsestraff - Di
 - Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
-- Fyra häktade för bomb vid USA:s ambassad - Västerbottens-Kuriren
-- Analys: Trump öppnar en dörr som varit stängd för Putin - GP
-- Källor: USA skickar fler fartyg och soldater – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fyra häktade för bomb vid USA:s ambassad - GP
+- Sanna Torén Björling: Oljepengarna går till Putins krigskassa – det vet Vita huset - Dagens Nyheter
+- Trump: USA attackerar iransk ö – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Iran: Har tillåtit skepp att passera Hormuzsundet - Västerbottens-Kuriren
 - Stockholmsbörsen öppnar på rött – verkstadsbolag i botten - EFN
 - E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
 - Utredare: Reduktionsplikten kan behöva höjas - Sydsvenskan
@@ -29,24 +29,24 @@ _Updated: 2026-03-14 00:53_
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- 48 städer krokar arm i global klimatomställning - Cision News
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Swedish labour market improves despite global turbulence - Sveriges Radio
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 
 ## Technology
 
@@ -120,22 +120,22 @@ _Updated: 2026-03-14 00:53_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Olika slutsatser från samma data - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
