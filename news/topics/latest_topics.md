@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-13 15:39_
+_Updated: 2026-03-13 17:09_
 
 ## Top Stories
 
-- Liberaler vill hoppa av – om partiet svänger om SD - GP
-- Direkt – Krisen i Mellanöstern – Flerfamiljshus träffat av drönare i Beirut - Dagens Nyheter
+- KARL RYDÅ: Hon har skrivit under Liberalernas dödsdom - UNT
+- Efter Buschs besked: Allt är oklart om effektavgifterna - Dagens Nyheter
+- Libanon: Flera döda i israelisk attack mot by - GP
 - Rysk befälhavare på bordat skuggfartyg misstänks för brott - Hufvudstadsbladet
-- En person hittad död i vattnet – polis misstänker inte brott - SVT Nyheter
-- Krav på införande av effektavgifter stoppas - Regeringen.se
 - Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
-- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- DN Direkt – Krav på stopp för alla tonårsutvisningar fick nej - Dagens Nyheter
-- Man död i samband med handräckning i Vänersborg - SVT Nyheter
-- Efter massiva kritiken – Stockholm öppnar för snöröjning i egen regi - Dagens Nyheter
-- Spekulationer kring Khameneis hälsa efter uttalande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
+- Veterinärpriserna stiger – och hålls dolda - Sala Allehanda
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
+- Larmet: Anpassade skolor har blivit måltavlor för kriminella nätverk - Aftonbladet
+- Jakt, rovdjur och landsbygd i fokus i riksdagsdebatt - Jakt & Jägare
+- USA: Sex döda efter flygkrasch – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kuba bekräftar: Vi har pratat med USA - Västerbottens-Kuriren
 - Minst fyra amerikaner döda i krasch i Irak - Hufvudstadsbladet
-- ”Min far var en massmördare som aldrig erkände sin skuld” - Dagens Nyheter
+- Stora ukrainska framgångar i skuggan av Irankriget - Omni
 - Tyskt larm: Iran-kriget drabbar kemisk industri - Västerbottens-Kuriren
-- Budkrig i innerstan – ny drömgräns passerad - SvD
 - Rausing efter köpet i EQT: ”Hyser stor tilltro” - Börskollen
 - Dags för ny midnattsräd mot Kinnevik - Affärsvärlden
+- Budkrig i innerstan – ny drömgräns passerad - SvD
 - Har förbryllat astronomer i årtionden: Vår galax kan flyta runt i något enormt - Illustrerad Vetenskap
 - Google Maps får sin största uppgradering på länge - Omni
 
@@ -29,9 +29,10 @@ _Updated: 2026-03-13 15:39_
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Svensk ekonomi i återhämtning men stor global osäkerhet - Regeringen.se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,13 +41,12 @@ _Updated: 2026-03-13 15:39_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - Samsung Global Newsroom
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -122,17 +122,17 @@ _Updated: 2026-03-13 15:39_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists 2024 - Mynewsdesk
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -143,9 +143,9 @@ _Updated: 2026-03-13 15:39_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -154,10 +154,10 @@ _Updated: 2026-03-13 15:39_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
