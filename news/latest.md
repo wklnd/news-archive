@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-13 01:57_
+_Updated: 2026-03-13 05:16_
 
-- Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US - Al Jazeera
-- Old Dominion University shooting that killed 1 being investigated as terrorism; gunman was previously convicted for ISIS support - CBS News
-- Live updates: Iran threatens energy infrastructure as Middle East conflict roils global economy - CNN
-- Rescue effort under way as US military refueling plane crashes in Iraq - The Guardian
-- Tracking the wave of ship attacks that has choked off Strait of Hormuz - BBC
-- The Senate passed its first major housing bill since the subprime mortgage crisis. Can it actually become law? - Yahoo Finance
-- Washington state lawmakers pass ‘millionaire’s tax’ - Politico
-- Pentagon: First week of Iran war cost about $11B - Politico
-- Calif. law enforcement responds to 'unsubstantiated' report of Iran drone strike - SFGATE
+- FBI: Attack at Michigan synagogue was a 'targeted act of violence against the Jewish community' - AP News
+- Live Updates: Iran war paralyzes oil trade, U.S. military plane crashes in Iraq - CBS News
+- One dead and two injured in Virginia university shooting - BBC
+- Senate passes bipartisan housing bill targeting large investors and easing regulations - NPR
+- Newsom says no imminent threat to California of possible Iran drone attack; White House rejects reports - ABC7 Los Angeles
+- Democrats ask Pentagon about Iran school strike and role of AI - NBC News
+- Democrats are trouncing Republicans in state elections since Trump took office - Politico
+- Florida Republicans Pass Bill Requiring Proof of Citizenship to Vote - The New York Times
 - Judges say Trump’s attacks are fueling threats to their safety - Politico
-- What it will mean for the economy if the Strait of Hormuz stays closed - Axios
-- Iran War Causing Largest Ever Oil Disruption, I.E.A. Says - The New York Times
-- Conservative Euphoria Hits Chile as Right Surges in Latin America - The New York Times
-- Iran war: What is happening on day 13 of US-Israel attacks? - Al Jazeera
-- Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief - Bloomberg.com
-- U.S. Mortgage Rates Rise, Undercutting Housing Affordability Push - The New York Times - The New York Times
-- Live Nation Gets To Keep Its Monopoly Thanks To Trump’s Department Of Justice - Defector
-- Atlassian follows Block’s footsteps and cuts staff in the name of AI - TechCrunch
-- Google Maps Gets Chatty With a New Gemini-Powered Interface - WIRED
+- Trump bragged about low gas prices. The Iran conflict has him doing an about-face - AP News
+- Iran vows to fight on in first message issued in name of Mojtaba Khamenei - The Guardian
+- Fear of Iranian mines in the Strait of Hormuz could further slow the flow of oil - NPR
+- Trump to Target Forced Labor in Global Tariff Scheme - The New York Times
+- Both sides trade strikes and threats as the Iran war approaches the two-week mark - Reuters
+- Trump and Iran Strike Defiant Tone as Oil Markets See Little Relief - Bloomberg
+- Iran war is the largest oil supply disruption in history, report finds - Politico
+- Fertilizer Stocks Jump With Shipments Stuck at the Strait of Hormuz - WSJ
+- U.S. Mortgage Rates Rise, Undercutting Housing Affordability Push - The New York Times
+- Google Maps Adds Gemini AI-Powered 'Ask Maps' Feature and 3D Immersive Navigation - MacRumors
 - Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now - The Verge
