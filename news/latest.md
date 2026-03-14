@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-14 21:54_
+_Updated: 2026-03-14 22:58_
 
-- Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade - The New York Times
+- Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post
 - Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-- How Iran Blocking the Strait of Hormuz Affects the U.S. - FactCheck.org
-- Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting - The New York Times
+- Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times
+- Trump calls on UK to send warships to keep strait of Hormuz open - The Guardian
+- More US Marines and warships being moved to Middle East, reports say - BBC
 - House GOP leadership silent as more members post anti-Muslim statements - NPR
-- Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News
 - A truck rammed a Michigan synagogue with more than a hundred children inside. Here’s what we know - CNN
-- US airports ask for donations for unpaid TSA staff amid partial government shutdown - The Guardian
-- Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - The Seattle Times
+- Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - AP News
+- More long lines expected at Austin airport this weekend amid SXSW, TSA shutdown - Austin American-Statesman
 - Senate Republicans worry they’re losing ground in the midterms - Politico
-- After a renovation, Pope Leo XIV moves into the papal apartment eschewed by Pope Francis - abcnews.com
+- Pope Leo takes possession of apartment in Apostolic Palace - Vatican News
 - Five killed in Russian air attacks on Ukraine - Reuters
-- Jürgen Habermas, influential German philosopher, dies at 96 - AP News
-- Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says - NPR
+- Jürgen Habermas Dies at 96; One of Postwar Germany’s Most Influential Thinkers - The New York Times
+- Israel threatens to strike ambulances in Lebanon in Hezbollah fighting - Reuters
 - How Jeff Bezos Upended The Washington Post - The New York Times
-- Panic is slowly gripping the stock market. Expect the selling to pick up next week. - MarketWatch
-- Meta Is Weighing Major Layoffs As It Pours Billions Into AI - Business Insider
+- Meta reportedly considering layoffs that could affect 20% of the company - TechCrunch
 - Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune
-- Apple MacBook Neo emerges as company’s most repairable laptop in more than a decade - Reuters
-- Apple hosts 50th anniversary celebrations around the world - Apple
+- Construction finishes on a major offshore wind farm, the first during Trump’s tenure - AP News
+- Apple to Host 50th Anniversary Celebrations Around the World - MacRumors
+- A nasty Windows 11 bug is causing the C drive to become inaccessible in select devices, says Microsoft - XDA
