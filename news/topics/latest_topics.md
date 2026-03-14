@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 13:47_
+_Updated: 2026-03-14 15:27_
 
 ## Top Stories
 
@@ -9,21 +9,21 @@ _Updated: 2026-03-14 13:47_
 - Källor: Israel planerar stor markinvasion i Libanon - Västerbottens-Kuriren
 - Dödssiffran stiger i Kiev efter nattens attacker - GP
 - Grävde åt kommunen på egen mark – blev polisanmäld - GP
-- Direkt – Krisen i Mellanöstern – Källor: Attack mot ambassad i Irak - Dagens Nyheter
-- Polisen bekräftar iranska hot: Kan bli attackerade - Västerbottens-Kuriren
+- Rysk befälhavare på bordat fartyg har anhållits - GP
 - DN Direkt – Ryssland: ”Magdalena Andersson, vem är du” - Dagens Nyheter
 - Han vill rädda Stockholms nattliv – men behöver det räddas? - Dagens Nyheter
-- Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
-- Explosion vid judisk skola i Amsterdam - GP
+- Tunga kravet på S: ”Skämsfaktor” - Expressen
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
+- Källor: Attack mot USA:s ambassad i Irak - Aftonbladet
+- Explosion vid judisk skola i Amsterdam - SVT Nyheter
+- USA:s belöning: 10 miljoner dollar – för information - Expressen
 - Fyra häktade för bomb vid USA:s ambassad - Aftonbladet
-- Irankriget: USA skickar landsättningsstyrka - Hufvudstadsbladet
-- Tekniska problem för Swedbank - Expressen
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
 - Det här granskas extra i din deklaration i år - SvD
+- Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
 - Olja är den senaste heta kryptotrenden - Dagens PS
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
-- Ny medarbetare hos PPDS - tidningenmonitor.se
+- Macbook Neo är lätt att reparera på egen hand - Macworld.se
 
 ## World News
 
@@ -31,6 +31,7 @@ _Updated: 2026-03-14 13:47_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -44,7 +45,6 @@ _Updated: 2026-03-14 13:47_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -65,11 +65,11 @@ _Updated: 2026-03-14 13:47_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -96,24 +96,24 @@ _Updated: 2026-03-14 13:47_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Översikt - European Commission
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
@@ -123,6 +123,7 @@ _Updated: 2026-03-14 13:47_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
@@ -134,29 +135,28 @@ _Updated: 2026-03-14 13:47_
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
