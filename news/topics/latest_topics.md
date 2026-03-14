@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 09:11_
+_Updated: 2026-03-14 09:55_
 
 ## Top Stories
 
-- Iran: Ingen oljeinfrastruktur skadad på Khargön – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Dödliga ryska attacker i Ukraina - Dagens Nyheter
+- USA har anfallit ”förbjudna ön” – Trumps nya hot - Dagens Nyheter
+- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
+- Viktigt att ta kritiken mot Vivab på allvar - Hallands Nyheter
 - LUF-ledaren: Simona Mohamsson borde lämna - GP
 - Oljeblockaden kväver Kuba: ”Regimen måste ge upp. Det finns inget annat sätt”. - Dagens Nyheter
-- Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- Ryssland följer utveckling kring bordade fartyg - Västerbottens-Kuriren
+- Källor: USA skickar fler fartyg och soldater – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Polisen bekräftar iranska hot: Kan bli attackerade - Västerbottens-Kuriren
-- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Polis har avlossat skott – fyra personer gripna - GP
-- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
-- Libanon: Flera döda i attack mot vårdmottagning - Västerbottens-Kuriren
-- Irans ”robotstäder” hemligt vapen mot anfallare - Västerbottens-Kuriren
+- Expert: Riskfylld operation att borda ett fartyg - Dagens Nyheter
+- Han vill rädda Stockholms nattliv – men behöver det räddas? - Dagens Nyheter
+- Krav på införande av effektavgifter stoppas - Regeringen.se
 - Explosion vid judisk skola i Amsterdam - Västerbottens-Kuriren
-- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
-- Dags att deklarera – det här granskas extra i år - SvD
-- Så blir nya elbilspremien – allt du behöver veta för att göra klipp - Dagens Nyheter
+- Irans ”robotstäder” hemligt vapen mot anfallare - Nerikes Allehanda
+- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
+- Fyra häktade för bomb vid USA:s ambassad - Folkbladet
+- Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
+- Ledare: Med Miljöpartiets elbil till alla stannar Sverige - NWT
+- Prognosen: Riksbanken låter räntan ligga i mars - Fastighetsnytt
 - Dollarn når milstolpe – guldet faller: ”Är inte som 70-talskrisen” - EFN
-- Bästa nya och begagnade bilarna för nya elbilspremien - Dagens Nyheter
 - Så får du maximal nytta av Windows nya Start-meny - PC för Alla
 - Personlighetsdraget har stark koppling till ondska - Aftonbladet
 
@@ -34,18 +34,18 @@ _Updated: 2026-03-14 09:11_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Axelera AI tar in över 250 miljoner dollar för global expansion inom edge-AI - Evertiq
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -54,22 +54,22 @@ _Updated: 2026-03-14 09:11_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
