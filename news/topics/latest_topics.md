@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 21:48_
+_Updated: 2026-03-14 22:52_
 
 ## Top Stories
 
 - Upplagt för strid om Mohamssons förslag på landsmötet - Dagens Nyheter
 - Trump: Öppnar sundet ”på ett eller annat sätt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
-- Trumps två svåra val för att säkra Hormuzsundet - Dagens Nyheter
 - FN-experter oroade – över uppsagda fackbasen i Göteborgs hamn - GP
-- Direkt – Krisen i Mellanöstern – USA:s ambassad i Irak skadad i attack - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Palestinier död i bosättarattack på Västbanken - Dagens Nyheter
+- Trumps två svåra val för att säkra Hormuzsundet - Dagens Nyheter
+- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
+- Nu gör Sverige mer än står emot - SvD
+- Busch talade under Irandemonstration - Expressen
+- Direkt – Krisen i Mellanöstern – Amerikanska medborgare i Irak uppmanas lämna landet - Dagens Nyheter
+- Dödssiffran stiger i Kiev efter nattens attacker - GP
+- Hegseth: Khamenei troligen vanställd - Aftonbladet
 - Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
-- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
-- USA:s ambassads uppmaning: Lämna Irak – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryssland retar sig på Stubb - Hufvudstadsbladet
+- Dystert facit: Oljepriset över 100 dollar sänder historisk varningssignal – "ett trippelhot" - Börskollen
 - Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
 - E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
-- Laholmaren Göran om elbilspremien: "Nu är tillfället här" - laholmstidning.se
 - I veckan släpps ”Imperfect Women” – ny lovande thrillerserie med Joel Kinnaman - Filmtopp
 - Yellowstone-stjärnan varnar för missbruk av AI - Ljud & Bild
+- PEGI lägger till markeringar för lootlådor och liknande mekaniker - Nordichardware
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
-- Asus-höjdare: Macbook Neo är en chock för pc-tillverkarna - PC för Alla
-- Motörheads gitarrist Phil Campbell är död - Omni
-- Fanny Svärd om ”Love is blind Sverige”: Vilken gåva att våra män är mjuka - Expressen
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- GT World Challenge America, Sebring International Raceway på inatt 03:55 - TV.nu
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -37,16 +36,17 @@ _Updated: 2026-03-14 21:48_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Örebronyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -59,6 +59,7 @@ _Updated: 2026-03-14 21:48_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar
 - Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -69,7 +70,6 @@ _Updated: 2026-03-14 21:48_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -79,16 +79,16 @@ _Updated: 2026-03-14 21:48_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -144,8 +144,8 @@ _Updated: 2026-03-14 21:48_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -153,10 +153,10 @@ _Updated: 2026-03-14 21:48_
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
