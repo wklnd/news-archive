@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 12:54_
+_Updated: 2026-03-14 13:47_
 
 ## Top Stories
 
-- MP: Då fäller vi Anderssons S-regering – Senaste nytt om valet 2026 - SVT Nyheter
-- USA har bombat viktiga oljeön: ”Irans kronjuvel” - Västerbottens-Kuriren
-- Uppgifter: Israel planerar markoffensiv i Libanon - GP
-- DN Direkt – Dödliga ryska attacker i Ukraina - Dagens Nyheter
+- DN Direkt – Malmöliberal hoppar av efter Mohamssons uppgörelse med SD - Dagens Nyheter
+- Irans varning om Trump ”begår misstag” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Källor: Israel planerar stor markinvasion i Libanon - Västerbottens-Kuriren
+- Dödssiffran stiger i Kiev efter nattens attacker - GP
 - Grävde åt kommunen på egen mark – blev polisanmäld - GP
-- Lodjur får jagas i norr igen - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Källor: Attack mot ambassad i Irak - Dagens Nyheter
 - Polisen bekräftar iranska hot: Kan bli attackerade - Västerbottens-Kuriren
 - DN Direkt – Ryssland: ”Magdalena Andersson, vem är du” - Dagens Nyheter
-- Expert om bordningarna: En tydlig signal från Sverige - Omni
 - Han vill rädda Stockholms nattliv – men behöver det räddas? - Dagens Nyheter
+- Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
 - Explosion vid judisk skola i Amsterdam - GP
-- DN Direkt – Israeliskt bombanfall möjligt motiv till dåd vid synagoga i USA - Dagens Nyheter
-- Källor: Attack mot USA:s ambassad i Irak - Västerbottens-Kuriren
-- Tiotal ballistiska robotar från Nordkorea - Aftonbladet
+- Fyra häktade för bomb vid USA:s ambassad - Aftonbladet
+- Irankriget: USA skickar landsättningsstyrka - Hufvudstadsbladet
+- Tekniska problem för Swedbank - Expressen
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
 - Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
-- Så blir nya elbilspremien – allt du behöver veta för att göra klipp - Dagens Nyheter
-- Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
+- Det här granskas extra i din deklaration i år - SvD
+- Olja är den senaste heta kryptotrenden - Dagens PS
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
 - Ny medarbetare hos PPDS - tidningenmonitor.se
 
@@ -74,22 +74,21 @@ _Updated: 2026-03-14 12:54_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -143,21 +142,21 @@ _Updated: 2026-03-14 12:54_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
-- Så ska det australiensiska jordbruket bli hållbart - ATL
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
