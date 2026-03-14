@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-14 23:56_
+_Updated: 2026-03-15 00:59_
 
-- Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post
-- Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-- Trump urges other nations to help secure shipping through Strait of Hormuz - Reuters
-- Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times
-- More US Marines and warships being moved to Middle East, reports say - BBC
-- Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News
-- Trump administration orders restart of oil drilling along California coast amid Iran war - Los Angeles Times
-- Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - AP News
-- FBI raids Dearborn Heights home tied to Michigan synagogue attack; neighbors shocked - MLive.com
-- Trump Proposes New White House Visitor Screening Center - The New York Times
-- Iran pressuring women footballers who defected in Australia to return - ایران اینترنشنال
+- Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade - The New York Times
+- US Embassy in Baghdad, Iraq attacked with missile that hits helipad - Al Jazeera
+- Protesters in Cuba attack Communist Party office in rare riot over blackouts - Reuters
+- FCC chair threatens to throttle news broadcasts over ‘hoaxes’ about Iran war - The Guardian
+- A Visual Guide to How Iran Is Holding the Strait of Hormuz Hostage - WSJ
+- Security guard injured in Michigan synagogue car ramming ID’d as longtime police officer - New York Post
+- Trump administration orders restart of California offshore oil operations - The Hill
+- Trump seeks to replace White House visitor screening center with underground facility - CNN
+- How two teens from wealthy Pennsylvania suburbs became suspects in an attempted ‘ISIS-inspired’ attack in New York City - NBC News
+- Ex-Dem senator admits to affair with former bodyguard in explosive court filing: 'Romantic and Intimate' - Fox News
 - Pope Leo takes possession of apartment in Apostolic Palace - Vatican News
-- Jürgen Habermas, German philosopher and sociologist, dies aged 96 - The Guardian
+- Jürgen Habermas, influential German philosopher, dies at 96 - AP News
+- Key UAE Port Suspends Oil Loadings After Drone Attack, Fire - Bloomberg.com
 - Six killed in Russian air attacks on Ukraine - Reuters
-- How Jeff Bezos Upended The Washington Post - The New York Times
+- How Jeff Bezos Upended The Washington Post - The New York Times - The New York Times
 - Meta reportedly considering layoffs that could affect 20% of the company - TechCrunch
-- Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune
 - Construction finishes on a major offshore wind farm, the first during Trump’s tenure - AP News
-- Apple MacBook Neo emerges as company’s most repairable laptop in more than a decade - Reuters
+- The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising - CNBC
+- Meta pulling end-to-end encryption on Instagram DMs - Mashable
 - The 7430U CPU scandal could spread: Another manufacturer under suspicion, ODM comes into the spotlight - Notebookcheck
