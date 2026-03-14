@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 05:12_
+_Updated: 2026-03-14 06:57_
 
 ## Top Stories
 
-- Dödliga attacker i Ukrainakriget - Västerbottens-Kuriren
+- Trump: USA attackerar iransk ö – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Polis har avlossat skott – fyra personer gripna - GP
-- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
-- När bebisen inte vill vänta: ”Jag föder hellre i bilen än på sjukhus” - Smålandsposten
-- Order om att mörda Trump – mystiska svaret - Aftonbladet
+- Källor: Attack mot USA:s ambassad i Irak - Västerbottens-Kuriren
 - DN Direkt – L och SD överens om att sitta i regering tillsammans - Dagens Nyheter
-- Expert: Riskfylld operation att borda ett fartyg - Dagens Nyheter
-- Kvinna från Eksjö allvarligt skadad efter fall på Mount Fuji i Japan - SVT Nyheter
+- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
+- Ryske befälhavaren på tankfartyget anhållen - SVT Nyheter
 - Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
 - Advokat döms till långt fängelsestraff - Dagens industri
-- Trump: Enorm bombräd mot Irans oljeö - GP
-- Trump förstör iranska militäranläggningar på Kharg-ön; skonar oljeterminaler - Investing.com Sverige
+- Svensk kvinna svårt skadad på Fuji - TV4 Nyheterna
+- Kristerssons svar: ”Det är inget konstigt i sig” - SvD
+- DN Direkt – Dödliga ryska attacker i Ukraina - Dagens Nyheter
 - Fyra häktade för bomb vid USA:s ambassad - Västerbottens-Kuriren
-- Erdogan: Turkiet kommer inte dras in i kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Hegseth: Khamenei troligen vanställd - Västerbottens-Kuriren
 - Effektavgiften pausas – så påverkas kunder hos Vänerenergi och Ellevio - Mariestads-Tidningen
 - Stockholmsbörsen öppnar på rött – verkstadsbolag i botten - EFN
 - Utredare: Reduktionsplikten kan behöva höjas - Sydsvenskan
@@ -55,20 +55,20 @@ _Updated: 2026-03-14 05:12_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
-- AI-modell underlättar tidig upptäckt av autism - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -77,7 +77,7 @@ _Updated: 2026-03-14 05:12_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -85,11 +85,11 @@ _Updated: 2026-03-14 05:12_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -141,13 +141,13 @@ _Updated: 2026-03-14 05:12_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
