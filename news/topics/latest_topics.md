@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 23:49_
+_Updated: 2026-03-15 00:53_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trumps nya vädjan: ”Borde vara en laginsats” - Dagens Nyheter
+- Trump uppmanar andra länder att säkra Hormuz - Hufvudstadsbladet
 - Kritiker mobiliserar – hon nämns som ny L-ledare - GP
-- Ukraina pekas ut som mål av Iran - SVT Nyheter
-- FN-experter oroade – över uppsagda fackbasen i Göteborgs hamn - GP
-- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
+- Iranska ilskan mot Ukraina: Legitimt mål - Expressen
+- 28 år och ultraliberal – Louis Sarkozy utmanar på Franska rivieran - Dagens Nyheter
+- Trumps två svåra val för att säkra Hormuzsundet - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Amerikanska medborgare i Irak uppmanas lämna landet - Dagens Nyheter
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Nu gör Sverige mer än står emot - SvD
 - Regionbuss i diket – föraren brottsmisstänkt - Sydsvenskan
 - Busch talade under Irandemonstration - Expressen
-- Erik de la Reguera: Kommer högern att släppa fram Le Pen? - Dagens Nyheter
-- Palestinier död i bosättarattack på Västbanken - Aftonbladet
+- Palestinier död i bosättarattack på Västbanken - GP
 - Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
-- Trotsar USA – mitt i bombandet - Expressen
+- Hegseth: Khamenei troligen vanställd - Aftonbladet
 - Dystert facit: Oljepriset över 100 dollar sänder historisk varningssignal – "ett trippelhot" - Börskollen
-- Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
+- ”Aktier, krypto och reseavdrag – undvik vanligaste missarna” - Omni Ekonomi
+- Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
 - Tung förlust för Borlänge BMK mot Komet - Borlänge Tidning
 - Ännu fler Steam-demon! Bastard Cops, Space Bugs och indonesisk skräck (Del IV) - FZ.se
 - I veckan släpps ”Imperfect Women” – ny lovande thrillerserie med Joel Kinnaman - Filmtopp
@@ -28,6 +28,7 @@ _Updated: 2026-03-14 23:49_
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -36,17 +37,16 @@ _Updated: 2026-03-14 23:49_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Svensk ekonomi i återhämtning men stor global osäkerhet - Örebronyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -60,15 +60,15 @@ _Updated: 2026-03-14 23:49_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar
-- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -79,8 +79,8 @@ _Updated: 2026-03-14 23:49_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -122,17 +122,17 @@ _Updated: 2026-03-14 23:49_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -142,21 +142,21 @@ _Updated: 2026-03-14 23:49_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
