@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 11:55_
+_Updated: 2026-03-14 12:54_
 
 ## Top Stories
 
-- USA har bombat viktiga oljeön: ”Irans kronjuvel” - Västerbottens-Kuriren
 - MP: Då fäller vi Anderssons S-regering – Senaste nytt om valet 2026 - SVT Nyheter
-- Källor: Israel planerar stor markinvasion i Libanon - GP
+- USA har bombat viktiga oljeön: ”Irans kronjuvel” - Västerbottens-Kuriren
+- Uppgifter: Israel planerar markoffensiv i Libanon - GP
 - DN Direkt – Dödliga ryska attacker i Ukraina - Dagens Nyheter
-- MP: Då fäller vi Anderssons S-regering - Västerbottens-Kuriren
-- Källor: USA skickar landsättningsstyrka till Mellanöstern - Dagens Nyheter
+- Grävde åt kommunen på egen mark – blev polisanmäld - GP
+- Lodjur får jagas i norr igen - Västerbottens-Kuriren
 - Polisen bekräftar iranska hot: Kan bli attackerade - Västerbottens-Kuriren
+- DN Direkt – Ryssland: ”Magdalena Andersson, vem är du” - Dagens Nyheter
+- Expert om bordningarna: En tydlig signal från Sverige - Omni
 - Han vill rädda Stockholms nattliv – men behöver det räddas? - Dagens Nyheter
-- Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
-- Krav på införande av effektavgifter stoppas - Regeringen.se
-- Explosion vid judisk skola i Amsterdam - Västerbottens-Kuriren
-- Källa: Iran överväger villkor för att tillåta viss export - Omni
-- Fyra häktade för bomb vid USA:s ambassad - Aftonbladet
-- Greta Thunberg hyllar Kuba – kallar Trump för ”pedofil” - Bulletin
-- Det här granskas extra i din deklaration i år - SvD
-- Källor: Meta vill sparka var femte anställd - Dagens industri
+- Explosion vid judisk skola i Amsterdam - GP
+- DN Direkt – Israeliskt bombanfall möjligt motiv till dåd vid synagoga i USA - Dagens Nyheter
+- Källor: Attack mot USA:s ambassad i Irak - Västerbottens-Kuriren
+- Tiotal ballistiska robotar från Nordkorea - Aftonbladet
+- Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
+- Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
 - Så blir nya elbilspremien – allt du behöver veta för att göra klipp - Dagens Nyheter
-- Bästa nya och begagnade bilarna för nya elbilspremien - Dagens Nyheter
+- Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
+- Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
 - Ny medarbetare hos PPDS - tidningenmonitor.se
-- Kraftpaket från ASUS - tidningenmonitor.se
 
 ## World News
 
@@ -33,18 +33,18 @@ _Updated: 2026-03-14 11:55_
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -96,15 +96,14 @@ _Updated: 2026-03-14 11:55_
 ## Health
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vi presenterar HealthBench - OpenAI
 - Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Vi presenterar HealthBench - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
@@ -115,6 +114,7 @@ _Updated: 2026-03-14 11:55_
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
@@ -124,20 +124,20 @@ _Updated: 2026-03-14 11:55_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
