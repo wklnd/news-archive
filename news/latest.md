@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-14 21:06_
+_Updated: 2026-03-14 21:54_
 
-- Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post
+- Iran War Live Updates: Iran Defies Trump’s Threats Over Strait of Hormuz Blockade - The New York Times
 - Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-- Videos and satellite images show Iran's drone army puncturing U.S. and allied defenses - NBC News
+- How Iran Blocking the Strait of Hormuz Affects the U.S. - FactCheck.org
+- Judge Rules Lawmaker Must Be Allowed to Join Kennedy Center Board Meeting - The New York Times
 - House GOP leadership silent as more members post anti-Muslim statements - NPR
-- Security guard injured in Michigan synagogue car ramming ID’d as longtime police officer - New York Post
 - Winter storm: Twin Cities set for 12-18 inches of snow, blizzard warnings issued - Bring Me The News
-- Ex-Dem senator admits to affair with former bodyguard in explosive court filing: 'Romantic and Intimate' - Fox News
-- TSA workers grapple with loss of first paycheck: ‘I don’t want to depend on anybody else’ - CNN
+- A truck rammed a Michigan synagogue with more than a hundred children inside. Here’s what we know - CNN
+- US airports ask for donations for unpaid TSA staff amid partial government shutdown - The Guardian
+- Sinema admits a romance with her security guard as she fights ex-wife’s lawsuit - The Seattle Times
 - Senate Republicans worry they’re losing ground in the midterms - Politico
-- US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - AP News
+- After a renovation, Pope Leo XIV moves into the papal apartment eschewed by Pope Francis - abcnews.com
 - Five killed in Russian air attacks on Ukraine - Reuters
 - Jürgen Habermas, influential German philosopher, dies at 96 - AP News
-- Pete Hegseth claims Iranian supreme leader Mojtaba Khamenei is ‘wounded and likely disfigured’ - The Independent
-- Behind the Bombs, New Details Emerge on Iran’s Infiltration of Israel - Givebutter
+- Brazil’s ex-President Bolsonaro is in intensive care with pneumonia, hospital says - NPR
 - How Jeff Bezos Upended The Washington Post - The New York Times
 - Panic is slowly gripping the stock market. Expect the selling to pick up next week. - MarketWatch
-- Helpful or harmful? How to vet tax advice from social media - NPR
-- A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable? - CNBC
+- Meta Is Weighing Major Layoffs As It Pours Billions Into AI - Business Insider
+- Ray Dalio: I've studied 500 years of history and fear we're entering the most dangerous phase of the 'Big Cycle' - Fortune
 - Apple MacBook Neo emerges as company’s most repairable laptop in more than a decade - Reuters
 - Apple hosts 50th anniversary celebrations around the world - Apple
