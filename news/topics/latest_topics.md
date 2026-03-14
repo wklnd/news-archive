@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 18:57_
+_Updated: 2026-03-14 19:52_
 
 ## Top Stories
 
-- Upplagt för strid om Mohamssons förslag på landsmötet - Dagens Nyheter
-- Iran: Ingen oljeinfrastruktur skadad på Khargön – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dödssiffran stiger i Kiev efter nattens attacker - Hufvudstadsbladet
-- Uppgifter: Israel planerar markoffensiv i Libanon - GP
-- Viktigt att ta kritiken mot Vivab på allvar - Hallands Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Flera länder kommer skicka krigsfartyg till Hormuz - Dagens Nyheter
+- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
+- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
 - Ryssland följer utveckling kring bordade fartyg - Västerbottens-Kuriren
+- Viktigt att ta kritiken mot Vivab på allvar - Hallands Nyheter
 - Krav på införande av effektavgifter stoppas - Regeringen.se
+- VIKTOR BARTH-KRON: Kärnvapen är farliga leksaker i debatten - Expressen
 - Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
-- Explosion vid judisk skola i Amsterdam - Aftonbladet
+- Expert: Ny flyktingvåg hotar efter kriget i Iran - Aftonbladet
 - USA:s belöning: 10 miljoner dollar – för information - Expressen
-- Bråk på matvarubutik – två till sjukhus - Aftonbladet
+- Fyra häktade för bomb vid USA:s ambassad - Aftonbladet
 - Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
 - Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
 - Olja är den senaste heta kryptotrenden - Dagens PS
-- E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
+- Blockaden mot Nord Armering hävd – nio timmar räckte - Byggnadsarbetaren
+- I veckan släpps ”Imperfect Women” – ny lovande thrillerserie med Joel Kinnaman - Filmtopp
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
+- Kommunen förbjuder ansiktsmask med Disney-tema – olämplig för barn - nkp.se
 - Asus-höjdare: Macbook Neo är en chock för pc-tillverkarna - PC för Alla
-- Galaxy S26 får ny Qi2-batteribank, dock fortfarande utan inbyggda magneter - Teknikveckan
-- Tidigare EVE-utvecklare bygger en samhällssimulator. Nytt MMO liknar Sims och RimWorld. - feber.se
-- Brutala hjärtekrossen i svenska Netflix-succén - Expressen
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-14 18:57_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Örebronyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -103,17 +103,17 @@ _Updated: 2026-03-14 18:57_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Översikt - European Commission
 - Vi presenterar HealthBench - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 
 ## Science
 
