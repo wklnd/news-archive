@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 16:00_
+_Updated: 2026-03-14 16:54_
 
 ## Top Stories
 
-- DN Direkt – Malmöliberal hoppar av efter Mohamssons uppgörelse med SD - Dagens Nyheter
+- Upplagt för strid om Mohamssons förslag på landsmötet - Dagens Nyheter
 - USA har bombat viktiga oljeön: ”Irans kronjuvel” - Västerbottens-Kuriren
+- Dödssiffran stiger i Kiev efter nattens attacker - GP
 - Macron vill medla mellan Israel och Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källor: Israel planerar stor markinvasion i Libanon - GP
-- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
-- DN Direkt – Iran vädjar till Fifa: ”Flytta oss till Mexiko” - Dagens Nyheter
+- Trump varnades om Hormuz – anföll ändå - SvD
+- Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
+- VIKTOR BARTH-KRON: Kärnvapen är farliga leksaker i debatten - Expressen
 - Kustbevakningen bordar ytterligare misstänkt skuggfartyg - SVT Nyheter
 - Krav på införande av effektavgifter stoppas - Regeringen.se
-- DN Direkt – Ryssland: ”Magdalena Andersson, vem är du” - Dagens Nyheter
-- Han vill rädda Stockholms nattliv – men behöver det räddas? - Dagens Nyheter
-- Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
-- Källor: Attack mot USA:s ambassad i Irak - Aftonbladet
 - Explosion vid judisk skola i Amsterdam - SVT Nyheter
-- Expert simulerade stängning av sundet – fick ödesdigra resultat - Dagens PS
+- ”Irans Versailles” skadat – Unesco oroat - Västerbottens-Kuriren
+- Hegseth: Khamenei troligen vanställd - Aftonbladet
+- Bråk i matbutik i Malmö – två till sjukhus - Expressen
 - Det här granskas extra i din deklaration i år - SvD
 - Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
-- Så blir nya elbilspremien – allt du behöver veta för att göra klipp - Dagens Nyheter
-- Olja är den senaste heta kryptotrenden - Dagens PS
+- Ledare: Med Miljöpartiets elbil till alla stannar Sverige - NWT
+- Kritiken från handlare växer mot IPO-aktuella Prisjakt - Affärsvärlden
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
-- Macbook Neo är lätt att reparera på egen hand - Macworld.se
+- Asus-höjdare: Macbook Neo är en chock för pc-tillverkarna - PC för Alla
+- Tidigare EVE-utvecklare bygger en samhällssimulator. Nytt MMO liknar Sims och RimWorld. - feber.se
 
 ## World News
 
@@ -121,20 +121,20 @@ _Updated: 2026-03-14 16:00_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - 5 myter om öppen vetenskap - Läkartidningen
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 
