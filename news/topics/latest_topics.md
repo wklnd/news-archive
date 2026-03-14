@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 08:05_
+_Updated: 2026-03-14 09:11_
 
 ## Top Stories
 
 - Iran: Ingen oljeinfrastruktur skadad på Khargön – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- LUF-ledaren: Simona Mohamsson borde lämna - GP
-- Viktigt att ta kritiken mot Vivab på allvar - Hallands Nyheter
-- Polis avlossade skott mot bil i Göteborg - Aftonbladet
-- MP:s löfte: Då fäller vi Magdalena Andersson - SvD
-- Oljeblockaden kväver Kuba: ”Regimen måste ge upp. Det finns inget annat sätt”. - Dagens Nyheter
-- Prästen levererar mat till sjömännen på skuggfartyget - Dagens Nyheter
-- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
-- Kristerssons svar: ”Det är inget konstigt i sig” - SvD
-- Advokat döms till långt fängelsestraff - Dagens industri
-- Irans ”robotstäder” hemligt vapen mot anfallare - Nerikes Allehanda
 - DN Direkt – Dödliga ryska attacker i Ukraina - Dagens Nyheter
-- FN vädjar om humanitärt storstöd till Libanon - Hufvudstadsbladet
-- Fyra häktade för bomb vid USA:s ambassad - Västerbottens-Kuriren
+- LUF-ledaren: Simona Mohamsson borde lämna - GP
+- Oljeblockaden kväver Kuba: ”Regimen måste ge upp. Det finns inget annat sätt”. - Dagens Nyheter
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- Utredare: Reduktionsplikten kan behöva höjas - Sydsvenskan
-- Matmomsen halveras – handlarna lovar sänka - Senioren
-- Byggnads varslar om blockad mot Nord Armering på Stegra i Boden - svenskbyggtidning -
+- Ryssland följer utveckling kring bordade fartyg - Västerbottens-Kuriren
+- Polisen bekräftar iranska hot: Kan bli attackerade - Västerbottens-Kuriren
+- Sveriges sista oskyddade naturskogar kan vara borta om 25 år - Dagens Nyheter
+- Polis har avlossat skott – fyra personer gripna - GP
+- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
+- Libanon: Flera döda i attack mot vårdmottagning - Västerbottens-Kuriren
+- Irans ”robotstäder” hemligt vapen mot anfallare - Västerbottens-Kuriren
+- Explosion vid judisk skola i Amsterdam - Västerbottens-Kuriren
+- Adam Cwejman: Iran håller världen gisslan i Hormuzsundet - GP
+- Dags att deklarera – det här granskas extra i år - SvD
+- Så blir nya elbilspremien – allt du behöver veta för att göra klipp - Dagens Nyheter
+- Dollarn når milstolpe – guldet faller: ”Är inte som 70-talskrisen” - EFN
+- Bästa nya och begagnade bilarna för nya elbilspremien - Dagens Nyheter
+- Så får du maximal nytta av Windows nya Start-meny - PC för Alla
 - Personlighetsdraget har stark koppling till ondska - Aftonbladet
-- Apple har lanserat ett nytt Instagram-konto – ska komma närmare ungdomarna - Teknikveckan
 
 ## World News
 
@@ -85,11 +85,11 @@ _Updated: 2026-03-14 08:05_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
