@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 19:52_
+_Updated: 2026-03-14 21:03_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trump: Flera länder kommer skicka krigsfartyg till Hormuz - Dagens Nyheter
-- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Upplagt för strid om Mohamssons förslag på landsmötet - Dagens Nyheter
+- Trump uppmanar andra länder att säkra Hormuz - GP
+- Bordat fartyg får inte resa vidare - SvD
+- Dödssiffran i Libanon stiger – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- FN-experter oroade – över uppsagda fackbasen i Göteborgs hamn - GP
 - Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
-- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
-- Ryssland följer utveckling kring bordade fartyg - Västerbottens-Kuriren
-- Viktigt att ta kritiken mot Vivab på allvar - Hallands Nyheter
-- Krav på införande av effektavgifter stoppas - Regeringen.se
-- VIKTOR BARTH-KRON: Kärnvapen är farliga leksaker i debatten - Expressen
 - Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
+- Dödssiffran stiger i Kiev efter nattens attacker - GP
 - Expert: Ny flyktingvåg hotar efter kriget i Iran - Aftonbladet
 - USA:s belöning: 10 miljoner dollar – för information - Expressen
-- Fyra häktade för bomb vid USA:s ambassad - Aftonbladet
 - Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
-- Källor: Meta lanserar sparpaket – kan säga upp var femte anställd - Omni
-- Olja är den senaste heta kryptotrenden - Dagens PS
-- Blockaden mot Nord Armering hävd – nio timmar räckte - Byggnadsarbetaren
+- Källor: Meta vill sparka var femte anställd - Västerbottens-Kuriren
+- Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
+- E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
 - I veckan släpps ”Imperfect Women” – ny lovande thrillerserie med Joel Kinnaman - Filmtopp
+- Yellowstone-stjärnan varnar för missbruk av AI - Ljud & Bild
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
-- Kommunen förbjuder ansiktsmask med Disney-tema – olämplig för barn - nkp.se
-- Asus-höjdare: Macbook Neo är en chock för pc-tillverkarna - PC för Alla
+- Galaxy S26 får ny Qi2-batteribank, dock fortfarande utan inbyggda magneter - Teknikveckan
+- Fanny Svärd om ”Love is blind Sverige”: Vilken gåva att våra män är mjuka - Expressen
+- Gitarristen i Motörheads Phil Campbell är död – blev 64 år - GP
 
 ## World News
 
@@ -74,9 +74,9 @@ _Updated: 2026-03-14 19:52_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -87,8 +87,8 @@ _Updated: 2026-03-14 19:52_
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -118,15 +118,15 @@ _Updated: 2026-03-14 19:52_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
