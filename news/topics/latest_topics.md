@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-14 22:52_
+_Updated: 2026-03-14 23:49_
 
 ## Top Stories
 
-- Upplagt för strid om Mohamssons förslag på landsmötet - Dagens Nyheter
-- Trump: Öppnar sundet ”på ett eller annat sätt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Trumps nya vädjan: ”Borde vara en laginsats” - Dagens Nyheter
+- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Ukraina pekas ut som mål av Iran - SVT Nyheter
 - FN-experter oroade – över uppsagda fackbasen i Göteborgs hamn - GP
-- Direkt – Krisen i Mellanöstern – Palestinier död i bosättarattack på Västbanken - Dagens Nyheter
-- Trumps två svåra val för att säkra Hormuzsundet - Dagens Nyheter
 - Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
-- Nu gör Sverige mer än står emot - SvD
-- Busch talade under Irandemonstration - Expressen
 - Direkt – Krisen i Mellanöstern – Amerikanska medborgare i Irak uppmanas lämna landet - Dagens Nyheter
-- Dödssiffran stiger i Kiev efter nattens attacker - GP
-- Hegseth: Khamenei troligen vanställd - Aftonbladet
-- Trumps slips och krig i Iran – USA:s ifrågasatta bettingsajter bara växer - Dagens Nyheter
+- Nu gör Sverige mer än står emot - SvD
+- Regionbuss i diket – föraren brottsmisstänkt - Sydsvenskan
+- Busch talade under Irandemonstration - Expressen
+- Erik de la Reguera: Kommer högern att släppa fram Le Pen? - Dagens Nyheter
+- Palestinier död i bosättarattack på Västbanken - Aftonbladet
+- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
+- Trotsar USA – mitt i bombandet - Expressen
 - Dystert facit: Oljepriset över 100 dollar sänder historisk varningssignal – "ett trippelhot" - Börskollen
 - Dags att deklarera – det här granskas extra i år - TV4 Nyheterna
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
 - E-handlare flyr från Prisjakt: ”Måttet rågat” - SvD
+- Tung förlust för Borlänge BMK mot Komet - Borlänge Tidning
+- Ännu fler Steam-demon! Bastard Cops, Space Bugs och indonesisk skräck (Del IV) - FZ.se
 - I veckan släpps ”Imperfect Women” – ny lovande thrillerserie med Joel Kinnaman - Filmtopp
-- Yellowstone-stjärnan varnar för missbruk av AI - Ljud & Bild
-- PEGI lägger till markeringar för lootlådor och liknande mekaniker - Nordichardware
-- Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
 
 ## World News
 
@@ -36,7 +36,6 @@ _Updated: 2026-03-14 22:52_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -44,9 +43,10 @@ _Updated: 2026-03-14 22:52_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -95,25 +95,25 @@ _Updated: 2026-03-14 22:52_
 ## Health
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
+- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Översikt - European Commission
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 
 ## Science
 
@@ -144,13 +144,14 @@ _Updated: 2026-03-14 22:52_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -158,5 +159,4 @@ _Updated: 2026-03-14 22:52_
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
