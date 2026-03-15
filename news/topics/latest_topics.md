@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 16:02_
+_Updated: 2026-03-15 16:56_
 
 ## Top Stories
 
 - Pekas ut som möjlig ny L-ledare – duckar frågan - GP
 - Israelisk militär: Flera veckor kvar av attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Malmökvinna länsade sin demente styvfars konto på 2,8 miljoner - Sydsvenskan
-- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
 - DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
+- Japan: ”Extremt hög” ribba för krigsskepp i Hormuz - Västerbottens-Kuriren
+- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
+- Kristersson om L: Stödröstande funkar inte - Skånska Dagbladet
 - Öresundsbron öppen igen efter olycka - SVT Nyheter
 - 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
 - SD-beslut ska utredas – kan ha brutit mot regler – Senaste nytt om valet 2026 - SVT Nyheter
-- Tidigare M-strateg: L måste ta sig upp själva - Omni
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
+- Iran efter dödsryktena: Mojtaba Khamenei lever - Västerbottens-Kuriren
 - Kanada vill bryta USA-beroende – chans för Gripen - GP
 - Direkt – Kriget i Ukraina – Brand på ryskt oljeraffinaderi - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Åtta uppges dödade i Gaza - Dagens Nyheter
 - Kriget och börsen: "Ingen panik än – men snart" - Dagens PS
 - Oro för skenande elpris – väninnan ”gick i taket” - SvD
 - Kriget höjer bensinpriserna – nu märks effekterna för USA:s bilister - Börskollen
@@ -79,11 +79,11 @@ _Updated: 2026-03-15 16:02_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
@@ -118,33 +118,33 @@ _Updated: 2026-03-15 16:02_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -158,5 +158,5 @@ _Updated: 2026-03-15 16:02_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - Mjau_gåvoshop_mars - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
