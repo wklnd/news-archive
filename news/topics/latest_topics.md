@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 13:49_
+_Updated: 2026-03-15 15:29_
 
 ## Top Stories
 
 - Pekas ut som möjlig ny L-ledare – duckar frågan - GP
-- Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
-- Ryske befälhavaren begärs häktad - Västerbottens-Kuriren
-- Norden och Kanada stärker samarbetet i Arktis - SVT Nyheter
-- Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
-- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
-- Klart: Här kan växthusgasen lagras i Östersjön - GP
-- 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
-- Skidåkare räddades av helikopter efter drama på Bottenvikens havsis - SVT Nyheter
-- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Irans utrikesminister: Mojtaba Khamenei vid god hälsa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Barn dödade i israelisk attack i södra Libanon - Västerbottens-Kuriren
-- Dödssiffran stiger i Kiev efter nattens attacker - Hufvudstadsbladet
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
+- Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
+- Malmökvinna länsade sin demente styvfars konto på 2,8 miljoner - Sydsvenskan
+- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
+- 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
+- Klart: Här kan växthusgasen lagras i Östersjön - GP
+- SD-beslut ska utredas – kan ha brutit mot regler – Senaste nytt om valet 2026 - SVT Nyheter
+- Skidåkare räddade från isflak på Bottenviken - Norran
+- Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
+- Norden och Kanada stärker samarbetet i Arktis - SVT Nyheter
+- Dödlig attack mot bostadshus i Zaporizjzja - GP
 - Direkt – Krisen i Mellanöstern – Iran griper 20 personer för koppling till Israel - Dagens Nyheter
 - Kriget och börsen: "Ingen panik än – men snart" - Dagens PS
 - Binda eller inte binda bolånet – så ska du tänka - SvD
-- Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
-- 139 ska deklarera för första gången - Hem - Värnamo
+- Bilchefen: SUV-trenden kan vara på väg att dö - Dagens PS
+- Kriget höjer bensinpriserna – nu märks effekterna för USA:s bilister - Börskollen
 - Forskare bakom ny studie: Denna enkla sak i vardagen kan ge dig ett ännu närmare band till ditt barn - Illustrerad Vetenskap
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 
@@ -35,13 +35,13 @@ _Updated: 2026-03-15 13:49_
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Annual Report 2024 - Olof Palme International Center
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -84,9 +84,10 @@ _Updated: 2026-03-15 13:49_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -95,46 +96,46 @@ _Updated: 2026-03-15 13:49_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Johan von Schreeb - Karolinska Institutet
 - Institutionen för vårdvetenskap - Malmö universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
+- Översikt - European Commission
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
-- Översikt - European Commission
+- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
@@ -150,12 +151,12 @@ _Updated: 2026-03-15 13:49_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- Mjau_gåvoshop_mars - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
