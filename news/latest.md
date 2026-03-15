@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-03-15 15:34_
+_Updated: 2026-03-15 16:05_
 
-- Covington Air Force Captain among six identified in Iraq refueling plane crash - KOMO
-- Iran launches strikes on Gulf states day after US threatens oil assets - Euronews.com
-- Major March snowstorm rolls across Minnesota - CBS News
-- Middle East crisis live: Israel hits Iran with ‘extensive strikes’ as Trump says US ‘not ready’ to make a deal to end war - The Guardian
-- FCC chair threatens to revoke broadcasters' licenses amid Trump comments on Iran coverage - NBC News
+- Crew of fatal US military crash included Alabama father recently deployed and several from Ohio - Politico
+- Trump says US may hit Iran’s Kharg Island again ‘just for fun’ - Al Jazeera
+- U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
+- Live updates: Minneapolis, St. Paul, other cities declare snow emergencies - FOX 9 Minneapolis-St. Paul
 - Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
+- Zelensky accuses EU allies of 'blackmail' in oil pipeline row - BBC
 - Trump’s latest tariffs face a fresh set of legal hurdles - Politico
-- US, China economic chiefs meet in Paris to clear path to Trump-Xi summit - Reuters
 - Trump Rejects Deal With Iran on Current Terms as War Rages On - Bloomberg.com
 - US airline CEOs urge Congress to end standoff, pay airport security officers - Reuters
-- U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
-- France votes in mayoral elections ahead of 2027 showdown - Financial Times
+- Gov. Evers declares state of emergency for upcoming Wisconsin winter storm - WISN
 - Israeli soldiers fire on family car in occupied West Bank, killing 4 - NPR
-- Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters
+- 'No friends but the mountains.' Kurds want Trump's help for Iran ground war - USA Today
+- France: Far-right strength put to test in local elections - DW.com
+- Vietnam holds general election, 93% candidates from ruling Communist Party - Al Jazeera
 - Use the stairs, work from home: Asia is already making big changes as oil prices spike - NBC News
 - The secret reason your delivery order costs more than your neighbor's - Business Insider
 - Here Are My Top 3 High-Yield Dividend Stocks to Buy Now - The Motley Fool
