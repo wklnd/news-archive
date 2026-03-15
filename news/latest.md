@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-15 01:57_
+_Updated: 2026-03-15 05:42_
 
-- Trump says U.S. struck Kharg Island, core of Iran’s oil economy - The Washington Post
-- Trump puts Japan’s Takaichi under pressure with call to send warships - Financial Times
-- FCC chair threatens to throttle news broadcasts over ‘hoaxes’ about Iran war - The Guardian
-- Why Little Was Done to Head Off Oil’s Strait of Hormuz Problem - The New York Times - The New York Times
-- More US Marines and warships being moved to Middle East, reports say - BBC
-- Blizzard warning expands to the Twin Cities ahead of ‘historic’ winter storm - Bring Me The News
-- Trump Proposes New White House Visitor Screening Center - The New York Times
+- Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
+- All 6 crew members killed in crash of American KC-135 refueling aircraft in Iraq, U.S. military confirms - CBS News
+- Trump says US may strike Iran’s Kharg Island oil export hub ‘just for fun’ - The Guardian
+- US Embassy in Baghdad, Iraq attacked with missile that hits helipad - Al Jazeera
+- FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers - CNBC
+- Huge 'megastorm' will sweep US with dangerous weather, forecast says - USA Today
+- Synagogue Attack Tests Bonds of Michigan Community - The New York Times
 - How two teens from wealthy Pennsylvania suburbs became suspects in an attempted ‘ISIS-inspired’ attack in New York City - NBC News
-- Trump turns to California offshore oil to help with Iran war - Axios
-- US faces elevated terrorism threats against backdrop of Iran war and cuts at FBI, Justice Department - AP News
-- Pope Leo takes possession of apartment in Apostolic Palace - Vatican News
-- Six killed in Russian air attacks on Ukraine - Reuters
-- Jürgen Habermas, German philosopher and sociologist, dies aged 96 - The Guardian
-- Israel and Lebanon to talk as war with Hezbollah rages, Haaretz reports - Reuters
+- Trump administration orders restart of California offshore oil operations - The Hill
+- ‘Sleeper Cells’ and Lone Attackers: Security Experts Brace for More Violence at Home - The New York Times
+- Three More Iranian Soccer Players Withdraw Bid for Asylum in Australia - The New York Times
+- Dreaming of la dolce vita with dual Italian citizenship? Think again - USA Today
+- Brazil’s jailed ex-president Bolsonaro hospitalised with lung infection - Al Jazeera
+- Moscow attacked by over 60 drones in single day, mayor says - The Kyiv Independent
 - Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings - CNBC
-- Meta reportedly considering layoffs that could affect 20% of the company - TechCrunch
-- How Jeff Bezos Upended The Washington Post - The New York Times - The New York Times
-- Construction finishes on a major offshore wind farm, the first during Trump’s tenure - AP News
-- The 7430U CPU scandal could spread: Another manufacturer under suspicion, ODM comes into the spotlight - Notebookcheck
-- Meta pulling end-to-end encryption on Instagram DMs - Mashable
+- New Yorkers get sticker shock as Iran war has gas prices flirting with $4 a gallon - New York Post
+- The Social Security Trust Fund Is Rapidly Approaching Insolvency - Seeking Alpha
+- Vineyard Wind, country's first large-scale offshore wind project, finishes construction - WBUR
+- Apple hosts 50th anniversary celebrations around the world - Apple
+- Apple MacBook Neo emerges as company’s most repairable laptop in more than a decade - Reuters
