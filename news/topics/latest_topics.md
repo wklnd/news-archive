@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 12:57_
+_Updated: 2026-03-15 13:49_
 
 ## Top Stories
 
+- Pekas ut som möjlig ny L-ledare – duckar frågan - GP
 - Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
-- DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- Polis avlossade skott i lägenhet efter bråk - TV4 Nyheterna
+- Ryske befälhavaren begärs häktad - Västerbottens-Kuriren
+- Norden och Kanada stärker samarbetet i Arktis - SVT Nyheter
 - Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
-- Varför får inte utrikes födda kvinnor jobb? - SvD
-- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
-- Klart: Här kan växthusgasen lagras i Östersjön - Västerbottens-Kuriren
-- Skidåkare räddades av helikopter efter drama på Bottenvikens havsis - SVT Nyheter
+- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
+- Klart: Här kan växthusgasen lagras i Östersjön - GP
 - 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
-- L-studenter vill avsätta Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
-- Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
+- Skidåkare räddades av helikopter efter drama på Bottenvikens havsis - SVT Nyheter
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Irans utrikesminister: Mojtaba Khamenei vid god hälsa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
-- Iran griper 20 personer för koppling till Israel - GP
-- Binda eller inte binda bolånet – så ska du tänka - Dagens Nyheter
+- Barn dödade i israelisk attack i södra Libanon - Västerbottens-Kuriren
+- Dödssiffran stiger i Kiev efter nattens attacker - Hufvudstadsbladet
+- Direkt – Krisen i Mellanöstern – Iran griper 20 personer för koppling till Israel - Dagens Nyheter
 - Kriget och börsen: "Ingen panik än – men snart" - Dagens PS
+- Binda eller inte binda bolånet – så ska du tänka - SvD
 - Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
 - 139 ska deklarera för första gången - Hem - Värnamo
-- Appen som gör bilderna snyggare med AI – i mobilen - PC för Alla
-- Julfest och cybersäkerhet på SPF-träffar - Västerbottens-Kuriren
+- Forskare bakom ny studie: Denna enkla sak i vardagen kan ge dig ett ännu närmare band till ditt barn - Illustrerad Vetenskap
+- MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 
 ## World News
 
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -35,18 +35,18 @@ _Updated: 2026-03-15 12:57_
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Annual Report 2024 - Olof Palme International Center
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -84,10 +84,9 @@ _Updated: 2026-03-15 12:57_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -142,8 +141,8 @@ _Updated: 2026-03-15 12:57_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
