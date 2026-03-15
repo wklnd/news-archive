@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 16:56_
+_Updated: 2026-03-15 17:52_
 
 ## Top Stories
 
+- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Pekas ut som möjlig ny L-ledare – duckar frågan - GP
-- Israelisk militär: Flera veckor kvar av attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Malmökvinna länsade sin demente styvfars konto på 2,8 miljoner - Sydsvenskan
 - DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
 - Japan: ”Extremt hög” ribba för krigsskepp i Hormuz - Västerbottens-Kuriren
-- Misstanken: Utpressade män på guld för miljoner – med flicka som lockbete - GP
-- Kristersson om L: Stödröstande funkar inte - Skånska Dagbladet
-- Öresundsbron öppen igen efter olycka - SVT Nyheter
+- Liberalernas granskningsutskott ställer in möte – Senaste nytt om valet 2026 - SVT Nyheter
+- Trafiken på Öresundsbron påverkas efter olycka i tunneln - SVT Nyheter
 - 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
-- SD-beslut ska utredas – kan ha brutit mot regler – Senaste nytt om valet 2026 - SVT Nyheter
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
+- Ministern rasar över gängens rekrytering på anpassade skolan: ”Brutalt och cyniskt” - Aftonbladet
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
-- Iran efter dödsryktena: Mojtaba Khamenei lever - Västerbottens-Kuriren
-- Kanada vill bryta USA-beroende – chans för Gripen - GP
-- Direkt – Kriget i Ukraina – Brand på ryskt oljeraffinaderi - Dagens Nyheter
+- Kanada vill bryta USA-beroende – chans för Gripen - Västerbottens-Kuriren
+- Åtta personer i polisstyrka dödade i Gaza - Västerbottens-Kuriren
+- Dödlig attack mot bostadshus i Zaporizjzja - GP
+- Binda eller inte binda bolånet – så ska du tänka - Sydsvenskan
+- ”Varför lägger man det inte i Norrland i stället?” - SvD
 - Kriget och börsen: "Ingen panik än – men snart" - Dagens PS
-- Oro för skenande elpris – väninnan ”gick i taket” - SvD
-- Kriget höjer bensinpriserna – nu märks effekterna för USA:s bilister - Börskollen
-- Bilchefen: SUV-trenden kan vara på väg att dö - Dagens PS
-- Forskare bakom ny studie: Denna enkla sak i vardagen kan ge dig ett ännu närmare band till ditt barn - Illustrerad Vetenskap
+- Rubin Ritter utsedd till tillförordnad vd för Kinnevik - EFN
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
+- Ny Windows 11-bugg hindrar vissa Samsung-datorer från att komma åt C-disken - PC för Alla
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,16 +36,17 @@ _Updated: 2026-03-15 16:56_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -118,33 +118,33 @@ _Updated: 2026-03-15 16:56_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -158,5 +158,5 @@ _Updated: 2026-03-15 16:56_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mjau_gåvoshop_mars - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
