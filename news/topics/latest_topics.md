@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 09:28_
+_Updated: 2026-03-15 09:59_
 
 ## Top Stories
 
 - Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
+- Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
 - Ryske desertören: ”Det är mycket skrämmande” - SvD
 - ”Redan andra veckan började jag räkna dagarna till hemresan” - Sydsvenskan
-- Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
-- Attacker mot Israel och grannländer under morgonen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
 - Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Bordat fartyg får inte resa vidare - Västerbottens-Kuriren
-- Busschaufför misstänkt för brott – körde av vägen i Dalby - SVT Nyheter
+- Polisens udda fynd: Silkeshöna i ett soprum - Omni
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
-- Höna i soprum i Göteborg – polisen ber om tips - Expressen
-- Dödssiffran stiger i Kiev efter nattens attacker - Hufvudstadsbladet
-- USA:s ambassad i Irak skadad i attack - GP
+- Attacker mot Israel och grannländer under morgonen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fransk ytterhöger kan ta över på Rivierian - Västerbottens-Kuriren
+- Stigande dödssiffra i Israels Libanonattacker - GP
+- Kolonistuga totalförstörd i brand - Jönköpings-Posten
 - Binda eller inte binda bolånet – så ska du tänka - SvD
-- Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
 - Dags att deklarera – populära avdragen och missarna att undvika - Dagens Nyheter
+- Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
 - DEBATT: För många pluggar till yrken där det inte finns jobb - GP
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
@@ -40,36 +40,36 @@ _Updated: 2026-03-15 09:28_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Svensk ekonomi i återhämtning men stor global osäkerhet - Örebronyheter
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -96,23 +96,23 @@ _Updated: 2026-03-15 09:28_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
+- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Johan von Schreeb - Karolinska Institutet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Institutionen för vårdvetenskap - Malmö universitet
-- Hälsa-ISAC Hem - Hälsa-ISAC - Center för delning och analys av hälsoinformation - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Översikt - European Commission
-- Vi presenterar HealthBench - OpenAI
-- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Johan von Schreeb - Karolinska Institutet
+- Översikt - European Commission
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 
 ## Science
