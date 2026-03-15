@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 21:49_
+_Updated: 2026-03-15 22:54_
 
 ## Top Stories
 
-- Liberalerna kallar medlemmar till massmöte - GP
-- Förskolebarn i Malmö glömdes bort vid stängning – polis larmades - Sydsvenskan
-- Så ska polisen sätta dit sexköpare – i efterhand - GP
-- Norden listar viktigaste vägarna i krig – Sverige är navet - Dagens Nyheter
-- ”Fick Grönlandseffekten Fredriksen att gå till val?” - Västerbottens-Kuriren
-- Uppgifter: Israel lider stora brister på robotar - SvD
+- Pekas ut som möjlig ny L-ledare – duckar frågan - GP
 - DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- Kritiska L-toppar kommer till Agenda i kväll – Senaste nytt om valet 2026 - SVT Nyheter
+- Skandalen i Nice – politiker fick grishuvud - SvD
+- ”20 miljöpartister mot en Jan Emanuel” - SvD
+- Så ska polisen sätta dit sexköpare – i efterhand - GP
+- Pussel-SM i Partille – så pusslar du som ett proffs - GP
+- Norden listar viktigaste vägarna i krig – Sverige är navet - Dagens Nyheter
+- Liberalernas granskningsutskott ställer in möte – Senaste nytt om valet 2026 - SVT Nyheter
 - Fyra fast i fartkontroll – körde nästan 100 på 70-väg - Norran
-- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
-- Kraftmätning i Budapest – stora demonstrationer - Västerbottens-Kuriren
-- Internetaktiviteten i Iran minskar ännu mer – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Höjda dödstal i mycket svåra skyfall i Kenya - GP
-- BO PELLNÄS: Vet Trump och Netanyahu verkligen vad de gör? - UNT
+- Storbråk på restaurang – ingen gripen - Tidningen Ångermanland
+- Kraftmätning i Budapest – stora demonstrationer - GP
+- Den rökande dansken kan avgöra vem som styr - Dagens Nyheter
+- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Höjda dödstal i mycket svåra skyfall i Kenya - Västerbottens-Kuriren
 - Oljelager i Asien och Oceanien frigörs direkt - SvD
-- 139 ska deklarera för första gången - Hem - Värnamo
 - Binda eller inte binda bolånet – så ska du tänka - SLA
+- 139 ska deklarera för första gången - Hem - Värnamo
 - Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
 - Gaming Copilot på ingång till Xbox. Microsofts spelassistent kommer till ny plattform. - feber.se
-- Spotify kommer börja visa mer information om din musiksmak - m3.se
+- Därför kommer MacBook Neo inte göra Apple stora i skolan igen - Teknikveckan
 
 ## World News
 
@@ -56,15 +56,15 @@ _Updated: 2026-03-15 21:49_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Albanien utser AI-bot till minister - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -118,25 +118,25 @@ _Updated: 2026-03-15 21:49_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,14 +149,14 @@ _Updated: 2026-03-15 21:49_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mjau_gåvoshop_mars - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Data blir en tillgång för bönderna - Land Lantbruk
