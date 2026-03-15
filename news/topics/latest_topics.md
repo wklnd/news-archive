@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 23:51_
+_Updated: 2026-03-16 00:55_
 
 ## Top Stories
 
-- Efter SD-beskedet: Liberalernas länsordförande i Jönköping hoppar av - SVT Nyheter
+- Skarp kritik mot Simona Mohamsson: ”En käftsmäll” - GP
 - DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- Mohamssons resa – blev politiker för att mota SD - SvD
 - Pussel-SM i Partille – så pusslar du som ett proffs - GP
-- Så ska polisen sätta dit sexköpare – i efterhand - GP
-- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Norden listar viktigaste vägarna i krig – Sverige är navet - Dagens Nyheter
-- Kritiska L-toppar kommer till Agenda i kväll – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Tunga S-politikern öppnar för M-regering - Dagens Nyheter
+- Internetaktiviteten i Iran minskar ännu mer – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”20 miljöpartister mot en Jan Emanuel” - SvD
+- Shekarabi (S) öppnar för regering med M – Senaste nytt om valet 2026 - SVT Nyheter
 - Fyra fast i fartkontroll – körde nästan 100 på 70-väg - Norran
 - Storbråk på restaurang – ingen gripen - Tidningen Ångermanland
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Kraftmätning i Budapest – stora demonstrationer - Västerbottens-Kuriren
 - Den rökande dansken kan avgöra vem som styr - Dagens Nyheter
 - Höjda dödstal i mycket svåra skyfall i Kenya - Västerbottens-Kuriren
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
-- Oljelager i Asien och Oceanien frigörs direkt - SvD
-- Binda eller inte binda bolånet – så ska du tänka - SLA
+- Oljepriset stiger vid handelns öppning - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Åtta uppges dödade i Gaza - Dagens Nyheter
 - Bilchefen: SUV-trenden kan vara på väg att dö - Dagens PS
-- Nu får Kinneviks vd Georgi Ganev gå på momangen - Breakit
+- Binda eller inte binda bolånet – så ska du tänka - SLA
 - Xiaomi börjar rulla ut Hyper OS 3.1 - mobil.se
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 
@@ -31,6 +31,7 @@ _Updated: 2026-03-15 23:51_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Swedish labour market improves despite global turbulence - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
@@ -41,7 +42,6 @@ _Updated: 2026-03-15 23:51_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -118,25 +118,25 @@ _Updated: 2026-03-15 23:51_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
