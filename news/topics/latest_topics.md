@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-16 00:55_
+_Updated: 2026-03-16 01:53_
 
 ## Top Stories
 
 - Skarp kritik mot Simona Mohamsson: ”En käftsmäll” - GP
-- DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Trump planerar tillkännage koalition som ska eskortera fartyg - Dagens Nyheter
+- Tankfartygets ryske befälhavare har häktats - Västerbottens-Kuriren
 - Pussel-SM i Partille – så pusslar du som ett proffs - GP
-- DN Direkt – Tunga S-politikern öppnar för M-regering - Dagens Nyheter
-- Internetaktiviteten i Iran minskar ännu mer – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- ”20 miljöpartister mot en Jan Emanuel” - SvD
-- Shekarabi (S) öppnar för regering med M – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Presidentvillig kan räddas i franska lokalval - Dagens Nyheter
+- Israel: Attackerna fortsätter i minst tre veckor - GP
+- Kritik mot Mohamsson: En käftsmäll – Senaste nytt om valet 2026 - SVT Nyheter
+- Ett 30-tal protester runt om i Sverige mot Tidöpartiernas migrationspolitik - RiktpunKt.nu
 - Fyra fast i fartkontroll – körde nästan 100 på 70-väg - Norran
 - Storbråk på restaurang – ingen gripen - Tidningen Ångermanland
-- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
 - Kraftmätning i Budapest – stora demonstrationer - Västerbottens-Kuriren
+- Tyskland tackar nej till Trumps Hormuzgiv - Dagens Nyheter
 - Den rökande dansken kan avgöra vem som styr - Dagens Nyheter
-- Höjda dödstal i mycket svåra skyfall i Kenya - Västerbottens-Kuriren
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
 - Oljepriset stiger vid handelns öppning - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Åtta uppges dödade i Gaza - Dagens Nyheter
+- Oljelager i Asien och Oceanien frigörs direkt - SvD
 - Bilchefen: SUV-trenden kan vara på väg att dö - Dagens PS
-- Binda eller inte binda bolånet – så ska du tänka - SLA
+- Nu får Kinneviks vd Georgi Ganev gå på momangen - Breakit
 - Xiaomi börjar rulla ut Hyper OS 3.1 - mobil.se
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 
@@ -52,24 +52,24 @@ _Updated: 2026-03-16 00:55_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -85,10 +85,10 @@ _Updated: 2026-03-16 00:55_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -96,24 +96,24 @@ _Updated: 2026-03-16 00:55_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Institutionen för vårdvetenskap - Malmö universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Översikt - health.ec.europa.eu
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
