@@ -55,6 +55,7 @@ MIT License
 ## TODO:
 
 - WordClouds for topic data .
+- Clean up of old data. 
 
 
 ## Disclaimer
