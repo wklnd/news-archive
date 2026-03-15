@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-15 13:01_
+_Updated: 2026-03-15 13:55_
 
-- Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’ - The Guardian
-- Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-- F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage - The New York Times
 - Covington Air Force Captain among six identified in Iraq refueling plane crash - KOMO
-- What we know on the 16th day of the US and Israel’s war with Iran - CNN
+- Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’ - The Guardian
+- Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal - NBC News
+- F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage - The New York Times
 - Explosions reported across Iran amid US B-52 strikes - The Jerusalem Post
+- Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
+- What to know about the attacks at Old Dominion University and a synagogue in Michigan - PBS
 - The latest: Heavy snow moving into Minnesota overnight - Star Tribune
+- US, China economic chiefs meet in Paris to clear path to Trump-Xi summit - Reuters
 - Bomb Cyclone Breakdown: Which Michigan cities get heavy snow, ice storm, severe t-storms - MLive.com
-- Hawaii residents, visitors urged to stay indoors as storm floods roads, cuts power to 111,000 - San Francisco Chronicle
-- What we know about the Old Dominion University gunman, a veteran and convicted ISIS supporter - CNN
 - French mayoral elections gauge far-right strength before presidential ballot - Reuters
-- China Resumes Military Flights Around Taiwan After Sudden 10-Day Hiatus - WSJ
-- Scoop: French plan to end Lebanon war includes recognition of Israel - Axios
-- Dozens of Medical Workers Killed as Israel Hits Lebanon - The New York Times
-- Prediction: This Artificial Intelligence (AI) Chip Stock Will Become the Next Nvidia by 2030 - The Motley Fool
-- Goldman Sachs revamps Brent crude forecast for the rest of 2026 - thestreet.com
-- The Best Blue Chip Stock to Buy After This Year's Market Pullback - The Motley Fool
-- Why Do Humanoid Robots Still Struggle With the Small Stuff? - Quanta Magazine
+- Iran's new supreme leader wounded, likely disfigured, Hegseth says - KSL.com
+- Ukraine war briefing: six people killed as Russia unleashes missile and drone attacks, officials say - The Guardian
+- Iran war: What is happening on day 16 of US-Israel attacks? - Al Jazeera
+- The secret reason your delivery order costs more than your neighbor's - Business Insider
+- Use the stairs, work from home: Asia is already making big changes as oil prices spike - NBC News
+- Over 60,000 Washington Post readers reportedly canceled their subscriptions following mass layoffs - Awful Announcing
+- How Bad is the Fear Factor in Markets? - Robin J Brooks | Substack
 - Top Stories: Apple's 50th Anniversary, New and Upcoming Products, and More - MacRumors
 - The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit - TechCrunch
