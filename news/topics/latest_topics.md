@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 22:54_
+_Updated: 2026-03-15 23:51_
 
 ## Top Stories
 
-- Pekas ut som möjlig ny L-ledare – duckar frågan - GP
+- Efter SD-beskedet: Liberalernas länsordförande i Jönköping hoppar av - SVT Nyheter
 - DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- Skandalen i Nice – politiker fick grishuvud - SvD
-- ”20 miljöpartister mot en Jan Emanuel” - SvD
-- Så ska polisen sätta dit sexköpare – i efterhand - GP
+- Mohamssons resa – blev politiker för att mota SD - SvD
 - Pussel-SM i Partille – så pusslar du som ett proffs - GP
+- Så ska polisen sätta dit sexköpare – i efterhand - GP
+- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Norden listar viktigaste vägarna i krig – Sverige är navet - Dagens Nyheter
-- Liberalernas granskningsutskott ställer in möte – Senaste nytt om valet 2026 - SVT Nyheter
+- Kritiska L-toppar kommer till Agenda i kväll – Senaste nytt om valet 2026 - SVT Nyheter
 - Fyra fast i fartkontroll – körde nästan 100 på 70-väg - Norran
 - Storbråk på restaurang – ingen gripen - Tidningen Ångermanland
-- Kraftmätning i Budapest – stora demonstrationer - GP
+- Kraftmätning i Budapest – stora demonstrationer - Västerbottens-Kuriren
 - Den rökande dansken kan avgöra vem som styr - Dagens Nyheter
-- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Höjda dödstal i mycket svåra skyfall i Kenya - Västerbottens-Kuriren
+- Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
 - Oljelager i Asien och Oceanien frigörs direkt - SvD
 - Binda eller inte binda bolånet – så ska du tänka - SLA
-- 139 ska deklarera för första gången - Hem - Värnamo
-- Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
-- Gaming Copilot på ingång till Xbox. Microsofts spelassistent kommer till ny plattform. - feber.se
-- Därför kommer MacBook Neo inte göra Apple stora i skolan igen - Teknikveckan
+- Bilchefen: SUV-trenden kan vara på väg att dö - Dagens PS
+- Nu får Kinneviks vd Georgi Ganev gå på momangen - Breakit
+- Xiaomi börjar rulla ut Hyper OS 3.1 - mobil.se
+- MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 
 ## World News
 
@@ -31,9 +31,9 @@ _Updated: 2026-03-15 22:54_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Swedish labour market improves despite global turbulence - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -41,12 +41,12 @@ _Updated: 2026-03-15 22:54_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -96,24 +96,24 @@ _Updated: 2026-03-15 22:54_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
+- Institutionen för vårdvetenskap - Malmö universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Översikt - health.ec.europa.eu
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 
 ## Science
 
@@ -123,20 +123,20 @@ _Updated: 2026-03-15 22:54_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
