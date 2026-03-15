@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 07:50_
+_Updated: 2026-03-15 09:28_
 
 ## Top Stories
 
-- Trump: Öppnar sundet ”på ett eller annat sätt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dödlig attack mot bostadshus i Zaporizjzja - GP
-- Sverige ger Libanon 65 miljoner efter FN:s vädjan - Västerbottens-Kuriren
-- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
+- Ryske desertören: ”Det är mycket skrämmande” - SvD
+- ”Redan andra veckan började jag räkna dagarna till hemresan” - Sydsvenskan
 - Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
-- Experten om Kinas nya etniska lag: ”En utradering” - GP
-- Ryske befälhavaren på tankfartyget anhållen - SVT Nyheter
-- ”Vi måste se varandra som människor” - Västerbottens-Kuriren
+- Attacker mot Israel och grannländer under morgonen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
+- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
+- Bordat fartyg får inte resa vidare - Västerbottens-Kuriren
+- Busschaufför misstänkt för brott – körde av vägen i Dalby - SVT Nyheter
 - Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
-- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
-- Attacker mot grannländer och Israel under morgonen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Amerikanska medborgare i Irak uppmanas lämna landet - Dagens Nyheter
-- Ung Eksjökvinna svårt skadad i skidolycka - Smålands-Tidningen
-- Tekniska problem för Swedbank - Expressen
-- Dags att deklarera – populära avdragen och missarna att undvika - Dagens Nyheter
+- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
+- Höna i soprum i Göteborg – polisen ber om tips - Expressen
+- Dödssiffran stiger i Kiev efter nattens attacker - Hufvudstadsbladet
+- USA:s ambassad i Irak skadad i attack - GP
+- Binda eller inte binda bolånet – så ska du tänka - SvD
 - Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
-- Här är sommardäcken som är bäst i test – och de du ska undvika - Oskarshamns-Nytt
-- ”Sverige har för många universitet” - SvD
-- Ännu fler Steam-demon! Bastard Cops, Space Bugs och indonesisk skräck (Del IV) - FZ.se
+- Dags att deklarera – populära avdragen och missarna att undvika - Dagens Nyheter
+- DEBATT: För många pluggar till yrken där det inte finns jobb - GP
+- MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
 - Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
 
 ## World News
@@ -32,19 +32,19 @@ _Updated: 2026-03-15 07:50_
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Annual Report 2024 - Olof Palme International Center
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Svensk ekonomi i återhämtning men stor global osäkerhet - Örebronyheter
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
@@ -126,17 +126,17 @@ _Updated: 2026-03-15 07:50_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
 
 ## Jordbruk
 
