@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-15 22:59_
+_Updated: 2026-03-15 23:57_
 
 - Trump's call for countries to send warships to protect the Strait of Hormuz brings no promises - AP News
 - Travel not advised in parts of southern Minnesota, another 6 to 10 inches of snow likely in Twin Cities - CBS News
-- US not ready to seek deal to end war with Iran, Donald Trump says - The Guardian
+- Oil Prices May Not Fall Soon, U.S. Energy Secretary Says - The New York Times
 - U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
-- US airline CEOs urge Congress to end standoff, pay airport security officers - Reuters
-- Energy Secretary Says ‘No Guarantees’ Oil Prices Will Fall Soon - The New York Times
-- Soldier from Kentucky identified as one of six service members killed when a plane crashed in Iraq - WLKY
-- LIVE UPDATES: Mother Nature’s March Madness - The Weather Channel
-- Religious leaders condemn Michigan synagogue attack – but moving forward together tricky - The Guardian
-- FCC chair threatens to revoke broadcasters' licences over Iran coverage - BBC
-- Israeli soldiers fire on family car in occupied West Bank, killing 4 - AP News
+- Israel claims brother of Michigan synagogue attacker was Hezbollah commander - The Guardian
+- U.S. names troops killed in Iraq aircraft crash while supporting Iran war - The Washington Post
+- Transcript: Rep. Dan Crenshaw on "Face the Nation with Margaret Brennan," March 15, 2026 - CBS News
+- DOT: Do not travel due to ‘immediate and extreme danger’ - WBAY
+- Sunday Storm Update: What has changed overnight - MLive.com
+- Dangerous storm outbreak could slam D.C. area Monday; tornadoes possible - The Washington Post
+- Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’ - The Guardian
+- Israeli forces kill 2 Palestinian children and their parents in West Bank, medics say - NBC News
 - France votes in mayoral elections ahead of 2027 showdown - Financial Times
-- France: Police detain brothers over 'lethal and antisemitic' plot - BBC
-- Starmer speaks to Trump about importance of reopening Strait of Hormuz - BBC
+- French police detain brothers over 'lethal and antisemitic' plot - BBC
+- Stock Trader’s Guide to Navigating Supply Disruption by Iran War - Bloomberg.com
 - Use the stairs, work from home: Asia is already making big changes as oil prices spike - NBC News
 - A media-rating company says a Trump agency is threatening its livelihood - AP News
-- Update on IEA collective action decision of 11 March 2026 - IEA – International Energy Agency
-- The Iran war is a new test of America's economic superpower - Axios
-- iOS 27 likely won’t include any major changes to Liquid Glass: report - 9to5Mac
-- The Galaxy Buds 4 Pro have improved, but still rely on the Galaxy ecosystem - The Verge
+- Emergency stockpile oil coming soon to Iran-wracked markets, IEA says - Reuters
+- iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard - MacRumors
+- From the Chaos Vault: Secret Lair Dandân Decklist - Magic: The Gathering
