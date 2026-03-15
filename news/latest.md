@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-15 13:55_
+_Updated: 2026-03-15 15:34_
 
 - Covington Air Force Captain among six identified in Iraq refueling plane crash - KOMO
-- Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’ - The Guardian
-- Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal - NBC News
-- F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage - The New York Times
-- Explosions reported across Iran amid US B-52 strikes - The Jerusalem Post
+- Iran launches strikes on Gulf states day after US threatens oil assets - Euronews.com
+- Major March snowstorm rolls across Minnesota - CBS News
+- Middle East crisis live: Israel hits Iran with ‘extensive strikes’ as Trump says US ‘not ready’ to make a deal to end war - The Guardian
+- FCC chair threatens to revoke broadcasters' licenses amid Trump comments on Iran coverage - NBC News
 - Trump claims international coalition will send war ships to reopen the strait of Hormuz - Axios
-- What to know about the attacks at Old Dominion University and a synagogue in Michigan - PBS
-- The latest: Heavy snow moving into Minnesota overnight - Star Tribune
+- Trump’s latest tariffs face a fresh set of legal hurdles - Politico
 - US, China economic chiefs meet in Paris to clear path to Trump-Xi summit - Reuters
-- Bomb Cyclone Breakdown: Which Michigan cities get heavy snow, ice storm, severe t-storms - MLive.com
-- French mayoral elections gauge far-right strength before presidential ballot - Reuters
-- Iran's new supreme leader wounded, likely disfigured, Hegseth says - KSL.com
-- Ukraine war briefing: six people killed as Russia unleashes missile and drone attacks, officials say - The Guardian
-- Iran war: What is happening on day 16 of US-Israel attacks? - Al Jazeera
-- The secret reason your delivery order costs more than your neighbor's - Business Insider
+- Trump Rejects Deal With Iran on Current Terms as War Rages On - Bloomberg.com
+- US airline CEOs urge Congress to end standoff, pay airport security officers - Reuters
+- U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
+- France votes in mayoral elections ahead of 2027 showdown - Financial Times
+- Israeli soldiers fire on family car in occupied West Bank, killing 4 - NPR
+- Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters
 - Use the stairs, work from home: Asia is already making big changes as oil prices spike - NBC News
-- Over 60,000 Washington Post readers reportedly canceled their subscriptions following mass layoffs - Awful Announcing
-- How Bad is the Fear Factor in Markets? - Robin J Brooks | Substack
+- The secret reason your delivery order costs more than your neighbor's - Business Insider
+- Here Are My Top 3 High-Yield Dividend Stocks to Buy Now - The Motley Fool
+- How Jeff Bezos Upended The Washington Post - The New York Times
 - Top Stories: Apple's 50th Anniversary, New and Upcoming Products, and More - MacRumors
 - The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit - TechCrunch
