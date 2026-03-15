@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 11:57_
+_Updated: 2026-03-15 12:57_
 
 ## Top Stories
 
 - Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
+- DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
+- Polis avlossade skott i lägenhet efter bråk - TV4 Nyheterna
 - Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
-- Ryske desertören: ”Det är mycket skrämmande” - SvD
-- ”Redan andra veckan började jag räkna dagarna till hemresan” - Sydsvenskan
+- Varför får inte utrikes födda kvinnor jobb? - SvD
 - Kritiker mobiliserar – hon nämns som ny L-ledare - GP
-- L-studenter vill avsätta Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
+- Klart: Här kan växthusgasen lagras i Östersjön - Västerbottens-Kuriren
 - Skidåkare räddades av helikopter efter drama på Bottenvikens havsis - SVT Nyheter
-- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
-- Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
-- Bordat fartyg får inte resa vidare - SvD
+- 30 kilometer bilväg över havsisen: ”Mitt skötebarn” - Dagens Nyheter
+- L-studenter vill avsätta Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
 - Irans utrikesminister: Mojtaba Khamenei vid god hälsa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Polis sköt verkanseld mot våldsam man - Aftonbladet
 - Dödssiffran stiger i Kiev efter nattens attacker - Västerbottens-Kuriren
+- Iran griper 20 personer för koppling till Israel - GP
 - Binda eller inte binda bolånet – så ska du tänka - Dagens Nyheter
-- 139 ska deklarera för första gången - Hem - Värnamo
+- Kriget och börsen: "Ingen panik än – men snart" - Dagens PS
 - Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
-- Google Maps får sin största uppdatering på flera år - Dagens PS
+- 139 ska deklarera för första gången - Hem - Värnamo
+- Appen som gör bilderna snyggare med AI – i mobilen - PC för Alla
 - Julfest och cybersäkerhet på SPF-träffar - Västerbottens-Kuriren
-- Mystiska signaler ända från centrum av vår galax har länge förundrat forskare – förklaringen kan förändra din förståelse av universum - Illustrerad Vetenskap
 
 ## World News
 
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -43,10 +43,10 @@ _Updated: 2026-03-15 11:57_
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL
 
 ## Technology
 
@@ -77,18 +77,18 @@ _Updated: 2026-03-15 11:57_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -96,46 +96,46 @@ _Updated: 2026-03-15 11:57_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
 - Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Institutionen för vårdvetenskap - Malmö universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
 - Översikt - European Commission
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Ansökningsperioden för Science & SciLifeLab Prize for Young Scientists 2023 är nu öppen - Mynewsdesk
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
