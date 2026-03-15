@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 09:59_
+_Updated: 2026-03-15 11:01_
 
 ## Top Stories
 
+- L-topp hotar att hoppa av – Senaste nytt om valet 2026 - SVT Nyheter
 - Trumps nya hot mot oljeön: ”För skojs skull” - Dagens Nyheter
 - Vänder sig mot Trump – på grund av kriget: ”Förrådda" - Västerbottens-Kuriren
 - Ryske desertören: ”Det är mycket skrämmande” - SvD
 - ”Redan andra veckan började jag räkna dagarna till hemresan” - Sydsvenskan
-- Kritiker mobiliserar – hon nämns som ny L-ledare - GP
-- Sverige riktar särskilt humanitärt stöd till Libanon - Regeringen.se
+- Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
+- Skidåkare räddades av helikopter efter drama på Bottenvikens havsis - SVT Nyheter
+- Koldioxidlagring möjlig under Östersjön enligt SGU - SVT Nyheter
 - Hundratals demonstrerade för human flyktingpolitik 14 mars 2025 - GP
-- Bordat fartyg får inte resa vidare - Västerbottens-Kuriren
-- Polisens udda fynd: Silkeshöna i ett soprum - Omni
-- Insändare i korthet 14 mars: Effektavgifter, snålade in på de anställda och ambulansen som aldrig dök upp - NWT
+- Rysk befälhavare på bordat fartyg har anhållits - GP
 - Attacker mot Israel och grannländer under morgonen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fransk ytterhöger kan ta över på Rivierian - Västerbottens-Kuriren
-- Stigande dödssiffra i Israels Libanonattacker - GP
-- Kolonistuga totalförstörd i brand - Jönköpings-Posten
+- Källor: Israel planerar stor markinvasion i Libanon - Västerbottens-Kuriren
+- Dödssiffran stiger i Kiev efter nattens attacker - GP
+- Trump påstår att Khamenei är död: ”Har hört det” - Omni
 - Binda eller inte binda bolånet – så ska du tänka - SvD
 - Dags att deklarera – populära avdragen och missarna att undvika - Dagens Nyheter
 - Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
-- DEBATT: För många pluggar till yrken där det inte finns jobb - GP
+- Google Maps får sin största uppdatering på flera år - Dagens PS
+- Mystiska signaler ända från centrum av vår galax har länge förundrat forskare – förklaringen kan förändra din förståelse av universum - Illustrerad Vetenskap
 - MacBook Neo är en chock för PC-marknaden. Säger Asus finanschef. - feber.se
-- Bankkunder med Android i fara: Riskerar att få kontot tömt - Dagens.se
 
 ## World News
 
@@ -40,36 +40,36 @@ _Updated: 2026-03-15 09:59_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Albanien utser AI-bot till minister - Computer Sweden
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -96,23 +96,23 @@ _Updated: 2026-03-15 09:59_
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kosttilskottet Appethyl kan bli vass konkurrent till bantningssprutor - it-halsa.se
-- Elektroniska hälso- och sjukvårdstjänster över gränserna - European Commission
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Johan von Schreeb - Karolinska Institutet
 - Institutionen för vårdvetenskap - Malmö universitet
+- Hälsa-ISAC Hem - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- Johan von Schreeb - Karolinska Institutet
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Översikt - European Commission
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
+- Vi presenterar HealthBench - OpenAI
+- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 
 ## Science
@@ -144,7 +144,6 @@ _Updated: 2026-03-15 09:59_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -156,7 +155,8 @@ _Updated: 2026-03-15 09:59_
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-03-23 Hybridseminarium: Framtidens jordbrukspolitik – hur ska CAP utformas från 2028? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
