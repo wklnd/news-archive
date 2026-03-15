@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-15 18:57_
+_Updated: 2026-03-15 19:54_
 
 ## Top Stories
 
-- Pekas ut som möjlig ny L-ledare – duckar frågan - GP
-- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Japan: ”Extremt hög” ribba för krigsskepp i Hormuz - Västerbottens-Kuriren
-- Ett hundratal protesterade mot migrationspolitiken: ”Det är åt helvete fel alltihop” - NWT
+- Liberalerna kallar medlemmar till massmöte - Västerbottens-Kuriren
+- Israelisk militär: Flera veckor kvar av attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Förskolebarn i Malmö glömdes bort vid stängning – polis larmades - Sydsvenskan
 - Så ska polisen sätta dit sexköpare – i efterhand - GP
-- DN Direkt – Tunga S-politikern öppnar för M-regering - Dagens Nyheter
+- Ett hundratal protesterade mot migrationspolitiken: ”Det är åt helvete fel alltihop” - NWT
+- Norden listar viktigaste vägarna i krig – Sverige är navet - Dagens Nyheter
+- Ryske befälhavaren begärs häktad - Västerbottens-Kuriren
 - Trafiken på Öresundsbron påverkas efter olycka i tunneln - SVT Nyheter
-- DN Direkt – Befälhavaren på misstänkta ryska skuggfartyget begärs häktad - Dagens Nyheter
-- L-studenter vill avsätta Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
-- Fyra fast i fartkontroll – körde nästan 100 på 70-väg - Norran
+- Kritiska L-toppar kommer till Agenda i kväll – Senaste nytt om valet 2026 - SVT Nyheter
+- Citymördaren dömdes 1979 – vårdas fortfarande på grund av återfallsrisk - Dagens Nyheter
+- Iran: Ser ingen anledning att prata med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Barn dödade i israelisk attack i södra Libanon - Hufvudstadsbladet
-- Åtta personer i polisstyrka dödade i Gaza - Västerbottens-Kuriren
-- Dödlig attack mot bostadshus i Zaporizjzja - GP
-- Direkt – Krisen i Mellanöstern – Iran griper 20 personer för koppling till Israel - Dagens Nyheter
-- Binda eller inte binda bolånet – så ska du tänka - Aftonbladet
-- ”Varför lägger man det inte i Norrland i stället?” - SvD
+- Kraftmätning i Budapest – stora demonstrationer - Folkbladet
+- DN Direkt – Över 60 döda i översvämningar - Dagens Nyheter
+- 139 ska deklarera för första gången - Hem - Värnamo
+- Binda eller inte binda bolånet – så ska du tänka - SLA
+- Historiskt arvskifte – makten och miljarderna flyttar - Dagens Nyheter
 - Rubin Ritter utsedd till tillförordnad vd för Kinnevik - EFN
-- Klart: Här kan växthusgasen lagras i Östersjön - Västerbottens-Kuriren
-- En av fyra Android-telefoner kan hackas på under 60 sekunder - Dagens PS
 - Spotify kommer börja visa mer information om din musiksmak - m3.se
+- En av fyra Android-telefoner kan hackas på under 60 sekunder - Dagens PS
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
+- Swedish labour market improves despite global turbulence - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Annual Report 2024 - Olof Palme International Center
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global health challenges in focus when WHO Regional Director for Europe visited Uppsala University - Uppsala universitet
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- New Secretary General appointed - Olof Palme International Center
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -59,16 +59,16 @@ _Updated: 2026-03-15 18:57_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Albanien utser AI-bot till minister - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,21 +99,21 @@ _Updated: 2026-03-15 18:57_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
-- Institutionen för vårdvetenskap - Malmö universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Engineering Health 2024 - Chalmers tekniska högskola
-- Översikt - health.ec.europa.eu
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Erfarenheter från Ukrainas frontlinje – lärdomar för svensk sjukvård - Karolinska Institutet
 
 ## Science
 
