@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-16 14:04_
+_Updated: 2026-03-16 15:59_
 
 ## Top Stories
 
-- Liberalerna i Värmland vill se misstroendevotum mot Mohamsson - SVT Nyheter
-- Trump sätter press på Nato om Hormuzsundet: ”Väldigt dålig framtid” - Dagens Nyheter
+- Ministrar avgår om Mohamsson petas - SVT Nyheter
 - Misstänkta skuggflottan – så länge kan de bli kvar - Västerbottens-Kuriren
-- Israel: Har påbörjat markoffensiv i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Kriget i Ukraina – Flera attacker mot Kiev på måndagsmorgonen - Dagens Nyheter
-- Ebba Busch deltar på energirådets möte i Bryssel - Regeringen.se
-- Fallet John Walter: Högsta domstolen prövar inte målet - SVT Nyheter
-- Granskning: Cocktail av bekämpningsmedel i konventionellt odlade livsmedel - food-supply.se
-- DN Direkt – Tuff vinter för många fåglar – klarade inte kylan - Dagens Nyheter
+- Trump trappar upp retoriken om Hormuz – Sveriges svar - Dagens Nyheter
+- Ovanlig dagsljusattack i Kiev - GP
+- Rättegången mot Marius Borg Høiby – detta har hänt - GP
+- Trumps varning: Dåligt för Natos framtid - Västerbottens-Kuriren
+- John Walter dog – nu tar föräldrarna fallet till Europadomstolen - NWT
+- Sverige flyttar ambassadpersonal från Iran - Norran
 - Ännu en våg av bedrägerier riktade mot äldre - UNT
-- Lång kö när slutpläderingarna inleds i Oslo tingsrätt – Rättegången i Norge mot Marius Borg Høiby - SVT Nyheter
+- Ebba Buschs hot mot Danmark: ”På väg att bli ond” - Expressen
 - Erik de la Reguera: Nationell samling går framåt – men allianser avgör - Dagens Nyheter
 - Ayatollans flygplan förstört - Västerbottens-Kuriren
-- Pakistanskt oljetankfartyg tar sig igenom strategiska Hormuzsundet - Börskollen
-- Telia hoppar på AI-datacentret i Strängnäs – som kritiseras av lokala politiker - Voister
-- Din portfölj är byggd för en värld som inte längre finns - Dagens PS
-- DNB Carnegie höjer riktkursen för Vår Energi till 32 norska kronor (25), upprepar sälj - Placera.se
-- Stor genomgång: Börsens superpiloter – och de med tom depå - Affärsvärlden
+- Israeliska markstyrkor går längre in i Libanon - Hufvudstadsbladet
+- Amnesty: USA bakom attacken mot skolan - Västerbottens-Kuriren
+- Kinnevik sparkar vd Georgi Ganev - Finanswatch.se
+- Kryptosparare döms till fängelse – deklarerade inte - Dagens PS
+- Affärsvärlden lockas inte av Hemnet trots kursfallet - Affärsvärlden
+- Nu börjar historiens största arvskifte – så påverkas svenskar - Dagens PS
+- Se här: Extremt sällsynt fenomen kan avslöja hemlighet om månen - Illustrerad Vetenskap
 - Civilministern reser till San Francisco för att stärka nordiskt tekniksamarbete - Regeringen.se
-- De är finalister till ”Mest Lovande över 60” 2026 - Cision
 
 ## World News
 
@@ -35,40 +35,40 @@ _Updated: 2026-03-16 14:04_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Annual Report 2024 - Olof Palme International Center
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- New Secretary General appointed - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -79,11 +79,11 @@ _Updated: 2026-03-16 14:04_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -95,25 +95,25 @@ _Updated: 2026-03-16 14:04_
 ## Health
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Hälsa och teknik - Chalmers tekniska högskola
+- Översikt - health.ec.europa.eu
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -129,9 +129,9 @@ _Updated: 2026-03-16 14:04_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -145,18 +145,18 @@ _Updated: 2026-03-16 14:04_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Soffa.jpg - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
