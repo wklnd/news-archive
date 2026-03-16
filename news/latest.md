@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 14:35_
+_Updated: 2026-03-16 16:05_
 
-- Iran war: Trump dials up the pressure to secure Hormuz - dw.com
-- 'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION
-- Behind the Curtain: Trump's escalation trap - Axios
-- Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian' - CNBC
+- Live updates: Iran war news; Trump urges China, allies to help with Strait of Hormuz crisis - CNN
 - Drone hits Dubai airport as Iran targets commerce; Israel says war will go on - The Washington Post
-- Exclusive: US, China discuss farm goods, managed trade in 'remarkably stable' Paris talks-sources - Reuters
-- CWG Live: Severe storm threat today with possible tornadoes, then sharply colder - The Washington Post
+- Trump officials target media over Iran war reporting - Axios
+- Here’s What Happened in the War in the Middle East on Sunday - The New York Times
+- Severe storms, tornado threat target Central North Carolina Monday as Level 4 risk issued - ABC11 Raleigh-Durham
+- Severe storms pummel parts of U.S. with snow, high winds, and risk of tornados - NPR
+- Afghan father, former U.S. military ally, dies in ICE custody in North Texas - CBS News
 - Washington woman among six US service members killed in Iraq aircraft crash - KIRO 7 News Seattle
-- CEOs of America's biggest airlines say $0 TSA paychecks during the government shutdown are 'simply unacceptable' - Business Insider
-- Hawaii faces flash flooding, blizzard conditions and landslides with more rain to come - The Guardian
-- Fifth member of Iranian women's soccer team gives up asylum in Australia - PBS
-- Iran missile fragment hits US consul residence in Israel - The Jerusalem Post
+- More airport disruptions expected as TSA agents quit amid first weekend without full pay - CNN
+- This week at Democracy Docket: MAGA melts down over SAVE — and DOJ struggles with the email address field - Democracy Docket
+- IDF targets Hezbollah positions in southern Lebanon - The Jerusalem Post
+- Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei - The New York Times
+- What Do Africans Think of Trump’s Travel Ban List? - The New York Times
 - Hospital officials say Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman - AP News
-- Pope escalates call for ceasefire in Iran by addressing those responsible for the war - AP News
-- 3,800 workers are set to strike Monday at one of the nation’s largest meatpacking plants - AP News
-- Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz - Al Jazeera
-- S&P 500: An End In Sight (Technical Analysis) (SP500) - Seeking Alpha
-- Nvidia’s big GTC event is on deck, and the company faces a very high bar this year - MarketWatch
+- 3,800 workers are on strike at one of the largest meatpacking plants in the US - abcnews.com
+- Dow bounces 400 points to start the week as oil prices fall back to $95 a barrel: Live updates - CNBC
+- Oil prices climb despite Trump moves to temper market - Axios
+- Meta to Spend Up to $27 Billion on Nebius AI Infrastructure - Bloomberg.com
+- Looks like Samsung doesn't want to sell the Galaxy Z TriFold anymore - SamMobile
 - iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard - MacRumors
-- Leaked Samsung Galaxy Z Wide Fold specs show marginal upgrades over Galaxy Z Fold 7 - PhoneArena
