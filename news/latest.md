@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 05:46_
+_Updated: 2026-03-16 08:09_
 
-- Trump eyes "Hormuz Coalition," seizure of Iran's Kharg Island oil hub - Axios
+- Middle East crisis live: Trump increases pressure on allies over strait of Hormuz; Israel says it still has ‘thousands of targets’ in Iran - The Guardian
+- Japan not planning Hormuz escort mission, PM Takaichi says - Reuters
 - 4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family - The New York Times
-- AP analysis: Two weeks into war with Iran, Trump has been knocked back on his political heels - PBS
 - U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
+- US, Iran Keep Up Strikes as Trump Mulls Possibility of Deal - Bloomberg.com
 - Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian' - CNBC
-- ‘Triple-threat megastorm’ to scatter snow, high winds and thunder across US - The Guardian
 - CEOs of top airlines demand Congress restore funding to Homeland Security and pay airport workers - AP News
 - Powerful Winter Storm Disrupts Travel and Knocks Out Power in the Upper Midwest - The New York Times
-- The National Park Service race to rewrite history becomes a slog - Politico
-- Dangerous storm outbreak could slam D.C. area Monday; tornadoes possible - The Washington Post
-- The Latest: Gulf countries report new attacks after Iran warns major UAE ports to evacuate - KTLA
-- 5 takeaways from France’s local elections - politico.eu
-- Kazakhstanis vote in referendum on new constitution that would cement president's grip on power - AP News
-- Pakistani-Afghan War Takes Heavy Toll on Civilians - The New York Times
+- Trump Leaves Allies and Foes Guessing on Endgame for Iran - Bloomberg.com
+- Travel not advised in parts of southern Minnesota as major snowstorm winds down - CBS News
+- Oil prices rise after Trump claims US ‘totally demolished’ Iran’s Kharg Island export hub - The Guardian
+- French far-right makes first-round gains in municipal elections - Financial Times
+- Moscow attacked by over 60 drones in single day, mayor says - The Kyiv Independent
+- Iranian foreign minister says "we don't see any reason why we should talk with Americans" - CBS News
 - Oil prices climb despite Trump moves to temper market - Axios
-- U.S. oil CEOs warn Trump officials energy turmoil could worsen - Seeking Alpha
-- Emergency stockpile oil coming soon to Iran-wracked markets, IEA says - Reuters
-- The Washington Post Lost Over 60,000 Subscribers Following Winter Layoffs - TheWrap
+- US stock futures rise as investors track Iran conflict; Fed meeting looms By Investing.com - Investing.com
+- Exclusive | Oil Industry Warns Trump Administration That Fuel Crunch Will Likely Worsen - WSJ
+- A Massive Shift In The Fed’s Rate Outlook May Be About To Hit Markets - Seeking Alpha
 - iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard - MacRumors
-- Apple's 2026 Studio Display Hits New Low Prices on Amazon at Up to $100 Off - MacRumors
+- Deepfake Influencers Push Supplements Online - Newser
