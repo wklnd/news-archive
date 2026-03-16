@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 20:38_
+_Updated: 2026-03-16 21:40_
 
-- Live updates: Iran war news; Trump criticizes allies who rebuffed his calls to help secure Strait of Hormuz - CNN
-- Live updates: Rare severe storm outbreak targets East Coast, historic blizzard paralyzes the Midwest - FOX Weather
+- Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz - The Guardian
 - Susie Wiles, Trump’s White House Chief of Staff, Has Breast Cancer - The New York Times - The New York Times
-- 'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION
-- Cuba will allow nationals living abroad to invest in and own businesses on the island, economic czar tells NBC News - NBC News
-- US 'locked and loaded' to destroy Iran’s 'crown jewel' 'if we want,' Trump warns - Fox News
-- Afghan asylum-seeker dies after less than 24 hours in ICE custody - NBC News
-- ‘Radiant’ mother from Kentucky was among 6 US service members killed in air crash in Iraq - AP News
+- Iran War News Live Updates: U.S. Allies Look at Options to Open Strait of Hormuz After Trump Pressure - WSJ
+- Here’s What Happened in the War in the Middle East on Sunday - The New York Times - The New York Times
+- Trump sold young voters on his vision. Many are having buyer’s remorse. - The Washington Post
+- More airport disruptions expected as TSA agents quit amid first weekend without full pay - CNN
+- Afghan man who served alongside US forces dies after less than a day in ICE custody, family and advocates say - CNN
+- Winds, blizzards and triple-digit heat put over half of the US in the path of extreme weather - AP News
 - In Tense Meeting, Dr. Oz Pressed Medical Societies on Trans Care for Teens - The New York Times - The New York Times
-- Strong storms take down trees, cause damage across Charlotte area - WCNC
+- ‘We’re going to have a problem’: Republicans want Trump to move on from 2020 - Politico
+- Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei - The New York Times - The New York Times
 - Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post
-- EU's Kallas floats Black Sea model to unblock Strait of Hormuz - Reuters
-- Top EU diplomat to Trump: Europe exploring ways to secure Strait of Hormuz - politico.eu
-- Israeli soldiers fire on family car in occupied West Bank, killing 4 - NBC News
-- Oil prices hold over $100 as Middle East conflict rages on: 'A high stakes stalemate' - Yahoo Finance
-- 3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News
-- Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily
+- UK, Allies Refuse Trump Call to Send Warships as Strait of Hormuz Blocked - Kyiv Post
+- Iran uses 'dancing missile' Sejjil against US-Israel: What makes it different? - WION
+- Live Updates: Iran war keeps oil and gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
+- 3,800 workers are on strike at one of the largest meatpacking plants in the US - abcnews.com
+- Meta to Spend Up to $27 Billion on Nebius AI Infrastructure - Bloomberg.com
 - Bitcoin's price trades above its 50-day average as bullish move gathers pace - CoinDesk
 - Apple quietly launches AirPods Max 2 - TechCrunch
 - MacBook Neo Components Required A ‘Rethink’ From Apple To Get Down To That $599 Price, New Report Says A Touchscreen In Newer Models Isn’t ‘Plausible’ - Wccftech
