@@ -1,82 +1,82 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-16 15:59_
+_Updated: 2026-03-16 17:39_
 
 ## Top Stories
 
-- Ministrar avgår om Mohamsson petas - SVT Nyheter
+- Så svängde Liberalerna om SD – spelet bakom - GP
 - Misstänkta skuggflottan – så länge kan de bli kvar - Västerbottens-Kuriren
-- Trump trappar upp retoriken om Hormuz – Sveriges svar - Dagens Nyheter
-- Ovanlig dagsljusattack i Kiev - GP
-- Rättegången mot Marius Borg Høiby – detta har hänt - GP
-- Trumps varning: Dåligt för Natos framtid - Västerbottens-Kuriren
+- Ingmar Nevéus: Ingen tycks ha förklarat för Trump hur oljemarknaden fungerar - Dagens Nyheter
+- Tågstopp mellan Malmö och Göteborg - Aftonbladet
+- Man höggs ihjäl i lägenhet – misstänkt åtalas för mord - Omni
+- 16 mars 12.06, Försvunnen person, Örebro - Polisen.se
 - John Walter dog – nu tar föräldrarna fallet till Europadomstolen - NWT
-- Sverige flyttar ambassadpersonal från Iran - Norran
-- Ännu en våg av bedrägerier riktade mot äldre - UNT
-- Ebba Buschs hot mot Danmark: ”På väg att bli ond” - Expressen
-- Erik de la Reguera: Nationell samling går framåt – men allianser avgör - Dagens Nyheter
+- DN Direkt – L startar internutredning om Mohamssons vändning - Dagens Nyheter
+- Sverige flyttar personal från ambassaden i Iran - Omni
+- Buschs hot mot Danmark: ”På väg att bli ond” - Dagens Nyheter
+- Trump får nobben av allierade: ”Inte Natos krig” - GP
+- Lång kö när slutpläderingarna inleds i Oslo tingsrätt – Rättegången i Norge mot Marius Borg Høiby - SVT Nyheter
 - Ayatollans flygplan förstört - Västerbottens-Kuriren
-- Israeliska markstyrkor går längre in i Libanon - Hufvudstadsbladet
-- Amnesty: USA bakom attacken mot skolan - Västerbottens-Kuriren
+- Politik och persiska grytor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kinnevik sparkar vd Georgi Ganev - Finanswatch.se
-- Kryptosparare döms till fängelse – deklarerade inte - Dagens PS
-- Affärsvärlden lockas inte av Hemnet trots kursfallet - Affärsvärlden
-- Nu börjar historiens största arvskifte – så påverkas svenskar - Dagens PS
+- Flygande elbåtar vill ta världen med storm - Dagens Nyheter
+- UBS höjer Hemnet till neutral - flaggar för att volymer kan återhämta sig snart men ser samtidigt osäkerhet - Börsvärlden
+- 36-åringen flyttade till Spanien – jobbar 16 timmar i veckan - Dagens PS
 - Se här: Extremt sällsynt fenomen kan avslöja hemlighet om månen - Illustrerad Vetenskap
 - Civilministern reser till San Francisco för att stärka nordiskt tekniksamarbete - Regeringen.se
 
 ## World News
 
+- Halvledarsektorn stiger inför global AI-konferens - DI
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Swedish labour market improves despite global turbulence - Sveriges Radio
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - World - Hürriyet Daily News
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Swedish labour market improves despite global turbulence - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -84,36 +84,35 @@ _Updated: 2026-03-16 15:59_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Johan von Schreeb - Karolinska Institutet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa och teknik - Chalmers tekniska högskola
-- Översikt - health.ec.europa.eu
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Engineering Health 2024 - Chalmers tekniska högskola
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
