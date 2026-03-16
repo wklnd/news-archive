@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 22:05_
+_Updated: 2026-03-16 23:21_
 
-- Middle East crisis live: European countries resist Trump’s demand for help to clear the strait of Hormuz - The Guardian
-- Wiles announces cancer diagnosis, plans to stay in job - Politico
+- Trump side-stepped diplomacy on his way to war in Iran. Now, he's asking China and others for help - AP News
+- Trump Airs a House Republican’s Terminal Diagnosis, Claiming to Have Reversed It - The New York Times
 - Cuba’s power system suffers total collapse - CNN
-- Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations - The New York Times - The New York Times
-- Live updates: Rare severe storm outbreak targets East Coast, historic blizzard paralyzes the Midwest - FOX Weather
-- Cuba will allow nationals living abroad to invest in and own businesses on the island, economic czar tells NBC News - NBC News
+- EU's Kallas floats Black Sea model to unblock Strait of Hormuz - Reuters
+- Wiles announces cancer diagnosis, plans to stay in job - Politico
+- Dubai Resumes Flights After Drone Caused Airport Fuel Fire - Bloomberg.com
+- Trump claims he has ‘absolute right’ to impose new tariffs after supreme court blow - The Guardian
+- US airline CEOs urge Congress to end shutdown and pay airport workers - BBC
+- Snow and wind batter parts of US, with threat of thunderstorms and tornadoes starting later Sunday - AP News
 - Afghan man who served alongside US forces dies after less than a day in ICE custody, family and advocates say - CNN
-- ‘We’re going to have a problem’: Republicans want Trump to move on from 2020 - Politico
-- ‘Radiant’ mother from Kentucky was among 6 US service members killed in air crash in Iraq - AP News
-- In Tense Meeting, Dr. Oz Pressed Medical Societies on Trans Care for Teens - The New York Times - The New York Times
-- Trump says unclear if Iran's leader Mojtaba Khamenei is 'dead or not' - Euronews.com
-- Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post
-- UK, Allies Refuse Trump Call to Send Warships as Strait of Hormuz Blocked - Kyiv Post
+- Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping - AP News
+- 'I'll knock the hell out of it.' Trump warns U.S. could attack Kharg Island again in call with PBS News - PBS
 - Iran uses 'dancing missile' Sejjil against US-Israel: What makes it different? - WION
-- Live Updates: Iran war keeps oil and gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
-- Thousands of meatpacking workers walk off job in first strike in 40 years - CNN
+- Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei - The New York Times
 - How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect - TechCrunch
-- US flight cancellations, ground delays surge as massive March storm disrupts travel - Fox Business
-- Apple quietly launches AirPods Max 2 - TechCrunch
-- MacBook Neo Components Required A ‘Rethink’ From Apple To Get Down To That $599 Price, New Report Says A Touchscreen In Newer Models Isn’t ‘Plausible’ - Wccftech
+- 3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News
+- Oil Declines, Giving Stocks and Bonds a Boost: Markets Wrap - Bloomberg.com
+- Teens allege Musk’s Grok chatbot made sexual images of them as minors - The Washington Post
+- NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games - NVIDIA Newsroom
+- The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit - TechCrunch
