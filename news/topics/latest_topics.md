@@ -1,35 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-16 23:05_
+_Updated: 2026-03-17 00:02_
 
 ## Top Stories
 
-- Axel Darvik om SD-svängen: ”Bra och nödvändigt” - GP
-- Uppgifter: Iran och USA har varit i kontakt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Vi har träffat över 7 000 mål i Iran - Dagens Nyheter
-- Två döda efter utbrott i England - GP
-- EU:s utrikesministrar möts om Hormuz och ukrainskt krigsstöd - Europaportalen
-- Hela Kuba drabbat av strömavbrott - Corren
-- DN Direkt – Kvinna död i skoterolycka - Dagens Nyheter
+- Trump får nobben av allierade: ”Inte Natos krig” - Corren
+- DN Direkt – L-ministrarna: Avgår om Simona Mohamsson petas - Dagens Nyheter
+- Trump: 7 000 mål träffade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Massavhopp: Rektorer lämnar Kungsladugårdsskolan - GP
+- ”Fritt fram” – största vinnaren på Irankriget - SvD
+- Mamman skulle ”strypa åt” pengarna – blev mördad - Aftonbladet
+- Just nu: Kvinna avliden efter skoterolycka - Västerbottens-Kuriren
+- John Walter dog – nu tar föräldrarna fallet till Europadomstolen - NWT
 - Birgitta Ohlsson: ”Absolut inte intresserad” – Senaste nytt om valet 2026 - SVT Nyheter
 - Stort beslag av handgranater i Västsverige - GP
-- Tankfartygets ryske befälhavare har häktats - Aftonbladet
-- Hon vill stoppa Greta Thunberg vid danska gränsen - Dagens Nyheter
-- Israeliska militären i markoffensiv i Libanon - GP
-- Ovanlig dagsljusattack i Kiev - Corren
-- Åklagare i Høiby-fallet: Han är inget monster - Västerbottens-Kuriren
+- Hela Kuba drabbat av strömavbrott - Hufvudstadsbladet
+- Pakistan bekräftar lufträder mot mål i Kabul - Corren
+- Flera döda i bombdåd i Nigeria - Västerbottens-Kuriren
+- DN Direkt – Domare stoppar Kennedys vaccinplan för barn - Dagens Nyheter
 - Handeln återupptogs på råvarubörsen i London - Omni
+- Trendbrott på börsen när oljepriset föll – halvledarbolag rusade - EFN
+- Fler kan gå i tidig pension – advokaten varnar för arvsfälla - Dagens PS
 - Miljonböter mot Alecta efter fiaskoinvestering - SvD
-- Parkeringsjätten i konkurs efter ändrade shoppingvanor - Dagens PS
-- Tjänstepensionen lurar dig till pension i förtid: "Viktigt att känna till" - News55
-- Livets byggstenar kan finnas i hela solsystemet - Dagens Nyheter
 - Civilministern reser till San Francisco för att stärka nordiskt tekniksamarbete - Regeringen.se
+- Samsung avslutar försäljningen av Galaxy Z TriFold - mobil.se
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på söndag 20:25 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Walmart-backed PhonePe pauses IPO plans as Middle East conflict fuels market volatility - Reuters
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -38,15 +40,13 @@ _Updated: 2026-03-16 23:05_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - NHL nobbar Sverige nästa säsong - hockeysverige.se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- #ScreenwritersEverywhere: Medie- och underhållningsfackföreningar i global solidaritet med WGA - UNI Global Union
 
 ## Technology
 
@@ -102,40 +102,40 @@ _Updated: 2026-03-16 23:05_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Översikt - health.ec.europa.eu
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Engineering Health 2024 - Chalmers tekniska högskola
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Johan von Schreeb - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 
 ## Jordbruk
 
