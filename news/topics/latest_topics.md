@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 00:02_
+_Updated: 2026-03-17 00:57_
 
 ## Top Stories
 
-- Trump får nobben av allierade: ”Inte Natos krig” - Corren
+- Donald Trumps känga till Nato: Varför skyddar vi er? - GP
 - DN Direkt – L-ministrarna: Avgår om Simona Mohamsson petas - Dagens Nyheter
 - Trump: 7 000 mål träffade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Myndigheter: Över 200 döda i attack mot Kabul - Västerbottens-Kuriren
 - Massavhopp: Rektorer lämnar Kungsladugårdsskolan - GP
-- ”Fritt fram” – största vinnaren på Irankriget - SvD
-- Mamman skulle ”strypa åt” pengarna – blev mördad - Aftonbladet
+- Två döda efter utbrott i England - GP
 - Just nu: Kvinna avliden efter skoterolycka - Västerbottens-Kuriren
 - John Walter dog – nu tar föräldrarna fallet till Europadomstolen - NWT
 - Birgitta Ohlsson: ”Absolut inte intresserad” – Senaste nytt om valet 2026 - SVT Nyheter
 - Stort beslag av handgranater i Västsverige - GP
-- Hela Kuba drabbat av strömavbrott - Hufvudstadsbladet
-- Pakistan bekräftar lufträder mot mål i Kabul - Corren
-- Flera döda i bombdåd i Nigeria - Västerbottens-Kuriren
-- DN Direkt – Domare stoppar Kennedys vaccinplan för barn - Dagens Nyheter
-- Handeln återupptogs på råvarubörsen i London - Omni
-- Trendbrott på börsen när oljepriset föll – halvledarbolag rusade - EFN
+- Flera bombdåd kräver många dödsoffer i Nigeria - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Källor: USA och Iran i samtal - Dagens Nyheter
+- Markoffensiven i Libanon kan bli omfattande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ovanlig dagsljusattack i Kiev - GP
+- DN Direkt – Stopp för handel med metaller i London - Dagens Nyheter
+- UBS höjer Hemnet till neutral - flaggar för att volymer kan återhämta sig snart men ser samtidigt osäkerhet - Börsvärlden
 - Fler kan gå i tidig pension – advokaten varnar för arvsfälla - Dagens PS
-- Miljonböter mot Alecta efter fiaskoinvestering - SvD
-- Civilministern reser till San Francisco för att stärka nordiskt tekniksamarbete - Regeringen.se
+- Hundratals skalv i Garpenberg: ”Så många har inte setts på 20 år” - Dala-Demokraten
 - Samsung avslutar försäljningen av Galaxy Z TriFold - mobil.se
+- Ölmstad Smide & Mekaniska ökar - Jönköpings-Posten
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på söndag 20:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på söndag 20:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Walmart-backed PhonePe pauses IPO plans as Middle East conflict fuels market volatility - Reuters
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Walmart-backed PhonePe pauses IPO plans as Middle East conflict fuels market volatility - Reuters
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -117,6 +117,7 @@ _Updated: 2026-03-17 00:02_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -124,13 +125,12 @@ _Updated: 2026-03-17 00:02_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -141,8 +141,8 @@ _Updated: 2026-03-17 00:02_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -151,11 +151,11 @@ _Updated: 2026-03-17 00:02_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - De gick från reko till eko - ST-tidningen
-- Framtidens jordbruk är här - Shaping Europe’s digital future
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Soffa.jpg - Mynewsdesk
+- Mjau_gåvoshop_mars - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
