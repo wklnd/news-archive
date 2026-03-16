@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-16 21:34_
+_Updated: 2026-03-16 22:01_
 
 ## Top Stories
 
-- Så svängde Liberalerna om SD – spelet bakom - GP
-- Efter Trumps Natohot: Inte aktuellt för Sverige - Västerbottens-Kuriren
-- Trump: 7 000 mål träffade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Misstänkta skuggflottan – så länge kan de bli kvar - Västerbottens-Kuriren
+- DN Direkt – L-ministrarna: Avgår om Simona Mohamsson petas - Dagens Nyheter
+- Markoffensiven i Libanon kan bli omfattande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Mamman skulle ”strypa åt” pengarna – blev mördad - Aftonbladet
 - Sjukdomsutbrott i Storbritannien – två elever döda - Expressen
-- Hela Kuba drabbat av strömavbrott - Corren
-- HD prövar inte fallet John Walter – familjen tar det vidare - TV4 Nyheterna
-- S uppmanar regeringen att införa nytt energiråd - Omni
+- Åklagaren: Knivmordet i Slottsstaden var planerat – inte nödvärn - Sydsvenskan
+- Trumps stabschef har fått cancer – ska stanna i Vita huset - Omni
+- DN Direkt – Person död i skoterolycka - Dagens Nyheter
 - L får fler medlemmar – sedan SD-beskedet – Senaste nytt om valet 2026 - SVT Nyheter
-- Buschs hot mot Danmark: ”På väg att bli ond” - Dagens Nyheter
-- Israeliska militären i markoffensiv i Libanon - Västerbottens-Kuriren
-- Ovanlig dagsljusattack i Kiev - Corren
+- Sverige flyttar ambassadpersonal från Iran - Västerbottens-Kuriren
+- Stort beslag av handgranater i Västsverige - GP
+- Totalt strömavbrott på Kuba – över 10 miljoner drabbade - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Trump: Vi har träffat över 7 000 mål i Iran - Dagens Nyheter
+- Ovanlig dagsljusattack i Kiev - GP
 - Rättegången mot Marius Borg Høiby – detta har hänt - GP
-- Trumps varning: Dåligt för Natos framtid - Västerbottens-Kuriren
 - Handeln återupptogs på råvarubörsen i London - Omni
 - Miljonböter mot Alecta efter fiaskoinvestering - SvD
 - Parkeringsjätten i konkurs efter ändrade shoppingvanor - Dagens PS
@@ -30,6 +30,7 @@ _Updated: 2026-03-16 21:34_
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Walmart-backed PhonePe pauses IPO plans as Middle East conflict fuels market volatility - Reuters
 - World - Hürriyet Daily News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -41,12 +42,11 @@ _Updated: 2026-03-16 21:34_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- New Secretary General appointed - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -79,14 +79,14 @@ _Updated: 2026-03-16 21:34_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny nyckelrekrytering utmanar konkurrenterna - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -120,35 +120,36 @@ _Updated: 2026-03-16 21:34_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 5 myter om öppen vetenskap - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- AI och data science - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Karolinska Institutet Psychology Speaker Series - Daniel Kahneman - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -158,4 +159,3 @@ _Updated: 2026-03-16 21:34_
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
