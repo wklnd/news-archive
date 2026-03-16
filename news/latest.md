@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 23:21_
+_Updated: 2026-03-17 00:05_
 
-- Trump side-stepped diplomacy on his way to war in Iran. Now, he's asking China and others for help - AP News
+- Trump draws backlash for comment on Iran war: ‘Maybe we shouldn’t even be there’ - The Guardian
+- US judge blocks efforts to reshape childhood vaccine policy - CNN
 - Trump Airs a House Republican’s Terminal Diagnosis, Claiming to Have Reversed It - The New York Times
-- Cuba’s power system suffers total collapse - CNN
-- EU's Kallas floats Black Sea model to unblock Strait of Hormuz - Reuters
-- Wiles announces cancer diagnosis, plans to stay in job - Politico
-- Dubai Resumes Flights After Drone Caused Airport Fuel Fire - Bloomberg.com
+- Cuba's national electric grid collapses, leaving millions without power - Reuters
+- Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post
+- Border Patrol official Gregory Bovino to retire from federal service, sources say - CBS News
+- Trump Administration Live Updates: Supreme Court Defers Decision on Ending Protections for Haitians and Syrians - The New York Times
+- Michigan synagogue attacker's brother was Hezbollah commander, IDF says - BBC
+- Travelers face long lines at airports after TSA workers miss first full paycheck - CBS News
 - Trump claims he has ‘absolute right’ to impose new tariffs after supreme court blow - The Guardian
-- US airline CEOs urge Congress to end shutdown and pay airport workers - BBC
-- Snow and wind batter parts of US, with threat of thunderstorms and tornadoes starting later Sunday - AP News
-- Afghan man who served alongside US forces dies after less than a day in ICE custody, family and advocates say - CNN
-- Israel steps up campaign in Lebanon, as Iran keeps stranglehold on shipping - AP News
-- 'I'll knock the hell out of it.' Trump warns U.S. could attack Kharg Island again in call with PBS News - PBS
-- Iran uses 'dancing missile' Sejjil against US-Israel: What makes it different? - WION
 - Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei - The New York Times
+- Top EU diplomat to Trump: Europe exploring ways to secure Strait of Hormuz - politico.eu
+- UK, Allies Refuse Trump Call to Send Warships as Strait of Hormuz Blocked - Kyiv Post
+- Live Updates: Iran war keeps gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
 - How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect - TechCrunch
-- 3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News
-- Oil Declines, Giving Stocks and Bonds a Boost: Markets Wrap - Bloomberg.com
-- Teens allege Musk’s Grok chatbot made sexual images of them as minors - The Washington Post
+- 3,800 workers strike at one of the largest meatpacking plants in the US - AP News
+- 12,000 Flight Delays And Cancellations Amid More Bad Weather - Forbes
+- Iran War Risks Sharpening Fed Divisions Over Rate Cuts - The New York Times
+- Apple quietly launches AirPods Max 2 - TechCrunch
 - NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games - NVIDIA Newsroom
-- The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit - TechCrunch
