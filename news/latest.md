@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 19:44_
+_Updated: 2026-03-16 20:38_
 
-- European countries reject Trump’s call for help to reopen strait of Hormuz - The Guardian
+- Live updates: Iran war news; Trump criticizes allies who rebuffed his calls to help secure Strait of Hormuz - CNN
 - Live updates: Rare severe storm outbreak targets East Coast, historic blizzard paralyzes the Midwest - FOX Weather
-- White House chief of staff Susie Wiles diagnosed with 'early stage breast cancer': Trump - CNBC
-- Live Updates: Iran war keeps oil and gas prices up, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
+- Susie Wiles, Trump’s White House Chief of Staff, Has Breast Cancer - The New York Times - The New York Times
 - 'Lost one leg': Iran's new leader Mojtaba Khamenei secretly flown to Russia for surgery, says report - WION
-- Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post
-- Afghan man who served alongside US forces dies after less than a day in ICE custody, family and advocates say - CNN
+- Cuba will allow nationals living abroad to invest in and own businesses on the island, economic czar tells NBC News - NBC News
+- US 'locked and loaded' to destroy Iran’s 'crown jewel' 'if we want,' Trump warns - Fox News
+- Afghan asylum-seeker dies after less than 24 hours in ICE custody - NBC News
+- ‘Radiant’ mother from Kentucky was among 6 US service members killed in air crash in Iraq - AP News
 - In Tense Meeting, Dr. Oz Pressed Medical Societies on Trans Care for Teens - The New York Times - The New York Times
-- More airport disruptions expected as TSA agents quit amid first weekend without full pay - CNN
-- ‘We’re going to have a problem’: Republicans want Trump to move on from 2020 - Politico
-- IDF planning 3 more weeks of operations to systematically degrade Iran’s defense industry - The Times of Israel
-- UK's Starmer resists being drawn into wider Iran war, offers help on strait - Reuters
-- Pope Leo decries 'atrocious violence' in Iran war, urges ceasefire - Reuters
-- Iran uses 'dancing missile' Sejjil against US-Israel: What makes it different? - WION
-- US oil prices could see another day of wild fluctuation as Iran war drags on - The Guardian
-- Dow bounces 300 points to start the week as oil prices fall back to $95 a barrel: Live updates - CNBC
+- Strong storms take down trees, cause damage across Charlotte area - WCNC
+- Iran targets commerce as drone hits Dubai airport; Israel says war will go on - The Washington Post
+- EU's Kallas floats Black Sea model to unblock Strait of Hormuz - Reuters
+- Top EU diplomat to Trump: Europe exploring ways to secure Strait of Hormuz - politico.eu
+- Israeli soldiers fire on family car in occupied West Bank, killing 4 - NBC News
+- Oil prices hold over $100 as Middle East conflict rages on: 'A high stakes stalemate' - Yahoo Finance
+- 3,800 workers are on strike at one of the largest meatpacking plants in the US - AP News
 - Nebius Stock Pops On Expanded Meta Deal. Cloud Firm Reaffirms Guidance. - Investor's Business Daily
-- Meta may lay off 20% of staff while making two big statements about AI - MarketWatch
+- Bitcoin's price trades above its 50-day average as bullish move gathers pace - CoinDesk
 - Apple quietly launches AirPods Max 2 - TechCrunch
 - MacBook Neo Components Required A ‘Rethink’ From Apple To Get Down To That $599 Price, New Report Says A Touchscreen In Newer Models Isn’t ‘Plausible’ - Wccftech
