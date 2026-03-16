@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-16 01:58_
+_Updated: 2026-03-16 05:46_
 
-- Exclusive: Trump Administration Plans to Announce Coalition to Escort Ships Through Strait of Hormuz - WSJ
-- US and Iran Keep Up Strikes as Trump Mulls Possibility of a Deal - Bloomberg.com
-- Travel not advised in parts of southern Minnesota as major snowstorm winds down - CBS News
+- Trump eyes "Hormuz Coalition," seizure of Iran's Kharg Island oil hub - Axios
+- 4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family - The New York Times
+- AP analysis: Two weeks into war with Iran, Trump has been knocked back on his political heels - PBS
 - U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say - CBS News
-- Live updates: Gulf countries report new attacks after Iran warns major UAE ports to evacuate - AP News
-- Trump's energy chief: "No guarantees" gas prices will fall in weeks - Axios
+- Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian' - CNBC
+- ‘Triple-threat megastorm’ to scatter snow, high winds and thunder across US - The Guardian
 - CEOs of top airlines demand Congress restore funding to Homeland Security and pay airport workers - AP News
-- U.S. names troops killed in Iraq aircraft crash while supporting Iran war - The Washington Post
-- The Trump health care policy red and blue states are embracing - Politico
-- Transcript: Rep. Dan Crenshaw on "Face the Nation with Margaret Brennan," March 15, 2026 - CBS News
+- Powerful Winter Storm Disrupts Travel and Knocks Out Power in the Upper Midwest - The New York Times
+- The National Park Service race to rewrite history becomes a slog - Politico
+- Dangerous storm outbreak could slam D.C. area Monday; tornadoes possible - The Washington Post
+- The Latest: Gulf countries report new attacks after Iran warns major UAE ports to evacuate - KTLA
+- 5 takeaways from France’s local elections - politico.eu
+- Kazakhstanis vote in referendum on new constitution that would cement president's grip on power - AP News
 - Pakistani-Afghan War Takes Heavy Toll on Civilians - The New York Times
-- Small, divided and wary, Kurdish rebels won’t be the ones bringing down Iran’s regime - The Times of Israel
-- France votes in mayoral elections ahead of 2027 showdown - Financial Times
-- African nations tiptoe around recruitment of citizens by Russian networks - Reuters
-- Stock Trader’s Guide to Navigating Supply Disruption by Iran War - Bloomberg.com
-- Use the stairs, work from home: Asia is already making big changes as oil prices spike - NBC News
+- Oil prices climb despite Trump moves to temper market - Axios
+- U.S. oil CEOs warn Trump officials energy turmoil could worsen - Seeking Alpha
 - Emergency stockpile oil coming soon to Iran-wracked markets, IEA says - Reuters
-- Satya Nadella Says "All Software Is Being Rewritten." Here's 1 of the Best Artificial Intelligence (AI) Stocks to Own for 2026. - The Motley Fool
+- The Washington Post Lost Over 60,000 Subscribers Following Winter Layoffs - TheWrap
 - iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard - MacRumors
-- From the Chaos Vault: Secret Lair Dandân Decklist - Magic: The Gathering
+- Apple's 2026 Studio Display Hits New Low Prices on Amazon at Up to $100 Off - MacRumors
