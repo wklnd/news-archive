@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 01:01_
+_Updated: 2026-03-18 01:55_
 
 ## Top Stories
 
 - Iran bekräftar: Gholamreza Soleimani död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
-- Över 900 döda i Libanon – nya attacker - GP
-- Eldfesten firades i Malmö: ”Extra viktigt nu” - Dagens Nyheter
-- Karl Dalén: Inte konstigt att USA:s allierade säger nej - Dagens Nyheter
-- Skogsbrand i Norge – 450 evakueras - GP
+- Skogsbrand i Norge – 450 evakueras - Västerbottens-Kuriren
+- USA ökar pressen på Kuba: ”Räcker inte” - GP
+- INSÄNDARE: Liberalernas svängning – ett nytt lågvattenmärke i politiken - Corren
+- Direkt – Krisen i Mellanöstern – Trump i ny attack mot Nato – ”Gör inget för oss” - Dagens Nyheter
 - Klartecken för lodjursjakt – överklagas igen - Västerbottens-Kuriren
-- DN Direkt – Fyra döda efter olycka i Wien - Dagens Nyheter
-- SD i Arvika om Liberalernas utspel: ”Lite dramatiskt” - Arvika Nyheter
-- Niklas Orrenius: Farligt om poliser på torskjakt blir fartblinda - Dagens Nyheter
+- Eldfesten firades i Malmö: ”Extra viktigt nu” - Dagens Nyheter
+- Bland de sämsta i Sverige: Göteborg stad sågas i ny rapport om självmord - GP
+- Fortkörningar: Körde 162 kilometer i timmen på 100-sträcka - Kuriren
+- Antiterrorchef avgår i protest mot kriget mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Flera dödade i anfall mot Libanon - Västerbottens-Kuriren
 - Mette-Marits hälsa sämre – skippar statsbesök - GP
-- Demokratin försvagas i en rad länder – i USA syns brantaste raset - Forskning.se
 - Direkt – Krisen i Mellanöstern – Finlands ambassad i Bagdad träffad av drönare - Dagens Nyheter
-- Trump ligger under i kriget om oljan - Proletären
-- SAS: Minst 1 000 avgångar ställs in i april - SVT Nyheter
+- SAS vd: Ställer in tusen avgångar i april - Dagens industri
+- Rusning att deklarera: ”Är som lite av en sport” - Svenska Dagbladet
 - Nya Kinnevik-vd:ns portfölj: Försvarsbolag och konkurser - EFN
 - Nedskärningar på Nordea – 1 500 omfattas - Hufvudstadsbladet
-- Skuldtyngda Hedins ägare köper sig tid för miljardlån - Dagens industri
 - Xiaomi lanserar två nya Poco-modeller - mobil.se
 - Starfield till PS5 7 april – med rymdresor och nytt story-DLC - FZ.se
 
@@ -38,14 +38,14 @@ _Updated: 2026-03-18 01:01_
 - Halvledarsektorn stiger inför global AI-konferens - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Cameron – smittad av skandalen - Aftonbladet
+- NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
@@ -74,70 +74,70 @@ _Updated: 2026-03-18 01:01_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Institutionen för vårdvetenskap - Malmö universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Johan von Schreeb - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa och teknik - Chalmers tekniska högskola
+- Engineering Health 2024 - Chalmers tekniska högskola
 - Översikt - health.ec.europa.eu
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- KI inrättar ny donationsprofessur i integrativ odontologi - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
+- The Cell: elever utforskar forskning och konst genom experiment - Karolinska Institutet
 
 ## Jordbruk
 
@@ -158,6 +158,6 @@ _Updated: 2026-03-18 01:01_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
