@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-17 23:20_
+_Updated: 2026-03-18 00:04_
 
+- National Counterterrorism Center director resigns over Iran war - NBC News
 - Most NATO members reject U.S.-led Hormuz Strait coalition, Trump says - Axios
-- Death of influential Ali Larijani would be bigger loss to Iran than Khamenei - The Guardian
-- Trump’s top counterterrorism aide resigns, citing Iran war - Politico
-- Senate poised to take up Trump’s voting bill to ‘guarantee the midterms’ - The Washington Post
-- ‘Troubling’ allegations against Cesar Chavez prompt UFW to cancel celebrations - Los Angeles Times
-- Illinois primary puts Democratic divides on display up and down the ballot - NBC News
-- Meteor over Ohio causes large boom heard as far away as Pennsylvania - The Guardian
+- Israel says it killed Iranian security chief Ali Larijani in air strike - BBC
+- Senate votes to take up Trump’s voting bill to ‘guarantee the midterms’ - The Washington Post
+- Election Day turnout for 2026 primary falls short of amped-up early voting so far: Live Updates - Chicago Sun-Times
+- Government shutdown may lead to airport closures, Trump official says - USA Today
+- NASA: ‘Fireball’ over PA, Ohio caused by 6 foot, 7-ton asteroid that broke apart - WTAE
 - AIPAC, the Pro-Israel Group, Becomes a Major Issue in Illinois Democratic House Races - The New York Times
-- M.T.A. Sues Trump Administration to Release 2nd Avenue Subway Funding - The New York Times
-- The Mobile, Ala., Leprechaun Lives On 20 Years Later - The New York Times
-- Dozens Dead in Pakistani Airstrike on Kabul - The New York Times
+- Oil flows again through controversial California pipeline after Trump order - The Guardian
+- Roberts defends Supreme Court against Trump attacks - Politico
+- Families search for loved ones after deadly Pakistan strike on Kabul rehab - Al Jazeera
+- Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention - Al Jazeera
 - Ukraine strings nets over cities as killer drones turn streets into war zones - NPR
-- The war created an oil problem. It’s not the only price you’ll pay - CNN
-- Exclusive: Iran's new supreme leader rejects de-escalation proposals conveyed by intermediaries, Iran official says - Reuters
+- Exclusive: US encourages Syrian action against Hezbollah, Damascus is hesitant, sources say - Reuters
 - S&P 500 closes higher as oil price gains temper rebound from Iran conflict turmoil - CNBC
 - New economic projections signal a tricky Federal Reserve path - Axios
-- Arizona Charges Kalshi With Illegal Gambling Operation - Bloomberg.com
-- Flight Costs Are Up, but Travelers Aren’t Deterred, U.S. Airlines Say - The New York Times
+- Don’t expect your state to give you a gas tax holiday anytime soon - CNN
+- Nebius stock plunges as company says it will raise $3.75 billion in debt after Meta, Nvidia deals - Yahoo Finance
 - Gamers react with overwhelming disgust to DLSS 5’s generative AI glow-ups - Ars Technica
 - Samsung finally responds to complaints about the Galaxy S26 Ultra's headline feature, but the explanation feels... questionable - PhoneArena
