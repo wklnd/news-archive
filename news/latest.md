@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-18 00:04_
+_Updated: 2026-03-18 01:04_
 
-- National Counterterrorism Center director resigns over Iran war - NBC News
-- Most NATO members reject U.S.-led Hormuz Strait coalition, Trump says - Axios
-- Israel says it killed Iranian security chief Ali Larijani in air strike - BBC
-- Senate votes to take up Trump’s voting bill to ‘guarantee the midterms’ - The Washington Post
-- Election Day turnout for 2026 primary falls short of amped-up early voting so far: Live Updates - Chicago Sun-Times
-- Government shutdown may lead to airport closures, Trump official says - USA Today
-- NASA: ‘Fireball’ over PA, Ohio caused by 6 foot, 7-ton asteroid that broke apart - WTAE
-- AIPAC, the Pro-Israel Group, Becomes a Major Issue in Illinois Democratic House Races - The New York Times
-- Oil flows again through controversial California pipeline after Trump order - The Guardian
+- Trump slams Joe Kent after resignation: Iran war live updates - USA Today
+- Trump slams NATO allies for not joining Iran war effort, says U.S. never needed their help - CNBC
+- Iranian security chief Ali Larijani killed in air strike - BBC
+- House conservatives revolt over stalled SAVE Act - Axios
+- ‘Profoundly shocking’ allegations against Cesar Chavez spark soul-searching in movement - Los Angeles Times
 - Roberts defends Supreme Court against Trump attacks - Politico
+- Meteor over Ohio causes large boom heard as far away as Pennsylvania - The Guardian
+- In Illinois, AIPAC Becomes a Major Issue in Democratic House Races - The New York Times
+- Oil flows again through controversial California pipeline after Trump order - The Guardian
+- M.T.A. Sues Trump Administration to Release 2nd Avenue Subway Funding - The New York Times
 - Families search for loved ones after deadly Pakistan strike on Kabul rehab - Al Jazeera
 - Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention - Al Jazeera
+- Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ
 - Ukraine strings nets over cities as killer drones turn streets into war zones - NPR
-- Exclusive: US encourages Syrian action against Hezbollah, Damascus is hesitant, sources say - Reuters
-- S&P 500 closes higher as oil price gains temper rebound from Iran conflict turmoil - CNBC
-- New economic projections signal a tricky Federal Reserve path - Axios
-- Don’t expect your state to give you a gas tax holiday anytime soon - CNN
+- Gas Prices Keep Rising as Seasonal Changes Add to Oil Price Pressure - The New York Times
+- How many rate cuts? Iran war upends Federal Reserve’s next steps - AP News
 - Nebius stock plunges as company says it will raise $3.75 billion in debt after Meta, Nvidia deals - Yahoo Finance
+- Stock Market Today: Dow Advances, Oil Gains Amid Mideast Attacks — Live Updates - WSJ
 - Gamers react with overwhelming disgust to DLSS 5’s generative AI glow-ups - Ars Technica
 - Samsung finally responds to complaints about the Galaxy S26 Ultra's headline feature, but the explanation feels... questionable - PhoneArena
