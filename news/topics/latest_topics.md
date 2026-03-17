@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 17:38_
+_Updated: 2026-03-17 19:36_
 
 ## Top Stories
 
-- Skjuter ned Trumps krav – ”USA får städa upp själv” - Hufvudstadsbladet
-- Han är mannen bakom Mohamssons slakt av Liberalerna - Arbetet
-- Israel: Irans säkerhetschef Ali Larijani dödad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Därför bordar Kustbevakningen statslösa fartyg just nu - Dagens Nyheter
-- Nuvarande generation av Millennium bedöms inte bli användbart - Region Skåne
-- Nu startar licensjakten på lodjur – så många finns i Värmland - Arvika Nyheter
-- Jan Jönsson lämnar partistyrelsen - Altinget.se
-- Polisen varnar för strypsex: Syrebrist på sekunder - Västerbottens-Kuriren
-- Extrem Kalmardominans – här är årets lag i Vi i Femman - Dagens Vimmerby
-- Kris på flera fronter inom äldreomsorgen - Dagens Arena
+- Bengt Westerberg: “Det parti jag ledde finns inte längre” - Dagens Arena
+- Expert: ”Största bakslaget sedan Khameneis död” - GP
 - Antiterrorchef avgår i protest mot kriget mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Talibanerna: 400 dödade i attack mot Kabul - Västerbottens-Kuriren
+- Nuvarande generation av Millennium bedöms inte bli användbar - Region Skåne
+- Nu startar licensjakten på lodjur – så många finns i Värmland - Arvika Nyheter
+- Myndighetens skräckrapport – larmar om svensk äldrevård - Arbetet
+- Jan Jönsson lämnar partistyrelsen - Altinget.se
+- Skolmaterial om strypvåld - Polisen.se
+- Därför bordar Kustbevakningen statslösa fartyg just nu - Dagens Nyheter
+- Eldfester ställs in efter hot mot exiliranier - GP
+- Ilsken Trump anklagar allierade om Hormuz - Västerbottens-Kuriren
 - Jordbävning och nationellt strömavbrott på Kuba - Dagens Nyheter
-- Mette-Marits hälsa sämre – skippar statsbesök - Västerbottens-Kuriren
-- Fråga om deklarationen 2026 – Skatteverkets experter svarar - SVT Nyheter
+- Mette-Marits hälsa sämre – skippar statsbesök - GP
+- Regimen förbjuder alkohol på Damaskus barer - Dagens Nyheter
+- Citi: Fler storbanker kan följa efter Nordea - EFN
 - Kinneviks nya plan: Ritter storstädar inför nästa VD - Affärsvärlden
-- Nedskärningar på Nordea – 1 500 omfattas - Västerbottens-Kuriren
-- Europas gröna elmarknad dämpar prischocken - Dagens PS
-- Livets byggstenar kan finnas i hela solsystemet - Dagens Nyheter
-- Sökfunktionen i Utforskaren är nu snabbare - PC för Alla
+- Fråga om deklarationen 2026 – Skatteverkets experter svarar - SVT Nyheter
+- Teslas Cybertruck kan få oväntad roll – testas för militären - Dagens PS
+- Nvidia visade upp ny AI-teknik för spelgrafik - Omni
+- Starfield till PS5 7 april – med rymdresor och nytt story-DLC - FZ.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-03-17 17:38_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Halvledarsektorn stiger inför global AI-konferens - Dagens industri
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -57,15 +57,15 @@ _Updated: 2026-03-17 17:38_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -79,17 +79,17 @@ _Updated: 2026-03-17 17:38_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
+- Ny bok ger nycklarna till att lyckas på Amazon - Mynewsdesk
 
 ## Health
 
@@ -97,22 +97,22 @@ _Updated: 2026-03-17 17:38_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Institutionen för vårdvetenskap - Malmö universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Översikt - health.ec.europa.eu
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Anna Mia Ekström - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Johan von Schreeb - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -141,19 +141,19 @@ _Updated: 2026-03-17 17:38_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
-- Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
