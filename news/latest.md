@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-17 16:04_
+_Updated: 2026-03-17 17:43_
 
-- Live Updates: Israel kills 2 senior Iran leaders as allies reject Trump's call for Strait of Hormuz help - CBS News
-- Iran war: Germany's Merz distances himself from Trump - DW.com
-- Illinois primary puts Democratic divides on display up and down the ballot - NBC News
-- Afghanistan: Pakistan blamed after air strike on Kabul rehab centre kills at least 100 - BBC
-- What’s in the voting bill that Republicans are pushing to the Senate floor - AP News
-- Judge halts RFK Jr.’s vaccine overhaul, citing flawed process - The Washington Post
+- Joe Kent, a Top U.S. Counterterrorism Official, Resigns Over the Iran War - The New York Times
+- Israel says it killed Ali Larijani, Iran’s top security official, in strike - The Washington Post
+- U.S. seeks NATO help with Strait of Hormuz. And, federal judge blocks vaccine changes - NPR
+- Exclusive: Iran's new supreme leader rejects de-escalation proposals conveyed by intermediaries, Iran official says - Reuters
+- Illinois voters pick a new generation of Democrats for House, Senate after near-record retirements - AP News
 - ‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control - Politico
+- How Trump's long-shot voting bill could hurt his own supporters - Reuters
+- Oil flows through Santa Barbara coastal pipeline for first time in decade amid Trump's fight with California - Los Angeles Times
 - Supreme Court to consider Trump administration's efforts to end deportation protections for Syrians, Haitians - CBS News
 - Grief author Kouri Richins found guilty of murdering her husband - Axios
-- Trump says he can ‘take’ Cuba: ‘I can do anything I want with it’ - The Washington Post
+- Afghanistan: Pakistan air strike kills at least 100 at Kabul drug rehab centre - BBC
 - French far right struggles to deliver decisive breakthrough - politico.eu
-- UAE Holds 19 Indians Over Fake Social Media Posts - Gulte
-- Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say - AP News
-- Drone Strike Sets UAE Natural Gas Field Ablaze, Abu Dhabi Says - Bloomberg.com
-- S&P 500 futures rise slightly as market tries to continue rebound from Iran conflict turmoil: Live updates - CNBC
+- European leaders warn Israel against ground offensive in Lebanon - politico.eu
+- How Trump's Treasury is shifting sanctions to punish his critics and reward friends - NPR
+- After Pulling Back, Oil Prices Resume Their Rise - The New York Times
 - How the Iran war is an economic world war - Axios
-- Canadian Billionaire Smith Buys 26.9% of The Economist Magazine - Bloomberg.com
-- David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger - Variety
+- S&P 500 rises as market continues rebound from Iran conflict turmoil: Live updates - CNBC
+- Canadian billionaire Stephen Smith buys 27% stake in The Economist - Financial Times
 - OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO
-- Nvidia Wants to Slop-ify Your PC Games With Its New AI Upscaler - Gizmodo
+- Nvidia's DLSS 5 seems to cross the uncanny valley - theregister.com
