@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 12:25_
+_Updated: 2026-03-17 13:23_
 
 ## Top Stories
 
-- DN Direkt – Simona Mohamssons svar om kramen med Jimmie Åkesson - Dagens Nyheter
+- Liberalernas skamlösa definition av att ta ansvar - Arbetet
 - Israel: Irans säkerhetschef Ali Larijani dödad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Många sälkutar i Östersjön dör tidigt – undersöks - Dagens Nyheter
-- 50 000 nya vårdare behövs till äldreomsorgen 2030 - GP
-- Turisterna försvann – nu ekar lyxhotellen i Varadero tomma - Dagens Nyheter
-- Pressinbjudan: Regeringen presenterar nyheter på skogsområdet - Regeringen.se
-- Oro i onödan – maten räcker till svenskarna i kris - GP
-- Polisen visade bild på fel person – pressade misstänkt sexköpare med falska uppgifter - Dagens Nyheter
+- Demokratin i USA sämre än på 60 år: ”Dramatiskt” - Dagens Nyheter
+- DN Direkt – L-toppen hoppar av partistyrelsen - Dagens Nyheter
+- Myndigheter: Över 200 döda i attack mot Kabul - Västerbottens-Kuriren
+- DN Direkt – Snabbare avverkning med ny skogspolitik - Dagens Nyheter
+- 50 000 nya vårdare behövs till äldreomsorgen 2030 - Västerbottens-Kuriren
+- Skolmaterial om strypvåld - polisen.se
+- Nya undantaget från hårda sopregeln – så gör du - Dagens industri
 - Här är klasserna som tävlar i Vi i femman 2026 - Sveriges Radio
-- Här är kommunerna som är bäst – och sämst – på suicidprevention - Via TT
-- Markoffensiven i Libanon kan bli omfattande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Turisterna försvann – nu ekar lyxhotellen i Varadero tomma - Dagens Nyheter
+- Jordbävning och nationellt strömavbrott på Kuba - Dagens Nyheter
 - Donald Trumps känga till Nato: Varför skyddar vi er? - GP
 - Vance bryter tystnad om attacken: ”Vi har en smart president” - Dagens Nyheter
-- Polisen söker försvunnen flicka i Uppsala - Expressen
 - Här genomför Skatteverket extra kontroller: ”Helt ny ruta” - Aftonbladet
 - Nedskärningar på Nordea – 1 500 omfattas - Västerviks-Tidningen
+- Nvidia breddar samarbeten inom självkörande teknik - inkluderar en rad biltillverkare - Börsvärlden
 - Storfusion skakar bankvärlden: Över 10 000 jobb i fara - Dagens PS
-- FÖR SAMTAL OM FÖRVÄRV AV TK ELEVATOR - BN - Placera.se
 - TEST: Mest surfplatta för pengarna – får toppbetyg - Aftonbladet
-- Gammal ticka på åldrande tall - NWT
+- Det här är BMW:s knäppaste kombi någonsin. Började som ett aprilskämt. - feber.se
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- 48 städer krokar arm i global klimatomställning - Cision News
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 
 ## Technology
 
@@ -56,14 +56,14 @@ _Updated: 2026-03-17 12:25_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
