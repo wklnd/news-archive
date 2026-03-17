@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 19:36_
+_Updated: 2026-03-17 21:33_
 
 ## Top Stories
 
-- Bengt Westerberg: “Det parti jag ledde finns inte längre” - Dagens Arena
-- Expert: ”Största bakslaget sedan Khameneis död” - GP
+- INSÄNDARE: Liberalernas svängning – ett nytt lågvattenmärke i politiken - Corren
+- Direkt – Krisen i Mellanöstern – Trump i ny attack mot Nato – ”Gör inget för oss” - Dagens Nyheter
+- Bland de sämsta i Sverige: Göteborg stad sågas i ny rapport om självmord - gp.se
+- Över 900 döda i Libanon – nya attacker - gp.se
+- Millennium kan skrotas: ”Vi känner oss i någon mån lurade” - Sydsvenskan
+- Göteborgsläkare misstänkt ha svindlat VGR på 85 miljoner — åtalas - gp.se
+- Kris på flera fronter inom äldreomsorgen - Dagens Arena
+- Niklas Orrenius: Farligt om poliser på torskjakt blir fartblinda - Dagens Nyheter
+- Polisen varnar för strypsex: Syrebrist på sekunder - Västerbottens-Kuriren
+- Klart: Lodjursjakt tillåts i Uppsala - UNT
+- Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
 - Antiterrorchef avgår i protest mot kriget mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nuvarande generation av Millennium bedöms inte bli användbar - Region Skåne
-- Nu startar licensjakten på lodjur – så många finns i Värmland - Arvika Nyheter
-- Myndighetens skräckrapport – larmar om svensk äldrevård - Arbetet
-- Jan Jönsson lämnar partistyrelsen - Altinget.se
-- Skolmaterial om strypvåld - Polisen.se
-- Därför bordar Kustbevakningen statslösa fartyg just nu - Dagens Nyheter
-- Eldfester ställs in efter hot mot exiliranier - GP
-- Ilsken Trump anklagar allierade om Hormuz - Västerbottens-Kuriren
-- Jordbävning och nationellt strömavbrott på Kuba - Dagens Nyheter
-- Mette-Marits hälsa sämre – skippar statsbesök - GP
 - Regimen förbjuder alkohol på Damaskus barer - Dagens Nyheter
+- Mette-Marits hälsa sämre – skippar statsbesök - gp.se
+- SAS: Minst 1 000 avgångar ställs in i april - SVT Nyheter
 - Citi: Fler storbanker kan följa efter Nordea - EFN
 - Kinneviks nya plan: Ritter storstädar inför nästa VD - Affärsvärlden
-- Fråga om deklarationen 2026 – Skatteverkets experter svarar - SVT Nyheter
-- Teslas Cybertruck kan få oväntad roll – testas för militären - Dagens PS
-- Nvidia visade upp ny AI-teknik för spelgrafik - Omni
+- Viktig upptäckt – forskare har hittat ny partikel - Dagens PS
 - Starfield till PS5 7 april – med rymdresor och nytt story-DLC - FZ.se
+- Nvidia visade upp ny AI-teknik för spelgrafik - Omni
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -135,27 +135,27 @@ _Updated: 2026-03-17 19:36_
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
-- Framtidens jordbruk är här - Shaping Europe’s digital future
-- Lediga jobb - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Soffa.jpg - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
