@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-17 12:32_
+_Updated: 2026-03-17 13:28_
 
+- Israel says Ali Larijani, top Iranian security official, killed by Israel in strike - AP News
 - Trump draws backlash for comment on Iran war: ‘Maybe we shouldn’t even be there’ - The Guardian
 - Hundreds feared dead in strike on Kabul hospital - Financial Times
-- Trump says he’ll have the ‘honor’ of ‘taking’ Cuba: ‘I can do anything’ - The Washington Post
-- FCC chair threatens to pull TV licenses over Iran news coverage. Why that’s highly unlikely - Los Angeles Times
-- Judge blocks vaccine changes recommended by RFK Jr.'s advisers - Axios
-- Rep. Jasmine Crockett confirms member of her security team killed by Dallas police - NBC News
-- Illinois Senate primary race is test of Pritzker's sway, Democrats' views of ICE, outside spending - CBS News
-- Supreme Court to consider whether Trump can end protected status for Syrians, Haitians - The Washington Post
-- Live updates: Severe storms slam East Coast, historic blizzard paralyzes Midwest - FOX Weather
-- Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown - The New York Times
-- Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say - AP News
+- Cuba hit by island-wide blackout amid Trump oil blockade - dw.com
+- Drones, rockets fired at US embassy in Baghdad, security sources say - Reuters
+- Cuba Ready to Accept Outside Investment, Top Official Says - The New York Times
+- Illinois heads to elect next senator and five congressional district candidates - The Guardian
+- Severe weather, tornado risk as storms slam East Coast. Live updates. - USA Today
+- ‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control - Politico
+- Supreme Court to hear arguments over push to end legal protections for migrants from Haiti, Syria - AP News
+- At least 23 killed after blasts hit Nigeria’s Maiduguri, police say - Al Jazeera
+- Trump was warned of likely Iranian retaliation on Gulf allies, sources say - Reuters
+- UAE Holds 19 Indians Over Fake Social Media Posts - Gulte
 - French far right struggles to deliver its decisive breakthrough - politico.eu
-- Israel says Ali Larijani, top Iranian security official, killed by Israel in strike - AP News
-- Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks - CNBC
-- Live Updates: Iran war keeps gas prices high, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
-- Thousands of flights canceled as winter storm marches across US - The Guardian
-- Asia stocks attempt a rebound with central banks in the spotlight - Reuters
-- David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger - Variety
+- Albany Airport sees rerouted flights amid nationwide travel chaos - WNYT.com
+- Oil prices jump 4% after renewed Iranian attacks on UAE - Reuters
+- Asian Stocks Rise Led by Technology, Oil Rebounds: Markets Wrap - Bloomberg.com
+- BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - NVIDIA Newsroom
+- DLSS 5 looks like a real-time generative AI filter for video games - The Verge
 - WhatsApp is working on ‘guest chats’ for people without accounts - 9to5Mac
-- 10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors
