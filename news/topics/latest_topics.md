@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 08:39_
+_Updated: 2026-03-17 10:07_
 
 ## Top Stories
 
-- Så svängde Liberalerna om SD – spelet bakom - GP
-- Krav att jobba 996: ”Annars platsar du inte” - SvD
+- Demokratin i USA sämre än på 60 år: ”Dramatiskt” - VLT
+- Misstänkt farligt föremål vid Triangeln i Malmö - SVT Nyheter
 - Talibanerna: 400 dödade i attack mot Kabul - Dagens Nyheter
-- Hela Kuba drabbat av strömavbrott - Corren
-- Iran: Tillbakavisar USA-kontakt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SMHI larmar om stor risk för gräsbränder - SVT Nyheter
+- Svenska Robin jobbar 9-9-6: ”Går aldrig hem” - SvD
+- Liberalernas skamlösa definition av att ta ansvar - Arbetet
+- Pelles boendekostnad i Masthugget kan skjuta i höjden: "Lurad" - GP
 - Oro i onödan – maten räcker till svenskarna i kris - Västerbottens-Kuriren
 - Polisen visade bild på fel person – pressade misstänkt sexköpare med falska uppgifter - Dagens Nyheter
-- Nu rustas Sveriges skyddsrum upp - GP
-- Insändare: Hur länge ska kommunens äldreomsorg pressas till bristningsgränsen? - NWT
-- Demokratin i USA sämre än på 60 år: ”Dramatiskt” - Västerbottens-Kuriren
-- DN Direkt – Explosioner i stad i Nigeria – många dödsoffer - Dagens Nyheter
-- Sverige flyttar ambassadpersonal från Iran - Norran
-- Ovanlig dagsljusattack i Kiev - GP
+- Nu rustas Sveriges skyddsrum upp - Aftonbladet
+- Politikreportern inför söndagen: ”Tveksamt” – Senaste nytt om valet 2026 - SVT Nyheter
+- Donald Trumps känga till Nato: Varför skyddar vi er? - GP
+- Politik och persiska grytor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Israel i nya attacker mot Beirut - Corren
+- Ovanlig dagsljusattack i Kiev - Corren
 - Här genomför Skatteverket extra kontroller: ”Helt ny ruta” - Aftonbladet
-- Stadig börsuppgång i USA: ”Trump har marknaden i åtanke” - EFN
-- Handeln återupptogs på råvarubörsen i London - Omni
-- Viggo testar Ethiopian Airways - Dagens PS
-- Dolda abonnemang kan tömma kontot: Så hittar du dem och stoppar dem - Dagens.se
-- Skadlig kod upptäckt i populärt Chrome-tillägg - PC för Alla
+- Tekniska problem hos Skatteverket: ”Högt tryck” - Västerviks-Tidningen
+- Storfusion skakar bankvärlden: Över 10 000 jobb i fara - Dagens PS
+- FÖR SAMTAL OM FÖRVÄRV AV TK ELEVATOR - BN - Placera.se
+- Firmwareuppdateringar för Sony teleobjektiv - Fotosidan.se
+- TEST: Mest surfplatta för pengarna – får toppbetyg - Aftonbladet
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-03-17 08:39_
 - UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
 - Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -117,25 +117,25 @@ _Updated: 2026-03-17 08:39_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Biofilms Research Centre for Biointerfaces - Malmö universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Nytt nationellt initiativ integrerar forskning och sjukvård - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
