@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-17 08:42_
+_Updated: 2026-03-17 09:40_
 
 - Trump draws backlash for comment on Iran war: ‘Maybe we shouldn’t even be there’ - The Guardian
-- Kouri Richins Found Guilty of Poisoning Her Husband in Utah Murder Trial - The New York Times
-- Iran Update Evening Special Report: March 16, 2026 - Institute for the Study of War
 - Judge halts RFK Jr.’s vaccine overhaul, citing flawed process - The Washington Post
-- FCC chair threatens to pull TV licenses over Iran news coverage. Why that’s highly unlikely - Los Angeles Times
-- US embassy in Iraq hit by drone strike as EU leaders call for de-escalation in Lebanon - BBC
+- Iran Update Evening Special Report: March 16, 2026 - Institute for the Study of War
+- Kouri Richins found guilty of aggravated murder of her husband - NewsNation
+- Trump threatens to ‘take’ Cuba as island grapples with nationwide blackout - Al Jazeera
+- Dozens killed after Afghanistan rehab centre struck - BBC
 - Supreme Court to hear arguments over push to end legal protections for migrants from Haiti, Syria - AP News
 - An early test for Democrats' anti-ICE messaging: From the Politics Desk - NBC News
-- US airline CEOs urge Congress to end shutdown and pay airport workers - BBC
-- Middle East crisis live: Trump seeks to delay summit with China’s Xi amid Iran war; US embassy in Baghdad reportedly targeted in air attack - The Guardian
-- Hundreds feared dead in strike on Kabul hospital - Financial Times
+- Iran war prompts Donald Trump to delay meeting Xi Jinping in China - BBC
+- Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown - The New York Times
+- Iran renews attacks on US Gulf allies, Trump says that was not expected - Reuters
 - Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say - AP News
-- Iran’s new supreme leader purportedly issues fresh statement as questions linger over his health - The Times of Israel
+- French far right struggles to deliver its decisive breakthrough - politico.eu
 - Drone Strike Sets UAE Natural Gas Field Ablaze, Abu Dhabi Says - Bloomberg.com
-- Oil climbs over 2% as Iran war halts supply - Reuters
-- Thousands of Colorado Meatpacking Workers Are on Strike - Jacobin
+- Live Updates: Iran war keeps gas prices high, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
+- JBS workers launch first US meatpacking strike in 40 years, union says - Reuters
 - BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - NVIDIA Newsroom
 - Thousands of flights canceled as winter storm marches across US - The Guardian
-- NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall - Engadget
+- DLSS 5 looks like a real-time generative AI filter for video games - The Verge
 - 10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors
