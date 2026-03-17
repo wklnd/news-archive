@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 15:56_
+_Updated: 2026-03-17 17:38_
 
 ## Top Stories
 
-- Emma Bouvin: Ari Larijani var en politiker snarare än en soldat - Dagens Nyheter
+- Skjuter ned Trumps krav – ”USA får städa upp själv” - Hufvudstadsbladet
 - Han är mannen bakom Mohamssons slakt av Liberalerna - Arbetet
-- Två döda efter utbrott i England - GP
-- DN Direkt – Ekobrottsmisstänkt företagare utlämnad från Cypern - Dagens Nyheter
-- DN Direkt – Snabbare avverkning med ny skogspolitik - Dagens Nyheter
-- ”Staten hjälper till att göra troféer” - Svenska Dagbladet
-- Jan Jönsson har lämnat Liberalernas partistyrelse - GP
-- Kris på flera fronter inom äldreomsorgen - Dagens Arena
+- Israel: Irans säkerhetschef Ali Larijani dödad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Därför bordar Kustbevakningen statslösa fartyg just nu - Dagens Nyheter
+- Nuvarande generation av Millennium bedöms inte bli användbart - Region Skåne
+- Nu startar licensjakten på lodjur – så många finns i Värmland - Arvika Nyheter
+- Jan Jönsson lämnar partistyrelsen - Altinget.se
 - Polisen varnar för strypsex: Syrebrist på sekunder - Västerbottens-Kuriren
 - Extrem Kalmardominans – här är årets lag i Vi i Femman - Dagens Vimmerby
+- Kris på flera fronter inom äldreomsorgen - Dagens Arena
+- Antiterrorchef avgår i protest mot kriget mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Talibanerna: 400 dödade i attack mot Kabul - Västerbottens-Kuriren
-- Källor: Irans nya ledare i möte om kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Britt-Marie Mattsson Kan USA tvinga fram ett maktskifte på Kuba? - GP
-- Trump får nobben av allierade: ”Inte Natos krig” - Corren
+- Jordbävning och nationellt strömavbrott på Kuba - Dagens Nyheter
+- Mette-Marits hälsa sämre – skippar statsbesök - Västerbottens-Kuriren
 - Fråga om deklarationen 2026 – Skatteverkets experter svarar - SVT Nyheter
 - Kinneviks nya plan: Ritter storstädar inför nästa VD - Affärsvärlden
-- Nedskärningar på Nordea – 1 500 påverkas - Aftonbladet
-- Bränslepriser på väg att driva upp flygbiljetterna - Omni
+- Nedskärningar på Nordea – 1 500 omfattas - Västerbottens-Kuriren
+- Europas gröna elmarknad dämpar prischocken - Dagens PS
 - Livets byggstenar kan finnas i hela solsystemet - Dagens Nyheter
-- TEST: Mest surfplatta för pengarna – får toppbetyg - Aftonbladet
+- Sökfunktionen i Utforskaren är nu snabbare - PC för Alla
 
 ## World News
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNI Global välkomnar den historiska överenskommelsen i ILO:s expertkommitté som erkänner idrottares rättigheter - UNI Global Union
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-03-17 15:56_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -93,49 +93,49 @@ _Updated: 2026-03-17 15:56_
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Engineering Health 2024 - Chalmers tekniska högskola
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Översikt - health.ec.europa.eu
+- Vi presenterar HealthBench - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Anna Mia Ekström - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Johan von Schreeb - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Använder AI för att förbättra diagnostik och behandling - Karolinska Institutet
+- Johan von Schreeb - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -150,12 +150,12 @@ _Updated: 2026-03-17 15:56_
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Soffa.jpg - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
