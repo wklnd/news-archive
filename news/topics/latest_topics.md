@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-17 21:33_
+_Updated: 2026-03-17 22:04_
 
 ## Top Stories
 
-- INSÄNDARE: Liberalernas svängning – ett nytt lågvattenmärke i politiken - Corren
 - Direkt – Krisen i Mellanöstern – Trump i ny attack mot Nato – ”Gör inget för oss” - Dagens Nyheter
+- INSÄNDARE: Liberalernas svängning – ett nytt lågvattenmärke i politiken - Corren
 - Bland de sämsta i Sverige: Göteborg stad sågas i ny rapport om självmord - gp.se
 - Över 900 döda i Libanon – nya attacker - gp.se
-- Millennium kan skrotas: ”Vi känner oss i någon mån lurade” - Sydsvenskan
-- Göteborgsläkare misstänkt ha svindlat VGR på 85 miljoner — åtalas - gp.se
+- Region Skåne: Millennium är inte användbart - Dagens Nyheter
+- Eldfesten firades i Malmö: ”Extra viktigt nu” - Dagens Nyheter
 - Kris på flera fronter inom äldreomsorgen - Dagens Arena
-- Niklas Orrenius: Farligt om poliser på torskjakt blir fartblinda - Dagens Nyheter
+- Försvarsadvokaten kräver att JO granskar polisens arbete: ”Förkastligt” - Dagens Nyheter
+- Klartecken för lodjursjakt – överklagas igen - Västerbottens-Kuriren
 - Polisen varnar för strypsex: Syrebrist på sekunder - Västerbottens-Kuriren
-- Klart: Lodjursjakt tillåts i Uppsala - UNT
 - Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
+- Henrik Brandão Jönsson: Trumps dröm om Kuba – kan bli som Venezuela - Dagens Nyheter
 - Antiterrorchef avgår i protest mot kriget mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Regimen förbjuder alkohol på Damaskus barer - Dagens Nyheter
 - Mette-Marits hälsa sämre – skippar statsbesök - gp.se
 - SAS: Minst 1 000 avgångar ställs in i april - SVT Nyheter
-- Citi: Fler storbanker kan följa efter Nordea - EFN
-- Kinneviks nya plan: Ritter storstädar inför nästa VD - Affärsvärlden
-- Viktig upptäckt – forskare har hittat ny partikel - Dagens PS
+- Nedskärningar på Nordea – men Västervikskontoret blir kvar - Västerviks-Tidningen
+- Nya Kinnevik-vd:ns portfölj: Försvarsbolag och konkurser - EFN
+- Skuldtyngda Hedins ägare köper sig tid för miljardlån - Dagens industri
 - Starfield till PS5 7 april – med rymdresor och nytt story-DLC - FZ.se
 - Nvidia visade upp ny AI-teknik för spelgrafik - Omni
 
@@ -29,6 +29,7 @@ _Updated: 2026-03-17 21:33_
 
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Annual Report 2024 - Olof Palme International Center
@@ -36,17 +37,16 @@ _Updated: 2026-03-17 21:33_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Halvledarsektorn stiger inför global AI-konferens - Dagens industri
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
