@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-17 11:37_
+_Updated: 2026-03-17 12:32_
 
 - Trump draws backlash for comment on Iran war: ‘Maybe we shouldn’t even be there’ - The Guardian
-- US embassy in Iraq hit by drone strike as several Western leaders call for de-escalation in Lebanon - BBC
-- Utah Mother Found Guilty of Fatally Poisoning Husband - The New York Times
-- ‘I think Cuba sees the end’: Trump hints at imminent change in the island nation - Politico
 - Hundreds feared dead in strike on Kabul hospital - Financial Times
+- Trump says he’ll have the ‘honor’ of ‘taking’ Cuba: ‘I can do anything’ - The Washington Post
 - FCC chair threatens to pull TV licenses over Iran news coverage. Why that’s highly unlikely - Los Angeles Times
+- Judge blocks vaccine changes recommended by RFK Jr.'s advisers - Axios
+- Rep. Jasmine Crockett confirms member of her security team killed by Dallas police - NBC News
+- Illinois Senate primary race is test of Pritzker's sway, Democrats' views of ICE, outside spending - CBS News
 - Supreme Court to consider whether Trump can end protected status for Syrians, Haitians - The Washington Post
-- An early test for Democrats' anti-ICE messaging: From the Politics Desk - NBC News
+- Live updates: Severe storms slam East Coast, historic blizzard paralyzes Midwest - FOX Weather
 - Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown - The New York Times
-- Oil flows through Santa Barbara coastal pipeline for first time in decade amid Trump's fight with California - Los Angeles Times
-- Trump was warned of likely Iranian retaliation on Gulf allies, sources say - Reuters
-- Live Updates: What's going on in Israel-Iran war? - The Jerusalem Post
 - Bombs explode in northeastern Nigeria, leaving scores killed and injured, authorities say - AP News
-- EU rejects Trump's request to help secure the Strait of Hormuz - NPR
-- Oil prices bounce back 3% as Iran war halts supply - Reuters
+- French far right struggles to deliver its decisive breakthrough - politico.eu
+- Israel says Ali Larijani, top Iranian security official, killed by Israel in strike - AP News
+- Australia central bank hikes rates to a near 1-year high as Iran war raises inflation risks - CNBC
+- Live Updates: Iran war keeps gas prices high, with Strait of Hormuz paralyzed despite Trump's demands - CBS News
 - Thousands of flights canceled as winter storm marches across US - The Guardian
-- Asia stocks advance tracking US tech gains; Iran conflict, RBA rate hike in focus - Investing.com
+- Asia stocks attempt a rebound with central banks in the spotlight - Reuters
 - David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger - Variety
-- Oppo, OnePlus, and Vivo officially announce smartphone price increase in China - Notebookcheck
-- YouTuber upgrades MacBook Neo to 1TB, posts ASMR video of the process - 9to5Mac
+- WhatsApp is working on ‘guest chats’ for people without accounts - 9to5Mac
+- 10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors
