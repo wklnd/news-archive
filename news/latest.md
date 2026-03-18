@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-18 02:01_
+_Updated: 2026-03-18 05:32_
 
-- "No imminent threat": U.S. Counterterrorism Center head resigns over Iran war - Axios
 - Who was Gholamreza Soleimani, killed commander of Iran’s Basij forces? - Al Jazeera
-- Live Results: Illinois midterm primary elections - PBS
-- Europe could offer to help Trump on Iran — if he backs Ukraine, Finland’s Stubb suggests - politico.eu
-- Senate launches debate on SAVE America Act with endgame uncertain - Live Updates - Politico
-- ‘Profoundly shocking’ allegations against Cesar Chavez spark soul-searching in movement - Los Angeles Times
-- A meteor just exploded over Cleveland - The Washington Post
-- MTA sues Trump administration for Second Avenue Subway funding - Politico
+- Live Election Results: 2026 Primary In Illinois - Block Club Chicago
+- Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War - The New York Times
+- Most NATO members reject U.S.-led Hormuz Strait coalition, Trump says - Axios
+- United Farm Workers union cancels Cesar Chavez celebrations over what it calls serious allegations - CNN
+- Kharg Island Is an Appealing Target for Trump, With High Risks - The New York Times
 - Judge reinstates 1,000 Voice of America employees, deems wind-down illegal - The Washington Post
-- AIPAC, the Pro-Israel Group, Becomes a Major Issue in Illinois Democratic House Races - The New York Times
+- Retired FBI Agent Suggests Investigators May Have Key Lead in Nancy Guthrie Case - Yahoo
+- M.T.A. Sues Trump Administration to Release 2nd Avenue Subway Funding - The New York Times
+- 1 dead and another wounded in shooting at US Air Force base in New Mexico - AP News
 - Dozens Dead in Pakistani Airstrike on Kabul - The New York Times
 - Zelenskyy and Starmer urge continuing support for Ukraine against Russia as Iran war steals focus - AP News
-- Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ
 - Iran expert says Trump's 'war of choice' has morphed into a 'war of necessity' - NPR
-- Skyrocketing Gas Prices Threaten Political Order Across the Globe - Crude Oil Prices Today | OilPrice.com
-- How many rate cuts? Iran war upends Federal Reserve’s next steps - AP News
+- Two people killed, several wounded following latest Iranian missile barrage - The Jerusalem Post
+- Arizona AG files criminal charges against Kalshi over 'illegal gambling' - NPR
+- U.S. SEC issues first-ever definitions for what crypto assets are securities - CoinDesk
 - Nebius Group preps $3.75B capital raise following Meta & Nvidia deals, shares down (NBIS:NASDAQ) - Seeking Alpha
-- S&P 500 closes higher as oil price gains temper rebound from Iran conflict turmoil - CNBC
-- Gamers react with overwhelming disgust to DLSS 5’s generative AI glow-ups - Ars Technica
-- Samsung admits Galaxy S26 Ultra’s screen quality is slightly hindered by Privacy Display - 9to5Google
+- Japan exports beat forecasts with 4.2% growth in February, but shipments to China and U.S. slump - CNBC
+- Nvidia’s AI-Powered Photorealistic Gaming Technology Roasted As ‘AI Slop’ - Forbes
+- Samsung Galaxy S26 Ultra review: Private and performant - Ars Technica
