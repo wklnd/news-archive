@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-19 00:02_
+_Updated: 2026-03-19 01:02_
 
-- Mullin’s DHS nomination set for quick vote ‘as of now,’ Rand Paul says - Politico
-- Live Updates: Iran’s Intelligence Chief Killed in Strike; Oil and Gas Prices Jump - The New York Times
-- Gabbard tells senators Iranian regime is degraded but still intact - The Washington Post
+- Rand Paul calls Markwayne Mullin a "man with anger issues" in confirmation hearing - CBS News
+- Middle East crisis live: Israel strike on Iranian gas field reportedly coordinated with US; Iran’s president warns of ‘uncontrollable consequences’ for further attacks - The Guardian
+- Live Updates: Dolores Huerta Speaks Out as Cesar Chavez Abuse Revelations Spur Cancellations - The New York Times
 - Israel says it killed Iran's intelligence minister - Axios
-- Cesar Chavez abused girls, raped fellow labor icon Dolores Huerta, newspaper investigation finds - Los Angeles Times
+- Gabbard tells senators Iranian regime is degraded but still intact - The Washington Post
 - Trump temporarily waives century-old shipping law amid rising fuel costs - Al Jazeera
-- It’s so hot in the West that temperatures may even break April records soon - The Washington Post
-- Pulse nightclub demolished nearly 10 years after massacre left 49 dead - NBC News
-- Senate Republicans struggle to make their voting fight uncomfortable for Democrats - Politico
-- Juliana Stratton wins Illinois Democratic primary for US Senate - BBC
-- A Lebanese Cafe on the Edge of Destruction - The New York Times
-- What to Know about the Meningitis Outbreak in Britain - The New York Times
+- Vance Says He Welcomes Disagreement, but Supports Joe Kent’s Resignation - The New York Times
+- Maps show forecast for extreme heat wave scorching the West - CBS News
+- TSA PreCheck Touchless ID can save you time as airport lines get longer. Here's how to sign up. - CBS News
+- Thune tackles biggest test yet as Senate launches SAVE Act debate - Axios
+- Israel faces stiff Hezbollah resistance as it attempts to push deeper into Lebanon - The Guardian
 - China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens - PBS
 - How Russia is benefitting from "America's war of choice in Iran" - CBS News
-- Fed meeting live updates: Federal Reserve holds interest rates steady, forecasts 1 rate cut in 2026 - Yahoo Finance
+- Cheap drones are reshaping modern warfare — and catching the U.S. off guard - NPR
+- Fed holds rates steady as war in Iran clouds outlook - The Washington Post
 - Disney CEO Changeover: Josh D’Amaro Says Disney+ Will Be ‘Digital Centerpiece’ for Growth as Bob Iger Delivers Farewell Address: ‘It Has Meant More to Me Than I Can Say’ - Variety
-- Micron Technology, Inc. Reports Results for the Second Quarter of Fiscal 2026 - Micron
-- Dow tumbles more than 750 points to new closing low for 2026, fueled by inflation woes; Fed holds steady on rates - CNBC
-- DLSS 5: Has Nvidia’s AI graphics technology gone too far? - The Verge
+- Fed Meeting Today: Stocks Fall After Powell Voices Inflation Worries — Live Updates - WSJ
+- Oil Prices Surge as Brent-WTI Spread Blows Out on Iran Supply Risk - Crude Oil Prices Today | OilPrice.com
+- NVIDIA CEO defends DLSS 5 as gamers label it an 'AI slop filter' - Mashable
 - Here Are Apple's Release Notes for iOS 26.4 - MacRumors
