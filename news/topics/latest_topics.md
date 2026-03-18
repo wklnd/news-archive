@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 05:25_
+_Updated: 2026-03-18 07:13_
 
 ## Top Stories
 
-- Två dödade i iransk attack mot Israel - Västerbottens-Kuriren
 - Iran bekräftar att säkerhetschefen dödats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
-- Flera dödade i israeliska anfall mot Libanon - GP
-- Skogsbrand i Norge – 450 evakueras - Västerbottens-Kuriren
+- USA:s antiterrorchef avgår – i protest mot Trump och Israel - GP
 - USA ökar pressen på Kuba: ”Räcker inte” - Västerbottens-Kuriren
+- Larm om humanitär kris för flyktingar i Libanon - Omni
+- Flera dödade i israeliska anfall mot Libanon - Västerbottens-Kuriren
 - Klartecken för lodjursjakt – överklagas igen - Västerbottens-Kuriren
+- Eldfesten firades i Malmö: ”Extra viktigt nu” - Dagens Nyheter
 - SD i Arvika om Liberalernas utspel: ”Lite dramatiskt” - Arvika Nyheter
 - LEDARE: Lönerna avgör om äldreomsorgen klarar framtiden - NT
-- Fortkörningar: Körde 162 kilometer i timmen på 100-sträcka - Kuriren
 - Trump ilsken på allierade: Borde lämna Nato - Västerbottens-Kuriren
-- Björn af Kleen: Kents vittnesmål skakar om Trumps krigsapparat - Dagens Nyheter
-- JUST NU: Enormt ras i USA – “detta saknar motstycke” - Marcus Oscarsson
+- En demokrati på tillbakagång - Dagens Arena
+- Skogsbrand i Norge – 450 evakueras - Västerbottens-Kuriren
 - Trump blev chockad av Irans svar - Aftonbladet
-- SAS: Minst 1 000 avgångar ställs in i april - SVT Nyheter
+- SAS: Minst 1 000 avgångar ställs in i april - Västerbottens-Kuriren
+- Ny lågkonjunktur hotar – och styrräntan väntas höjas - Market.se
 - Här är nyheterna i årets deklarationen – så får du skatteåterbäringen snabbt - nkp.se
-- Nedskärningar på Nordea – 1 500 omfattas - Hufvudstadsbladet
 - Forskningsingenjörer toppar löneökningarna i life science - Medtech Magazine
+- Liten fisk på fyra centimeter kan avslöja något förvånande om hur du åldras - Illustrerad Vetenskap
 - Xiaomi lanserar två nya Poco-modeller - mobil.se
-- Nvidia visade upp ny AI-teknik för spelgrafik - Omni
 
 ## World News
 
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -50,26 +50,26 @@ _Updated: 2026-03-18 05:25_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
 
 ## Business
 
@@ -153,8 +153,8 @@ _Updated: 2026-03-18 05:25_
 - Här är världens största jordbruk - ATL
 - Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
