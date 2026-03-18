@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 21:59_
+_Updated: 2026-03-18 23:03_
 
 ## Top Stories
 
-- Splittrat Liberalerna i Blekinge stöttar Mohamsson - SVT Nyheter
-- Amnesty: Risk för fler avrättningar - Dagens Nyheter
-- Tidigare L-toppen Birgitta Ohlsson till Centern - Västerbottens-Kuriren
+- UD fördömer avrättningen av en svensk medborgare i Iran - Regeringen.se
+- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
 - Insändare. Mohamssons ordval är riktigt obehagligt - Dagens Nyheter
-- Irans högsta ledare: "Kommer att få betala" - Expressen
-- Fler brittiska fall av epidemisk hjärn­hinneinflammation - Läkartidningen
-- DN Direkt – Två misstänks för mordförsök i Halmstad - Dagens Nyheter
-- S: Vill se ett svenskt konsulat på Grönland - GP
-- Lodjursjakten återupptas i Dalarna efter rättsliga turer - SVT Nyheter
-- LARMET: Kommuner brister i suicidarbetet: ”Kan vara skillnaden på liv och död” - NWT
-- Gondol har kraschat i skidort i Schweiz - Corren
+- Hon föreslås utmana Mohamsson: ”Stort beslut” - Västerbottens-Kuriren
 - Nära 1 000 döda i Libanon - GP
-- Direkt – Krisen i Mellanöstern – Flygplan skadade av iransk robot i Tel Aviv - Dagens Nyheter
-- Karin Eriksson: Har kokainet stoppat dansk politiks unga stjärna? - Dagens Nyheter
+- Irans underrättelseminister dödad - GP
+- Tidigare L-toppen Birgitta Ohlsson till Centern - Västerbottens-Kuriren
+- Förskola låste dörrarna efter misstänkt skottlossning i Halmstad - SVT Nyheter
+- Magdalena Andersson: ”Öppna konsulat på Grönland” - Omni
+- Region Gotland: Alla måste spara på det kommunala vattnet - Krisinformation.se
+- En död när gondol kraschade i Schweiz - Västerbottens-Kuriren
+- Pedro Sánchez – EU-ledaren som säger nej till Trumps krig - Dagens Nyheter
+- Natochefen: Samtal om hur Hormuzsundet kan öppnas - GP
+- Michael Winiarski: En markinvasion i Iran kan sluta illa - Dagens Nyheter
+- FI: Vi övervägde att dra in Alectas tillstånd - Svenska Dagbladet
 - SAS ställer in – Norwegian flyger extra - Sydsvenskan
-- Experter varnar: Oljepriset kommer fortsätta uppåt - Aftonbladet
 - Snabb start för nya företag i EU - Tidningen Näringslivet
-- JUST NU: Brantare nedgång på börsen efter Powells besked - EFN
+- Iran attackerar gasanläggningar i gulfstater - Dagens Nyheter
 - Nytt säkerhetshål i Iphone – så skyddar du dig mot Darksword-hackarna - Dagens Nyheter
 - Nvidias VD säger att gamers har “helt fel” om DLSS 5 - TechRadar
 
@@ -59,15 +59,15 @@ _Updated: 2026-03-18 21:59_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
@@ -87,35 +87,35 @@ _Updated: 2026-03-18 21:59_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-03-18 21:59_
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,7 +151,6 @@ _Updated: 2026-03-18 21:59_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
@@ -162,3 +161,4 @@ _Updated: 2026-03-18 21:59_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
