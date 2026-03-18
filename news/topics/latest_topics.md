@@ -1,68 +1,68 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 15:58_
+_Updated: 2026-03-18 17:47_
 
 ## Top Stories
 
-- Svensk medborgare har avrättats i Iran - SVT Nyheter
-- DN Direkt – Gondol har kraschat i skidort i Schweiz - Dagens Nyheter
-- Bekräftat: Tidigare L-topp till Centerpartiet - Västerbottens-Kuriren
-- Israel: Irans underrättelseminister dödad - GP
-- Kommissionen: Kevin, 25, borde aldrig varit på spåret – kördes ihjäl - Arbetet
-- "Bonusprinsen" kan få över sju år i fängelse - Hufvudstadsbladet
-- Så borde Simona Mohamsson förklarat sin helomvändning - Altinget.se
-- Säpo: Ryssland är fortsatt vårt största hot - Västerbottens-Kuriren
-- Återkallelse av svenskt medborgarskap - Regeringen.se
+- Tidigare L-toppen Birgitta Ohlsson till Centern - Västerbottens-Kuriren
+- UD fördömer avrättningen av en svensk medborgare i Iran - Regeringen.se
+- En person misstänkt skjuten i Halmstad - Aftonbladet
+- 25-åring blev påkörd av tåg – utredning visar stora brister i säkerheten - SVT Nyheter
+- Riksdagen säger ja till säkerhetsförvaring - GP
+- Israel: Vi har dödat Irans underrättelseminister – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Säpo pekar ut Ryssland som största hotet - Västerbottens-Kuriren
+- Trots ”extrema” risker – SD:s biståndsprojekt får 23 miljoner - Dagens Nyheter
+- Splittrat Liberalerna i Blekinge stöttar Mohamsson - SVT Nyheter
 - Lodjursjakten återupptas i Dalarna efter rättsliga turer - SVT Nyheter
+- DN Direkt – Åklagaren yrkar på över sju års fängelse för ”bonusprinsen” - Dagens Nyheter
+- En död när gondol kraschade i Schweiz - Västerbottens-Kuriren
 - Torbjörn Petersson: Kinas plan är att mala ned Trumps motstånd när det gäller Taiwan - Dagens Nyheter
-- Flera dödade i israeliska anfall mot Libanon - GP
-- Trump ilsken på allierade: Borde lämna Nato - Hufvudstadsbladet
-- Skogsbrand i Norge – 450 evakueras - Västerbottens-Kuriren
+- Irans kärnenergianläggningar hittills inte måltavlor - Dagens Nyheter
+- SAS ställer in – Norwegian flyger extra - Sydsvenskan
 - Tekniska verken ser över effektavgiften efter regeringens besked - SVT Nyheter
 - Oljepriset stiger – attacker mot gasfält - Aftonbladet
-- Alecta får sanktionsavgift efter Heimstaden-investeringen - Dagens Juridik
-- Aktien riskerar att bli en kall historia - EFN
+- Snabb start för nya företag i EU - Tidningen Näringslivet
 - Nvidias VD säger att gamers har “helt fel” om DLSS 5 - TechRadar
-- Samsungs vikbara mobil slutar säljas nästan direkt - Omni
+- Fitbit rullar ut en stor sömnuppdatering för sin Personal Health Coach - TechRadar
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Annual Report 2024 - Olof Palme International Center
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Halvledarsektorn stiger inför global AI-konferens - DI
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Halvledarsektorn stiger inför global AI-konferens - DI
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -99,8 +99,8 @@ _Updated: 2026-03-18 15:58_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Engineering Health 2024 - Chalmers tekniska högskola
@@ -111,8 +111,8 @@ _Updated: 2026-03-18 15:58_
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -121,24 +121,24 @@ _Updated: 2026-03-18 15:58_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
