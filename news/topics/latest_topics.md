@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 08:39_
+_Updated: 2026-03-18 10:05_
 
 ## Top Stories
 
-- Iran bekräftar att säkerhetschefen dödats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Splittrat Liberalerna i Blekinge stöttar Mohamsson - SVT Nyheter
 - Bevisen som kan fälla bonusprinsen: ”Det blir fängelse” - Dagens Nyheter
-- Flera dödade i israeliska anfall mot Libanon - Västerbottens-Kuriren
-- INSÄNDARE: Liberalernas svängning – ett nytt lågvattenmärke i politiken - Corren
-- Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
-- Larm om humanitär kris för flyktingar i Libanon - Omni
-- WILHELM NYSTRÖM: Länets lodjursjakt är vanvettig - Corren
-- Eldfesten firades i Malmö: ”Extra viktigt nu” - Dagens Nyheter
-- DN Direkt – Flygbolagen: Dyrare att flyga i sommar - Dagens Nyheter
-- Garagebrand i Östersund – VMA utfärdades - SVT Nyheter
-- Trump ilsken på allierade: Borde lämna Nato - Västerbottens-Kuriren
+- Khameneis högra hand Ali Larijani dödad - Västerbottens-Kuriren
+- Flera dödade i israeliska anfall mot Libanon - GP
 - Skogsbrand i Norge – 450 evakueras - Hufvudstadsbladet
+- Åkesson ser sig själv som statsministerkandidat - Omni
+- Uppgifter: L:s Birgitta Ohlsson till Centerpartiet - Aftonbladet
+- WILHELM NYSTRÖM: Länets lodjursjakt är vanvettig - Corren
+- Nu lägger regeringen fram flera reformer för skolan - Regeringen.se
+- Iranska offer hedrades på Götaplatsen - GP
+- Trump ilsken på allierade: Borde lämna Nato - Hufvudstadsbladet
 - Björn af Kleen: Kents vittnesmål skakar om Trumps krigsapparat - Dagens Nyheter
-- En demokrati på tillbakagång - Dagens Arena
+- Två döda i Israel när Iran hämnas Larijani - GP
+- Expert: Statskollaps i Iran kan ge ny stor flyktingvåg - Omni
+- SAS ställer in flyg efter bränslepriset fördubblats - Affärsvärlden
 - SBAB: Hopp om stabila bolåneräntor trots oron - Aftonbladet
-- SAS: Minst 1 000 avgångar ställs in i april - Västerbottens-Kuriren
-- Rusning att deklarera: ”Är som lite av en sport” - Svenska Dagbladet
-- Snabba kast – kronan nu på bottenplats i Norden - Dagens PS
-- Anteckningar i Windows 11 kan få stöd för bilder - PC för Alla
-- Test: Asus "Gopro-laptop" är både tuff och proffsig - PC för Alla
+- Alecta får sanktionsavgift efter Heimstaden-investeringen - Dagens Juridik
+- Banken om Skistar: Då blir det köpläge - EFN
+- 30-åring startar nytt konsultföretag i Umeå - Folkbladet
+- Nvidia visade upp ny AI-teknik för spelgrafik - Omni
 
 ## World News
 
@@ -35,8 +35,8 @@ _Updated: 2026-03-18 08:39_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Halvledarsektorn stiger inför global AI-konferens - Dagens industri
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
@@ -153,7 +153,7 @@ _Updated: 2026-03-18 08:39_
 - Här är världens största jordbruk - ATL
 - Danmark kan bli först med klimatskatt på jordbruket - SVT Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Får och solparker - en vinst för både lantbruk, får och klimat - SOLENERGInyheter.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Lediga jobb - Land Lantbruk
