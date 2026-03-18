@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-18 20:36_
+_Updated: 2026-03-18 21:35_
 
-- Sen. Rand Paul confronts Sen. Markwayne Mullin at heated DHS confirmation hearing - CBS News
 - Israel says it killed Iran’s intelligence minister in overnight strike - The Washington Post
-- Trump temporarily waives the Jones Act to try to lower gas prices - NPR
-- Capitol agenda: Tulsi Gabbard takes the hot seat - Live Updates - Politico
-- Juliana Stratton wins Illinois Democratic primary for US Senate - BBC
+- Live updates: Trump homeland security nominee promises 'better approach' on immigration enforcement - BBC
+- Gabbard says Iranian regime is "intact but largely degraded" at Senate hearing on threats to U.S. - CBS News
+- Trump Waives US Shipping Law For Oil and Gas In Bid to Lower Prices - Bloomberg.com
+- Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge - AP News
 - Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years - The New York Times
-- Senate Republicans struggle to make their voting fight uncomfortable for Democrats - Politico
-- Joe Kent and the Fading MAGA Allure - The Bulwark
+- Juliana Stratton wins Illinois Democratic primary for US Senate - BBC
 - It’s so hot in the West that temperatures may even break April records soon - The Washington Post
-- TSA official warns some airports could shut down if officers' sick calls climb: "A serious situation" - CBS News
-- Iran regime 'intact' but 'degraded,' US intelligence chief says: War updates - USA Today
+- Pulse nightclub demolished nearly 10 years after massacre left 49 dead - NBC News
+- Joe Kent and the Fading MAGA Allure - The Bulwark
+- Israel Intensifies Strikes on Beirut, Targeting Areas Once Considered Safe - The New York Times
 - Trump’s failed strong-arming of allies on Iran shows that pressure is losing its effect - AP News
 - Iran Gets a Vote in This War - by Mark Hertling - The Bulwark
-- Ancient skeleton unearthed in France is latest to be found sitting upright - The Guardian
-- Stock Market Today: Dow Drops As Fed Keeps Rates Pat; Powell Briefing Up Next (Live Coverage) - Investor's Business Daily
-- Major Turing computing award goes to quantum science for first time - Nature
+- US eases Venezuela oil sanctions as Trump seeks to boost world oil supply during Iran war - AP News
+- Fed Meeting Today: Brent Crude Approaches $110 Ahead of FOMC Rate Decision — Live Updates - WSJ
+- Dow falls 600 points on hot inflation reading as Fed keeps rates unchanged: Live updates - CNBC
 - Disney’s Next CEO: Five Things to Know About Josh D’Amaro - Variety
-- Why This Jump in Gas Prices Feels Different - The New York Times
+- Major Turing computing award goes to quantum science for first time - Nature
 - Nvidia CEO says critics are "completely wrong" about DLSS 5 technology - GamesIndustry.biz
-- Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac
+- That major MediaTek security flaw may have affected more Android phones than initially reported - Android Authority
