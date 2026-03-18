@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-18 19:43_
+_Updated: 2026-03-18 20:36_
 
-- Iran War Live Updates: Oil Soars Toward $110 After Israel Strikes Gas Field in Iran - WSJ
 - Sen. Rand Paul confronts Sen. Markwayne Mullin at heated DHS confirmation hearing - CBS News
+- Israel says it killed Iran’s intelligence minister in overnight strike - The Washington Post
+- Trump temporarily waives the Jones Act to try to lower gas prices - NPR
 - Capitol agenda: Tulsi Gabbard takes the hot seat - Live Updates - Politico
 - Juliana Stratton wins Illinois Democratic primary for US Senate - BBC
-- Trump Waives US Shipping Law For Oil and Gas In Bid to Lower Prices - Bloomberg.com
-- Hezbollah ignites blowback from its base as over 1 million flee war with Israel - The Washington Post
-- Cesar Chavez raped girls, fellow labor icon Dolores Huerta, newspaper investigation says - Los Angeles Times
-- Pulse nightclub demolished nearly 10 years after massacre left 49 dead - NBC News
+- Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years - The New York Times
+- Senate Republicans struggle to make their voting fight uncomfortable for Democrats - Politico
+- Joe Kent and the Fading MAGA Allure - The Bulwark
+- It’s so hot in the West that temperatures may even break April records soon - The Washington Post
 - TSA official warns some airports could shut down if officers' sick calls climb: "A serious situation" - CBS News
-- The voting bill Trump says will secure victory could backfire - The Washington Post
-- First Thing: Trump says US does not need Nato after strait of Hormuz rebuf | Clea Skopeliti - The Guardian
-- Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge - AP News
 - Iran regime 'intact' but 'degraded,' US intelligence chief says: War updates - USA Today
-- Benjamin Netanyahu’s Iran ‘fixation’ finds its moment in Donald Trump - Financial Times
-- Expectations for the next Fed rate cut get pushed back after hot inflation report - CNBC
-- Fed Meeting: Hot PPI Adds To Iran War Inflation Risk; S&P 500 Slips (Live Coverage) - Investor's Business Daily
+- Trump’s failed strong-arming of allies on Iran shows that pressure is losing its effect - AP News
+- Iran Gets a Vote in This War - by Mark Hertling - The Bulwark
+- Ancient skeleton unearthed in France is latest to be found sitting upright - The Guardian
+- Stock Market Today: Dow Drops As Fed Keeps Rates Pat; Powell Briefing Up Next (Live Coverage) - Investor's Business Daily
 - Major Turing computing award goes to quantum science for first time - Nature
 - Disney’s Next CEO: Five Things to Know About Josh D’Amaro - Variety
+- Why This Jump in Gas Prices Feels Different - The New York Times
 - Nvidia CEO says critics are "completely wrong" about DLSS 5 technology - GamesIndustry.biz
-- Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild - WIRED
+- Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac
