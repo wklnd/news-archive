@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 23:58_
+_Updated: 2026-03-19 00:57_
 
 ## Top Stories
 
 - L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
-- UD fördömer avrättningen av en svensk medborgare i Iran - Regeringen.se
 - Cecilia Rönn nominerad till ny partiledare - SVT Nyheter
 - Nära 1 000 döda i Libanon - GP
-- Insändare. Mohamssons ordval är riktigt obehagligt - Dagens Nyheter
-- Åklagare yrkar på sju år och sju månader i fängelse för Marius Borg Høiby - Yle
-- Tidigare L-toppen Birgitta Ohlsson till Centern - Västerbottens-Kuriren
-- DN Direkt – Två misstänks för mordförsök i Halmstad - Dagens Nyheter
+- Pedro Sánchez – EU-ledaren som säger nej till Trumps krig - Dagens Nyheter
+- Lättnad efter Millennium-besked: ”Trodde inte att de skulle svälja den prestigen” - Sydsvenskan
+- Tidigare L-toppen Birgitta Ohlsson till Centern - GP
+- Svensk medborgare avrättad i Iran - NWT
+- Man skjuten med flera skott i Halmstad – stor polisinsats - TV4 Nyheterna
+- Ygeman om ”Nya skolan”: Vi kommer att rösta ja - Vi Lärare
 - Region Gotland: Alla måste spara på det kommunala vattnet - Krisinformation.se
-- Grannarna om rekordstora handgranatsfyndet – mitt i villaidyllen i Alingsås - SVT Nyheter
+- Här är de iranska ledarna som har dödats i kriget - Dagens Nyheter
 - Gondol har kraschat i skidort i Schweiz - GP
-- Lina Lund: ”Snyggingen” i Madrid är Bryssels nya värsting - Dagens Nyheter
 - Natochefen: Samtal om hur Hormuzsundet kan öppnas - Västerbottens-Kuriren
 - Michael Winiarski: En markinvasion i Iran kan sluta illa - Dagens Nyheter
 - Iran attackerar gasanläggningar i gulfstater - Dagens Nyheter
-- SAS ställer in – Norwegian flyger extra - Sydsvenskan
-- FI:s kritik hotar Alectas plats i pensionssystemet - DI
-- Snabb start för nya företag i EU - Tidningen Näringslivet
+- FI: Undersökningen om Folksams Heimstaden Bostad-aktier pågår - Sak & Liv
+- Trump till Fed-chefen: När sänks räntan? - Västerbottens-Kuriren
+- Så många kronobergare deklarerade första dygnet - Smålandsposten
 - Nytt säkerhetshål i Iphone – så skyddar du dig mot Darksword-hackarna - Dagens Nyheter
-- Nvidia-bossens svar på DLSS 5-kritiken: ”Helt fel” - Aftonbladet
+- Nvidias VD säger att gamers har “helt fel” om DLSS 5 - TechRadar
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 14:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -38,15 +37,16 @@ _Updated: 2026-03-18 23:58_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Halvledarsektorn stiger inför global AI-konferens - DI
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- New Secretary General appointed - Olof Palme International Center
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -71,28 +71,51 @@ _Updated: 2026-03-18 23:58_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
+## Business
+
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+
 ## Health
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
