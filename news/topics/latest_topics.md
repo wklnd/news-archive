@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-18 10:05_
+_Updated: 2026-03-18 11:27_
 
 ## Top Stories
 
+- Uppgifter: Tidigare L-topp till Centerpartiet - Västerbottens-Kuriren
+- Iran bekräftar att säkerhetschefen dödats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Susanne Nyström: För 25 år sedan var ”bonusprinsen” liten och söt – nu framställs han som ett monster - Dagens Nyheter
+- Smittskyddsläkaren om utbrottet av dödliga sjukdomen: ”Ingen anledning till oro” - NWT
 - Splittrat Liberalerna i Blekinge stöttar Mohamsson - SVT Nyheter
-- Bevisen som kan fälla bonusprinsen: ”Det blir fängelse” - Dagens Nyheter
-- Khameneis högra hand Ali Larijani dödad - Västerbottens-Kuriren
 - Flera dödade i israeliska anfall mot Libanon - GP
-- Skogsbrand i Norge – 450 evakueras - Hufvudstadsbladet
-- Åkesson ser sig själv som statsministerkandidat - Omni
-- Uppgifter: L:s Birgitta Ohlsson till Centerpartiet - Aftonbladet
-- WILHELM NYSTRÖM: Länets lodjursjakt är vanvettig - Corren
+- Klartecken för lodjursjakt – överklagas igen - Västerbottens-Kuriren
 - Nu lägger regeringen fram flera reformer för skolan - Regeringen.se
-- Iranska offer hedrades på Götaplatsen - GP
+- LEDARE: Varning för det danska fettmöget - Expressen
+- Svaret: Såg inget, misstänkte inget, visste inget - SVT Nyheter
 - Trump ilsken på allierade: Borde lämna Nato - Hufvudstadsbladet
+- Storbrand i Ålesund – hundratals evakuerade - GP
 - Björn af Kleen: Kents vittnesmål skakar om Trumps krigsapparat - Dagens Nyheter
 - Två döda i Israel när Iran hämnas Larijani - GP
-- Expert: Statskollaps i Iran kan ge ny stor flyktingvåg - Omni
 - SAS ställer in flyg efter bränslepriset fördubblats - Affärsvärlden
-- SBAB: Hopp om stabila bolåneräntor trots oron - Aftonbladet
 - Alecta får sanktionsavgift efter Heimstaden-investeringen - Dagens Juridik
 - Banken om Skistar: Då blir det köpläge - EFN
-- 30-åring startar nytt konsultföretag i Umeå - Folkbladet
+- SBAB: Hopp om stabila bolåneräntor trots oron - Aftonbladet
+- Det här är Crimson Desert - FZ.se
 - Nvidia visade upp ny AI-teknik för spelgrafik - Omni
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Halvledarsektorn stiger inför global AI-konferens - Dagens industri
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL återvänder till Stockholm för 2025 Global Series Sweden - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI och precisionsmedicin kan hitta risk för hjärt-kärlsjukdom - Karolinska Institutet
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-03-18 10:05_
 ## Health
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Engineering Health 2024 - Chalmers tekniska högskola
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Hälsa och teknik - Chalmers tekniska högskola
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -124,16 +124,16 @@ _Updated: 2026-03-18 10:05_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
