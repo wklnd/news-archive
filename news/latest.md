@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-18 22:05_
+_Updated: 2026-03-18 23:19_
 
-- Israel says it killed Iran’s intelligence minister in overnight strike - The Washington Post
+- Israel steps up assassinations in Iran, seeking to dislodge regime - The Washington Post
 - Live updates: Trump homeland security nominee promises 'better approach' on immigration enforcement - BBC
-- Gabbard says Iranian regime is "intact but largely degraded" at Senate hearing on threats to U.S. - CBS News
-- Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge - AP News
-- Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years - The New York Times
-- Trump Waives US Shipping Law For Oil and Gas In Bid to Lower Prices - Bloomberg.com
-- It’s so hot in the West that temperatures may even break April records soon - The Washington Post
+- Oil and Gas Prices Surge as Iran Attacks Major LNG Plant - Bloomberg.com
+- U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War - The New York Times
+- Trump temporarily waives century-old shipping law amid rising fuel costs - Al Jazeera
+- Cesar Chavez abused girls, raped fellow labor icon Dolores Huerta, newspaper investigation finds - Los Angeles Times
+- Dozens of temperature records shattered across SoCal as historic March heat wave sizzles on - The Seattle Times
+- 'It’s insulting': Leavitt pans Joe Kent over White House resignation - Politico
 - Pulse nightclub demolished nearly 10 years after massacre left 49 dead - NBC News
-- Juliana Stratton wins Illinois Democratic primary for US Senate - BBC
-- Senate Republicans struggle to make their voting fight uncomfortable for Democrats - Politico
-- Israel faces stiff Hezbollah resistance as it attempts to push deeper into Lebanon - The Guardian
-- Trump’s failed strong-arming of allies on Iran shows that pressure is losing its effect - AP News
-- US eases Venezuela oil sanctions as Trump seeks to boost world oil supply during Iran war - AP News
+- Thune tackles biggest test yet as Senate launches SAVE Act debate - Axios
+- A Lebanese Cafe on the Edge of Destruction - The New York Times
+- China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens - PBS
 - Cheap drones are reshaping modern warfare — and catching the U.S. off guard - NPR
-- Federal Reserve issues FOMC statement - Federal Reserve Board (.gov)
-- As Disney’s Bob Iger Passes CEO Baton, His Next Moves Remain In Flux - Deadline
-- Dow falls 600 points on hot inflation reading as Fed keeps rates unchanged: Live updates - CNBC
-- Major Turing computing award goes to quantum science for first time - Nature
-- Nvidia CEO says critics are "completely wrong" about DLSS 5 technology - GamesIndustry.biz
-- Apple highlights 13 enhancements coming to iPhone with iOS 26.4 - 9to5Mac
+- About 90 ships cross the Strait of Hormuz as Iran exports millions of barrels of oil despite the war - AP News
+- Fed meeting live updates: Federal Reserve holds interest rates steady, forecasts 1 rate cut in 2026 - Yahoo Finance
+- Dow tumbles more than 750 points to new closing low for 2026, fueled by inflation woes; Fed holds steady on rates - CNBC
+- Disney CEO Changeover: Josh D’Amaro Says Disney+ Will Be ‘Digital Centerpiece’ for Growth as Bob Iger Delivers Farewell Address: ‘It Has Meant More to Me Than I Can Say’ - Variety
+- Oil Prices Extend Gains After New Iran Attacks - WSJ
+- DLSS 5: Has Nvidia’s AI graphics technology gone too far? - The Verge
+- Here Are Apple's Release Notes for iOS 26.4 - MacRumors
