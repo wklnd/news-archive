@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 10:04_
+_Updated: 2026-03-19 11:10_
 
 ## Top Stories
 
-- Cecilia Rönn nominerad till ny partiledare - SVT Nyheter
+- Centern borde lära sig av Liberalernas kollaps - Arbetet
+- Liberaler i Jönköping nominerar Cecilia Rönn till ny partiledare - SVT Nyheter
+- Saudiarabien kan gå in i kriget – prins Faisal bin Farhan Al Sauds ord - Expressen
 - Stopp på samtliga linjer i Göteborg - GP
-- Tre personer avrättade i Iran - Västerbottens-Kuriren
-- Få krav på att viga samkönade par - SVT Nyheter
+- DN Direkt – Protesterade i Iran – nu har de avrättats - Dagens Nyheter
 - Irans krav: ”Försök till ny världsordning” - Svenska Dagbladet
-- SD:s bistånd stöttar Bolsonaros abortmotståndare - Dagens Nyheter
-- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
 - Utländska kusinäktenskap ska inte godkännas - Västerbottens-Kuriren
-- PFAS i småtomater som säljs i Sverige - Västerbottens-Kuriren
+- Rapport: Sveriges klimatpolitik är otillräcklig - SVT Nyheter
 - Två till sjukhus efter krock på E45 i Brålanda - TTELA
-- Trump hotar Irans gasfält efter attackerna i Qatar - Omni
-- Källor: Danmark förberedde sig för attack från USA - Västerbottens-Kuriren
+- DN Direkt – PFAS i småtomater som säljs i Sverige - Dagens Nyheter
 - Spelet i Bryssel: Kommer Orbán att ”fega ur” igen? - Dagens Nyheter
+- Källor: Danmark förberedde sig för attack från USA - Västerbottens-Kuriren
 - Natochefen: Samtal om hur Hormuzsundet kan öppnas - GP
-- Ny rapport: Så utbrett är fusket i byggbranschen - Dagens PS
+- Irans president: Underrättelseministern dödad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
+- Oljepriset pressar marknaden – börsen faller - Västerbottens-Kuriren
 - Alectas vd viker sig efter sanktionssmällen - Finanswatch.se
-- Vanliga börsmisstaget kan kosta dig tusenlappar i pension - e55.se
-- Svenska aktier som Warren Buffett skulle köpa - Dagens PS
+- Miljonär som pensionär? Så ska du pensionsspara i 30-årsåldern - Dagens PS
 - Helt egen kategori: Nyupptäckt värld utmanar vår uppfattning om planeter totalt - Illustrerad Vetenskap
 - Bostadsrättsföreningars utsatthet och sårbarhet för ekonomisk brottslighet - Brå - Brottsförebyggande rådet
 
@@ -54,21 +54,21 @@ _Updated: 2026-03-19 10:04_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -147,18 +147,18 @@ _Updated: 2026-03-19 10:04_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
+- De gick från reko till eko - ST-tidningen
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
