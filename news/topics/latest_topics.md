@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 22:00_
+_Updated: 2026-03-19 23:03_
 
 ## Top Stories
 
-- Tung kritik mot regeringens klimatpolitik – Sverige riskerar 40 miljarder i böter - Dagens Nyheter
 - Advokat: ”Høiby kan frikännas” - Hufvudstadsbladet
-- Svensk småbarnspappa avrättad i Iran - Svenska Dagbladet
+- ”Magdalena Andersson absolut en statsministerkandidat” - Dagens Nyheter
 - Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
-- SD:s biståndsorganisation lovade stöd till ukrainska kvinnor: ”Inget samarbete med Hepatica” - Dagens Nyheter
-- DN Direkt – Sony begär att 135 000 fejkade AI-låtar tas bort - Dagens Nyheter
-- DN Direkt – Mohamsson till L-möte i Stockholm - Dagens Nyheter
-- Kan utmana Mohamsson: ”Känner stort stöd” - Corren
+- JUST NU: Två värmlänningar döda i arbetsplatsolycka – klämdes fast i grävmaskin - NWT
+- Kan utmana Mohamsson: ”Känner stort stöd” - GP
+- Här är iranska toppar som dödats i kriget - GP
+- L i Stockholm vill inte utmana Mohamsson - Västerbottens-Kuriren
+- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
 - Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
-- Skogsbrukets historiska kolförlust – större än alla våra fossila utsläpp - Dagens Nyheter
+- Misstänks för miljonbedrägerier – apotek stängs - Aftonbladet
 - EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
 - Juri von Bonsdorff Åtta saker som inte gått Donald Trumps väg i Iran - Hufvudstadsbladet
 - Gahr Støre: ”Vi tjänar inte på det här kriget” - Dagens Nyheter
 - Netanyahu: Iran kan inte längre anrika uran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - USA och Israel oense: Vad visste Trump om attacken? - Omni
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
 - Börsen rasade när oron för oljepriset ökar - Sydsvenskan
-- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
 - Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
 - Stort säkerhetshål har upptäckts på Iphone - Omni
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
@@ -35,41 +35,18 @@ _Updated: 2026-03-19 22:00_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Halvledarsektorn stiger inför global AI-konferens - DI
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-
-## Technology
-
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Business
 
@@ -87,35 +64,35 @@ _Updated: 2026-03-19 22:00_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -129,8 +106,8 @@ _Updated: 2026-03-19 22:00_
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- AI och data science - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -139,26 +116,3 @@ _Updated: 2026-03-19 22:00_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-
-## Jordbruk
-
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
