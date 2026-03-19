@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 13:58_
+_Updated: 2026-03-19 15:47_
 
 ## Top Stories
 
-- Nedåt på Stockholmsbörsen vid öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
-- Centern borde lära sig av Liberalernas kollaps - Arbetet
-- Danmark förberedde sig på motattack mot USA - Hufvudstadsbladet
-- Enorma problem i spåren av regionernas nya journalsystem - Dagens Nyheter
+- USA:s krigsminister: Största attackerna hittills inleds idag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stärkta säkerhetsåtgärder med anledning av det försämrade omvärldsläget - polisen.se
+- Tung kritik mot regeringens klimatpolitik – Sverige riskerar 40 miljarder i böter - Dagens Nyheter
+- ”Jag är jättetacksam – känner stort stöd” - Jönköpings-Posten
 - Regeringen drar tillbaka rapport – hänvisar till studier som inte finns - Dagens Nyheter
-- DN Direkt – Ny lagar mot hedersrelaterat våld och förtryck - Dagens Nyheter
-- Regionerna slipper miljonböter – företaget Cambio betalar - SVT Nyheter
-- Få krav på att viga samkönade par - SVT Nyheter
-- Hermi och Aita når inte upp till de nya lönekraven - Omni
+- Misstänkt våldtäkt på äldre person på skandalboendet Granliden - Arbetet
+- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
+- Enorma problem i spåren av regionernas nya journalsystem - Dagens Nyheter
+- Vänstermän mycket mindre villiga att skaffa barn än högermän - Dagens Arena
+- Centern borde lära sig av Liberalernas kollaps - Arbetet
+- Fokus på straff när Borg Høiby-målet avslutas - GP
+- Danmark förberedde sig på motattack mot USA - Hufvudstadsbladet
 - Orbán: Inget Ukrainastöd utan olja - SVT Nyheter
-- Trump hotar att förstöra iranskt gasfält - GP
-- Fokus på straff när Borg Høiby-målet avslutas - Västerbottens-Kuriren
-- Förenade arabemiraten: Svenskar bland de skadade - UNT
+- DN Direkt – EU-ja till tulluppgörelse med USA - Dagens Nyheter
 - Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
+- Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
 - Analytiker varnar för större börsfall: ”Det är olja – inte bitcoin” - Affärsvärlden
-- DN Direkt – Stockholmsbörsen faller – oro för oljepriset - Dagens Nyheter
-- Olika moms på samma mat – reform möter kritik - tidningensyre.se
+- Stockholmsbörsen rasar – oro för oljepriset - GP
 - Stort säkerhetshål har upptäckts på Iphone - Omni
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 
@@ -40,12 +40,12 @@ _Updated: 2026-03-19 13:58_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Halvledarsektorn stiger inför global AI-konferens - DI
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
@@ -53,22 +53,22 @@ _Updated: 2026-03-19 13:58_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -91,8 +91,8 @@ _Updated: 2026-03-19 13:58_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -101,21 +101,21 @@ _Updated: 2026-03-19 13:58_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -125,20 +125,20 @@ _Updated: 2026-03-19 13:58_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- AI och data science - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,11 +149,11 @@ _Updated: 2026-03-19 13:58_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- De gick från reko till eko - ST-tidningen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
