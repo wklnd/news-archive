@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 05:25_
+_Updated: 2026-03-19 07:10_
 
 ## Top Stories
 
-- Hon föreslås utmana Mohamsson: ”Stort beslut” - Västerbottens-Kuriren
+- Cecilia Rönn nominerad till ny partiledare - SVT Nyheter
+- Säger plötsligt ordet – nytt land kan gå in i kriget - Aftonbladet
+- Irans krav: ”Försök till ny världsordning” - Svenska Dagbladet
+- Barn dog i brand på Hisingen – släppt kvinna har nu häktats - GP
+- Zelenskyjs tålamod slut – hårda orden får kritik - Svenska Dagbladet
 - L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
-- Natochefen: Samtal om hur Hormuzsundet kan öppnas - GP
-- Få biskopar ställer krav på samkönade vigslar - Västerbottens-Kuriren
-- Här är de iranska ledarna som har dödats i kriget - Dagens Nyheter
-- Svenskar glada - men Finland lyckligast igen - Västerbottens-Kuriren
 - Man fick träd över sig – avled - Västerbottens-Kuriren
-- LARMET: Kommuner brister i suicidarbetet: ”Kan vara skillnaden på liv och död” - NWT
-- Tidigare L-toppen Birgitta Ohlsson till Centern - GP
-- Lodjursjakten återupptas i Dalarna efter rättsliga turer - SVT Nyheter
-- DN Direkt – Åklagaren yrkar på sju år och sju månaders för Bonusprinsen - Dagens Nyheter
+- Kulturkommentar: Att vägra viga samkönade par är den största synden - GP
+- Tidigare C-ledaren Demirok jublar: ”Hon har hittat hem” - SVT Nyheter
+- Fack oense om undantag för vårdpersonal - Dagens Arena
+- Iranska attacker mot gasanläggningar – oljepriset lyfte - DI
+- Natochefen: Samtal om hur Hormuzsundet kan öppnas - Västerbottens-Kuriren
+- Långa internetavbrott i Moskva avslöjar: Kreml testar nya verktyg för censur - Yle
 - Nära 1 000 döda i Libanon - GP
-- Ukrainas största framgång på tre år: ”Tagit stopp” - Dagens Nyheter
-- Klartext – nyheter på ett enklare sätt - Sveriges Radio
-- Fed lämnar räntan i USA oförändrad - SVT Nyheter
-- Så många kronobergare deklarerade första dygnet - Smålandsposten
-- Trump hotar att förstöra iranskt gasfält - Svenska Dagbladet
+- Dags för "reality check" hos investerare - Dagens PS
+- Ledare: Dumt att lyda politiken - NWT
 - SAS ställer in avgångar – Norwegian lägger till - travelnews.se
-- Nvidias VD säger att gamers har “helt fel” om DLSS 5 - TechRadar
-- TEST: Nya ”billiga” Iphone 17e mot begagnade - Aftonbladet
+- DEBATT: Gör det lättare att hyra ut lägenheten - Expressen
+- Crimson Desert – ett överväldigande ambitiöst och episkt äventyr - Aftonbladet
+- Ny ägare till gård i Ärtemark - NWT
 
 ## World News
 
@@ -51,25 +51,48 @@ _Updated: 2026-03-19 05:25_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+
+## Business
+
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -91,8 +114,8 @@ _Updated: 2026-03-19 05:25_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,21 +144,21 @@ _Updated: 2026-03-19 05:25_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- De gick från reko till eko - ST-tidningen
-- Tio jordbruksaktier för depån - Placera.se
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
