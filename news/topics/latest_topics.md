@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 09:32_
+_Updated: 2026-03-19 10:04_
 
 ## Top Stories
 
-- JUST NU: Nytt land kan ge sig in i kriget - Expressen
-- Tre personer avrättade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källor: Danmark förberedde sig för attack från USA - Svenska Dagbladet
+- Cecilia Rönn nominerad till ny partiledare - SVT Nyheter
 - Stopp på samtliga linjer i Göteborg - GP
-- Hon föreslås utmana Mohamsson: ”Stort beslut” - Västerbottens-Kuriren
+- Tre personer avrättade i Iran - Västerbottens-Kuriren
 - Få krav på att viga samkönade par - SVT Nyheter
+- Irans krav: ”Försök till ny världsordning” - Svenska Dagbladet
+- SD:s bistånd stöttar Bolsonaros abortmotståndare - Dagens Nyheter
+- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
+- Utländska kusinäktenskap ska inte godkännas - Västerbottens-Kuriren
 - PFAS i småtomater som säljs i Sverige - Västerbottens-Kuriren
 - Två till sjukhus efter krock på E45 i Brålanda - TTELA
-- Centern borde lära sig av Liberalernas kollaps - Arbetet
-- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
 - Trump hotar Irans gasfält efter attackerna i Qatar - Omni
+- Källor: Danmark förberedde sig för attack från USA - Västerbottens-Kuriren
 - Spelet i Bryssel: Kommer Orbán att ”fega ur” igen? - Dagens Nyheter
 - Natochefen: Samtal om hur Hormuzsundet kan öppnas - GP
-- Långa internetavbrott i Moskva avslöjar: Kreml testar nya verktyg för censur - Yle
 - Ny rapport: Så utbrett är fusket i byggbranschen - Dagens PS
 - Alectas vd viker sig efter sanktionssmällen - Finanswatch.se
 - Vanliga börsmisstaget kan kosta dig tusenlappar i pension - e55.se
-- Fed lämnar räntan i USA oförändrad - SVT Nyheter
+- Svenska aktier som Warren Buffett skulle köpa - Dagens PS
 - Helt egen kategori: Nyupptäckt värld utmanar vår uppfattning om planeter totalt - Illustrerad Vetenskap
 - Bostadsrättsföreningars utsatthet och sårbarhet för ekonomisk brottslighet - Brå - Brottsförebyggande rådet
 
