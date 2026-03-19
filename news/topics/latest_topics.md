@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 23:55_
+_Updated: 2026-03-20 00:56_
 
 ## Top Stories
 
-- Advokat: ”Høiby kan frikännas” - Hufvudstadsbladet
-- Peter Alestig: Irankriget kan få den hopplösa klimatekvationen att gå ihop - Dagens Nyheter
+- ”Hur mäter man hur rädd man varit?” - Aftonbladet
+- Kristersson: Flaskhalsintäkter kvar i Sverige - Västerbottens-Kuriren
 - DN Direkt – Strömavbrott i Södermalm - Dagens Nyheter
 - Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
-- Här är iranska toppar som dödats i kriget - GP
 - Nathan Shachar: Vem orkar längst? Bara Iran vet vad det vill - Dagens Nyheter
-- L i Stockholm vill inte utmana Mohamsson - Västerbottens-Kuriren
-- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
-- Polis spärrar av område i Örebro - Expressen
+- Kungens USA-resa hänger i luften - Svenska Dagbladet
+- L-ledaren på interna mötet: ”Inte mitt förstahandsval” - SVT Nyheter
+- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
 - Skogsbrukets historiska kolförlust – större än alla våra fossila utsläpp - Dagens Nyheter
-- EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
+- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
 - Köper stadskartor när Kreml blockar nätet - Svenska Dagbladet
 - Juri von Bonsdorff Åtta saker som inte gått Donald Trumps väg i Iran - Hufvudstadsbladet
+- Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Oljeraffinaderi i Kuwait träffat av drönare - Dagens Nyheter
-- USA och Israel oense: Vad visste Trump om attacken? - Omni
 - Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
+- USA och Israel oense: Vad visste Trump om attacken? - Omni
 - Börsen rasade när oron för oljepriset ökar - Sydsvenskan
-- Börsens äldsta vd slutar – sonen tar över - EFN
-- Stort säkerhetshål har upptäckts på Iphone - Omni
+- Chefsexodus i Klarna – flera toppar lämnar - EFN
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
+- Stort säkerhetshål har upptäckts på Iphone - Omni
 
 ## World News
 
@@ -55,13 +55,13 @@ _Updated: 2026-03-19 23:55_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
