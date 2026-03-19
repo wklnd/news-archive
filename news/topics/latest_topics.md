@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 21:29_
+_Updated: 2026-03-19 22:00_
 
 ## Top Stories
 
+- Tung kritik mot regeringens klimatpolitik – Sverige riskerar 40 miljarder i böter - Dagens Nyheter
 - Advokat: ”Høiby kan frikännas” - Hufvudstadsbladet
+- Svensk småbarnspappa avrättad i Iran - Svenska Dagbladet
 - Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
-- Netanyahu: Iran kan inte längre anrika uran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SD:s biståndsorganisation lovade stöd till ukrainska kvinnor: ”Inget samarbete med Hepatica” - Dagens Nyheter
-- Tre personer avrättade i Iran - Folkbladet
-- Kan utmana Mohamsson: ”Känner stort stöd” - GP
-- L i Stockholm vill inte utmana Mohamsson - Västerbottens-Kuriren
-- Centern borde lära sig av Liberalernas kollaps - Arbetet
-- Rapport: Sveriges klimatpolitik är otillräcklig - SVT Nyheter
+- DN Direkt – Sony begär att 135 000 fejkade AI-låtar tas bort - Dagens Nyheter
+- DN Direkt – Mohamsson till L-möte i Stockholm - Dagens Nyheter
+- Kan utmana Mohamsson: ”Känner stort stöd” - Corren
+- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
 - Skogsbrukets historiska kolförlust – större än alla våra fossila utsläpp - Dagens Nyheter
 - EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
-- Bosättare körs bort på Västbanken - Dagens Nyheter
-- Zelenskyjs tålamod slut – hårda orden får kritik - Västerbottens-Kuriren
-- Ukraina slog till mot militära mål på Krim - Västerbottens-Kuriren
-- SvD Morgonrapport: Nya attacker mot energianläggningar i natt - Svenska Dagbladet
-- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
+- Juri von Bonsdorff Åtta saker som inte gått Donald Trumps väg i Iran - Hufvudstadsbladet
+- Gahr Støre: ”Vi tjänar inte på det här kriget” - Dagens Nyheter
+- Netanyahu: Iran kan inte längre anrika uran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA och Israel oense: Vad visste Trump om attacken? - Omni
 - Börsen rasade när oron för oljepriset ökar - Sydsvenskan
+- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
 - Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
 - Stort säkerhetshål har upptäckts på Iphone - Omni
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
@@ -31,20 +31,20 @@ _Updated: 2026-03-19 21:29_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Halvledarsektorn stiger inför global AI-konferens - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Halvledarsektorn stiger inför global AI-konferens - DI
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
@@ -83,39 +83,39 @@ _Updated: 2026-03-19 21:29_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -125,8 +125,8 @@ _Updated: 2026-03-19 21:29_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -134,11 +134,11 @@ _Updated: 2026-03-19 21:29_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
