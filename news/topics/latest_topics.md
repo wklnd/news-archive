@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 18:30_
+_Updated: 2026-03-19 19:31_
 
 ## Top Stories
 
 - ”Magdalena Andersson absolut en statsministerkandidat” - Dagens Nyheter
+- Höjt hot på grund av kriget – polisen förstärker - GP
 - Svensk småbarnspappa avrättad i Iran - Svenska Dagbladet
 - Rekordbeslaget innehöll 100 handgranater - Omni
 - Över 1 000 döda i Libanon - Aftonbladet
-- USA:s krigsminister: Största attackerna hittills inleds idag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Höjt hot på grund av kriget – polisen förstärker - Västerbottens-Kuriren
-- Kan utmana Mohamsson: ”Känner stort stöd” - GP
+- Stockholmsbörsen har rasat över 3 procent – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- L i Stockholm vill inte utmana Mohamsson - Västerbottens-Kuriren
 - Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
-- Betyget på regeringens klimatpolitik: Otillräcklig - Västerbottens-Kuriren
-- Regeringen drar tillbaka rapport – hänvisar till studier som inte finns - Dagens Nyheter
+- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
+- Riksdagen extrainkallas i sommar - Expressen
 - Fokus på straff när Borg Høiby-målet avslutas - GP
-- Orbán: Inget Ukrainastöd utan olja - SVT Nyheter
-- Zelenskyjs tålamod slut – hårda orden får kritik - Västerbottens-Kuriren
-- Trump hotar att förstöra iranskt gasfält - Bohusläningen
+- EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
+- Zelenskyjs tålamod slut – hårda orden får kritik - GP
+- LEDARE: Varför talar så många om Öresund när så få bryr sig om dansk politik? - HD
 - Riksbanken håller räntan oförändrad – ser stora risker - Placera.se
-- Stockholmsbörsen rasar – oro för oljepriset - GP
+- Trump hotar spränga iranskt gasfält i luften - Dagens Nyheter
+- Börsen rasade när oron för oljepriset ökar - Sydsvenskan
 - Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
-- Analytiker varnar för större börsfall: ”Det är olja – inte bitcoin” - Affärsvärlden
 - Stort säkerhetshål har upptäckts på Iphone - Omni
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 
@@ -41,11 +41,11 @@ _Updated: 2026-03-19 18:30_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Halvledarsektorn stiger inför global AI-konferens - DI
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
@@ -97,25 +97,25 @@ _Updated: 2026-03-19 18:30_
 ## Health
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar ChatGPT Health - OpenAI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Vi presenterar HealthBench - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -137,28 +137,28 @@ _Updated: 2026-03-19 18:30_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Jordbruk och landsbygdsutveckling - European Commission
+- De gick från reko till eko - ST-tidningen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - Shaping Europe’s digital future
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
