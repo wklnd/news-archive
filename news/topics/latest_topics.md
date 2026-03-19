@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 08:34_
+_Updated: 2026-03-19 09:32_
 
 ## Top Stories
 
-- Börsfall i Asien efter attacker mot gasen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- JUST NU: Nya landet kan ge sig in i kriget - Expressen
+- JUST NU: Nytt land kan ge sig in i kriget - Expressen
+- Tre personer avrättade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Källor: Danmark förberedde sig för attack från USA - Svenska Dagbladet
 - Stopp på samtliga linjer i Göteborg - GP
-- Få biskopar ställer krav på samkönade vigslar - Västerbottens-Kuriren
-- Irans krav: ”Försök till ny världsordning” - Svenska Dagbladet
-- Cecilia Rönn nominerad till ny partiledare - SVT Nyheter
-- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
+- Hon föreslås utmana Mohamsson: ”Stort beslut” - Västerbottens-Kuriren
+- Få krav på att viga samkönade par - SVT Nyheter
+- PFAS i småtomater som säljs i Sverige - Västerbottens-Kuriren
+- Två till sjukhus efter krock på E45 i Brålanda - TTELA
 - Centern borde lära sig av Liberalernas kollaps - Arbetet
-- Sofia Mirjamsdotter: Kasta förslaget om återkallade medborgarskap i soptunnan - Västerbottens-Kuriren
-- Sigtuna över snittet i suicidpreventivt arbete - märsta.nu
-- Trump hotar att förstöra iranskt gasfält - Svenska Dagbladet
+- L-toppen Jan Jönsson lämnar politiken - Dagens Nyheter
+- Trump hotar Irans gasfält efter attackerna i Qatar - Omni
 - Spelet i Bryssel: Kommer Orbán att ”fega ur” igen? - Dagens Nyheter
-- Natochefen: Samtal om hur Hormuzsundet kan öppnas - Västerbottens-Kuriren
+- Natochefen: Samtal om hur Hormuzsundet kan öppnas - GP
 - Långa internetavbrott i Moskva avslöjar: Kreml testar nya verktyg för censur - Yle
+- Ny rapport: Så utbrett är fusket i byggbranschen - Dagens PS
 - Alectas vd viker sig efter sanktionssmällen - Finanswatch.se
-- Trump till Fed-chefen: När sänks räntan? - Västerbottens-Kuriren
-- Svenska aktier som Warren Buffett skulle köpa - Dagens PS
-- Miljonär som pensionär? Så ska du pensionsspara i 30-årsåldern - Dagens PS
-- En liten handfull grus från rymden döljer kanske en hemlighet som kan förklara din existens - Illustrerad Vetenskap
-- Nvidias VD säger att gamers har “helt fel” om DLSS 5 - TechRadar
+- Vanliga börsmisstaget kan kosta dig tusenlappar i pension - e55.se
+- Fed lämnar räntan i USA oförändrad - SVT Nyheter
+- Helt egen kategori: Nyupptäckt värld utmanar vår uppfattning om planeter totalt - Illustrerad Vetenskap
+- Bostadsrättsföreningars utsatthet och sårbarhet för ekonomisk brottslighet - Brå - Brottsförebyggande rådet
 
 ## World News
 
@@ -147,6 +147,7 @@ _Updated: 2026-03-19 08:34_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -154,11 +155,10 @@ _Updated: 2026-03-19 08:34_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk och landsbygdsutveckling - European Commission
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
