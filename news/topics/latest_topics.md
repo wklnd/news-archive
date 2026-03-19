@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-19 12:07_
+_Updated: 2026-03-19 13:08_
 
 ## Top Stories
 
-- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
-- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
 - Centern borde lära sig av Liberalernas kollaps - Arbetet
-- Gråmulen sista domstolsdag för Borg Høiby - Västerbottens-Kuriren
+- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
+- L-favorit: Känner starkt stöd - Västerbottens-Kuriren
 - Enorma problem i spåren av regionernas nya journalsystem - Dagens Nyheter
-- Tre döda palestinier efter iransk attack mot Västbanken – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Hedersrelaterat våld och förtryck måste bekämpas med full kraft - Moderaterna
-- DN Direkt – PFAS i småtomater som säljs i Sverige - Dagens Nyheter
+- Nedåt på Stockholmsbörsen vid öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Danmark förberedde sig på motattack mot USA – laddade blodbanker - Dagens Nyheter
+- DN Direkt – Ny lagar mot hedersrelaterat våld och förtryck - Dagens Nyheter
+- Regeringen drar tillbaka rapport – hänvisar till studier som inte finns - Dagens Nyheter
 - Två till sjukhus efter krock på E45 i Brålanda - TTELA
-- L-toppen stänger inte dörren för att utmana Mohamsson – Senaste nytt om valet 2026 - SVT Nyheter
-- Trump hotar spränga iranskt gasfält i luften - Dagens Nyheter
-- Kristersson om Orbáns ultimatum: Utpressning - Västerbottens-Kuriren
-- Källor: Danmark förberedde sig på möjligt angrepp från USA - SVT Nyheter
+- Marmorstein: Fler kan gå över från L till C – Senaste nytt om valet 2026 - SVT Nyheter
+- Orbán: Inget Ukrainastöd utan olja - SVT Nyheter
+- Fokus på straff när Borg Høiby-målet avslutas - Västerbottens-Kuriren
 - JUST NU: Tungviktare kan gå med i kriget - Marcus Oscarsson
+- ”Vi är lyckliga – men inte världens lyckligaste” - Hufvudstadsbladet
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
+- DN Direkt – Stockholmsbörsen faller – oro för oljepriset - Dagens Nyheter
 - Alectas vd viker sig efter sanktionssmällen - Finanswatch.se
-- Miljonär som pensionär? Så ska du pensionsspara i 30-årsåldern - Dagens PS
-- Candela tar in 320 miljoner – bygger ny fabrik - Sjöfartstidningen
-- Svenska aktier som Warren Buffett skulle köpa - Dagens PS
-- Helt egen kategori: Nyupptäckt värld utmanar vår uppfattning om planeter totalt - Illustrerad Vetenskap
+- Olika moms på samma mat – reform möter kritik - tidningensyre.se
+- Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 - Meddelarfrihet ska gälla kring elektronisk övervakning av barn och unga - Tidningsutgivarna
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 14:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Halvledarsektorn stiger inför global AI-konferens - DI
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -66,32 +66,32 @@ _Updated: 2026-03-19 12:07_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
