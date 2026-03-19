@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-19 22:06_
+_Updated: 2026-03-19 23:18_
 
 - Live Updates: Iran war escalates, energy prices spike after Israeli strike on South Pars gas field - CBS News
+- Body of missing University of Alabama student found in Spain, reports say - WBRC
+- California's Gov. Newsom supports move to rename César Chavez Day over alleged sexual abuse - AP News
 - Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader - The New York Times
-- Hegseth on seeking $200 billion for Iran war: "That number could move" - Axios
-- Push to strip Cesar Chavez's name off streets, buildings, holidays catches fire after sex abuse allegations - Los Angeles Times
-- James Gracey missing update: Wallet found of Univ. of Alabama student of Elmhurst found in Barcelona, Spain during spring break - ABC7 Chicago
-- Tulsi Gabbard: Director of National Ignorance - The Bulwark
-- Capitol agenda: Markwayne Mullin’s rockier-than-expected road - Politico
+- Cracks emerge in GOP over Iran war cost as administration floats more than $200B request to Congress - CNN
+- Pentagon weighs sending more troops to Middle East - Politico
 - ‘We’re Just Seen as Sex Objects’: Dolores Huerta’s Years in the U.F.W. - The New York Times
-- US official warns small airports could soon shut down over TSA absences - Reuters
-- The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause - NPR
-- Live. EU summit: Leaders refrain from committing to secure Strait of Hormuz - Euronews.com
+- Fetterman breaks with Democrats, casts key vote to advance Trump pick for Homeland Security - 90.5 WESA
+- Gabbard, intel officials face more sharp questions on Iran war at House hearing - CBS News
+- What One Key Loss in Illinois Signals for Pro-Israel Lobby in Midterms - The New York Times
 - Joint statement on Strait of Hormuz by European nations and Japan - Reuters
-- Tories only party with a plan, says Badenoch as she launches election campaign - BBC
-- Divers find marble treasure from Athens' Acropolis in Lord Elgin's shipwrecked brig at the bottom of the Aegean Sea - Live Science
-- Trump tried to push Powell out, but now he may be stuck with him - The Washington Post
-- States challenge "broadcast behemoth" mega-merger - Axios
+- Denmark was ready to blow up Greenland runways if US invaded - Financial Times
+- Trump’s “America First” becomes America alone - Salon.com
+- Live. EU summit: Leaders refrain from committing to secure Strait of Hormuz - Euronews.com
+- Wall Street banks set for 5% capital decline under new rules - CNBC
 - FDA approves higher dose version of weight loss drug Wegovy as Novo Nordisk tries to win back market share - CNBC
-- Stock Market Today: Dow Slips 400 Points; Brent Crude Retreats After Hitting $119 — Live Updates - WSJ
+- Bond Traders No Longer Price In Any Chance of Fed Cut in 2026 - Bloomberg.com
+- Global selloff in stocks as oil hits $115 and Trump admits he ‘knew nothing’ about Israel attack on major Iran gas field - Fortune
 - I’ve been using the Nothing Phone (4a) Pro for a week, and it’s absolutely brilliant - 9to5Google
 - Pearl Abyss shares tumble after Crimson Desert fails to meet expectations - Eurogamer
