@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 00:56_
+_Updated: 2026-03-20 01:53_
 
 ## Top Stories
 
-- ”Hur mäter man hur rädd man varit?” - Aftonbladet
-- Kristersson: Flaskhalsintäkter kvar i Sverige - Västerbottens-Kuriren
-- DN Direkt – Strömavbrott i Södermalm - Dagens Nyheter
-- Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
-- Nathan Shachar: Vem orkar längst? Bara Iran vet vad det vill - Dagens Nyheter
+- Kristersson: Svenska flaskhalsavgifter säkrade - Dagens Nyheter
+- Här är iranska toppar som dödats i kriget - GP
 - Kungens USA-resa hänger i luften - Svenska Dagbladet
+- Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
+- Saudiarabien varnar Iran - 8 Sidor
+- Nathan Shachar: Vem orkar längst? Bara Iran vet vad det vill - Dagens Nyheter
 - L-ledaren på interna mötet: ”Inte mitt förstahandsval” - SVT Nyheter
 - Regeringen kritiseras – kommer inte att nå klimatmålen - GP
 - Skogsbrukets historiska kolförlust – större än alla våra fossila utsläpp - Dagens Nyheter
 - Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
 - Köper stadskartor när Kreml blockar nätet - Svenska Dagbladet
-- Juri von Bonsdorff Åtta saker som inte gått Donald Trumps väg i Iran - Hufvudstadsbladet
 - Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Oljeraffinaderi i Kuwait träffat av drönare - Dagens Nyheter
+- Trots utskällning: Orbán nekar Ukraina lån - GP
+- Fokus på straff när Borg Høiby-målet avslutas - GP
 - Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
 - USA och Israel oense: Vad visste Trump om attacken? - Omni
-- Börsen rasade när oron för oljepriset ökar - Sydsvenskan
-- Chefsexodus i Klarna – flera toppar lämnar - EFN
+- Sven-Olof Johansson lämnar vd-tjänsten på Fastpartner - Fastighetsvärlden
+- Seniora medarbetare lämnar Klarna – ir-chefen slutar - DI
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
-- Stort säkerhetshål har upptäckts på Iphone - Omni
+- Astronauten Jessica Meir ute på rymdpromenad - Aftonbladet
 
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,16 +36,17 @@ _Updated: 2026-03-20 00:56_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -55,11 +55,11 @@ _Updated: 2026-03-20 00:56_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -96,12 +96,12 @@ _Updated: 2026-03-20 00:56_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -109,12 +109,12 @@ _Updated: 2026-03-20 00:56_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -126,19 +126,19 @@ _Updated: 2026-03-20 00:56_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - AI och data science - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2026-03-20 00:56_
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
-- Tio jordbruksaktier för depån - Placera.se
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
