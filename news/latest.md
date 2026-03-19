@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-19 08:38_
+_Updated: 2026-03-19 09:35_
 
-- Iran Warns Gulf of Fierce Retaliation After Gas Field Strike - Bloomberg.com
+- Live Updates: Trump threatens to "massively blow up" Iranian gas field if Iran attacks Qatar - CBS News
 - Gabbard tells senators Iranian regime is degraded but still intact - The Washington Post
-- Markwayne Mullin’s DHS nomination not at risk from Rand Paul , Thune says - Politico
-- César Chavez accused of sexually abusing labor rights leader Dolores Huerta and others - AP News
-- Takeaways from former Trump administration counterterrorism chief Joe Kent’s extensive interview - CNN
-- JB Pritzker flexes his political muscle: From the Politics Desk - NBC News
-- University of Alabama student missing in Spain, foul play suspected - NewsNation
+- Markwayne Mullin’s Confirmation Hearing Was the Funniest in Ages—and Might Have a Stunning Outcome - Slate
+- César Chávez allegations grow as Dolores Huerta speaks out - Axios
+- F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump - The New York Times
+- Satellite images show the USS Tripoli taking Marines to Iran - USA Today
 - Report: Family of Columbia Heights 5-year-old detained by ICE loses asylum case, ordered deported - Star Tribune
-- Inside the White House plan to sell the Iran war online - Politico
 - Son and brother of Afghan man who died in ICE custody demand answers: "I want to know why he died" - CBS News
+- Inside the White House plan to sell the Iran war online - Politico
+- Q&A on the SAVE America Act - FactCheck.org
 - Iran and oil imperil Trump-Japan summit - Politico
 - Iranian intelligence minister killed in precision airstrike, while US military targets missile sites - Fox News
-- Israel destroys river bridges in southern Lebanon - BBC
-- China dismisses U.S. Hormuz request as Trump's Beijing trip is delayed and Iran war deepens - PBS
+- Europe tells Trump Iran is 'not our war' - Reuters
+- A real possum appears among plush toy animals in Australian airport gift shop - AP News
 - Live updates: Interest rates steady, Federal Reserve forecasts one rate cut in 2026 - Yahoo Finance
-- Oil rises 3% after Iran strikes Middle East energy facilities - Reuters
-- Micron revenue almost triples, tops estimates as demand for memory soars - CNBC
-- Why Global Energy Shock Could Leave China Stronger Than Ever - Crude Oil Prices Today | OilPrice.com
+- Oil Prices Keep Climbing on Heightened Fears Over Energy Supplies - The New York Times
+- Micron outlines >$25B FY26 CapEx plan while expanding NAND and DRAM capacity amid persistent supply constraints - Seeking Alpha
+- Asian shares skid as oil tops $111 a barrel and Wall Street slumps - AP News
 - Spotify error was playing ads for Premium subscribers, now fixed - 9to5Google
 - MacBook Neo is just fine with 4K video editing and 59 Chrome tabs - 9to5Mac
