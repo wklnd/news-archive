@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 11:06_
+_Updated: 2026-03-20 12:05_
 
 ## Top Stories
 
 - Kronprinsessan Mette-Marit om Epstein: ”Jag blev manipulerad och lurad” - SVT Nyheter
-- Lars Leijonborg kandiderar för L - GP
-- Johan Eriksson vill att Knutbyfallet tas upp igen - Omni
-- Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
-- Irans motattack – raffinaderi attackerat igen - Aftonbladet
+- Lars Leijonborg kandiderar för L: Vill hjälpa till - Västerbottens-Kuriren
+- DN Direkt – Mohamsson om SD: ”Inte mitt förstahandsval” - Dagens Nyheter
+- Italien: Hjälp vid Hormuz ”inte ett krigsuppdrag” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Vad är sant i Moderaternas reklamfilm i kollektivtrafiken? - Sydsvenskan
+- Strypsex och red flags – unga om våld i nära relationer - GP
+- Rönn säger nej till att kandidera mot Mohamsson - Västerbottens-Kuriren
 - Statligt råd: Då ska läkare inte rädda extremt tidigt födda - Dagens Nyheter
-- Rönn säger nej till att kandidera mot Mohamsson - GP
-- INSÄNDARE: Liberalerna måste lära av livet - Gefle Dagblad
-- Se webb-tv: kommunfullmäktige 19 mars - Tyresö kommun
+- Kräver att Knutbyfallet återupptas - UNT
+- Nya lagar mot hedersbrott - 8 Sidor
 - Belarus oppositionsledare: ”Lukasjenko är mycket rädd för Trump” - Dagens Nyheter
-- Talesperson för revolutionsgardet dödad i attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
 - Ukraina slog till mot militära mål på Krim - GP
-- Gasfälten svåra att skydda: ”Måste prioritera” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Schweiz öppnar för ingripande – kan reta upp Trump igen - Realtid
-- Ljusning på arbetsmarknaden – första uppgången på två år - Dagens PS
-- Revanschen: Volkswagen kör om BYD - Dagens PS
+- Så vill Trump ändra vallagarna: ”Görs till åtlöje” - Hufvudstadsbladet
+- Analytiker: Södra Sverige kan påverkas mest av höjda priser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Så börjar ett riktigt börsras - DI
+- Schweiz planer riskerar att göra Trump rasande - Dagens PS
+- Penningpolitiskt beslut: Styrräntan oförändrad på 1,75 procent - Sveriges Riksbank
 - Jessica Meirs rymdpromenad varade i sju timmar - Ny Teknik
 - Hackarverktyget Darksword utgör ett hot mot Iphone-användare - Macworld.se
 
@@ -44,9 +44,9 @@ _Updated: 2026-03-20 11:06_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-03-20 11:06_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -100,22 +100,22 @@ _Updated: 2026-03-20 11:06_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2026-03-20 11:06_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
