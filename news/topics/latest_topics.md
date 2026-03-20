@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 09:28_
+_Updated: 2026-03-20 10:01_
 
 ## Top Stories
 
 - Kronprinsessan Mette-Marit om Epstein: ”Jag blev manipulerad och lurad” - SVT Nyheter
 - Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
+- Lars Leijonborg kandiderar för Liberalerna - SVT Nyheter
 - Björn Söder till attack mot Sida-handläggare - Dagens Nyheter
-- Nya rådet: Sluta försöka rädda bebisar födda innan vecka 23 - SVT Nyheter
 - Vad är sant i Moderaternas reklamfilm i kollektivtrafiken? - Sydsvenskan
-- BILDEXTRA: Spännande mix av affärsidéer på UF-mässan - Smålandsposten
-- Överlägsen kollagring i obrukad skog - Natursidan
+- Nya rådet: Rädda inte barn födda innan vecka 23 - GP
 - Den sista liberalen: ”Skam den som ger sig” - Dagens Nyheter
-- ”Om oppositionen vinner valet väntar strid om klimatmålen” - SVT Nyheter
+- Överlägsen kollagring i obrukad skog - Natursidan
+- Kan utmana Mohamsson: ”Känner stort stöd” - GP
 - Se webb-tv: kommunfullmäktige 19 mars - Tyresö kommun
 - Italien: Hjälp vid Hormuz ”inte ett krigsuppdrag” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
 - Så vill Trump ändra vallagarna: ”Görs till åtlöje” - Hufvudstadsbladet
+- Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
-- Gasfälten svåra att skydda: ”Måste prioritera” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svårt att skydda gasfälten: ”Måste prioritera” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Schweiz planer riskerar att göra Trump rasande - Dagens PS
-- Dyrare flygbiljetter när bränslepriset rusar - Sydsvenskan
-- Uppgifter: Bezos vill satsa 100 miljarder dollar på AI i tillverkningsindustrin - WSJ - Börsvärlden
+- Bezos samtalar om AI-satsning för 100 miljarder dollar - Affärsvärlden
+- Felicia Åkerman: Stockholmsbörsen står och faller med oljan - Dagens Nyheter
 - Jessica Meirs rymdpromenad varade i sju timmar - Ny Teknik
 - Hackarverktyget Darksword utgör ett hot mot Iphone-användare - Macworld.se
 
@@ -96,26 +96,26 @@ _Updated: 2026-03-20 09:28_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -128,6 +128,7 @@ _Updated: 2026-03-20 09:28_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -138,7 +139,6 @@ _Updated: 2026-03-20 09:28_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
