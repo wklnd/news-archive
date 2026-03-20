@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 08:11_
+_Updated: 2026-03-20 09:28_
 
 ## Top Stories
 
-- Netanyahu: Iran kan inte längre anrika uran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
 - Kronprinsessan Mette-Marit om Epstein: ”Jag blev manipulerad och lurad” - SVT Nyheter
+- Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
 - Björn Söder till attack mot Sida-handläggare - Dagens Nyheter
+- Nya rådet: Sluta försöka rädda bebisar födda innan vecka 23 - SVT Nyheter
 - Vad är sant i Moderaternas reklamfilm i kollektivtrafiken? - Sydsvenskan
-- Avgaser läckte in i lägenhet – hyresgäst skadad - GP
-- Statligt råd: Då ska läkare inte rädda extremt tidigt födda - Dagens Nyheter
-- Kan utmana Mohamsson: ”Känner stort stöd” - GP
-- Rapport: Sveriges klimatpolitik är otillräcklig - SVT Nyheter
+- BILDEXTRA: Spännande mix av affärsidéer på UF-mässan - Smålandsposten
 - Överlägsen kollagring i obrukad skog - Natursidan
+- Den sista liberalen: ”Skam den som ger sig” - Dagens Nyheter
+- ”Om oppositionen vinner valet väntar strid om klimatmålen” - SVT Nyheter
+- Se webb-tv: kommunfullmäktige 19 mars - Tyresö kommun
 - Italien: Hjälp vid Hormuz ”inte ett krigsuppdrag” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Lega Nords provokative grundare död - Västerbottens-Kuriren
+- Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
 - Så vill Trump ändra vallagarna: ”Görs till åtlöje” - Hufvudstadsbladet
-- EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
-- Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
+- Gasfälten svåra att skydda: ”Måste prioritera” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Schweiz planer riskerar att göra Trump rasande - Dagens PS
 - Dyrare flygbiljetter när bränslepriset rusar - Sydsvenskan
-- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
-- Felicia Åkerman: Stockholmsbörsen står och faller med oljan - Dagens Nyheter
+- Uppgifter: Bezos vill satsa 100 miljarder dollar på AI i tillverkningsindustrin - WSJ - Börsvärlden
+- Jessica Meirs rymdpromenad varade i sju timmar - Ny Teknik
 - Hackarverktyget Darksword utgör ett hot mot Iphone-användare - Macworld.se
-- Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-03-20 08:11_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -100,22 +100,22 @@ _Updated: 2026-03-20 08:11_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
@@ -127,18 +127,18 @@ _Updated: 2026-03-20 08:11_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- AI och data science - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
