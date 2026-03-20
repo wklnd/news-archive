@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-20 21:24_
+_Updated: 2026-03-20 22:00_
 
-- More Marines are headed to Middle East as Iran war reaches the 3-week mark - NPR
+- Iran War Live: Trump Calls NATO Allies 'Cowards' Over Strait of Hormuz; Pentagon Sends More Troops to Middle East - WSJ
 - What Cesar Chavez’s biographer says now - Politico
-- CBS News Radio To Shutter Amid News Division Cuts - deadline.com
-- Trump mulls risky Kharg Island takeover to force Iran to open strait - Axios
+- CBS News will end radio service, cut jobs as Bari Weiss seeks revival - The Washington Post
 - US college student’s death in Barcelona was likely an accident, Spanish police say - AP News
-- Iran Spokesman Dies After Issuing Defiant Statement - newser.com
+- Israel and the U.S. Are Starting to Show Their Different Priorities in Iran - The New York Times
+- Trump mulls risky Kharg Island takeover to force Iran to open strait - Axios
 - Travelers face Friday rush and unpredictable airport wait times as TSA officers go unpaid - CNN
 - Trump Administration Sues Harvard Over Accusations of Antisemitism - The New York Times
 - Donald Trump Makes Bold Admission About Gas Prices - Yahoo
 - Heatwave scorching US west ‘virtually impossible’ without climate crisis, say scientists - The Guardian
-- ‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran - Al Jazeera
-- Iran intensifies attacks on Gulf energy sites after Israel struck its key gas field - PBS
-- NATO Mission Iraq Posture Adjusted - shape.nato.int
-- On a Holiday of Renewal, Iranians Are Mourning and Fearful - The New York Times
-- S&P 500 drops 1%, heads for fourth-straight losing week as losses mount from Iran war impact: Live updates - CNBC
+- Exclusive: Qatar's energy boss says he had warned of dangers of provoking Iran - Reuters
+- UK allows US to use British bases for strikes protecting strait of Hormuz; US officials say more troops heading to Middle East – live - The Guardian
+- Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto - BBC
+- Oil Inches Higher as Iran Strikes Kuwait's Mina Al-Ahmadi Refinery - Crude Oil Prices Today | OilPrice.com
 - rump administration approves Nextstar takeover of Tegna - MS NOW
-- Traders Lift Bets on a Fed Hike This Year to 50% as Yields Surge - Bloomberg.com
 - The spring housing market is on, but mortgage rates just shot higher. Here's what to know. - CNBC
-- Amazon is making an Alexa phone - The Verge
+- IEA calls for working from home, driving slower and flying less to tackle energy crisis - Financial Times
+- Unilever Confirms Talks on McCormick Offer for Food Business - Bloomberg.com
+- Amazon is reportedly developing an AI-centric smartphone - Ars Technica
 - Google Search is now using AI to replace headlines - The Verge
