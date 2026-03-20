@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-20 07:06_
+_Updated: 2026-03-20 08:34_
 
-- Live Updates: Iran war escalates, energy prices spike after Israeli strike on South Pars gas field - CBS News
-- California lawmakers say they'll change name of Cesar Chavez Day to Farmworkers Day following sexual abuse allegations - ABC7 Los Angeles
-- House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0 - Axios
-- Iran: Teenager among first to be executed over anti-government protests - BBC
-- With Japanese prime minister at his side, Trump makes Pearl Harbor joke - The Washington Post
-- James Gracey live updates: Catalan police say student found dead in waters off Barcelona beach - ABC7 Chicago
+- Iran hits Gulf energy sites, escalating war, as U.S. mulls sanctions rollback - The Washington Post
+- Trump invokes Pearl Harbor in front of Japanese prime minister to defend Iran attack secrecy - CNBC
+- Cesar Chavez abuse allegations: Dolores Huerta speaks with ABC News on camera for first time after sharing - ABC7 Los Angeles
+- Teenager among first to be executed over Iran's anti-government protests - BBC
+- Trump is dismantling democracy at 'unprecedented' speed, global report finds - NPR
+- Trump Says He Won’t Send Troops to Iran But Leaves Wiggle Room - The New York Times
 - The GOP is dismissing Joe Kent. They might come to regret it. - Politico
-- US arts commission approves gold coin stamped with Donald Trump’s face - Al Jazeera
-- Labor secretary’s security staffer resigns amid misconduct investigation - Politico
-- Hawaii braces for more rain as storms take aim at wildfire burn scars - NBC News
-- War in the Middle East: latest developments - Yahoo
+- James Gracey live updates: Catalan police say student found dead in waters off Barcelona beach - ABC7 Chicago
+- Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It - The New York Times
+- Judge Rules That R.F.K. Jr. Overstepped on Transgender Care - The New York Times
+- Is Russian Fuel Headed for Cuba, Testing the U.S. Blockade? - The New York Times
+- 95+ Happy Eid-ul-Fitr Messages, Greetings, Wishes and Quotes for a Joyous Eid on 2026 - The Times of India
+- Labour MPs threaten vote to show opposition to Mahmood's migration plans - BBC
 - US-Israel strikes have destroyed Iran’s ability to enrich uranium, Benjamin Netanyahu says - Financial Times
-- Happy Eid-ul-Fitr 2026: Eid Mubarak Wishes, Messages, Quotes, Greetings and Images for Sharing on Faceboo - The Times of India
-- Iranians prepare for Persian new year under shadow of war - BBC
-- Super Micro Computer Employees Arrested for Alleged Sales to China - WSJ
+- Supermicro’s co-founder was just arrested for allegedly smuggling $2.5 billion in GPUs to China - Fortune
+- Nexstar Closes $6.2 Billion Tegna Merger, Creating Local TV Giant - The Hollywood Reporter
 - FDA Approves New High-Dose Wegovy in US For Boosted Weight Loss - ScienceAlert
-- Stock Market News, March 19, 2026: Brent Crude Retreats After Touching $119 - WSJ
-- Central Banks Brace for Faster Inflation as Energy Prices Surge - The New York Times
+- Average U.S. long-term mortgage rate rises to 6.22%, highest in more than 3 months - PBS
 - Switch 2 Handheld Boost Mode Battery Life Sucks But Is Worth It - Kotaku
-- I’ve been using the Nothing Phone (4a) Pro for a week, and it’s absolutely brilliant - 9to5Google
+- Firefox Is Adding a Free Built-In VPN. Here's What It Means for You - CNET
