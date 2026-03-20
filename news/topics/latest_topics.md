@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 15:40_
+_Updated: 2026-03-20 17:10_
 
 ## Top Stories
 
-- Reaktionerna på Mette-Marits intervju: ”Enorm kris för norsk monarki” - SVT Nyheter
-- Lars Leijonborg gör comeback i Liberalerna - Dagens Nyheter
+- Hovexpert: ”För lite, för sent och för få ärliga svar” - Dagens Nyheter
 - Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
-- Tusentals samlades i Uppsala – för att fira - UNT
-- Man från hemtjänsten misstänkt för våldtäkt på kvinna i 80-årsåldern – polisanmälan dröjde två veckor - Sydsvenskan
-- Tågluffares personuppgifter till salu på Darknet - Aftonbladet
-- Präst åtalas för grovt barnpornografibrott - Västerbottens-Kuriren
+- Lars Leijonborg gör comeback i Liberalerna - SVT Nyheter
+- Tusentals firar i Uppsala: "Gemenskapen betyder allt" - UNT
+- Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
+- E20 avstängd efter biljakt - TV4 Nyheterna
 - Man död i arbetsplatsolycka i Söderhamn - SVT Nyheter
-- DEBATT: Ödesvalet 2026 – Blågul stabilitet eller rödgrön röra - Dagens Vimmerby
-- Rönn säger nej till att kandidera mot Mohamsson - GP
-- Frankrike har bordat fartyg ur ryska skuggflottan - Omni
+- Präst åtalas för grovt barnpornografibrott - Västerbottens-Kuriren
+- Cosmic-chefen: Därför blev journalsystemet svårmanövrerat - Dagens Nyheter
+- Cecilia Rönn (L) ställer inte upp som motkandiat – Senaste nytt om valet 2026 - SVT Nyheter
 - Slutrapport: Därför kollapsade elnätet i Spanien - Västerbottens-Kuriren
-- Belarus oppositionsledare: ”Lukasjenko är mycket rädd för Trump” - Dagens Nyheter
 - Massiv utskällning av Orbán – men Ukrainas miljarder dröjer - Europaportalen
-- Så börjar ett riktigt börsras - DI
-- Analytiker: Södra Sverige kan påverkas mest av höjda priser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
-- Högt elpris resten av året – men dyrt att binda - Svenska Dagbladet
-- Stort säkerhetshål har upptäckts på Iphone - Omni
+- Trump: Nato är fegisar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
+- Gasfälten svåra att skydda: ”Måste prioritera” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- JUST NU: Brant fall på börsen – tvåsiffrigt ras i mars - EFN
+- Bränslepriset rusar ytterligare – upp 40 procent - Aftonbladet
+- Högt elpris resten av året – men dyrt att binda - Sydsvenskan
+- En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -39,35 +40,34 @@ _Updated: 2026-03-20 15:40_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
@@ -99,46 +99,46 @@ _Updated: 2026-03-20 15:40_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Vi presenterar HealthBench - OpenAI
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
