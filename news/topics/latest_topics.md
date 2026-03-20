@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 05:15_
+_Updated: 2026-03-20 07:03_
 
 ## Top Stories
 
-- Kristersson: Svenska flaskhalsavgifter säkrade - Dagens Nyheter
-- Här är iranska toppar som dödats i kriget - GP
-- Se det från den ljusa sidan, äntligen får Liberalerna till ett produktivt möte - Altinget.se
-- ”Hur mäter man hur rädd man varit?” - Aftonbladet
-- Köper stadskartor när Kreml blockar nätet - Svenska Dagbladet
-- Peter Alestig: Irankriget kan få den hopplösa klimatekvationen att gå ihop - Dagens Nyheter
+- DN Direkt – Mohamsson till L-möte i Stockholm - Dagens Nyheter
+- Kristersson: Flaskhalsintäkter kvar i Sverige - GP
+- SD spelar efter egna regler i biståndet - Dagens Arena
+- Avgaser läckte in i lägenhet – hyresgäst skadad - Västerbottens-Kuriren
+- Nya attacker runt Persiska viken - Västerbottens-Kuriren
+- Lega Nords provokative grundare död - Aftonbladet
 - Kan utmana Mohamsson: ”Känner stort stöd” - Dagens Nyheter
-- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
-- Kvinna påkörd två gånger på övergångsställe – 81-åring åtalas för vållande till annans död - Dagens Nyheter
+- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
 - Svantesson (M): ”Årsbudgeten förstärks med 7,7 miljarder kronor” – Senaste nytt om valet 2026 - SVT Nyheter
-- Lega Nords provokative grundare död - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Oljeraffinaderi i Haifa träffat i iranskt robotanfall - Dagens Nyheter
+- 19 mars 15.50, Anträffad död, Örebro - Polisen.se
+- Nedåt på Stockholmsbörsen vid öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Så vill Trump ändra vallagarna: ”Görs till åtlöje” - GP
 - EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
-- Trump hotar att förstöra iranskt gasfält - Bohusläningen
+- Direkt – Kriget i Ukraina – En död i rysk attack - Dagens Nyheter
+- Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
 - Dyrare flygbiljetter när bränslepriset rusar - Sydsvenskan
-- Blodrött på börsen – årets sämsta börsdag - Svenska Dagbladet
-- Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
+- CHATT: Vad undrar du om din ekonomi när börsen rasar? - Expressen
+- Hackarverktyget Darksword utgör ett hot mot Iphone-användare - Macworld.se
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
-- Astronauten Jessica Meir ute på rymdpromenad - Aftonbladet
 
 ## World News
 
@@ -112,10 +112,10 @@ _Updated: 2026-03-20 05:15_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -143,22 +143,22 @@ _Updated: 2026-03-20 05:15_
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
