@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 00:56_
+_Updated: 2026-03-21 01:52_
 
 ## Top Stories
 
 - Malin Ullgren: Det känns elakt att säga detta – men det är faktiskt riktigt svårt att tro henne - Dagens Nyheter
 - Trump: Överväger att trappa ned insatser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ovisst om någon vill utmana Mohamsson: ”Riggat” - GP
 - Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
-- Hennes son anslöt till IS och planerade terrordåd - Dagens Nyheter
-- Starmer låter USA använda baser för Hormuz-skydd - Aftonbladet
+- Brand i Majorna – boende evakueras genom fönstren - GP
+- Irans ledare gömmer sig – men dödspatrullerna måste synas - Dagens Nyheter
+- Valberedningen föreslår Mohamsson som partiledare - Västerbottens-Kuriren
+- Stockholmstopp hoppar av: ”I går gick min gräns” - Dagens Nyheter
 - 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
-- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
-- Förskola stänger – med två veckors varsel: ”Chockartat” - Dagens Nyheter
+- Klart: Katja Nyberg blir politisk vilde – Senaste nytt om valet 2026 - SVT Nyheter
 - Ale kommun skallrade på öldrickande präst - nu kritiseras kommunen av JO - GP
 - Belarus oppositionsledare: ”Lukasjenko är mycket rädd för Trump” - Dagens Nyheter
+- Hennes son anslöt till IS och planerade terrordåd - Dagens Nyheter
 - Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
 - Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
-- Ukraina slog till mot militära mål på Krim - GP
-- Nya bud i Irankonflikten sänkte Stockholm, OMXS30-index sjönk 1,5 procent - Placera.se
-- Bränslepriset rusar ytterligare – upp 40 procent - Norran
 - Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
+- Nya bud i Irankonflikten sänkte Stockholm, OMXS30-index sjönk 1,5 procent - Placera.se
 - USA-korrespondenten: ”Definitivt en eskalering” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Bränslepriset rusar ytterligare – upp 40 procent - Norran
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Crimson Desert fungerar inte med Intel Arc-grafikkort - Nordichardware
 
@@ -30,22 +30,22 @@ _Updated: 2026-03-21 00:56_
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Record number of international students apply to Lund University - Lundagard.se
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
@@ -109,13 +109,13 @@ _Updated: 2026-03-21 00:56_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
