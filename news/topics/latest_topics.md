@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 07:03_
+_Updated: 2026-03-20 08:11_
 
 ## Top Stories
 
-- DN Direkt – Mohamsson till L-möte i Stockholm - Dagens Nyheter
-- Kristersson: Flaskhalsintäkter kvar i Sverige - GP
-- SD spelar efter egna regler i biståndet - Dagens Arena
-- Avgaser läckte in i lägenhet – hyresgäst skadad - Västerbottens-Kuriren
-- Nya attacker runt Persiska viken - Västerbottens-Kuriren
-- Lega Nords provokative grundare död - Aftonbladet
-- Kan utmana Mohamsson: ”Känner stort stöd” - Dagens Nyheter
-- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
-- Svantesson (M): ”Årsbudgeten förstärks med 7,7 miljarder kronor” – Senaste nytt om valet 2026 - SVT Nyheter
-- 19 mars 15.50, Anträffad död, Örebro - Polisen.se
-- Nedåt på Stockholmsbörsen vid öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Så vill Trump ändra vallagarna: ”Görs till åtlöje” - GP
+- Netanyahu: Iran kan inte längre anrika uran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Mohamsson om SD: ”Inte mitt förstahandsval” - Västerbottens-Kuriren
+- Kronprinsessan Mette-Marit om Epstein: ”Jag blev manipulerad och lurad” - SVT Nyheter
+- Björn Söder till attack mot Sida-handläggare - Dagens Nyheter
+- Vad är sant i Moderaternas reklamfilm i kollektivtrafiken? - Sydsvenskan
+- Avgaser läckte in i lägenhet – hyresgäst skadad - GP
+- Statligt råd: Då ska läkare inte rädda extremt tidigt födda - Dagens Nyheter
+- Kan utmana Mohamsson: ”Känner stort stöd” - GP
+- Rapport: Sveriges klimatpolitik är otillräcklig - SVT Nyheter
+- Överlägsen kollagring i obrukad skog - Natursidan
+- Italien: Hjälp vid Hormuz ”inte ett krigsuppdrag” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Lega Nords provokative grundare död - Västerbottens-Kuriren
+- Så vill Trump ändra vallagarna: ”Görs till åtlöje” - Hufvudstadsbladet
 - EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
-- Direkt – Kriget i Ukraina – En död i rysk attack - Dagens Nyheter
 - Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
 - Dyrare flygbiljetter när bränslepriset rusar - Sydsvenskan
-- CHATT: Vad undrar du om din ekonomi när börsen rasar? - Expressen
+- Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
+- Felicia Åkerman: Stockholmsbörsen står och faller med oljan - Dagens Nyheter
 - Hackarverktyget Darksword utgör ett hot mot Iphone-användare - Macworld.se
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 
@@ -29,6 +29,7 @@ _Updated: 2026-03-20 07:03_
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -36,17 +37,16 @@ _Updated: 2026-03-20 07:03_
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -127,18 +127,18 @@ _Updated: 2026-03-20 07:03_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- AI och data science - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- AI och data science - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
