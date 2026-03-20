@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 01:53_
+_Updated: 2026-03-20 05:15_
 
 ## Top Stories
 
 - Kristersson: Svenska flaskhalsavgifter säkrade - Dagens Nyheter
 - Här är iranska toppar som dödats i kriget - GP
-- Kungens USA-resa hänger i luften - Svenska Dagbladet
-- Över 1 000 dödade i Libanon – FN trappar upp insats - Omni
-- Saudiarabien varnar Iran - 8 Sidor
-- Nathan Shachar: Vem orkar längst? Bara Iran vet vad det vill - Dagens Nyheter
-- L-ledaren på interna mötet: ”Inte mitt förstahandsval” - SVT Nyheter
-- Regeringen kritiseras – kommer inte att nå klimatmålen - GP
-- Skogsbrukets historiska kolförlust – större än alla våra fossila utsläpp - Dagens Nyheter
-- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
+- Se det från den ljusa sidan, äntligen får Liberalerna till ett produktivt möte - Altinget.se
+- ”Hur mäter man hur rädd man varit?” - Aftonbladet
 - Köper stadskartor när Kreml blockar nätet - Svenska Dagbladet
-- Atarodi: ”Allvarligt att vi inte vet när det tar slut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trots utskällning: Orbán nekar Ukraina lån - GP
-- Fokus på straff när Borg Høiby-målet avslutas - GP
+- Peter Alestig: Irankriget kan få den hopplösa klimatekvationen att gå ihop - Dagens Nyheter
+- Kan utmana Mohamsson: ”Känner stort stöd” - Dagens Nyheter
+- Förenade arabemiraten: Svenskar skadade i iranska attacker - SVT Nyheter
+- Kvinna påkörd två gånger på övergångsställe – 81-åring åtalas för vållande till annans död - Dagens Nyheter
+- Svantesson (M): ”Årsbudgeten förstärks med 7,7 miljarder kronor” – Senaste nytt om valet 2026 - SVT Nyheter
+- Lega Nords provokative grundare död - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Oljeraffinaderi i Haifa träffat i iranskt robotanfall - Dagens Nyheter
+- EU-ledare kräver att Orbán håller sitt ord – men är oense om plan B - Europaportalen
+- Trump hotar att förstöra iranskt gasfält - Bohusläningen
 - Riksbanken lämnar styrräntan oförändrad när omvärlden skakar - sbab.se
-- USA och Israel oense: Vad visste Trump om attacken? - Omni
-- Sven-Olof Johansson lämnar vd-tjänsten på Fastpartner - Fastighetsvärlden
-- Seniora medarbetare lämnar Klarna – ir-chefen slutar - DI
+- Dyrare flygbiljetter när bränslepriset rusar - Sydsvenskan
+- Blodrött på börsen – årets sämsta börsdag - Svenska Dagbladet
+- Nya Ikea-chefen kapar tjänster: ”Dödar tillväxten” - DI
 - Asteroid döpt efter Uppsalafysiker - Uppsala universitet
 - Astronauten Jessica Meir ute på rymdpromenad - Aftonbladet
 
@@ -32,21 +32,21 @@ _Updated: 2026-03-20 01:53_
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Annual Report 2024 - Olof Palme International Center
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -57,6 +57,7 @@ _Updated: 2026-03-20 01:53_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -69,7 +70,6 @@ _Updated: 2026-03-20 01:53_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -83,8 +83,8 @@ _Updated: 2026-03-20 01:53_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -98,8 +98,8 @@ _Updated: 2026-03-20 01:53_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -111,11 +111,11 @@ _Updated: 2026-03-20 01:53_
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -136,29 +136,29 @@ _Updated: 2026-03-20 01:53_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
-- Tio jordbruksaktier för depån - Placera.se
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
