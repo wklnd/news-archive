@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-20 22:57_
+_Updated: 2026-03-20 23:53_
 
 ## Top Stories
 
 - Malin Ullgren: Det känns elakt att säga detta – men det är faktiskt riktigt svårt att tro henne - Dagens Nyheter
 - DN Direkt – S vill ha tillfälligt sänkt bränsleskatt - Dagens Nyheter
-- Uppgifter: Trump överväger att ta över viktiga oljeön – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Överväger att trappa ned insatser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
 - När biståndets skärs ned får SD:s vännner mer - Arbetet
 - Hennes son anslöt till IS och planerade terrordåd - Dagens Nyheter
-- Starmer låter USA använda baser för Hormuz-skydd - GP
 - DN Direkt – L:s valberedning föreslår Mohamsson - Dagens Nyheter
-- Man död i arbetsplatsolycka i Söderhamn - SVT Nyheter
+- 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
 - Förskola stänger – med två veckors varsel: ”Chockartat” - Dagens Nyheter
-- Tusentals firar i Uppsala: "Gemenskapen betyder allt" - UNT
+- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
 - Belarus oppositionsledare: ”Lukasjenko är mycket rädd för Trump” - Dagens Nyheter
-- Svensk Natopersonal evakuerade ur Irak – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
-- Massiv utskällning av Orbán – men Ukrainas miljarder dröjer - Europaportalen
+- Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
+- Ukraina slog till mot militära mål på Krim - GP
 - Bränslepriset rusar ytterligare – upp 40 procent - Norran
-- Undvik semesterfällan i oron: ”Vi reagerar som om vi möter ett lejon” - Placera.se
+- Nya bud i Irankonflikten sänkte Stockholm, OMXS30-index sjönk 1,5 procent - Placera.se
 - Alecta får miljonböter för att riskerat pensioner - Senioren
-- Selins krisdrag för Hedin: ”Enda vettiga” - Svenska Dagbladet
+- Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Crimson Desert fungerar inte med Intel Arc-grafikkort - Nordichardware
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-20 22:57_
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -79,12 +79,11 @@ _Updated: 2026-03-20 22:57_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-03-20 22:57_
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
@@ -149,16 +149,16 @@ _Updated: 2026-03-20 22:57_
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
+- Tio jordbruksaktier för depån - Placera.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
