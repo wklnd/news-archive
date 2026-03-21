@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 18:54_
+_Updated: 2026-03-21 19:50_
 
 ## Top Stories
 
-- Massivt jordskred på Hisingen – häst saknas - GP
-- Iran avfyrade ballistiska robotar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Man död efter kollision med träd - Västerbottens-Kuriren
+- Jordskred på Hisingen – ladugård har rasat - Svenska Dagbladet
 - Uppgifter: Ukrainare tvångsinjicerades i Ungern - GP
-- Geopolitik: Trump överväger exitstrategi för Iran medan S&P 500-fonder stiger 0,9 % - Investing.com Sverige
+- Tidigare FBI-chefen Robert Mueller död – ledde Rysslandsutredningen - SVT Nyheter
+- Uppgifter: Iran sköt mot ö långt ute i Indiska oceanen - Hufvudstadsbladet
 - Danska företag skriker efter svenskar – Emelie tog chansen - Dagens Nyheter
+- V-topp lämnar partiet efter petning: "Det gör ont" - ETC.se
 - Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
 - SD-toppen vill stoppa hbtq-träffar: ”Min dotter diskriminerades” - Dagens Nyheter
+- Man i 70-års åldern död i singelolycka utanför Kopparberg - SVT Nyheter
 - 21 mars 10.36, Olaga frihetsberövande/människorov, Botkyrka - Polisen.se
-- Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Diktatorers lyxbostäder förfaller på Londons spökgator - Dagens Nyheter
+- Bensinpriset kan straffa Trump: ”Den stora akilleshälen” - Dagens Nyheter
 - Minst två döda i italiensk lavin - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Israel: Fyra dödade i markstrider i Libanon - Dagens Nyheter
-- Viktigast i veckan: Ungern retar gallfeber på EU – Höstkänning för demokratin - Europaportalen
-- Direkt – Kriget i Ukraina – Sju döda och många skadade i ryska anfall - Dagens Nyheter
-- Världens första kvantbatteri – laddar snabbare ju större det blir - Dagens PS
 - Kronjuvelerna i skottlinjen – då hotar energikris - DI
+- Världens första kvantbatteri – laddar snabbare ju större det blir - Dagens PS
 - Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
-- Börsen tog helg på ny botten när ränteläget oroar - EFN
+- Diesel upp igen – kraftig prisrusning fortsätter - ATL
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- AI kan nu hantera hela din WordPress-sida. Så du slipper göra i princip allt på sajten. - Feber.SE
+- Byskolan från förr – i topp igen på Hemnet - Söderhamns-Kuriren
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Record number of international students apply to Lund University - Lundagard.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- New Secretary General appointed - Olof Palme International Center
+- Record number of international students apply to Lund University - Lundagard.se
 
 ## Technology
 
@@ -79,15 +79,14 @@ _Updated: 2026-03-21 18:54_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -98,23 +97,23 @@ _Updated: 2026-03-21 18:54_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
@@ -153,12 +152,12 @@ _Updated: 2026-03-21 18:54_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- De gick från reko till eko - ST-tidningen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
