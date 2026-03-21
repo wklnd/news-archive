@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-21 16:58_
+_Updated: 2026-03-21 17:55_
 
 - Iran fired missiles at UK-US base on Diego Garcia, BBC understands - BBC
-- U.S. eases Iranian oil sanctions in scramble to contain energy prices, handing Tehran a boost - NBC News
-- Chávez celebrations halted nationwide as allegations reshape legacy - Axios
-- Striking Down Pentagon Press Limits, Judge Vindicates Independent Journalism - The New York Times
-- Iran war enters its fourth week with no clear end in sight - NPR
+- Trump administration lifts sanctions on millions of barrels of Iranian oil - The Washington Post
+- Public References to Cesar Chavez Are Being Removed Across the U.S. - The New York Times
+- Judge Rules Pentagon Restrictions on Press Are Unconstitutional - The New York Times
+- The Strait of Hormuz Was Supposed to Be Too Big to Fail - The New York Times
+- Mamdani leaned into his faith during Ramadan — and faced tests along the way - Politico
 - Hawaii suffers its worst flooding in 20 years and forecasters warn more rain is coming - AP News
-- DHS shutdown blows past one-month mark as Dems push to carve out ICE from any new funding deal - Fox News
 - 'This is about attention': Mike Lee's MAGA crusade is driving his colleagues crazy - Politico
+- Bill to fund US homeland security fails again as concern grows about airport lines - The Guardian
 - More TSA Workers Expected to Skip Work if They Miss Another Paycheck - WSJ
-- Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war - AP News
+- Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks - The New York Times
 - Meet the Dutch art detective who tracks down stolen masterpieces - NPR
 - How Iran’s IRGC rebuilt Lebanon’s Hezbollah to be ready for war - The Times of Israel
-- Iran prepared to let Japanese ships transit Hormuz, FM says - The Japan Times
 - 'Nobody can blackmail us': Leaders excoriate Orbán's veto as he tests EU limits - Euronews.com
-- US jury finds Elon Musk misled investors during Twitter purchase - Al Jazeera
+- Elon Musk misled investors during his Twitter takeover, jury finds - Engadget
 - Dow Jones Jumps Late After Sell-Off As Trump Mulls 'Winding Down' Iran War - Investor's Business Daily
-- Oil Prices Today: After Spiking to $119, How Much Higher Can They Go? - Barron's
+- No Cease-Fire With Iran, Trump Says - WSJ
 - GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up - CNBC
+- Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo
 - Google Unveils New Process For Installing Unverified Android Apps - Hackaday
-- Microsoft’s 7-point plan to fix Windows 11 makes macOS Tahoe look golden - 9to5Mac
