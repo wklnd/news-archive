@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 15:58_
+_Updated: 2026-03-21 16:53_
 
 ## Top Stories
 
 - Massivt jordskred på Hisingen – häst saknas - GP
-- Man död efter kollision med träd - Västerbottens-Kuriren
-- ”För mig är han ingen hjälte – blev ett helvete” - Svenska Dagbladet
-- Fyra år efter dådet på Latinskolan: ”Vi kommer aldrig att glömma” - Sydsvenskan
+- SMHI varnar för gräsbränder - Västerbottens-Kuriren
+- Susanna Birgersson: Sluta låtsas att den svenska demokratin är i fara - GP
+- Danska företag skriker efter svenskar – Emelie tog chansen - Dagens Nyheter
 - De äter sig igenom Malmö – bokstav för bokstav - Sydsvenskan
-- Sverige stödjer Hormuzinitiativ: ”För dialog" - GP
+- Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
 - Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
+- Man i 70-års åldern död i singelolycka utanför Kopparberg - SVT Nyheter
 - 21 mars 10.36, Olaga frihetsberövande/människorov, Botkyrka - Polisen.se
-- Karin matar vilda djur – direkt från händerna - Dagens Nyheter
 - Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Venezuelas ledare stärker greppet om militären - Dagens Nyheter
+- Iran avfyrade ballistiska robotar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Besättningsman berättar om fartygsattacken i Hormuz - Dagens Nyheter
 - Översvämningar i turistparadiset – damm i farozon - Aftonbladet
-- Kaos i trafiken gör cykelvägar till het fråga i Paris - Dagens Nyheter
-- Så slår krisen mot din semester i sommar: "Kan ställa in" - Dagens PS
-- Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
+- Iran: Kärnanläggning attackerad - Folkbladet
+- Så undviker du Iran-priser på sommarsemestern - News55
 - Snabba ekonomiska kriser gör att vi inte hinner dra lärdom av vår misstag - Börskollen
-- Diesel upp igen – kraftig prisrusning fortsätter - ATL
+- Världens första kvantbatteri – laddar snabbare ju större det blir - Dagens PS
+- Kronjuvelerna i skottlinjen – då hotar energikris - DI
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Forskare satte kameror på sälar i 20 år – gjorde ett oroande fynd - Illustrerad Vetenskap
 
 ## World News
 
+- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Record number of international students apply to Lund University - Lundagard.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
@@ -55,12 +55,12 @@ _Updated: 2026-03-21 15:58_
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -96,26 +96,26 @@ _Updated: 2026-03-21 15:58_
 
 ## Health
 
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -147,18 +147,18 @@ _Updated: 2026-03-21 15:58_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - Land Lantbruk
+- De gick från reko till eko - ST-tidningen
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Lisa Müller - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
