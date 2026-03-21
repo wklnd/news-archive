@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 01:52_
+_Updated: 2026-03-21 05:07_
 
 ## Top Stories
 
-- Malin Ullgren: Det känns elakt att säga detta – men det är faktiskt riktigt svårt att tro henne - Dagens Nyheter
+- Iran: Japanska fartyg får passera Hormuz - Västerbottens-Kuriren
 - Trump: Överväger att trappa ned insatser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
-- Brand i Majorna – boende evakueras genom fönstren - GP
 - Irans ledare gömmer sig – men dödspatrullerna måste synas - Dagens Nyheter
+- En död efter attack i Libanon - GP
+- Mjölkbil har vält i rondell utanför Lund - Expressen
 - Valberedningen föreslår Mohamsson som partiledare - Västerbottens-Kuriren
-- Stockholmstopp hoppar av: ”I går gick min gräns” - Dagens Nyheter
 - 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
-- Klart: Katja Nyberg blir politisk vilde – Senaste nytt om valet 2026 - SVT Nyheter
-- Ale kommun skallrade på öldrickande präst - nu kritiseras kommunen av JO - GP
-- Belarus oppositionsledare: ”Lukasjenko är mycket rädd för Trump” - Dagens Nyheter
-- Hennes son anslöt till IS och planerade terrordåd - Dagens Nyheter
+- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
+- Mohamssons SD-kritik genom åren – från kalla handen till kramen - Dagens Nyheter
 - Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
-- Trots utskällning: Orbán nekar Ukraina lån - Västerbottens-Kuriren
+- Starmer låter USA använda baser för Hormuz-skydd - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
+- Massiv utskällning av Orbán – men Ukrainas miljarder dröjer - Europaportalen
 - Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
-- Nya bud i Irankonflikten sänkte Stockholm, OMXS30-index sjönk 1,5 procent - Placera.se
-- USA-korrespondenten: ”Definitivt en eskalering” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- JUST NU: Brant börsfall efter ny ”skrämselhicka” - EFN
 - Bränslepriset rusar ytterligare – upp 40 procent - Norran
+- Linde Energi Elnät pausar införandet av effekttariffer - Örebronyheter
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- Crimson Desert fungerar inte med Intel Arc-grafikkort - Nordichardware
+- Svensk-amerikanska Jessica Meir ute på ny rymdpromenad - Världen idag
 
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -40,13 +40,13 @@ _Updated: 2026-03-21 01:52_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Record number of international students apply to Lund University - Lundagard.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -104,39 +104,39 @@ _Updated: 2026-03-21 01:52_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
