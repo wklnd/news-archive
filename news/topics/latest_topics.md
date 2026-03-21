@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 23:48_
+_Updated: 2026-03-22 00:51_
 
 ## Top Stories
 
-- Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
+- Över 100 skadade i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Experten efter skredet i Rödbo: Kan inte utesluta kvicklera - GP
-- Källor: Irans ledare lever – har inte visat sig – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Uppgifter: Ryssland ville fejka mordförsök på Orbán - Dagens Nyheter
-- Tidigare FBI-chefen Mueller död - Västerbottens-Kuriren
+- V-topp lämnar partiet efter petning: ”Det gör ont” - ETC.se
 - Advokaten missade att överklaga – blev dödshotad - GP
-- Danska företag skriker efter svenskar – Emelie tog chansen - Dagens Nyheter
+- Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
 - 21 mars 14.42, Trafikkontroll, Västerbottens län - Polisen.se
-- SD-toppen vill stoppa hbtq-träffar: ”Min dotter diskriminerades” - Dagens Nyheter
 - Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- SMHI varnar för gräsbränder - Västerbottens-Kuriren
+- ”Högre utbildning måste leverera” - Svenska Dagbladet
+- Två gripna för misstänkt dubbelmord - GP
+- Tidigare FBI-chefen död – Trump: ”Bra” - Hufvudstadsbladet
 - Diktatorers lyxbostäder förfaller på Londons spökgator - Dagens Nyheter
-- Iran: Japanska fartyg får passera Hormuz - Västerbottens-Kuriren
-- Attacker mot centrala Israel - Aftonbladet
 - Minst två döda i italiensk lavin - Västerbottens-Kuriren
 - Tar upp kampen med Blocket: ”Behövs konkurrens” - Dagens Nyheter
 - Höga priser på diesel och gödsel oroar lantbruket: ”Kalkylen är inte lysande” - Mariestads-Tidningen
-- Systembolaget vill utöka tider för hemleverans - Aftonbladet
+- Systembolaget vill ändra regler för hemleveranser – ministern positiv - Omni
 - Oljekrisen påverkar bolaget – ställer in flyg - Sydsvenskan
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- Anton Grahn på pallen i sprinten - GP
+- Oavgjort möte mellan Alingsås KIK och Eriksberg - Alingsås Tidning
 
 ## World News
 
@@ -45,8 +45,8 @@ _Updated: 2026-03-21 23:48_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -54,19 +54,19 @@ _Updated: 2026-03-21 23:48_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -79,14 +79,15 @@ _Updated: 2026-03-21 23:48_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -103,12 +104,12 @@ _Updated: 2026-03-21 23:48_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
