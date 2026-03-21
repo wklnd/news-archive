@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-21 13:54_
+_Updated: 2026-03-21 15:29_
 
-- Iran war enters its fourth week with no clear end in sight - NPR
-- Trump administration lifts sanctions on millions of barrels of Iranian oil - The Washington Post
-- Striking Down Pentagon Press Limits, Judge Vindicates Independent Journalism - The New York Times
+- Trump considers "winding down" Iran war without opening Hormuz Strait - Axios
 - Iran fired missiles at UK-US base on Diego Garcia, BBC understands - BBC
-- Staggering hidden cost of wiping Cesar Chavez’s legacy from California - New York Post
-- Hawaii dam at risk of ‘imminent failure’; people swept into water on Oahu - San Francisco Chronicle
+- Trump administration lifts sanctions on millions of barrels of Iranian oil - The Washington Post
+- Fresno Took 30 Years to Name Cesar Chavez Blvd. Undoing It Took a Day. - The New York Times
+- Federal judge reverses Pentagon press restrictions - Politico
+- The Strait of Hormuz Was Supposed to Be Too Big to Fail - The New York Times
+- Over 5,500 told to evacuate flooding in Hawaii as officials warn that dam could fail - NPR
 - DEA names Colombian president 'priority target' as US prosecutors probe ties to drug traffickers - AP News
-- Driver who killed family of 4 in West Portal crash sentenced to probation by San Francisco judge - ABC7 San Francisco
-- White House releases Trump's national AI plan and framework - Axios
-- Japan's prime minister emerges buoyed from Trump summit - dw.com
-- 2nd Marine Expeditionary Unit of around 2,200 Marines, 3 warships headed to Middle East as Iran war continues - CBS News
-- Iran says a strike hit a key nuclear facility as Mideast war enters week 4 and US sends more troops - AP News
-- Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto - BBC
-- Iran prepared to let Japanese ships transit Hormuz, FM says - The Japan Times
-- Jury finds Elon Musk’s ‘stupid tweets’ caused Twitter investors’ losses - The Verge
+- Trump administration making heavy preparations for potential use of ground troops in Iran - CBS News
+- TSA workers go unpaid as unpredictable wait times mount during shutdown. Here’s what travelers should know this weekend - CNN
+- Three San Diego warships carrying 2,500 Camp Pendleton Marines en route to Middle East - San Diego Union-Tribune
+- How Iran’s IRGC rebuilt Lebanon’s Hezbollah to be ready for war - The Times of Israel
+- 'Nobody can blackmail us': Leaders excoriate Orbán's veto as he tests EU limits - Euronews.com
+- Live Updates: Iran says key nuclear site hit by strike; Trump mulling "winding down" military operations - CBS News
 - The Oil Prices You See Don’t Tell the Market’s Real Story - Bloomberg.com
+- Elon Musk misled investors during his Twitter takeover, jury finds - Engadget
+- Actually, Mark Zuckerberg didn't burn $80 billion on the metaverse - Business Insider
 - 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
-- Dow Jones Jumps Late After Sell-Off As Trump Mulls 'Winding Down' Iran War - Investor's Business Daily
-- iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors
+- iOS 26.4 will automatically turn on strict security feature for all iPhones - 9to5Mac
 - Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo
