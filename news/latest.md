@@ -1,6 +1,6 @@
 # Top News Headlines
 
-_Updated: 2026-03-21 15:29_
+_Updated: 2026-03-21 16:01_
 
 - Trump considers "winding down" Iran war without opening Hormuz Strait - Axios
 - Iran fired missiles at UK-US base on Diego Garcia, BBC understands - BBC
@@ -8,17 +8,17 @@ _Updated: 2026-03-21 15:29_
 - Fresno Took 30 Years to Name Cesar Chavez Blvd. Undoing It Took a Day. - The New York Times
 - Federal judge reverses Pentagon press restrictions - Politico
 - The Strait of Hormuz Was Supposed to Be Too Big to Fail - The New York Times
-- Over 5,500 told to evacuate flooding in Hawaii as officials warn that dam could fail - NPR
+- Evacuations Ordered on Oahu as Heavy Rain Brings Flash Flooding - The New York Times
+- 'This is about attention': Mike Lee's MAGA crusade is driving his colleagues crazy - Politico
+- More TSA Workers Expected to Skip Work if They Miss Another Paycheck - WSJ
 - DEA names Colombian president 'priority target' as US prosecutors probe ties to drug traffickers - AP News
-- Trump administration making heavy preparations for potential use of ground troops in Iran - CBS News
-- TSA workers go unpaid as unpredictable wait times mount during shutdown. Here’s what travelers should know this weekend - CNN
-- Three San Diego warships carrying 2,500 Camp Pendleton Marines en route to Middle East - San Diego Union-Tribune
+- Marines, Navy warship deploying to Middle East as tensions rise - Honolulu Star-Advertiser
 - How Iran’s IRGC rebuilt Lebanon’s Hezbollah to be ready for war - The Times of Israel
+- Iran prepared to let Japanese ships transit Hormuz, FM says - The Japan Times
 - 'Nobody can blackmail us': Leaders excoriate Orbán's veto as he tests EU limits - Euronews.com
-- Live Updates: Iran says key nuclear site hit by strike; Trump mulling "winding down" military operations - CBS News
-- The Oil Prices You See Don’t Tell the Market’s Real Story - Bloomberg.com
 - Elon Musk misled investors during his Twitter takeover, jury finds - Engadget
-- Actually, Mark Zuckerberg didn't burn $80 billion on the metaverse - Business Insider
-- 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
+- Oil Prices Today: After Spiking to $119, How Much Higher Can They Go? - Barron's
+- Stock Market Today: Dow Drops 450 Points; Nvidia, Palantir Sell Off (Live Coverage) - Investor's Business Daily
+- GLP-1 drugs are changing how Americans eat. Food companies are racing to catch up - CNBC
 - iOS 26.4 will automatically turn on strict security feature for all iPhones - 9to5Mac
 - Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo
