@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 21:00_
+_Updated: 2026-03-21 21:46_
 
 ## Top Stories
 
 - Jordskred på Hisingen – häst har dragits med - Västerbottens-Kuriren
 - Tidigare FBI-chefen Robert Mueller död – ledde Rysslandsutredningen - SVT Nyheter
+- Mohamssons SD-kritik genom åren – från kalla handen till kramen - Dagens Nyheter
+- Advokaten missade att överklaga – blev dödshotad - GP
 - Uppgifter: Iran sköt mot ö långt ute i Indiska oceanen - Hufvudstadsbladet
-- Diktatorers lyxbostäder förfaller på Londons spökgator - Dagens Nyheter
-- Uppgifter: Ukrainare tvångsinjicerades i Ungern - GP
 - V-topp lämnar partiet efter petning: "Det gör ont" - ETC.se
-- Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
 - SD-toppen vill stoppa hbtq-träffar: ”Min dotter diskriminerades” - Dagens Nyheter
 - Man i 70-års åldern död i singelolycka utanför Kopparberg - SVT Nyheter
 - Danska företag skriker efter svenskar – Emelie tog chansen - Dagens Nyheter
-- Israel: ”Halvvägs” in i kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Minst två döda i italiensk lavin - Västerbottens-Kuriren
-- Iran har förstört amerikanska tillgångar värda 8 miljarder kronor - Dagens Nyheter
+- 21 mars 14.42, Trafikkontroll, Västerbottens län - polisen.se
+- Iran: Japanska fartyg får passera Hormuz - Västerbottens-Kuriren
+- Diktatorers lyxbostäder förfaller på Londons spökgator - Dagens Nyheter
+- Minst två döda i italiensk lavin - SVT Nyheter
 - Bensinpriset kan straffa Trump: ”Den stora akilleshälen” - Dagens Nyheter
 - Tar upp kampen med Blocket: ”Behövs konkurrens” - Dagens Nyheter
-- Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
-- Diesel upp igen – kraftig prisrusning fortsätter - ATL
+- Kronjuvelerna i skottlinjen – då hotar energikris - DI
+- Höga priser på diesel och gödsel oroar lantbruket: ”Kalkylen är inte lysande” - Mariestads-Tidningen
 - Systembolaget vill utöka tider för hemleverans - Aftonbladet
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Anton Grahn på pallen i sprinten - GP
@@ -28,6 +28,7 @@ _Updated: 2026-03-21 21:00_
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
+- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -39,14 +40,13 @@ _Updated: 2026-03-21 21:00_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Record number of international students apply to Lund University - Lundagard.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
