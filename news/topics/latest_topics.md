@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 06:52_
+_Updated: 2026-03-21 08:01_
 
 ## Top Stories
 
-- Trump: Överväger att trappa ned insatser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
-- Tidning vinner mot Pentagon - Västerbottens-Kuriren
-- Iran hotar Förenade arabemiraten - Svenska Dagbladet
-- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
-- Hemtjänstanställd misstänkt för våldtäkt - GP
-- Valberedningen föreslår Mohamsson som partiledare - Västerbottens-Kuriren
-- 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
-- Mohamssons SD-kritik genom åren – från kalla handen till kramen - Dagens Nyheter
-- Spelet bakom kuppen – så avslöjades nya partiet - Ekuriren
 - USA tillåter försäljning av viss iransk olja – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Simona Mohamsson: ”Jag förstår att det är konstigt att läsa mina gamla tweets om SD” - Dagens Nyheter
+- Starmer låter USA använda baser för Hormuz-skydd - GP
+- Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
+- Irans ledare gömmer sig – men dödspatrullerna måste synas - Dagens Nyheter
+- DN Direkt – Debutanten skrällde i sprintfinalen - Dagens Nyheter
+- 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
+- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
+- Formalia försenar EU:s läkemedelspaket - Dagens Medicin
+- Ovisst om någon vill utmana Mohamsson: ”Riggat” - GP
+- USA skickar soldater – Trump skäller på Nato - GP
+- Unga grönländare i Danmark: ”Många har blivit förvånade över att jag pratar så bra danska” - Sydsvenskan
+- IDF attackerar Beirut – en död söderut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
-- En död efter attack i Libanon - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
-- Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
 - WSJ: Misslyckad attack mot militärbas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- JUST NU: Brant börsfall efter ny ”skrämselhicka” - EFN
+- Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
+- "Den viktigaste BMW:n i modern tid": BMW visar upp ny i3 med 900 km räckvidd - TechRadar
 - Bränslepriset rusar ytterligare – upp 40 procent - Norran
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
 - Bryter mot alla regler: Mystisk sju timmar lång signal från yttre rymden har förbryllat forskarna - Illustrerad Vetenskap
@@ -29,6 +29,7 @@ _Updated: 2026-03-21 06:52_
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -37,15 +38,14 @@ _Updated: 2026-03-21 06:52_
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Record number of international students apply to Lund University - Lundagard.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
@@ -96,7 +96,6 @@ _Updated: 2026-03-21 06:52_
 
 ## Health
 
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
@@ -115,50 +114,51 @@ _Updated: 2026-03-21 06:52_
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- AI och data science - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Framtidens jordbruk - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- De gick från reko till eko - ST-tidningen
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
