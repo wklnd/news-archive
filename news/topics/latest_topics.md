@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 09:52_
+_Updated: 2026-03-21 10:57_
 
 ## Top Stories
 
+- Mohamssons SD-kritik genom åren – från kalla handen till kramen - Dagens Nyheter
+- Busch sätter ner foten – vill inte styra med S - Expressen
+- 20 mars 23.15, Olaga frihetsberövande/människorov, Trelleborg - polisen.se
 - Iran avfyrade ballistiska robotar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Falska poliser lurade lastbilschaufför – stal lastbil och gods - Sydsvenskan
-- Simona Mohamsson: ”Jag förstår att det är konstigt att läsa mina gamla tweets om SD” - Dagens Nyheter
-- På krismötet sjönk det in: Kuppen var riggad - Svenska Dagbladet
-- Iran: Japanska fartyg får passera Hormuz - Västerbottens-Kuriren
-- USA skickar soldater – Trump skäller på Nato - GP
-- 81 yrken kan slippa nya lönekravet - Corren
-- Tiktok-filter pressar unga kvinnor: ”Skeva ideal” - Västerbottens-Kuriren
+- Då rivs landshövdingehusen i Kville - GP
+- Massivt jordskred på Hisingen – häst saknas - GP
+- Tiktok-filter pressar unga kvinnor: ”Skeva ideal” - Corren
+- Valberedningen föreslår Mohamsson som partiledare - Västerbottens-Kuriren
 - Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
 - Karin Eriksson: Kris för liberalerna? Kolla på det danska tillståndet - Dagens Nyheter
 - Ryssland: Ukraina i stor drönarattack - Västerbottens-Kuriren
+- USA skickar soldater – Trump skäller på Nato - GP
 - Besättningsman berättar om fartygsattacken i Hormuz - Dagens Nyheter
-- NYT vinner mot Pentagon – tvingas ändra regler - Corren
-- Unga grönländare i Danmark: ”Många har blivit förvånade över att jag pratar så bra danska” - Sydsvenskan
+- Översvämningar i turistparadiset – damm i farozon - Aftonbladet
+- Oljekrisen påverkar bolaget – ställer in flyg - Sydsvenskan
 - Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
 - Snabba ekonomiska kriser gör att vi inte hinner dra lärdom av misstagen - Börskollen
-- "Den viktigaste BMW:n i modern tid": BMW visar upp ny i3 med 900 km räckvidd - TechRadar
-- Bränslepriset rusar ytterligare – upp 40 procent - Norran
-- En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- Bryter mot alla regler: Mystisk sju timmar lång signal från yttre rymden har förbryllat forskarna - Illustrerad Vetenskap
+- Så slår krisen mot din semester i sommar: "Kan ställa in" - Dagens PS
+- Google testar att skriva om rubriker med AI - PC för Alla
+- Trådlöst ljud i nya kläder - Ljud & Bild
 
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - X faces global outage, thousands of users across India, US and UK report issues | World News - Hindustan Times
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- » GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Record number of international students apply to Lund University - Lundagard.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Record number of international students apply to Lund University - Lundagard.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -96,49 +96,49 @@ _Updated: 2026-03-21 09:52_
 
 ## Health
 
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- AI och data science - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
