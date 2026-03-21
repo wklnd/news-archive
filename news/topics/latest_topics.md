@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-21 05:07_
+_Updated: 2026-03-21 06:52_
 
 ## Top Stories
 
-- Iran: Japanska fartyg får passera Hormuz - Västerbottens-Kuriren
 - Trump: Överväger att trappa ned insatser – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Putins drömscenario: Kriget i Iran spiller över till Ukraina - Dagens Nyheter
-- Irans ledare gömmer sig – men dödspatrullerna måste synas - Dagens Nyheter
-- En död efter attack i Libanon - GP
-- Mjölkbil har vält i rondell utanför Lund - Expressen
+- Tidning vinner mot Pentagon - Västerbottens-Kuriren
+- Iran hotar Förenade arabemiraten - Svenska Dagbladet
+- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
+- Hemtjänstanställd misstänkt för våldtäkt - GP
 - Valberedningen föreslår Mohamsson som partiledare - Västerbottens-Kuriren
 - 81 yrken kan slippa nya lönekravet - Västerbottens-Kuriren
-- Leijonborg (L): L närmare SD än S – Senaste nytt om valet 2026 - SVT Nyheter
 - Mohamssons SD-kritik genom åren – från kalla handen till kramen - Dagens Nyheter
+- Spelet bakom kuppen – så avslöjades nya partiet - Ekuriren
+- USA tillåter försäljning av viss iransk olja – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Gästkrönika: Låt inte Trump skrämma oss - Europaportalen
-- Starmer låter USA använda baser för Hormuz-skydd - Västerbottens-Kuriren
+- En död efter attack i Libanon - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Zelenskyj: Samtal med USA i helgen - Dagens Nyheter
-- Massiv utskällning av Orbán – men Ukrainas miljarder dröjer - Europaportalen
 - Hemmajobb kan dämpa oljekrisen - Svenska Dagbladet
+- WSJ: Misslyckad attack mot militärbas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - JUST NU: Brant börsfall efter ny ”skrämselhicka” - EFN
 - Bränslepriset rusar ytterligare – upp 40 procent - Norran
-- Linde Energi Elnät pausar införandet av effekttariffer - Örebronyheter
 - En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- Svensk-amerikanska Jessica Meir ute på ny rymdpromenad - Världen idag
+- Bryter mot alla regler: Mystisk sju timmar lång signal från yttre rymden har förbryllat forskarna - Illustrerad Vetenskap
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-03-21 05:07_
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Record number of international students apply to Lund University - Lundagard.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -104,18 +104,18 @@ _Updated: 2026-03-21 05:07_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - IFS och Laerdal Medical hjälper till att rädda liv - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
@@ -144,21 +144,21 @@ _Updated: 2026-03-21 05:07_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- De gick från reko till eko - ST-tidningen
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
