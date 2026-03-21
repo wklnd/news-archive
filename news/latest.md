@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-03-21 06:56_
+_Updated: 2026-03-21 08:06_
 
 - Iran war latest: Trump says US considering winding down war but other nations must guard Hormuz - BBC
-- Striking Down Pentagon Press Limits, Judge Vindicates Independent Journalism - The New York Times
+- Pentagon press policy ruled unconstitutional in case brought by N.Y. Times - The Washington Post
 - Arizona desert town breaks record for hottest March temperature in US history - The Guardian
-- 2nd Marine Expeditionary Unit of around 2,200 Marines, 3 warships headed to Middle East as Iran war continues - CBS News
 - White House revises its DHS offer as talks to end shutdown pick up - Politico
 - Murder, Arson Charges Filed In Chicago Firefighter’s Death - Block Club Chicago
-- Future uncertain for Chavez National Monument, site of alleged sexual abuse - SFGATE
-- Evacuations Ordered on Oahu as Heavy Rain Brings Flash Flooding - The New York Times
-- Colombia’s President Gustavo Petro under investigation in US for drug ties - Al Jazeera
-- Iran War Live: U.S. Is Considering ‘Winding Down’ Iran Operations, Trump Says - WSJ
+- The worst heat wave to hit Southern California in March is finally coming to an end - Los Angeles Times
+- Fresno Took 30 Years to Name Cesar Chavez Blvd. Undoing It Took a Day. - The New York Times
+- Woman, 80, receives probation and no jail time over San Francisco crash that killed four - The Guardian
+- Over 5,500 told to evacuate flooding in Hawaii as officials warn that dam could fail - NPR
+- Trump says US getting close to meeting objectives in Iran war - Reuters
 - A Look at the Escalating Battle for the Strait of Hormuz - The New York Times
+- UN secretary general says he’s cooperating with Trump’s Board of Peace in Gaza but doesn’t want it in Hormuz - politico.eu
+- Ukraine Is Suddenly on the Offensive, With Help From Elon Musk - WSJ
 - Why the US wants to protect Iran’s oil and gas - Vox
-- Israel launches fresh strikes on Tehran and Beirut - as it happened - The Guardian
-- Border security chief to step down after 18 months in the job - BBC
 - Elon Musk misled investors during his Twitter takeover, jury finds - Engadget
 - Oil Prices Today: After Spiking to $119, How Much Higher Can They Go? - Barron's
 - 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
