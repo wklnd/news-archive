@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 22:52_
+_Updated: 2026-03-22 23:50_
 
 ## Top Stories
 
 - Liberalernas landsmöte: Förnyat förtroende för Simona Mohamsson - Liberalerna
-- Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Strömmen på väg tillbaka på krisande Kuba - Västerbottens-Kuriren
-- DN Direkt – S om Mohamssons omval: Nytt läge i svensk politik - Dagens Nyheter
-- Ung fotbollsspelare död efter skjutning i Örebro - GP
-- Sverigelöftet är inget annat än en seger för SD - Altinget.se
-- 22 mars 13.20, Våldtäkt, Umeå - polisen.se
-- Norrsken över Östergötland igen – skicka in din bild! - Corren
-- Gripanden i nästan alla dödsskjutningar 2025 - GP
-- 240 miljoner kronor i nytt stöd till Ukraina - Regeringen.se
+- USA: Framsteg i samtal med Ukraina - Dagens Nyheter
+- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
+- S om Mohamssons omval: Nytt läge i svensk politik - UNT
+- Strömmen på väg tillbaka på krisande Kuba - GP
 - Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
+- 22 mars 13.20, Våldtäkt, Umeå - polisen.se
+- 240 miljoner kronor i nytt stöd till Ukraina - Regeringen.se
+- Gripanden i nästan alla dödsskjutningar 2025 - GP
+- Norrsken över Märsta under fredagskvällen - märsta.nu
+- Polen: Har länge misstänkt att Ungern tipsar Kreml - GP
 - Varning för kärnkraftshot när kriget eskalerar - Västerbottens-Kuriren
 - ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
-- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
+- Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
-- Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Bitcoin föll 7 000 dollar på fem dagar: Fed, Irankris och inflation slog mot krypto samtidigt - Dagens PS
-- Kronjuvelerna i skottlinjen – då hotar energikris - DI
+- Ekonomins deadline: Då måste Hormuzsundet öppnas - Realtid
+- Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
@@ -30,10 +30,10 @@ _Updated: 2026-03-22 22:52_
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -41,12 +41,12 @@ _Updated: 2026-03-22 22:52_
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -87,7 +87,7 @@ _Updated: 2026-03-22 22:52_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -103,6 +103,7 @@ _Updated: 2026-03-22 22:52_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
@@ -114,28 +115,27 @@ _Updated: 2026-03-22 22:52_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
