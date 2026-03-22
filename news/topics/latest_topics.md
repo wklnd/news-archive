@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 11:55_
+_Updated: 2026-03-22 12:53_
 
 ## Top Stories
 
-- ”Miljardärerna blir ombedda att bidra – då hotar de med att lämna Danmark” - Dagens Nyheter
+- Ung man död efter skjutning i Örebro - Svenska Dagbladet
+- Tomas Ramberg: Sosseskräcken vinner igen - Dagens Nyheter
 - Trump hotar ”förinta” iranska kraftverk - SVT Nyheter
 - Misstänkt mord i Avesta – en anhållen - Västerbottens-Kuriren
-- L röstar om Mohamsson – utan motkandidat - GP
-- Ung man skjuten i Örebro – hittades på parkeringsplats - Omni
-- Sverigelöftet är inget annat än en seger för SD - Altinget.se
-- Gripanden i nästan alla dödsskjutningar 2025 - GP
+- Løkke: Vem ska ta telefonen om Trump ringer? - GP
+- Två gripna för misstänkt dubbelmord - GP
+- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
+- L beslutar om Mohamsson – utan motkandidat - Corren
 - Regnbågsfamilj oroade efter SD-toppens tweet om förskolor - Dagens Nyheter
-- Experten efter skredet i Rödbo: Kan inte utesluta kvicklera - GP
-- 20-tal personer i grannbråk i Riseberga i Malmö - Expressen
+- Jordskred på Hisingen – yta på 2000 kvadratmeter - Västerbottens-Kuriren
+- DN Direkt – En anhållen för misstänkt mord i Avesta - Dagens Nyheter
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
-- Stor förödelse i Arad och Dimona efter Irans attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Många skadade i Israel efter robotattack - GP
-- Ringde polisen om falsk skottlossning i Hofors – misstänks - Expressen
+- Skadad kvinna hittad på parkeringsplats i Norsborg - SVT Nyheter
 - Får 100 000 kronor för att flytta semestern - Svenska Dagbladet
 - Elbåtar – projekten som flyter och de som har kapsejsat - Dagens Nyheter
 - Små avgifter kan kosta dig hundratusentals kronor i pension - Börskollen
-- Flygplats anklagas för olagligheter – stäms på 178 miljoner kronor - Dagens PS
-- Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
+- Därför rusar utdelningsaktier i oron – experternas favoriter just nu - Börskollen
 - Topplista: Hit gick de kommunanställdas friskvårdsbidrag - Västgöta-Bladet
+- Svenska ”Minecraft”-avknoppningen får uppföljare - Sydsvenskan
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-03-22 11:55_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -108,7 +108,7 @@ _Updated: 2026-03-22 11:55_
 - Vi presenterar HealthBench - OpenAI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
