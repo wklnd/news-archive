@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 12:53_
+_Updated: 2026-03-22 13:47_
 
 ## Top Stories
 
 - Ung man död efter skjutning i Örebro - Svenska Dagbladet
-- Tomas Ramberg: Sosseskräcken vinner igen - Dagens Nyheter
-- Trump hotar ”förinta” iranska kraftverk - SVT Nyheter
-- Misstänkt mord i Avesta – en anhållen - Västerbottens-Kuriren
+- Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
 - Løkke: Vem ska ta telefonen om Trump ringer? - GP
-- Två gripna för misstänkt dubbelmord - GP
+- Misstänkt mord i Avesta – en anhållen - SVT Nyheter
+- Stor förödelse i Arad och Dimona efter Irans attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- L beslutar om Mohamsson – utan motkandidat - Västerbottens-Kuriren
 - Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
-- L beslutar om Mohamsson – utan motkandidat - Corren
 - Regnbågsfamilj oroade efter SD-toppens tweet om förskolor - Dagens Nyheter
-- Jordskred på Hisingen – yta på 2000 kvadratmeter - Västerbottens-Kuriren
+- 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Två miljarder muslimer firar sin största högtid i en tid av kriser - Yle
+- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
 - DN Direkt – En anhållen för misstänkt mord i Avesta - Dagens Nyheter
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
 - Många skadade i Israel efter robotattack - GP
-- Skadad kvinna hittad på parkeringsplats i Norsborg - SVT Nyheter
-- Får 100 000 kronor för att flytta semestern - Svenska Dagbladet
+- Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Elbåtar – projekten som flyter och de som har kapsejsat - Dagens Nyheter
 - Små avgifter kan kosta dig hundratusentals kronor i pension - Börskollen
 - Därför rusar utdelningsaktier i oron – experternas favoriter just nu - Börskollen
-- Topplista: Hit gick de kommunanställdas friskvårdsbidrag - Västgöta-Bladet
 - Svenska ”Minecraft”-avknoppningen får uppföljare - Sydsvenskan
+- iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
 ## World News
 
@@ -39,7 +39,7 @@ _Updated: 2026-03-22 12:53_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Record number of international students apply to Lund University - Lundagård
+- Record number of international students apply to Lund University - Lundagard.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -80,10 +80,10 @@ _Updated: 2026-03-22 12:53_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -108,7 +108,7 @@ _Updated: 2026-03-22 12:53_
 - Vi presenterar HealthBench - OpenAI
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -118,16 +118,16 @@ _Updated: 2026-03-22 12:53_
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -143,21 +143,21 @@ _Updated: 2026-03-22 12:53_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
