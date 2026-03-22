@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 19:51_
+_Updated: 2026-03-22 21:01_
 
 ## Top Stories
 
-- Kaos på Liberalernas landsmöte - UNT
-- Ung fotbollsspelare död efter skjutning i Örebro - GP
-- Irans svar: Kommer stänga hela Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Teknikstrul för Liberalerna – mötet försenas - Västerbottens-Kuriren
+- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
+- Iran svarar Trump: Hotar stänga Hormuz helt - GP
 - Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
-- Ensam jobbförmedlare knäckte ”omöjlig” kod - Svenska Dagbladet
-- 240 miljoner kronor i nytt stöd till Ukraina - Regeringen.se
+- Mardrömsbesöket på Elgiganten – Anna bröt båda axlarna - Sydsvenskan
+- Familjen spontanköpte ett slott: ”Omgivna av spöken” - GP
 - Misstänkt våldtäkt i Umeå – man anhållen - Västerbottens-Kuriren
 - Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
+- 240 miljoner kronor i nytt stöd till Ukraina - Regeringen.se
 - Norrsken över Märsta under fredagskvällen - märsta.nu
-- SMHI varnar för gräsbrand - Västerbottens-Kuriren
-- Løkke: Vem ska ta telefonen om Trump ringer? - Västerbottens-Kuriren
+- Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
 - ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
+- Varning för kärnkraftshot när kriget eskalerar - Västerbottens-Kuriren
 - Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
-- Trump med nya hot i nedstängningskrisen - GP
 - Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
 - Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Bitcoin föll 7 000 dollar på fem dagar: Fed, Irankris och inflation slog mot krypto samtidigt - Dagens PS
-- Katarina sadlade om – tog över gården hon först ville lämna - Dagens Nyheter
+- Kronjuvelerna i skottlinjen – då hotar energikris - DI
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
@@ -29,24 +29,24 @@ _Updated: 2026-03-22 19:51_
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Lissabon i centrum för global innovation - The Portugal News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 
 ## Technology
 
@@ -118,23 +118,23 @@ _Updated: 2026-03-22 19:51_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
