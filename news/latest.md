@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-22 12:59_
+_Updated: 2026-03-22 13:55_
 
-- Middle East crisis live: Iranian official claims strait of Hormuz open to all but ships of ‘enemy’ countries - The Guardian
+- Live updates: Iran war news; Trump threatens to ‘obliterate’ Iran’s power plants - CNN
+- Iran Brings Europe Into Range With Missiles Fired at Diego Garcia - WSJ
 - Trump says he will order federal immigration officers to help with airport security unless Democrats end shutdown - PBS
-- Iran launched missiles at US-UK military base in the Indian Ocean. Here’s what that says about its capabilities - CNN
-- Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people - Al Jazeera
-- Robert Mueller, who probed Trump as special counsel, dies at 81 - Axios
-- Cuba suffers second nationwide power outage in less than a week - CBS News
-- Nonprofits, unions and airports rally to feed TSA officers as shutdown drags - AP News
-- Charges Dropped Against Woman Mistaken for Protester in Minnesota Church Case - The New York Times
-- Senate rejects Trump-backed measure to ban trans athletes in female sports - The Washington Post
-- Trump's Joke Revives Awkward Debates in Japan - newser.com
-- Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants - Politico
-- After 25 years of socialist rule, where does Paris go now? - CNN
+- Iran war: Tehran vows response to Trump's Hormuz threats - dw.com
+- Over 150 injured, 11 seriously, in Iranian missile strikes on southern cities of Arad, Dimona - The Times of Israel
 - Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters
+- The Supreme Court Could Make It Harder to Vote by Mail in the Midterms - The New York Times
+- Cuba’s power grid collapses leaving it without electricity for the 3rd time this month - AP News
+- Robert Mueller, who probed Trump as special counsel, dies at 81 - Axios
+- As Northwest Flooding Worsens, Conflicting Interests Stymie Solutions - The New York Times
+- Paris and Marseille in focus as French vote in local election runoffs - Reuters
+- Iran war's economic shocks could reverberate for a while - Axios
 - WHO says strike on Sudan hospital kills at least 64, takes facility out of service - Reuters
-- Meta and Mark Zuckerberg Didn't Lose $80 Billion on the Metaverse - Business Insider
+- Election in Slovenia Will Test Europe’s Political Mood - The New York Times
 - Elon Musk Found Liable For Misleading Twitter Shareholders Ahead Of $44B Acquisition - Deadline
-- Work from home and drive more slowly to save energy, global body urges - BBC
 - 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
+- Even the Saudis Are Worried About High Oil Prices - newser.com
+- Work from home and drive more slowly to save energy, global body urges - BBC
 - Halide co-founder is suing former partner for bringing source code to Apple - The Verge
 - iPhone 18 Pro set to arrive this year, and here are 3 upgrades I'm most excited for - Tom's Guide
