@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 15:26_
+_Updated: 2026-03-22 15:59_
 
 ## Top Stories
 
-- Ung man död efter skjutning i Örebro - Svenska Dagbladet
-- Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
+- Ung man död efter skottlossning i Örebro - SVT Nyheter
 - Løkke: Vem ska ta telefonen om Trump ringer? - GP
-- L beslutar om Mohamsson – utan motkandidat - Västerbottens-Kuriren
+- Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
 - Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
+- Svensk dotter klassas som terroroffer i Brysseldåd - Västerbottens-Kuriren
+- Tre olika scenarier för Mohamssons ödesomröstning - Dagens Nyheter
 - Misstänkt mord i Avesta – en anhållen - GP
 - Regnbågsfamiljer oroade efter SD-tweet om förskolor - Dagens Nyheter
 - 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Två miljarder muslimer firar sin största högtid i en tid av kriser - Yle
-- DN Direkt – Svensk dotter klassas som terroroffer i Brysseldåd - Dagens Nyheter
-- Trumps hot: Öppna Hormuz inom 48 timmar - GP
+- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
-- Israel accelererar demolering av hus i Libanon - Västerbottens-Kuriren
+- Israel accelererar demolering av hus i Libanon - GP
+- Många skadade i Israel efter robotattack - GP
 - Katarina sadlade om – tog över gården hon först ville lämna - Dagens Nyheter
 - Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Test avslöjar bluffen – var tredje tändstift är falskt - Dagens PS
-- Elbåtar – projekten som flyter och de som har kapsejsat - Dagens Nyheter
+- Kryptonestorn: Därför slår bitcoin guld i krigets Iran - DI
 - Microsoft kommer sluta tvinga på dig Windows-uppdateringar - PC för Alla
 - iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
@@ -30,23 +30,23 @@ _Updated: 2026-03-22 15:26_
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Bobrovsky perfect as Panthers blank Oilers 4-0 - Global News
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Record number of international students apply to Lund University - Lundagard.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - New Secretary General appointed - Olof Palme International Center
-- Record number of international students apply to Lund University - Lundagård
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -99,45 +99,45 @@ _Updated: 2026-03-22 15:26_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Cell: elever utforskar forskning och konst genom experiment - Karolinska Institutet
 
 ## Jordbruk
 
