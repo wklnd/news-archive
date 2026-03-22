@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 08:10_
+_Updated: 2026-03-22 09:22_
 
 ## Top Stories
 
-- Iran svarar på Trumps ultimatum – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skottlossning i Örebro – en skadad - TV4 Nyheterna
+- Nästan 200 skadade i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - ”Miljardärerna blir ombedda att bidra – då hotar de med att lämna Danmark” - Dagens Nyheter
-- Skottlossning i Örebro – en skadad - VF
-- Sverigelöftet är inget annat än en seger för SD - Altinget.se
 - Mohamssons högsta siffra – efter svängen - Svenska Dagbladet
-- ”Fick veta om JD Vance – då blev jag nervös” - Svenska Dagbladet
+- Instormande specialstyrka eller soldater vid sundet – Trump överväger alternativ - Omni
+- Tidigare FBI-chefen Mueller död - Västerbottens-Kuriren
+- Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
 - Experten efter skredet i Rödbo: Kan inte utesluta kvicklera - GP
-- Statssekreterare Liljeberg gäst hos LRF - Skillingaryd
-- Inte enbart en fråga om samkönad vigsel - Kyrkans Tidning
-- Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
-- Två gripna för misstänkt dubbelmord - Västerbottens-Kuriren
+- 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Större bråk mellan grannar – flera brottsmisstänkta - Sydsvenskan
+- Stor protest mot regeringen i Prag - Västerbottens-Kuriren
+- Två gripna för misstänkt dubbelmord - GP
 - Många skadade i Israel efter robotattack - GP
-- Donald Trumps ultimatum: Öppna Hormuz inom 48 timmar - SVT Nyheter
-- Källor: Trump planerar att ockupera oljeön Kharg - Dagens Nyheter
+- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
 - Får 100 000 kronor för att flytta semestern - Svenska Dagbladet
+- Små avgifter kan kosta dig hundratusentals kronor i pension - Börskollen
 - Därför rusar utdelningsaktier i oron – experternas favoriter just nu - Börskollen
-- Kronjuvelerna i skottlinjen – då hotar energikris - DI
-- Solresorna som kan bli billigare – och dyrare – i oljekrisen - GP
+- IEA:s tio tips: Ställ bilen, undvik flyg och jobba hemifrån - Expressen
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - Svenska ”Minecraft”-avknoppningen får uppföljare - Aftonbladet
 
@@ -87,7 +87,7 @@ _Updated: 2026-03-22 08:10_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -99,20 +99,20 @@ _Updated: 2026-03-22 08:10_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
