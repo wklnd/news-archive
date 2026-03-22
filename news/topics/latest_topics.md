@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 09:22_
+_Updated: 2026-03-22 09:56_
 
 ## Top Stories
 
-- Skottlossning i Örebro – en skadad - TV4 Nyheterna
-- Nästan 200 skadade i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - ”Miljardärerna blir ombedda att bidra – då hotar de med att lämna Danmark” - Dagens Nyheter
+- Stor förödelse i Arad och Dimona efter Irans attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Mohamssons högsta siffra – efter svängen - Svenska Dagbladet
-- Instormande specialstyrka eller soldater vid sundet – Trump överväger alternativ - Omni
-- Tidigare FBI-chefen Mueller död - Västerbottens-Kuriren
+- DN Direkt – Trump om Mueller: ”Bra, jag är glad att han är död” - Dagens Nyheter
+- ”Fick veta om JD Vance – då blev jag nervös” - Svenska Dagbladet
+- Trumps hot: Öppna Hormuz inom 48 timmar - GP
 - Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
 - Experten efter skredet i Rödbo: Kan inte utesluta kvicklera - GP
-- 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Större bråk mellan grannar – flera brottsmisstänkta - Sydsvenskan
+- Skottlossning i Örebro – en skadad - Västerbottens-Kuriren
+- Stort bråk bland grannar i Malmö – flera misstänkta för brott - SVT Nyheter
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
 - Två gripna för misstänkt dubbelmord - GP
 - Många skadade i Israel efter robotattack - GP
-- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
+- Sudan: Över 60 dog i sjukhusattack - SVT Nyheter
 - Får 100 000 kronor för att flytta semestern - Svenska Dagbladet
+- Flygplats anklagas för olagligheter – stäms på 178 miljoner kronor - Dagens PS
 - Små avgifter kan kosta dig hundratusentals kronor i pension - Börskollen
 - Därför rusar utdelningsaktier i oron – experternas favoriter just nu - Börskollen
-- IEA:s tio tips: Ställ bilen, undvik flyg och jobba hemifrån - Expressen
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - Svenska ”Minecraft”-avknoppningen får uppföljare - Aftonbladet
 
@@ -99,22 +99,22 @@ _Updated: 2026-03-22 09:22_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -141,23 +141,23 @@ _Updated: 2026-03-22 09:22_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
