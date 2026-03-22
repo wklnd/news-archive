@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 15:59_
+_Updated: 2026-03-22 16:54_
 
 ## Top Stories
 
-- Ung man död efter skottlossning i Örebro - SVT Nyheter
-- Løkke: Vem ska ta telefonen om Trump ringer? - GP
+- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
 - Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
+- Løkke: Vem ska ta telefonen om Trump ringer? - GP
+- ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
+- Misstänkt våldtäkt i Umeå – man anhållen - SVT Nyheter
 - Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
-- Svensk dotter klassas som terroroffer i Brysseldåd - Västerbottens-Kuriren
 - Tre olika scenarier för Mohamssons ödesomröstning - Dagens Nyheter
-- Misstänkt mord i Avesta – en anhållen - GP
+- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
 - Regnbågsfamiljer oroade efter SD-tweet om förskolor - Dagens Nyheter
 - 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
 - Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
-- Israel accelererar demolering av hus i Libanon - GP
+- Israel accelererar rivningen av hus i Libanon - GP
 - Många skadade i Israel efter robotattack - GP
+- Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
 - Katarina sadlade om – tog över gården hon först ville lämna - Dagens Nyheter
 - Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
-- Test avslöjar bluffen – var tredje tändstift är falskt - Dagens PS
-- Kryptonestorn: Därför slår bitcoin guld i krigets Iran - DI
+- Våg av brott mot ägare av krypto – kidnappningar och attacker ökar - Dagens PS
 - Microsoft kommer sluta tvinga på dig Windows-uppdateringar - PC för Alla
-- iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
+- Därför släpps inte nya Apple TV - Teknikveckan
 
 ## World News
 
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Record number of international students apply to Lund University - Lundagard.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -102,42 +102,42 @@ _Updated: 2026-03-22 15:59_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- The Cell: elever utforskar forskning och konst genom experiment - Karolinska Institutet
 
 ## Jordbruk
 
