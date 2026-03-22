@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 00:53_
+_Updated: 2026-03-23 01:52_
 
 ## Top Stories
 
-- Efter kaoset – Liberalerna valde om Simona Mohamsson - NT
+- Mohamsson omvald på Liberalernas möte – efter enormt teknikstrul - SVT Nyheter
 - Teknikstrul för Liberalerna – mötet försenas - Västerbottens-Kuriren
-- USA: Framsteg i samtal med Ukraina - GP
+- S om Mohamssons omval: Nytt läge i svensk politik - UNT
+- USA: Framsteg i samtal med Ukraina - Dagens Nyheter
 - Vänstersegrar i Paris och Marseille - GP
 - Ung man död efter skjutning i Örebro - Svenska Dagbladet
-- Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
-- S om Mohamssons omval: Nytt läge i svensk politik - UNT
-- Misstänkt våldtäkt i Umeå – man anhållen - Folkbladet
 - Norrsken över Östergötland igen – skicka in din bild! - Corren
-- Gripanden i nästan alla dödsskjutningar 2025 - Västerbottens-Kuriren
+- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
+- Så har svenska soldater lärt sig drönarkrig - Aftonbladet
+- Misstänkt mord i Avesta – en anhållen - SVT Nyheter
+- Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
+- Golob utropar seger i Sloveniens rysarval - Västerbottens-Kuriren
 - Polen: Har länge misstänkt att Ungern tipsar Kreml - GP
-- Varning för kärnkraftshot när kriget eskalerar - Västerbottens-Kuriren
-- ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
-- Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Oljepriset stiger vid handelns öppning - Svenska Dagbladet
-- Efter Trumps hot – oro för svart måndag på börsen - Aftonbladet
-- Bitcoin föll 7 000 dollar på fem dagar: Fed, Irankris och inflation slog mot krypto samtidigt - Dagens PS
+- Oljepriset stiger vid handelns öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
+- Oljepriset stiger vid handelns öppning - Aftonbladet
+- Pensionstipset: Här är bäst månad för att börja ta ut pensionen - News55
 - Göran, 72, parkerade på sin garageuppfart – fick p-bot - Expressen
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
-- iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
+- iPhone 18 Pro kan få proffsfunktioner i kamera-appen - teknikveckan.se
 
 ## World News
 
@@ -31,7 +31,7 @@ _Updated: 2026-03-23 00:53_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -39,13 +39,13 @@ _Updated: 2026-03-23 00:53_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 
 ## Technology
@@ -87,7 +87,7 @@ _Updated: 2026-03-23 00:53_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
