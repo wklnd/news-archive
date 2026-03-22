@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 17:49_
+_Updated: 2026-03-22 18:55_
 
 ## Top Stories
 
-- Ung man död efter skjutning i Örebro - Svenska Dagbladet
-- Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
+- Mohamssons öde avgörs – Liberalerna håller landsmöte - Dagens Nyheter
+- Ung fotbollsspelare död efter skjutning i Örebro - GP
+- Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sverigelöftet är inget annat än en seger för SD - Altinget.se
 - ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
-- DN Direkt – Man gripen för våldtäkt i Umeå - Dagens Nyheter
-- Løkke: Vem ska ta telefonen om Trump ringer? - GP
-- Irans svar: Kommer stänga hela Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tre olika scenarier för Mohamssons ödesomröstning - Dagens Nyheter
+- Ensam jobbförmedlare knäckte ”omöjlig” kod - Svenska Dagbladet
 - Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
-- Regnbågsfamiljer oroade efter SD-tweet om förskolor - Dagens Nyheter
-- 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Nytt stödpaket till Ukrainas unga - Västerbottens-Kuriren
+- SMHI varnar för gräsbrand - Västerbottens-Kuriren
+- Liberalerna drabbade av ”teknikstrul” – Senaste nytt om valet 2026 - SVT Nyheter
+- Løkke: Vem ska ta telefonen om Trump ringer? - Västerbottens-Kuriren
+- Man gripen för våldtäkt - Expressen
+- Trump med nya hot i nedstängningskrisen - Hufvudstadsbladet
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
-- Många skadade i Israel efter robotattack - GP
-- Israel: Broar i Libanon ska rivas - SVT Nyheter
-- Irankriget skapar ”vilda västern” till sjöss - Västerbottens-Kuriren
 - Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
 - Katarina sadlade om – tog över gården hon först ville lämna - Dagens Nyheter
-- Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
+- ”Lägger 40 procent på admin – helt sjukt” - Svenska Dagbladet
 - Våg av brott mot ägare av krypto – kidnappningar och attacker ökar - Dagens PS
-- Microsoft kommer sluta tvinga på dig Windows-uppdateringar - PC för Alla
+- Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
 ## World News
@@ -37,16 +37,16 @@ _Updated: 2026-03-22 17:49_
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Record number of international students apply to Lund University - Lundagard.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- IEA: Största hotet mot global energi hittills – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- New Secretary General appointed - Olof Palme International Center
 
 ## Technology
 
@@ -99,59 +99,57 @@ _Updated: 2026-03-22 17:49_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- The Cell: elever utforskar forskning och konst genom experiment - Karolinska Institutet
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -159,5 +157,7 @@ _Updated: 2026-03-22 17:49_
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
