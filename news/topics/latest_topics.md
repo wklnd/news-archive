@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 16:54_
+_Updated: 2026-03-22 17:49_
 
 ## Top Stories
 
-- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
+- Ung man död efter skjutning i Örebro - Svenska Dagbladet
 - Det händer om L-mötet röstar nej till SD-vändningen - Dagens Nyheter
-- Løkke: Vem ska ta telefonen om Trump ringer? - GP
 - ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
-- Misstänkt våldtäkt i Umeå – man anhållen - SVT Nyheter
-- Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Man gripen för våldtäkt i Umeå - Dagens Nyheter
+- Løkke: Vem ska ta telefonen om Trump ringer? - GP
+- Irans svar: Kommer stänga hela Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tre olika scenarier för Mohamssons ödesomröstning - Dagens Nyheter
 - Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
 - Regnbågsfamiljer oroade efter SD-tweet om förskolor - Dagens Nyheter
 - 22 mars 08.00, Sammanfattning natt, Jönköpings län - polisen.se
-- Trumps hot: Öppna Hormuz inom 48 timmar - Hufvudstadsbladet
 - Stor protest mot regeringen i Prag - Västerbottens-Kuriren
-- Israel accelererar rivningen av hus i Libanon - GP
 - Många skadade i Israel efter robotattack - GP
+- Israel: Broar i Libanon ska rivas - SVT Nyheter
+- Irankriget skapar ”vilda västern” till sjöss - Västerbottens-Kuriren
 - Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
 - Katarina sadlade om – tog över gården hon först ville lämna - Dagens Nyheter
 - Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
 - Våg av brott mot ägare av krypto – kidnappningar och attacker ökar - Dagens PS
 - Microsoft kommer sluta tvinga på dig Windows-uppdateringar - PC för Alla
-- Därför släpps inte nya Apple TV - Teknikveckan
+- iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-03-22 16:54_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Record number of international students apply to Lund University - Lundagard.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -127,6 +127,7 @@ _Updated: 2026-03-22 16:54_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -134,7 +135,6 @@ _Updated: 2026-03-22 16:54_
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
@@ -143,13 +143,15 @@ _Updated: 2026-03-22 16:54_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -157,7 +159,5 @@ _Updated: 2026-03-22 16:54_
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
