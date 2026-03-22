@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 07:07_
+_Updated: 2026-03-22 08:10_
 
 ## Top Stories
 
 - Iran svarar på Trumps ultimatum – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”Miljardärerna blir ombedda att bidra – då hotar de med att lämna Danmark” - Dagens Nyheter
 - Skottlossning i Örebro – en skadad - VF
-- Tomas Ramberg: Liberalerna har önskeglasögonen på - Dagens Nyheter
-- Trumps hot: Öppna Hormuz inom 48 timmar - Västerbottens-Kuriren
-- Över 60 döda i sjukhusattack - Aftonbladet
-- Dokument: Rysk idé om fejkat mordförsök i Ungern - GP
+- Sverigelöftet är inget annat än en seger för SD - Altinget.se
+- Mohamssons högsta siffra – efter svängen - Svenska Dagbladet
+- ”Fick veta om JD Vance – då blev jag nervös” - Svenska Dagbladet
 - Experten efter skredet i Rödbo: Kan inte utesluta kvicklera - GP
-- 21 mars 14.42, Trafikkontroll, Västerbottens län - polisen.se
-- Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Statssekreterare Liljeberg gäst hos LRF - Skillingaryd
 - Inte enbart en fråga om samkönad vigsel - Kyrkans Tidning
-- Løkke: Vem ska ta telefonen om Trump ringer? - Västerbottens-Kuriren
-- Två gripna för misstänkt dubbelmord - GP
+- Busch sågar L:s och SD:s överenskommelse om energipolitik – Senaste nytt om valet 2026 - SVT Nyheter
+- Två gripna för misstänkt dubbelmord - Västerbottens-Kuriren
 - Många skadade i Israel efter robotattack - GP
-- Direkt – Kriget i Ukraina – Sju döda och många skadade i ryska anfall - Dagens Nyheter
+- Donald Trumps ultimatum: Öppna Hormuz inom 48 timmar - SVT Nyheter
+- Källor: Trump planerar att ockupera oljeön Kharg - Dagens Nyheter
+- Får 100 000 kronor för att flytta semestern - Svenska Dagbladet
+- Därför rusar utdelningsaktier i oron – experternas favoriter just nu - Börskollen
 - Kronjuvelerna i skottlinjen – då hotar energikris - DI
 - Solresorna som kan bli billigare – och dyrare – i oljekrisen - GP
-- Full aktivitet framåt i Överum fabriken - Jordbruksaktuellt
-- EU:s vädjan i krigets skugga: Lagra mindre gas - Aftonbladet
-- En jättestor Iphone skakar om pc-marknaden - Computer Sweden
-- Oavgjort möte mellan Alingsås KIK och Eriksberg - Alingsås Tidning
+- Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
+- Svenska ”Minecraft”-avknoppningen får uppföljare - Aftonbladet
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-03-22 07:07_
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Record number of international students apply to Lund University - Lundagård
 
 ## Technology
 
@@ -87,7 +87,7 @@ _Updated: 2026-03-22 07:07_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -99,20 +99,20 @@ _Updated: 2026-03-22 07:07_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Multi4 Medical utvalt till världens främsta accelerator för medicinteknik – ett av topp 4 % globalt - it-halsa.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
@@ -141,23 +141,23 @@ _Updated: 2026-03-22 07:07_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
