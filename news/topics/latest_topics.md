@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-22 23:50_
+_Updated: 2026-03-23 00:53_
 
 ## Top Stories
 
-- Liberalernas landsmöte: Förnyat förtroende för Simona Mohamsson - Liberalerna
-- USA: Framsteg i samtal med Ukraina - Dagens Nyheter
-- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
-- S om Mohamssons omval: Nytt läge i svensk politik - UNT
-- Strömmen på väg tillbaka på krisande Kuba - GP
+- Efter kaoset – Liberalerna valde om Simona Mohamsson - NT
+- Teknikstrul för Liberalerna – mötet försenas - Västerbottens-Kuriren
+- USA: Framsteg i samtal med Ukraina - GP
+- Vänstersegrar i Paris och Marseille - GP
+- Ung man död efter skjutning i Örebro - Svenska Dagbladet
 - Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
-- 22 mars 13.20, Våldtäkt, Umeå - polisen.se
-- 240 miljoner kronor i nytt stöd till Ukraina - Regeringen.se
-- Gripanden i nästan alla dödsskjutningar 2025 - GP
-- Norrsken över Märsta under fredagskvällen - märsta.nu
+- S om Mohamssons omval: Nytt läge i svensk politik - UNT
+- Misstänkt våldtäkt i Umeå – man anhållen - Folkbladet
+- Norrsken över Östergötland igen – skicka in din bild! - Corren
+- Gripanden i nästan alla dödsskjutningar 2025 - Västerbottens-Kuriren
 - Polen: Har länge misstänkt att Ungern tipsar Kreml - GP
 - Varning för kärnkraftshot när kriget eskalerar - Västerbottens-Kuriren
 - ”Hjärnan fattar först inte att det är en bomb” - Dagens Nyheter
 - Netanyahu besöker Arad efter omfattande attackerna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Efter Trumps hot – oro för svart måndag på börsen - Svenska Dagbladet
+- Oljepriset stiger vid handelns öppning - Svenska Dagbladet
+- Efter Trumps hot – oro för svart måndag på börsen - Aftonbladet
 - Bitcoin föll 7 000 dollar på fem dagar: Fed, Irankris och inflation slog mot krypto samtidigt - Dagens PS
-- Ekonomins deadline: Då måste Hormuzsundet öppnas - Realtid
-- Sundsvalls vårdanställda får 100 000 för flyttad semester - Omni
+- Göran, 72, parkerade på sin garageuppfart – fick p-bot - Expressen
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
 - iPhone 18 Pro kan få proffsfunktioner i kamera-appen - Teknikveckan
 
@@ -31,7 +31,7 @@ _Updated: 2026-03-22 23:50_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -39,13 +39,13 @@ _Updated: 2026-03-22 23:50_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 
 ## Technology
@@ -103,7 +103,6 @@ _Updated: 2026-03-22 23:50_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
@@ -115,19 +114,20 @@ _Updated: 2026-03-22 23:50_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
