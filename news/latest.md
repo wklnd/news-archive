@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-22 01:56_
+_Updated: 2026-03-22 05:31_
 
-- Robert Mueller, who probed Trump as special counsel, dies at 81 - Axios
+- Live updates: Iran war news; Trump threatens to ‘hit and obliterate’ Iran’s power plants - CNN
+- Robert Mueller, ex-FBI director at center of political tempest, dies at 81 - The Washington Post
 - Trump says he's sending federal immigration agents to airports on Monday amid DHS shutdown - NBC News
-- Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center - AP News
-- Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people - Al Jazeera
-- GOP devolves further into conspiracy and chaos in SAVE America Act debate - Democracy Docket
-- US Says Iran Threat to Hormuz Degraded After Facility Destroyed - Bloomberg.com
+- Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say - Fox News
+- For airline travelers, the shutdown answer is simple: Pay TSA officers - AP News
+- Thousands evacuated as Hawaii faces worst flooding in 20 years - BBC
+- Senate rejects Trump-backed measure to ban trans athletes in female sports - The Washington Post
+- Charges Dropped Against Woman Mistaken for Protester in Minnesota Church Case - The New York Times
 - From streets to murals, the erasure of Cesar Chavez is fast underway in California - Los Angeles Times
-- For the Trump administration, ‘taking Cuba’ would not be easy - The Christian Science Monitor
-- Trump administration lifts sanctions on millions of barrels of Iranian oil - The Washington Post
-- Alabama student reportedly fell to his death in Barcelona waters by accident - The Guardian
-- Iran hits Israeli town housing nuclear facility in retaliation for Natanz strike - The Guardian
-- Trump's mixed messages on Iran: 'Winding down' the war and easing sanctions but adding more troops - AP News
+- Republicans reject Democrats’ effort to pay TSA by suspending Senate rules - The Hill
+- Iran War Live Updates: UK Says Iran Unsuccessfully Targeted Diego Garcia Base, US Relaxes Oil Sanctions - The New York Times
+- Iran’s allies threaten Red Sea attacks as mullahs choke Strait of Hormuz - New York Post
+- Trump hints at ‘winding down’ Iran war as US deploys more troops to region - Al Jazeera
 - G7 ready to act to protect global energy supplies, backs Hormuz Strait security - Reuters
-- A deadly South Tyrol avalanche kills 2 skiers, trapping 25 near the Austria border - NBC News
 - Elon Musk Found Liable For Misleading Twitter Shareholders Ahead Of $44B Acquisition - Deadline
-- Covid gave us hybrid work. The Iran War might give us a four-day week—and this time, experts say it could stick - Fortune
-- Actually, Mark Zuckerberg didn't burn $80 billion on the metaverse - Business Insider
-- Global oil prices climb for 5th straight week as U.S. sends more military might into Middle East - MarketWatch
+- This streaming service is moving customers to YouTube TV. Here's why. - USA Today
+- 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
+- Gas prices are just the start: Consumers will feel more pain from Iran war - Yahoo Finance
 - Microsoft Promises Slew of Windows 11 Changes in Response to "Microslop" Criticisms - TechPowerUp
 - Halide co-founder is suing former partner for bringing source code to Apple - The Verge
