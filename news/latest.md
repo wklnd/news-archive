@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-22 05:31_
+_Updated: 2026-03-22 07:10_
 
-- Live updates: Iran war news; Trump threatens to ‘hit and obliterate’ Iran’s power plants - CNN
 - Robert Mueller, ex-FBI director at center of political tempest, dies at 81 - The Washington Post
-- Trump says he's sending federal immigration agents to airports on Monday amid DHS shutdown - NBC News
-- Trump proven right on Iran's long-range missile capability as regime targets US-UK base, experts say - Fox News
-- For airline travelers, the shutdown answer is simple: Pay TSA officers - AP News
-- Thousands evacuated as Hawaii faces worst flooding in 20 years - BBC
-- Senate rejects Trump-backed measure to ban trans athletes in female sports - The Washington Post
+- Middle East crisis live: Trump threatens huge attack if Iran does not reopen strait of Hormuz within 48 hours - The Guardian
+- Trump says he will order federal immigration officers to help with airport security unless Democrats end shutdown - PBS
+- Iran Fires Missiles at Far-Off Diego Garcia Base, but U.S. Remains Out of Range - The New York Times
+- Hawaii’s worst flooding in 20 years threatens dam, prompts evacuations, as more rain looms - AP News
+- Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants - Politico
+- Senate blocks voting bill's amendment on transgender athletes during rare weekend session - CBS News
+- 20 US airports don’t have TSA. Passengers there are not seeing long lines - CNN
 - Charges Dropped Against Woman Mistaken for Protester in Minnesota Church Case - The New York Times
-- From streets to murals, the erasure of Cesar Chavez is fast underway in California - Los Angeles Times
-- Republicans reject Democrats’ effort to pay TSA by suspending Senate rules - The Hill
-- Iran War Live Updates: UK Says Iran Unsuccessfully Targeted Diego Garcia Base, US Relaxes Oil Sanctions - The New York Times
-- Iran’s allies threaten Red Sea attacks as mullahs choke Strait of Hormuz - New York Post
-- Trump hints at ‘winding down’ Iran war as US deploys more troops to region - Al Jazeera
-- G7 ready to act to protect global energy supplies, backs Hormuz Strait security - Reuters
+- NASA says it was a meteor that many of you saw and heard over Southeast Texas Saturday - KHOU
+- With Fire and Song, Kurds in Turkey Hail the Start of Spring - The New York Times
+- Iran prepared to let Japanese ships transit Hormuz, FM says - The Japan Times
+- End of an heir-a: The U.K. abolishes aristocrats' right to inherit Parliament seats - NPR
+- All Iranian officials and commanders killed in the past nine months - Euronews.com
 - Elon Musk Found Liable For Misleading Twitter Shareholders Ahead Of $44B Acquisition - Deadline
-- This streaming service is moving customers to YouTube TV. Here's why. - USA Today
 - 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
-- Gas prices are just the start: Consumers will feel more pain from Iran war - Yahoo Finance
+- Iran war is the greatest threat to global energy ‘in history’, warns IEA - Financial Times
+- Airport security lines are long. Here's what to know if you're flying - NPR
 - Microsoft Promises Slew of Windows 11 Changes in Response to "Microslop" Criticisms - TechPowerUp
 - Halide co-founder is suing former partner for bringing source code to Apple - The Verge
