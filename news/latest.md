@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-22 11:59_
+_Updated: 2026-03-22 12:59_
 
 - Middle East crisis live: Iranian official claims strait of Hormuz open to all but ships of ‘enemy’ countries - The Guardian
-- Trump continues to target Robert Mueller after his death - The Washington Post
 - Trump says he will order federal immigration officers to help with airport security unless Democrats end shutdown - PBS
 - Iran launched missiles at US-UK military base in the Indian Ocean. Here’s what that says about its capabilities - CNN
-- Cuba’s power grid collapses leaving it without electricity for the 3rd time this month - AP News
-- For airline travelers, the shutdown answer is simple: Pay TSA officers - AP News
-- Hawaii urges residents to ‘leave now’ amid worst flooding in over 20 years - The Guardian
+- Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people - Al Jazeera
+- Robert Mueller, who probed Trump as special counsel, dies at 81 - Axios
+- Cuba suffers second nationwide power outage in less than a week - CBS News
+- Nonprofits, unions and airports rally to feed TSA officers as shutdown drags - AP News
 - Charges Dropped Against Woman Mistaken for Protester in Minnesota Church Case - The New York Times
-- Senate blocks amendment on transgender athletes during weekend session on voting bill - AP News
-- Extreme heat continues to strike Southwest US and even Nebraska needs a cold drink - AP News
+- Senate rejects Trump-backed measure to ban trans athletes in female sports - The Washington Post
+- Trump's Joke Revives Awkward Debates in Japan - newser.com
 - Iran strikes near Israeli nuclear research center as Trump threatens attacks on Iranian power plants - Politico
 - After 25 years of socialist rule, where does Paris go now? - CNN
-- Iran prepared to let Japanese ships transit Hormuz, FM says - The Japan Times
-- Trump's mixed messages on Iran: 'Winding down' the war and easing sanctions but adding more troops - AP News
+- Iran says Hormuz open to all but ‘enemy-linked’ ships - Reuters
+- WHO says strike on Sudan hospital kills at least 64, takes facility out of service - Reuters
+- Meta and Mark Zuckerberg Didn't Lose $80 Billion on the Metaverse - Business Insider
 - Elon Musk Found Liable For Misleading Twitter Shareholders Ahead Of $44B Acquisition - Deadline
-- Actually, Mark Zuckerberg didn't burn $80 billion on the metaverse - Business Insider
-- Elon Musk says Tesla, xAI, SpaceX ‘Terafab’ to start in Austin - Bloomberg.com
-- Attacks on Middle East energy sites deepen threat to US economy, analysts say - abcnews.com
+- Work from home and drive more slowly to save energy, global body urges - BBC
+- 8 states file emergency motion to block Nexstar-Tegna merger after FCC approval - NBC News
 - Halide co-founder is suing former partner for bringing source code to Apple - The Verge
 - iPhone 18 Pro set to arrive this year, and here are 3 upgrades I'm most excited for - Tom's Guide
