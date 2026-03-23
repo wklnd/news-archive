@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-23 14:31_
+_Updated: 2026-03-23 16:00_
 
-- Dow futures jump 700 points after Trump says U.S. and Iran have held 'productive' talks: Live updates - CNBC
-- US will hold off on Iran power plant strikes for 5 days, extending Trump deadline on Hormuz strait - AP News
-- ICE officers headed to airports nationwide Monday. Will MSP be one of them? - Star Tribune
-- French far right claims momentum for presidency after local elections - politico.eu
-- Senate votes to advance Mullin's nomination to lead DHS - Axios
-- At NYC Airports, Long TSA Lines and Frustrated Travelers - The New York Times
-- 2 pilots killed when arriving plane and firetruck collide at New York's LaGuardia Airport, officials say - CBS News
-- Savannah Guthrie renews plea to Arizona community for clues in mother's disappearance - CBS News
-- Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times
+- Dow futures jump 1,000 points after Trump says U.S. and Iran have held 'productive' talks: Live updates - CNBC
+- Trump to deploy ICE agents to airports Monday - Axios
+- Iran threatens to cripple Gulf water, energy systems after Trump ultimatum - France 24
+- Arson Hits Ambulances of Jewish Volunteer Service in London, Police Say - The New York Times
+- Travelers flying out of NYC area airports: Be prepared to wait - Gothamist
+- Senate advances Markwayne Mullin's nomination for DHS Secretary in procedural vote - CBS News
+- Two killed when Air Canada jet hits fire truck at NYC’s LaGuardia Airport - Al Jazeera
+- Supreme Court hears arguments Monday over late-arriving ballots, a Trump target - AP News
 - Pressure builds on Congress as DHS shutdown threatens to drag into April - Politico
-- Jewish volunteer ambulances set on fire in London in apparent antisemitic attack - NBC News
-- Election in Slovenia Is a Near Tie - The New York Times
+- Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times
+- French far right claims momentum for presidency after local elections - politico.eu
 - The Top Iranian Diplomat Who Says He’s in No Mood to Talk - WSJ
-- Caught Between Two Conflicts, Afghans Flee Iran - The New York Times
+- Election in Slovenia Is a Near Tie - The New York Times
+- The world just lived through the 11 hottest years on record — what now? - Nature
+- Gold and silver in freefall as investors flee safe haven metals trade - CNBC
+- Lyme disease vaccine shows 70 percent efficacy, Pfizer says - The Washington Post
 - International Energy Agency head says global economy faces ‘major, major threat’ from Iran war - AP News
-- Oil prices rise while gold sinks as the US and Iran trade threats - Business Insider
-- Worried about a shaky stock market? This is what financial advisers suggest you do - NPR
-- Goldman Raises Oil Forecasts on Largest-Ever Supply Shock - Bloomberg.com
-- Samsung Brings AirDrop Support to Quick Share with Galaxy S26 Series - samsung.com
-- Hackaday Links: March 22, 2026 - Hackaday
+- Alibaba.com President: The one-person unicorn is coming. AI is making it possible - Fortune
+- The DLSS 5 Backlash Is Still Swirling - Dark Horizons
+- Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google
