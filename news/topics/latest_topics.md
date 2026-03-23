@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 10:12_
+_Updated: 2026-03-23 11:37_
 
 ## Top Stories
 
-- Sorg i Örebro efter dödsskjutning – ingen gripen - Västerbottens-Kuriren
+- Oljepriset stiger vid handelns öppning – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Flera L-toppar lämnar partiet – efter omval av Simona Mohamsson - GP
-- Skakig start på börserna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Brand spred sig – helt flerfamiljshus i lågor - Aftonbladet
+- Hugo, 20, sköts ihjäl i Örebro – ville bli fotbollsproffs - Omni
 - Älskade livet på is – sen krossades drömmen - Svenska Dagbladet
-- Här dog 25 marsvin – kvinnan slutade mata dem men frias från djurplågeri - Sydsvenskan
-- Marmorstein: ”Inte som Mohamsson tänkt sig” – Senaste nytt om valet 2026 - SVT Nyheter
+- Fransk ex-ledare död - Västerbottens-Kuriren
+- Brand spred sig – helt flerfamiljshus i lågor - Aftonbladet
+- Begär hjälp till besättning på bordat fartyg - Aftonbladet
 - Misstänkt mord i Avesta – en anhållen - SVT Nyheter
 - VIKTOR BARTH-KRON: Centerpartisterna vet inte vad de gör - Expressen
-- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
+- Stjärnekonomen: Miljardärer i Sverige har orimliga privilegier – behövs ny skatt - Dagens Nyheter
+- Två döda efter flygolycka i New York - Svenska Dagbladet
+- Erik de la Reguera: Paris cyklar vidare – vänstern behåller makten i storstäderna - Dagens Nyheter
 - Rutte säker på Hormuz-öppning - Västerbottens-Kuriren
-- Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
-- Grovt rån i fastighet utanför Gislaved - Hem - Värnamo
-- Attack mot rysk oljehamn nära Finlands gräns - Corren
-- Börsras väntar – efter Donald Trumps hot mot Iran - Svenska Dagbladet
-- Oljepriset stillar sig trots eskalerande retorik - Omni
+- Förmögenhetsskatt – som i Danmark - Dagens Arena
+- Asienbörserna faller efter Trumps ultimatum - EFN
+- Börsen rasar vid öppning - Aftonbladet
 - Allt du behöver veta om den sänkta matmomsen - Dagens Nyheter
-- Krisen avslöjar Europas svaghet: ”Flyger i taket” - EFN
-- Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
+- Oljepriset stillar sig trots eskalerande retorik - Omni
 - Hela medlemsresan – från möte till engagemang - Softronic AB
+- Chrome på iPhone får snart Gemini - teknikveckan.se
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,22 +38,21 @@ _Updated: 2026-03-23 10:12_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - New Secretary General appointed - Olof Palme International Center
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Strategic technology competition revisited: A National Innovation System rationale for China’s artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -60,13 +60,13 @@ _Updated: 2026-03-23 10:12_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -106,8 +106,8 @@ _Updated: 2026-03-23 10:12_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
@@ -149,6 +149,7 @@ _Updated: 2026-03-23 10:12_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -156,7 +157,6 @@ _Updated: 2026-03-23 10:12_
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
