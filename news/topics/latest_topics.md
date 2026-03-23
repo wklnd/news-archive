@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 18:30_
+_Updated: 2026-03-23 19:26_
 
 ## Top Stories
 
-- New York-börsen lyfter efter Trumps utspel - Västerbottens-Kuriren
+- Efter landsmötet: Liberalernas toppnamn i Västerbotten hoppar av - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Källa: Witkoff och Kushner i samtal med Iran - Dagens Nyheter
 - Polisens teori: Mordet i Örebro en felskjutning - Svenska Dagbladet
-- Ny säkerhetszon på Östermalm – finns risk för allvarliga våldsbrott - SVT Nyheter
-- Danskarna går till val: ”Väldigt jämnt och otroligt rörigt” - Dagens Arena
-- Regeringen sänker skatten på bensin och diesel - GP
-- DN Direkt – Liberalernas ledare i Stockholm hoppar av - Dagens Nyheter
+- Man skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
+- Inbjudan till pressträff med anledning av införande av säkerhetszon i Stockholm - Polisen.se
+- KD-ledaren Ebba Busch positiv till SD i regering - Omni
 - Tomas Ramberg: Nu får Mohamsson ro på - Dagens Nyheter
-- SMHI varnar: ”Ställ in fjällturen” - SVT Nyheter
+- SMHI varnar: Ställ in - Expressen
 - Rysk befälhavare begärs omhäktad - Aftonbladet
-- Man anhållen för mord i Avesta - Bulletin
-- Stor förödelse i centrala Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Brandattentat mot judiska ambulanser – kopplingar till Iran utreds - Dagens Nyheter
-- Zelenskyj: Stoppat rysk intensifiering - Västerbottens-Kuriren
+- Regeringen: Sänkt skatt på drivmedel och elstöd införs - Omni
+- Svår flygkrasch med Herculesplan i Colombia - Västerbottens-Kuriren
+- Ambulanser i London sattes i brand – utreds som hatbrott - Sydsvenskan
+- Sanna Torén Björling: Ukrainas framgångar är remarkabla – men ger inte hela bilden - Dagens Nyheter
 - Påven om Mellanöstern: ”Det som skadar dem skadar hela mänskligheten” - Vatican News
 - Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
-- Krögarna lämnas utanför momssänkningen: ”Orättvisa spelregler” - Dagens Nyheter
-- Onlyfans-ägaren Leonid Radvinskij död – blev 43 - Omni
-- Ansökan inlämnad om att bygga kärnkraftsreaktorer i Valdemarsvik - NT
+- Matjättar kräver prisstopp av leverantörer inför april - Omni
+- Onlyfans-ägaren död – blev 43 år - Breakit
+- Här planeras för ny kärnkraft -”lämplig plats” - Svenska Dagbladet
 - Microsoft lovar bättre Windows 11 – med mindre Copilot - Computer Sweden
 - Hela medlemsresan – från möte till engagemang - Softronic AB
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Lissabon i centrum för global innovation - The Portugal News
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.org
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - New Secretary General appointed - Olof Palme International Center
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -94,44 +94,44 @@ _Updated: 2026-03-23 18:30_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
@@ -142,10 +142,10 @@ _Updated: 2026-03-23 18:30_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -154,9 +154,9 @@ _Updated: 2026-03-23 18:30_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
