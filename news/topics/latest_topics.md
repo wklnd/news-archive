@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 15:55_
+_Updated: 2026-03-23 17:35_
 
 ## Top Stories
 
-- Irans hot: Minerar ”hela Persiska viken” vid markinvasion – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Regeringen sänker skatten på bensin och diesel - GP
 - Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
-- Danskarna går till val: ”Väldigt jämnt och otroligt rörigt” - Dagens Arena
+- Trump: Samtal med en ”topp” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Polisen inför säkerhetszon i delar av Diplomatstaden i Stockholm - polisen.se
-- Filmades med mordvapen och utlämnades från Dubai till Malmö – frias av rätten - Sydsvenskan
-- Ulf Kristersson: Ett styrkebesked för vår sida - Moderaterna
-- Efter landsmötet: Liberalernas toppnamn i Västerbotten hoppar av - SVT Nyheter
+- Danskarna går till val: ”Väldigt jämnt och otroligt rörigt” - Dagens Arena
+- Visitationszon i Diplomatstaden i Stockholm - GP
+- Regeringen: Sänkt skatt på bensin och diesel - Västerbottens-Kuriren
+- Tomas Ramberg: Nu får Mohamsson ro på - Dagens Nyheter
 - SMHI varnar: ”Ställ in fjällturen” - SVT Nyheter
 - Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
-- Ukrainsk attack mot Primorsk nära Finland - Hufvudstadsbladet
+- Man anhållen för mord i Avesta - Bulletin
 - Brandattentat mot judiska ambulanser – kopplingar till Iran utreds - Dagens Nyheter
-- Trump: Skjuter upp attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Sanna Torén Björling: Ukrainas framgångar är remarkabla – men ger inte hela bilden - Dagens Nyheter
-- Svenska bolaget i rekordaffär – tredubblar bitcoin-portfölj - Affärsvärlden
-- Larmet: Snedvriden konkurrens med sänkt matmoms – ”Orättvist” - Tidningen Näringslivet
-- Därför är Gävle perfekt för ny kärnkraft - Kvartal
-- Geopolitisk oro bromsar börsnoteringar - Realtid
+- Zelenskyj: Stoppat rysk intensifiering - Västerbottens-Kuriren
+- Sofia Mirjamsdotter: Ovärdig fars när Liberalerna visade upp sin inkompetens - Västerbottens-Kuriren
+- Påven om Mellanöstern: ”Det som skadar dem skadar hela mänskligheten” - Vatican News
+- Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
+- Krögarna lämnas utanför momssänkningen: ”Orättvisa spelregler” - Dagens Nyheter
+- Onlyfans-ägaren Leonid Radvinskij död – blev 43 - Omni
+- Här planeras för ny kärnkraft -”lämplig plats” - Fastighetsnytt
 - Microsoft lovar bättre Windows 11 – med mindre Copilot - Computer Sweden
 - Google skriver om rubriker med hjälp av AI – möts av hård kritik - Computer Sweden
 
@@ -41,9 +41,9 @@ _Updated: 2026-03-23 15:55_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
@@ -62,11 +62,11 @@ _Updated: 2026-03-23 15:55_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
