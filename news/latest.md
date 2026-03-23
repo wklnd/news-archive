@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-23 01:59_
+_Updated: 2026-03-23 05:35_
 
-- Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump ultimatum - AP News
-- Trump says ICE agents will assist airport security as DHS shutdown continues - BBC
-- Travelers flying out of NYC area airports: Be prepared to wait - Gothamist
-- France Chose Thousands of New Mayors on Sunday. Here’s Why It Matters. - The New York Times
-- Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties - BBC
-- More than half a million ballots seized by top GOP candidate in California governor’s race - Los Angeles Times
-- See floodwaters overwhelm communities across Hawaii - USA Today
+- Live updates: ICE agents expected at Atlanta airport, TSA employees call out amid partial government shutdown - CNN
+- Iran War Live Updates: Tehran Vows to Destroy Key Infrastructure After Trump's Power Plant Threat - The New York Times
+- 2 Iranian strikes on towns near Israel's main nuclear research center injure more than 100 people - CBS News
+- Man Charged In Killing Of Loyola Student At Rogers Park Lakefront, Police Say - Block Club Chicago
+- France's Socialists hold onto power in major cities in election boost for mainstream - BBC
+- California sheriff running for governor seizes more than a half million ballots from 2025 election - AP News
+- Flood watch remains for most of Hawaii - Honolulu Star-Advertiser
 - Savannah Guthrie renews plea to Arizona community for clues in mother's disappearance - CBS News
-- Senate advances Mullin’s DHS nomination - Politico
-- ICE Asks Governor Pritzker and Chicago Sanctuary Politicians to Not Release Criminal Illegal Alien Accused of Killing 18-Year-Old Loyola College Student - Homeland Security (.gov)
-- Iranian missile strikes injure 115 in Israel, officials say, puncturing air defenses and shocking the public - NBC News
-- Slovenia election sees ruling party tied with opposition - dw.com
-- Donald Trump has four bad options for the war in Iran - The Economist
-- A strike on a hospital in Sudan killed at least 64 people, WHO says - NPR
-- Traders Brace for Turbulent Open as War Rages On: Markets Wrap - Bloomberg.com
-- Natural gas prices in Texas are negative and producers burn it off while shortages loom elsewhere - Fortune
-- The price of menstrual products is skyrocketing from inflation, tariffs - CNBC
-- Spiking gas prices tied to Iran war are set to eat up tax refunds touted by Trump - AP News
-- New Apple TV and HomePod Mini Remain 'Ready' to Launch - MacRumors
+- Bessent responds to Trump’s post about Mueller’s death - The Hill
+- Beloved sports journalist Jessi Pierce and her 3 children identified as White Bear Lake fire victims - 5 EYEWITNESS NEWS
+- Starmer and Trump discuss need to reopen Hormuz Strait - BBC
+- Israeli settlers smash cars and set fires in the West Bank as 4 Palestinians killed in Gaza - AP News
+- Slovenia election sees ruling party tied with opposition - DW.com
+- Iran chokes Strait of Hormuz with reported $2M tanker toll, regime threatens global oil supply - Fox News
+- Asia markets tumble as Trump-Iran threats keep investors on edge; Nikkei, Kospi fall 4% - CNBC
+- Exclusive | Activist Elliott Builds Big Stake in Chip-Design Software Maker Synopsys - WSJ
+- Oil prices dip despite the US and Iran trading threats - Business Insider
+- Stock market today: Dow, S&P 500, Nasdaq futures fall as four week down spiral continues, Trump threatens Iran - Yahoo Finance
+- Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google
 - Microsoft says it'll make Windows 11 a calmer OS with fewer upsells or ads, as it tries to win back users - Windows Latest
