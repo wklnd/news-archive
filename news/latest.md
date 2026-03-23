@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-23 12:36_
+_Updated: 2026-03-23 13:29_
 
-- Iran threatens to start hitting Gulf power plants and mine waters as Israel launches new attacks - AP News
-- Trump to deploy ICE agents to airports Monday - Axios
+- Iran threatens to strike Gulf power plants and mine Gulf waters as Israel launches new attacks - AP News
+- ICE officers headed to airports nationwide Monday. Will MSP be one of them? - Star Tribune
+- At New York Airports, Long T.S.A. Lines and Frustrated Travelers - The New York Times
+- Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties - BBC
 - French far right claims momentum for presidency after local elections - politico.eu
 - Jewish volunteer ambulances set on fire outside London synagogue in antisemitic attack - CNN
-- GOP California governor candidate seizes over 500,000 ballots in disputed election probe - The Independent
-- Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times
-- Two killed after Canadian jet hits fire truck at NYC’s LaGuardia airport - Al Jazeera
+- Pilot and copilot killed in collision between jet and fire truck at LaGuardia - NPR
 - Savannah Guthrie renews plea to Arizona community for clues in mother's disappearance - CBS News
-- Senate advances Mullin’s DHS nomination - Politico
-- Historic Hawaii floods leave 2,000 people without power - AP News
-- Slovenian PM beats pro-Israel rival, after alleged election interference by Israeli firm - The Times of Israel
-- International Energy Agency head says global economy faces ‘major, major threat’ because of Iran war - AP News
-- Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties - BBC
-- Transcript: NATO Secretary General Mark Rutte on "Face the Nation with Margaret Brennan," March 22, 2026 - CBS News
-- Oil prices rise, gold tanks as the US and Iran trade threats - Business Insider
+- Suspect in Chicago Student’s Killing Was in U.S. Illegally, D.H.S. Says - The New York Times
+- Pressure builds on Congress as DHS shutdown threatens to drag into April - Politico
+- Election in Slovenia Is a Near Tie - The New York Times
+- Caught Between Two Conflicts, Afghans Flee Iran - The New York Times
+- IRGC Basij commander killed as US, Israel strike Iran targets - The Jerusalem Post
+- Tehran strikes near Israeli nuclear center as Trump threatens attacks on Iranian power plants - politico.eu
+- More than 40 Middle East energy assets ‘severely damaged,’ IEA chief says - CNBC
 - Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap - Bloomberg.com
+- Oil prices rise while gold sinks as the US and Iran trade threats - Business Insider
 - Goldman Boosts Oil Price Forecast by $8 for Brent and $7 for WTI - Crude Oil Prices Today | OilPrice.com
-- Gold and Silver Tumble as Mideast War Deepens Inflation Fears - Bloomberg.com
-- Samsung Brings AirDrop Support to Quick Share with Galaxy S26 Series - samsung.com
-- The DLSS 5 Backlash Is Still Swirling - Dark Horizons
+- Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google
+- Samsung Galaxy S27 Ultra may not bring major S Pen reforms - SamMobile
