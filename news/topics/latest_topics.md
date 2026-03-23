@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 13:24_
+_Updated: 2026-03-23 14:03_
 
 ## Top Stories
 
-- Regeringen: Sänkt skatt på bensin och diesel - Västerbottens-Kuriren
+- Stockholmsbörsen vänder upp – oljepriset rasar - Västerbottens-Kuriren
+- Regeringen: Sänkt skatt på drivmedel och stärkt elstöd - SVT Nyheter
 - Flera L-toppar lämnar partiet – efter omval av Simona Mohamsson - GP
-- Irans hot: Minerar ”hela Persiska viken” vid markinvasion – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fransk ex-ledare död - Västerbottens-Kuriren
-- Trump: Pausar attacker mot iransk energi - Omni
 - Kvinna hittad död – misstänkt man släppt - Västerbottens-Kuriren
-- Sorg i Örebro efter dödsskjutning – ingen gripen - Dagens Nyheter
-- Flerfamiljshus i brand i Hovmantorp - Expressen
-- Familjens bil instängd – försökte bygga ramp - Expressen
-- Ulf Kristersson (M): Färre röda linjer ger oss bättre förutsättningar - Aftonbladet
-- Flygplan körde in i brandbil i New York – två döda - Västerbottens-Kuriren
-- Ukrainsk attack mot oljehamn nära finska gränsen - Dagens Nyheter
+- Israel: Storskalig attack mot Teheran - Hufvudstadsbladet
 - Förmögenhetsskatt – som i Danmark - Dagens Arena
-- Knivhuggning vid skola i Helsingfors - Österbottens Tidning
+- Ulf Kristersson: Ett styrkebesked för vår sida - Moderaterna
+- Sorg i Örebro efter dödsskjutning – ingen gripen - Dagens Nyheter
+- JUST NU: Tak har rasat in vid skola – stor insats - Ekuriren
+- Flerfamiljshus i brand i Hovmantorp - Expressen
+- Ukrainsk attack mot oljehamn nära finska gränsen - Dagens Nyheter
+- Ambulanser sattes i brand – utreds som hatbrott - GP
+- Flygplan körde in i brandbil i New York – två döda - UNT
+- Knivhuggning vid skola i Helsingfors – minderårig misstänkt - Dagens Nyheter
 - Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
 - Börsen rasar vid öppning - Aftonbladet
+- Geopolitisk oro bromsar börsnoteringar - Realtid
 - Allt du behöver veta om den sänkta matmomsen - Dagens Nyheter
-- Krigsoron bromsar noteringar – då är det läge igen - Dagens industri
 - Hela medlemsresan – från möte till engagemang - Softronic AB
 - Äntligen blir det lätt att dela mellan iPhone och Galaxy - Ljud & Bild
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Lissabon i centrum för global innovation - The Portugal News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- 40 years of RSF, 40 years of press freedom history - RSF.org
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -39,11 +38,12 @@ _Updated: 2026-03-23 13:24_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
@@ -134,9 +134,9 @@ _Updated: 2026-03-23 13:24_
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
