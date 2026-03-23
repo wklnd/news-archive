@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 23:57_
+_Updated: 2026-03-24 01:00_
 
 ## Top Stories
 
-- Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
-- Trump: Skjuter upp attacker mot iranska kraftverk – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stor förödelse i centrala Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Strömmer om mordet i Örebro: "Skakar om" - Aftonbladet
-- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
-- Över 1 000 döda i Libanon - GP
-- Trump kan slå till mot Kuba – när som helst - Expressen
+- Tonåring skjuten i Huddinge – mycket allvarligt skadad - GP
+- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Över 1 000 döda i Libanon - Dagens Nyheter
+- Grönlänningar går till val på egen kustbevakning - Omni
 - Man utsatt för bluff – polisen ryckte ut - Bbl/AT
 - Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
-- Tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
 - SMHI varnar: Ställ in - Expressen
-- Svår flygkrasch med Herculesplan i Colombia - Västerbottens-Kuriren
-- EU vill ha ungersk förklaring om rysskontakter - GP
-- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
+- EU vill ha ungersk förklaring om rysskontakter - Västerbottens-Kuriren
+- Svår flygkrasch med Herculesplan i Colombia - Corren
 - Direkt – Kriget i Ukraina – Zelenskyj: Fler stationer för långdistansrobotar i Belarus - Dagens Nyheter
+- Italienarna röstade nej – första stora bakslaget för Meloni - Dagens Nyheter
 - Blodrött på börserna – så håller du dig lugn: ”Inte förlorat pengar” - NWT
-- Onlyfans-ägaren Leonid Radvinskyj död – blev 43 - Omni
 - New York-börsen tickar uppåt igen – Tesla trotsar sänkt riktkurs - EFN
-- Saab och Cohere ingår samförståndsavtal om avancerat AI-samarbete (Cision) - Aktiellt
+- Drivmedelspriser rusar – ”Jag behöver min bil” - Svenska Dagbladet
+- Onlyfans-ägaren Leonid Radvinskyj död – blev 43 - Omni
+- Stall Wilma Fransson AB: Redovisningen klar – så ser siffrorna ut - Jönköpings-Posten
 - BofA upprepar sin köprekommendation på Apple - väntas lansera vikbar Iphone i år - Börsvärlden
-- Då öppnar Apple WWDC 2026 - mobil.se
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Lissabon i centrum för global innovation - The Portugal News
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -97,23 +97,23 @@ _Updated: 2026-03-23 23:57_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -142,21 +142,21 @@ _Updated: 2026-03-23 23:57_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
