@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 17:35_
+_Updated: 2026-03-23 18:30_
 
 ## Top Stories
 
-- Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
-- Trump: Samtal med en ”topp” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Polisen inför säkerhetszon i delar av Diplomatstaden i Stockholm - polisen.se
+- New York-börsen lyfter efter Trumps utspel - Västerbottens-Kuriren
+- Polisens teori: Mordet i Örebro en felskjutning - Svenska Dagbladet
+- Ny säkerhetszon på Östermalm – finns risk för allvarliga våldsbrott - SVT Nyheter
 - Danskarna går till val: ”Väldigt jämnt och otroligt rörigt” - Dagens Arena
-- Visitationszon i Diplomatstaden i Stockholm - GP
-- Regeringen: Sänkt skatt på bensin och diesel - Västerbottens-Kuriren
+- Regeringen sänker skatten på bensin och diesel - GP
+- DN Direkt – Liberalernas ledare i Stockholm hoppar av - Dagens Nyheter
 - Tomas Ramberg: Nu får Mohamsson ro på - Dagens Nyheter
 - SMHI varnar: ”Ställ in fjällturen” - SVT Nyheter
-- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
+- Rysk befälhavare begärs omhäktad - Aftonbladet
 - Man anhållen för mord i Avesta - Bulletin
+- Stor förödelse i centrala Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Brandattentat mot judiska ambulanser – kopplingar till Iran utreds - Dagens Nyheter
 - Zelenskyj: Stoppat rysk intensifiering - Västerbottens-Kuriren
-- Sofia Mirjamsdotter: Ovärdig fars när Liberalerna visade upp sin inkompetens - Västerbottens-Kuriren
 - Påven om Mellanöstern: ”Det som skadar dem skadar hela mänskligheten” - Vatican News
 - Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
 - Krögarna lämnas utanför momssänkningen: ”Orättvisa spelregler” - Dagens Nyheter
 - Onlyfans-ägaren Leonid Radvinskij död – blev 43 - Omni
-- Här planeras för ny kärnkraft -”lämplig plats” - Fastighetsnytt
+- Ansökan inlämnad om att bygga kärnkraftsreaktorer i Valdemarsvik - NT
 - Microsoft lovar bättre Windows 11 – med mindre Copilot - Computer Sweden
-- Google skriver om rubriker med hjälp av AI – möts av hård kritik - Computer Sweden
+- Hela medlemsresan – från möte till engagemang - Softronic AB
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Lissabon i centrum för global innovation - The Portugal News
+- Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.org
@@ -38,15 +39,14 @@ _Updated: 2026-03-23 17:35_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -60,12 +60,12 @@ _Updated: 2026-03-23 17:35_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -149,6 +149,7 @@ _Updated: 2026-03-23 17:35_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -156,7 +157,6 @@ _Updated: 2026-03-23 17:35_
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
