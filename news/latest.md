@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-23 13:29_
+_Updated: 2026-03-23 14:31_
 
-- Iran threatens to strike Gulf power plants and mine Gulf waters as Israel launches new attacks - AP News
+- Dow futures jump 700 points after Trump says U.S. and Iran have held 'productive' talks: Live updates - CNBC
+- US will hold off on Iran power plant strikes for 5 days, extending Trump deadline on Hormuz strait - AP News
 - ICE officers headed to airports nationwide Monday. Will MSP be one of them? - Star Tribune
-- At New York Airports, Long T.S.A. Lines and Frustrated Travelers - The New York Times
-- Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties - BBC
 - French far right claims momentum for presidency after local elections - politico.eu
-- Jewish volunteer ambulances set on fire outside London synagogue in antisemitic attack - CNN
-- Pilot and copilot killed in collision between jet and fire truck at LaGuardia - NPR
+- Senate votes to advance Mullin's nomination to lead DHS - Axios
+- At NYC Airports, Long TSA Lines and Frustrated Travelers - The New York Times
+- 2 pilots killed when arriving plane and firetruck collide at New York's LaGuardia Airport, officials say - CBS News
 - Savannah Guthrie renews plea to Arizona community for clues in mother's disappearance - CBS News
-- Suspect in Chicago Student’s Killing Was in U.S. Illegally, D.H.S. Says - The New York Times
+- Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times
 - Pressure builds on Congress as DHS shutdown threatens to drag into April - Politico
+- Jewish volunteer ambulances set on fire in London in apparent antisemitic attack - NBC News
 - Election in Slovenia Is a Near Tie - The New York Times
+- The Top Iranian Diplomat Who Says He’s in No Mood to Talk - WSJ
 - Caught Between Two Conflicts, Afghans Flee Iran - The New York Times
-- IRGC Basij commander killed as US, Israel strike Iran targets - The Jerusalem Post
-- Tehran strikes near Israeli nuclear center as Trump threatens attacks on Iranian power plants - politico.eu
-- More than 40 Middle East energy assets ‘severely damaged,’ IEA chief says - CNBC
-- Bonds and Stocks Tumble as US-Iran Step Up Threats: Markets Wrap - Bloomberg.com
+- International Energy Agency head says global economy faces ‘major, major threat’ from Iran war - AP News
 - Oil prices rise while gold sinks as the US and Iran trade threats - Business Insider
-- Goldman Boosts Oil Price Forecast by $8 for Brent and $7 for WTI - Crude Oil Prices Today | OilPrice.com
-- Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google
-- Samsung Galaxy S27 Ultra may not bring major S Pen reforms - SamMobile
+- Worried about a shaky stock market? This is what financial advisers suggest you do - NPR
+- Goldman Raises Oil Forecasts on Largest-Ever Supply Shock - Bloomberg.com
+- Samsung Brings AirDrop Support to Quick Share with Galaxy S26 Series - samsung.com
+- Hackaday Links: March 22, 2026 - Hackaday
