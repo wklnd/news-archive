@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 19:26_
+_Updated: 2026-03-23 20:09_
 
 ## Top Stories
 
-- Efter landsmötet: Liberalernas toppnamn i Västerbotten hoppar av - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Källa: Witkoff och Kushner i samtal med Iran - Dagens Nyheter
+- Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
 - Polisens teori: Mordet i Örebro en felskjutning - Svenska Dagbladet
-- Man skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
-- Inbjudan till pressträff med anledning av införande av säkerhetszon i Stockholm - Polisen.se
+- Man skjuten utanför Stockholm - TV4 Nyheterna
+- Ny säkerhetszon på Östermalm – finns risk för allvarliga våldsbrott - SVT Nyheter
 - KD-ledaren Ebba Busch positiv till SD i regering - Omni
-- Tomas Ramberg: Nu får Mohamsson ro på - Dagens Nyheter
 - SMHI varnar: Ställ in - Expressen
 - Rysk befälhavare begärs omhäktad - Aftonbladet
 - Regeringen: Sänkt skatt på drivmedel och elstöd införs - Omni
+- Man anhållen för mord i Avesta - Bulletin
 - Svår flygkrasch med Herculesplan i Colombia - Västerbottens-Kuriren
-- Ambulanser i London sattes i brand – utreds som hatbrott - Sydsvenskan
-- Sanna Torén Björling: Ukrainas framgångar är remarkabla – men ger inte hela bilden - Dagens Nyheter
-- Påven om Mellanöstern: ”Det som skadar dem skadar hela mänskligheten” - Vatican News
+- I drönarkriget är infanteriet alltmer utsatt - Dagens Nyheter
+- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Brandattentat mot judiska ambulanser – kopplingar till Iran utreds - Dagens Nyheter
 - Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
-- Matjättar kräver prisstopp av leverantörer inför april - Omni
-- Onlyfans-ägaren död – blev 43 år - Breakit
-- Här planeras för ny kärnkraft -”lämplig plats” - Svenska Dagbladet
+- Onlyfans-ägaren Leonid Radvinskyj död – blev 43 - Omni
+- Larmet: Snedvriden konkurrens med sänkt matmoms – ”Orättvist” - Tidningen Näringslivet
+- Här planeras för ny kärnkraft – ”lämplig plats” - Dagens Nyheter
 - Microsoft lovar bättre Windows 11 – med mindre Copilot - Computer Sweden
 - Hela medlemsresan – från möte till engagemang - Softronic AB
 
@@ -30,23 +30,23 @@ _Updated: 2026-03-23 19:26_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - New Secretary General appointed - Olof Palme International Center
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -128,8 +128,8 @@ _Updated: 2026-03-23 19:26_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
