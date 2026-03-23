@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 14:03_
+_Updated: 2026-03-23 15:55_
 
 ## Top Stories
 
-- Stockholmsbörsen vänder upp – oljepriset rasar - Västerbottens-Kuriren
-- Regeringen: Sänkt skatt på drivmedel och stärkt elstöd - SVT Nyheter
-- Flera L-toppar lämnar partiet – efter omval av Simona Mohamsson - GP
-- Kvinna hittad död – misstänkt man släppt - Västerbottens-Kuriren
-- Israel: Storskalig attack mot Teheran - Hufvudstadsbladet
-- Förmögenhetsskatt – som i Danmark - Dagens Arena
+- Irans hot: Minerar ”hela Persiska viken” vid markinvasion – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Regeringen sänker skatten på bensin och diesel - GP
+- Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
+- Danskarna går till val: ”Väldigt jämnt och otroligt rörigt” - Dagens Arena
+- Polisen inför säkerhetszon i delar av Diplomatstaden i Stockholm - polisen.se
+- Filmades med mordvapen och utlämnades från Dubai till Malmö – frias av rätten - Sydsvenskan
 - Ulf Kristersson: Ett styrkebesked för vår sida - Moderaterna
-- Sorg i Örebro efter dödsskjutning – ingen gripen - Dagens Nyheter
-- JUST NU: Tak har rasat in vid skola – stor insats - Ekuriren
-- Flerfamiljshus i brand i Hovmantorp - Expressen
-- Ukrainsk attack mot oljehamn nära finska gränsen - Dagens Nyheter
-- Ambulanser sattes i brand – utreds som hatbrott - GP
-- Flygplan körde in i brandbil i New York – två döda - UNT
-- Knivhuggning vid skola i Helsingfors – minderårig misstänkt - Dagens Nyheter
-- Börsfall när Trumps ultimatum om Hormuz närmar sig - Morningstar
-- Börsen rasar vid öppning - Aftonbladet
+- Efter landsmötet: Liberalernas toppnamn i Västerbotten hoppar av - SVT Nyheter
+- SMHI varnar: ”Ställ in fjällturen” - SVT Nyheter
+- Fotbollsspelare skjuten till döds på Väster i Örebro - SVT Nyheter
+- Ukrainsk attack mot Primorsk nära Finland - Hufvudstadsbladet
+- Brandattentat mot judiska ambulanser – kopplingar till Iran utreds - Dagens Nyheter
+- Trump: Skjuter upp attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sanna Torén Björling: Ukrainas framgångar är remarkabla – men ger inte hela bilden - Dagens Nyheter
+- Svenska bolaget i rekordaffär – tredubblar bitcoin-portfölj - Affärsvärlden
+- Larmet: Snedvriden konkurrens med sänkt matmoms – ”Orättvist” - Tidningen Näringslivet
+- Därför är Gävle perfekt för ny kärnkraft - Kvartal
 - Geopolitisk oro bromsar börsnoteringar - Realtid
-- Allt du behöver veta om den sänkta matmomsen - Dagens Nyheter
-- Hela medlemsresan – från möte till engagemang - Softronic AB
-- Äntligen blir det lätt att dela mellan iPhone och Galaxy - Ljud & Bild
+- Microsoft lovar bättre Windows 11 – med mindre Copilot - Computer Sweden
+- Google skriver om rubriker med hjälp av AI – möts av hård kritik - Computer Sweden
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
+- Lissabon i centrum för global innovation - The Portugal News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
@@ -101,8 +101,8 @@ _Updated: 2026-03-23 14:03_
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
@@ -149,7 +149,6 @@ _Updated: 2026-03-23 14:03_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
@@ -158,5 +157,6 @@ _Updated: 2026-03-23 14:03_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
