@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 08:47_
+_Updated: 2026-03-23 10:12_
 
 ## Top Stories
 
+- Sorg i Örebro efter dödsskjutning – ingen gripen - Västerbottens-Kuriren
 - Flera L-toppar lämnar partiet – efter omval av Simona Mohamsson - GP
-- Flerfamiljshus har brunnit ner i Hovmantorp - SVT Nyheter
-- ”Det är som ett helvete som aldrig försvinner” - Svenska Dagbladet
-- Israel: Storskalig attack mot Teheran - Hufvudstadsbladet
+- Skakig start på börserna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Brand spred sig – helt flerfamiljshus i lågor - Aftonbladet
+- Älskade livet på is – sen krossades drömmen - Svenska Dagbladet
 - Här dog 25 marsvin – kvinnan slutade mata dem men frias från djurplågeri - Sydsvenskan
-- Frida pluggade tre år – drar in 100 000 i månaden - GP
-- Törnmalm: L:s SD-sväng kanske lönar sig – Senaste nytt om valet 2026 - SVT Nyheter
-- Ung man sköts ihjäl i Örebro - SVT Nyheter
-- VIKTOR BARTH-KRON: Centerpartisterna vet inte vad de gör - Expressen
+- Marmorstein: ”Inte som Mohamsson tänkt sig” – Senaste nytt om valet 2026 - SVT Nyheter
 - Misstänkt mord i Avesta – en anhållen - SVT Nyheter
-- Plan i krock i New York - Sydsvenskan
+- VIKTOR BARTH-KRON: Centerpartisterna vet inte vad de gör - Expressen
+- Polisen grep misstänkta för nästan alla dödsskjutningar 2025 - SVT Nyheter
 - Rutte säker på Hormuz-öppning - Västerbottens-Kuriren
 - Karin Eriksson: En dansk förmögenhetsskatt får sprängkraft – i Sverige - Dagens Nyheter
-- Erik de la Reguera: Paris cyklar vidare – vänstern behåller makten i storstäderna - Dagens Nyheter
-- Börserna faller efter Trumps ultimatum: ”Direkt nervösa” - EFN
+- Grovt rån i fastighet utanför Gislaved - Hem - Värnamo
+- Attack mot rysk oljehamn nära Finlands gräns - Corren
+- Börsras väntar – efter Donald Trumps hot mot Iran - Svenska Dagbladet
 - Oljepriset stillar sig trots eskalerande retorik - Omni
-- CHATT: Hur påverkas din ekonomi av kriget i Mellanöstern? - Expressen
 - Allt du behöver veta om den sänkta matmomsen - Dagens Nyheter
+- Krisen avslöjar Europas svaghet: ”Flyger i taket” - EFN
 - Apple utmanar PC-marknaden – nya MacBook Neo rusar i försäljning - Dagens PS
-- Apple förväntas släppa en ny iPad inom kort - teknikveckan.se
+- Hela medlemsresan – från möte till engagemang - Softronic AB
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Lissabon i centrum för global innovation - The Portugal News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Varnar för global gödselkris – mat kan bli dyrare - Svenska Dagbladet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - New Secretary General appointed - Olof Palme International Center
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
@@ -60,13 +60,13 @@ _Updated: 2026-03-23 08:47_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -106,14 +106,14 @@ _Updated: 2026-03-23 08:47_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -142,21 +142,21 @@ _Updated: 2026-03-23 08:47_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
