@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-23 23:19_
+_Updated: 2026-03-24 00:01_
 
-- Live Updates: Trump says ultimatum for Iran to reopen Strait of Hormuz postponed amid negotiations - CBS News
-- Live updates: ICE agents deployed to airports as TSA wait times grow - CNN
-- Trump rejects off-ramp to fund DHS as airport delays worsen - NBC News
+- Trump says U.S. is postponing some strikes as it negotiates end to war with Iran - The Washington Post
+- ‘The pressure is untenable’: Trump's deployment of ICE agents to airports ramps up shutdown fight - Politico
+- Capitol agenda: Trump muddies DHS talks - Politico
 - Supreme Court sounds skeptical of late-arriving ballots, a Trump target - AP News
-- In California, a Republican Sheriff Seizes Ballots, Prompting Concerns - The New York Times
-- London Jewish community ambulances set ablaze in antisemitic attack, PM says - Reuters
-- 2 pilots dead after Air Canada plane collides with truck at LaGuardia Airport - NBC News
-- Pope Leo advances six causes for sainthood - Vatican News
-- Venezuelan migrant charged with murder of Loyola student Sheridan Gorman - Chicago Sun-Times
-- The View hosts call out Trump’s hypocrisy after president celebrated Robert Mueller’s death - The Independent
+- California GOP sheriff who's running for governor seizes ballots from 2025 election - NBC News
+- Supreme Court declines to review press freedom case - NPR
+- Man Charged In Loyola Student's Slaying Hid Near Lakefront, Shot At Students As They Fled: Officials - Block Club Chicago
+- Historic Hawaii floods leave 2,000 people without power - AP News
+- The California reckoning after Cesar Chavez’s fall - Politico
+- Trump heads to Elvis Presley's Graceland in Memphis, a detour during Iran war and airport turmoil - AP News
 - Scores feared dead as Colombian military plane crashes - The Guardian
 - Israeli minister calls for annexation of southern Lebanon - Reuters
-- Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’ - Al Jazeera
-- Slovenia election sees ruling party tied with opposition - dw.com
-- Treasuries Soar After Trump Postpones Iran Power Strikes - Bloomberg.com
+- Ukraine has 'irrefutable' evidence of Russia providing intelligence to Iran, Zelenskiy says - Reuters
+- Meloni admits defeat as Italians reject judicial reform in major referendum - Euronews.com
+- US to pay almost $1bn to French energy company to kill wind project plan - The Guardian
+- Tesla Stock Rises As Elon Musk Announces Terafab Project - Investor's Business Daily
+- OnlyFans owner Leonid Radvinsky dies at 43 - BBC
 - Toyota to invest $1 billion to increase U.S. production in Kentucky, Indiana plants - CNBC
-- Leonid Radvinsky, owner of OnlyFans, dies aged 43 - The Guardian
-- US-Iran war damaged global oil markets more than Russia-Ukraine war, Chevron CEO says - Politico
 - Apple’s Worldwide Developers Conference returns the week of June 8 - Apple
 - Intel Core Ultra 5 250K Plus Review - Disrupting AMD's Entry-Level - TechPowerUp
