@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-23 23:03_
+_Updated: 2026-03-23 23:57_
 
 ## Top Stories
 
-- New York-börsen lyfter efter Trumps utspel - Västerbottens-Kuriren
-- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
-- Ung man livshotande skadad i skottlossning - Svenska Dagbladet
+- Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
+- Trump: Skjuter upp attacker mot iranska kraftverk – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Strömmer om mordet i Örebro: "Skakar om" - Aftonbladet
-- Trump: Samtal med en ”topp” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Man till sjukhus efter storbråk – tonåringar gripna - Omni
+- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
+- Över 1 000 döda i Libanon - GP
+- Trump kan slå till mot Kuba – när som helst - Expressen
 - Man utsatt för bluff – polisen ryckte ut - Bbl/AT
 - Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
-- SMHI varnar: Ställ in - Expressen
 - Tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
-- Melonis förslag om rättsreform verkar få nej - Västerbottens-Kuriren
-- Svår flygkrasch med Herculesplan i Colombia - Corren
+- SMHI varnar: Ställ in - Expressen
+- Svår flygkrasch med Herculesplan i Colombia - Västerbottens-Kuriren
+- EU vill ha ungersk förklaring om rysskontakter - GP
+- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Direkt – Kriget i Ukraina – Zelenskyj: Fler stationer för långdistansrobotar i Belarus - Dagens Nyheter
-- Över 1 000 döda i Libanon - GP
 - Blodrött på börserna – så håller du dig lugn: ”Inte förlorat pengar” - NWT
 - Onlyfans-ägaren Leonid Radvinskyj död – blev 43 - Omni
+- New York-börsen tickar uppåt igen – Tesla trotsar sänkt riktkurs - EFN
 - Saab och Cohere ingår samförståndsavtal om avancerat AI-samarbete (Cision) - Aktiellt
-- UPM-Kymmene: Energikrisvinnare i skogen - Affärsvärlden
 - BofA upprepar sin köprekommendation på Apple - väntas lansera vikbar Iphone i år - Börsvärlden
-- Samsung bekräftar lanseringen av Galaxy A37 och A57. Här är allt vi vet. - feber.se
+- Då öppnar Apple WWDC 2026 - mobil.se
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
+- Lissabon i centrum för global innovation - The Portugal News
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Annual Report 2024 - Olof Palme International Center
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 
 ## Technology
 
@@ -97,19 +97,19 @@ _Updated: 2026-03-23 23:03_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -117,26 +117,26 @@ _Updated: 2026-03-23 23:03_
 
 ## Science
 
-- 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
