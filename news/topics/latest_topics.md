@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 14:04_
+_Updated: 2026-03-24 15:56_
 
 ## Top Stories
 
-- Man skadad i skjutning vid torg i Solna - Omni
-- Fyra personer skadade i Tel Aviv – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nytt vandelskrav: De som inte sköter sig ska utvisas - Västerbottens-Kuriren
-- Ministern: Mycket talar för långvarigt storkrig - GP
-- Lina Lund: Hon är sossen som tjusar den europeiska högern - Dagens Nyheter
-- Känd Växjöprofil åtalas för grov hustrumisshandel - SVT Nyheter
+- Iran: 30 spioner gripna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skottlossning i Solna – en skadad - Aftonbladet
+- Poliser om mordet i Örebro - 8 Sidor
+- Tog emot flera miljoner i mutor – får fängelse - Västerbottens-Kuriren
+- Stridsspets på 100 kilo slog ned i Tel Aviv - GP
+- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
+- Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
+- Tre pojkar åtalas för försök till mord på Irankännare i Malmö - SVT Nyheter
+- Åklagare om Rönningemordet: Stärkt bevisläge - GP
 - Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
-- Barnfattigdomen lägst på tio år, men fortsatt stora regionala skillnader - Statistikmyndigheten SCB
-- Två pojkar åtalas för försök till mord på Irankännare i Malmö - SVT Nyheter
-- Tonåring skjuten i Huddinge – mycket allvarligt skadad - GP
-- ”Respekterade ledaren” i Iran som Trump vill göra upp med - Dagens Nyheter
+- Här är de heta frågorna i danska valet: Invandring, ekonomi och grisar - GP
 - ”Massiv” rysk attack efter Zelenskyjs varning - Västerbottens-Kuriren
 - Tom stol i Nuuk väcker dansk oro - Dagens Nyheter
-- Stenergard: Utgår från att det jag säger läcker - GP
-- Norge-förvaltaren efter börsrusningen: "En unik situation" - Affärsvärlden
-- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen - Via TT
-- I skuggan av raset: "Fastighetsaktierna billiga och bortglömda" - Dagens PS
-- DN Direkt – Misstänkt föremål i Åstorp var ofarligt - Dagens Nyheter
+- DN Direkt – Stenergard: Utgår från att det jag säger läcker - Dagens Nyheter
+- Grönt på asiatiska börser efter Trumps besked - Omni
+- Bränslepriset sänks rejält - Västerbottens-Kuriren
+- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
+- Ännu en storbank höjer bundna boräntor - Dagens industri
 - Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
-- Annonser släpps in i Kartor – ett sätt att fortsätta växa - Macworld.se
+- Därför tävlar Kina och USA om månen: ”Viktigt i framtiden” - TV4 Nyheterna
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -54,21 +54,21 @@ _Updated: 2026-03-24 14:04_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificiell Intelligens – säkerhetsrisker som bör regleras? - Folk och Försvar
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -111,8 +111,8 @@ _Updated: 2026-03-24 14:04_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -135,7 +135,7 @@ _Updated: 2026-03-24 14:04_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
@@ -151,12 +151,12 @@ _Updated: 2026-03-24 14:04_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
