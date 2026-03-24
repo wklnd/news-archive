@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 17:41_
+_Updated: 2026-03-24 19:31_
 
 ## Top Stories
 
+- Frederiksen slutspurtar: ”Väldigt viktigt” - GP
 - Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Poliser om mordet i Örebro - 8 Sidor
-- Man skadad i skjutning i Solna – en frihetsberövad - Västerbottens-Kuriren
-- DN Direkt – Tog emot flera miljoner i mutor – får fängelse - Dagens Nyheter
-- Fem pojkar åtalas efter mordförsöket på Kuröd - Bohusläningen
-- Chockbeskedet: Byskola läggs ned - Sydsvenskan
+- Pojke sköts ihjäl vid fotbollsplan i Vårby - Mitt i
+- Man skjuten i Solna – en person frihetsberövad - Dagens Nyheter
+- Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
+- Utrikesministern: Så drabbas Ukraina av kriget i Iran - GP
 - Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
-- Ledare: Det räcker inte att gå till val på att bara vara emot SD i regeringen - VF
-- L:s försvarspolitiska talesperson vill leda Stockholm stad - Altinget.se
-- Här är de heta frågorna i danska valet: Invandring, ekonomi och grisar - GP
+- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Åtal om mordförsök på Khoshnood – pojkar misstänks ha lejts för att döda - Dagens Nyheter
+- Pojke misshandlades och förnedrades i fem timmar – män döms - Dagens Nyheter
 - Kampsportande senator får ansvar för ICE - Sydsvenskan
-- Stridsspets på 100 kilo slog ned i Tel Aviv - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Zelenskyj: Fler stationer för långdistansrobotar i Belarus - Dagens Nyheter
+- Hemlig pro-iransk grupp hotar europeiska storstäder - Dagens Nyheter
+- Norska ministrar kallas in till Epstein-utfrågning - Aftonbladet
+- ”Massiv” rysk attack efter Zelenskyjs varning - Västerbottens-Kuriren
 - Grönt på asiatiska börser efter Trumps besked - Omni
-- Wall Street-jätten: Dumpa kronan – köp dollar - Aftonbladet
-- Bränslepriset sänks rejält - Västerbottens-Kuriren
-- Banker höjer räntan – så ska du tänka nu - Expressen
-- Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
-- AI-kapplöpningen: Nu tar Claude kontrollen över datorn - Ny Teknik
+- Så styr Trump över börsen: ”Vet om det – och bryr sig” - Hufvudstadsbladet
+- Räntesmäll hotar – panikartad handel - GP
+- Privata Affärer: Håll er borta från Sivers – nyemission i korten - Dagens industri
+- USA pausar omloppsstation – satsar på månbas - Aftonbladet
+- Nu kan Claude Code och Cowork använda din dator - Computer Sweden
 
 ## World News
 
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- #ScreenwritersEverywhere: Medie- och underhållningsfackföreningar i global solidaritet med WGA - UNI Global Union
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews.se
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
-- International Day of Epidemic Preparedness - World Health Organization (WHO)
-- Sudan court sentences three men to hand amputation for stealing - The Guardian
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
-- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -101,19 +101,19 @@ _Updated: 2026-03-24 17:41_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -142,21 +142,21 @@ _Updated: 2026-03-24 17:41_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Framtidens jordbruk - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - De gick från reko till eko - ST-tidningen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
