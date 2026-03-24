@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 23:04_
+_Updated: 2026-03-25 00:00_
 
 ## Top Stories
 
 - Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
-- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
-- Länsstyrelsens kontroll visar – tjurar självdog på gård i Jämtland - SVT Nyheter
+- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
+- Trump: Iran går med på kärnvapendeal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Israel har tagit kontrollen över stort landområde i Libanon - GP
 - L i Huddinge vill inte samarbeta med SD - Mitt i
-- Trump: Iran går med på kärnvapendeal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
 - Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
 - Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
 - Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
-- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- ”Tror mina barns immunförsvar klarar mässlingen” - Dagens Nyheter
-- Norska ministrar kallas in till Epsteinutfrågning - Omni
-- ”Jag hann inte ens packa våra pass – vi bara tog barnen och sprang” - Dagens Nyheter
+- DN Direkt – En person skottskadad i Solna – stor polisinsats - Dagens Nyheter
+- Göteborgaren Kristina stannar kvar mitt i kriget: ”Jag har mitt liv här” - GP
+- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
+- Prinsen: ”Tålamodet är inte oändligt” - Svenska Dagbladet
+- Tidning: Nya ledaren i Iran ”skadad och isolerad” - Aftonbladet
 - Grönt på asiatiska börser efter Trumps besked - Omni
+- United Airlines varnar: Biljettpriser kan skjuta i höjden vid dyrare bränsle - Börskollen
 - Daytradern om börsen: ”Fantastiska tider” - Dagens Nyheter
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
-- United Airlines varnar: Biljettpriser kan skjuta i höjden vid dyrare bränsle - Börskollen
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
-- Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
+- Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
 
 ## World News
 
@@ -86,10 +86,10 @@ _Updated: 2026-03-24 23:04_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -108,12 +108,12 @@ _Updated: 2026-03-24 23:04_
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -143,20 +143,20 @@ _Updated: 2026-03-24 23:04_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Framtidens jordbruk - commission.europa.eu
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - ATL
