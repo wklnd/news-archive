@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 08:42_
+_Updated: 2026-03-24 09:40_
 
-- ‘Stop this savage being’: Iranians fear postponed Trump attack is merely disaster delayed - The Guardian
+- Live Updates: Trump calls off Strait of Hormuz ultimatum as Iran receives U.S. message from mediators - CBS News
 - Markwayne Mullin confirmed as Department of Homeland Security head - BBC
 - ‘The pressure is untenable’: Trump's deployment of ICE agents to airports ramps up shutdown fight - Politico
-- Trump says US and Iran are talking. His claim is eliciting market cheers and plenty of skepticism - AP News
 - ‘Don’t Make Any Deal’: Trump Tells Republicans to Hold Firm on Shutdown Talks - The New York Times
-- Worst Hawaii flooding in 20 years leaves some homes in mud as recovery begins: "We lost everything" - CBS News
-- Flight attendant thrown from Air Canada plane survives in a 'total miracle' - ABC7 Los Angeles
+- Trump says US and Iran are talking. His claim is eliciting market cheers and plenty of skepticism - AP News
+- Hawaii assesses damage left by worst flooding in more than 20 years - The Guardian
+- In LaGuardia Crash That Killed 2, Call to ‘Stop!’ Came Too Late - The New York Times
 - Pentagon revises rules for journalists after lawsuit loss, raising press group's ire - Axios
 - Tragedy of Loyola student’s alleged killing by migrant marked by his clouded history, political reaction - Chicago Tribune
 - Supreme Court appears ready to limit mail-in balloting ahead of midterms - The Washington Post
 - Colombian military plane crash kills at least 66, wounds dozens - Al Jazeera
-- Jewish volunteer ambulances set on fire in London in apparent antisemitic attack - NBC News
-- ‘Absolute moral rigour’: new Paris mayor Emmanuel Grégoire’s ideals face stern test - The Guardian
-- Trump says he and 'the ayatollah' can share control of Strait of Hormuz - Middle East Eye
-- Oil rises with Brent crossing $100 a barrel again as Middle East tensions keep traders on edge - CNBC
+- Live: Iran launches missiles on Israel, calls Trump’s negotiation claims ‘fake news' - France 24
+- ‘We are scared, terrified’: London Jews on edge after antisemitic arson attack - The Times of Israel
+- Referendum defeat brings Italy’s Meloni crashing down to earth - politico.eu
 - Estée Lauder in Merger Talks With Puig - WWD
-- Shares jittery, oil rebounds as fragile relief rally sours - Reuters
+- Oil rises with Brent crossing $100 a barrel again as Middle East tensions keep traders on edge - CNBC
+- Trump administration to pay French company $1B to walk away from US offshore wind leases - AP News
 - OnlyFans owner Leonid Radvinsky dies at 43 - BBC
 - Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch
-- While Intel Skipped Core Ultra 9 290K Plus, It Appeared At Geekbench With A Staggering 17% Higher Single And Multi-Core Score Than Ultra 9 285K - Wccftech
+- Intel Core Ultra 7 270K Plus Review - Intel's Fastest Gaming CPU - TechPowerUp
