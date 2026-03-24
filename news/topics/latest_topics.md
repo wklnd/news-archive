@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 20:31_
+_Updated: 2026-03-24 21:34_
 
 ## Top Stories
 
-- Løkke om valet: ”Väljarna kommer att överraska” - GP
-- Hennes son såg dödsskjutningen i Vårby: ”Traumatiserad” - SVT Nyheter
-- Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Utrikesministern: Mycket talar för ett storkrig - Dagens Nyheter
-- ”Jag hann inte ens packa våra pass – vi bara tog barnen och sprang” - Dagens Nyheter
-- Sju nyförlösta fick farlig smitta av vårdanställd - Sydsvenskan
-- Åtal om mordförsök på Khoshnood – pojkar misstänks ha lejts för att döda - Dagens Nyheter
+- Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
+- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
+- Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
+- Länsstyrelsens kontroll visar – tjurar självdog på gård i Jämtland - SVT Nyheter
+- Göteborgaren Kristina stannar kvar mitt i kriget: ”Jag har mitt liv här” - GP
+- Israel: Ska kontrollera södra Libanon i en ”säkerhetszon” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
 - Regeringen föreslår ett nytt vandelskrav - Regeringen.se
 - Man skadad i skjutning i Solna – en frihetsberövad - GP
-- Kampsportande senator får ansvar för ICE - Sydsvenskan
+- Pojke misshandlades och förnedrades i fem timmar – män döms - Dagens Nyheter
 - Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Norska ministrar kallas in till Epstein-utfrågning - GP
 - Hemlig pro-iransk grupp hotar europeiska storstäder - Dagens Nyheter
-- Norska ministrar kallas in till Epsteinutfrågning - Omni
+- De blir största vinnarna på Australienavtalet - Dagens industri
 - Grönt på asiatiska börser efter Trumps besked - Omni
-- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
 - Daytradern om börsen: ”Fantastiska tider” - Dagens Nyheter
+- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
 - Stadium varslar 100 tjänster – stort sparpaket - Expressen
 - Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
@@ -36,13 +36,13 @@ _Updated: 2026-03-24 20:31_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- #ScreenwritersEverywhere: Medie- och underhållningsfackföreningar i global solidaritet med WGA - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
@@ -102,18 +102,18 @@ _Updated: 2026-03-24 20:31_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
