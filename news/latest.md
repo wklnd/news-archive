@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 18:42_
+_Updated: 2026-03-24 19:38_
 
-- TSA wait times stretch up to 6 hours as ICE and other Homeland Security agents deployed to 14 airports - CBS News
-- Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened - The Guardian
+- Trump says peace talks progressing as Iran officials deny negotiations - The Washington Post
+- Senate closes in on potential deal to end DHS shutdown - CBS News
 - Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets - The Washington Post
-- Republicans optimistic on path to end DHS shutdown - The Hill
+- Houston airport's only 2 TSA checkpoints pass 4-hour waits after ICE arrival - Houston Chronicle
 - As parents age, their children face hard choices about when to take the car keys - NPR
-- Trump backs off escalation, but Iran war goes on amid 'productive' talks - NBC News
-- Passengers describe LaGuardia crash and a new go-between in the U.S.-Iran war: Morning Rundown - NBC News
-- WRAL reporter gives first-hand look at long TSA lines in Atlanta - WRAL
+- Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls - The New York Times
 - Chavez Revelations Force Teachers to Rethink How They Teach His Legacy - The New York Times
 - US quadruple amputee cornhole champion arrested on suspicion of murder - The Guardian
-- Airstrikes batter Iran as it attacks Israel and Gulf states, while diplomatic efforts gather pace - AP News
+- Should You Need to Prove Citizenship to Vote? Ask Kansas. - The New York Times
+- Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico
+- Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera
 - Iran Charges Some Ships Hormuz Transit Fees for Safe Passage - Bloomberg.com
 - Denmark holds early elections spurred by Trump's threats to take Greenland - NPR
-- Fate of Argentina’s disappeared remains ‘open wound’ as more victims identified - The Guardian
-- Stock market today: Dow, S&P 500, Nasdaq wobble after rally as Iran war drags on - Yahoo Finance
-- Global oil prices are back above $102 a barrel after Saudi Arabia and U.A.E. reportedly weigh joining Iran war - MarketWatch
-- Estée Lauder in talks on merger with Jean Paul Gaultier owner Puig - The Guardian
+- Israel's military to occupy swathe of southern Lebanon, defence minister says - Reuters
+- S&P 500 falls, giving back chunk of Monday’s rally as oil prices rebound, Iran war continues: Live updates - CNBC
 - Oil traders bet millions ahead of Trump's Iran talks post - BBC
+- LaGuardia pilots raised safety alarms months before deadly runway crash - The Guardian
+- Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant - WSJ
 - Fortnite Maker Epic Games Cuts About 1,000 Jobs Across Company - Bloomberg.com
-- Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC
+- Anthropic’s Claude Code and Cowork can control your computer - The Verge
