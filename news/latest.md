@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 20:37_
+_Updated: 2026-03-24 21:39_
 
+- Live updates: War with Iran; Iranian source acknowledges US ‘outreach’ as war rages on and oil prices climb over $100 - CNN
 - Senate Republicans believe they have a solution to reopen DHS and end airport chaos - NBC News
-- Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets - The Washington Post
-- Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened - The Guardian
-- Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera
-- Supreme Court Hears Trump Request to Block Asylum Seekers - The New York Times
-- Middle East crisis live: US to send thousands more soldiers, reports say; Lebanon faces ‘existential crisis’, official says - The Guardian
-- Don't want to get stuck in a 4-hour TSA line? United and Delta will let you change your flight. - Business Insider
-- Chavez Revelations Force Teachers to Rethink How They Teach His Legacy - The New York Times
+- Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border - The New York Times
 - A professional cornhole player and quadruple amputee is arrested for murder - NPR
-- Should You Need to Prove Citizenship to Vote? Ask Kansas. - The New York Times
-- Iran launches waves of missiles towards Israel - Al Jazeera
-- Iran Charges Some Ships Hormuz Transit Fees for Safe Passage - Bloomberg.com
-- At least 66 killed in military plane crash in Colombia, head of armed forces says - NPR
+- TSA wait times stretch up to 6 hours as ICE and other Homeland Security agents deployed to 14 airports - CBS News
+- Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga - NPR
+- Lines grow to 4 hours at Houston's IAH after hundreds of TSA officers quit - Houston Chronicle
+- Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war - NPR
+- Pentagon to Order 3,000 82nd Airborne Soldiers to Middle East - WSJ
+- Delta suspends special treatment for Congress as shutdown sows chaos in airports - Reuters
+- Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera
 - Denmark votes in an early election that follows a crisis over US designs on Greenland - AP News
+- Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says - The New York Times
+- Iran Charges Some Ships Hormuz Transit Fees for Safe Passage - Bloomberg.com
 - LaGuardia pilots raised safety alarms months before deadly runway crash - The Guardian
-- Oil traders bet millions ahead of Trump's Iran talks post - BBC
-- S&P 500 falls, giving back chunk of Monday’s rally as oil prices rebound, Iran war continues: Live updates - CNBC
-- Global oil prices trade above $103 a barrel after reports that Saudi Arabia and U.A.E. are weighing joining war against Iran - MarketWatch
-- Epic Games Cuts About 1,000 Jobs Across Company Amid ‘Fortnite’ Slump - Bloomberg.com
-- Anthropic’s Claude Code and Cowork can control your computer - The Verge
+- S&P 500 is little changed as Wall Street tries to build on Monday's rally: Live updates - CNBC
+- Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
+- Traders bet $500 million on oil price just before Trump's post on delay to Iran attack - Reuters
+- Epic Games lays off over 1,000 employees following "downturn in Fortnite engagement" - GamesIndustry.biz
+- Pokémon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com
