@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 08:39_
+_Updated: 2026-03-24 10:07_
 
 ## Top Stories
 
-- Uppåt på Asienbörserna efter Trumps Iranbesked - Västerbottens-Kuriren
 - Grundskoleelev tjänar 100 000 på olagliga peptidsprutor - Omni
-- Kraftig brand i Löddeköpinge - SVT Nyheter
+- Uppåt på Asienbörserna efter Trumps Iranbesked - Västerbottens-Kuriren
 - Debatt: Tidös migrationspolitik är inte bara en samhällsekonomisk katastrof utan även inhuman - VF
-- Direkt – Krisen i Mellanöstern – Explosion i Jerusalem - Dagens Nyheter
+- Kravet i Danmark – gör som svenskarna - Svenska Dagbladet
+- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
 - Petra hittade sina föräldrar mördade i hallen: ”Det är overkligt” - Dagens Nyheter
-- Havsörnen inte längre rödlistad: ”Trodde aldrig” - SVT Nyheter
-- Strömmer om mordet i Örebro: "Skakar om" - Västerbottens-Kuriren
-- Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
-- Amanda Lind (MP): Regeringens förslag ”alldeles otillräckligt” – Senaste nytt om valet 2026 - SVT Nyheter
+- Nästan 800 nya arter rödlistas – fjällugglan och tornugglan utdöda i Sverige - Dagens Nyheter
+- Åklagare om Rönningemordet: Stärkt bevisläge - Västerbottens-Kuriren
+- Regeringen: Ska bli lättare dra in uppehållstillstånd – Senaste nytt om valet 2026 - SVT Nyheter
+- Strömmer om mordet i Örebro: "Skakar om" - GP
+- Källa: Iran har mottagit ”punkter” från USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Svår flygkrasch med Herculesplan i Colombia - Corren
-- Pentagon ändrar regler – kastar ut journalister - Västerbottens-Kuriren
-- Uppgifter: Ungern läcker EU-hemligheter till Moskva - Dagens Nyheter
-- Här är de heta frågorna i danska valet: Invandring, ekonomi och grisar - GP
+- Pentagon kastar ut journalisterna - GP
+- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen - Via TT
-- Monopolaktier – vallgrav eller fälla? - Dagens PS
-- I skuggan av raset: "Fastighetsaktierna billiga och bortglömda" - Dagens PS
+- Börsen mot minusöppning – oljepriset stiger - Västerbottens-Kuriren
 - Grönt på asiatiska börser efter Trumps besked - Omni
-- INSÄNDARE: Varför inte sända ut en påminnelse en månad innan - Gefle Dagblad
-- Philips tv-apparater slutar med Google TV - m3.se
+- Bred börsuppgång i USA: ”Vaknade upp till goda nyheter” - EFN
+- Apple planerar att börja med annonser i Maps - Omni
+- 35-åring startar nytt entreprenadföretag i Ystad - Ystads Allehanda
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -94,11 +94,11 @@ _Updated: 2026-03-24 08:39_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
@@ -108,12 +108,12 @@ _Updated: 2026-03-24 08:39_
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -122,7 +122,7 @@ _Updated: 2026-03-24 08:39_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
