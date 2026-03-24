@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-25 01:02_
+_Updated: 2026-03-25 01:59_
 
-- Trump declares victory and claims Iran offers a 'prize' in talks Iran has denied having - NPR
-- U.S. expected to deploy troops from 82nd Airborne to Middle East for Iran war - CBS News
+- Trump declares Iran war ‘won’ as Tehran denies claims of peace talk progress - The Washington Post
 - Airport disruptions abound as senators chase deal to end Homeland Security budget standoff - AP News
-- Supreme Court questions what it means to be ‘in’ the US - Politico
-- Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown - CNBC
-- Miami Corruption Trial Gets a Marquee Witness: Marco Rubio - The New York Times
-- Minnesota officials filed a federal lawsuit against Trump administration over 3 shooting deaths - AP News
-- Gregory Bovino’s Final Days: Harsh Words and Few Regrets - The New York Times
+- Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’ as Missile Attacks Continue - The New York Times
+- Trump calls voting by mail ‘cheating’ just days after voting by mail - The Guardian
+- Congress loses a flying perk as DHS shutdown continues - NPR
+- Prosecutor admits government lacks evidence of misconduct by Fed chair - The Washington Post
+- Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims - Reuters
 - USC cancels gubernatorial debate amid uproar over candidates of color being excluded - Los Angeles Times
-- ICE agents are at airports to help TSA ease travel woes. Here’s what we know about their deployment - CNN
-- Iran says 'non-hostile' ships can transit Strait of Hormuz, FT reports - Reuters
-- Danish election: Exit poll says Frederiksen is on track to win after Trump clash - politico.eu
-- Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets - The Washington Post
+- Rubio returns to Miami to testify in Venezuela lobbying trial - Politico
+- How a County Sheriff Dethroned ‘North Carolina’s King’ - The New York Times
+- Iran says ‘non-hostile’ ships can transit Strait of Hormuz - Financial Times
+- Aid vessel arrives in Havana as Cuba’s economic and energy crises deepen - AP News
+- Danish election: Frederiksen is on track to win after Trump clash - politico.eu
 - Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says - The New York Times
-- New Mexico jury finds Meta violated consumer protection law at trial about child safety - Yahoo
-- Iran war sends US borrowing costs soaring by most since 2024 - Financial Times
+- LaGuardia airport's runway safety system 'did not alert' at time of deadly Air Canada jet and fire truck collision, NTSB says - Yahoo
 - Nobel laureate calls it 'treason': $580 million traded minutes before Trump's oil reversal - Fortune
 - Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ
-- Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety
-- Claude Code can now take over your computer to complete tasks - Ars Technica
+- Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
+- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump - The New York Times
+- Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge
