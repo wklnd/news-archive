@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 21:34_
+_Updated: 2026-03-24 22:04_
 
 ## Top Stories
 
 - Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
-- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
 - Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
-- Länsstyrelsens kontroll visar – tjurar självdog på gård i Jämtland - SVT Nyheter
-- Göteborgaren Kristina stannar kvar mitt i kriget: ”Jag har mitt liv här” - GP
-- Israel: Ska kontrollera södra Libanon i en ”säkerhetszon” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Cirka 200 djur omhändertagna – beslut idag - Östersunds-Posten
 - Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Man skadad i skjutning i Solna – en frihetsberövad - GP
-- Pojke misshandlades och förnedrades i fem timmar – män döms - Dagens Nyheter
+- AI hjälpte tonåring med mordplaner – skulle döda Irankännare - Sydsvenskan
+- Israel har tagit kontrollen över stort landområde i Libanon - GP
+- Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
+- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Fortfarande ingen gripen efter helgens dödsskjutning i Örebro - SVT Nyheter
+- Ledare: Det räcker inte att gå till val på att bara vara emot SD i regeringen - VF
+- Göteborgaren Kristina stannar kvar mitt i kriget: ”Jag har mitt liv här” - GP
 - Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Norska ministrar kallas in till Epstein-utfrågning - GP
-- Hemlig pro-iransk grupp hotar europeiska storstäder - Dagens Nyheter
-- De blir största vinnarna på Australienavtalet - Dagens industri
+- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
 - Grönt på asiatiska börser efter Trumps besked - Omni
 - Daytradern om börsen: ”Fantastiska tider” - Dagens Nyheter
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
-- Stadium varslar 100 tjänster – stort sparpaket - Expressen
+- United Airlines varnar: Biljettpriser kan skjuta i höjden vid dyrare bränsle - Börskollen
 - Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 
