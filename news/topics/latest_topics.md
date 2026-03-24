@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 01:56_
+_Updated: 2026-03-24 05:19_
 
 ## Top Stories
 
-- Stor förödelse i centrala Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nästan hela Europa inom räckvidd för Irans missiler - GP
+- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Strömmer om mordet i Örebro: "Skakar om" - Aftonbladet
-- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
-- Grönlänningar går till val på egen kustbevakning - Omni
-- Kvinna på LSS-boende övergavs i tio år – levde i misär och blev sexuellt utnyttjad - Sydsvenskan
-- Tusentals försvinner varje år – några hittas aldrig - GP
+- Expert: Uppseendeväckande nära kontakt med Ryssland - Dagens Nyheter
+- Dödssiffran stiger efter flygkrasch - Västerbottens-Kuriren
+- Kim Jong-un varnar USA – vill erkännas som kärnvapenmakt - SVT Nyheter
 - Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
 - Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
+- Amanda Lind (MP): Regeringens förslag ”alldeles otillräckligt” – Senaste nytt om valet 2026 - SVT Nyheter
 - Tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
-- Man utsatt för bluff – polisen ryckte ut - Bbl/AT
-- Direkt – Krisen i Mellanöstern – Netanyahu: Har talat med Trump - Dagens Nyheter
-- Svår flygkrasch med Herculesplan i Colombia - Corren
-- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- EU vill ha ungersk förklaring om rysskontakter - Västerbottens-Kuriren
+- IDF: Fortsatta attacker mot Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
+- Trump: USA kan styra Hormuzsundet med Iran - Aftonbladet
+- Vänstersegrar i Paris och Marseille - Aftonbladet
+- Bred börsuppgång i USA: ”Vaknade upp till goda nyheter” - EFN
 - Blodrött på börserna – så håller du dig lugn: ”Inte förlorat pengar” - NWT
-- New York-börsen tickar uppåt igen – Tesla trotsar sänkt riktkurs - EFN
-- Ställer in praktikplatsen: "Det är för dyrt att pendla" - Kuriren
-- Onlyfans-ägaren Leonid Radvinskyj död – blev 43 - Omni
-- Stall Wilma Fransson: Så ser siffrorna ut - Jönköpings-Posten
+- Oljetopp: Störningarna i Hormuzsundet inte inprisade - Dagens industri
+- IEA varnar: Jobba hemma och kör mindre – annars risk för ny oljekris - Aktuellt i Politiken
 - Då öppnar Apple WWDC 2026 - mobil.se
+- BofA upprepar sin köprekommendation på Apple - väntas lansera vikbar Iphone i år - Börsvärlden
 
 ## World News
 
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.org
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - New Secretary General appointed - Olof Palme International Center
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
@@ -108,32 +108,32 @@ _Updated: 2026-03-24 01:56_
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
+- 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
@@ -151,8 +151,8 @@ _Updated: 2026-03-24 01:56_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - De gick från reko till eko - ST-tidningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
