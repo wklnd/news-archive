@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 22:04_
+_Updated: 2026-03-24 23:04_
 
 ## Top Stories
 
 - Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
-- Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
-- Cirka 200 djur omhändertagna – beslut idag - Östersunds-Posten
-- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- AI hjälpte tonåring med mordplaner – skulle döda Irankännare - Sydsvenskan
-- Israel har tagit kontrollen över stort landområde i Libanon - GP
-- Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
-- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
-- Fortfarande ingen gripen efter helgens dödsskjutning i Örebro - SVT Nyheter
-- Ledare: Det räcker inte att gå till val på att bara vara emot SD i regeringen - VF
-- Göteborgaren Kristina stannar kvar mitt i kriget: ”Jag har mitt liv här” - GP
-- Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Norska ministrar kallas in till Epstein-utfrågning - GP
 - Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
+- Länsstyrelsens kontroll visar – tjurar självdog på gård i Jämtland - SVT Nyheter
+- Israel har tagit kontrollen över stort landområde i Libanon - GP
+- L i Huddinge vill inte samarbeta med SD - Mitt i
+- Trump: Iran går med på kärnvapendeal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
+- Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
+- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
+- Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”Tror mina barns immunförsvar klarar mässlingen” - Dagens Nyheter
+- Norska ministrar kallas in till Epsteinutfrågning - Omni
+- ”Jag hann inte ens packa våra pass – vi bara tog barnen och sprang” - Dagens Nyheter
 - Grönt på asiatiska börser efter Trumps besked - Omni
 - Daytradern om börsen: ”Fantastiska tider” - Dagens Nyheter
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
 - United Airlines varnar: Biljettpriser kan skjuta i höjden vid dyrare bränsle - Börskollen
-- Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
+- Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-03-24 22:04_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- #ScreenwritersEverywhere: Medie- och underhållningsfackföreningar i global solidaritet med WGA - UNI Global Union
 
 ## Technology
 
@@ -78,7 +78,6 @@ _Updated: 2026-03-24 22:04_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -87,6 +86,7 @@ _Updated: 2026-03-24 22:04_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -106,14 +106,14 @@ _Updated: 2026-03-24 22:04_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -122,7 +122,7 @@ _Updated: 2026-03-24 22:04_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -142,21 +142,21 @@ _Updated: 2026-03-24 22:04_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Stora anslag för innovationer i lantbruket - Lantbruksnytt
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
