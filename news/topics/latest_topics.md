@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 19:31_
+_Updated: 2026-03-24 20:31_
 
 ## Top Stories
 
-- Frederiksen slutspurtar: ”Väldigt viktigt” - GP
-- Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Pojke sköts ihjäl vid fotbollsplan i Vårby - Mitt i
-- Man skjuten i Solna – en person frihetsberövad - Dagens Nyheter
+- Løkke om valet: ”Väljarna kommer att överraska” - GP
+- Hennes son såg dödsskjutningen i Vårby: ”Traumatiserad” - SVT Nyheter
 - Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
-- Utrikesministern: Så drabbas Ukraina av kriget i Iran - GP
-- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Utrikesministern: Mycket talar för ett storkrig - Dagens Nyheter
+- ”Jag hann inte ens packa våra pass – vi bara tog barnen och sprang” - Dagens Nyheter
+- Sju nyförlösta fick farlig smitta av vårdanställd - Sydsvenskan
 - Åtal om mordförsök på Khoshnood – pojkar misstänks ha lejts för att döda - Dagens Nyheter
-- Pojke misshandlades och förnedrades i fem timmar – män döms - Dagens Nyheter
+- Kopplerihärva: Många misstänkta sexköpare åtalade - Västerbottens-Kuriren
+- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
+- Man skadad i skjutning i Solna – en frihetsberövad - GP
 - Kampsportande senator får ansvar för ICE - Sydsvenskan
+- Källa: Iran villiga att lyssna på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Hemlig pro-iransk grupp hotar europeiska storstäder - Dagens Nyheter
-- Norska ministrar kallas in till Epstein-utfrågning - Aftonbladet
-- ”Massiv” rysk attack efter Zelenskyjs varning - Västerbottens-Kuriren
+- Norska ministrar kallas in till Epsteinutfrågning - Omni
 - Grönt på asiatiska börser efter Trumps besked - Omni
-- Så styr Trump över börsen: ”Vet om det – och bryr sig” - Hufvudstadsbladet
-- Räntesmäll hotar – panikartad handel - GP
-- Privata Affärer: Håll er borta från Sivers – nyemission i korten - Dagens industri
-- USA pausar omloppsstation – satsar på månbas - Aftonbladet
-- Nu kan Claude Code och Cowork använda din dator - Computer Sweden
+- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen | Länsförsäkringar - Via TT
+- Daytradern om börsen: ”Fantastiska tider” - Dagens Nyheter
+- Stadium varslar 100 tjänster – stort sparpaket - Expressen
+- Gabriel Zetterström: Ska vi sluta göra egna spellistor nu? - Dagens Nyheter
+- Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-03-24 19:31_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - #ScreenwritersEverywhere: Medie- och underhållningsfackföreningar i global solidaritet med WGA - UNI Global Union
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 
 ## Technology
 
@@ -102,18 +102,18 @@ _Updated: 2026-03-24 19:31_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -135,7 +135,7 @@ _Updated: 2026-03-24 19:31_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
