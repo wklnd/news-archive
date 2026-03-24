@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 11:29_
+_Updated: 2026-03-24 12:26_
 
 ## Top Stories
 
-- Uppåt på Asienbörserna efter Trumps Iranbesked - SVT Nyheter
 - Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Flera åtalas för mordförsök på Irankännaren Arvin Khoshnood - TV4 Nyheterna
+- Två pojkar åtalas för försök till mord på Irankännare i Malmö - SVT Nyheter
 - Källa: Iran har mottagit ”punkter” från USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Unika siffran: 92 tonårsutvisningar på ett år - Aftonbladet
 - Grundskoleelev tjänar 100 000 på olagliga peptidsprutor - Omni
-- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
-- Havsörnen inte längre rödlistad: ”Trodde aldrig” - SVT Nyheter
+- Utrikesministern: USA:s plan är mycket oklar - Aftonbladet
+- Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
 - Åklagaren: Stärkt bevisläge i Rönningefallet - Dagens Nyheter
 - 4 av 10 av ensamstående föräldrar har svårt äta sig mätta - Dagens Arena
-- Regeringen: Ska bli lättare dra in uppehållstillstånd – Senaste nytt om valet 2026 - SVT Nyheter
-- Svår flygkrasch med Herculesplan i Colombia - Corren
+- I Sollefteå satsar försvaret när sjukhuset drar ned - Dagens Nyheter
+- Här är de heta frågorna i danska valet: Invandring, ekonomi och grisar - GP
 - EU vill ha ungersk förklaring om rysskontakter - Västerbottens-Kuriren
-- Pentagon ändrar regler – kastar ut journalister - Västerbottens-Kuriren
-- Tre döda i ryska attacker - Västerbottens-Kuriren
-- Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen - Via TT
-- DN Direkt – Misstänkt föremål i Åstorp var ofarligt - Dagens Nyheter
-- Ännu en storbank höjer bundna boräntor - Dagens industri
-- Grönt på asiatiska börser efter Trumps besked - Omni
+- Militärflygplan har kraschat i Colombia – 110 ombord - Dagens Nyheter
+- ”Massiv” rysk attack efter Zelenskyjs varning - Västerbottens-Kuriren
+- Så påverkas du av nya bolånereglerna - Dagens Nyheter
+- I skuggan av raset: "Fastighetsaktierna billiga och bortglömda" - Dagens PS
+- Träningsjätten om cyberattacken: Kan vara "mer omfattande" än först bedömt - Finanstid
+- Börsen mot minusöppning – oljepriset stiger - Västerbottens-Kuriren
 - Apple planerar att börja med annonser i Maps - Omni
-- 35-åring startar nytt entreprenadföretag i Ystad - Ystads Allehanda
+- Nu låter Instagram dig ändra bildordningen i efterhand. Äntligen! - feber.se
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
@@ -135,7 +135,7 @@ _Updated: 2026-03-24 11:29_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
