@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 05:19_
+_Updated: 2026-03-24 07:10_
 
 ## Top Stories
 
-- Nästan hela Europa inom räckvidd för Irans missiler - GP
-- Irans talman: Inga förhandlingar med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Strömmer om mordet i Örebro: "Skakar om" - Aftonbladet
-- Expert: Uppseendeväckande nära kontakt med Ryssland - Dagens Nyheter
-- Dödssiffran stiger efter flygkrasch - Västerbottens-Kuriren
-- Kim Jong-un varnar USA – vill erkännas som kärnvapenmakt - SVT Nyheter
-- Tonåring skjuten i Huddinge – mycket allvarligt skadad - Västerbottens-Kuriren
-- Liberalernas landsmöte havererade – Teimouri mitt i stormen: ”Höll mig lugn” - NWT
+- Uppåt på Asienbörserna efter Trumps Iranbesked - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Explosion i Jerusalem - Dagens Nyheter
+- Stor förödelse i centrala Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tre döda i ryska attacker - Västerbottens-Kuriren
+- Han kan avgöra vem som får styra Danmark - GP
+- Esma fick jobb – efter 16 år som arbetslös - GP
+- Tonåring skjuten i Huddinge – mycket allvarligt skadad - GP
+- DN Direkt – Liberalernas ledare i Stockholm hoppar av - Dagens Nyheter
+- Strömmer om mordet i Örebro: "Skakar om" - Västerbottens-Kuriren
 - Amanda Lind (MP): Regeringens förslag ”alldeles otillräckligt” – Senaste nytt om valet 2026 - SVT Nyheter
-- Tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
-- IDF: Fortsatta attacker mot Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Åtta döda när militärplan kraschade i Colombia - Corren
+- Uppgifter: Ungern läcker EU-hemligheter till Moskva - Dagens Nyheter
+- Försvunnen flicka i Mora hittad - SVT Nyheter
 - Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
-- Trump: USA kan styra Hormuzsundet med Iran - Aftonbladet
-- Vänstersegrar i Paris och Marseille - Aftonbladet
-- Bred börsuppgång i USA: ”Vaknade upp till goda nyheter” - EFN
+- Så påverkas du av nya bolånereglerna - Dagens Nyheter
+- Förtroendet rasar för USA – över 90 procent av svenska beslutsfattare tappar tilliten - Dagens PS
 - Blodrött på börserna – så håller du dig lugn: ”Inte förlorat pengar” - NWT
-- Oljetopp: Störningarna i Hormuzsundet inte inprisade - Dagens industri
-- IEA varnar: Jobba hemma och kör mindre – annars risk för ny oljekris - Aktuellt i Politiken
+- Trumps uttalande lyfte New York-börsen - Sydsvenskan
 - Då öppnar Apple WWDC 2026 - mobil.se
 - BofA upprepar sin köprekommendation på Apple - väntas lansera vikbar Iphone i år - Börsvärlden
 
@@ -31,8 +31,8 @@ _Updated: 2026-03-24 05:19_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - 40 years of RSF, 40 years of press freedom history - RSF.org
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -41,12 +41,12 @@ _Updated: 2026-03-24 05:19_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
