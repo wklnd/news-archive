@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 22:06_
+_Updated: 2026-03-24 23:21_
 
-- Trump says peace talks progressing as Iran officials deny negotiations - The Washington Post
-- Airport disruptions abound as senators chase deal to end Homeland Security budget standoff - AP News
+- Live updates: Iranian source says US initiated ‘outreach’ to end war, as Israel and Tehran continue to trade strikes - CNN
+- Pentagon prepares to send another 3,000 troops to Middle East - Politico
+- Senate Republicans believe they have a solution to reopen DHS and end airport chaos - NBC News
+- Quadruple amputee and bean-bag-toss champion accused of fatally shooting passenger while driving - BBC
 - Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border - The New York Times
-- A professional cornhole player and quadruple amputee is arrested for murder - NPR
-- Trump Has Options to Invade Iran—All of Them Would Cost Dearly - Newsweek
-- Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga - NPR
-- Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown - CNBC
-- WRAL reporter recounts more than two hours spent in TSA lines - WRAL
-- Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico
+- Rubio testifies against friend accused of secretly working for Maduro - The Washington Post
 - Should You Need to Prove Citizenship to Vote? Ask Kansas. - The New York Times
-- Pakistan's mediator role in Iran war puts Modi in hot seat - dw.com
+- Ex-border patrol chief defends his record after exit: ‘I wish I’d caught more illegal aliens’ - The Guardian
+- Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico
+- Minnesota officials filed a federal lawsuit against Trump administration over 3 shooting deaths - AP News
+- The Israeli military wants several more weeks to fight Iran war, officials say - NPR
 - Denmark votes in an early election that follows a crisis over US designs on Greenland - AP News
-- Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’ as Missile Attacks Continue - The New York Times
+- Middle East crisis live: Trump claims Iran has agreed ‘never’ to have a nuclear weapon as US reportedly sends thousands more troops - The Guardian
 - Iran Charges Some Ships Hormuz Transit Fees for Safe Passage - Bloomberg.com
-- What we know about the LaGuardia plane and fire truck crash - NBC News
+- Fire truck in LaGuardia crash lacked equipment needed to trigger runway warning system, NTSB says - AP News
+- Trump admin pivots on offshore shore wind leases in big shift - Axios
+- Traders bet $500 million on oil price just before Trump's post on delay to Iran attack - Reuters
 - Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
-- $580M oil trades made minutes before Trump’s key Iran announcement draw scrutiny - New York Post
-- Estée Lauder in talks on merger with Jean Paul Gaultier owner Puig - The Guardian
-- Epic Games lays off over 1,000 employees following "downturn in Fortnite engagement" - GamesIndustry.biz
-- Apple Releases iOS 26.4 and iPadOS 26.4 With New Emoji, Playlist Playground, Purchase Sharing Changes and More - MacRumors
+- Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety
+- Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks - Ars Technica
