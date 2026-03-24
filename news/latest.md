@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 05:21_
+_Updated: 2026-03-24 07:13_
 
-- Iran War Live Updates: Trump and Iran Send Conflicting Signals on Talks - WSJ
-- Markwayne Mullin confirmed as the next secretary of Homeland Security - NPR
-- ‘Don’t Make Any Deal’: Trump Tells Republicans to Hold Firm on Shutdown Talks - The New York Times
+- ‘Stop this savage being’: Iranians fear postponed Trump attack is merely disaster delayed - The Guardian
+- US Senate confirms Markwayne Mullin as homeland security chief - BBC
+- ‘The pressure is untenable’: Trump's deployment of ICE agents to airports ramps up shutdown fight - Politico
 - Chicago lawmaker ripped over 'disgusting' response to college student killed by alleged illegal immigrant - Fox News
-- Long lines persist at some U.S. airports despite arrival of ICE officers - The Washington Post
-- The Alito Wing of the Supreme Court Sure Sounds Sold on Trump’s Voter Fraud Lies - Slate
-- 'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash - BBC
-- Pentagon to remove media offices from building after judge strikes down rules for reporters - CBS News
+- Trump Says U.S. Is Negotiating With Iran, Which Publicly Denies His Claim - The New York Times
+- DHS funding talks in limbo after Trump calls on GOP to link bill to SAVE America Act - CBS News
+- Passengers Prepared for a Rough Landing Before Crash at LaGuardia - The New York Times
+- Pentagon revises rules for journalists after lawsuit loss, raising press group's ire - Axios
+- Supreme Court appears ready to limit mail-in balloting ahead of midterms - The Washington Post
 - Here’s what to know as the scope of damage from Hawaii’s floods becomes clearer - AP News
-- ‘We're in the testing phase’: Trump admin eyeing Iran’s parliament speaker as US-backed leader - Politico
-- Colombian military plane crash kills at least one, injures 77 - Al Jazeera
+- Colombian military plane crash kills at least 34, wounds dozens - Al Jazeera
+- ‘Absolute moral rigour’: new Paris mayor Emmanuel Grégoire’s ideals face stern test - The Guardian
 - Trump says he and 'the ayatollah' can share control of Strait of Hormuz - Middle East Eye
 - Referendum defeat brings Italy’s Meloni crashing down to earth - politico.eu
-- Canada’s Military Wants to Prove It Can Defend the High Arctic - The New York Times
+- Oil rises with Brent crossing $100 a barrel again as Middle East tensions keep traders on edge - CNBC
+- Shares jittery, oil rebounds as fragile relief rally sours - Reuters
 - Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant - WSJ
-- Shares rally, oil rebounds as Trump extends Iran ultimatum - Reuters
-- Apollo gives investors only 45% of requested withdrawals from $15 billion private credit fund - CNBC
-- Leonid Radvinsky, owner of OnlyFans, dies aged 43 - The Guardian
-- Apple sets June date for WWDC 2026, teasing ‘AI advancements’ - TechCrunch
+- The FCC Just Banned the Sale of New Wi-Fi Router Models Made Outside US - PCMag
+- Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch
 - While Intel Skipped Core Ultra 9 290K Plus, It Appeared At Geekbench With A Staggering 17% Higher Single And Multi-Core Score Than Ultra 9 285K - Wccftech
