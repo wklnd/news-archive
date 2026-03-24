@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 10:07_
+_Updated: 2026-03-24 11:29_
 
 ## Top Stories
 
-- Grundskoleelev tjänar 100 000 på olagliga peptidsprutor - Omni
-- Uppåt på Asienbörserna efter Trumps Iranbesked - Västerbottens-Kuriren
-- Debatt: Tidös migrationspolitik är inte bara en samhällsekonomisk katastrof utan även inhuman - VF
-- Kravet i Danmark – gör som svenskarna - Svenska Dagbladet
-- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
-- Petra hittade sina föräldrar mördade i hallen: ”Det är overkligt” - Dagens Nyheter
-- Nästan 800 nya arter rödlistas – fjällugglan och tornugglan utdöda i Sverige - Dagens Nyheter
-- Åklagare om Rönningemordet: Stärkt bevisläge - Västerbottens-Kuriren
-- Regeringen: Ska bli lättare dra in uppehållstillstånd – Senaste nytt om valet 2026 - SVT Nyheter
-- Strömmer om mordet i Örebro: "Skakar om" - GP
+- Uppåt på Asienbörserna efter Trumps Iranbesked - SVT Nyheter
+- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
+- Flera åtalas för mordförsök på Irankännaren Arvin Khoshnood - TV4 Nyheterna
 - Källa: Iran har mottagit ”punkter” från USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Grundskoleelev tjänar 100 000 på olagliga peptidsprutor - Omni
+- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
+- Havsörnen inte längre rödlistad: ”Trodde aldrig” - SVT Nyheter
+- Åklagaren: Stärkt bevisläge i Rönningefallet - Dagens Nyheter
+- 4 av 10 av ensamstående föräldrar har svårt äta sig mätta - Dagens Arena
+- Regeringen: Ska bli lättare dra in uppehållstillstånd – Senaste nytt om valet 2026 - SVT Nyheter
 - Svår flygkrasch med Herculesplan i Colombia - Corren
-- Pentagon kastar ut journalisterna - GP
-- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
+- EU vill ha ungersk förklaring om rysskontakter - Västerbottens-Kuriren
+- Pentagon ändrar regler – kastar ut journalister - Västerbottens-Kuriren
+- Tre döda i ryska attacker - Västerbottens-Kuriren
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen - Via TT
-- Börsen mot minusöppning – oljepriset stiger - Västerbottens-Kuriren
+- DN Direkt – Misstänkt föremål i Åstorp var ofarligt - Dagens Nyheter
+- Ännu en storbank höjer bundna boräntor - Dagens industri
 - Grönt på asiatiska börser efter Trumps besked - Omni
-- Bred börsuppgång i USA: ”Vaknade upp till goda nyheter” - EFN
 - Apple planerar att börja med annonser i Maps - Omni
 - 35-åring startar nytt entreprenadföretag i Ystad - Ystads Allehanda
 
@@ -31,7 +31,6 @@ _Updated: 2026-03-24 10:07_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Iran threatens to retaliate against Gulf energy and water after Trump ultimatum - Reuters
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
@@ -43,10 +42,11 @@ _Updated: 2026-03-24 10:07_
 - New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
@@ -79,17 +79,17 @@ _Updated: 2026-03-24 10:07_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
@@ -109,9 +109,9 @@ _Updated: 2026-03-24 10:07_
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
@@ -144,8 +144,8 @@ _Updated: 2026-03-24 10:07_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -153,10 +153,10 @@ _Updated: 2026-03-24 10:07_
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
