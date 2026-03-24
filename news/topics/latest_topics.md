@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-24 13:23_
+_Updated: 2026-03-24 14:04_
 
 ## Top Stories
 
-- Två pojkar åtalas för försök till mord på Irankännare i Malmö - SVT Nyheter
-- Regeringen föreslår ett nytt vandelskrav - Regeringen.se
-- Iranska attacker mot flera länder - Hufvudstadsbladet
-- Ministern: Mycket talar för ett långt storkrig - Västerbottens-Kuriren
-- Skottlossning i Solna – en skadad - Aftonbladet
+- Man skadad i skjutning vid torg i Solna - Omni
+- Fyra personer skadade i Tel Aviv – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nytt vandelskrav: De som inte sköter sig ska utvisas - Västerbottens-Kuriren
+- Ministern: Mycket talar för långvarigt storkrig - GP
+- Lina Lund: Hon är sossen som tjusar den europeiska högern - Dagens Nyheter
 - Känd Växjöprofil åtalas för grov hustrumisshandel - SVT Nyheter
 - Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
-- Åklagaren: Stärkt bevisläge i Rönningefallet - Dagens Nyheter
-- 4 av 10 av ensamstående föräldrar har svårt äta sig mätta - Dagens Arena
-- I Sollefteå satsar försvaret när sjukhuset drar ned - Dagens Nyheter
-- Nu ska Trumptämjaren Mette Frederiksen visa danskarna att hon inte är hård - Dagens Nyheter
-- Stenergard: Utgår från att det jag säger läcker - Västerbottens-Kuriren
+- Barnfattigdomen lägst på tio år, men fortsatt stora regionala skillnader - Statistikmyndigheten SCB
+- Två pojkar åtalas för försök till mord på Irankännare i Malmö - SVT Nyheter
+- Tonåring skjuten i Huddinge – mycket allvarligt skadad - GP
+- ”Respekterade ledaren” i Iran som Trump vill göra upp med - Dagens Nyheter
 - ”Massiv” rysk attack efter Zelenskyjs varning - Västerbottens-Kuriren
-- Ingmar Nevéus: Därför fyller Trump krigskassan åt Irans regim - Dagens Nyheter
+- Tom stol i Nuuk väcker dansk oro - Dagens Nyheter
+- Stenergard: Utgår från att det jag säger läcker - GP
 - Norge-förvaltaren efter börsrusningen: "En unik situation" - Affärsvärlden
 - Nya bolåneregler: lättare att köpa bostad – men större ansvar för hushållen - Via TT
 - I skuggan av raset: "Fastighetsaktierna billiga och bortglömda" - Dagens PS
-- Gymkedjan Sats hackad – läckan värre än befarat - Breakit
-- Apple planerar att börja med annonser i Maps - Omni
-- Apples AI-comeback: Det här väntas på WWDC - Dagens PS
+- DN Direkt – Misstänkt föremål i Åstorp var ofarligt - Dagens Nyheter
+- Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
+- Annonser släpps in i Kartor – ett sätt att fortsätta växa - Macworld.se
 
 ## World News
 
@@ -68,7 +68,7 @@ _Updated: 2026-03-24 13:23_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -89,6 +89,7 @@ _Updated: 2026-03-24 13:23_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
