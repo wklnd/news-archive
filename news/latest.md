@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 12:32_
+_Updated: 2026-03-24 13:29_
 
-- Trump backs off escalation, but Iran war goes on amid 'productive' talks - NBC News
-- Markwayne Mullin Confirmed as Homeland Security Secretary - The New York Times
-- Trump rejects Senate proposal to reopen DHS without ICE funding - PBS
-- Iran sends waves of missiles into Israel, dismisses Trump's talk of negotiations as 'fake news' - Reuters
-- Bannon says ICE at airports ‘test run’ for 2026 elections - The Hill
-- ‘False flag attack’: Iran denies claims it fired missiles at Diego Garcia - Al Jazeera
-- LaGuardia plane crash latest: Video of collision that killed two pilots released - The Independent
-- Trump says US and Iran are talking. His claim is eliciting market cheers and plenty of skepticism - AP News
-- Port Arthur explosion: Fire, smoke seen at Valero refinery - FOX 26 Houston
-- Tragedy of Loyola student’s alleged killing by migrant marked by his clouded history, political reaction - Chicago Tribune
-- Colombian military plane crash kills at least 66, wounds dozens - Al Jazeera
-- How to watch Denmark’s elections like a pro - politico.eu
+- Apartment in northern Israel hit by Iranian cluster missile - ynetnews
+- Trump news at a glance: president touts ‘strong talks’ with Iran that Iran says have not happened - The Guardian
+- ICE agents to be deployed at Philadelphia International Airport, sources say - 6abc Philadelphia
+- Live Updates: Trump calls off Strait of Hormuz ultimatum as Iran receives U.S. message from mediators - CBS News
+- ‘Don’t Make Any Deal’: Trump Tells Republicans to Hold Firm on Shutdown Talks - The New York Times
+- TSA lines at Houston airport turn into a 3-floor nightmare amid staffing shortage - CBS News
+- LaGuardia Airport Delays Could Last Days as Investigators Examine Crash: Live Updates - The New York Times
+- Large oil refinery explosion near Texas coast forces residents to shelter in place - AP News
+- US Park Police officer shot in Southeast DC - WTOP
+- Quadruple amputee athlete accused of shooting man, dumping body in Maryland - WJLA
+- At least 66 killed in military plane crash in Colombia, head of armed forces says - AP News
 - North Korea's Kim vows to ‘irreversibly’ cement nuclear status - Politico
-- UK counterterrorism police probe antisemitic arson attack as Iran-linked group claims responsibility - Fox News
-- Oil prices jump over 2% amid ongoing Middle East attacks - Investing.com
+- Polls open in key Denmark elections clouded by Trump’s Greenland threat - Al Jazeera
+- Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next? - The New York Times
 - Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant - WSJ
-- Morning Bid: Little relief from Trump - Reuters
+- Oil rises as markets assess supply risk after Iran denies US talks - Reuters
+- CNBC Daily Open: Unusual volume spikes and skepticism drive early trade - CNBC
 - Workers' job market gloom has increased dramatically over the past few years, Gallup survey finds - AP News
-- Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch
-- Claude Code and Cowork can now use your computer - Engadget
+- Oura Ring 5 leaks - GSMArena.com news - GSMArena.com
+- Android Auto is breaking for Pixel and Samsung users, and no one knows why - Android Authority
