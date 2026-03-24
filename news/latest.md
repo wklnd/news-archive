@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 14:33_
+_Updated: 2026-03-24 16:03_
 
-- Middle East war live: Iran launches missiles at Israel as Lebanon pounded - Financial Times
-- TSA lines at Houston airport turn into a 3-floor nightmare amid staffing shortage - CBS News
-- Republicans seek elusive path to restoring DHS funding - Axios
-- As parents age, their children face hard choices about when to take the car keys - NPR
-- Trump Began Iran Talks as Allies Warned War Is Becoming Disaster - Bloomberg.com
-- ‘Don’t Make Any Deal’: Trump Tells Republicans to Hold Firm on Shutdown Talks - The New York Times
-- LaGuardia Airport Delays Could Last Days as Investigators Examine Crash: Live Updates - The New York Times
+- Live updates: Mixed signals on Iran talks as war rages on and oil prices climb back over $100 - CNN
 - ICE agents to be deployed at Philadelphia International Airport, sources say - 6abc Philadelphia
+- Houston airport's only 2 TSA checkpoints pass 4-hour waits after ICE arrival - Houston Chronicle
+- Live Updates: US-Israeli war against Iran rages on in fourth week - The Jerusalem Post
+- Republicans seek elusive path to restoring DHS funding - Axios
+- ICE deployments created chaos for cities and cost them millions, NPR analysis finds - NPR
+- LaGuardia Crash Live Updates: Flight Delays Could Last Days Amid Investigation Into Deadly Collision - The New York Times
 - He was Rubio’s friend and roommate. Now Rubio will testify against him. - The Washington Post
-- Reported explosion at Valero in Port Arthur sends black smoke and fire skyward - KFDM
+- Quadruple amputee pro cornhole player charged with murder in Md. shooting - WTOP
+- Shelter in place issued for residents in Port Arthur after explosion at Valero refinery - Click2Houston
 - At least 66 killed in military plane crash in Colombia, head of armed forces says - NPR
+- Smotrich says Litani River should be Israel’s new border with Lebanon - The Times of Israel
 - Kim vows to ‘irreversibly’ cement North Korea’s nuclear status - AP News
 - Arson attack targets Antwerp Haredi neighborhood; Islamic group says attacks will intensify - ynetnews
-- Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next? - The New York Times
 - Estée Lauder in Talks to Acquire Spain’s Puig to Create Global Beauty Giant - WSJ
-- CNBC Daily Open: Unusual volume spikes and skepticism drive early trade - CNBC
-- Stock Market Today: Dow Futures Slip, Brent Crude Rises Above $100 - WSJ
-- Workers' job market gloom has increased dramatically over the past few years, Gallup survey finds - AP News
-- Anthropic's Claude Can Now Control Your Computer - CNET
-- Android Auto is breaking for Pixel and Samsung users, and no one knows why - Android Authority
+- Live Updates: Iran war rages as oil and stock markets grapple with conflicting messages from Trump and Tehran - CBS News
+- Stocks fall, giving back chunk of Monday's rally as oil prices rebound, Iran war continues: Live updates - CNBC
+- It’s a bad time to hunt for new jobs, most US workers say in new Gallup poll - AP News
+- Microsoft Aims to Supercharge Windows Performance and Cut RAM Waste in 2026 - PCMag
+- Claude can now automate your entire desktop, but with a serious limitation - XDA
