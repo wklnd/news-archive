@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-24 21:39_
+_Updated: 2026-03-24 22:06_
 
-- Live updates: War with Iran; Iranian source acknowledges US ‘outreach’ as war rages on and oil prices climb over $100 - CNN
-- Senate Republicans believe they have a solution to reopen DHS and end airport chaos - NBC News
+- Trump says peace talks progressing as Iran officials deny negotiations - The Washington Post
+- Airport disruptions abound as senators chase deal to end Homeland Security budget standoff - AP News
 - Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border - The New York Times
 - A professional cornhole player and quadruple amputee is arrested for murder - NPR
-- TSA wait times stretch up to 6 hours as ICE and other Homeland Security agents deployed to 14 airports - CBS News
+- Trump Has Options to Invade Iran—All of Them Would Cost Dearly - Newsweek
 - Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga - NPR
-- Lines grow to 4 hours at Houston's IAH after hundreds of TSA officers quit - Houston Chronicle
-- Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war - NPR
-- Pentagon to Order 3,000 82nd Airborne Soldiers to Middle East - WSJ
-- Delta suspends special treatment for Congress as shutdown sows chaos in airports - Reuters
-- Pakistan ‘ready to host US-Iran talks’: Can latest peace push work? - Al Jazeera
+- Delta suspends 'specialty services' perk for members of Congress, cites DHS shutdown - CNBC
+- WRAL reporter recounts more than two hours spent in TSA lines - WRAL
+- Stitt picks energy executive Alan Armstrong as next Oklahoma senator - Politico
+- Should You Need to Prove Citizenship to Vote? Ask Kansas. - The New York Times
+- Pakistan's mediator role in Iran war puts Modi in hot seat - dw.com
 - Denmark votes in an early election that follows a crisis over US designs on Greenland - AP News
-- Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says - The New York Times
+- Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’ as Missile Attacks Continue - The New York Times
 - Iran Charges Some Ships Hormuz Transit Fees for Safe Passage - Bloomberg.com
-- LaGuardia pilots raised safety alarms months before deadly runway crash - The Guardian
-- S&P 500 is little changed as Wall Street tries to build on Monday's rally: Live updates - CNBC
+- What we know about the LaGuardia plane and fire truck crash - NBC News
 - Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
-- Traders bet $500 million on oil price just before Trump's post on delay to Iran attack - Reuters
+- $580M oil trades made minutes before Trump’s key Iran announcement draw scrutiny - New York Post
+- Estée Lauder in talks on merger with Jean Paul Gaultier owner Puig - The Guardian
 - Epic Games lays off over 1,000 employees following "downturn in Fortnite engagement" - GamesIndustry.biz
-- Pokémon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com
+- Apple Releases iOS 26.4 and iPadOS 26.4 With New Emoji, Playlist Playground, Purchase Sharing Changes and More - MacRumors
