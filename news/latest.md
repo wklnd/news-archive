@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-25 01:59_
+_Updated: 2026-03-25 05:29_
 
-- Trump declares Iran war ‘won’ as Tehran denies claims of peace talk progress - The Washington Post
-- Airport disruptions abound as senators chase deal to end Homeland Security budget standoff - AP News
-- Iran War Live Updates: Trump Asserts Iran Wants to ‘Make a Deal’ as Missile Attacks Continue - The New York Times
-- Trump calls voting by mail ‘cheating’ just days after voting by mail - The Guardian
+- Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District - The New York Times
+- U.S. expected to deploy troops from 82nd Airborne to Middle East for Iran war - CBS News
+- Trump sinks to record low approval rating due to Iran war in new poll - USA Today
+- Court denies AG’s petition to block Republican sheriff’s investigation of 650,000 ballots - Los Angeles Times
+- Trump casts Florida mail ballot as he pushes Congress to severely limit that voting option - AP News
 - Congress loses a flying perk as DHS shutdown continues - NPR
-- Prosecutor admits government lacks evidence of misconduct by Fed chair - The Washington Post
-- Meta ordered to pay $375 million in New Mexico trial over child exploitation, user safety claims - Reuters
-- USC cancels gubernatorial debate amid uproar over candidates of color being excluded - Los Angeles Times
-- Rubio returns to Miami to testify in Venezuela lobbying trial - Politico
-- How a County Sheriff Dethroned ‘North Carolina’s King’ - The New York Times
-- Iran says ‘non-hostile’ ships can transit Strait of Hormuz - Financial Times
-- Aid vessel arrives in Havana as Cuba’s economic and energy crises deepen - AP News
-- Danish election: Frederiksen is on track to win after Trump clash - politico.eu
-- Israel Plans to Control Large Parts of Southern Lebanon, Defense Minister Says - The New York Times
-- LaGuardia airport's runway safety system 'did not alert' at time of deadly Air Canada jet and fire truck collision, NTSB says - Yahoo
-- Nobel laureate calls it 'treason': $580 million traded minutes before Trump's oil reversal - Fortune
-- Exclusive | OpenAI Scraps Sora Video Platform Months After Launch - WSJ
+- Wait times at IAH shrink after day of TSA delays - Houston Chronicle
+- Wife of Maui doctor describes terrifying birthday hike at attempted murder trial - NBC News
+- DHS funding proposal falls flat as Democrats, conservatives and Trump raise doubts - Politico
+- USC cancels gubernatorial debate following criticism over exclusion of candidates of color - KTLA
+- Denmark’s Frederiksen bruised in election, as voters put Trump’s Greenland ambitions to the side - CNN
+- Middle East crisis live: Oil prices drop after reports of Trump peace plan; elite US airborne division reportedly headed to region - The Guardian
+- Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
+- Aid flotilla vessel arrives in Cuba amid US-driven energy crisis - Al Jazeera
+- OpenAI will shutter Sora video app - Axios
 - Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
-- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump - The New York Times
+- Oil traders bet millions ahead of Trump's Iran talks post - BBC
+- New Mexico jury says Meta harms children’s mental health and safety, violating state law - AP News
+- Epic Games cuts 1,000 jobs as Fortnite 'magic' fades in 'extreme' market conditions - Fox Business
 - Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge
