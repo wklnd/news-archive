@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 21:25_
+_Updated: 2026-03-25 22:01_
 
 ## Top Stories
 
 - Skottlossning i Tyresö – en allvarligt skadad - Mitt i
-- Person skjuten i Malmö – två tonåringar gripna - Svenska Dagbladet
-- Källa i iransk statlig tv: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Pojke skjuten i Malmö – två tonåringar gripna - Aftonbladet
 - Trots omsvängningen: Liberalerna kvar på bottennivåer - Dagens Nyheter
 - ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
+- Källa i iransk statlig tv: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Frederiksen får försöka bilda regering - Västerbottens-Kuriren
-- Larm om flera fast i lavin vid Riksgränsen - Corren
+- En allvarligt skadad efter lavin vid Riksgränsen - Västerbottens-Kuriren
 - Höjd säkerhet vid kontor - 8 Sidor
 - Blåmussla, älg och lax nya på rödlistan – havsörnen lämnar - Forskning.se
-- Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
+- Katja Nyberg körde bil – trots återkallat körkort – Senaste nytt om valet 2026 - SVT Nyheter
 - Journalistavlyssning utreds i Bryssel - Västerbottens-Kuriren
-- Nathan Shachar: Trumps Gaza-plan är lagd på is – medan Hamas återtar kontrollen - Dagens Nyheter
-- Påven Leo: Mitt i krigets vansinne måste vi försvara livet i alla dess stadier - Vatican News
+- Direkt – Krisen i Mellanöstern – ISW: Fartyg får betala för passage i Hormuz - Dagens Nyheter
 - ÖB i Washington för samtal om Iran och Ukraina - Omni
+- Tullmuren faller: Fordonsbranschen jublar - Metal Supply
 - Domstol: Meta och Youtube skyldiga till att orsaka psykisk ohälsa - SVT Nyheter
 - Första banken har höjt rörliga boräntan – fler lär följa - DI
-- Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
+- KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
 - Solvigs chockbesked om pensionen: 3,6 miljoner kronor - Expressen
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
-- Fynd på Mars: Spår av floder under marken - Svenska Dagbladet
+- Fynd på Mars: Spår av floder under marken - Aftonbladet
 
 ## World News
 
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
@@ -73,16 +73,17 @@ _Updated: 2026-03-25 21:25_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -91,13 +92,14 @@ _Updated: 2026-03-25 21:25_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -110,7 +112,6 @@ _Updated: 2026-03-25 21:25_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
