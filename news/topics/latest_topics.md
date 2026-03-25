@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 10:06_
+_Updated: 2026-03-25 11:28_
 
 ## Top Stories
 
-- Regeringspartierna straffas i danska valet - Dagens Arena
 - Demoskop: Liberalerna över spärren – plockar från SD - Aftonbladet
-- Nyberg körde bil – trots återkallat körkort - SVT Nyheter
-- Ryska drönare slog ned i Estland och Lettland - Västerbottens-Kuriren
-- Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Elstödet: Så mycket får du och då kommer pengarna - Västerbottens-Kuriren
+- Katja Nyberg körde bil – trots återkallat körkort - SVT Nyheter
 - Pensionärernas kamp mot polisen – om JLC-guldet - GP
+- Tidöpartierna går vidare med omdebatterade lagen - Dagens Nyheter
+- Regeringspartierna straffas i danska valet - Dagens Arena
 - Svenskar läser till läkare utomlands trots bottenresultat - Omni
-- Nyberg körde bil – trots återkallat körkort – Senaste nytt om valet 2026 - SVT Nyheter
-- Elstödet: Så mycket får du och då kommer pengarna - GP
-- Tonåring död efter skott vid fotbollsplan - Västerbottens-Kuriren
+- Därför tar de 350 000 och flyttar ifrån Sverige - Expressen
+- Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
+- Varning för bedragare som utger sig att vara från polisen - polisen.se
+- Ryska drönare slog ned i Estland och Lettland - Västerbottens-Kuriren
+- Iran: USA förhandlar med sig själva - GP
 - Rysk drönarattack – 948 drönare på ett dygn - Expressen
-- Minnesota stämmer regeringen efter dödsskjutningar - Västerbottens-Kuriren
-- Iran villkorar trafik genom Hormuzsundet - Aftonbladet
-- Källor: USA har skickat en fredsplan - Expressen
-- Ännu en storbank höjer bolåneräntorna - Dagens industri
-- Så påverkas du av nya bolånereglerna - Expressen
-- Stockholmsbörsen steg – men storbankerna föll - Västerbottens-Kuriren
-- Domen: Barn tar skada av Facebook – ska betala 3,5 miljarder - Omni
-- Användningen av autonoma AI-agenter ökar, men riskerna är stora - Computer Sweden
-- Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
+- Minnesota stämmer regeringen efter dödsskjutningar - Sydsvenskan
+- Därför höjer första banken korta boräntan - Dagens industri
+- Konjunkturinstitutet spår att tillväxten bromsar in under Q1 - Börsvärlden
+- Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
+- Svenskarna sparar skatteåterbäringen 2026 varannan stärker bufferten - Örebronyheter
+- Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
+- Claude kan nu styra din dator – men du bör vara försiktig - PC för Alla
 
 ## World News
 
@@ -38,8 +38,8 @@ _Updated: 2026-03-25 10:06_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -73,11 +73,11 @@ _Updated: 2026-03-25 10:06_
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -93,26 +93,26 @@ _Updated: 2026-03-25 10:06_
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -144,18 +144,18 @@ _Updated: 2026-03-25 10:06_
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- De gick från reko till eko - ST-tidningen
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
