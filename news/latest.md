@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-25 07:13_
+_Updated: 2026-03-25 08:42_
 
 - Democrat wins Florida house district containing Trump's Mar-a-Lago estate - BBC
-- Live Updates: Iran war rages with Pentagon expected to send 82nd Airborne troops to Middle East - CBS News
-- TSA employees at ‘breaking point’ - Federal News Network
-- USC cancels gubernatorial debate amid uproar over candidates of color being excluded - Los Angeles Times
-- Delta Air Lines Says It Will Suspend Special Services for Congress Members - The New York Times
-- Court denies California’s bid to halt Riverside sheriff’s recount of 2025 election ballots - CalMatters
-- DHS funding proposal falls flat as Democrats, conservatives and Trump raise doubts - Politico
-- N.C. Senate's top Republican concedes in primary decided by 23 votes - NBC News
-- Prosecutor conceded lack of criminal evidence in Federal Reserve investigation, transcript shows - AP News
-- Wife of Hawaii doctor takes stand exactly 1 year after he allegedly tried to kill her - CBS News
-- Middle East crisis live: Fire at Kuwait airport after drone attack; elite US airborne division reportedly headed to region - The Guardian
-- The Israeli military wants several more weeks to fight Iran war, officials say - NPR
-- Danish election produces inconclusive result that leaves prime minister’s future unclear - AP News
+- Army paratroopers ordered to Middle East as U.S. weighs next move in Iran conflict - The Washington Post
+- U.S. Sends Iran 15-Point Plan to End War - WSJ
+- Exclusive: Trump's approval hits new 36% low as fuel prices surge amid Iran war, Reuters/Ipsos poll finds - Reuters
 - Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
+- TSA employees at ‘breaking point’ - Federal News Network
+- T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport - The New York Times
+- Senate Republicans pitch deal to end DHS shutdown, but Trump isn’t sold - The Washington Post
+- Prosecutor conceded lack of criminal evidence in Federal Reserve investigation, transcript shows - AP News
+- Trump says talks with Iran progressing, as Israel said to fear premature ceasefire - The Times of Israel
+- Survivor, Denmark: Mette Frederiksen clings on — offering lessons for Europe’s left - politico.eu
+- The Israeli military wants several more weeks to fight Iran war, officials say - NPR
+- Social media bans and digital curfews to be trialled on UK teenagers - BBC
+- Rubio plans travel to France to sell Iran war to skeptical G7 allies - AP News
 - Oil price slides as Trump talks up Iran peace negotiations - BBC
+- Meta Offers Top Execs Stock Options for First Time Since IPO - Bloomberg.com
 - OpenAI will shutter Sora video app - Axios
-- Stock futures rise on report that the U.S. has sent Iran a plan to end the war: Live updates - CNBC
-- An air traffic controller was juggling extra roles during the LaGuardia plane crash - NPR
+- Trading Day: This ain't over - Reuters
+- Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign - 9to5Google
 - Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety
-- Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge
