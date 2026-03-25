@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 15:54_
+_Updated: 2026-03-25 17:45_
 
 ## Top Stories
 
-- Larm om flera fast i lavin vid Riksgränsen - Corren
-- Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Historiskt svåra förhandlingar kan sluta med den enklaste av regeringar - Altinget.se
-- Lena och Anders slogs ihjäl – Eddie Bager döms till livstid - Aftonbladet
-- Katja Nyberg saknar körkort – körde bil ändå - GP
-- Fler poliser men färre uppklarade mängdbrott - Omni
-- Stärkt återvändandeverksamhet - Regeringen.se
+- Uppgifter: Person skjuten i Tyresö - Aftonbladet
+- Gabriel Zetterström: Sverige kan lära en läxa av den danska socialdemokratins bakslag - Dagens Nyheter
+- Iransk källa: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fem återfunna i lavin vid Riksgränsen - Västerbottens-Kuriren
+- Här är barnfattigdomen lägst i Sverige – Göteborgsområdet sticker ut - GP
+- Livstids fängelse för dubbelmordet i Klippan - Folkbladet
+- Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
+- Fem har beviljats bidrag för att återvandra: ”Tacksam” - Omni
 - Regeringen: Beredskapssjukhus behövs i norra Sverige – kan bli räddningen i Sollefteå - Dagens Nyheter
-- Här är vägarna med mest trafikolyckor under påsken - SVT Nyheter
-- Polisen varnar för bedragare: "Våga vara otrevlig och lägg på" - Norran
+- Kvinna döms till fängelse efter dödskraschen på Bönavägen i Gävle - SVT Nyheter
 - Journalistavlyssning utreds i Bryssel - Västerbottens-Kuriren
-- Ny attack mot rysk oljehamn i Finska viken - GP
-- Direkt – Krisen i Mellanöstern – Flygplats i Kuwait attackerad med drönare - Dagens Nyheter
-- Drönarkränkningar i Baltikum - Aftonbladet
-- Ännu en storbank höjer bolåneräntorna - DI
+- Ukrainska drönare kraschade i Estland och Lettland - GP
+- Nathan Shachar: Trumps Gaza-plan är lagd på is – medan Hamas återtar kontrollen - Dagens Nyheter
+- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
 - KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
 - Länsförsäkringar: Varannan svensk sparar skatteåterbäringen - Sak & Liv
-- Ledare: Generösare bolåneregler kan kosta förstagångsköpare i Karlstad mer än de smakar - VF
-- Nu kan Claude Code och Cowork använda din dator - Computer Sweden
+- Anna Seim övervägde höjning av räntebanan - Finanswatch.se
+- Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
+- Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
@@ -38,12 +38,12 @@ _Updated: 2026-03-25 15:54_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
@@ -60,11 +60,11 @@ _Updated: 2026-03-25 15:54_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -93,47 +93,43 @@ _Updated: 2026-03-25 15:54_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
+- ADDI Medical lanserar nu den prisbelönta digitala föräldrautbildningen HOPE Gravid - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- ADDI Medical tecknar 3-årigt regionsövergripande avtal med Region Halland - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -141,21 +137,21 @@ _Updated: 2026-03-25 15:54_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
