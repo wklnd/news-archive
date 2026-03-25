@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 17:45_
+_Updated: 2026-03-25 19:35_
 
 ## Top Stories
 
-- Uppgifter: Person skjuten i Tyresö - Aftonbladet
+- Skjutning i Tyresö söder om Stockholm – en allvarligt skadad - TV4 Nyheterna
 - Gabriel Zetterström: Sverige kan lära en läxa av den danska socialdemokratins bakslag - Dagens Nyheter
 - Iransk källa: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fem återfunna i lavin vid Riksgränsen - Västerbottens-Kuriren
 - Här är barnfattigdomen lägst i Sverige – Göteborgsområdet sticker ut - GP
-- Livstids fängelse för dubbelmordet i Klippan - Folkbladet
+- Lavin vid Riksgränsen – fem drogs med - Aftonbladet
+- Trots omsvängningen: Liberalerna kvar på bottennivåer - Dagens Nyheter
 - Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
 - Fem har beviljats bidrag för att återvandra: ”Tacksam” - Omni
-- Regeringen: Beredskapssjukhus behövs i norra Sverige – kan bli räddningen i Sollefteå - Dagens Nyheter
-- Kvinna döms till fängelse efter dödskraschen på Bönavägen i Gävle - SVT Nyheter
+- Kvinna får fängelse för dödlig krasch i Gävle - GP
+- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
 - Journalistavlyssning utreds i Bryssel - Västerbottens-Kuriren
-- Ukrainska drönare kraschade i Estland och Lettland - GP
 - Nathan Shachar: Trumps Gaza-plan är lagd på is – medan Hamas återtar kontrollen - Dagens Nyheter
-- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
+- Ny attack mot rysk oljehamn i Finska viken - GP
+- Påven Leo: Mitt i krigets vansinne måste vi försvara livet i alla dess stadier - Vatican News
 - KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
+- Första banken har höjt rörliga boräntan – fler lär följa - DI
 - Länsförsäkringar: Varannan svensk sparar skatteåterbäringen - Sak & Liv
 - Anna Seim övervägde höjning av räntebanan - Finanswatch.se
-- Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 - Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -38,15 +39,14 @@ _Updated: 2026-03-25 17:45_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -58,17 +58,17 @@ _Updated: 2026-03-25 17:45_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
@@ -86,7 +86,6 @@ _Updated: 2026-03-25 17:45_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -94,21 +93,25 @@ _Updated: 2026-03-25 17:45_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- ADDI Medical lanserar nu den prisbelönta digitala föräldrautbildningen HOPE Gravid - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
-- ADDI Medical tecknar 3-årigt regionsövergripande avtal med Region Halland - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 
 ## Science
 
@@ -122,14 +125,14 @@ _Updated: 2026-03-25 17:45_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -137,21 +140,21 @@ _Updated: 2026-03-25 17:45_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
