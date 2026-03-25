@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-26 00:06_
+_Updated: 2026-03-26 01:07_
 
-- Middle East crisis live: confusion mounts as US and Iran issue latest contradictory statements on talks to end war - The Guardian
+- Trump admin pitches 15-point Iran peace proposal as Pakistan offers to hold talks - Fox News
 - Trump accused of showing classified map to passengers on private flight - BBC
-- Travelers are facing the longest TSA wait times in history - NPR
+- Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why. - The New York Times
 - Iran building up defenses of Kharg Island to protect against potential US ground attack, sources say - CNN
-- DHS shutdown live updates as Senate funding deal stalls over Democrats' latest offer - CBS News
-- Kelsey Fitzsimmons takes stand in own defense in assault trial - WCVB
-- What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post
-- Live updates: White House says Iran talks proceeding as foreign minister denies negotiations - CNN
+- Another appeals court backs Trump administration’s mass detention policy - Politico
+- Travelers are facing the longest TSA wait times in history - NPR
+- Special election shocker has Florida Republicans nervous about redistricting - Politico
 - A Critical Political Season Could Decide if Alaska Is a Failed ‘Petrostate’ - The New York Times
-- White House says Trump will meet Xi in China in May - CNBC
-- Denmark’s prime minister given first chance at forming government after election - The Guardian
-- Hezbollah chief rejects Israel talks as ‘surrender’ amid continued IDF strikes - The Times of Israel
-- Despite Incompatible Demands, U.S.-Iran Deal Is Possible - WSJ
+- DHS shutdown live updates as Senate funding deal stalls over Democrats' latest offer - CBS News
+- Melania Trump pitches robots as potential educators for American schoolchildren - CBS News
+- Belarusian President Lukashenko arrives in North Korea for talks with Kim Jong Un - AP News
 - Iran strikes Israeli chemical complex linked to white phosphorus production - thecradle.co
-- Meta and YouTube Found Negligent in Landmark Social Media Addiction Case - The New York Times
-- Jensen Huang and Mark Zuckerberg among tech leaders appointed to White House advisory council - Politico
-- Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal - Investor's Business Daily
-- $8.71 a gallon? Welcome to L.A.’s most infamous gas station - Los Angeles Times
+- For the first time in more than 1,400 years, Church of England gets a woman leader - NPR
+- US-Israel war on Iran: What’s happening on day 26 of attacks? - Al Jazeera
+- Jury finds Instagram and YouTube liable in a landmark social media addiction trial - AP News
+- Oil Falls, US Stock Futures Climb on Iran Hopes: Markets Wrap - Bloomberg.com
+- Exclusive | Postal Service to Impose Its First-Ever Fuel Surcharge on Packages - WSJ
+- Larry Fink: Iran war has two outcomes, abundance and growth or global recession - Fortune
+- Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior - TechCrunch
 - Amazon Prime Day 'Big Spring Sale' Introduces Major Discounts on AirPods, iPads, AirTag, and Much More - MacRumors
-- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump - The New York Times
