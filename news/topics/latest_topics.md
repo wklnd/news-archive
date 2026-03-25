@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 19:35_
+_Updated: 2026-03-25 20:30_
 
 ## Top Stories
 
-- Skjutning i Tyresö söder om Stockholm – en allvarligt skadad - TV4 Nyheterna
-- Gabriel Zetterström: Sverige kan lära en läxa av den danska socialdemokratins bakslag - Dagens Nyheter
-- Iransk källa: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- En person allvarligt skadad efter skottlossning i Tyresö - SVT Nyheter
+- Lena Skogberg Mette Frederiksen pressas hårt i danskt regeringsdrama - Hufvudstadsbladet
+- Iran: USA förhandlar med sig själva - Västerbottens-Kuriren
 - Här är barnfattigdomen lägst i Sverige – Göteborgsområdet sticker ut - GP
-- Lavin vid Riksgränsen – fem drogs med - Aftonbladet
-- Trots omsvängningen: Liberalerna kvar på bottennivåer - Dagens Nyheter
-- Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
-- Fem har beviljats bidrag för att återvandra: ”Tacksam” - Omni
-- Kvinna får fängelse för dödlig krasch i Gävle - GP
+- Elstödet: Så mycket får du och då kommer pengarna - Västerbottens-Kuriren
+- Skjutning i Malmö – två gripna - Aftonbladet
 - Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
+- Minst tre skadade i lavin vid Riksgränsen - Västerbottens-Kuriren
+- Höjd säkerhet vid kontor - 8 Sidor
+- Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
 - Journalistavlyssning utreds i Bryssel - Västerbottens-Kuriren
 - Nathan Shachar: Trumps Gaza-plan är lagd på is – medan Hamas återtar kontrollen - Dagens Nyheter
-- Ny attack mot rysk oljehamn i Finska viken - GP
+- ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
 - Påven Leo: Mitt i krigets vansinne måste vi försvara livet i alla dess stadier - Vatican News
-- KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
+- Linus Larsson: Meta och Google fälls – nu lär det bli fler rättegångar - Dagens Nyheter
 - Första banken har höjt rörliga boräntan – fler lär följa - DI
-- Länsförsäkringar: Varannan svensk sparar skatteåterbäringen - Sak & Liv
 - Anna Seim övervägde höjning av räntebanan - Finanswatch.se
+- KI: Ekonomin återhämtar sig trots oro – höjda räntor - Omni
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 - Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
@@ -93,8 +93,8 @@ _Updated: 2026-03-25 19:35_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -116,20 +116,20 @@ _Updated: 2026-03-25 19:35_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
