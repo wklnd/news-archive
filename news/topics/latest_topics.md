@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 00:02_
+_Updated: 2026-03-26 01:03_
 
 ## Top Stories
 
-- Pojke skjuten i Malmö – två 15-åringar gripna - Omni
+- Pojke död efter skjutning i Malmö – två 15-åringar gripna - Omni
 - Vändningen: Fem skjutningar bara sedan helgen - Västerbottens-Kuriren
-- ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
-- Elstödet: Så mycket får du och då kommer pengarna - Västerbottens-Kuriren
-- Trots omsvängningen: Liberalerna kvar på bottennivåer - Dagens Nyheter
-- Ny mötesdag klar för USA:s Trump och Kinas Xi - GP
-- Skjutning på buss – en allvarligt skadad - Västerbottens-Kuriren
-- Minst tre skadade i lavin vid Riksgränsen - GP
+- Peter Alestig: Som att sätta plåster på narkomanens sprutmärken - Dagens Nyheter
+- Vägras på E12 norr om Hemavan - SVT Nyheter
+- Svårt skadad i skjutning på buss: ”Total chock” - Svenska Dagbladet
+- Direkt – Krisen i Mellanöstern – ISW: Fartyg får betala för passage i Hormuz - Dagens Nyheter
+- Fjällräddare efter lavinolycka: ”Farligt just nu” - Dagens Nyheter
 - Höjd säkerhet vid kontor - 8 Sidor
+- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
 - Blåmussla, älg och lax nya på rödlistan – havsörnen lämnar - Forskning.se
 - Källa i iransk statlig tv: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
+- Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
 - Hundratals drönare i ryska attacker mot Ukraina - GP
-- ÖB i Washington för samtal om Iran och Ukraina - Omni
-- Iran villkorar trafik genom Hormuzsundet - Västerbottens-Kuriren
-- Linus Larsson: Meta och Google fälls – nu lär det bli fler rättegångar - Dagens Nyheter
-- Första banken har höjt rörliga boräntan – fler lär följa - DI
-- KI: Ekonomin återhämtar sig trots oro – höjda räntor - Omni
+- Domstol: Meta och Youtube skyldiga till att orsaka psykisk ohälsa - SVT Nyheter
+- KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
 - Solvigs chockbesked om pensionen: 3,6 miljoner kronor - Expressen
+- Oljepriset tillbaka över 100 dollar per fat - Västerbottens-Kuriren
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 - Fynd på Mars: Spår av floder under marken - Aftonbladet
 
