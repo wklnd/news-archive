@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 20:30_
+_Updated: 2026-03-25 21:25_
 
 ## Top Stories
 
-- En person allvarligt skadad efter skottlossning i Tyresö - SVT Nyheter
-- Lena Skogberg Mette Frederiksen pressas hårt i danskt regeringsdrama - Hufvudstadsbladet
-- Iran: USA förhandlar med sig själva - Västerbottens-Kuriren
-- Här är barnfattigdomen lägst i Sverige – Göteborgsområdet sticker ut - GP
-- Elstödet: Så mycket får du och då kommer pengarna - Västerbottens-Kuriren
-- Skjutning i Malmö – två gripna - Aftonbladet
-- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
-- Minst tre skadade i lavin vid Riksgränsen - Västerbottens-Kuriren
+- Skottlossning i Tyresö – en allvarligt skadad - Mitt i
+- Person skjuten i Malmö – två tonåringar gripna - Svenska Dagbladet
+- Källa i iransk statlig tv: Sett USA:s ”överdrivna” förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trots omsvängningen: Liberalerna kvar på bottennivåer - Dagens Nyheter
+- ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
+- Frederiksen får försöka bilda regering - Västerbottens-Kuriren
+- Larm om flera fast i lavin vid Riksgränsen - Corren
 - Höjd säkerhet vid kontor - 8 Sidor
+- Blåmussla, älg och lax nya på rödlistan – havsörnen lämnar - Forskning.se
 - Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
 - Journalistavlyssning utreds i Bryssel - Västerbottens-Kuriren
 - Nathan Shachar: Trumps Gaza-plan är lagd på is – medan Hamas återtar kontrollen - Dagens Nyheter
-- ”Rysslands krig får spridningseffekt” - Hufvudstadsbladet
 - Påven Leo: Mitt i krigets vansinne måste vi försvara livet i alla dess stadier - Vatican News
-- Linus Larsson: Meta och Google fälls – nu lär det bli fler rättegångar - Dagens Nyheter
+- ÖB i Washington för samtal om Iran och Ukraina - Omni
+- Domstol: Meta och Youtube skyldiga till att orsaka psykisk ohälsa - SVT Nyheter
 - Första banken har höjt rörliga boräntan – fler lär följa - DI
-- Anna Seim övervägde höjning av räntebanan - Finanswatch.se
-- KI: Ekonomin återhämtar sig trots oro – höjda räntor - Omni
+- Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
+- Solvigs chockbesked om pensionen: 3,6 miljoner kronor - Expressen
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
-- Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
+- Fynd på Mars: Spår av floder under marken - Svenska Dagbladet
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-03-25 20:30_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -58,6 +58,7 @@ _Updated: 2026-03-25 20:30_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,21 +70,19 @@ _Updated: 2026-03-25 20:30_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -116,20 +115,20 @@ _Updated: 2026-03-25 20:30_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -140,21 +139,21 @@ _Updated: 2026-03-25 20:30_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
