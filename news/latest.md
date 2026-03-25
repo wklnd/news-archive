@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-25 14:30_
+_Updated: 2026-03-25 16:03_
 
-- Democrats flip Florida state seat that includes Trump's Mar-a-Lago home - BBC
-- Iran War Live Updates: Israel Strikes Tehran After Pakistan Offers to Host U.S.-Iran Talks - The New York Times
+- Democrat flips seat in special election for Florida district that includes Trump’s Mar-a-Lago resort - AP News
+- Live updates: US expected to deploy around 1,000 paratroopers to the Middle East as Iran taunts White House - CNN
+- US-Israel war on Iran: What’s happening on day 26 of attacks? - Al Jazeera
 - Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
-- This Is How Much ICE Agents Could Be Making—As TSA Workers Go Without Pay - Forbes
-- Iran receives a US ceasefire plan, officials say, as strikes batter the Middle East - AP News
-- Springsteen, Jane Fonda and others headline No Kings in Twin Cities - Axios
-- T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport - The New York Times
+- Iran has received Trump's 15-point plan to end war, report says; President says 'in negotiations right now' - CNBC
+- ICE agents can make twice the salary of TSA employees—and economists warn their pay is more 'shutdown proof' than other government jobs - Fortune
+- Flying out of Texas? TSA wait times could take hours — what to check - Austin American-Statesman
 - Trump cuts exacerbate budget fights in red states - Politico
-- Deal to fund DHS falters amid bipartisan pushback - Axios
-- Iran War Live Updates: Mediators Aim for U.S.-Iran Meeting by Thursday - WSJ
+- GOP’s reconciliation hopes are easier dreamt than done - Politico
+- Republicans Step Up Efforts to Reach DHS Funding Deal and End Shutdown - The New York Times
+- Two Men Arrested in Attack on Jewish Charity Ambulances in London - The New York Times
 - In Iran War, Cheap Drones Remain Wild Card - The New York Times
-- UK’s King Charles will be patron for major Jewish security organization - The Times of Israel
-- Taiwan wary that China could exploit US distraction over Middle East war - Reuters
+- Survivor, Denmark: Mette Frederiksen clings on — offering lessons for Europe’s left - politico.eu
 - Russia says it shot down almost 400 Ukrainian drones as Moscow and Kyiv escalate aerial barrages - AP News
-- Oil Prices Tumble as Trump Shows Eagerness to Talk to Iran - The New York Times
-- Stock futures rise on report that the U.S. sent Iran a plan to end the war: Live updates - CNBC
+- Oil Falls, US Stock Futures Climb on Iran Hopes: Markets Wrap - Bloomberg
+- Santa Fe jury reaches $375 million verdict against social media giant Meta - Santa Fe New Mexican
 - OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns - NPR
-- They gave her business a lifeline, then froze all her money - NPR
+- Sony and Honda ain’t feelin’ the Afeela anymore - The Verge
 - Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign - 9to5Google
-- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump - The New York Times
+- Epic Games Laying Off 1,000+ Employees, Swears AI Is Not to Blame - Gizmodo
