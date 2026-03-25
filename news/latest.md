@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-25 05:29_
+_Updated: 2026-03-25 07:13_
 
-- Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District - The New York Times
-- U.S. expected to deploy troops from 82nd Airborne to Middle East for Iran war - CBS News
-- Trump sinks to record low approval rating due to Iran war in new poll - USA Today
-- Court denies AG’s petition to block Republican sheriff’s investigation of 650,000 ballots - Los Angeles Times
-- Trump casts Florida mail ballot as he pushes Congress to severely limit that voting option - AP News
-- Congress loses a flying perk as DHS shutdown continues - NPR
-- Wait times at IAH shrink after day of TSA delays - Houston Chronicle
-- Wife of Maui doctor describes terrifying birthday hike at attempted murder trial - NBC News
+- Democrat wins Florida house district containing Trump's Mar-a-Lago estate - BBC
+- Live Updates: Iran war rages with Pentagon expected to send 82nd Airborne troops to Middle East - CBS News
+- TSA employees at ‘breaking point’ - Federal News Network
+- USC cancels gubernatorial debate amid uproar over candidates of color being excluded - Los Angeles Times
+- Delta Air Lines Says It Will Suspend Special Services for Congress Members - The New York Times
+- Court denies California’s bid to halt Riverside sheriff’s recount of 2025 election ballots - CalMatters
 - DHS funding proposal falls flat as Democrats, conservatives and Trump raise doubts - Politico
-- USC cancels gubernatorial debate following criticism over exclusion of candidates of color - KTLA
-- Denmark’s Frederiksen bruised in election, as voters put Trump’s Greenland ambitions to the side - CNN
-- Middle East crisis live: Oil prices drop after reports of Trump peace plan; elite US airborne division reportedly headed to region - The Guardian
+- N.C. Senate's top Republican concedes in primary decided by 23 votes - NBC News
+- Prosecutor conceded lack of criminal evidence in Federal Reserve investigation, transcript shows - AP News
+- Wife of Hawaii doctor takes stand exactly 1 year after he allegedly tried to kill her - CBS News
+- Middle East crisis live: Fire at Kuwait airport after drone attack; elite US airborne division reportedly headed to region - The Guardian
+- The Israeli military wants several more weeks to fight Iran war, officials say - NPR
+- Danish election produces inconclusive result that leaves prime minister’s future unclear - AP News
 - Iran Says ‘Non-Hostile’ Ships Can Sail Through the Strait of Hormuz - The New York Times
-- Aid flotilla vessel arrives in Cuba amid US-driven energy crisis - Al Jazeera
+- Oil price slides as Trump talks up Iran peace negotiations - BBC
 - OpenAI will shutter Sora video app - Axios
-- Stock Market Today: Nasdaq Slips, Brent Crude Rises Above $100 — Live Updates - WSJ
-- Oil traders bet millions ahead of Trump's Iran talks post - BBC
-- New Mexico jury says Meta harms children’s mental health and safety, violating state law - AP News
-- Epic Games cuts 1,000 jobs as Fortnite 'magic' fades in 'extreme' market conditions - Fox Business
+- Stock futures rise on report that the U.S. has sent Iran a plan to end the war: Live updates - CNBC
+- An air traffic controller was juggling extra roles during the LaGuardia plane crash - NPR
+- Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety
 - Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge
