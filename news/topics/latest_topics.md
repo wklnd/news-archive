@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 11:28_
+_Updated: 2026-03-25 12:25_
 
 ## Top Stories
 
-- Demoskop: Liberalerna över spärren – plockar från SD - Aftonbladet
+- Regeringspartierna straffas i danska valet - Dagens Arena
+- Pilot för beredskapssjukhus inleds - Regeringen.se
+- Analyser: Varför gjorde inte L det här tidigare? - Omni
 - Elstödet: Så mycket får du och då kommer pengarna - Västerbottens-Kuriren
 - Katja Nyberg körde bil – trots återkallat körkort - SVT Nyheter
-- Pensionärernas kamp mot polisen – om JLC-guldet - GP
-- Tidöpartierna går vidare med omdebatterade lagen - Dagens Nyheter
-- Regeringspartierna straffas i danska valet - Dagens Arena
-- Svenskar läser till läkare utomlands trots bottenresultat - Omni
-- Därför tar de 350 000 och flyttar ifrån Sverige - Expressen
-- Visitationszon på Östermalm: ”Kan söka igenom väskor” - Dagens Nyheter
-- Varning för bedragare som utger sig att vara från polisen - polisen.se
-- Ryska drönare slog ned i Estland och Lettland - Västerbottens-Kuriren
-- Iran: USA förhandlar med sig själva - GP
-- Rysk drönarattack – 948 drönare på ett dygn - Expressen
+- Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fem har beviljats återvandringsbidraget: ”Tacksam” - Omni
+- Bottenresultat på högskoleprovet – har svensk läkarlegitimation - Sveriges Radio
+- Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
+- Varning för bedragare som utger sig att vara från polisen - Polisen.se
+- Rysk drönare har träffat kraftverk i Estland - GP
 - Minnesota stämmer regeringen efter dödsskjutningar - Sydsvenskan
+- Iran villkorar trafik genom Hormuzsundet - Aftonbladet
+- Källor: USA har skickat en fredsplan - Expressen
 - Därför höjer första banken korta boräntan - Dagens industri
-- Konjunkturinstitutet spår att tillväxten bromsar in under Q1 - Börsvärlden
+- KI: Irankriget dämpar svensk ekonomi - GP
 - Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
-- Svenskarna sparar skatteåterbäringen 2026 varannan stärker bufferten - Örebronyheter
+- KI: Hushållen oroas mer än normalt - Privata Affärer
 - Verktyg för att hacka Iphone har läckt ut på Github - Computer Sweden
-- Claude kan nu styra din dator – men du bör vara försiktig - PC för Alla
+- Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-03-25 11:28_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -58,6 +58,7 @@ _Updated: 2026-03-25 11:28_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,7 +70,6 @@ _Updated: 2026-03-25 11:28_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -93,26 +93,26 @@ _Updated: 2026-03-25 11:28_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Hjärtinfarkt kan bli lättare att utesluta med hjälp av AI - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,11 +121,11 @@ _Updated: 2026-03-25 11:28_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
