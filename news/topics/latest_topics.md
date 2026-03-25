@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 07:11_
+_Updated: 2026-03-25 08:38_
 
 ## Top Stories
 
-- Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Løkke vågmästare efter danska valet - Västerbottens-Kuriren
-- Demoskop: Liberalerna över spärren – plockar från SD - Aftonbladet
-- Libanon: Flera dödade i israeliska attacker - GP
+- Regeringspartierna straffas i danska valet - Dagens Arena
+- IDF: Attackerar mål i Teheran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fortsatt mörkt för L: "Blir svårt att locka stödröster" - Fokus - Sveriges nyhetsmagasin
+- Nyberg körde bil – trots återkallat körkort - Västerbottens-Kuriren
+- Källor: Iran mottagit plan för vapenvila av USA - GP
 - Pensionärernas kamp mot polisen – om JLC-guldet - GP
-- Här kör Katja Nyberg bil – utan körkort - Expressen
 - Dyrare och sämre. Lärdomar från politiken i Stockholm mandatperioden 2022 - 2026. - Svenskt Näringsliv
 - Fortfarande ingen gripen efter helgens dödsskjutning i Örebro - SVT Nyheter
 - Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
-- Ledare: Det räcker inte att gå till val på att bara vara emot SD i regeringen - VF
+- LEDARE: Kaosmötet kan bli räddningen för Liberalerna - Strengnäs Tidning
 - Minnesota stämmer regeringen efter dödsskjutningar - Västerbottens-Kuriren
+- Rysk drönarattack – 948 drönare på ett dygn - Expressen
+- Källor: USA har skickat en fredsplan - Expressen
 - Flera döda i ryska attacker - Expressen
-- Uppgifter: Saudiske prinsen hetsar Trump att fortsätta kriga - Aftonbladet
-- Ministern: Mycket talar för ett långt storkrig - Expressen
-- Meta fälls i domstol – får miljardböter - Aftonbladet
+- Krigspremie på boräntan – rader av höjningar - Svenska Dagbladet
 - Så påverkas du av nya bolånereglerna - Expressen
-- Oljepriset sjunker igen - Svenska Dagbladet
-- Anrika märket stöper om allt – för de allra rikaste - Dagens PS
-- Användningen av autonoma AI-agenter ökar, men riskerna är stora - Computer Sweden
+- Oljepriset sjunker igen - Corren
+- Domen: Barn tar skada av Facebook – ska betala 3,5 miljarder - Omni
+- Nu kan Claude Code och Cowork använda din dator - Computer Sweden
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,7 +38,6 @@ _Updated: 2026-03-25 07:11_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -46,7 +46,7 @@ _Updated: 2026-03-25 07:11_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 
 ## Technology
 
@@ -73,11 +73,11 @@ _Updated: 2026-03-25 07:11_
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -104,15 +104,15 @@ _Updated: 2026-03-25 07:11_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,11 +121,11 @@ _Updated: 2026-03-25 07:11_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -142,20 +142,20 @@ _Updated: 2026-03-25 07:11_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
+- Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
