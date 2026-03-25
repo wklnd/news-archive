@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 05:23_
+_Updated: 2026-03-25 07:11_
 
 ## Top Stories
 
 - Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Løkke vågmästare efter danska valet - Corren
+- Løkke vågmästare efter danska valet - Västerbottens-Kuriren
+- Demoskop: Liberalerna över spärren – plockar från SD - Aftonbladet
 - Libanon: Flera dödade i israeliska attacker - GP
-- Stridsspets på 100 kilo slog ned i Tel Aviv - Västerbottens-Kuriren
-- Här brinner historiska stadskärnan – efter ryska anfall - Hufvudstadsbladet
-- Rikard Norling om dödsskjutningen: "Fullständig misär" - Fotbollskanalen
+- Pensionärernas kamp mot polisen – om JLC-guldet - GP
+- Här kör Katja Nyberg bil – utan körkort - Expressen
+- Dyrare och sämre. Lärdomar från politiken i Stockholm mandatperioden 2022 - 2026. - Svenskt Näringsliv
+- Fortfarande ingen gripen efter helgens dödsskjutning i Örebro - SVT Nyheter
 - Visitationszon runt ambassader – ”flera incidenter” - Västerbottens-Kuriren
-- Presschefen: Medieträning är inte att servera floskler - Omni
-- Broflytten lockade fram nyfikna Härnösandsbor - SVT Nyheter
-- Havsörnen inte längre rödlistad: ”Trodde aldrig” - UNT
+- Ledare: Det räcker inte att gå till val på att bara vara emot SD i regeringen - VF
 - Minnesota stämmer regeringen efter dödsskjutningar - Västerbottens-Kuriren
+- Flera döda i ryska attacker - Expressen
 - Uppgifter: Saudiske prinsen hetsar Trump att fortsätta kriga - Aftonbladet
-- Amerikanska toppmilitären: Stanna inne - Aftonbladet
-- Expert: Uppseendeväckande nära kontakt med Ryssland - Dagens Nyheter
-- Meta fälls i domstol – får miljardböter - SVT Nyheter
-- Storbanken höjer långa boräntorna - Aftonbladet
-- Uppgång blev till fall på New York-börsen: ”Kriget riskerar växa” - EFN
-- Elbilarnas nya saltrevolution kan ladda på 11 minuter - Dagens PS
+- Ministern: Mycket talar för ett långt storkrig - Expressen
+- Meta fälls i domstol – får miljardböter - Aftonbladet
+- Så påverkas du av nya bolånereglerna - Expressen
+- Oljepriset sjunker igen - Svenska Dagbladet
+- Anrika märket stöper om allt – för de allra rikaste - Dagens PS
+- Användningen av autonoma AI-agenter ökar, men riskerna är stora - Computer Sweden
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
-- Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
@@ -78,7 +78,6 @@ _Updated: 2026-03-25 05:23_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -87,8 +86,8 @@ _Updated: 2026-03-25 05:23_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
@@ -105,15 +104,15 @@ _Updated: 2026-03-25 05:23_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- CGM J4 logga 16_9.jpg - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -150,13 +149,13 @@ _Updated: 2026-03-25 05:23_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
