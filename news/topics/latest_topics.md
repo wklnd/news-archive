@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-25 13:22_
+_Updated: 2026-03-25 14:03_
 
 ## Top Stories
 
+- Frederiksen träffar kungen efter valbesvikelsen - Västerbottens-Kuriren
 - Källor: USA-soldater beordrade till Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Regeringspartierna straffas i danska valet - Dagens Arena
-- Katja Nyberg saknar körkort – körde bil ändå - GP
 - Analyser: Varför gjorde inte L det här tidigare? - Omni
+- Katja Nyberg saknar körkort – körde bil ändå - GP
+- Utvärdering av satsningen på 10 000 fler polisanställda - Brå - Brottsförebyggande rådet
 - Regeringen: Beredskapssjukhus behövs i norra Sverige – kan bli räddningen i Sollefteå - Dagens Nyheter
-- Polisen har vuxit – men löser inte fler mängdbrott - Västerbottens-Kuriren
-- Svenskar med bottenresultat läser till läkare utomlands - Omni
-- Regeringen presenterar nya förslag för ett ökat återvändande - Regeringen.se
-- Därför tar de 350 000 och flyttar ifrån Sverige - Expressen
-- Varning för bedragare som utger sig att vara från polisen - Polisen.se
+- Fem har beviljats bidrag för att återvandra: ”Tacksam” - Omni
+- C: Betala skatt ska kunna ge medborgarskap - Västerbottens-Kuriren
+- Granskning: Så rundar svenska läkare systemet - GP
+- Nybergs bilkörning kan vara grovt brott – Senaste nytt om valet 2026 - SVT Nyheter
+- Ny attack mot rysk oljehamn i Finska viken - Västerbottens-Kuriren
 - Ryska drönare kraschade i Estland och Lettland - GP
-- Rysk drönarattack – 948 drönare på ett dygn - Expressen
-- Netanyahu: Kommer fortsätta bomba - Aftonbladet
+- Öb ska samtala med USA om kriget i Iran – och Ukraina - Expressen
 - Iran villkorar trafik genom Hormuzsundet - Aftonbladet
 - Därför höjer första banken korta boräntan - DI
-- Konjunkturinstitutet spår att tillväxten bromsar in under Q1 - Börsvärlden
+- KI: Svensk ekonomi står pall i Irankrisen – men Riksbanken höjer räntan - Dagens Nyheter
 - Oljepriset tillbaka över 100 dollar per fat - Svenska Dagbladet
-- Mellanösternkriget: Kanada inför ekonomiskt stöd till jordbruket - Jordbruksaktuellt
+- Storägaren duckar frågor om försäljning i kursrusare - EFN
 - Nu kan Claude Code och Cowork använda din dator - Computer Sweden
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 
@@ -44,9 +44,9 @@ _Updated: 2026-03-25 13:22_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
