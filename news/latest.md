@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-26 19:40_
+_Updated: 2026-03-26 20:39_
 
-- Gulf countries want Trump to end Iran war — but not yet, officials say - The Washington Post
-- Melania Trump shares the spotlight with a robot at an education and technology event - NPR
-- Israel claims kill on Iranian Hormuz commander as Trump pushes for ceasefire talks - Fox News
-- After slight midweek relief, major US airports seeing security lines rise again ahead of weekend traveler rush - CNN
+- Middle East crisis live: Trump claims Iran ‘begging to make a deal’ and has let some tankers through strait as a ‘present’ - The Guardian
+- Missed paychecks and airport delays: Pressure mounts on Congress to end the funding shutdown - AP News
+- Iran dismisses U.S. ceasefire plan and issues its own counterproposal - PBS
 - Suburbanites embrace anti-Trump resistance before No Kings protests, saying, 'This is our fight' - AP News
-- Pentagon prepares for massive "final blow" of Iran war - Axios
-- DHS shutdown live updates as Senate GOP sends "last and final" offer to Democrats - CBS News
-- Growth rate slowed in US metro areas in 2025, with steepest drops along the southern border - AP News
+- A $50 billion fund to help rural hospitals could actually lead to closures and cuts - NPR
+- Capitol agenda: DHS despair takes hold on the Hill - Politico
 - Nicolás Maduro held in a "jail inside of a jail" under special administrative measures, sources say - CBS News
-- The Army’s 82nd Airborne Division is deploying to Iran. What are their capabilities - NPR
-- Israel-Iran War Day 27 Report: Iran Responded to U.S. Proposal, Demands Strait of Hormuz Control - Haaretz
-- Southeast Asia turns to nuclear as Iran war disrupts energy supplies - NPR
-- Neom cancels contracts on construction at The Line and Trojena - Dezeen
+- EPA approves sale of higher-ethanol fuel in bid to lower gas prices - The Guardian
+- Israel says it killed Iran’s top naval commander in bid to reopen Strait of Hormuz - The Washington Post
+- Russ Vought to testify on Capitol Hill - Politico
+- Iran's Secret 'Gift' To Trump: Hormuz Is Open For Everyone But US Ships - Yahoo Finance
+- Trump Tells Aides He Wants Speedy End to Iran War - WSJ
+- Lebanese fear another occupation as Israel threatens to use Gaza tactics in the south - AP News
 - Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial - NPR
-- Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout - The Conversation
 - S&P 500 falls as oil jumps and Trump warns Iran negotiators to 'get serious': Live updates - CNBC
-- Stocks fall and oil prices rise as uncertainty about the war with Iran weighs on Wall Street - AP News
-- War in Iran Will Push U.S. Inflation Above 4 Percent, O.E.C.D. Forecast Says - The New York Times
+- Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout - The Conversation
+- War Will Push U.S. Inflation Above 4 Percent This Year, O.E.C.D. Says - The New York Times
+- How the Iran war is expected to affect US prices, from gas to flights - The Guardian
 - iOS 26.4—Update Now Warning Issued To All iPhone Users - Forbes
-- AMD Ryzen 9 9950X3D2 Dual Edition with 208MB of total cache launches April 22nd - VideoCardz.com
+- A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know. - TechCrunch
