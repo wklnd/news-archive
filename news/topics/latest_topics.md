@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 22:01_
+_Updated: 2026-03-26 23:00_
 
 ## Top Stories
 
-- Uppgifter: Flicka misstänks för skjutningen i Vårby - Mitt i
-- Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Flicka misstänks ha dödat på uppdrag av Foxtrot - SVT Nyheter
 - Robins farfar bodde i huset i Viborg som attackerades - Hufvudstadsbladet
-- Justitieministern: Hela Sverige är med Örebro - Nerikes Allehanda
-- Källa: Iran har svarat på USA:s fredsförslag - Västerbottens-Kuriren
-- Noelia fick dödshjälp – efter två års strid med familjen - Dagens Nyheter
+- Irans hämnd mot hemlig atombas höjer krigets insatser - GP
+- Direkt – Krisen i Mellanöstern – Witkoff: Iran har fått en 15-punktsplan - Dagens Nyheter
+- Justitieminister Gunnar Strömmer besöker Västerås och Örebro - Regeringen.se
+- Frederiksen bjuder in sju – Venstre skeptiskt - Västerbottens-Kuriren
 - Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
-- Tidö och S överens om fortsatt stram migration - Sveriges Radio
-- 26 mars 17.59, Räddningsinsats, Värmdö - Polisen.se
+- Så ser partiernas politik ut för invandring och integration 2026 - Sveriges Radio
+- 26 mars 17.59, Räddningsinsats, Värmdö - polisen.se
 - Nya toppen: ”S har varit en del av högervinden” - Dagens Nyheter
 - Maduro tillbaka i amerikansk domstol – hävdar immunitet - SVT Nyheter
 - EU-parlamentet godkänner handelsavtal med USA - GP
 - Direkt – Krisen i Mellanöstern – Två israeliska soldater döda i Libanon - Dagens Nyheter
-- Historiskt tapp för Frederiksen – kan ändå få fortsätta - Europaportalen
+- Källor: Zelenskyj ska skriva på avtal med Saudiarabien - Omni
 - Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
 - Åklagaren yrkar på 10 års fängelse för Ian Lundin - EFN
 - Expertens råd inför sänkta matmomsen - GP
-- Ökat statligt ansvar för läkemedel ska ge ett mer jämlikt system - Svensk Farmaci
+- Wall Street kanade utför i oljig nedförsbacke - Västerbottens-Kuriren
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Vivaldi 7.9 släppt för mobil - mobil.se
+- Vi har testat Sonos Play. Äntligen en bärbar Sonos som är precis lagom. - feber.se
 
 ## World News
 
@@ -31,55 +31,54 @@ _Updated: 2026-03-26 22:01_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Seminar series: Global Lectures - Utrikespolitiska institutet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -93,16 +92,15 @@ _Updated: 2026-03-26 22:01_
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Hälsa-ISAC Hem - Health-ISAC
 - Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
@@ -110,24 +108,25 @@ _Updated: 2026-03-26 22:01_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -144,7 +143,6 @@ _Updated: 2026-03-26 22:01_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
@@ -153,9 +151,10 @@ _Updated: 2026-03-26 22:01_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
