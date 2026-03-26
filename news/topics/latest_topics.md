@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 14:07_
+_Updated: 2026-03-26 16:05_
 
 ## Top Stories
 
 - Pojke i 15-årsåldern död efter skjutning på Rosengård i Malmö - SVT Nyheter
-- Snabba turerna i USA:s och Irans svar om samtal - Dagens Nyheter
-- Svarta veckan: Det här vet vi om skjutningarna - Aftonbladet
-- Tre anhöriga till Linda Staaf gripna i ”Operation Candy” - Omni
-- Shakir Mahmoud Shakir frias för våldtäkt mot 100-åring - Expressen
-- Ukraina till attack vid Finska viken – igen - GP
-- Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
+- DN Direkt – Trannskvinnor stoppas från OS - Dagens Nyheter
+- Tre med släktkopplingar till polismästare Linda Staaf gripna - GP
+- Ukrainas drönartaktik: Sikta på soldater - Dagens Nyheter
+- Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tonåring död efter skjutning på buss i Tyresö - Mitt i
+- Två personer anhållna för grovt sanktionsbrott i Sundsvall - Polisen.se
+- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
 - Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
-- Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
-- Två anhållna för grovt sanktionsbrott i Sundsvall - SVT Nyheter
-- EU-parlamentet godkänner handelsavtal med USA - GP
+- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
+- Ukraina till attack vid Finska viken – igen - Västerbottens-Kuriren
 - Stubb: Ukrainasamtal kan ha nått vägs ände - UNT
-- Rysk politik har lett till självcensur i skolor för lärare - Sveriges Radio
-- Nya robotsalvor från Iran efter Israels attackvåg - Corren
-- Sociala medier är beroendeframkallande & sexiga nördar – P3 Nyheter med Malva Thaning - Sveriges Radio
-- Rekorddonation från ”bankomatens fader” - Aftonbladet
-- Nu sänks matmomsen – så gör din butik - VF
+- EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
+- Frederiksen vill bilda en vänster-mitten-regering - GP
+- Köpläge i Boliden efter kursraset - börsen är en 'drama queen' - EFN - Placera.se
 - Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
+- Rekorddonation från ”bankomatens fader” - Aftonbladet
+- Nobbar effektavgifter: ”Fundamentalt fel” - Svenska Dagbladet
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Efter kritiken – Nintendo-spel blir billigare - MovieZine
+- Nya OnePlus-mobiler kommer troligen inte till Sverige - Ljud & Bild
 
 ## World News
 
-- OECD sänker global tillväxtprognos - DI
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-03-26 14:07_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -99,16 +99,16 @@ _Updated: 2026-03-26 14:07_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -116,25 +116,25 @@ _Updated: 2026-03-26 14:07_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -155,6 +155,6 @@ _Updated: 2026-03-26 14:07_
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - CLAAS API connects to Farm Management Information Systems - Mynewsdesk
 - Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
+- Mjau Kattungeskolan teaser - Mynewsdesk
