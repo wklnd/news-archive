@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 12:30_
+_Updated: 2026-03-26 13:27_
 
 ## Top Stories
 
-- Pojke i 15-årsåldern död efter skjutning på Rosengård i Malmö - SVT Nyheter
-- Tonåring död efter skjutning i buss i Tyresö - Mitt i
+- Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
+- DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
 - Skjutningarna kan avgöra valet i höst - Aftonbladet
-- Förtroendet för Mohamsson ökar – och minskar - GP
 - Tre anhöriga till Linda Staaf gripna i operation - Omni
-- Ukraina till attack vid Finska viken – igen - Dagens Nyheter
+- Ukraina till attack vid Finska viken – igen - GP
+- Pakistan: Förmedlar meddelanden mellan USA och Iran - GP
 - Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
-- Lavinfara i fjällen – livsfarliga förhållanden - GP
-- S säger nej till ny kärnkraft längs kusten - Västerbottens-Kuriren
-- Oberoendet gör SVT unika - Arbetet
-- Trump: Iran vågar inte erkänna förhandlingarna - GP
+- Lavinfara i fjällen – livsfarligt - SVT Nyheter
+- Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
+- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
+- EU-parlamentet godkänner handelsavtal med USA - GP
+- Stubb: Ukrainasamtal kan ha nått vägs ände - UNT
+- Rysk politik har lett till självcensur i skolor för lärare - Sveriges Radio
 - Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Många döda i bussolycka i Bangladesh - Dagens Nyheter
-- Zelenskyj: USA villkorar säkerhetsgarantier - Västerbottens-Kuriren
-- Historisk dom mot Meta – 20-åringen vann och kan utlösa en lavin - Breakit
+- Sociala medier är beroendeframkallande & sexiga nördar – P3 Nyheter med Malva Thaning - Sveriges Radio
+- Rekorddonation från ”bankomatens fader” - Aftonbladet
 - Nu sänks matmomsen – så gör din butik - VF
 - Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
-- Ålandsbanken: Neutral kursreaktion att vänta i H&M efter kvartalsrapporten - Placera.se
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Forskarnas chockbesked: Medellivslängden kommer aldrig att nå 100-årsgränsen - hockeystaden.se
+- Vi jämförde Samsung Galaxy A57 med Samsung Galaxy S26 och den ser redan ut att vara ett utmärkt budgetalternativ - TechRadar
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-03-26 12:30_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - NHL Global Fan Tour besöker Kungsträdgården - NHL.com
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-03-26 12:30_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -99,19 +99,19 @@ _Updated: 2026-03-26 12:30_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
