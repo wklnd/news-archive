@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 16:05_
+_Updated: 2026-03-26 17:50_
 
 ## Top Stories
 
 - Pojke i 15-årsåldern död efter skjutning på Rosengård i Malmö - SVT Nyheter
-- DN Direkt – Trannskvinnor stoppas från OS - Dagens Nyheter
+- Två gripna för sanktionsbrott vid ryskt företag - Västerbottens-Kuriren
+- Källor: Trump vill avsluta kriget inom några veckor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- C: Vi vill se ett nationellt matlyft - Sveriges Radio
 - Tre med släktkopplingar till polismästare Linda Staaf gripna - GP
-- Ukrainas drönartaktik: Sikta på soldater - Dagens Nyheter
+- Ny generaldirektör och chef för Skatteverket utsedd - Regeringen.se
+- Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
+- Ville smaka pommes frites – knuffades mot rullande t-banetåg - Dagens Nyheter
+- Socialdemokraterna säger nej till ny kärnkraft längs kusten - SVT Nyheter
+- Här har du ramaskri från en ”Kvartalgubbe” - Kvartal
 - Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tonåring död efter skjutning på buss i Tyresö - Mitt i
-- Två personer anhållna för grovt sanktionsbrott i Sundsvall - Polisen.se
-- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
-- Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
-- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
-- Ukraina till attack vid Finska viken – igen - Västerbottens-Kuriren
 - Stubb: Ukrainasamtal kan ha nått vägs ände - UNT
+- Ukraina till attack vid Finska viken – igen - GP
 - EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
-- Frederiksen vill bilda en vänster-mitten-regering - GP
-- Köpläge i Boliden efter kursraset - börsen är en 'drama queen' - EFN - Placera.se
-- Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
-- Rekorddonation från ”bankomatens fader” - Aftonbladet
-- Nobbar effektavgifter: ”Fundamentalt fel” - Svenska Dagbladet
+- Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
+- Lundin-rättegången: ”Inget fängelsestraff kan utplåna smärtan vi känner” - Global Bar Magazine
+- Ny smäll för skogsindustrin – produktionen rasar - Affärsvärlden
+- Sänkt matmoms når inte plånboken - Örebronyheter
+- I 50 år har något mystiskt på himlen gjort forskare konfunderade – nu har de gjort en viktig upptäckt - Illustrerad Vetenskap
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Nya OnePlus-mobiler kommer troligen inte till Sverige - Ljud & Bild
 
 ## World News
 
@@ -31,9 +31,8 @@ _Updated: 2026-03-26 16:05_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -43,10 +42,11 @@ _Updated: 2026-03-26 16:05_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-03-26 16:05_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -118,15 +118,15 @@ _Updated: 2026-03-26 16:05_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -134,7 +134,7 @@ _Updated: 2026-03-26 16:05_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
