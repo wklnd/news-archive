@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-26 01:07_
+_Updated: 2026-03-26 02:03_
 
 - Trump admin pitches 15-point Iran peace proposal as Pakistan offers to hold talks - Fox News
-- Trump accused of showing classified map to passengers on private flight - BBC
+- Travelers are facing the longest TSA wait times in history - NPR
 - Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why. - The New York Times
+- Trump showed classified map to passengers on his plane in 2022, memo says - The Washington Post
 - Iran building up defenses of Kharg Island to protect against potential US ground attack, sources say - CNN
 - Another appeals court backs Trump administration’s mass detention policy - Politico
-- Travelers are facing the longest TSA wait times in history - NPR
-- Special election shocker has Florida Republicans nervous about redistricting - Politico
+- Why This City’s Reckoning With Cesar Chavez Is So Complicated - The New York Times
+- Allies and Congress are about to lose a key window into US military plans - Politico
 - A Critical Political Season Could Decide if Alaska Is a Failed ‘Petrostate’ - The New York Times
-- DHS shutdown live updates as Senate funding deal stalls over Democrats' latest offer - CBS News
-- Melania Trump pitches robots as potential educators for American schoolchildren - CBS News
-- Belarusian President Lukashenko arrives in North Korea for talks with Kim Jong Un - AP News
-- Iran strikes Israeli chemical complex linked to white phosphorus production - thecradle.co
+- What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post
+- Greenland independence party wins seat in Danish parliament at key moment - Reuters
 - For the first time in more than 1,400 years, Church of England gets a woman leader - NPR
-- US-Israel war on Iran: What’s happening on day 26 of attacks? - Al Jazeera
-- Jury finds Instagram and YouTube liable in a landmark social media addiction trial - AP News
-- Oil Falls, US Stock Futures Climb on Iran Hopes: Markets Wrap - Bloomberg.com
+- Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor - NPR
+- Belarus’s Lukashenko makes first visit to North Korea in bid to deepen ties - Al Jazeera
+- Meta, Google Found Liable in Social Media Addiction Case - Bloomberg.com
+- Stock futures are little changed as traders monitor U.S.-Iran war developments: Live updates - CNBC
 - Exclusive | Postal Service to Impose Its First-Ever Fuel Surcharge on Packages - WSJ
-- Larry Fink: Iran war has two outcomes, abundance and growth or global recession - Fortune
+- Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix - MarketWatch
 - Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior - TechCrunch
 - Amazon Prime Day 'Big Spring Sale' Introduces Major Discounts on AirPods, iPads, AirTag, and Much More - MacRumors
