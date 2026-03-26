@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 13:27_
+_Updated: 2026-03-26 14:07_
 
 ## Top Stories
 
-- Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
-- DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
-- Skjutningarna kan avgöra valet i höst - Aftonbladet
-- Tre anhöriga till Linda Staaf gripna i operation - Omni
+- Pojke i 15-årsåldern död efter skjutning på Rosengård i Malmö - SVT Nyheter
+- Snabba turerna i USA:s och Irans svar om samtal - Dagens Nyheter
+- Svarta veckan: Det här vet vi om skjutningarna - Aftonbladet
+- Tre anhöriga till Linda Staaf gripna i ”Operation Candy” - Omni
+- Shakir Mahmoud Shakir frias för våldtäkt mot 100-åring - Expressen
 - Ukraina till attack vid Finska viken – igen - GP
-- Pakistan: Förmedlar meddelanden mellan USA och Iran - GP
+- Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
 - Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
-- Lavinfara i fjällen – livsfarligt - SVT Nyheter
 - Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
-- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
+- Två anhållna för grovt sanktionsbrott i Sundsvall - SVT Nyheter
 - EU-parlamentet godkänner handelsavtal med USA - GP
 - Stubb: Ukrainasamtal kan ha nått vägs ände - UNT
 - Rysk politik har lett till självcensur i skolor för lärare - Sveriges Radio
-- Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nya robotsalvor från Iran efter Israels attackvåg - Corren
 - Sociala medier är beroendeframkallande & sexiga nördar – P3 Nyheter med Malva Thaning - Sveriges Radio
 - Rekorddonation från ”bankomatens fader” - Aftonbladet
 - Nu sänks matmomsen – så gör din butik - VF
 - Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Vi jämförde Samsung Galaxy A57 med Samsung Galaxy S26 och den ser redan ut att vara ett utmärkt budgetalternativ - TechRadar
+- Efter kritiken – Nintendo-spel blir billigare - MovieZine
 
 ## World News
 
+- OECD sänker global tillväxtprognos - DI
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
@@ -45,7 +46,6 @@ _Updated: 2026-03-26 13:27_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
 
 ## Technology
@@ -53,19 +53,19 @@ _Updated: 2026-03-26 13:27_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
