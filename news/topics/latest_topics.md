@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 19:35_
+_Updated: 2026-03-26 20:36_
 
 ## Top Stories
 
 - Tung sorg över Rosengård efter dödsskjutningen: ”Jag bara gråter” - Sveriges Radio
 - Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukraina till attack vid Finska viken – igen - GP
-- Fem skjutningar på kort tid - 8 Sidor
-- Två gripna för sanktionsbrott vid ryskt företag - Västerbottens-Kuriren
+- Strömmer efter dåden: Vi viker inte en tum - Aftonbladet
 - Direkt – Krisen i Mellanöstern – Witkoff: Iran har fått en 15-punktsplan - Dagens Nyheter
-- Ville smaka pommes frites – knuffades mot rullande t-banetåg - Dagens Nyheter
-- Forssell avfärdar uppgifter om spöktjänster - GP
-- Svensk tonårsflicka erkänner mordförsök i Danmark - Västerbottens-Kuriren
+- Frederiksen bjuder in sju – Venstre skeptiskt - Västerbottens-Kuriren
 - Ung man död efter skjutning på buss i Tyresö - SVT Nyheter
-- Maduro framträder i amerikansk domstol igen - Västerbottens-Kuriren
+- Så ser partiernas politik ut för invandring och integration 2026 - Sveriges Radio
+- Forssell avfärdar uppgifter om spöktjänster - GP
+- Ville smaka pommes frites – knuffades mot rullande t-banetåg - Dagens Nyheter
+- Maduro delges misstanke om brott – hävdar immunitet - SVT Nyheter
+- Förvirringen efter Trumps besked: ”Milt sagt absurt” - Expressen
 - EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
 - En död i Israel efter attack från Libanon - GP
-- Stubb: Ukrainasamtal kan ha nått vägs ände - UNT
 - Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
 - Lundin-rättegången: ”Inget fängelsestraff kan utplåna smärtan vi känner” - Global Bar Magazine
 - Nu sänks matmomsen – så gör din butik - VF
-- Tungt fall för Boliden – Stockholmsbörsen på rött - Placera.se
+- Ny smäll för skogsindustrin – produktionen rasar - Affärsvärlden
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- I 50 år har något mystiskt på himlen gjort forskare konfunderade – nu har de gjort en viktig upptäckt - Illustrerad Vetenskap
+- Ingen bakom ”Millenniumskandalen” verkar ha haft numret till en enda läkare - Dagens Nyheter
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-03-26 19:35_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -86,6 +86,7 @@ _Updated: 2026-03-26 19:35_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
@@ -116,21 +117,21 @@ _Updated: 2026-03-26 19:35_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -141,20 +142,20 @@ _Updated: 2026-03-26 19:35_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Lediga jobb - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
