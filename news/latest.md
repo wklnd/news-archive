@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-26 11:43_
+_Updated: 2026-03-26 12:35_
 
-- Iran says it is reviewing a US ceasefire plan but no talks; Trump says Tehran leaders want a deal - Reuters
-- White House delays permanent CDC director pick - Axios
-- Republicans in Congress Fret Over Trump Administration’s Handling of Iran War - The New York Times
-- Houston airport has become a symbol for the shutdown’s impacts on air travel - AP News
-- ICE Agents at Some Airports Begin Checking IDs in Security Lines - The New York Times
 - Trump says Iran 'afraid' to admit to talks as Tehran rejects reports of dialogue - BBC
+- Houston airport has become a symbol for the shutdown’s impacts on air travel - AP News
+- White House holds off on CDC pick as search for permanent chief continues - The Washington Post
+- Republicans in Congress Fret Over Trump Administration’s Handling of Iran War - The New York Times
 - Senate locked in staring contest on DHS as insults fly - Axios
+- Melania Trump shares the spotlight with a robot at an education and technology event - NPR
 - What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post
+- ‘You lose your credibility’: Democrats warn against turning a blind eye to a colleague’s misconduct - Politico
 - Immigration Slowdown Hits Every Metro Area in the U.S., Census Shows - The New York Times
-- Why Are Delays at Houston’s Bush Airport Worse Than at Others? - The New York Times
-- G7 allies meet against backdrop of wars in Ukraine and Iran, with unpredictable US - Reuters
+- Pentagon prepares for massive "final blow" of Iran war - Axios
+- Turkish Oil Tanker Hit by Drones in Black Sea Near Istanbul - Bloomberg.com
 - Sarah Mullally enthroned as first female archbishop of Canterbury - Al Jazeera
-- Starmer gives green light for UK forces to intercept Putin’s shadow fleet - politico.eu
-- In Iran War, Cheap Drones Remain Wild Card - The New York Times
+- UK authorises military to board Russian shadow fleet tankers - Reuters
+- Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran - The New York Times
 - Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout - The Conversation
+- OpenAI drops AI video tool Sora, startling Disney, sources say - KSL.com
+- Wind power will continue to grow, despite Trump administration's attempts to halt renewable energy: Experts - abcnews.com
 - Asia Is Getting Crushed Between Oil Prices and the Dollar - The New York Times
-- Stocks slide, oil gains with Mideast ceasefire prospects centre stage - Reuters
-- Trump administration's $1B deal to stop offshore wind shows an evolution in its anti-wind strategy - AP News
 - tvOS 26.4 Adds These New Features to Your Apple TV - MacRumors
-- Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior - TechCrunch
+- Reddit accounts with ‘fishy’ bot-like behavior will soon need to prove they’re human - The Verge
