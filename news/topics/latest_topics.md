@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 11:34_
+_Updated: 2026-03-26 12:30_
 
 ## Top Stories
 
-- Ytterligare misstänkt för dödsskjutning i Malmö - Västerbottens-Kuriren
-- Ukraina till attack vid Finska viken – igen - Dagens Nyheter
-- Källor: Trump vill avsluta kriget inom några veckor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Otto, 18, inrymdes under skjutning i Tyresö: ”Skrämmande” - SVT Nyheter
-- Lavinfara i fjällen – livsfarliga förhållanden - Svenska Dagbladet
+- Pojke i 15-årsåldern död efter skjutning på Rosengård i Malmö - SVT Nyheter
+- Tonåring död efter skjutning i buss i Tyresö - Mitt i
+- Skjutningarna kan avgöra valet i höst - Aftonbladet
 - Förtroendet för Mohamsson ökar – och minskar - GP
-- Vändningen: Fem skjutningar bara sedan helgen - Västerbottens-Kuriren
+- Tre anhöriga till Linda Staaf gripna i operation - Omni
+- Ukraina till attack vid Finska viken – igen - Dagens Nyheter
 - Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
-- Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
-- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
-- Israel: Fyra iranska attacker på två timmar - GP
-- Emma Bouvin: ”Om jag ska dö kan jag lika gärna vara snygg!” säger hon - Dagens Nyheter
+- Lavinfara i fjällen – livsfarliga förhållanden - GP
+- S säger nej till ny kärnkraft längs kusten - Västerbottens-Kuriren
+- Oberoendet gör SVT unika - Arbetet
+- Trump: Iran vågar inte erkänna förhandlingarna - GP
+- Underrättelser: Ryska drönarleveranser till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - DN Direkt – Många döda i bussolycka i Bangladesh - Dagens Nyheter
 - Zelenskyj: USA villkorar säkerhetsgarantier - Västerbottens-Kuriren
 - Historisk dom mot Meta – 20-åringen vann och kan utlösa en lavin - Breakit
-- Matmomsen sänks – så gör din butik - Svenska Dagbladet
-- Rekordgåva – halv miljard till Karolinska - Aftonbladet
+- Nu sänks matmomsen – så gör din butik - VF
 - Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
+- Ålandsbanken: Neutral kursreaktion att vänta i H&M efter kvartalsrapporten - Placera.se
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Efter kritiken – Nintendo-spel blir billigare - MovieZine
+- Forskarnas chockbesked: Medellivslängden kommer aldrig att nå 100-årsgränsen - hockeystaden.se
 
 ## World News
 
@@ -32,8 +32,8 @@ _Updated: 2026-03-26 11:34_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -42,11 +42,11 @@ _Updated: 2026-03-26 11:34_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
 
 ## Technology
 
@@ -99,19 +99,19 @@ _Updated: 2026-03-26 11:34_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,8 +123,8 @@ _Updated: 2026-03-26 11:34_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
