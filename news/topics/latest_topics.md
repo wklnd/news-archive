@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 00:56_
+_Updated: 2026-03-27 01:57_
 
 ## Top Stories
 
 - Tidigare okänd flicka tros ha mördat två för Foxtrot - Omni
+- Värmländska riksdagsledamoten lämnar Moderaterna – går till SD - NWT
 - Träningarna hjälper fotbollslaget i sorgen efter ihjälskjutne lagkamraten - Dagens Nyheter
-- Irans hämnd mot hemlig atombas höjer krigets insatser - GP
 - Misstänkt mordförsök i Åtvidaberg – en gripen - Sveriges Radio
-- Noelia fick dödshjälp – efter två års strid mot familjen - Dagens Nyheter
-- Stig, 80, tog hand om pojke som satt bredvid mordoffret i Tyresö - Aftonbladet
+- Trump ger Iran mer tid för att öppna Hormuzsundet - GP
+- Stor lavinfara vid Kebnekaise - Västerbottens-Kuriren
 - 26 mars 17.59, Räddningsinsats, Värmdö - polisen.se
 - Nya toppen: ”S har varit en del av högervinden” - Dagens Nyheter
-- Två M-ledamöter byter parti till SD – Senaste nytt om valet 2026 - SVT Nyheter
-- Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Libanon: Över 1 100 döda i kriget - Dagens Nyheter
+- Flygplan nödlandade – på grund av glasögon i toaletten - News55
+- Så ser partiernas politik ut för invandring och integration 2026 - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Två israeliska soldater döda i Libanon - Dagens Nyheter
 - Maduro tillbaka i amerikansk domstol – hävdar immunitet - SVT Nyheter
-- Robins farfar bodde i huset i Viborg som attackerades - Hufvudstadsbladet
+- Nya robotsalvor från Iran efter Israels attackvåg - GP
 - EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
-- Åklagaren yrkar på långt straff för Lundin - Blankspot
 - FBI och svenska myndigheten varnar: Global attack riktad mot Signal - Ny Teknik
 - Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
+- Meta rasade på börsen efter domen – jämförs med tobaksbolag - EFN
 - Expertens råd inför sänkta matmomsen - GP
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Vi har testat Sonos Play. Äntligen en bärbar Sonos som är precis lagom. - feber.se
+- DJI Avata 360 – första 360-drönaren från DJI - Fotosidan.se
 
 ## World News
 
-- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
@@ -92,26 +92,26 @@ _Updated: 2026-03-27 00:56_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa-ISAC Hem - Health-ISAC
 - Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,19 +121,19 @@ _Updated: 2026-03-27 00:56_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
@@ -141,20 +141,20 @@ _Updated: 2026-03-27 00:56_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
