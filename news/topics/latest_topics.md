@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 07:56_
+_Updated: 2026-03-26 09:42_
 
 ## Top Stories
 
-- Trump: Iran vill förhandla – men vågar inte erkänna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Förtroendet för Mohamsson ökar – och minskar - GP
-- DN Direkt – Strömmer: ”Förfärliga våldsdåd” - Dagens Nyheter
+- Ukraina till attack vid Finska viken – igen - Västerbottens-Kuriren
 - Pojke död efter skjutning i Malmö – två 15-åringar gripna - Omni
-- Skjutning på buss – en allvarligt skadad - Västerbottens-Kuriren
-- Debatt: EU-rätten kräver inte maximal byråkrati av Sverige - Europaportalen
+- Förtroendet för Mohamsson ökar – och minskar - GP
+- Källor: Trump vill avsluta kriget inom några veckor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fjällräddare efter lavinolycka: ”Farligt just nu” - Dagens Nyheter
+- Polisbil i krock i Vasastan - Mitt i
+- Polisen: Inget samband mellan skjutningarna i Vårby och Solna - SVT Nyheter
 - Vägras på E12 norr om Hemavan - SVT Nyheter
+- Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
 - Insändare. Bli latare och rädda fler arter än havsörnen - Dagens Nyheter
-- Larm om flera fast i lavin vid Riksgränsen - Corren
-- Peter Alestig: Som att sätta plåster på narkomanens sprutmärken - Dagens Nyheter
 - Emma Bouvin: ”Om jag ska dö kan jag lika gärna vara snygg!” säger hon - Dagens Nyheter
-- DN Direkt – Uppfinnare testamenterar över en halv miljard till KI - Dagens Nyheter
-- Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
-- Iran: USA förbereder ockupation av iransk ö - GP
-- Matmomsen sänks – så gör din butik - Dagens Nyheter
-- Miljardböter till Meta: ”En dom mot den råa kapitalismen” - ETC.se
-- Kaos i politikerns bolag: ”Enorma problem” - Svenska Dagbladet
-- Jag har byggt en app – hur hittar jag finansiärer? - Dagens Nyheter
+- Många döda i bussolycka i Bangladesh - GP
+- Irans hämnd mot hemlig atombas höjer krigets insatser - Västerbottens-Kuriren
+- DN Direkt – Løkke vågmästare i danska valet - Dagens Nyheter
+- Matmomsen sänks – så gör din butik - Svenska Dagbladet
+- Meta och Google döms för bristande varningar – i en av flera rättegångar - Ny Teknik
+- Rekordgåva: Drygt en halv miljard till Karolinska institutet - SVT Nyheter
+- RÖRELSERESULTATET BLEV 1.512 MLN KR 1 KV (EST 1.454) - Placera.se
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 - Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
@@ -100,18 +100,18 @@ _Updated: 2026-03-26 07:56_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
