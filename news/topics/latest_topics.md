@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 09:42_
+_Updated: 2026-03-26 11:34_
 
 ## Top Stories
 
-- Ukraina till attack vid Finska viken – igen - Västerbottens-Kuriren
-- Pojke död efter skjutning i Malmö – två 15-åringar gripna - Omni
-- Förtroendet för Mohamsson ökar – och minskar - GP
+- Ytterligare misstänkt för dödsskjutning i Malmö - Västerbottens-Kuriren
+- Ukraina till attack vid Finska viken – igen - Dagens Nyheter
 - Källor: Trump vill avsluta kriget inom några veckor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fjällräddare efter lavinolycka: ”Farligt just nu” - Dagens Nyheter
-- Polisbil i krock i Vasastan - Mitt i
-- Polisen: Inget samband mellan skjutningarna i Vårby och Solna - SVT Nyheter
-- Vägras på E12 norr om Hemavan - SVT Nyheter
+- Otto, 18, inrymdes under skjutning i Tyresö: ”Skrämmande” - SVT Nyheter
+- Lavinfara i fjällen – livsfarliga förhållanden - Svenska Dagbladet
+- Förtroendet för Mohamsson ökar – och minskar - GP
+- Vändningen: Fem skjutningar bara sedan helgen - Västerbottens-Kuriren
+- Hopp om att invasiva masken dött i kylan – söker med hundar - Dagens Nyheter
 - Valkval i L efter ny SD-linje – Mohamssons krav - Västerbottens-Kuriren
-- Insändare. Bli latare och rädda fler arter än havsörnen - Dagens Nyheter
+- Regeringen vill omförhandla lönetransparensdirektivet - Regeringen.se
+- Israel: Fyra iranska attacker på två timmar - GP
 - Emma Bouvin: ”Om jag ska dö kan jag lika gärna vara snygg!” säger hon - Dagens Nyheter
-- Många döda i bussolycka i Bangladesh - GP
-- Irans hämnd mot hemlig atombas höjer krigets insatser - Västerbottens-Kuriren
-- DN Direkt – Løkke vågmästare i danska valet - Dagens Nyheter
+- DN Direkt – Många döda i bussolycka i Bangladesh - Dagens Nyheter
+- Zelenskyj: USA villkorar säkerhetsgarantier - Västerbottens-Kuriren
+- Historisk dom mot Meta – 20-åringen vann och kan utlösa en lavin - Breakit
 - Matmomsen sänks – så gör din butik - Svenska Dagbladet
-- Meta och Google döms för bristande varningar – i en av flera rättegångar - Ny Teknik
-- Rekordgåva: Drygt en halv miljard till Karolinska institutet - SVT Nyheter
-- RÖRELSERESULTATET BLEV 1.512 MLN KR 1 KV (EST 1.454) - Placera.se
-- Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
-- Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
+- Rekordgåva – halv miljard till Karolinska - Aftonbladet
+- Han blev miljardär på AI innan 30: ”Rädd för att dö utan att ha gjort något meningsfullt” - Dagens Nyheter
+- Nasa skrotar rymdstation – ska bygga en månbas - Omni
+- Efter kritiken – Nintendo-spel blir billigare - MovieZine
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-03-26 09:42_
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -44,30 +43,31 @@ _Updated: 2026-03-26 09:42_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
@@ -99,19 +99,19 @@ _Updated: 2026-03-26 09:42_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -141,20 +141,20 @@ _Updated: 2026-03-26 09:42_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
