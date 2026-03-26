@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 23:00_
+_Updated: 2026-03-26 23:53_
 
 ## Top Stories
 
-- Flicka misstänks ha dödat på uppdrag av Foxtrot - SVT Nyheter
-- Robins farfar bodde i huset i Viborg som attackerades - Hufvudstadsbladet
-- Irans hämnd mot hemlig atombas höjer krigets insatser - GP
-- Direkt – Krisen i Mellanöstern – Witkoff: Iran har fått en 15-punktsplan - Dagens Nyheter
-- Justitieminister Gunnar Strömmer besöker Västerås och Örebro - Regeringen.se
-- Frederiksen bjuder in sju – Venstre skeptiskt - Västerbottens-Kuriren
-- Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
-- Så ser partiernas politik ut för invandring och integration 2026 - Sveriges Radio
+- Tidigare okänd flicka tros ha mördat två för Foxtrot - Omni
+- Nya robotsalvor från Iran efter Israels attackvåg - Västerbottens-Kuriren
+- Träningarna hjälper fotbollslaget i sorgen efter ihjälskjutne lagkamraten - Dagens Nyheter
+- Stig, 80, tog hand om pojke som satt bredvid mordoffret i Tyresö - Aftonbladet
+- Noelia trotsade familjen för att få dödshjälp – fick rätt - GP
+- Misstänkt mordförsök i Åtvidaberg – en gripen - Sveriges Radio
 - 26 mars 17.59, Räddningsinsats, Värmdö - polisen.se
 - Nya toppen: ”S har varit en del av högervinden” - Dagens Nyheter
-- Maduro tillbaka i amerikansk domstol – hävdar immunitet - SVT Nyheter
-- EU-parlamentet godkänner handelsavtal med USA - GP
+- Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
+- Stor lavinfara vid Kebnekaise - GP
 - Direkt – Krisen i Mellanöstern – Två israeliska soldater döda i Libanon - Dagens Nyheter
-- Källor: Zelenskyj ska skriva på avtal med Saudiarabien - Omni
+- Maduro tillbaka i amerikansk domstol – hävdar immunitet - SVT Nyheter
+- Robins farfar bodde i huset i Viborg som attackerades - Hufvudstadsbladet
+- EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
+- Lundin-rättegången: ”Inget fängelsestraff kan utplåna smärtan vi känner” - Global Bar Magazine
 - Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
-- Åklagaren yrkar på 10 års fängelse för Ian Lundin - EFN
 - Expertens råd inför sänkta matmomsen - GP
-- Wall Street kanade utför i oljig nedförsbacke - Västerbottens-Kuriren
+- Regeringen vill se större statligt ansvar för läkemedel – ”Systemet har nått vägs ände” - Life Science Sweden
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
 - Vi har testat Sonos Play. Äntligen en bärbar Sonos som är precis lagom. - feber.se
 
 ## World News
 
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-03-26 23:00_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -92,15 +92,15 @@ _Updated: 2026-03-26 23:00_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa-ISAC Hem - Health-ISAC
 - Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
@@ -108,10 +108,10 @@ _Updated: 2026-03-26 23:00_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -121,7 +121,7 @@ _Updated: 2026-03-26 23:00_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
