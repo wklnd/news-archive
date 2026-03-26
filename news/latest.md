@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-26 02:03_
+_Updated: 2026-03-26 05:39_
 
-- Trump admin pitches 15-point Iran peace proposal as Pakistan offers to hold talks - Fox News
-- Travelers are facing the longest TSA wait times in history - NPR
-- Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why. - The New York Times
-- Trump showed classified map to passengers on his plane in 2022, memo says - The Washington Post
-- Iran building up defenses of Kharg Island to protect against potential US ground attack, sources say - CNN
-- Another appeals court backs Trump administration’s mass detention policy - Politico
-- Why This City’s Reckoning With Cesar Chavez Is So Complicated - The New York Times
-- Allies and Congress are about to lose a key window into US military plans - Politico
-- A Critical Political Season Could Decide if Alaska Is a Failed ‘Petrostate’ - The New York Times
+- U.S. Circulates Iran Peace Plan While Sending Troops to the Middle East - The New York Times
+- TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News
+- ICE Agents at Some Airports Begin Checking IDs in Security Lines - The New York Times
+- The Narrow Path to a U.S.‑Iran Deal - WSJ
+- GOP lawmakers vent frustration over Trump administration’s lack of info on Iran war - CNN
+- Trump showed off a classified map during a 2022 plane trip, Raskin alleges in letter - PBS
 - What a GOP loss in Trump’s Mar-a-Lago district says about the midterms - The Washington Post
+- Why Are Delays at Houston’s Bush Airport Worse Than at Others? - The New York Times
+- Judge Orders Arrest of Matt Bevin, Former Kentucky Governor, for Contempt - The New York Times
+- Trump official refers New York AG Letitia James for prosecution after a previous case was dismissed - CBS News
 - Greenland independence party wins seat in Danish parliament at key moment - Reuters
-- For the first time in more than 1,400 years, Church of England gets a woman leader - NPR
-- Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor - NPR
-- Belarus’s Lukashenko makes first visit to North Korea in bid to deepen ties - Al Jazeera
-- Meta, Google Found Liable in Social Media Addiction Case - Bloomberg.com
-- Stock futures are little changed as traders monitor U.S.-Iran war developments: Live updates - CNBC
-- Exclusive | Postal Service to Impose Its First-Ever Fuel Surcharge on Packages - WSJ
-- Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix - MarketWatch
+- North Korea's Kim Jong Un welcomed Belarus President Lukashenko to Pyongyang, KCNA says - Reuters
+- In Iran War, Cheap Drones Remain Wild Card - The New York Times
+- Russia hits Ukrainian cities, intensifying bombing as U.S. focuses on Iran - The Washington Post
+- Meta and Google just lost a landmark social media addiction case. A tech law expert explains the fallout - The Conversation
+- Disney CEO’s First Week Marred by ‘Fortnite,’ OpenAI Woes - Bloomberg.com
+- Meta is laying off hundreds of employees as it pours money into AI - The Verge
+- Stock Market Today: Dow Moves Higher, Oil Pulls Back on Cautious Optimism — Live Updates - WSJ
 - Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior - TechCrunch
-- Amazon Prime Day 'Big Spring Sale' Introduces Major Discounts on AirPods, iPads, AirTag, and Much More - MacRumors
+- Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever - The Verge
