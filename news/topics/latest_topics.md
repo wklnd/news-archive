@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-26 05:36_
+_Updated: 2026-03-26 07:56_
 
 ## Top Stories
 
-- Pojke död efter skjutning i Malmö – två 15-åringar gripna - Omni
-- Fem skjutningar – nu är rädslan tillbaka - Aftonbladet
-- Peter Alestig: Som att sätta plåster på narkomanens sprutmärken - Dagens Nyheter
-- Lavinfara i fjällen – livsfarliga förhållanden - Västerbottens-Kuriren
 - Trump: Iran vill förhandla – men vågar inte erkänna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- E12 avstängd – Vägen har rasat - Norran
+- Förtroendet för Mohamsson ökar – och minskar - GP
+- DN Direkt – Strömmer: ”Förfärliga våldsdåd” - Dagens Nyheter
+- Pojke död efter skjutning i Malmö – två 15-åringar gripna - Omni
 - Skjutning på buss – en allvarligt skadad - Västerbottens-Kuriren
-- Tomas Ramberg: Räkna med räv(S)pel i regeringsfrågan - Dagens Nyheter
-- Andersson om mordet på Hugo: ”Fruktansvärt” - Nerikes Allehanda
-- Blåmussla, älg och lax nya på rödlistan – havsörnen lämnar - Forskning.se
-- Iran: USA förbereder ockupation av iransk ö - GP
+- Debatt: EU-rätten kräver inte maximal byråkrati av Sverige - Europaportalen
+- Vägras på E12 norr om Hemavan - SVT Nyheter
+- Insändare. Bli latare och rädda fler arter än havsörnen - Dagens Nyheter
+- Larm om flera fast i lavin vid Riksgränsen - Corren
+- Peter Alestig: Som att sätta plåster på narkomanens sprutmärken - Dagens Nyheter
+- Emma Bouvin: ”Om jag ska dö kan jag lika gärna vara snygg!” säger hon - Dagens Nyheter
+- DN Direkt – Uppfinnare testamenterar över en halv miljard till KI - Dagens Nyheter
 - Historiskt dåligt val för Mette Frederiksens S - Västerbottens-Kuriren
-- Ny attack mot rysk oljehamn i Finska viken - Hufvudstadsbladet
-- Utrikesministern: Så drabbas Ukraina av kriget i Iran - GP
-- Linus Larsson: Meta och Google fälls – nu lär det bli fler rättegångar - Dagens Nyheter
-- Drygt en halv miljard till Karolinska institutet - Aftonbladet
-- Första banken har höjt rörliga boräntan – fler lär följa - DI
-- (+) E.ON satsar 189 miljoner i Bispgården - Jamtlands Tidning
+- Iran: USA förbereder ockupation av iransk ö - GP
+- Matmomsen sänks – så gör din butik - Dagens Nyheter
+- Miljardböter till Meta: ”En dom mot den råa kapitalismen” - ETC.se
+- Kaos i politikerns bolag: ”Enorma problem” - Svenska Dagbladet
+- Jag har byggt en app – hur hittar jag finansiärer? - Dagens Nyheter
 - Nasa presenterar plan för permanent månbas och resor till Mars - Börsvärlden
 - Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
-- Lissabon i centrum för global innovation - The Portugal News
+- Large local effect but small global climate impact of Nord Stream - Stockholms universitet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -113,25 +113,48 @@ _Updated: 2026-03-26 05:36_
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
+## Science
+
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Karolinska Institutet utmärker sig i Vetenskapsrådets utvärdering av medicinsk forskning - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - EU Digital Strategy
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
