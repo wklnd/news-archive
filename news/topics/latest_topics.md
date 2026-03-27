@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 23:58_
+_Updated: 2026-03-28 01:01_
 
 ## Top Stories
 
-- Flickor rekryteras till brott online: ”Tillgängligt för alla” - Sveriges Radio
-- 15-årig flicka häktas för två dödsskjutningar - Västerbottens-Kuriren
+- FN: Libanon kan vara på väg mot humanitär katastrof - Sveriges Radio
+- 15-årig flicka häktad för morden i Vårby och Malmö - Dagens Nyheter
 - Razzia mot spelklubb i centrala Stockholm - SVT Nyheter
 - Blev uppringd av Trump – ”ring mig då och då” - Svenska Dagbladet
+- 16-årig volontär dödad i israelisk attack: ”Min son var en hjälte” - Sveriges Radio
 - Krigskassan sinar: ”Trump kan pressa Ukraina” - Dagens Nyheter
-- Källor: USA överväger att skicka 10 000 soldater - GP
+- Skjutningar i dagsljus sticker ut: ”Tar mer risker” - Dagens Nyheter
 - Höj ambitionsnivån i äldreomsorgen - Liberalerna
 - Blå Band återkallar bearnaisesås - NT
-- Anhållanden hävda i utredning om sanktionsbrott i Sundsvall - Åklagarmyndigheten
-- Klart: Hon föreslås bli Liberalernas ledare i Stockholm - Sveriges Radio
-- FBI-chefen hackad av pro-iransk grupp – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- FN varnar för humanitär katastrof i Libanon - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Rubio: Zelenskyj ljuger om säkerhetsgarantier - Dagens Nyheter
-- Spår av koffein och kokain hittades i hajar - Aftonbladet
+- Anhållna för sanktionsbrott släpps på fri fot - GP
+- Attack mot saudisk flygbas: amerikanska soldater skadade – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rubio anklagar Zelenskyj för att ljuga - Västerbottens-Kuriren
+- Trump ger Iran mer tid för att öppna Hormuzsundet - Hufvudstadsbladet
+- Larmet efter fyndet hos hajarna: ”Alarmerande” - Expressen
 - FAO varnar för att krisen i Persiska viken påverkar livsmedelssäkerheten - Unric
 - ”Svenska företag måste fatta beslut idag” - Svenska Dagbladet
 - Prischocken på drivmedel får bilköpare att välja elbilar - m3.se
@@ -38,8 +38,8 @@ _Updated: 2026-03-27 23:58_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
@@ -58,15 +58,15 @@ _Updated: 2026-03-27 23:58_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -92,26 +92,26 @@ _Updated: 2026-03-27 23:58_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - lakartidningen.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa-ISAC Hem - Health-ISAC
 - Medicinteknik, civilingenjör - Chalmers tekniska högskola
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -139,9 +139,9 @@ _Updated: 2026-03-27 23:58_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -152,9 +152,9 @@ _Updated: 2026-03-27 23:58_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
