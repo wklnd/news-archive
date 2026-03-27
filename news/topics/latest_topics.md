@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 07:56_
+_Updated: 2026-03-27 09:41_
 
 ## Top Stories
 
+- Fyra gripna i Örebro – misstänks ha sålt Ozempic på nätet - SVT Nyheter
 - Rådet för kvinnofrid vill halvera antalet kvinnor som dödas - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Israel: Attacker mot infrastruktur i Iran - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – USA kan skicka 10 000 soldater till - Dagens Nyheter
+- Medier: Explosioner i södra Beirut - Västerbottens-Kuriren
+- Hon är Natos nya spionchef: Jag har utbildats för det här i 35 år - Dagens Nyheter
 - Trumps frist gav litet avtryck på oljan - Västerbottens-Kuriren
-- Stig, 80, tog hand om pojke som satt bredvid offret - Omni
-- Fryst mat till äldre istället för nylagat – många kritiska - Sveriges Radio
-- Träningarna hjälper fotbollslaget i sorgen efter ihjälskjutne lagkamraten - Dagens Nyheter
 - DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
-- Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
-- Två M-ledamöter byter parti till SD – Senaste nytt om valet 2026 - SVT Nyheter
-- Stor lavinfara vid Kebnekaise - GP
+- Strömmer (M): ”Vi skyddar inte barn genom att hålla på information” – Senaste nytt om valet 2026 - SVT Nyheter
+- Ledningar till ny kärnkraft kan ta 15 år - Västerbottens-Kuriren
+- 26 mars 17.59, Räddningsinsats, Värmdö - polisen.se
 - Två fartyg med nödhjälp till Kuba försvunna - SVT Nyheter
+- Orbán på tvären – men svårt för EU att straffa Ungern - Västerbottens-Kuriren
 - Forskare: Då ska du inte blanda dig i barnens lek - Dagens Nyheter
-- Källor: USA överväger att skicka 10 000 soldater - Västerbottens-Kuriren
-- Israel skickar fler soldater till Libanon - GP
+- Flygvapnets stridsflyg aktiva för att avvärja ukrainska drönare - Hufvudstadsbladet
+- Nya bolåneregler sänker tröskeln till bostadsmarknaden – Egnahemsbolaget välkomnar förändringarna - Mynewsdesk
+- Pessimism inom handeln – oro för världsläget - Aftonbladet
 - Tydlig trend: Elbilar billigare än bensinbilar - Svenska Dagbladet
-- Orolig omvärld påverkar handelns framtidsförväntningar - Svensk Handel
 - Stora delar av Garpenbergs gruva håller stängt året ut: ”Naturligtvis kommer det påverka alla” - Dagens Arbete
-- 15 000 prislappar ska bytas – butiken rustar för momssänkningen - UNT
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
-- Läcka avslöjar Moto Razr Ultra 2026 - mobil.se
+- Sonys nya Dolby Atmos-soundbar slår Sonos Arc Ultra på tre viktiga punkter - TechRadar
 
 ## World News
 
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- South Korea: Age system to be standardised from 2023 - BBC
+- International Day of Epidemic Preparedness - World Health Organization (WHO)
+- Sudan court sentences three men to hand amputation for stealing - The Guardian
+- Ohana denounces Palestinian state plans in Geneva - The Jerusalem Post
+- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
+- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
+- Lionel Messi: Argentina forward retires from international football - BBC
+- ‘You just have to roll’: Gloucestershire cheese-rolling race has international appeal - The Guardian
 
 ## Technology
 
@@ -55,20 +55,20 @@ _Updated: 2026-03-27 07:56_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -141,20 +141,20 @@ _Updated: 2026-03-27 07:56_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
