@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 23:04_
+_Updated: 2026-03-27 23:58_
 
 ## Top Stories
 
-- 15-årig flicka häktas för två dödsskjutningar - Västerbottens-Kuriren
 - Flickor rekryteras till brott online: ”Tillgängligt för alla” - Sveriges Radio
-- HA-man gick till attack på E6 – då hittades vapengömman - GP
-- Krigskassan slut i juni: ”Trump kan pressa Ukraina” - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Rubio: Zelenskyj ljuger om säkerhetsgarantier - Dagens Nyheter
-- Uppgifter: Iran svarar på USA:s fredsförslag på fredagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Höj ambitionsnivån i äldreomsorgen - Liberalerna
-- Blå Band återkallar bearnaisesås - SVT Nyheter
-- Razzia mot illegal spelklubb i centrala Stockholm - SVT Nyheter
-- Klart: Hon föreslås bli Liberalernas ledare i Stockholm - Sveriges Radio
+- 15-årig flicka häktas för två dödsskjutningar - Västerbottens-Kuriren
+- Razzia mot spelklubb i centrala Stockholm - SVT Nyheter
+- Blev uppringd av Trump – ”ring mig då och då” - Svenska Dagbladet
+- Krigskassan sinar: ”Trump kan pressa Ukraina” - Dagens Nyheter
 - Källor: USA överväger att skicka 10 000 soldater - GP
+- Höj ambitionsnivån i äldreomsorgen - Liberalerna
+- Blå Band återkallar bearnaisesås - NT
+- Anhållanden hävda i utredning om sanktionsbrott i Sundsvall - Åklagarmyndigheten
+- Klart: Hon föreslås bli Liberalernas ledare i Stockholm - Sveriges Radio
+- FBI-chefen hackad av pro-iransk grupp – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- FN varnar för humanitär katastrof i Libanon - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Rubio: Zelenskyj ljuger om säkerhetsgarantier - Dagens Nyheter
 - Spår av koffein och kokain hittades i hajar - Aftonbladet
-- Flygvapnets stridsflyg aktiva för att avvärja ukrainska drönare - Hufvudstadsbladet
-- Henrik Brandão Jönsson: Madurorättegången fast i en strid om pengar - Dagens Nyheter
 - FAO varnar för att krisen i Persiska viken påverkar livsmedelssäkerheten - Unric
 - ”Svenska företag måste fatta beslut idag” - Svenska Dagbladet
 - Prischocken på drivmedel får bilköpare att välja elbilar - m3.se
-- Inga planer på att stoppa kritiserade effekttaxan - SLA
+- Wall Street surnade till – Dow Jones också i korrektion - Omni Ekonomi
 - Sony höjer priserna för PS5 – andra gången i år - Omni
-- Google rullar ut årets första stora uppdatering – "många tester" - Ehandel.se
+- Nasa skrotar rymdstation – ska bygga en månbas - Omni
 
 ## World News
 
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - ui.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - news.bitcoin.com
 
 ## Technology
 
@@ -77,7 +77,7 @@ _Updated: 2026-03-27 23:04_
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
@@ -93,13 +93,13 @@ _Updated: 2026-03-27 23:04_
 ## Health
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa-ISAC Hem - health-isac.org
-- Medicinteknik, civilingenjör - chalmers.se
+- Hälsa-ISAC Hem - Health-ISAC
+- Medicinteknik, civilingenjör - Chalmers tekniska högskola
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -110,30 +110,30 @@ _Updated: 2026-03-27 23:04_
 - Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
@@ -141,11 +141,11 @@ _Updated: 2026-03-27 23:04_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
