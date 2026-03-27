@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 18:27_
+_Updated: 2026-03-27 19:26_
 
 ## Top Stories
 
-- 15-årig flicka häktas för två dödsskjutningar - GP
-- Ukrainas nya väg till ryska måltavlor – över Belarus - Dagens Nyheter
-- Skjutningar: Varför kan unga tjejer hamna under radarn? - Sveriges Radio
-- Värmländska M-ledamoten Marléne Lund Kopparklint byter till SD - SVT Nyheter
-- Man död efter misshandel i Göteborg i natt - Omni
-- Färjan fast till sjöss över ett dygn – Jan har slut på medicin - Dagens Nyheter
-- REPORTAGE: Gösta, 86 om färdigrätterna från butiken - Sveriges Radio
-- Man knivskuren i norra Stockholm – tog sig hem till Vårberg: ”Oklart hur” - SVT Nyheter
+- 15-årig flicka häktas för två dödsskjutningar - Västerbottens-Kuriren
+- Sverigedemokraterna värvar från Moderaterna - Dagens Nyheter
+- Luras in i förhållanden – används av gängen - Svenska Dagbladet
+- Längre paus för Trumps hot - 8 Sidor
+- Majsan är fast på havet – får inte lägga till i hamnen - Sveriges Radio
+- Ryska medier uppmanar folk att radera Telegram - Omni
+- Höj ambitionsnivån i äldreomsorgen - Liberalerna
 - Miljöpartiet KU-anmäler Ebba Busch: ”Ljuger” - Västerbottens-Kuriren
-- Misstänkt mord i Kumla – två gripna - Västerbottens-Kuriren
-- Därför har Iran fortsatt kontroll över Hormuzsundet - Hufvudstadsbladet
+- Man död efter våldsbrott i Haninge - Folkbladet
+- Utemöblerna vill ut – vädret velar - Nerikes Allehanda
+- Kriget i Ukraina: Det innebär det för Europa och Sverige - Västerbottens-Kuriren
+- Därför har Iran fortsatt kontroll över Hormuzsundet - Dagens Nyheter
 - Sänkt straff för ”sovvåldtäkt” – kan påverka Høiby - GP
-- Ukrainas krigskassa snart tom - Västerbottens-Kuriren
-- Uppgifter: Iran svarar på USA:s fredsförslag på fredagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uppgifter: Iran svarar på USA:s fredsförslag på fredagen – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
 - FAO varnar för att krisen i Persiska viken påverkar livsmedelssäkerheten - Unric
 - Stubbs varning: Kriget kan få värre effekter än pandemin - Omni
 - Tydlig trend: Elbilar billigare än bensinbilar - Svenska Dagbladet
-- Danske Bank: Tre räntehöjningar till augusti - GP
+- ”Momssänkningen kan bli en björntjänst när även skräpmaten blir billigare.” - Sydsvenskan
 - Sony höjer priserna för PS5 – andra gången i år - Omni
-- Nasa skrotar rymdstation – ska bygga en månbas - Omni
+- Crimson Desert ska nu vara spelbart på Arc-grafikkort - Nordichardware
 
 ## World News
 
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Global flygtrafik ökar – men Nordamerika halkar efter - travelnews.se
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -55,21 +55,21 @@ _Updated: 2026-03-27 18:27_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Är mjukvaruteknik övermättad 2025? - HackerNoon
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-03-27 18:27_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Medicinteknik, civilingenjör - Chalmers tekniska högskola
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Hälsa-ISAC Hem - Health-ISAC
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- InterSystems utser före detta chef på NHS och Mass General, Dr. Tim Ferris till Vice President, Healthcare Practice - Via TT
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
@@ -127,12 +127,12 @@ _Updated: 2026-03-27 18:27_
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -147,14 +147,14 @@ _Updated: 2026-03-27 18:27_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
