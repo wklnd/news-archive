@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-27 08:48_
+_Updated: 2026-03-27 10:28_
 
-- Trump says he'll sign order to pay TSA agents as Senate works into the night on funding deal - AP News
+- Senate agrees to end shutdown for most of DHS - Politico
+- Trump Says He Will Sign Order to Pay TSA During Shutdown - Bloomberg.com
+- Judge temporarily blocks Pentagon's ban on Anthropic - Axios
+- Stock futures rise as Trump extends Iran negotiations deadline: Live updates - CNBC
 - Trump’s signature to appear on US currency in first for sitting president - Al Jazeera
-- Judge blocks Pentagon order branding Anthropic a national security risk - The Washington Post
-- Middle East crisis live: Trump pausing strikes on Iran energy sites; Houthis say ‘no reason’ to halt Red Sea shipping - The Guardian
-- Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime - AP News
-- No Kings protests 2026: List of locations for Southern California rallies, including Los Angeles, Orange and Riverside counties - ABC7 Los Angeles
-- ‘I have no idea what they are trying to do’: Allies say Trump sends mixed signals on Iran - Politico
-- California Renames Cesar Chavez Holiday After Sex Abuse Revelations - The New York Times
+- Middle East crisis live: Trump pauses strikes on energy sites; German minister says US and Iran to meet for talks in Pakistan - The Guardian
+- Trump’s turn to Iran talks could mean he wants out — or he might have a surprise in store - The Times of Israel
 - Trump administration opens investigations into race in admissions at 3 medical schools - CNN
 - Maduro’s Lawyer Says He Won’t Get Fair Trial Without Money to Pay Legal Bills - WSJ
+- Suspect in Gilgo Beach serial killings expected to plead guilty, sources say - NBC News
 - Two humanitarian aid boats en route to Cuba are missing, Mexico says - Reuters
-- Putin asks oligarchs to donate to budget as cost of Ukraine war soars - Financial Times
+- Putin asks oligarchs to donate to Russia’s dwindling defence budget - The Guardian
+- ‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz - The Guardian
 - Iran and the US harden their positions over talks to end the nearly month-old war - AP News
-- LNG Supply Cut Further After Cyclone Hits Australian Plants - Bloomberg.com
-- Meta Stock Slides As Court Losses Bring 'Big Tobacco Moment' Comparisons - Investor's Business Daily
+- Oil slips on Iran talks, but prices remain elevated - Reuters
 - 2027 Infiniti QX65 Revealed: A More Stylish Tow-Row SUV Option - Motor1.com
-- Netflix raises subscription prices across all plans in US - Reuters
-- Justice Department Files Antitrust Lawsuit Against NewYork-Presbyterian - WSJ
+- Ugh, Netflix is raising prices again - Engadget
+- Meta Stock Slides As Court Losses Bring 'Big Tobacco Moment' Comparisons - Investor's Business Daily
 - Google Translate’s real-time headphone translations feature expands to iOS and more countries - TechCrunch
-- Hades II Comes to Xbox Game Pass on April 14 – Here’s How It Builds on the Iconic Original - Xbox Wire
+- Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks - TechCrunch
