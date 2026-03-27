@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-27 07:26_
+_Updated: 2026-03-27 08:48_
 
 - Trump says he'll sign order to pay TSA agents as Senate works into the night on funding deal - AP News
 - Trump’s signature to appear on US currency in first for sitting president - Al Jazeera
 - Judge blocks Pentagon order branding Anthropic a national security risk - The Washington Post
-- Live Updates: Trump extends pause on striking Iranian energy plants; Witkoff floats 15-point peace proposal - CBS News
-- House passes third DHS funding bill — but it won’t end the shutdown - Live Updates - Politico
-- ‘Tehran’s tollbooth’: a visual guide to how a trickle of ships still passes through strait of Hormuz - The Guardian
+- Middle East crisis live: Trump pausing strikes on Iran energy sites; Houthis say ‘no reason’ to halt Red Sea shipping - The Guardian
+- Iran starts to formalize its chokehold on the Strait of Hormuz with a ‘toll booth’ regime - AP News
+- No Kings protests 2026: List of locations for Southern California rallies, including Los Angeles, Orange and Riverside counties - ABC7 Los Angeles
 - ‘I have no idea what they are trying to do’: Allies say Trump sends mixed signals on Iran - Politico
 - California Renames Cesar Chavez Holiday After Sex Abuse Revelations - The New York Times
 - Trump administration opens investigations into race in admissions at 3 medical schools - CNN
-- Nicolás Maduro held in a "jail inside of a jail" under special administrative measures, sources say - CBS News
+- Maduro’s Lawyer Says He Won’t Get Fair Trial Without Money to Pay Legal Bills - WSJ
 - Two humanitarian aid boats en route to Cuba are missing, Mexico says - Reuters
-- Sharks in the Bahamas test positive for caffeine, painkillers and even cocaine, study finds - CBS News
-- AP is calling Israel's attack on Lebanon an invasion. What does that mean and why does it matter? - AP News
-- Iran and the U.S. harden their positions as Tehran tightens its grip on the Strait of Hormuz - PBS
+- Putin asks oligarchs to donate to budget as cost of Ukraine war soars - Financial Times
+- Iran and the US harden their positions over talks to end the nearly month-old war - AP News
+- LNG Supply Cut Further After Cyclone Hits Australian Plants - Bloomberg.com
 - Meta Stock Slides As Court Losses Bring 'Big Tobacco Moment' Comparisons - Investor's Business Daily
-- Inifiniti hopes new SUV can turn around fortunes in the U.S. - CNBC
-- Justice Department Files Antitrust Lawsuit Against NewYork-Presbyterian - WSJ
+- 2027 Infiniti QX65 Revealed: A More Stylish Tow-Row SUV Option - Motor1.com
 - Netflix raises subscription prices across all plans in US - Reuters
+- Justice Department Files Antitrust Lawsuit Against NewYork-Presbyterian - WSJ
 - Google Translate’s real-time headphone translations feature expands to iOS and more countries - TechCrunch
-- Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Bloomberg.com
+- Hades II Comes to Xbox Game Pass on April 14 – Here’s How It Builds on the Iconic Original - Xbox Wire
