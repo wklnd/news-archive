@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 11:27_
+_Updated: 2026-03-27 12:11_
 
 ## Top Stories
 
 - Fyra gripna i Örebro – misstänks ha sålt Ozempic på nätet - SVT Nyheter
-- Källor: USA överväger att skicka 10 000 soldater - Västerbottens-Kuriren
-- Trump ger Iran mer tid för att öppna Hormuzsundet - Hufvudstadsbladet
-- Medier: Explosioner i södra Beirut - Västerbottens-Kuriren
-- Hon är Natos nya spionchef: Jag har utbildats för det här i 35 år - Dagens Nyheter
-- Flygvapnets stridsflyg aktiva för att avvärja ukrainska drönare - Hufvudstadsbladet
-- DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
-- Ledningar till ny kärnkraft kan ta 15 år - Västerbottens-Kuriren
-- Strömmer (M): ”Vi skyddar inte barn genom att hålla på information” – Senaste nytt om valet 2026 - SVT Nyheter
-- Räddningsledaren om lavinen: "Det hade kunnat vara tio begravda" - NSD
-- Orbán på tvären – men svårt för EU att straffa Ungern - Västerbottens-Kuriren
-- Valen utanför Lübeck är fri – drönare följer dess väg mot Atlanten - Dagens Nyheter
-- Ukrainas krigskassa snart tom - Västerbottens-Kuriren
 - Ryska ilskan växer – Putin hotar gripa alla - Expressen
-- 150 000 kronor lägre kontantinsats för en etta i innerstan - Mitt i
+- SKRÄLLEN: Värmländska riksdagsledamoten lämnar Moderaterna – går till SD - NWT
+- Trump ger Iran mer tid för att öppna Hormuzsundet - Hufvudstadsbladet
+- Flicka misstänkt för två mord - 8 Sidor
+- Medier: Explosioner i södra Beirut - Västerbottens-Kuriren
+- Miljöpartiet KU-anmäler Ebba Busch: ”Ljuger” - Västerbottens-Kuriren
+- C kräver statligt övertagande av Kubal: ”Blodspengar” - Metal Supply
+- Ledningar till ny kärnkraft kan ta 15 år - GP
+- Strömmer (M): ”Vi skyddar inte barn genom att hålla på information” – Senaste nytt om valet 2026 - SVT Nyheter
+- Orbán på tvären – men svårt för EU att straffa Ungern - Västerbottens-Kuriren
+- Ukrainas krigskassa snart tom - Västerbottens-Kuriren
+- Flygvapnets stridsflyg aktiva för att avvärja ukrainska drönare - Hufvudstadsbladet
+- En månad av krig – ”Många dubbla känslor i Iran” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Börsen sjunker – Yubico stiger trots vinstvarning - Affärsvärlden
 - Bures topp om skammen inför 50 000 aktieägare - Dagens PS
-- Framtidstron inom handeln vänder nedåt, 'ett tydligt bakslag' - Svensk Handel - Börsvärlden
-- Stora delar av Garpenbergs gruva håller stängt året ut: ”Naturligtvis kommer det påverka alla” - Dagens Arbete
+- 150 000 kronor lägre kontantinsats för en etta i innerstan - Mitt i
+- Fi varnar för AI-bedragare i börsorons spår - Aftonbladet
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
 - Samsung Galaxy S26 Ultra vs Samsung Galaxy S25 Ultra: vad är skillnaden? - TechRadar
 
 ## World News
 
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -55,19 +55,19 @@ _Updated: 2026-03-27 11:27_
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -128,7 +128,6 @@ _Updated: 2026-03-27 11:27_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
@@ -136,6 +135,7 @@ _Updated: 2026-03-27 11:27_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
