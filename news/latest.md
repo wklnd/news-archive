@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-27 17:31_
+_Updated: 2026-03-27 18:34_
 
-- Senate Votes to Fund Most of D.H.S. in Bid to End Partial Shutdown - The New York Times
-- Florida Democrat found guilty of House Ethics violations - Politico
-- US-Israel war on Iran: What’s happening on day 28 of attacks? - Al Jazeera
-- U.S. uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon - The Washington Post
-- Pentagon weighs sending 10,000 more combat troops to the Middle East - Axios
-- The war in Iran sparks a global fertilizer shortage and threatens food prices - AP News
-- ‘We’re just fed up’: Minnesotans prepare for No Kings rally with colorful, buzzy signs - MPR News
+- DHS funding bill moves to House after early morning passage in Senate - The Washington Post
+- Is Trump's pause on attacking Iranian energy for diplomacy or an escalation? - BBC
+- Iran War Live Updates: Iran Blocks Two Chinese Ships From Strait of Hormuz - WSJ
+- Global Food Supply Faces a Dangerous Bottleneck as Iran War Persists - The New York Times
+- Funding TSA won’t fix long airport lines overnight - CNN
+- House panel finds Rep. Sheila Cherfilus-McCormick guilty of 25 ethics charges - NBC News
+- ‘No Kings’ Protests Across U.S. Cities: What We Know - The New York Times
 - Mullin has a limited window of time to prove himself at DHS - Politico
 - In Maine, Many Older Women Prefer the Younger Man for Senate - The New York Times
-- Thune lays out next steps after Trump's move to restore TSA pay - Axios
+- Man accused in Gilgo Beach serial killings is expected to plead guilty, sources say - AP News
 - Live updates: Trump says US won’t strike Iranian energy sites for 10 days - CNN
-- Ukraine signs deal with Saudi Arabia offering drone expertise - BBC
-- Why hasn’t the US military used force to secure the Strait of Hormuz? - The Conversation
-- Ex-rapper Shah sworn in as Nepal prime minister after sweeping election win - Reuters
-- Stock Market Today: Dow Opens Lower, Brent Crude Climbs — Live Updates - WSJ
-- Before the LaGuardia Crash, Why Didn’t Truck 1 Stop? - The New York Times
+- Iran war shockwaves push Saudi Arabia to strike security deal with Ukraine - politico.eu
+- Nepal’s youngest premier sworn in after releasing new rap song about unity - Al Jazeera
+- Iran Wants U.S. to Dial Back Demands Before Starting Any Talks - WSJ
+- Dow tumbles 500 points, enters correction territory as Trump's Iran extension fails to soothe markets: Live updates - CNBC
+- Consumer sentiment drops sharply in late March as war with Iran creates more financial unease - MarketWatch
 - Meta Stock Slides As Court Losses Bring 'Big Tobacco Moment' Comparisons - Investor's Business Daily
-- A Build America, Buy America law is causing construction delays amid the US housing crisis - AP News
+- Anthropic accidentally leaked details of a new AI model that poses unprecedented cybersecurity risks - Fortune
 - Sony is raising PS5 prices by $100 in April - The Verge
-- Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com
+- Apple has finally discontinued the Mac Pro desktop after years of fitful effort - Ars Technica
