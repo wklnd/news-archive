@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-27 05:38_
+_Updated: 2026-03-27 07:56_
 
 ## Top Stories
 
-- Medier: Explosioner i södra Beirut - GP
-- SKRÄLLEN: Värmländska riksdagsledamoten lämnar Moderaterna – går till SD - NWT
-- DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
+- Rådet för kvinnofrid vill halvera antalet kvinnor som dödas - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Israel: Attacker mot infrastruktur i Iran - Dagens Nyheter
 - Trumps frist gav litet avtryck på oljan - Västerbottens-Kuriren
-- Israel: Attacker mot infrastruktur i Iran - GP
-- Två fartyg med nödhjälp till Kuba försvunna - Västerbottens-Kuriren
-- Kriminologen: Skjutningarna ett väntat bakslag - SVT Nyheter
+- Stig, 80, tog hand om pojke som satt bredvid offret - Omni
+- Fryst mat till äldre istället för nylagat – många kritiska - Sveriges Radio
+- Träningarna hjälper fotbollslaget i sorgen efter ihjälskjutne lagkamraten - Dagens Nyheter
+- DN Direkt – Uppgifter: Tonårsflicka misstänkt i två dödsskjutningar - Dagens Nyheter
+- Strömmer efter dåden: Vi viker inte en tum - Västerbottens-Kuriren
 - Två M-ledamöter byter parti till SD – Senaste nytt om valet 2026 - SVT Nyheter
-- Stor lavinfara vid Kebnekaise - Västerbottens-Kuriren
-- Tidigare AP-toppen varnar för värre miljardsmällar - DI
-- EU-parlamentet röstar för tulluppgörelse – men kräver att USA levererar först - Europaportalen
-- Nya ukrainska attacker mot rysk hamn vid Finska viken - Hufvudstadsbladet
-- Direkt – Krisen i Mellanöstern – Irans utrikesminister i telefonsamtal med Guterres - Dagens Nyheter
-- Hon fick dödshjälp – mot familjens vädjan - Svenska Dagbladet
-- Mångmiljonsatsning i Söderköping när Eon bygger ut - NT
-- Tydlig trend: elbilar billigare än bensinbilar - Svenska Dagbladet
-- Wall Street kanade utför i oljig nedförsbacke - Aftonbladet
-- Stopp i delar av Garpenbergs gruva året ut – så påverkas personalen - SVT Nyheter
+- Stor lavinfara vid Kebnekaise - GP
+- Två fartyg med nödhjälp till Kuba försvunna - SVT Nyheter
+- Forskare: Då ska du inte blanda dig i barnens lek - Dagens Nyheter
+- Källor: USA överväger att skicka 10 000 soldater - Västerbottens-Kuriren
+- Israel skickar fler soldater till Libanon - GP
+- Tydlig trend: Elbilar billigare än bensinbilar - Svenska Dagbladet
+- Orolig omvärld påverkar handelns framtidsförväntningar - Svensk Handel
+- Stora delar av Garpenbergs gruva håller stängt året ut: ”Naturligtvis kommer det påverka alla” - Dagens Arbete
+- 15 000 prislappar ska bytas – butiken rustar för momssänkningen - UNT
 - Nasa skrotar rymdstation – ska bygga en månbas - Omni
 - Läcka avslöjar Moto Razr Ultra 2026 - mobil.se
 
 ## World News
 
-- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
+- Blackrocks vd varnar för risk för global recession om oljepriset stiger till 150 dollar - Bitcoin.com News
+- Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- 40 years of RSF, 40 years of press freedom history - RSF.ORG
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- South Korea: Age system to be standardised from 2023 - BBC
-- Producenten Square Enix ändrar global strategi och bekräftar slutet på exklusiviteten för Final Fantasy-serien - Mix Vale
-- Sudan court sentences three men to hand amputation for stealing - The Guardian
-- International Day of Epidemic Preparedness - World Health Organization (WHO)
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
-- Kenya cult leader Paul Mackenzie faces terror charges over mass deaths - BBC
-- Geetanjali Shree is first Indian winner of International Booker Prize - BBC
-- Lionel Messi: Argentina forward retires from international football - BBC
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
@@ -86,33 +86,32 @@ _Updated: 2026-03-27 05:38_
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Hälsa-ISAC Hem - Health-ISAC
+- Vår hälsa brinner- kampanj om klimatförändringars hälsopåverkan - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- InterSystems utser före detta chef på NHS och Mass General, Dr. Tim Ferris till Vice President, Healthcare Practice - Via TT
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -128,7 +127,7 @@ _Updated: 2026-03-27 05:38_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
