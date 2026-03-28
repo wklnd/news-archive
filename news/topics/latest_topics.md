@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-28 05:21_
+_Updated: 2026-03-28 07:10_
 
 ## Top Stories
 
-- FN varnar för humanitär katastrof i Libanon - Västerbottens-Kuriren
-- Krigskassan sinar: ”Trump kan pressa Ukraina” - Dagens Nyheter
-- Luras in i förhållanden – används av gängen - Svenska Dagbladet
+- Chocksiffrorna i Sjuhärad – så många liberaler har hoppat av - Borås Tidning
+- Brand i byggnad med 90 000 höns – många djur döda - Omni
+- Fler flickor involverade i skjutningar enligt polisen - Sveriges Radio
 - Attack mot saudisk flygbas: amerikanska soldater skadade – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Receptet mot ny våldsvåg: Övervaka vägar till Malmö - Omni
 - Ingmar Nevéus: Den olösliga knuten på vägen mot vapenvila i Iran - Dagens Nyheter
+- Ledare: Perspektiv på partibytare - NWT
 - DN Direkt – Razzia mot spelklubb i centrala Stockholm - Dagens Nyheter
-- Blå Band återkallar bearnaisesås - Corren
 - Polisen förbjuds att öva med granater - GP
-- Höj ambitionsnivån i äldreomsorgen - liberalerna.se
-- Källor: Tio skadade i iransk attack mot flygbas - GP
-- Kriget i Ukraina: Det innebär det för Europa och Sverige - Västerbottens-Kuriren
-- Spår av koffein och kokain hittades i hajar - Sydsvenskan
-- Därför har Iran fortsatt kontroll över Hormuzsundet - Hufvudstadsbladet
+- Höj ambitionsnivån i äldreomsorgen - Liberalerna
+- Elin i Säter har kycklingbrist av fågelinfluensan - Sveriges Radio
+- Israel: Identifierat första roboten från Jemen - Västerbottens-Kuriren
+- FN varnar för humanitär katastrof i Libanon - GP
+- Källor: Tio skadade i iransk attack mot flygbas - Västerbottens-Kuriren
+- Kreml sänker digital järnridå – med egen app - GP
+- Subway-snusket: Svartmögel, smuts och gamla matrester. - Expressen
+- Nu ritas spelreglerna om för sociala medie-jättarna - DI
+- Gränshandeln ökar när Sverige sänker matmomsen - Sveriges Radio
 - Absolut Vodkas franska ägare vill sluka Jack Daniel’s - Sydsvenskan
-- ”Svenska företag måste fatta beslut idag” - Svenska Dagbladet
-- Prischocken på drivmedel får bilköpare att välja elbilar - m3.se
-- Lantbrukarna varnar för högre matpriser - Östersunds-Posten
+- Otrolig upptäckt: Ny gren på livets släktträd har hittats fyra kilometer under havsytan - Illustrerad Vetenskap
 - Sony höjer priserna för PS5 – andra gången i år - Omni
-- Kontrollsäsong: Nya kontroller från flera tillverkare - varvat.se
 
 ## World News
 
@@ -64,17 +64,17 @@ _Updated: 2026-03-28 05:21_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -139,22 +139,22 @@ _Updated: 2026-03-28 05:21_
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - lansstyrelsen.se
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressbild_Mjau & Tassalyckan 30 år - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
