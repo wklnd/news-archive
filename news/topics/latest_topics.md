@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-28 19:54_
+_Updated: 2026-03-28 21:06_
 
 ## Top Stories
 
 - Sömnforskaren: Sant eller falskt om sommartid - Västerbottens-Kuriren
+- Längtar till Sverige – fast i krigets Kabul - Svenska Dagbladet
 - Dadgostar vill se ”Sverigelöfte” – nobbas av C - GP
-- ”Målet var att ta sig tillbaka till Sverige” - Svenska Dagbladet
+- Unga rekryteras till Rysslands hybridkrig – 20 åtalas - Dagens Nyheter
 - Flicka rymde hemifrån – våldtogs i Nordstans parkeringshus - GP
-- ”Vårlovets huvudstad” i USA stålsätter sig inför säsongen - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Zelenskyj: Avtal med gulfstater gäller i tio år - Dagens Nyheter
-- Kriminologen: Tjejer går under radarn - Västerbottens-Kuriren
-- ”Zombiesvamp” hittad i Sverige – kan radiostyra spindlar - Dagens Nyheter
-- Orolig omvärld ger avtryck i trädgårdstrenderna - Västerbottens-Kuriren
-- V-ilska efter SD-toppens kritik mot hbtq-träffar på öppna förskolan - Dagens Nyheter
-- Larmet: USA:s och Israels ammunitionslager sinar - Västerbottens-Kuriren
-- Avvärjde bombdåd i Paris – utreds som terror - corren.se
+- Kriminologen: Tjejer går under radarn - UNT
+- ”Zombiesvamp” hittad i Sverige – radiostyr spindlar - Dagens Nyheter
+- Svenska ägg om storbranden i Mönsterås: ”Kan bli glest bland äggkartongerna” - SVT Nyheter
+- Elin i Säter har kycklingbrist av fågelinfluensan - sverigesradio.se
+- Larmet: USA:s och Israels ammunitionslager sinar - Dagens Nyheter
+- EU fördjupar försvarssamarbete med Västafrika - Bulletin
+- Avvärjde bombdåd i Paris – utreds som terror - Västerbottens-Kuriren
 - Journalister uppges ha dödats i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryskt anfall mot förlossningsklinik i Odessa - GP
 - Lastbil med 12 ton Kitkat kapad - Strengnäs Tidning
 - Stjärnekonom: Beskatta superrika – rädda demokratin - Svenska Dagbladet
-- LVMH-aktien faller kraftigt – värderingen pressas efter svag tillväxt - Dagens PS
 - Konsumenter välkomnar sänkt matmoms: ”Fantastiskt bra” - Omni
+- LVMH-aktien faller kraftigt – värderingen pressas efter svag tillväxt - Dagens PS
 - Apple uppmanar användare att uppdatera iOS efter nya hot - Teknikveckan
 - Sony höjer priserna för PS5 – andra gången i år - Omni
 
@@ -33,7 +33,7 @@ _Updated: 2026-03-28 19:54_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
+- Audit Office: Sweden's work on UN global goals is being undermined - sverigesradio.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - ÖB: Kriget i Iran ”redan en global konflikt” - DI
@@ -44,9 +44,9 @@ _Updated: 2026-03-28 19:54_
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - news.cision.com
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-03-28 19:54_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -100,7 +100,7 @@ _Updated: 2026-03-28 19:54_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medicin & hälsa - Ekot - Sveriges Radio
+- Medicin & hälsa - Ekot - sverigesradio.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
@@ -122,23 +122,23 @@ _Updated: 2026-03-28 19:54_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - ja.se
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
