@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-28 07:10_
+_Updated: 2026-03-28 08:33_
 
 ## Top Stories
 
-- Chocksiffrorna i Sjuhärad – så många liberaler har hoppat av - Borås Tidning
-- Brand i byggnad med 90 000 höns – många djur döda - Omni
-- Fler flickor involverade i skjutningar enligt polisen - Sveriges Radio
-- Attack mot saudisk flygbas: amerikanska soldater skadade – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ingmar Nevéus: Den olösliga knuten på vägen mot vapenvila i Iran - Dagens Nyheter
-- Ledare: Perspektiv på partibytare - NWT
+- Storbrand rasar på gård: ”90 000 höns” - Aftonbladet
+- Turbulens inom Liberalerna – partiet lägger ner i Aneby - Sveriges Radio
+- Dadgostar vill se ”håll ihop Sverige”-löfte med C - Västerbottens-Kuriren
+- Därför har Iran fortsatt kontroll över Hormuzsundet - Hufvudstadsbladet
+- Ryskt tumult – då kom ukrainsk vändning - svd.se
+- Vittnen filmade pojken efter dödsskjutnignen - Omni
 - DN Direkt – Razzia mot spelklubb i centrala Stockholm - Dagens Nyheter
-- Polisen förbjuds att öva med granater - GP
-- Höj ambitionsnivån i äldreomsorgen - Liberalerna
+- Skjutningar i dagsljus sticker ut: ”Tar mer risker” - Dagens Nyheter
+- DN Direkt – Polisen förbjuds att öva med granater - Dagens Nyheter
 - Elin i Säter har kycklingbrist av fågelinfluensan - Sveriges Radio
-- Israel: Identifierat första roboten från Jemen - Västerbottens-Kuriren
-- FN varnar för humanitär katastrof i Libanon - GP
-- Källor: Tio skadade i iransk attack mot flygbas - Västerbottens-Kuriren
+- Attack mot saudisk flygbas: amerikanska soldater skadade – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryskt anfall mot förlossningssjukhus i Odessa - Västerbottens-Kuriren
+- Ingmar Nevéus: Den olösliga knuten på vägen mot vapenvila i Iran - Dagens Nyheter
 - Kreml sänker digital järnridå – med egen app - GP
-- Subway-snusket: Svartmögel, smuts och gamla matrester. - Expressen
-- Nu ritas spelreglerna om för sociala medie-jättarna - DI
+- Subway-snusket: Svartmögel, smuts och gamla matrester. - expressen.se
 - Gränshandeln ökar när Sverige sänker matmomsen - Sveriges Radio
-- Absolut Vodkas franska ägare vill sluka Jack Daniel’s - Sydsvenskan
+- Nu ritas spelreglerna om för sociala medie-jättarna - DI
+- Lantbrukarna varnar för högre matpriser - Östersunds-Posten
 - Otrolig upptäckt: Ny gren på livets släktträd har hittats fyra kilometer under havsytan - Illustrerad Vetenskap
 - Sony höjer priserna för PS5 – andra gången i år - Omni
 
@@ -42,11 +42,11 @@ _Updated: 2026-03-28 07:10_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global oro pressar svenska handlare - DI
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -58,12 +58,12 @@ _Updated: 2026-03-28 07:10_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Oron: Då tar datan på internet slut - svd.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -93,62 +93,61 @@ _Updated: 2026-03-28 07:10_
 ## Health
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - swedbank-aktiellt.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa-ISAC Hem - health-isac.org
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - apollohospitals.com
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- InterSystems utser före detta chef på NHS och Mass General, Dr. Tim Ferris till Vice President, Healthcare Practice - Via TT
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
 - Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - dagens.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
+- Perspektiv på vårdvetenskap - ki.se
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -158,3 +157,4 @@ _Updated: 2026-03-28 07:10_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
