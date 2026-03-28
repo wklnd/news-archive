@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-28 23:53_
+_Updated: 2026-03-29 00:56_
 
 ## Top Stories
 
 - Sömnforskaren: Sant eller falskt om sommartid - Västerbottens-Kuriren
-- Presidentens följare: ”Han ljög om allting” - Omni
-- Knivattack – misstänkt gärningsman blev elchockad av polis - Sveriges Radio
+- Huthierna kan sprida konflikten till Röda havet - Dagens Nyheter
 - Dadgostar vill se ”håll ihop Sverige”-löfte med C - Corren
-- Unga rekryteras till Rysslands hybridkrig – 20 åtalas - Dagens Nyheter
+- Reza kastades ut från Magakonventet: ”Får inte göra min röst hörd” - Dagens Nyheter
 - Kökaos i Nordstans p-hus – igen: ”Fruktansvärt” - GP
+- Man knivhuggen i Bro centrum - SVT Nyheter
 - Svenska ägg om storbranden i Mönsterås: ”Kan bli glest bland äggkartongerna” - SVT Nyheter
+- Advokat missade överklaga dom – hotades av klient ur släktnätverk - Dagens Nyheter
+- Parasitsvamp hittad i Västsverige – radiostyr och äter spindlar - GP
 - Kriminologen: Tjejer går under radarn - unt.se
-- ”Zombiesvamp” hittad i Sverige – radiostyr spindlar - Dagens Nyheter
-- 15-årig flicka häktas för två dödsskjutningar - GP
-- Huthierna hotar att stänga viktigt sund – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- EU fördjupar försvarssamarbete med Västafrika - Bulletin
 - Nio sjukvårdare dödade i Libanon - Västerbottens-Kuriren
+- EU fördjupar försvarssamarbete med Västafrika - Bulletin
+- Unga rekryteras till Rysslands hybridkrig – 20 åtalas - Dagens Nyheter
 - Ryskt anfall mot förlossningsklinik i Odessa - GP
 - Börsrally i Oslo medan grannländerna darrar - Svenska Dagbladet
 - Konsumenter välkomnar sänkt matmoms: ”Fantastiskt bra” - Omni
-- Jon Åsberg: Behöver vi ha bensin i badkaret nu igen? - fokus.se
 - Stjärnekonom: Beskatta superrika – rädda demokratin - Västerbottens-Kuriren
+- Vadslagning om Trump omsätter miljarder - Sveriges Radio
 - Foster visar varför neandertalarna försvann - Dagens Nyheter
 - Apple uppmanar användare att uppdatera iOS efter nya hot - Teknikveckan
 
 ## World News
 
 - Trump Criticises Keir Starmer as Iran Strikes Continue - Poddtoppen
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -37,8 +37,7 @@ _Updated: 2026-03-28 23:53_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- UNDP lanserar läromedel om global utveckling - undp.org
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews.se
@@ -46,6 +45,7 @@ _Updated: 2026-03-28 23:53_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
@@ -57,19 +57,19 @@ _Updated: 2026-03-28 23:53_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -101,7 +101,7 @@ _Updated: 2026-03-28 23:53_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medicin & hälsa - Ekot - Sveriges Radio
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
@@ -123,17 +123,17 @@ _Updated: 2026-03-28 23:53_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
