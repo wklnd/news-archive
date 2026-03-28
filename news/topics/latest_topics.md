@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-28 22:56_
+_Updated: 2026-03-28 23:53_
 
 ## Top Stories
 
 - Sömnforskaren: Sant eller falskt om sommartid - Västerbottens-Kuriren
-- Längtar till Sverige – fast i krigets Kabul - Svenska Dagbladet
 - Presidentens följare: ”Han ljög om allting” - Omni
-- Kökaos i Nordstans p-hus – igen: ”Fruktansvärt” - GP
+- Knivattack – misstänkt gärningsman blev elchockad av polis - Sveriges Radio
+- Dadgostar vill se ”håll ihop Sverige”-löfte med C - Corren
 - Unga rekryteras till Rysslands hybridkrig – 20 åtalas - Dagens Nyheter
-- DN Direkt – Ny jätteprotest mot Trump i USA - Dagens Nyheter
+- Kökaos i Nordstans p-hus – igen: ”Fruktansvärt” - GP
 - Svenska ägg om storbranden i Mönsterås: ”Kan bli glest bland äggkartongerna” - SVT Nyheter
-- Kriminologen: Tjejer går under radarn - UNT
+- Kriminologen: Tjejer går under radarn - unt.se
 - ”Zombiesvamp” hittad i Sverige – radiostyr spindlar - Dagens Nyheter
-- Advokat missade överklaga dom – hotades av klient ur släktnätverk - Dagens Nyheter
-- Avvärjde bombdåd i Paris – utreds som terror - GP
-- WHO: Nio sjukvårdare dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- 15-årig flicka häktas för två dödsskjutningar - GP
+- Huthierna hotar att stänga viktigt sund – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - EU fördjupar försvarssamarbete med Västafrika - Bulletin
-- Ryskt anfall mot förlossningsklinik i Odessa - Västerbottens-Kuriren
-- Lastbil med 12 ton Kitkat kapad - strengnastidning.se
-- Stjärnekonom: Beskatta superrika – rädda demokratin - Svenska Dagbladet
+- Nio sjukvårdare dödade i Libanon - Västerbottens-Kuriren
+- Ryskt anfall mot förlossningsklinik i Odessa - GP
+- Börsrally i Oslo medan grannländerna darrar - Svenska Dagbladet
 - Konsumenter välkomnar sänkt matmoms: ”Fantastiskt bra” - Omni
 - Jon Åsberg: Behöver vi ha bensin i badkaret nu igen? - fokus.se
+- Stjärnekonom: Beskatta superrika – rädda demokratin - Västerbottens-Kuriren
 - Foster visar varför neandertalarna försvann - Dagens Nyheter
 - Apple uppmanar användare att uppdatera iOS efter nya hot - Teknikveckan
 
@@ -35,18 +35,18 @@ _Updated: 2026-03-28 22:56_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - Sveriges Radio
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- ÖB: Kriget i Iran ”redan en global konflikt” - DI
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- ÖB: Kriget i Iran ”redan en global konflikt” - DI
 - UNDP lanserar läromedel om global utveckling - undp.org
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -92,26 +92,26 @@ _Updated: 2026-03-28 22:56_
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medicin & hälsa - Ekot - Sveriges Radio
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik.se
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -119,21 +119,21 @@ _Updated: 2026-03-28 22:56_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
