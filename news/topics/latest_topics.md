@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-29 10:02_
+_Updated: 2026-03-29 11:05_
 
 ## Top Stories
 
 - Ny attack mot rysk hamn i Finska viken - Västerbottens-Kuriren
 - I natt ställdes klockan om – men hur länge ska vi ändra tid? - NT
-- DN Direkt – Ny jätteprotest mot Trump i USA - Dagens Nyheter
+- Åtta miljoner i protest mot Trump - SVT Nyheter
+- DN Direkt – Maduros första ord från häktet: Vi är lugna - Dagens Nyheter
 - Tre bröder levde enkelt hela livet – donerade 30 miljoner till Stadsmissionen - Dagens Nyheter
-- Forskaren: Vi skulle få konfiskera Forsmark - Svenska Dagbladet
 - 17-åriga Sara slogs medvetslös – polisvåldet avslöjas av övervakningsfilm - Sydsvenskan
-- Svenskdonerade fartyg kommer inte fram till Ukraina - Västerbottens-Kuriren
+- Färre kvinnor mördades i fjol – män punktmarkeras - Västerbottens-Kuriren
+- Svenskdonerade fartyg kommer inte fram till Ukraina - GP
 - Politikerhatet ökar under valår: ”Skulle slaktas som en kossa” - Dagens Nyheter
-- Färre kvinnor mördades i fjol – män punktmarkeras - GP
 - Kriminologen: Tjejer går under radarn - UNT
-- Iranska attacker mot fabriker i grannländer – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Iran: USA pratar om förhandlingar – men planerar markinvasion – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Krigsmotståndet ökar i Israel – flera gripna efter helgens protester - Dagens Nyheter
 - Amerikanskt amfibiefartyg framme i Mellanöstern - Västerbottens-Kuriren
 - Flera personer påkörda i Storbritannien - GP
-- Reza kastades ut från Magakonventet: ”Får inte göra min röst hörd” - Dagens Nyheter
+- Musks hemliga algoritm: Fem steg som gör det omöjliga möjligt - Dagens PS
+- Fler deklarerar tidigt – sista chansen för återbäring i april - Dagens Nyheter
 - Nya bolåneregler – detta ska du ha koll på - Svenska Dagbladet
 - Burgarjättar om matmomsen: ”Sänker inte för hela menyn” - Omni
-- Så kan oljekrisen snabba på den gröna omställningen: "Extremt dyrt" - sverigesradio.se
-- Nervöst Wall Street går in i kortvecka: ”Stor osäkerhet” - Omni Ekonomi
+- "Det kompletta paketet": Jag testade LG G6 OLED-TV sida vid sida med G5 i våra testlabb och skillnaden är tydlig - TechRadar
 - Knepet som flyttar alla appar till en ny mobil eller platta - PC för Alla
-- Foster visar varför neandertalarna försvann - Dagens Nyheter
 
 ## World News
 
@@ -31,8 +31,8 @@ _Updated: 2026-03-29 10:02_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Audit Office: Sweden's work on UN global goals is being undermined - sverigesradio.se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -41,11 +41,11 @@ _Updated: 2026-03-29 10:02_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - nhl.com
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Seminar series: Global Lectures - ui.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-03-29 10:02_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,7 +98,6 @@ _Updated: 2026-03-29 10:02_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Medicin & hälsa - Ekot - sverigesradio.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -106,6 +105,7 @@ _Updated: 2026-03-29 10:02_
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -142,19 +142,19 @@ _Updated: 2026-03-29 10:02_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Nya ledamöter i KSLA:s Allmänna avdelning | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
