@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-29 21:55_
+_Updated: 2026-03-29 22:58_
 
 ## Top Stories
 
 - Netanyahu: Utökar kontrollen längre in i Libanon - Västerbottens-Kuriren
-- Pakistan: Samtal med USA och Iran om några dagar - GP
-- Stubb om drönarna: Vi följer utvecklingen noga - Hufvudstadsbladet
-- Stor gräsbrandsrisk - Västerbottens-Kuriren
-- Svenske entreprenören tvingas stänga kulturhus i Havanna - Dagens Nyheter
-- Skola i Kungsbacka hotad – håller stängt - GP
+- C-ledaren: Inte intresserad av samarbete med V - gp.se
+- Källor: USA förbereder markinsats i Iran - gp.se
+- Pakistan: Samtal med USA och Iran om några dagar - gp.se
+- Kapareskolan håller stängt – efter bombhot - svt.se
+- Netanyahu: Invasionen av södra Libanon utökas – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Grilla försiktigt – fortsatt stor gräsbrandsrisk - Västerbottens-Kuriren
 - Forssell: Förslag om tonårsutvisningar senast i maj - Dagens Nyheter
-- Trafikverket vägrar betala vägnota – bromsar försvarets upprustning - Dagens Nyheter
-- Svenska ägg om storbranden i Mönsterås: ”Kan bli glest bland äggkartongerna” - SVT Nyheter
-- ”Jag fick veta att allt jag gjort inte var tillräckligt” - Dagens Nyheter
+- Svenska ägg om storbranden i Mönsterås: ”Kan bli glest bland äggkartongerna” - svt.se
+- Kvinna från Skåne häktad för misstänkt barnvåldtäkt - svt.se
+- Stubb om drönarna: Vi följer utvecklingen noga - Hufvudstadsbladet
+- Gisslandiplomati, exportdrömmar och sabotage – Sveriges stormiga relation till Iran - Dagens Nyheter
 - Ukraina tar på sig attack i Finska viken - Västerbottens-Kuriren
-- Netanyahu: Invasionen av södra Libanon utökas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Iran varnar USA för att sätta in marktrupper: ”Redo för förödelse” - Dagens Nyheter
 - Maduros första ord från häktet: Vi är lugna - Västerbottens-Kuriren
-- Risk för djup kris i världsekonomin - Expressen
 - Nya bolåneregler – det här ska du ha koll på - Borås Tidning
-- De vill satsa privata miljarder på vägarna - Svenska Dagbladet
+- Så kan oljekrisen snabba på den gröna omställningen: "Extremt dyrt" - Sveriges Radio
 - Miljardbelopp i återbäring till hushållen efter påsk - DI
+- Stora Coop tjuvstartar med sänkt matmoms: ”Vi sänker måndag morgon” - nkp.se
 - Himlen är blodröd – fenomentet bakom - Expressen
-- Astronauterna tillbaka på rymdbas – redo för månfärd - Omni
+- Studie: Ögondroppar gjorda av grissperma stoppade tumör från att växa hos möss - gp.se
 
 ## World News
 
@@ -45,8 +45,8 @@ _Updated: 2026-03-29 21:55_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -54,18 +54,18 @@ _Updated: 2026-03-29 21:55_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
@@ -74,15 +74,15 @@ _Updated: 2026-03-29 21:55_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -115,7 +115,7 @@ _Updated: 2026-03-29 21:55_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -140,21 +140,21 @@ _Updated: 2026-03-29 21:55_
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - landlantbruk.se
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - landlantbruk.se
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Här är tio megagårdar att drömma om - landlantbruk.se
 - Data blir en tillgång för bönderna - landlantbruk.se
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - landlantbruk.se
