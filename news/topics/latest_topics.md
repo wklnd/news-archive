@@ -1,56 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-29 17:54_
+_Updated: 2026-03-29 19:01_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Nya attacker i Israel och Iran - Dagens Nyheter
-- Ukrainsk attackdrönare störtade i Finland - GP
+- Trumps kandidat vill sätta eld på amerikanska soldater - Aftonbladet
 - Forssell: Förslag om tonårsutvisningar senast i maj - Dagens Nyheter
+- Tioårige Ali skadades i attack – kusinerna och pappan dog - Sveriges Radio
 - Ekonomernas värsta skräck kan bli verklighet - GP
 - Larmet från Malmö museum: ”Folk är otroligt rädda” - Sydsvenskan
-- Kor beslagtas och slaktas – nu växer ilskan bland ryska bönder - Sveriges Radio
-- Kvinna häktad för misstänkt barnvåldtäkt - Västerbottens-Kuriren
-- Gång- och cykelpendling kan ge friskare hjärta - GP
-- Kriminologen: Tjejer går under radarn - UNT
-- I natt ställdes klockan om – men hur länge ska vi ändra tid? - NT
-- Iran varnar USA för att sätta in marktrupper: ”Redo för förödelse” - Dagens Nyheter
-- Explosioner i Iran och Israel – hot mot krigsfartyg - Västerbottens-Kuriren
+- William Nordén hittades död i Borås – polisens efterlysning - GP
+- Kvinna från Skåne häktad för misstänkt barnvåldtäkt - SVT Nyheter
+- Gång- och cykelpendling kan ge friskare hjärta - Västerbottens-Kuriren
+- Ökad risk för gräsbränder – så förebygger du - VF
+- ”Jag fick veta att allt jag gjort inte var tillräckligt” - Dagens Nyheter
+- Rysk desinformation om kraschade drönare - Dagens Nyheter
+- Källor: USA förbereder markinsats i Iran - Västerbottens-Kuriren
 - Ny attack mot rysk hamn i Finska viken - Corren
-- Krigsmotståndet ökar i Israel – flera gripna efter helgens protester - Dagens Nyheter
+- Kor beslagtas och slaktas – nu växer ilskan bland ryska bönder - Sveriges Radio
 - Nya bolåneregler – detta ska du ha koll på - UNT
+- De vill satsa privata miljarder på vägarna - Svenska Dagbladet
 - Så kan oljekrisen snabba på den gröna omställningen: "Extremt dyrt" - Sveriges Radio
-- Analytiker om Saab: Inte största vinnaren i Irankriget - Omni Ekonomi
 - Finsk startup lovar “mirakelbatteri” – men experter sågar bevisen - Dagens Nyheter
 - Himlen är blodröd – fenomentet bakom - Expressen
-- Elbilsbränder kräver ny kunskap - Västerbottningen
+- Destiny 2 firar in våren med fysisk fostran. Och Magic: the gathering… - varvat.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Ottawa to supply $15.6M to tariff-impacted Saskatchewan workers and employers - Global News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - nhl.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
@@ -95,8 +95,8 @@ _Updated: 2026-03-29 17:54_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices - Inderes
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - su.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Medicin & hälsa - Ekot - Sveriges Radio
@@ -116,29 +116,29 @@ _Updated: 2026-03-29 17:54_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - svt.se
-- Sherry Nakhaeizadeh - uu.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - ki.se
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - ja.se
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -148,13 +148,13 @@ _Updated: 2026-03-29 17:54_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Här är tio megagårdar att drömma om - Land Lantbruk
+- Data blir en tillgång för bönderna - Land Lantbruk
