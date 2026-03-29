@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-03-29 09:37_
+_Updated: 2026-03-29 10:05_
 
-- 'No Kings' protests — Trump critics rally across the US - dw.com
-- Live updates: Iran war, heavy bombardment in Tehran as conflict expands - CNN
-- Pentagon prepares for weeks of ground operations in Iran - The Washington Post
-- Missing aid boats land in Cuba after being located by Mexican navy - NBC News
-- As historic March heatwave finally fades, a brief cooler/wetter interlude will occur across the U.S. West in early April before warmth & dryness likely return - Weather West
-- Bills to pay FAA and TSA workers during shutdowns get introduced but keep stalling in Congress - AP News
+- A Challenge for ‘No Kings’ Protests, the Third Time Around - The New York Times
+- Iran-backed Houthis enter the monthlong war and could further threaten global shipping - AP News
+- Missing aid boats land in Cuba after being located by Mexican navy - nbcnews.com
+- Iranian attack on Saudi base injures U.S. troops as more American forces arrive in the Middle East - PBS
+- Iran has a new demand to end the war – and it could bring in billions - CNN
+- War, walkouts, and $200 fuel are turning flying into a grind - Business Insider
 - California attack survivors, who were not believed by police, get the last word against kidnapper - CBS News
+- Pentagon prepares for weeks of ground operations in Iran - The Washington Post
+- US House passes stopgap DHS funding bill after Republicans reject Senate deal - theguardian.com
 - Record Number of T.S.A. Employees Called Out on Friday - The New York Times
-- JD Vance leads CPAC poll for next Republican presidential candidate - The Guardian
-- Persistent heat and dangerous wildfire conditions could impact these parts of the US this weekend - abcnews.com
+- Iran War Live Updates: Tehran Hit by Heavy Airstrikes as U.S. Marines Arrive in Middle East - The New York Times
 - How Pakistan Wooed Trump and Styled Itself as a Peace Broker in Iran Conflict - WSJ
 - European allies say Russia is helping Iran more than the U.S. has acknowledged, sources say - CBS News
-- Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones - The Guardian
-- Nepal’s former prime minister KP Sharma Oli arrested over deaths during Gen Z protests - CNN
+- Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones - theguardian.com
 - What Smart People Are Saying About the Market Sell-Off - markets.businessinsider.com
 - Oil industry executives paint grim picture of Iran war supply disruption (USO:NYSEARCA) - Seeking Alpha
 - L.A. social media addiction verdict set to unleash more lawsuits — and force changes - Los Angeles Times
