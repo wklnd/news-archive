@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-29 19:04_
+_Updated: 2026-03-29 20:01_
 
 - ‘No Kings’ Protests Decry Trump and His Agenda - The New York Times
 - Iran war: Tehran warns US against ground assault - dw.com
-- Daughter of immigrants brings history to bear in fight for birthright citizenship - The Washington Post
-- Cornered and wounded, will Iran now go for a nuclear bomb? - CNN
-- Israeli police bar top Catholic figure in Jerusalem from holding Palm Sunday mass at Holy Sepulchre - France 24
-- Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message - NPR
-- North Korea conducts engine test for missile capable of targeting US mainland - Politico
-- At CPAC, Texas Shows Love for Ken Paxton and Boos for an Absent John Cornyn - The New York Times
-- Pentagon said prepping weeks-long ground operation in Iran, short of full invasion - The Times of Israel
-- A month into Iran, the GOP’s political reality sinks in - Politico
+- A Houthi missile attack on Israel stokes fears of renewed Red Sea shipping strikes - AP News
+- Looking to limit birthright citizenship, Trump turns to an 1884 Supreme Court ruling against a Native American man - NBC News
+- Israel bars church leaders from Palm Sunday mass ‘for the first time in centuries,’ church says - CNN
+- France detains two more suspects over foiled Paris Bank of America attack - Reuters
+- North Korea conducts engine test for missile capable of targeting US mainland - politico.com
+- CPAC activists embrace Paxton as MAGA’s choice for Senate over Cornyn - AP News
+- Pentagon prepares for weeks of ground operations in Iran - The Washington Post
+- Scalise says senators have 'buyer’s remorse’ over DHS funding vote - politico.com
+- Pope seems to rebuke Trump in remarks about leaders with ‘hands full of blood’ - The Guardian
 - Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month? - Al Jazeera
 - Zelenskyy visits Doha as Ukraine, Qatar sign defense pact - dw.com
-- Two unidentified drones crash in Finland, defence ministry says - Euronews.com
-- France detains two more suspects over foiled Paris Bank of America attack - Reuters
+- IDF strikes 'critical' Iranian ballistic missile manufacturing sites in Tehran - Yahoo
 - What Smart People Are Saying About the Market Sell-Off - markets.businessinsider.com
 - Oil on track for record monthly surge as Iran war disrupts markets - The Guardian
-- He wants children's bikes made in the U.S.A. — and tariffs against his rivals - NPR
 - Why the Iran War May Force Countries to Rely Less on Natural Gas - The New York Times
+- She quit VC to replace the underwire bra. Now she's Nordstrom's fastest-growing brand - Fortune
+- 5 Major Brands You Might Not Realize Are Owned By Amazon - bgr.com
 - PlayStation prices surge worldwide amid tariffs and supply strain, second hike in a year - KOMO
-- Bluesky leans into AI with Attie, an app for building custom feeds - TechCrunch
