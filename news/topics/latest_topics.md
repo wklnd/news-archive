@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-30 00:59_
+_Updated: 2026-03-30 01:56_
 
 ## Top Stories
 
 - Netanyahu: Utökar kontrollen längre in i Libanon - Västerbottens-Kuriren
-- C-ledaren: Inte intresserad av samarbete med V - GP
-- Källor: USA förbereder markinsats i Iran - GP
 - Pakistan: Samtal med USA och Iran om några dagar - GP
 - Bilder visar förödelsen vid USA:s bas – Ryssland pekas ut - Aftonbladet
-- Ukraina tar på sig attack i Finska viken - Västerbottens-Kuriren
+- C-ledaren: Inte intresserad av samarbete med V - Västerbottens-Kuriren
+- Källor: USA förbereder markinsats i Iran - GP
+- Kapareskolan i Onsala håller stängt – efter bombhot - SVT Nyheter
 - Grilla försiktigt – fortsatt stor gräsbrandsrisk - Västerbottens-Kuriren
 - Forssell: Förslag om tonårsutvisningar senast i maj - Dagens Nyheter
 - Kommunen blir en vit fläck för Liberalerna: ”Inget besked vi ville ge” - VF
-- I natt ställdes klockan om – men hur länge ska vi ändra tid? - NT
-- DN Direkt – Uppgifter: USA tillåter rysk oljetanker att nå Kuba - Dagens Nyheter
+- Explosion vid flerfamiljshus i Södertälje - SVT Nyheter
+- Källor: USA släpper fram tanker - Aftonbladet
 - Stubb om drönarna: Vi följer utvecklingen noga - Hufvudstadsbladet
 - Gisslandiplomati, exportdrömmar och sabotage – Sveriges stormiga relation till Iran - Dagens Nyheter
-- Vance eller Rubio – kriget kan avgöra vem som efterträder Trump - Dagens Nyheter
+- Netanyahu: Invasionen av södra Libanon utökas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Nya bolåneregler – det här ska du ha koll på - Borås Tidning
-- Stora Coop tjuvstartar med sänkt matmoms: ”Vi sänker måndag morgon” - nkp.se
+- NKP - Stora Coop tjuvstartar med sänkt matmoms: ”Vi sänker måndag morgon” - nkp.se
 - INSÄNDARE: Kan man misslyckas mer kapitalt än så här? - Allehanda.se
-- Debatt: ”Oförutsägbar elmarknad hotar stålindustrins konkurrenskraft” - Tidningen Näringslivet
+- Oljepriset stiger vid öppning - Aftonbladet
 - Himlen är blodröd – fenomentet bakom - Expressen
 - Castlevania: Order of Ecclesia (Nintendo DS) - FZ.se
 
@@ -92,23 +92,23 @@ _Updated: 2026-03-30 00:59_
 
 ## Health
 
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Medicin & hälsa - Ekot - Sveriges Radio
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Medicin & hälsa - Ekot - Sveriges Radio
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Webbaserad kurs i egen takt genom Stanford University: ”Partnering with the Public and Patients in Medical Research” - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -118,22 +118,22 @@ _Updated: 2026-03-30 00:59_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - apple.com
+- Forskning om hälso- och sjukvårdskuratorer inom EU - Socionomen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- Krigsvetenskap - Försvarshögskolan
 - Ny koalition för att vidareutveckla bedömning av forskning - umu.se
-- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -151,10 +151,10 @@ _Updated: 2026-03-30 00:59_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
