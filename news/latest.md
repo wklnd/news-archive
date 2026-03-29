@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-29 01:59_
+_Updated: 2026-03-29 05:46_
 
-- ‘No Kings’ Protests Decry Trump and His Agenda - The New York Times
+- At 'No Kings' rallies, anti-Trump protesters speak out against ICE 'cruelty,' Iran war - NPR
 - Middle East crisis live: Houthis carry out ‘second military operation’ against Israel and vow to continue in coming days - The Guardian
-- What to know about Trump's executive order to pay TSA officers and its impact on airport security lines - PBS
-- Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - AP News
-- There Was a Deal to Fund the TSA! Then Mike Johnson Got Involved. - Slate
-- At CPAC, many Republicans stand by Trump on Iran. But they're divided on how the war could end. - CBS News
-- Henry Lee, forensic scientist who testified at O.J. Simpson trial, dies at 87 - CBS News
-- Trump just ended a 165-year tradition by signing your dollar bills — here's why no president has ever done it before - Yahoo Finance
+- Missing sailboats carrying aid land in Cuba after being located by Mexican navy - politico.com
+- Bills to pay FAA and TSA workers during shutdowns get introduced but keep stalling in Congress - AP News
 - More than 3,500 U.S. Troops arrive in Middle East as Iran war strikes intensify - CBS News
-- 4 weeks in, Trump’s conflicting signals on Iran war frustrate GOP lawmakers and political allies - CNN
-- Israeli airstrike kills three Lebanese journalists, Israel says it targeted one - Reuters
+- Iran has a new demand to end the war – and it could bring in billions - CNN
+- Why some Democrats want to shut off Hasan Piker’s ‘megaphone’ - politico.com
+- Trump just ended a 165-year tradition by signing your dollar bills — here's why no president has ever done it before - finance.yahoo.com
+- Vice President JD Vance tops CPAC’s straw poll to be US president in 2028 - Al Jazeera
+- The top moments from this year’s CPAC conference in Texas - AP News
+- Israel kills 3 journalists in Lebanon, including reporter for Hezbollah-run broadcaster - CNN
 - European allies say Russia is helping Iran more than the U.S. has acknowledged, sources say - CBS News
-- Zelenskyy visits Gulf Arab states to talk drone defense and seek strategic ties - AP News
-- Israel bombs 2 IRGC-linked steel plants, 2 nuclear facilities as Iran vows revenge - The Times of Israel
-- L.A. social media addiction verdict set to unleash more lawsuits — and force changes - Los Angeles Times
+- Ukraine war briefing: Zelenskyy drums up defence agreements with Gulf states on countering missiles and drones - The Guardian
+- Nepal's former prime minister Oli arrested over deaths during Gen Z protests - reuters.com
 - Market Sell-Off Breaking Hearts; What To Do Now - Investor's Business Daily
+- L.A. social media addiction verdict set to unleash more lawsuits — and force changes - Los Angeles Times
+- SA Asks: What's the best data center infrastructure stock right now? - Seeking Alpha
 - Sugar high(st): more than twelve tons of KitKat’s ‘new chocolate range’ stolen in Italy - The Guardian
-- Bank of America to Pay $72.5 Million to Settle Lawsuit by Epstein Victims - The New York Times
-- Apple Releasing Two New iPhone Apps This Year - MacRumors
+- Beat-based dungeon crawlers, card-battling soccer sims and other new indie games worth checking out - Engadget
 - Apple still selling the Mac Pro through its Certified Refurbished store - 9to5Mac
