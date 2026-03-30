@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 17:53_
+_Updated: 2026-03-30 19:34_
 
-- Trump threatens to 'obliterate' Iran's energy facilities if deal not reached 'shortly' - BBC
+- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
 - Trump officials cite white supremacists in bid to end birthright citizenship - The Washington Post
 - US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
-- Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday - The New York Times
 - Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade - AP News
-- ‘No Kings’ 3.0 brought tens of thousands of peaceful protesters across Northwest - Oregon Public Broadcasting - OPB
-- Trump Administration Live Updates: T.S.A. Pay to Resume, but ICE Could Remain at Airports, Homan Says - The New York Times
-- Poll: The battle for MAHA that could sway the midterms - Politico
-- DHS shutdown hits record as TSA agents prepare to receive pay - Fox News
-- Partial remains of California banker missing since 1999 found twice, 23 years apart - KTLA
-- Trump is weighing all options on Iran’s Kharg Island - NPR
+- 5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up - The New York Times
+- New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows - The New York Times
+- ICE May Remain at Airports Even After T.S.A. Pay Resumes, Border Czar Says - The New York Times
+- Swalwell locks in labor win — and a familiar fight with Trump - Politico
+- Scathing Poll Reveals Trump Has a Major MAHA Problem - The Daily Beast
+- Brent crude hits $116 a barrel as Trump threatens to ‘blow up’ Iran’s oil wells and export hub - The Guardian
 - The Latest: Iran warns US against ground invasion as regional powers meet in Pakistan - WKBN.com
-- Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war? - Al Jazeera
-- Tehran Briefly Loses Power After Strikes as Peace Push Ramps Up - Bloomberg.com
-- Dow rises 400 points after Trump says U.S. in 'serious' talks to end operation in Iran: Live updates - cnbc.com
-- Air Canada C.E.O. to Step Down Amid Backlash Over Comments After Crash - The New York Times
-- Sysco Nears $29 Billion Deal to Buy Restaurant Depot, WSJ Says - Bloomberg.com
-- China’s chatbot industry is fiercely competing for customers. Cue the freebies - NPR
-- Exclusive: Google Pixel 11 Official CAD Renders & Rumors - Android Headlines
-- iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature - MacRumors
+- Israel Knesset set to vote on death penalty law for Palestinians convicted of lethal attacks - Reuters
+- This 6-foot-long fish makes a 7,000-mile round trip to spawn. Amazon nations are uniting to save it - CNN
+- 3 Men Charged as Police Find Nearly $100M Worth of Cocaine Hidden in Bananas - Yahoo
+- Stock Market Today: Brent Crude Pushes Higher, Dow Advances — Live Updates - WSJ
+- Michael Rousseau, Air Canada’s CEO, to Step Down Amid Backlash Over Comments After Crash - The New York Times
+- US food giant Sysco strikes $29 billion deal for catering supplier Restaurant Depot - Reuters
+- Department of Labor proposes rule for including alternative assets in 401(k)s - CNBC
+- Google Pixel 11 looks like another minor evolution in leak, slightly thinner [Gallery] - 9to5Google
+- For $200 more, you can get a MacBook Air - The Verge
