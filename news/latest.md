@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 21:40_
+_Updated: 2026-03-30 22:24_
 
-- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - cbsnews.com
-- Major US airports return to normal as TSA workers get paid - Reuters
-- Trump officials cite white supremacists in bid to end birthright citizenship - The Washington Post
-- Thousands of US Army paratroopers arrive in Middle East as buildup intensifies - Reuters
+- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
+- The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother - AP News
 - Spain closes airspace to aircraft involved in Iran war, but US bases are being used in other ways - EL PAÍS English
+- Thousands of US Army paratroopers arrive in Middle East as buildup intensifies - Reuters
 - US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
-- ICE May Remain at Airports Even After T.S.A. Pay Resumes, Border Czar Says - The New York Times
-- Judge appears skeptical of Pentagon’s latest press restrictions: ‘Is this a Catch-22?’ - Politico
-- Russian Oil Tanker Arrives in Cuba After US Approved Passage - Bloomberg.com
-- New factories and supersized Obamacare premiums: North Carolina considers what Trump has wrought - Politico
+- Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday - The New York Times
+- Major US airports return to normal as TSA workers get paid - Reuters
+- Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor case - AP News
+- Michigan synagogue attack was Hezbollah-inspired act of terrorism, FBI says - CNN
+- Student shoots teacher, then kills himself at Hill Country school - San Antonio Express-News
 - The Latest: Iran warns US against ground invasion as regional powers meet in Pakistan - WKBN.com
-- Israel passes law to give death penalty to Palestinians convicted of lethal attacks - The Guardian
+- Iran says its expelled ambassador won’t leave Lebanon as political tensions soar - AP News
 - 3 Men Charged as Police Find Nearly $100M Worth of Cocaine Hidden in Bananas - Yahoo
-- They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret. - The New York Times
-- Stock Market Today: Brent Crude Pushes Higher, Dow Advances — Live Updates - WSJ
-- US Department of Labor issues 401k guidelines on private assets - Yahoo Finance
+- Brent crude hits $116 a barrel as Trump threatens to ‘blow up’ Iran’s oil wells and export hub - The Guardian
+- S&P 500 falls alongside tech as oil continues march higher: Live updates - cnbc.com
+- US Department of Labor proposes landmark rule to democratize access to alternative investments in 401(k) plans - U.S. Department of Labor (.gov)
 - US Bond Traders Reverse Course to Bet Again on Fed Cut This Year - Bloomberg.com
-- US food giant Sysco strikes $29 billion deal for catering supplier Restaurant Depot - Reuters
+- Sysco expands into high-margin restaurant segment with $29 billion deal - AP News
 - Bluesky Users Respond With Overwhelming Disgust to Platform’s New AI - Futurism
 - iOS 27 could add one of Apple’s most popular iPhone apps yet - 9to5Mac
