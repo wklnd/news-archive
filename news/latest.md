@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 13:38_
+_Updated: 2026-03-30 14:39_
 
 - Trump says he is considering seizing Iran's Kharg Island, but deal could be made 'very quickly' - BBC
 - How a SCOTUS decision on birthright citizenship could impact education access - NPR
+- Trump says he has "no problem" with Russian tanker bringing oil to Cuba despite blockade - CBS News
 - Dow futures fall 300 points as Wall Street braces for U.S. ground assault on Iran and Houthi attacks - Fortune
-- US Plans to Allow Russian Oil Tanker Into Cuba, Easing Crisis - Bloomberg.com
-- Border czar says ICE may not leave airports once TSA officers are paid - NBC News
-- Iran warns U.S. troops will be "set on fire" if Americans launch ground operation - CBS News
-- Poll: MAHA wants more. They may turn to Democrats to get it. - Politico
-- TSA pay may be coming, but airport delays could persist and ICE agents may not leave soon - AP News
-- Fighter jets intercept civilian plane above Palm Beach, amid rumors - WPEC
+- Iran threatens to ‘rain fire’ on US troops as possible ground war looms - CNN
 - US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
+- Poll: The battle for MAHA that could sway the midterms - Politico
+- NORAD INTERCEPTS AIRCRAFT VIOLATING TEMPORARY FLIGHT RESTRICTIONS OVER PALM BEACH, FLORIDA - DVIDS
+- ICE agents may remain at airports even after TSA agents get paid - The Washington Post
+- Protesters turn out for local 'No Kings' protests - WYFF News 4
+- Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com
 - Houthi attacks on Israel open new front in Mideast war, threaten Red Sea shipping - France 24
-- Pakistan Says Ready to Facilitate US-Iran Talks Within Days - Bloomberg.com
-- He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man. - The New York Times
-- They’ve Been Accused of Running a ‘Covert’ Operation in Greenland. It’s No Secret. - The New York Times
-- Oil prices soar to over $115 as Middle East war widens - Investing.com
-- Stock futures inch higher to start a holiday-shortened trading week: Live updates - CNBC
-- Yen and rupee rise as Asian countries struggle to defend their currencies - Financial Times
-- Government Bonds Everywhere Are Rallying on Slowdown Concerns - Bloomberg.com
-- Bluesky's next product is an AI assistant that helps build custom social media feeds - Engadget
+- Can the ‘Dubai Dream’ Survive the War? Residents Say Life Goes On. - The New York Times
+- Iran warns U.S. ground troops would be 'set on fire' and Pakistan says it will host U.S.-Iran talks - PBS
+- Government Bonds Rally Around the World on Slowdown Concerns - Bloomberg.com
+- Global shares decline as oil prices soar amid fears about escalation in Iran - AP News
+- Bank of Japan chief signals vigilance to yen moves, impact on economy By Reuters - Investing.com
+- This Is What Happens When the Gas Runs Out - The New York Times
+- 6 Android 17 features in development I can't wait to use - Android Police
 - Apple's 50th Anniversary Finale Revealed - MacRumors
