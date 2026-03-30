@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-30 21:33_
+_Updated: 2026-03-30 22:06_
 
 ## Top Stories
 
+- Israels parlament säger ja till dödsstraff - GP
+- Iran godkänner lagförslag om tullar i Hormuzsundet - Omni
 - Man död i trafikolycka på E6 - aftonbladet.se
 - Polis avstängd - kopplas till skjutbana med kriminella - Sveriges Radio
-- Israels parlament säger ja till dödsstraff - Västerbottens-Kuriren
-- Åtal: Pressade fru att sälja sex till 120 män - Svenska Dagbladet
-- Källor: Trump överväger att beslagta Iranskt uran - dn.se
-- Gängen riktar in sig på unga tjejer – en växande trend - tidningensyre.se
+- DN Direkt – Blev påkörd av bil – man i 90-årsåldern död - dn.se
+- Exflickvän i mordhärva tappade minnet i rätten – döms för mened - sydsvenskan.se
 - Larmet: Liseberg kan tvångsstängas av ny lag - GP
-- Frontalkrock utanför Katrineholm – flera skadade - Västerbottens-Kuriren
 - Misstänkt mord i Lund – man gripen - SVT Nyheter
+- Frontalkrock utanför Katrineholm – flera skadade - Västerbottens-Kuriren
 - 18-årige Ghaith var på väg hem från skolan – sköts ihjäl på bussen i Tyresö - SVT Nyheter
 - Det här vet vi nu om störtade drönarna - Hufvudstadsbladet
 - Merz: 800 000 syrier bör återvända - Västerbottens-Kuriren
-- Trumps hot om inte avtal nås: "Fullständig utplåning" - Expressen
-- Direkt – Krisen i Mellanöstern – Netanyahu: Utökade buffertzoner i Libanon - dn.se
+- Iran inför tullar i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Dödsfall på alla sidor i nya anfall i Libanon - GP
 - Experterna: Därför höjer bankerna räntan redan nu - EFN
 - Betydligt billigare elfaktura väntar - Tidningen Näringslivet
 - Oprövade företag får miljarder till nya gruvor i USA - Dagens PS
@@ -27,26 +27,26 @@ _Updated: 2026-03-30 21:33_
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på ikväll 22:25 - TV.nu
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Åberg uttagen till Ryder Cup - TV4 Nyheterna
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - news.sky.com
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - undp.org
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - aftonbladet.se
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - undp.org
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - nhl.com
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
 
 ## Technology
 
@@ -57,13 +57,13 @@ _Updated: 2026-03-30 21:33_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - via.tt.se
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - mynewsdesk.com
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -94,7 +94,7 @@ _Updated: 2026-03-30 21:33_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - su.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
@@ -125,7 +125,7 @@ _Updated: 2026-03-30 21:33_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -149,7 +149,7 @@ _Updated: 2026-03-30 21:33_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
