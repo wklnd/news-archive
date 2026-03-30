@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 22:24_
+_Updated: 2026-03-30 23:25_
 
 - Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
-- The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother - AP News
-- Spain closes airspace to aircraft involved in Iran war, but US bases are being used in other ways - EL PAÍS English
+- Trump officials cite white supremacists in bid to end birthright citizenship - The Washington Post
+- The No Kings Protests Are Cause for Hope - jacobin.com
 - Thousands of US Army paratroopers arrive in Middle East as buildup intensifies - Reuters
-- US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
-- Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday - The New York Times
-- Major US airports return to normal as TSA workers get paid - Reuters
-- Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor case - AP News
+- White House: Russian tanker allowed to break Cuba blockade for ‘humanitarian reasons’ - Politico
 - Michigan synagogue attack was Hezbollah-inspired act of terrorism, FBI says - CNN
-- Student shoots teacher, then kills himself at Hill Country school - San Antonio Express-News
-- The Latest: Iran warns US against ground invasion as regional powers meet in Pakistan - WKBN.com
-- Iran says its expelled ambassador won’t leave Lebanon as political tensions soar - AP News
-- 3 Men Charged as Police Find Nearly $100M Worth of Cocaine Hidden in Bananas - Yahoo
-- Brent crude hits $116 a barrel as Trump threatens to ‘blow up’ Iran’s oil wells and export hub - The Guardian
-- S&P 500 falls alongside tech as oil continues march higher: Live updates - cnbc.com
-- US Department of Labor proposes landmark rule to democratize access to alternative investments in 401(k) plans - U.S. Department of Labor (.gov)
+- Founder of ‘orgasmic meditation’ company gets 9 years in prison in forced labor case - apnews.com
+- Trump administration sues Minnesota over transgender athletes in girls sports - apnews.com
+- 15-year-old Texas student shoots teacher at high school, then dies at scene - NBC News
+- Major US airports return to normal as TSA workers get paid - Reuters
+- Iran says its expelled ambassador won’t leave Lebanon as political tensions soar - apnews.com
+- 3 arrested in U.K. after nearly $100 million worth of cocaine found hidden in bananas - CBS News
+- Iran's strike hurt up to 20 U.S. personnel and damaged 2 radar jets in Saudi Arabia - NPR
+- Spain closes its airspace to all US aircraft involved in Iran war - euronews.com
+- Judge reassigns 3 Elon Musk cases, but denies she showed bias against him with emoji - Business Insider
 - US Bond Traders Reverse Course to Bet Again on Fed Cut This Year - Bloomberg.com
-- Sysco expands into high-margin restaurant segment with $29 billion deal - AP News
-- Bluesky Users Respond With Overwhelming Disgust to Platform’s New AI - Futurism
-- iOS 27 could add one of Apple’s most popular iPhone apps yet - 9to5Mac
+- US food giant Sysco strikes $29 billion deal for catering supplier Restaurant Depot - Reuters
+- Air Canada CEO to retire after English-only response to LaGuardia tragedy - Politico
+- Bluesky’s new AI tool Attie is already the most blocked account other than J.D. Vance - TechCrunch
+- For $200 more, you can get a MacBook Air - The Verge
