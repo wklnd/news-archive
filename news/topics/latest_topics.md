@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-30 22:06_
+_Updated: 2026-03-30 23:08_
 
 ## Top Stories
 
-- Israels parlament säger ja till dödsstraff - GP
-- Iran godkänner lagförslag om tullar i Hormuzsundet - Omni
-- Man död i trafikolycka på E6 - aftonbladet.se
+- Iran vill införa tuffa tullar – och stoppa fartyg från USA - GP
+- Israels parlament säger ja till dödsstraff - Västerbottens-Kuriren
+- Polisen utreder dödsfall i Lund – man gripen - Sydsvenskan
+- DN Direkt – Finansministern utesluter inte ransonering av drivmedel - Dagens Nyheter
 - Polis avstängd - kopplas till skjutbana med kriminella - Sveriges Radio
-- DN Direkt – Blev påkörd av bil – man i 90-årsåldern död - dn.se
-- Exflickvän i mordhärva tappade minnet i rätten – döms för mened - sydsvenskan.se
+- Man död i trafikolycka på E6 - Aftonbladet
 - Larmet: Liseberg kan tvångsstängas av ny lag - GP
-- Misstänkt mord i Lund – man gripen - SVT Nyheter
 - Frontalkrock utanför Katrineholm – flera skadade - Västerbottens-Kuriren
 - 18-årige Ghaith var på väg hem från skolan – sköts ihjäl på bussen i Tyresö - SVT Nyheter
-- Det här vet vi nu om störtade drönarna - Hufvudstadsbladet
+- JOHAN RUDSTRÖM: Frysmaten på väg ta över hemtjänsten - UNT
 - Merz: 800 000 syrier bör återvända - Västerbottens-Kuriren
+- Det här vet vi nu om störtade drönarna - Hufvudstadsbladet
 - Iran inför tullar i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Dödsfall på alla sidor i nya anfall i Libanon - GP
 - Experterna: Därför höjer bankerna räntan redan nu - EFN
-- Betydligt billigare elfaktura väntar - Tidningen Näringslivet
+- Så påverkar momssänkningen priser på hämtmat från april - Sveriges Radio
+- Diamyd kollapsar på börsen – kan stoppa studie efter fiasko - Affärsvärlden
 - Oprövade företag får miljarder till nya gruvor i USA - Dagens PS
-- Sänkt matmoms välkomnas – Tommy och Marina: ”Skillnad” - SLA
-- Människan på väg mot månen för första gången på över 50 år - Hällekiskuriren
+- Historisk besättning ska runda månen - Svenska Dagbladet
 - 7 inställningar du bör ändra på din nya MacBook Neo för att komma igång på rekordtid - TechRadar
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på ikväll 22:25 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Åberg uttagen till Ryder Cup - TV4 Nyheterna
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - news.sky.com
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - UNDP lanserar läromedel om global utveckling - undp.org
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - nhl.com
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -57,11 +57,11 @@ _Updated: 2026-03-30 22:06_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - nyheter.ki.se
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -86,62 +86,63 @@ _Updated: 2026-03-30 22:06_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - mynewsdesk.com
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
 - Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - mynewsdesk.com
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - mynewsdesk.com
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - mynewsdesk.com
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - mynewsdesk.com
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - mynewsdesk.com
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - mynewsdesk.com
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - mynewsdesk.com
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - nyheter.ki.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medicin & hälsa - Ekot - Sveriges Radio
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - nyheter.ki.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - mynewsdesk.com
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - mynewsdesk.com
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - mynewsdesk.com
 - CGM J4 logga 16_9.jpg - mynewsdesk.com
-- GoCo Health Innovation City dubblar markyta och investering - mynewsdesk.com
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Sherry Nakhaeizadeh - uu.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - nyheter.ki.se
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - nyheter.ki.se
+- Invigning av The Cell där konst möter life science - nyheter.ki.se
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - nyheter.ki.se
 
 ## Jordbruk
 
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - mynewsdesk.com
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
