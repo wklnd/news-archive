@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 05:50_
+_Updated: 2026-03-30 08:19_
 
-- U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade - The New York Times
+- Middle East crisis live: Trump says he wants to ‘take the oil’ in Iran and could seize Kharg Island ‘easily’ - The Guardian
+- 5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up - The New York Times
+- U.S. will let Russian oil tanker reach Cuba, breaking Trump’s effective fuel blockade - The Washington Post
 - Iran warns U.S. troops will be "set on fire" if Americans launch ground operation - CBS News
-- What the Houthis’ entry into the Iran war means for the conflict and the wider region - theguardian.com
-- Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday - Al Jazeera
-- Protesters turn out for local 'No Kings' protests - WYFF News 4
-- Looking to limit birthright citizenship, Trump turns to an 1884 Supreme Court ruling against a Native American man - NBC News
-- ‘The Cult of Cesar’: Inside the Mountain Compound Led by Cesar Chavez - The New York Times
-- Pentagon reportedly preparing for weeks of ground operations in Iran - Military Times
+- In Supreme Court fight over birthright citizenship, a great-grandson hears echoes of 1898 - Reuters
+- Israel prevents Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church - Politico
+- Democrats Panic as Power Player Sets Off 2028 Chaos - The Daily Beast
 - ICE officers could remain at airports after TSA workers are paid - NPR
-- TSA line wait times subside at BWI-Marshall day after ICE deployment - WBAL-TV
-- Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire' - AP News
-- Zelenskyy arrives in Jordan to bolster security ties - Al Jazeera
-- Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message - NPR
-- Chevron Says Damage at Wheatstone LNG Will Hamper Restart - Bloomberg.com
-- Oil rises above $115 and Asia stocks slide as Iran war escalates - BBC
+- ‘The Cult of Cesar’: Inside the Mountain Compound Led by Cesar Chavez - The New York Times
+- War, walkouts, and $200 fuel are turning flying into a grind - businessinsider.com
+- Pakistan Says Saudi, Egypt, Turkey Support US-Iran Peace Talks - Bloomberg.com
+- Sovereign citizen fugitive believed shot dead by police after 7-month manhunt - CNN
+- Oil jumps, stocks slide ahead of U.S. stock market open as Iran war rounds one month - NBC News
+- Central Haitian town descends into fire and bloodshed from gang warfare - AP News
 - Exclusive: US Treasury to consult with insurance regulators on private credit lenders, sources say - Reuters
-- The Strait of Hormuz Oil Shock Is Now Heading West - Bloomberg.com
-- Dow futures fall 300 points as Wall Street braces for U.S. ground assault on Iran and Houthi attacks - Fortune
+- Oil Rises, Asian Equities Fall on Fears of Widening Middle East Conflict - WSJ
+- Flight attendant in Air Canada crash faces long recovery after ‘miracle’ survival - The Independent
+- Meta’s legal defeat could be a victory for children, or a loss for everyone - The Verge
+- The Pixel 10a doesn’t have a camera bump, and it’s great - techcrunch.com
 - Even the ‘Avatar’ Fighting Game Is Disrespecting ‘Legend of Korra’ - Gizmodo
-- The Pixel 10a doesn’t have a camera bump, and it’s great - TechCrunch
