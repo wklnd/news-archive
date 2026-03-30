@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 14:39_
+_Updated: 2026-03-30 16:10_
 
 - Trump says he is considering seizing Iran's Kharg Island, but deal could be made 'very quickly' - BBC
-- How a SCOTUS decision on birthright citizenship could impact education access - NPR
-- Trump says he has "no problem" with Russian tanker bringing oil to Cuba despite blockade - CBS News
-- Dow futures fall 300 points as Wall Street braces for U.S. ground assault on Iran and Houthi attacks - Fortune
-- Iran threatens to ‘rain fire’ on US troops as possible ground war looms - CNN
-- US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
-- Poll: The battle for MAHA that could sway the midterms - Politico
-- NORAD INTERCEPTS AIRCRAFT VIOLATING TEMPORARY FLIGHT RESTRICTIONS OVER PALM BEACH, FLORIDA - DVIDS
-- ICE agents may remain at airports even after TSA agents get paid - The Washington Post
-- Protesters turn out for local 'No Kings' protests - WYFF News 4
+- How a SCOTUS decision on birthright citizenship could impact education access - npr.org
+- Israeli police block Catholic figures from Palm Sunday Mass at Jerusalem's Holy Sepulchre - NBC News
+- Russian Oil Tanker Arrives in Cuba After US Approved Passage - Bloomberg.com
+- Spain closes airspace to US planes involved in Iran war, defence minister says - Reuters
+- Trump administration cuts turned rural towns into sitting ducks for disasters - npr.org
+- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
+- What We Know About the T.S.A. and ICE Presence at Airports - The New York Times
+- Fighter jets intercept civilian plane above Palm Beach, amid rumors - WPEC
+- Partial remains of California banker missing since 1999 found twice, 23 years apart - ktla.com
 - Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com
-- Houthi attacks on Israel open new front in Mideast war, threaten Red Sea shipping - France 24
 - Can the ‘Dubai Dream’ Survive the War? Residents Say Life Goes On. - The New York Times
 - Iran warns U.S. ground troops would be 'set on fire' and Pakistan says it will host U.S.-Iran talks - PBS
-- Government Bonds Rally Around the World on Slowdown Concerns - Bloomberg.com
-- Global shares decline as oil prices soar amid fears about escalation in Iran - AP News
-- Bank of Japan chief signals vigilance to yen moves, impact on economy By Reuters - Investing.com
-- This Is What Happens When the Gas Runs Out - The New York Times
-- 6 Android 17 features in development I can't wait to use - Android Police
-- Apple's 50th Anniversary Finale Revealed - MacRumors
+- He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man. - The New York Times
+- Crude oil and LNG supply are at risk of the worst-possible scenario - Reuters
+- Sysco Nears $29 Billion Deal to Buy Restaurant Depot, WSJ Says - Bloomberg.com
+- Private-Credit Wobbles Could Prove Perilous for Trump - The New York Times
+- China’s chatbot industry is fiercely competing for customers. Cue the freebies - npr.org
+- Motorola reveals when pre-orders will start for the Razr Fold in one country - PhoneArena
+- Apple's 50th Anniversary Finale Revealed - macrumors.com
