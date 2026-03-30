@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-30 16:10_
+_Updated: 2026-03-30 17:53_
 
-- Trump says he is considering seizing Iran's Kharg Island, but deal could be made 'very quickly' - BBC
-- How a SCOTUS decision on birthright citizenship could impact education access - npr.org
-- Israeli police block Catholic figures from Palm Sunday Mass at Jerusalem's Holy Sepulchre - NBC News
-- Russian Oil Tanker Arrives in Cuba After US Approved Passage - Bloomberg.com
-- Spain closes airspace to US planes involved in Iran war, defence minister says - Reuters
-- Trump administration cuts turned rural towns into sitting ducks for disasters - npr.org
-- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
-- What We Know About the T.S.A. and ICE Presence at Airports - The New York Times
-- Fighter jets intercept civilian plane above Palm Beach, amid rumors - WPEC
-- Partial remains of California banker missing since 1999 found twice, 23 years apart - ktla.com
-- Finland Warns Drone Activity to Continue After Breaches - Bloomberg.com
-- Can the ‘Dubai Dream’ Survive the War? Residents Say Life Goes On. - The New York Times
-- Iran warns U.S. ground troops would be 'set on fire' and Pakistan says it will host U.S.-Iran talks - PBS
-- He Led Congo for 18 Years. Now, Joseph Kabila Is a Hunted Man. - The New York Times
-- Crude oil and LNG supply are at risk of the worst-possible scenario - Reuters
+- Trump threatens to 'obliterate' Iran's energy facilities if deal not reached 'shortly' - BBC
+- Trump officials cite white supremacists in bid to end birthright citizenship - The Washington Post
+- US Sees First Combat Loss of Valuable E-3 Jet in Missile Strike - Bloomberg.com
+- Catholic Leaders Barred From Jerusalem Holy Site on Palm Sunday - The New York Times
+- Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade - AP News
+- ‘No Kings’ 3.0 brought tens of thousands of peaceful protesters across Northwest - Oregon Public Broadcasting - OPB
+- Trump Administration Live Updates: T.S.A. Pay to Resume, but ICE Could Remain at Airports, Homan Says - The New York Times
+- Poll: The battle for MAHA that could sway the midterms - Politico
+- DHS shutdown hits record as TSA agents prepare to receive pay - Fox News
+- Partial remains of California banker missing since 1999 found twice, 23 years apart - KTLA
+- Trump is weighing all options on Iran’s Kharg Island - NPR
+- The Latest: Iran warns US against ground invasion as regional powers meet in Pakistan - WKBN.com
+- Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war? - Al Jazeera
+- Tehran Briefly Loses Power After Strikes as Peace Push Ramps Up - Bloomberg.com
+- Dow rises 400 points after Trump says U.S. in 'serious' talks to end operation in Iran: Live updates - cnbc.com
+- Air Canada C.E.O. to Step Down Amid Backlash Over Comments After Crash - The New York Times
 - Sysco Nears $29 Billion Deal to Buy Restaurant Depot, WSJ Says - Bloomberg.com
-- Private-Credit Wobbles Could Prove Perilous for Trump - The New York Times
-- China’s chatbot industry is fiercely competing for customers. Cue the freebies - npr.org
-- Motorola reveals when pre-orders will start for the Razr Fold in one country - PhoneArena
-- Apple's 50th Anniversary Finale Revealed - macrumors.com
+- China’s chatbot industry is fiercely competing for customers. Cue the freebies - NPR
+- Exclusive: Google Pixel 11 Official CAD Renders & Rumors - Android Headlines
+- iOS 27 Rumored to Feature All-New Siri App With 'Extensions' Feature - MacRumors
