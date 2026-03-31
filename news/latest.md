@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 21:40_
+_Updated: 2026-03-31 22:23_
 
-- Supreme Court strikes Colorado ban on conversion therapy - NPR
-- ‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war - The Guardian
+- Judge temporarily halts construction of Trump's White House ballroom - BBC
+- Supreme Court rules against ban on ‘conversion therapy’ for LGBTQ+ minors - The Washington Post
 - Pete Hegseth says "upcoming days will be decisive" in war against Iran - CBS News
+- Judge blocks Trump's executive order to end federal funding for PBS and NPR - PBS
+- ‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war - The Guardian
 - A U.S. journalist is kidnapped in Iraq - NPR
-- ‘God Squad’ Waives Environmental Rules for Drilling in the Gulf of Mexico - The New York Times
-- Rep. Eric Swalwell sends cease and desist letter to FBI director over old investigative files - NBC News
-- Here's a look at birthright citizenship, and how the world sees it, as Supreme Court case looms - AP News
-- Trump Live Updates: King Charles Visit, Presidential Library and More - The New York Times
+- Trump’s top litigator faces uphill battle with birthright citizenship - CNN
+- Army suspends aircrew flying helicopters near Kid Rock's home - NBC News
+- 3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - AP News
 - In a town close to the farmworker movement, some struggle to process Chavez allegations - NPR
-- Ex-FBI agents on Trump cases cite Todd Blanche's remarks in suit over 'illegal' firings - NBC News
 - Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts - The Washington Post
-- Pope vs. Trump: Pontiff takes aim at U.S. policies - Axios
 - Russian Oil Exports Plunge as Drone Strikes Cripple Baltic Ports - Bloomberg.com
 - Top Brussels official urges Europeans to work from home and drive less - politico.eu
-- Stock Market Today: Dow Surges on Hopes War Could End Soon - WSJ
+- European ministers in Ukraine for Bucha atrocities anniversary as drones hammer Russian oil ports - AP News
+- Stock Market Today: Major Indexes Ending Weak Quarter on High Note as Investors Optimistic Iran War May End Soon; Dow Adds 1,000 Points - investopedia.com
 - US average gas price hits $4 a gallon amid Iran war - Axios
-- Spice maker McCormick adds to its extensive stable of brands names with Unilever deal - abcnews.com
+- Spice maker McCormick to combine with Hellmann's maker Unilever in latest food industry shakeup - AP News
 - Stocks Rise Sharply Amid Optimism for War’s End - The New York Times
 - Apple at 50: a visual history - The Verge
-- I’ve tested the highly anticipated AirPods Max 2 wireless headphones – was it worth the wait? - What Hi-Fi?
+- Google Now Lets You Change Your Gmail Address. Here’s How - WIRED
