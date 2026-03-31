@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 10:41_
+_Updated: 2026-03-31 11:44_
 
 - Live updates: Kuwaiti tanker laden with oil attacked as Trump again threatens to blow up Iran’s energy facilities - CNN
-- The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother - AP News
+- Trump threatens to destroy Iran's desalination plants. Here’s what that could mean for the Mideast - AP News
 - 12 times Trump signaled the Iran war was about to end - Axios
-- Trump threatens to "obliterate" Iran's energy and water infrastructure - Axios
+- Trump’s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars - nytimes.com
 - Rep. Eric Swalwell sends cease-and-desist letter to FBI Director Kash Patel - The Washington Post
-- Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say - The New York Times
-- Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - The New York Times
+- TSA agents see partial paychecks - Federal News Network
+- Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - nytimes.com
 - Trump unveils renderings of planned presidential library tower - The Washington Post
-- Kid Rock sparks US Army probe after helicopter flyby at his mansion - BBC
+- DHS shutdown set to stretch on with Congress on 2-week break - CBS News
 - Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say - AP News
+- Iran War Live Updates: U.S. Hits Isfahan With Bunker Buster Bombs - WSJ
+- Haiti: At least 70 killed in 'massacre,' says rights group - DW.com
+- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
 - Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis - AP News
-- How this rebel group complicates the Iran war for the U.S. - Axios
-- Australia readies social media court action citing teen ban breaches - Reuters
-- Israel assassinates three journalists in Lebanon; Iranian universities and energy sites targeted; Cuban oil embargo broken - Givebutter
+- Gas prices soar past $4 on average for a gallon of regular in the US, the highest since 2022 - AP News
 - Employees could use 401(k)s to invest in crypto, private equity under Trump plan - The Washington Post
-- Average Gasoline Price Hits $4 in U.S., a ‘Headache’ for Drivers and Trump - The New York Times
-- Air Canada CEO will retire this year after his English-only crash message was criticized - CNN
-- China factory activity rebounds in March as Iran war looms over growth - AP News
+- Asian Stocks Wipe Out 2026 Gains as War Drives Inflation Worries - Bloomberg.com
+- Air Canada CEO to resign after backlash to video tribute of pilots killed in crash - theguardian.com
 - iOS 26.5 beta 1: Here are all the new features - 9to5Mac
-- Apple at 50: How a garage startup became a $3.5-trillion titan - Los Angeles Times
+- Apple at 50: eight technology leaps that changed our world - The Conversation
