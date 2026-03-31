@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 17:49_
+_Updated: 2026-03-31 19:37_
 
-- Justices Reject Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors - The New York Times
-- Trump says Strait of Hormuz is the world’s problem: ‘Go get your own oil!’ - Politico
+- Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors - The New York Times
+- 12 times Trump signaled the Iran war was about to end - Axios
 - Pete Hegseth says "upcoming days will be decisive" in war against Iran - CBS News
-- Iran Attacks Oil Tanker After Trump Wavers on War Escalation - Bloomberg.com
-- In Supreme Court Justices’ Histories, a Story of Immigration in America - The New York Times
+- The man behind Donald Trump’s push to end birthright citizenship - Politico
 - U.S. Drops Bunker Buster Bombs on Iranian Ammunition Depot - WSJ
+- Data shows three-quarters of ICE arrestees in Minnesota had no criminal record - MPR News
+- CBS Sports execs navigating Tiger Woods’ Masters minefield after latest DUI - New York Post
+- 3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - Yahoo
+- JD Vance has a new book about his religious faith, 'Communion,' coming out later this spring - AP News
 - Charlie Kirk bullet analysis finds no conclusive link to rifle found near scene - The Guardian
-- 3 FBI agents fired after investigating Trump file class action suit alleging 'retribution campaign' - AP News
-- Trump Shares Renders Of His Future Presidential Library—A Miami Skyscraper Emblazoned With His Name - Forbes
-- The DHS shutdown might never end - Politico
 - What do Trump’s threats to bomb Iran desalination plants mean for rest of Mideast? - The Times of Israel
-- Putin’s Internet Blackout: A Chaotic Drive to Cut Off Russians From the World - The New York Times
-- How an Indian LPG tanker escaped Hormuz via an unusual route - Reuters
-- European ministers in Ukraine for Bucha atrocities anniversary as drones hammer Russian oil ports - AP News
-- U.S. Gas Prices Hit $4 a Gallon on Average, a ‘Headache’ for Drivers and Trump - The New York Times
-- McCormick to Combine with Unilever's Foods Business, Creating a Preeminent Global Flavor-Focused Company - McCormick
-- Stock Market Today: Dow Jumps, Gas Tops $4 a Gallon — Live Updates - WSJ
-- JPMorgan Takes On American Dream in Latest Firmwide Initiative - Bloomberg.com
+- EU Commission calls Israel’s death penalty law ‘a clear step backwards’ - politico.eu
+- Russia slowly trying to splinter its internet from rest of world, analysts say - The Guardian
+- Live updates: Iran strikes fully loaded oil tanker off Dubai coast as gas reaches $4 per gallon in US - AP News
+- US average gas price hits $4 a gallon amid Iran war - Axios
+- Stock Market Today: Dow, Nasdaq Climb On Trump's Words; Biotech Soars (Live Coverage) - Investor's Business Daily
+- Spice maker McCormick adds to its extensive stable of brands names with Unilever deal - abcnews.com
+- Oil and Gas Prices Continue to Rise in Choppy Trade - The New York Times
 - Apple at 50: a visual history - The Verge
-- Exclusive: Google Pixel 11 Pro Official CAD Renders & Rumors - Android Headlines
+- The AirPods Max 2 are a great sequel, but not an ambitious one - The Verge
