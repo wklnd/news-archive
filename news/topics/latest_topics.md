@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 22:06_
+_Updated: 2026-03-31 23:04_
 
 ## Top Stories
 
-- Misstänkte mördaren i Tyresö skulle suttit inne – frigavs i förtid - Sveriges Radio
 - Ännu en kvinna häktas efter dödsskjutning i Malmö - Västerbottens-Kuriren
-- Gulan Avci tar över Stockholmsliberalerna efter Jan Jönsson - SVT Nyheter
-- Tekniskt strul för länsbor: ”Felsöker med högsta prioritet” - Sveriges Radio
-- Nathan Shachar: Jemens seglivade huthiregim utmanar Israel – men försiktigt - Dagens Nyheter
+- Misstänkte mördaren i Tyresö skulle suttit inne – frigavs i förtid - Sveriges Radio
 - Oron inom Liberalerna – ”kuppförsök” och infiltration - Dagens Nyheter
+- Trump: Hämta er egen olja - Västerbottens-Kuriren
+- Gulan Avci tar över Stockholmsliberalerna efter Jan Jönsson - SVT Nyheter
+- Påven Leo uppmanar Trump att avsluta kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - C:s nya regeringskrav: ”Den friskaste generationen någonsin” - Dagens Nyheter
 - Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte - Regeringen.se
-- Man död i mc-olycka utanför Ludvika - Västerbottens-Kuriren
-- En frihetsberövad efter skolhot - GP
+- Uppsalaföretaget bakom teknikkaoset: "Vet inte" - UNT
+- Bil rullade av vägen – en person förd till sjukhus - Sveriges Radio
 - Dödsstraff för palestinier gör knappast Israel säkrare - GP
-- Kung Charles besöker Trump i USA - GP
-- Hegseth: Gjort hemlig resa till Mellanöstern - Dagens Nyheter
-- Sett en drönare? Så ska du göra - Hufvudstadsbladet
-- Storbanker höjer bolåneräntor: ”Går på de som har det sämre” - Sveriges Radio
-- Priset på mat går ner genom momssänkning: ”Informerar så mycket vi kan” - Mariestads-Tidningen
+- Expert: Trump återvänder med svansen mellan benen - Dagens Nyheter
+- Israel: Fyra soldater döda i Libanon - Västerbottens-Kuriren
+- Uppgifter: Trump vill avsluta trots stängt Hormuz - Hufvudstadsbladet
+- Nu halveras matmomsen – Statsministern: Det kommer göra stor skillnad - Sveriges Radio
+- Vänsterpartiets krav på Svantesson: ”Måste pressa räntorna” - Aftonbladet
+- Okända paragrafen slår mot ingenjörer: ”Stress” - Svenska Dagbladet
 - Gigantiskt mineralfynd i Anderna väcker hopp – och oro - Dagens PS
-- Lurade till sig hundratusentals kronor – så går fusket med pensionerna till - Dagens Nyheter
 - Första resan till månen på femtio år: ”Ny rymdkapplöpning” - Sveriges Radio
-- Så kan den dynamiska ön krympa på nästa iPhone - Teknikveckan
+- Apple öppnar Ios för fler hörlurar och klockor i EU - mobil.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global maktkamp om medicinska innovationer – Europa halkar efter - lakemedelsvarlden.se
+- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-03-31 22:06_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -79,6 +79,7 @@ _Updated: 2026-03-31 22:06_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -87,7 +88,6 @@ _Updated: 2026-03-31 22:06_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -128,7 +128,7 @@ _Updated: 2026-03-31 22:06_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
@@ -148,17 +148,17 @@ _Updated: 2026-03-31 22:06_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Här är världens största jordbruk - atl.nu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
