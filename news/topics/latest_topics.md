@@ -1,35 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 23:04_
+_Updated: 2026-04-01 00:03_
 
 ## Top Stories
 
+- Sverige till VM efter rysare mot Polen - Svenska Dagbladet
 - Ännu en kvinna häktas efter dödsskjutning i Malmö - Västerbottens-Kuriren
-- Misstänkte mördaren i Tyresö skulle suttit inne – frigavs i förtid - Sveriges Radio
-- Oron inom Liberalerna – ”kuppförsök” och infiltration - Dagens Nyheter
-- Trump: Hämta er egen olja - Västerbottens-Kuriren
-- Gulan Avci tar över Stockholmsliberalerna efter Jan Jönsson - SVT Nyheter
 - Påven Leo uppmanar Trump att avsluta kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- C:s nya regeringskrav: ”Den friskaste generationen någonsin” - Dagens Nyheter
-- Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte - Regeringen.se
+- Villa i Sorsele står i brand - går inte att rädda - Sveriges Radio
+- Gulan Avci blir Liberalernas toppnamn i Stockholm - GP
+- En man häktad misstänkt för mord i Tyresö - aklagare.se
+- Maria Malmer Stenergard: ”Allvarligast är hur Ryssland gynnas av kriget” - Dagens Nyheter
 - Uppsalaföretaget bakom teknikkaoset: "Vet inte" - UNT
+- C kräver ”friskaste generationen någonsin” - Västerbottens-Kuriren
 - Bil rullade av vägen – en person förd till sjukhus - Sveriges Radio
 - Dödsstraff för palestinier gör knappast Israel säkrare - GP
 - Expert: Trump återvänder med svansen mellan benen - Dagens Nyheter
+- Sett en drönare? Så ska du göra - Hufvudstadsbladet
 - Israel: Fyra soldater döda i Libanon - Västerbottens-Kuriren
-- Uppgifter: Trump vill avsluta trots stängt Hormuz - Hufvudstadsbladet
-- Nu halveras matmomsen – Statsministern: Det kommer göra stor skillnad - Sveriges Radio
 - Vänsterpartiets krav på Svantesson: ”Måste pressa räntorna” - Aftonbladet
+- Nu halveras matmomsen – Statsministern: Det kommer göra stor skillnad - Sveriges Radio
 - Okända paragrafen slår mot ingenjörer: ”Stress” - Svenska Dagbladet
-- Gigantiskt mineralfynd i Anderna väcker hopp – och oro - Dagens PS
+- Stockholmsbörsen fortsätter uppåt - placera.se
 - Första resan till månen på femtio år: ”Ny rymdkapplöpning” - Sveriges Radio
 - Apple öppnar Ios för fler hörlurar och klockor i EU - mobil.se
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på ikväll 21:40 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -37,16 +39,14 @@ _Updated: 2026-03-31 23:04_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -97,48 +97,48 @@ _Updated: 2026-03-31 23:04_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Medicin & hälsa - Ekot - Sveriges Radio
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- E-hälsa inom EU - Läkartidningen
+- Vi presenterar HealthBench - openai.com
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Vi presenterar ChatGPT Health - openai.com
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- CGM J4 logga 16_9.jpg - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,9 +148,9 @@ _Updated: 2026-03-31 23:04_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
