@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 08:01_
+_Updated: 2026-03-31 09:52_
 
 ## Top Stories
 
-- Iran vill införa tuffa tullar – och stoppa fartyg från USA - GP
-- Väntar en markinvasion eller förhandlingar? – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Dömdes för mord på svenska turister – dom upphävs - Dagens Nyheter
-- Skolan blundar för tusentals svagbegåvade - Dagens Nyheter
-- Thomas, 48, tvingas välja bort volontärarbetet – färdtjänsten för dyr - Sydsvenskan
-- Skoldebattören och biträdande rektorn Linnea Lindquist hyllar ’straffskolan’ – efter bjudresa - Aftonbladet
-- Kraftigt ökade beslag av narkotiska svampar - Dagens Nyheter
-- Frontalkrock utanför Katrineholm – flera skadade - Västerbottens-Kuriren
-- Tillgången till fast läkare varierar – risk för ojämlik vård - NewsMachine AB
 - 18-årige Ghaith var på väg hem från skolan – sköts ihjäl på bussen i Tyresö - SVT Nyheter
+- Netanyahu: Kriget är halvvägs - Corren
+- Källor: Hegseths rådgivare försökte göra storköp före Irankriget - EFN
+- Iran vill införa tuffa tullar – och stoppa fartyg från USA - GP
+- Skolan blundar för tusentals svagbegåvade - dn.se
+- Skoldebattören och biträdande rektorn Linnea Lindquist hyllar ’straffskolan’ – efter bjudresa - Aftonbladet
+- Kraftigt ökade beslag av narkotiska svampar - dn.se
+- Frontalkrock utanför Katrineholm – flera skadade - Västerbottens-Kuriren
+- 17-åring från Linköping misstänkt för inblandning i mord - Corren
+- Lärarens metod: Tejpade barnmunnar när det blev högljutt - dn.se
 - Israel: Fyra soldater döda i Libanon - Västerbottens-Kuriren
-- Kvinna biten i ansiktet av varg i Hamburg - SVT Nyheter
+- Varg bet kvinna i ansiktet – i Hamburg - GP
+- Trump: Militären bygger ”massiv anläggning” under Vita huset - dn.se
 - Guvernör: Ja till att namnge flygplats efter Trump - Västerbottens-Kuriren
-- DN Direkt – Trump bekräftar: Låter rysk oljetanker gå till Kuba - Dagens Nyheter
-- KARL RYDÅ: Svenska familjer behöver inte billigare mat - UNT
-- JUST NU: Fler storbanker höjer rörliga boräntor - NWT
-- Pengar i april – sista chansen att deklarera - SVT Nyheter
-- Spelet är riggat – och det är poängen | Björn Jeffery - Svenska Dagbladet
+- Fler storbanker höjer bolåneräntor - SVT Nyheter
+- Ledare: Matmomsen är regeringens ”gåva” till dig värd 3 000 kronor som du får betala 3 500 för - VF
+- Sista dagen att deklarera för att få pengar i april - omni.se
+- ROLAND KASPER, NICLAS EKSTRÖM, JOHAN LUNDGREN IN I STYRELSEN - Placera.se
 - Människan på väg mot månen för första gången på över 50 år - Örebronyheter
 - Elektronikjätten nekar Marianna babybonus - Gefle Dagblad
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - globalnews.ca
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global maktkamp om medicinska innovationer – Europa halkar efter - lakemedelsvarlden.se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- New Secretary General appointed - palmecenter.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
+- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Large local effect but small global climate impact of Nord Stream - Stockholms universitet
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -59,7 +59,7 @@ _Updated: 2026-03-31 08:01_
 - Leveraging AI in Swedish Development Cooperation - fuf.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -99,7 +99,7 @@ _Updated: 2026-03-31 08:01_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -118,46 +118,46 @@ _Updated: 2026-03-31 08:01_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Sherry Nakhaeizadeh - uu.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
 - Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
-- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
-- Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
-- Lediga jobb - landlantbruk.se
+- Här är världens största jordbruk - ATL
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - landlantbruk.se
+- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - landlantbruk.se
+- Lediga jobb - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - landlantbruk.se
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - CLAAS API connects to Farm Management Information Systems - Mynewsdesk
