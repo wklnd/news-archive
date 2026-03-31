@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 08:53_
+_Updated: 2026-03-31 10:41_
 
 - Live updates: Kuwaiti tanker laden with oil attacked as Trump again threatens to blow up Iran’s energy facilities - CNN
-- TSA agents see partial paychecks - Federal News Network
-- Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials - The Washington Post
 - The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother - AP News
-- Israel suspends battalion that detained CNN crew in West Bank - The Washington Post
-- After Months of Threats, Trump Softens His Stance on Blocking Oil to Cuba - The New York Times
+- 12 times Trump signaled the Iran war was about to end - Axios
+- Trump threatens to "obliterate" Iran's energy and water infrastructure - Axios
+- Rep. Eric Swalwell sends cease-and-desist letter to FBI Director Kash Patel - The Washington Post
+- Iran’s Fractured Leadership Is Struggling to Coordinate, Officials Say - The New York Times
 - Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - The New York Times
-- Trump shares renderings of his presidential library — a massive skyscraper in Miami - NBC News
-- Army reviews why helicopters flew near Kid Rock’s home, No Kings rallies - The Washington Post
+- Trump unveils renderings of planned presidential library tower - The Washington Post
+- Kid Rock sparks US Army probe after helicopter flyby at his mansion - BBC
 - Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say - AP News
-- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - CBS News
-- Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks - The New York Times
+- Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis - AP News
 - How this rebel group complicates the Iran war for the U.S. - Axios
-- Indonesian peacekeeper killed in Lebanon explosion, 2nd critically injured - timesofisrael.com
+- Australia readies social media court action citing teen ban breaches - Reuters
+- Israel assassinates three journalists in Lebanon; Iranian universities and energy sites targeted; Cuban oil embargo broken - Givebutter
+- Employees could use 401(k)s to invest in crypto, private equity under Trump plan - The Washington Post
+- Average Gasoline Price Hits $4 in U.S., a ‘Headache’ for Drivers and Trump - The New York Times
 - Air Canada CEO will retire this year after his English-only crash message was criticized - CNN
-- Oil whipsaws as traders weigh Iran de-escalation report against prolonged Hormuz closure - Reuters
-- China's factory activity returns to growth, expanding at its sharpest pace in a year - CNBC
-- Judge halts Nexstar/Tegna merger after FCC let firms exceed TV ownership limit - arstechnica.com
+- China factory activity rebounds in March as Iran war looms over growth - AP News
 - iOS 26.5 beta 1: Here are all the new features - 9to5Mac
-- 50 years of Apple pushing tech forward, for better or worse - Engadget
+- Apple at 50: How a garage startup became a $3.5-trillion titan - Los Angeles Times
