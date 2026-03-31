@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 12:38_
+_Updated: 2026-03-31 13:33_
 
-- Trump says U.S. negotiating with Iranian leaders, despite Iran’s denials - The Washington Post
-- Giant oil tanker off Dubai hit by Iranian strike after Trump's latest threats - Reuters
+- Iran war latest: Netanyahu says military aims 'beyond halfway' complete, as Kuwaiti oil tanker hit in Dubai - BBC
+- Babies are an afterthought in the birthright citizenship case, advocates say - npr.org
 - Iran War Live Updates: U.S. Hits Isfahan With Bunker Buster Bombs - wsj.com
-- The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother - AP News
-- Eric Swalwell Sends Cease-and-Desist Letter to F.B.I. Over Case Files - The New York Times
-- Are there talks to end the Iran war? Depends on which side you ask - NBC News
-- Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - The New York Times
+- Things to know about Rice’s whale, rare species in way of Trump plans for more Gulf drilling - AP News
+- FBI director reportedly assigned SF agents to look into Eric Swalwell - SFGATE
+- Israel suspends battalion that detained CNN crew in West Bank - The Washington Post
 - The DHS shutdown might never end - Politico
-- Trump unveils renderings of planned presidential library tower - The Washington Post
-- Seizing Kharg Island would risk US troops’ lives and may not end Iran war, experts say - AP News
-- War in the Middle East: latest developments - Yahoo
+- Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say - The New York Times
+- Kid Rock sparks US Army probe after helicopter flyby at his mansion - BBC
+- Trump plans presidential library skyscraper with two gold statues of himself - The Washington Post
 - Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis - AP News
-- 3 arrested in U.K. after nearly $100 million worth of cocaine found hidden in bananas - CBS News
-- Two More U.N. Peacekeepers Are Killed in Southern Lebanon - The New York Times
-- Average Gasoline Price Hits $4 in U.S., a ‘Headache’ for Drivers and Trump - The New York Times
+- Haiti: At least 70 killed in 'massacre,' says rights group - dw.com
+- Putin’s Internet Blackout: A Chaotic Drive to Cut Off Russians From the World - The New York Times
+- Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again - cbsnews.com
+- Gas prices eclipse $4 a gallon in the US, the highest since 2022 - AP News
+- Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar - CNBC
 - Employees could use 401(k)s to invest in crypto, private equity under Trump plan - The Washington Post
-- Air Canada CEO will retire this year after his English-only crash message was criticized - CNN
-- Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar - cnbc.com
-- Apple at 50: How a garage startup became a $3.5-trillion titan - Los Angeles Times
+- Air Canada CEO Michael Rousseau will retire after English-only crash message, rather than French, was criticized - ABC7 Chicago
+- Google Pixel rolls out ‘Transit mode’ and real-time At a Glance commute - 9to5Google
 - Google Drive just got a powerful new security upgrade, and it's available to all users - Android Police
