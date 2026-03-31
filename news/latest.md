@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-03-31 20:36_
+_Updated: 2026-03-31 21:40_
 
 - Supreme Court strikes Colorado ban on conversion therapy - NPR
-- Trump says U.S. isn't withdrawing "quite yet," but allies must "come in and take care of" Strait of Hormuz - CBS News
-- Hegseth Says Strikes Causing Iran Desertions as US Pursues Deal - Bloomberg.com
-- US attacks Isfahan in Iran as gas price average tops $4 dollars - Fox News
-- Things to know about Rice's whale, a rare species at risk from Trump plans for more Gulf drilling - AP News
-- Data shows three-quarters of ICE arrestees in Minnesota had no criminal record - MPR News
+- ‘Get your own oil’: Trump launches tirade against Europe for not joining Iran war - The Guardian
+- Pete Hegseth says "upcoming days will be decisive" in war against Iran - CBS News
+- A U.S. journalist is kidnapped in Iraq - NPR
+- ‘God Squad’ Waives Environmental Rules for Drilling in the Gulf of Mexico - The New York Times
+- Rep. Eric Swalwell sends cease and desist letter to FBI director over old investigative files - NBC News
+- Here's a look at birthright citizenship, and how the world sees it, as Supreme Court case looms - AP News
+- Trump Live Updates: King Charles Visit, Presidential Library and More - The New York Times
 - In a town close to the farmworker movement, some struggle to process Chavez allegations - NPR
-- Live Updates: Iran war pushes gas price over $4 a gallon as Trump mulls dropping Strait of Hormuz efforts - CBS News
 - Ex-FBI agents on Trump cases cite Todd Blanche's remarks in suit over 'illegal' firings - NBC News
-- Charlie Kirk bullet analysis finds no conclusive link to rifle found near scene - The Guardian
-- Trump Warns U.S. Would Hit Iran’s Energy Sites If Talks Fail - WSJ
 - Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts - The Washington Post
-- Russia slowly trying to splinter its internet from rest of world, analysts say - The Guardian
-- Kuwaiti Oil Tanker Is Set Ablaze After Attack Off the Coast of Dubai - The New York Times
-- Stock Market Today: Dow Advances on Hopes Iran War Could End Soon, Gas Tops $4 a Gallon — Live Updates - WSJ
-- U.S. Gas Prices Hit $4 a Gallon on Average, a ‘Headache’ for Drivers and Trump - The New York Times
+- Pope vs. Trump: Pontiff takes aim at U.S. policies - Axios
+- Russian Oil Exports Plunge as Drone Strikes Cripple Baltic Ports - Bloomberg.com
+- Top Brussels official urges Europeans to work from home and drive less - politico.eu
+- Stock Market Today: Dow Surges on Hopes War Could End Soon - WSJ
+- US average gas price hits $4 a gallon amid Iran war - Axios
 - Spice maker McCormick adds to its extensive stable of brands names with Unilever deal - abcnews.com
-- Micron Stock Price Target Slashed After Plunge - Investor's Business Daily
+- Stocks Rise Sharply Amid Optimism for War’s End - The New York Times
 - Apple at 50: a visual history - The Verge
-- Google is now letting users in the US change their Gmail address - TechCrunch
+- I’ve tested the highly anticipated AirPods Max 2 wireless headphones – was it worth the wait? - What Hi-Fi?
