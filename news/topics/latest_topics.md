@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 16:08_
+_Updated: 2026-03-31 17:46_
 
 ## Top Stories
 
-- Misstänkte mördaren i Tyresö häktas – 18-åring sköts ihjäl på buss - SVT Nyheter
-- Ledare: En omöjlig rödgrön ekvation - NWT
-- Nathan Shachar: Jemens seglivade huthiregim utmanar Israel – men försiktigt - Dagens Nyheter
-- DN Direkt – C:s nya regeringskrav: ”Den friskaste generationen någonsin” - Dagens Nyheter
-- Global sminkjätte bryter med SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Palestinska styret om dödsstraffet: ”Farligt” - Västerbottens-Kuriren
+- Misstänkte mördaren i Tyresö häktas – 18-årige Ghaith sköts ihjäl på buss - SVT Nyheter
 - Ännu en kvinna gripen efter dödsskjutning i Malmö - Västerbottens-Kuriren
-- DN Direkt – En frihetsberövad efter skolhot i Onsala - Dagens Nyheter
-- Vassa nålar hittade i barnens mat på Pitholmsskolan - SVT Nyheter
+- Nathan Shachar: Jemens seglivade huthiregim utmanar Israel – men försiktigt - Dagens Nyheter
+- Expert: Räkna med detta om USA invaderar Kharg - Dagens Nyheter
+- Varberg tingsrätt utryms - Expressen
+- Israel: Alla hus ska rivas – ”som i Rafah” - Västerbottens-Kuriren
+- C:s nya regeringskrav: ”Den friskaste generationen någonsin” - Dagens Nyheter
 - Värnpliktigas tjänstgöring i Natos samlade avskräckning och försvar - Regeringen.se
+- Man död i mc-olycka utanför Ludvika - Västerbottens-Kuriren
+- Nålar hittade i mat på skola i Piteå - GP
+- Expert: Avgifter i Hormuz strider mot internationell rätt - Dagens Nyheter
+- Trump om att USA:s krigsflyg nekas: ”ohjälpsamt” - GP
+- Palestinska styret om nya dödsstraffet: ”Farligt” - Västerbottens-Kuriren
 - Kung Charles besöker Trump i USA - Hufvudstadsbladet
-- Tvååriga Jawad satt tio timmar i israelisk fångenskap – vårdas med svåra skador - Dagens Nyheter
-- ”Trumps utspel spretar åt olika håll som verbala klusterbomber” - Sveriges Radio
-- Varg bet kvinna i ansiktet – i Hamburg - GP
-- Experten svarar på dina frågor om bolånet - GP
-- Nu sänks matmomsen: Vi tog tempen i påskhandeln - NT
-- Kelly kör epa – bränslepriserna tvingar henne att spara - Sveriges Radio
-- Trots kakaoraset: Choklad fortfarande dyrt - Omni
+- Fler banker höjer rörliga bolåneräntor - Svenska Dagbladet
+- Matmomsen sänks – så mycket billigare blir kaffe och påskgodis - SVT Nyheter
+- Osäker på ditt sparande? Här är expertens bästa råd just nu - Expressen
+- Nordrest: Försvaret dukar bordet - Affärsvärlden
 - Ny RCS-funktion kan koppla ihop videosamtal mellan Iphone och Android - Computer Sweden
 - Människan på väg mot månen för första gången på över 50 år - Örebronyheter
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 08:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global maktkamp om medicinska innovationer – Europa halkar efter - lakemedelsvarlden.se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Åberg uttagen till Ryder Cup - tv4.se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -57,14 +57,14 @@ _Updated: 2026-03-31 16:08_
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -79,14 +79,14 @@ _Updated: 2026-03-31 16:08_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - JOOL Group säljer aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -146,12 +146,11 @@ _Updated: 2026-03-31 16:08_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2026-03-31 16:08_
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
