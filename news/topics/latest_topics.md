@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 14:07_
+_Updated: 2026-03-31 16:08_
 
 ## Top Stories
 
-- Ledare: Isdrottningen i flanellskjorta är veckans vinnare - Hallands Nyheter
-- Massiva explosioner i Isfahan i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Drönarattack mot rysk hamn - Västerbottens-Kuriren
-- ”Mitt enda råd till andra föräldrar: Byt kommun direkt” - Aftonbladet
-- Tvååriga Jawad satt tio timmar i israelisk fångenskap – vårdas med svåra skador - Dagens Nyheter
-- Palestinska styret om dödsstraffet: ”Farligt” - GP
-- Värnpliktigas tjänstgöring i Natos samlade avskräckning och försvar - Regeringen.se
+- Misstänkte mördaren i Tyresö häktas – 18-åring sköts ihjäl på buss - SVT Nyheter
+- Ledare: En omöjlig rödgrön ekvation - NWT
+- Nathan Shachar: Jemens seglivade huthiregim utmanar Israel – men försiktigt - Dagens Nyheter
+- DN Direkt – C:s nya regeringskrav: ”Den friskaste generationen någonsin” - Dagens Nyheter
+- Global sminkjätte bryter med SCA – tredje bolaget på kort tid - Dagens Nyheter
+- Palestinska styret om dödsstraffet: ”Farligt” - Västerbottens-Kuriren
+- Ännu en kvinna gripen efter dödsskjutning i Malmö - Västerbottens-Kuriren
+- DN Direkt – En frihetsberövad efter skolhot i Onsala - Dagens Nyheter
 - Vassa nålar hittade i barnens mat på Pitholmsskolan - SVT Nyheter
-- Anställd vid Livgardet avled i tjänst - SVT Nyheter
-- C kräver satsning på ungas psykiska hälsa - GP
-- Israel: Fyra soldater döda i Libanon - Västerbottens-Kuriren
-- Trump vill erövra Kharg ”Vill allra helst ta oljan” - Hufvudstadsbladet
-- Varg bet kvinna i ansiktet – i Hamburg - GP
+- Värnpliktigas tjänstgöring i Natos samlade avskräckning och försvar - Regeringen.se
+- Kung Charles besöker Trump i USA - Hufvudstadsbladet
+- Tvååriga Jawad satt tio timmar i israelisk fångenskap – vårdas med svåra skador - Dagens Nyheter
 - ”Trumps utspel spretar åt olika håll som verbala klusterbomber” - Sveriges Radio
-- Fler storbanker höjer boräntor - SVT Nyheter
-- Danska oron: Sveriges matmoms - Svenska Dagbladet
+- Varg bet kvinna i ansiktet – i Hamburg - GP
+- Experten svarar på dina frågor om bolånet - GP
+- Nu sänks matmomsen: Vi tog tempen i påskhandeln - NT
 - Kelly kör epa – bränslepriserna tvingar henne att spara - Sveriges Radio
-- Sista dagen att deklarera för att få pengar i april - Omni
+- Trots kakaoraset: Choklad fortfarande dyrt - Omni
+- Ny RCS-funktion kan koppla ihop videosamtal mellan Iphone och Android - Computer Sweden
 - Människan på väg mot månen för första gången på över 50 år - Örebronyheter
-- Test: Billiga hörlurar levererar i toppklass – Huawei Freebuds Pro 5 - mobil.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - journalisten.se
-- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Global maktkamp om medicinska innovationer – Europa halkar efter - lakemedelsvarlden.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - ui.se
+- New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- News of the Worlds reportrar kan få nya jobb - journalisten.se
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan News
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-03-31 14:07_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -79,42 +79,43 @@ _Updated: 2026-03-31 14:07_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group säljer aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices - Inderes
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Medicin & hälsa - Ekot - Sveriges Radio
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -133,10 +134,10 @@ _Updated: 2026-03-31 14:07_
 - Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -145,11 +146,12 @@ _Updated: 2026-03-31 14:07_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -160,4 +162,3 @@ _Updated: 2026-03-31 14:07_
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
