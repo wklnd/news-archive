@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-03-31 13:26_
+_Updated: 2026-03-31 14:07_
 
 ## Top Stories
 
-- Ledare: En omöjlig rödgrön ekvation - NWT
+- Ledare: Isdrottningen i flanellskjorta är veckans vinnare - Hallands Nyheter
 - Massiva explosioner i Isfahan i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Drönarattack mot rysk hamn - Västerbottens-Kuriren
-- Uppgifter: Trump vill avsluta trots stängt Hormuz - folkbladet.nu
-- DN Direkt – Kraftig inflation i eurozonen - Dagens Nyheter
-- Källor: Hegseth jagade försvarsaktier före kriget - Västerbottens-Kuriren
-- Nålar hittade i mat på skola i Piteå - Västerbottens-Kuriren
-- DN Direkt – Regeringen vill se 15 000 sommarjobb för unga - Dagens Nyheter
+- ”Mitt enda råd till andra föräldrar: Byt kommun direkt” - Aftonbladet
+- Tvååriga Jawad satt tio timmar i israelisk fångenskap – vårdas med svåra skador - Dagens Nyheter
+- Palestinska styret om dödsstraffet: ”Farligt” - GP
+- Värnpliktigas tjänstgöring i Natos samlade avskräckning och försvar - Regeringen.se
+- Vassa nålar hittade i barnens mat på Pitholmsskolan - SVT Nyheter
 - Anställd vid Livgardet avled i tjänst - SVT Nyheter
-- Kraftigt ökade beslag av narkotiska svampar - GP
+- C kräver satsning på ungas psykiska hälsa - GP
 - Israel: Fyra soldater döda i Libanon - Västerbottens-Kuriren
 - Trump vill erövra Kharg ”Vill allra helst ta oljan” - Hufvudstadsbladet
-- Palestinska styret om dödsstraffet: ”Farligt” - GP
-- DN Direkt – Varg bet kvinna i ansiktet – i Hamburg - Dagens Nyheter
+- Varg bet kvinna i ansiktet – i Hamburg - GP
+- ”Trumps utspel spretar åt olika håll som verbala klusterbomber” - Sveriges Radio
 - Fler storbanker höjer boräntor - SVT Nyheter
-- Ledare: Matmomsen är regeringens ”gåva” till dig värd 3 000 kronor som du får betala 3 500 för - VF
+- Danska oron: Sveriges matmoms - Svenska Dagbladet
 - Kelly kör epa – bränslepriserna tvingar henne att spara - Sveriges Radio
-- Energikrisen tilltar – EU-ministrar i akut möte - Svenska Dagbladet
+- Sista dagen att deklarera för att få pengar i april - Omni
 - Människan på väg mot månen för första gången på över 50 år - Örebronyheter
-- Elektronikjätten nekar Marianna babybonus - Gefle Dagblad
+- Test: Billiga hörlurar levererar i toppklass – Huawei Freebuds Pro 5 - mobil.se
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-03-31 13:26_
 - Manitoba finance minister says he’ll talk with critics of a planned food tax cut - Global News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Polis läckte utredningsdetaljer till News Internationals chef - journalisten.se
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Seminar series: Global Lectures - ui.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- News of the Worlds reportrar kan få nya jobb - journalisten.se
 - Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
@@ -56,7 +56,7 @@ _Updated: 2026-03-31 13:26_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
@@ -80,8 +80,8 @@ _Updated: 2026-03-31 13:26_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -95,10 +95,10 @@ _Updated: 2026-03-31 13:26_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices - Inderes
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices - Inderes
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -107,14 +107,14 @@ _Updated: 2026-03-31 13:26_
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -143,13 +143,13 @@ _Updated: 2026-03-31 13:26_
 
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - ja.se
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
@@ -157,7 +157,7 @@ _Updated: 2026-03-31 13:26_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
