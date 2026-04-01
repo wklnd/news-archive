@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 01:04_
+_Updated: 2026-04-01 02:03_
 
-- Judge halts construction on Trump’s ballroom, says Congress must decide - The Washington Post
-- Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - 5 EYEWITNESS NEWS
-- Trump attacks allies, signals Iran war may end without opening Hormuz - Axios
-- Federal judge finds Trump violated free speech by ordering NPR defunded - NPR
-- ENSURING CITIZENSHIP VERIFICATION AND INTEGRITY IN FEDERAL ELECTIONS - The White House (.gov)
-- Pete Hegseth says "upcoming days will be decisive" in war against Iran - CBS News
+- Trump attacks allies, signals Iran war may end without opening Hormuz - axios.com
+- Supreme Court strikes Colorado ban on conversion therapy - NPR
+- Judge Orders Construction Stopped on Trump’s White House Ballroom - The New York Times
+- Trump signs order to restrict mail-in ballots in probably unconstitutional move - The Guardian
+- US journalist Shelly Kittleson kidnapped in Baghdad - BBC
+- Judge orders University of Pennsylvania to comply with subpoena for information on Jewish groups - politico.com
 - The Army Begins an Inquiry After Kid Rock Gets Apache Helicopter Flyby - The New York Times
 - Trump’s top litigator faces uphill battle with birthright citizenship - CNN
-- U.S. panel votes to exempt Gulf of Mexico drilling from Endangered Species Act - The Washington Post
-- US judge says University of Pennsylvania must give agency lists of Jewish faculty, students - Reuters
-- US journalist Shelly Kittleson kidnapped in Baghdad - BBC
+- In a town close to the farmworker movement, some struggle to process Chavez allegations - NPR
+- Trump’s Executive Order on NPR and PBS Is Unconstitutional, Judge Rules - The New York Times
 - Top Brussels official urges Europeans to work from home and drive less - politico.eu
 - Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts - The Washington Post
-- Iran remains a stubborn foe after absorbing massive US-Israeli attacks - AP News
-- Stock Market Today: Dow Gains 1,100 Points Amid Huge Recovery; Micron, Nvidia Score Big Wins (Live Coverage) - Investor's Business Daily
-- US average gas price hits $4 a gallon amid Iran war - Axios
+- Europe pushes back on some US military operations as concerns over Iran war mount - Reuters
+- Cyber warfare starts to get personal in war between U.S., Israel and Iran - axios.com
+- Stock futures are little changed after major averages post best session since May: Live updates - CNBC
+- US average gas price hits $4 a gallon amid Iran war - axios.com
 - Oracle Fires Thousands Of Employees As AI Spending Ramps Up—Shares Rise 2% - Forbes
-- Spice maker McCormick to combine with Hellmann's maker Unilever in latest food industry shakeup - AP News
-- Apple at 50: a visual history - The Verge
+- Oil Prices Post Biggest Monthly Surge in History - Crude Oil Prices Today | OilPrice.com
 - Google is now letting users in the US change their Gmail address - TechCrunch
+- Apple Tests Siri Feature That Handles Multiple Commands at Once - Bloomberg.com
