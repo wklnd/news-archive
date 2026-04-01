@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-01 08:11_
+_Updated: 2026-04-01 10:01_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trump: Lämnar Iran om två till tre veckor - Dagens Nyheter
-- Orange vädervarning för hårda vindar och snö i norra Lapplandsfjällen - SVT Nyheter
-- Tankbil och personbil i frontalkrock på E10 - Kuriren
-- De bor bakom Malmös enda skyddsvall – men känner sig motarbetade - sydsvenskan.se
-- Explosion vid port i Bjuv - GP
+- Trumps nya deadline för kriget – får mothugg - Dagens Nyheter
+- E10 avstängd efter frontalkrock – en person fastklämd - Sveriges Radio
+- C-kalkylen för att nå makten – tror att Tidösamarbetet spricker i höst - GP
+- DN Direkt – Rejält uppåt på Asien-börserna - Dagens Nyheter
+- De känner sig motarbetade bakom Malmös enda skyddsvall - Sydsvenskan
 - Här är Sveriges svaga punkter vid ryska luftangrepp - Dagens Nyheter
-- Misstänkte mördaren i Tyresö häktas – 18-årige Ghaith sköts ihjäl på buss - SVT Nyheter
+- Sprickan i styret: SD ändrar sig på flera beslut - SVT Nyheter
+- DN Direkt – Man häktad för dödsskjutningen i Tyresö - Dagens Nyheter
 - Begränsar påsktrafiken – vägarna som påverkas - Västerbottens-Kuriren
 - Massiv kritik mot planerna på att upphäva delar av Biskopshagens naturreservat - SVT Nyheter
-- DN Direkt – Ännu en kvinna häktas efter dödsskjutning i Malmö - Dagens Nyheter
-- Elon Musks Starlink ett ”legitimt mål” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Frankrike förbjuder sociala medier för barn - Västerbottens-Kuriren
-- Trump: Vi lämnar Iran inom två till tre veckor - Yle
-- Inrikesministeriet: 112-app ska varna för drönare i Finland - Hufvudstadsbladet
-- Matmoms sänks – så vill S pressa priser på sikt - svd.se
+- DN Direkt – Här är Sveriges svaga punkter vid ryska luftangrepp - Dagens Nyheter
+- Iran inför tullar i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska medier: Många döda i militärflygkrasch - Västerbottens-Kuriren
+- Drönarattack mot rysk hamn - Västerbottens-Kuriren
+- DEBATT: Sänkt matmoms hjälper kortsiktigt men kostnaderna går upp - di.se
+- Iranska öppningen: ”Viljan som krävs” - expressen.se
+- USA-RÄNTOR NÅGOT NED, NYTT HOPP OM KRIGSSLUT - Placera.se
 - Felaktiga pensioner för halv miljard stoppade - SVT Nyheter
-- Jag har 2 miljoner i sparpengar – vad händer om USA:s börs kraschar? - Dagens Nyheter
-- AVTAL OM NYTT ÄLDREBOENDE I DANMARK, SER FÖRBÄTTRAD MARKNAD (OMS) - Placera.se
-- Historisk resa till månen – första gången på 50 år - Sveriges Radio
+- Fuglesang: Svensk landar på månen i framtiden - Omni
 - Google Drive kommer nu börja hålla utkik efter ransomware - PC för Alla
 
 ## World News
 
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- New Secretary General appointed - Olof Palme International Center
+- New Secretary General appointed - palmecenter.se
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -55,19 +55,19 @@ _Updated: 2026-04-01 08:11_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Strategic technology competition revisited: A National Innovation System rationale for China's artificial intelligence standardisation strategy - FIIA - Finnish Institute of International Affairs
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
@@ -76,7 +76,7 @@ _Updated: 2026-04-01 08:11_
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -105,7 +105,7 @@ _Updated: 2026-04-01 08:11_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Medicin & hälsa - Ekot - Sveriges Radio
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -124,7 +124,7 @@ _Updated: 2026-04-01 08:11_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -135,17 +135,17 @@ _Updated: 2026-04-01 08:11_
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - ki.se
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Prisrusning på naturgas slår mot svenska lantbrukare - di.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Ökad lönsamhet med regenerativt lantbruk - ja.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Framtidens jordbruk - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
