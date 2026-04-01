@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 14:40_
+_Updated: 2026-04-01 16:15_
 
-- US could 'finish the job' in Iran in two or three weeks, Trump says - BBC
+- Markets rally, oil prices fall as Trump prepares to address nation on Iran war - The Washington Post
 - What's at risk if SCOTUS sides with Trump in birthright citizenship case - Axios
+- Trump says he's considering pulling U.S. out of 'paper tiger' NATO - CNBC
 - Suspension lifted for helicopter pilots who hovered near Kid Rock's home - NPR
-- What is NASA’s Artemis II moon mission, and when will it launch? - Al Jazeera
-- American journalist Shelly Kittleson kidnapped in Baghdad - The Washington Post
-- Bomb Shelters and a Drone-Proof Roof: Trump Says Ballroom Is a Matter of Security - The New York Times
-- Trump issues order attempting to change rules for mail-in voting - The Washington Post
+- Bomb Shelters and a Drone-Proof Roof: Trump Seeks to Justify Ballroom as Security Measure - The New York Times
 - Shutdown infighting shatters GOP unity in critical stretch for Trump - CNN
-- What the Supreme Court's ruling on conversion therapy means for Minnesota's ban - CBS News
-- Trump's Endangered Species Committee exempts oil and gas drilling in the Gulf from rules - PBS
-- Russian military plane crash in Crimea kills 29 people - AP News
-- Hiker's dog lost in a wild New Zealand forest rescued by helicopter after strangers fund search - AP News
+- Washington Secretary of State Steve Hobbs blasts Trump executive order on voter lists - KOMO
+- The Three Big Questions Delaying New York’s Budget - The New York Times
+- CNN Poll: Trump’s approval rating on the economy hits a new low - CNN
+- Hungary election polls show opposition Tisza widening lead over Orban's Fidesz - reuters.com
+- Hiker's dog lost in a wild New Zealand forest rescued by helicopter after strangers fund search - abcnews.com
 - Exclusive | U.A.E. Wants to Force Hormuz Open and Is Willing to Join the Fight - WSJ
-- Australian leader urges using public transport, says war's effects will last months - Reuters
-- Walking away from the Strait of Hormuz won’t make gas cheap again - CNN
+- UK's Starmer calls for closer Europe ties as Iran war strains US relations - reuters.com
+- ‘I’m done’: Rideshare drivers on the brink of quitting over higher gas prices - CNN
 - Stocks Extend Rally and Oil Prices Drop - The New York Times
-- Stock futures are higher to start the month as optimism around Iran war ending grows: Live updates - CNBC
-- Oracle Layoffs Lead To Heartbreaking Posts On LinkedIn - Forbes
-- Apple's 50-year journey from garage to tech titan - Reuters
-- Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool - WIRED
+- US tech firm Oracle cuts thousands of jobs as it steps up AI spending - The Guardian
+- Nike shares tumble on unexpected forecast for sales decline - Financial Times
+- Apple’s biggest product in its 50-year history surprised the engineers who designed it - CNN
+- Apple Releases New Firmware for AirPods Max 2 - MacRumors
+- Google is now letting users in the US change their Gmail address - techcrunch.com
