@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 11:49_
+_Updated: 2026-04-01 13:35_
 
-- Trump says US will 'leave' Iran within weeks as Tehran says it has 'necessary will' to end war - BBC
+- Trump to address nation on Iran Wednesday, after hinting at war's end - Axios
 - Trump plans to attend Wednesday's Supreme Court hearing on birthright citizenship - NPR
-- Trump's White House ballroom project halted by judge - Axios
-- Trump issues order attempting to change rules for mail-in voting - The Washington Post
-- Kidnapping of US journalist in Iraq linked to Iranian militants - Politico
-- Trump’s Executive Order To Restrict Federal Funding To NPR And PBS Violated Constitution, Judge Rules - Deadline
-- Suspension lifted for helicopter pilots who hovered near Kid Rock's home - NPR
+- Judge halts construction on Trump’s ballroom, says Congress must decide - The Washington Post
+- Washington Secretary of State Steve Hobbs blasts Trump executive order on voter lists - KOMO
+- Hegseth says suspensions lifted for helicopter crews who hovered over Kid Rock home - The Guardian
+- Kidnapping of US journalist in Iraq linked to Iranian militants - politico.com
+- Shutdown infighting shatters GOP unity in critical stretch for Trump - CNN
+- Trump says U.S. strongly considering NATO exit, Telegraph newspaper says - Reuters
 - Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - 5 EYEWITNESS NEWS
-- Judge orders Penn to comply with subpoena for information on Jewish groups - Politico
 - If these whales go extinct, we’ll know who to blame - Vox
 - Australia's Albanese says war's economic shock will be felt for months; urges using public transport - Reuters
-- Exclusive | U.A.E. Wants to Force Hormuz Open and Is Willing to Join the Fight - WSJ
 - U.N. Peacekeepers in Lebanon Were Killed by Roadside Bomb - The New York Times
-- Trump criticizes European allies for not helping fix the damage his war against Iran has caused - AP News
+- Russian military plane crash in Crimea kills 29 people - AP News
+- Statement by Israeli International Law Scholars Concerning Israel’s New “Death Penalty for Terrorists” Law - Just Security
+- Stock futures are higher to start the month as optimism around Iran war ending grows: Live updates - CNBC
 - Walking away from the Strait of Hormuz won’t make gas cheap again - CNN
-- S&P 500 futures tick higher after major averages post best session since May: Live updates - CNBC
-- Oil Prices Fall After Trump Says U.S. Would Be Leaving Iran Soon - WSJ
+- Stocks in Asia Rally and Oil Prices Drop - The New York Times
 - Oracle Layoffs Lead To Heartbreaking Posts On LinkedIn - Forbes
-- Apple's 50-year journey from garage to tech titan - Reuters
-- Google Readies Screenless Fitbit Band to Rival Growing Whoop Craze - Bloomberg.com
+- Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool - WIRED
+- Apple’s biggest product in its 50-year history surprised the engineers who designed it - CNN
