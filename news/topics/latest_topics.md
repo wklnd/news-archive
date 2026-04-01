@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-01 19:29_
+_Updated: 2026-04-01 20:08_
 
 ## Top Stories
 
-- Oppositionen kritiska till SD i regering: ”Ett aprilskämt” - GP
-- Ukraina: Dödliga anfall och postterminal i lågor - Västerbottens-Kuriren
-- Kristersson om Nato-utspel: Inget har förändrats - Västerbottens-Kuriren
-- Här är vägarna som väntas bli stökiga under påsk - Norrtelje Tidning
+- Magdalena Andersson: ”Svagaste statsministern i Sveriges historia” - Dagens Nyheter
 - Inbrott hos Åkesson i Sölvesborg - Expressen
+- Ryska drönarattacker mot Ukraina dag som natt - GP
+- Karl Dalén: En bok från 1987 kan ge en hint om Trumps nästa drag - Dagens Nyheter
+- Iran hotar attackera amerikanska techbolag - Computer Sweden
 - Man i 20-årsåldern livshotande skadad i MC-olycka - SVT Nyheter
 - Blev du lurad? – NWT avslöjar aprilskämten i sociala medierna - NWT
 - Granskad gynklinik fortsatte operera bort livmödrar - Dagens Nyheter
-- Guldtackorna lämnas ut till JLC - Västerbottens-Kuriren
-- Efterlyst svensk gripen i Marocko - SVT Nyheter
+- Guldtackorna lämnas ut till JLC - GP
+- Svensk gripen i Marocko – misstänks för smuggling - Omni
 - Iran tillbakavisar Trumps uppgifter om eldupphör - GP
-- Karl Dalén: En bok från 1987 kan ge en hint om Trumps nästa drag - Dagens Nyheter
-- Trump: ”Iran har bett om vapenvila” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Finland: Även tredje drönaren från Ukraina - Västerbottens-Kuriren
+- Stubb har talat med Trump om Nato - Hufvudstadsbladet
 - Blodig attack mot lyxigt strandområde i Beirut - GP
-- Nu slår matmomsen igenom – SvD testar - Svenska Dagbladet
-- Börserna stiger på förhoppningar om en snabb lösning på konflikten med Iran - Morningstar Canada
-- Nackdelen du behöver ha koll på – när bolånereglerna ändras - Sveriges Radio
-- Då tvingas Sverige ransonera olja – ”Kraftig kostnadschock” - Tidningen Näringslivet
+- Emma storhandlar i matbutiken i Trollhättan – vill se lägre matmoms - sverigesradio.se
+- Ungas kritik mot höjda bolånetaket: Blir bara mer skuldsatta - ETC.se
+- Erik Magnusson Bristen på diesel, bensin och flygbränsle kan leda till ransoneringar i sommar - Sydsvenskan
+- Riksbanken ligger still – så varför höjs de rörliga bolåneräntorna? - Omni Ekonomi
 - DN Direkt – Nasa: Bra väder för månresa - Dagens Nyheter
 - Google Drive kommer nu börja hålla utkik efter ransomware - PC för Alla
 
 ## World News
 
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 14:30 - tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Top paid Ontario college presidents averaged $500K each in 2025 as layoffs continue - Global News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 
 ## Technology
 
@@ -100,11 +100,11 @@ _Updated: 2026-04-01 19:29_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Medicin & hälsa - Ekot - Sveriges Radio
+- Medicin & hälsa - Ekot - sverigesradio.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - E-hälsa inom EU - Läkartidningen
@@ -121,42 +121,42 @@ _Updated: 2026-04-01 19:29_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Ökad lönsamhet med regenerativt lantbruk - ja.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Här är världens största jordbruk - atl.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
