@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 05:54_
+_Updated: 2026-04-01 08:16_
 
-- Trump says US will leave Iran in 'two or three weeks' whether 'we have a deal or not' - BBC
-- Judge temporarily halts Trump’s $400m White House ballroom project - Al Jazeera
+- Trump says US will 'leave' Iran within weeks as Tehran says it has 'necessary will' to end war - BBC
+- Trump's White House ballroom project halted by judge - Axios
 - Trump issues order attempting to change rules for mail-in voting - The Washington Post
-- Trump suggests he will attend birthright citizenship arguments at Supreme Court - Politico
-- Supreme Court rejects Colorado's conversion therapy ban - axios.com
+- Trump plans to attend Wednesday's Supreme Court hearing on his bid to limit birthright citizenship - AP News
 - Judge Blocks Trump’s Order to End Funding for NPR and PBS - The New York Times
-- Hegseth Reverses Helicopter Crew Suspension Over Kid Rock Flyby - The New York Times
+- Hegseth says suspensions lifted for helicopter crews who hovered over Kid Rock home - The Guardian
+- Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ+ kids - 5 EYEWITNESS NEWS
 - Judge orders University of Pennsylvania to provide list of Jews to federal agency - The Guardian
-- Live updates: Iran war; US gas hits $4 as Trump tells other nations to ‘go get your own oil’ - CNN
-- Sanctioned Russian tanker docks in Cuba after US allows passage despite energy blockade - AP News
+- If these whales go extinct, we’ll know who to blame - Vox
 - American journalist Shelly Kittleson kidnapped in Baghdad - The Washington Post
 - U.N. Peacekeepers in Lebanon Were Killed by Roadside Bomb - The New York Times
 - Top Brussels official urges Europeans to work from home and drive less - politico.eu
-- Jailed Palestinians fear death by hanging without due process under new Israeli law - Reuters
-- Futures Rise; Trump Sees Iran Exit In 2-3 Weeks - Investor's Business Daily
-- Asia stocks jump after Trump suggests Iran war could end in weeks - BBC
-- US average gas price hits $4 a gallon amid Iran war - axios.com
+- At least 29 dead after Russian military plane crashes in Crimea - The Guardian
+- Asian stocks jump on renewed hopes of Iran war ending - AP News
+- US average gas price hits $4 a gallon amid Iran war - Axios
+- NFL demands prediction markets to stop manipulable trading - New York Post
 - Oracle lays off hundreds in Seattle, again - The Seattle Times
-- Paul McCartney headlining Apple’s 50th anniversary bash at Apple Park tonight - 9to5Mac
-- Apple Tests Siri Feature That Handles Multiple Commands at Once - Bloomberg.com
+- Apple's 50-year journey from garage to tech titan - Reuters
+- Apple Tests Siri Feature That Handles Multiple Commands at Once - bloomberg.com
+- Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool - WIRED
