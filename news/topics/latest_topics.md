@@ -1,41 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-01 20:08_
+_Updated: 2026-04-01 21:37_
 
 ## Top Stories
 
-- Magdalena Andersson: ”Svagaste statsministern i Sveriges historia” - Dagens Nyheter
-- Inbrott hos Åkesson i Sölvesborg - Expressen
-- Ryska drönarattacker mot Ukraina dag som natt - GP
-- Karl Dalén: En bok från 1987 kan ge en hint om Trumps nästa drag - Dagens Nyheter
-- Iran hotar attackera amerikanska techbolag - Computer Sweden
-- Man i 20-årsåldern livshotande skadad i MC-olycka - SVT Nyheter
-- Blev du lurad? – NWT avslöjar aprilskämten i sociala medierna - NWT
-- Granskad gynklinik fortsatte operera bort livmödrar - Dagens Nyheter
-- Guldtackorna lämnas ut till JLC - GP
-- Svensk gripen i Marocko – misstänks för smuggling - Omni
-- Iran tillbakavisar Trumps uppgifter om eldupphör - GP
-- Finland: Även tredje drönaren från Ukraina - Västerbottens-Kuriren
-- Stubb har talat med Trump om Nato - Hufvudstadsbladet
-- Blodig attack mot lyxigt strandområde i Beirut - GP
-- Emma storhandlar i matbutiken i Trollhättan – vill se lägre matmoms - sverigesradio.se
-- Ungas kritik mot höjda bolånetaket: Blir bara mer skuldsatta - ETC.se
-- Erik Magnusson Bristen på diesel, bensin och flygbränsle kan leda till ransoneringar i sommar - Sydsvenskan
-- Riksbanken ligger still – så varför höjs de rörliga bolåneräntorna? - Omni Ekonomi
-- DN Direkt – Nasa: Bra väder för månresa - Dagens Nyheter
-- Google Drive kommer nu börja hålla utkik efter ransomware - PC för Alla
+- Moderaterna vill styra med Sverigedemokraterna efter valet - Sveriges Radio
+- Begränsar påsktrafiken – vägarna som påverkas - GP
+- Irans president: Vi är inget hot – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska hotet mot europeiska länder som tillåter ukrainska drönare - Expressen
+- M-toppen: ”Skambänk inte aktuellt i Sverige” - Aftonbladet
+- DEBATT: Nu kan du låsas in – för en snus - Expressen
+- Man död – fick träd över sig under fällningsarbete - Omni
+- Inbrott hos Jimmie Åkesson – konfronterade gärningsperson - TV4 Nyheterna
+- Guldtackorna lämnas ut till JLC - Västerbottens-Kuriren
+- Magdalena Andersson (S): Åkesson håller i taktpinnen – Senaste nytt om valet 2026 - SVT Nyheter
+- Drönaren i Parikkala sprängdes sönder – kom från Ukraina - Hufvudstadsbladet
+- Irans brev till amerikanska folket - Expressen
+- FBI till Kuba för att utreda räd mot snabbåt - GP
+- I Ungerns fattigaste by röstar 99 procent på Viktor Orbán - Dagens Nyheter
+- Se den historiska uppsändningen här: Nasa redo att sända fyra astronauter till månen - illvet.se
+- Google Drive kan rädda dig från ransomware - Dina filer på Google Drive får bättre skydd - ljudochbild.se
+- Halvt aprilskämt, hel verklighet – Elsie’s kök i Mölnlycke säljs - Härryda-Posten
+- Flera av Apples prylar klassas nu som vintage - Teknikveckan
+- Anders Haraldsson: Här är 9 evenemang du inte vill missa i Stockholm - Dagens Nyheter
+- Maxim hotas av konkurs - Svenska Dagbladet
 
 ## World News
 
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Top paid Ontario college presidents averaged $500K each in 2025 as layoffs continue - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
@@ -52,7 +52,7 @@ _Updated: 2026-04-01 20:08_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -78,7 +78,6 @@ _Updated: 2026-04-01 20:08_
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -88,6 +87,7 @@ _Updated: 2026-04-01 20:08_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
@@ -104,7 +104,7 @@ _Updated: 2026-04-01 20:08_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Medicin & hälsa - Ekot - sverigesradio.se
+- Medicin & hälsa - Ekot - Sveriges Radio
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - E-hälsa inom EU - Läkartidningen
@@ -129,8 +129,8 @@ _Updated: 2026-04-01 20:08_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
@@ -144,14 +144,14 @@ _Updated: 2026-04-01 20:08_
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Effekten av Conservation Agriculture - lansstyrelsen.se
-- Ökad lönsamhet med regenerativt lantbruk - ja.se
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - atl.nu
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
