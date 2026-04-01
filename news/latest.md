@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 22:26_
+_Updated: 2026-04-01 23:26_
 
-- Trump makes historic Supreme Court visit for birthright citizenship case - axios.com
-- Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - bbc.com
-- Trump suggests in new interviews he is ‘absolutely’ considering withdrawing US from ‘paper tiger’ NATO - cnn.com
-- US Vice President Vance spoke to intermediaries about Iran conflict as recently as Tuesday, source says - Reuters
-- How to Watch NASA’s Artemis II Moon Launch Online - nytimes.com
-- Hegseth lifts suspension of 2 helicopter pilots that flew near Kid Rock's house in Nashville - pbs.org
-- Trump Live Updates: House and Senate Republicans Reach Deal to End DHS Shutdown - nytimes.com
+- Supreme Court casts doubt on Trump's birthright citizenship order - axios.com
+- Trump to declare Iran war is winding down and others need to resolve Hormuz - Politico
+- Backdoor Funding of Homeland Security Agency Could Weaken Congress Anew - The New York Times
+- ICE Barbie’s Wardrobe Back in Spotlight as Husband’s Alter Ego Revealed - The Daily Beast
+- Artemis II, Nasa’s first crewed lunar rocket in more than half a century, prepares for launch – watch and follow live - The Guardian
+- ‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern - The New York Times
+- Luigi Mangione’s federal trial delayed until October in killing of UnitedHealthcare CEO - AP News
 - Reporter who was kidnapped in Baghdad was known for pursuing gutsy, low-budget assignments - AP News
-- Nvidia, Apple, Tesla on Iran's Hit List as Tehran Warns of Imminent Attacks - Yahoo Finance
-- A propaganda war on the National Mall pits Trump against satirical statues and posters - NPR
-- Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control - bbc.com
-- Russia says it will respond if Ukraine uses foreign airspace to attack its Baltic ports - Reuters
-- 'Not our war': UK PM to host multi-nation meeting on Hormuz crisis; backs Nato after Trump's 'paper tiger - timesofindia.indiatimes.com
-- Australian leader urges using public transport, says war's effects will last months - Reuters
-- SpaceX confidentially files to go public on stock market, reports say - The Guardian
-- Stocks are higher to start the month as optimism around Iran war ending grows: Live updates - CNBC
-- Nike CEO Blows Off Steam With Staff Over Stalled Turnaround - Bloomberg.com
-- FDA Approves First New Molecular Entity Under National Priority Voucher Program - fda.gov
-- One of Apple’s First Employees Looks Back at 50 Years - nytimes.com
-- Testing the $10 Ikea speaker that lets you connect 100 at once - The Verge
+- Trump is paying TSA agents — but where is the money coming from? - cnbc.com
+- Judge orders White House ballroom construction to halt in a ruling that leaves Trump seething - The Press Democrat
+- What do Trump's latest comments on leaving Nato mean for the alliance? - BBC
+- Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC
+- UK to host Strait of Hormuz summit this week - politico.eu
+- How sea mines threaten global trade, and how navies detect them - The Conversation
+- SpaceX seen as make-or-break test for mega IPOs - reuters.com
+- FDA approves GLP-1 weight loss pill Foundayo from Eli Lilly - nbcnews.com
+- Dow jumps 200 points to start April as traders bet Middle East conflict will soon end: Live updates - cnbc.com
+- Oil Falls in Choppy Trade Ahead of Trump Speech on Iran War - Yahoo Finance
+- From scrappy startup to tech giant, Apple celebrates its 50th year - NPR
+- Testing the $10 Ikea speaker that lets you connect 100 at once - theverge.com
