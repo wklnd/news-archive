@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 19:34_
+_Updated: 2026-04-01 20:36_
 
-- Trump attends Supreme Court arguments over his executive order, a presidential first - NPR
-- Markets rally, oil prices fall as Trump prepares to address nation on Iran war - The Washington Post
-- Artemis II launch: crowds gather for glimpse of historic Nasa moon mission - theguardian.com
-- The Actual Danger of Trump’s Phony Vote-by-Mail Executive Order - Slate
-- Hegseth lifts suspension of 2 helicopter pilots that flew near Kid Rock's house in Nashville - PBS
-- Iran threatens Big Tech companies in the Middle East by April 1 - Euronews.com
-- Luigi Mangione arrives in court in bid to delay federal trial over CEO killing - reuters.com
-- IRS CEO defiant as Washington asks who’s running things - Politico
-- King Charles III to visit U.S. in late April, attend state dinner at the White House, Trump says - CBS News
-- Lebanese displaced by war fill Beirut’s streets, upending city life - AP News
-- Italian coastguard recovers 19 bodies from boat in sea near Lampedusa - theguardian.com
-- UK to host coalition talks on securing Strait of Hormuz - Financial Times
-- ‘Beyond what we could imagine’: Europe’s coming energy crunch - politico.eu
-- FDA approves Lilly's Foundayo™ (orforglipron), the only GLP-1 pill for weight loss that can be taken any time of day without food or water restrictions - Eli Lilly
-- Stocks are higher to start the month as optimism around Iran war ending grows: Live updates - CNBC
+- Supreme Court takes up Trump birthright citizenship order in high-profile oral arguments - Fox News
+- Iran War Live News Updates: Trump Considers Leaving NATO; Tehran Says U.S. Isn’t Serious About Diplomacy - WSJ
+- What do Trump's latest comments on leaving Nato mean for the alliance? - BBC
+- Donald Trump Reacts to Reports of Kristi Noem’s Husband ‘Cross-Dressing’ — Report - Yahoo
+- Israel strikes Lebanon as Trump is set to deliver a speech on the Iran war - NPR
+- How to Watch NASA’s Artemis II Moon Launch Online - nytimes.com
+- Luigi Mangione's federal trial over CEO killing delayed to October - Reuters
+- Gov. Ron DeSantis signs Florida's version of the SAVE Act - nbcnews.com
+- Hill staffers brace for their boss’s ‘TMZ moment’ - Politico
+- Hegseth exonerates helicopter crews over Kid Rock flyby, nullifying Army probe - The Washington Post
+- Lebanese displaced by war fill Beirut’s streets, upending city life - apnews.com
+- UK to host Strait of Hormuz summit this week - politico.eu
+- Airline Emirates says Iranian nationals barred from entering or transiting UAE - Reuters
+- Hungary election polls show opposition Tisza widening lead over Orban's Fidesz - Reuters
+- FDA approves GLP-1 weight loss pill Foundayo from Eli Lilly - nbcnews.com
+- Stock Market Today: Dow Gains 450 Points on Hopes for Quick End to Iran War — Live Updates - WSJ
 - ‘I’m done’: Rideshare drivers on the brink of quitting over higher gas prices - CNN
-- SpaceX IPO Filed Confidentially, Report Says. What It Means—and Why It Matters. - Barron's
+- Markets Extend Rally and Oil Prices Drop After Trump Says Iran War Will Wind Down - nytimes.com
 - From scrappy startup to tech giant, Apple celebrates its 50th year - NPR
-- Google Home’s latest updates include Gemini in Spanish, improved smart home controls - 9to5Google
-- Apple Releases New Firmware for AirPods Max 2 - MacRumors
+- iOS 27’s new Siri is coming, and sounds very much worth the wait - 9to5Mac
