@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-02 00:19_
+_Updated: 2026-04-02 01:20_
 
-- Supreme Court casts doubt on Trump's birthright citizenship order - Axios
-- Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - bbc.com
-- 4 astronauts prepare to launch on historic moon mission - cnn.com
-- How are NATO allies pushing back against Trump’s Iran war demands? - Al Jazeera
-- ‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern - The New York Times
-- Winter storm warnings: Sleety, icy, snowy system through Thursday - MPR News
-- Ted Bundy killed Utah teen found dead more than 50 years ago in American Fork Canyon, authorities say - sltrib.com
-- Luigi Mangione arrives in court in bid to delay federal trial over CEO killing - KSL News
-- Trump Live Updates: House and Senate Republicans Reach Deal to End DHS Shutdown - The New York Times
-- US and Iraqi officials say kidnapped journalist had been warned of threats - apnews.com
-- Protests erupt in West Bank as Israel approves death penalty for Palestinians convicted of murder - apnews.com
-- How sea mines threaten global trade, and how navies detect them - The Conversation
-- ‘Volatile’ world requires Britain to get close to EU, Starmer says - politico.eu
+- ‘I came, I saw, I conquered:’ Trump set to claim victory in Iran at primetime address - politico.com
+- Inside the Supreme Court as Trump faced the justices he's criticized - nbcnews.com
+- Florida and Mississippi governors sign proof-of-citizenship voting bills - The Guardian
+- NASA's Artemis II Moon mission is set to make space history - axios.com
 - Four ways a hasty Trump exit from the Iran war may not end the conflict - cnn.com
-- SpaceX seen as make-or-break test for mega IPOs - Reuters
-- Why the new GLP-1 pill is such a big deal - vox.com
+- Winter storm warnings: Sleety, icy, snowy system through Thursday - mprnews.org
+- DNA testing confirms Ted Bundy killed Utah teen in 1974 cold case - nbcnews.com
+- Judges delay Luigi Mangione’s state and federal trials - cnn.com
+- Iran’s President Says Country Has ‘No Enmity’ For Americans In Letter Posted Before Trump Speech - Forbes
+- Reporter who was kidnapped in Baghdad was known for pursuing gutsy, low-budget assignments - AP News
+- Can Donald Trump singlehandedly withdraw the US from NATO? - cnn.com
+- World’s oldest known land animal dies at 193 - MLive.com
+- Dubai crackdown hits Iran’s economic lifeline, squeezes IRGC networks | Iran International - ایران اینترنشنال
+- Minesweeping technology in the Middle East is ‘a very good package,’ Caudle says - navytimes.com
+- Elon Musk’s SpaceX files to go public, seeking massive market debut - The Washington Post
+- The FDA approves a new obesity pill, giving patients another option - npr.org
 - Oil Falls in Choppy Trade Ahead of Trump Speech on Iran War - Yahoo Finance
-- Anthropic Races to Contain Leak of Code Behind Claude AI Agent - wsj.com
-- Apple CEO Tim Cook Explains His Relationship With Trump - macrumors.com
+- Here’s what that Claude Code source leak reveals about Anthropic’s plans - Ars Technica
+- Apple celebrates its 50th anniversary with special animated homepage - 9to5Mac
 - Testing the $10 Ikea speaker that lets you connect 100 at once - theverge.com
