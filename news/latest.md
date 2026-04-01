@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 02:03_
+_Updated: 2026-04-01 05:54_
 
-- Trump attacks allies, signals Iran war may end without opening Hormuz - axios.com
-- Supreme Court strikes Colorado ban on conversion therapy - NPR
-- Judge Orders Construction Stopped on Trump’s White House Ballroom - The New York Times
-- Trump signs order to restrict mail-in ballots in probably unconstitutional move - The Guardian
-- US journalist Shelly Kittleson kidnapped in Baghdad - BBC
-- Judge orders University of Pennsylvania to comply with subpoena for information on Jewish groups - politico.com
-- The Army Begins an Inquiry After Kid Rock Gets Apache Helicopter Flyby - The New York Times
-- Trump’s top litigator faces uphill battle with birthright citizenship - CNN
-- In a town close to the farmworker movement, some struggle to process Chavez allegations - NPR
-- Trump’s Executive Order on NPR and PBS Is Unconstitutional, Judge Rules - The New York Times
+- Trump says US will leave Iran in 'two or three weeks' whether 'we have a deal or not' - BBC
+- Judge temporarily halts Trump’s $400m White House ballroom project - Al Jazeera
+- Trump issues order attempting to change rules for mail-in voting - The Washington Post
+- Trump suggests he will attend birthright citizenship arguments at Supreme Court - Politico
+- Supreme Court rejects Colorado's conversion therapy ban - axios.com
+- Judge Blocks Trump’s Order to End Funding for NPR and PBS - The New York Times
+- Hegseth Reverses Helicopter Crew Suspension Over Kid Rock Flyby - The New York Times
+- Judge orders University of Pennsylvania to provide list of Jews to federal agency - The Guardian
+- Live updates: Iran war; US gas hits $4 as Trump tells other nations to ‘go get your own oil’ - CNN
+- Sanctioned Russian tanker docks in Cuba after US allows passage despite energy blockade - AP News
+- American journalist Shelly Kittleson kidnapped in Baghdad - The Washington Post
+- U.N. Peacekeepers in Lebanon Were Killed by Roadside Bomb - The New York Times
 - Top Brussels official urges Europeans to work from home and drive less - politico.eu
-- Israel mandates death penalty for West Bank Palestinians who kill in terrorist acts - The Washington Post
-- Europe pushes back on some US military operations as concerns over Iran war mount - Reuters
-- Cyber warfare starts to get personal in war between U.S., Israel and Iran - axios.com
-- Stock futures are little changed after major averages post best session since May: Live updates - CNBC
+- Jailed Palestinians fear death by hanging without due process under new Israeli law - Reuters
+- Futures Rise; Trump Sees Iran Exit In 2-3 Weeks - Investor's Business Daily
+- Asia stocks jump after Trump suggests Iran war could end in weeks - BBC
 - US average gas price hits $4 a gallon amid Iran war - axios.com
-- Oracle Fires Thousands Of Employees As AI Spending Ramps Up—Shares Rise 2% - Forbes
-- Oil Prices Post Biggest Monthly Surge in History - Crude Oil Prices Today | OilPrice.com
-- Google is now letting users in the US change their Gmail address - TechCrunch
+- Oracle lays off hundreds in Seattle, again - The Seattle Times
+- Paul McCartney headlining Apple’s 50th anniversary bash at Apple Park tonight - 9to5Mac
 - Apple Tests Siri Feature That Handles Multiple Commands at Once - Bloomberg.com
