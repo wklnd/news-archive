@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-01 23:26_
+_Updated: 2026-04-02 00:19_
 
-- Supreme Court casts doubt on Trump's birthright citizenship order - axios.com
-- Trump to declare Iran war is winding down and others need to resolve Hormuz - Politico
-- Backdoor Funding of Homeland Security Agency Could Weaken Congress Anew - The New York Times
-- ICE Barbie’s Wardrobe Back in Spotlight as Husband’s Alter Ego Revealed - The Daily Beast
-- Artemis II, Nasa’s first crewed lunar rocket in more than half a century, prepares for launch – watch and follow live - The Guardian
+- Supreme Court casts doubt on Trump's birthright citizenship order - Axios
+- Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - bbc.com
+- 4 astronauts prepare to launch on historic moon mission - cnn.com
+- How are NATO allies pushing back against Trump’s Iran war demands? - Al Jazeera
 - ‘I Don’t Care About That’: Trump Says Iran’s Enriched Uranium Is Not a Concern - The New York Times
-- Luigi Mangione’s federal trial delayed until October in killing of UnitedHealthcare CEO - AP News
-- Reporter who was kidnapped in Baghdad was known for pursuing gutsy, low-budget assignments - AP News
-- Trump is paying TSA agents — but where is the money coming from? - cnbc.com
-- Judge orders White House ballroom construction to halt in a ruling that leaves Trump seething - The Press Democrat
-- What do Trump's latest comments on leaving Nato mean for the alliance? - BBC
-- Rachel Reeves says she's angry at Trump's decision to launch war with Iran - BBC
-- UK to host Strait of Hormuz summit this week - politico.eu
+- Winter storm warnings: Sleety, icy, snowy system through Thursday - MPR News
+- Ted Bundy killed Utah teen found dead more than 50 years ago in American Fork Canyon, authorities say - sltrib.com
+- Luigi Mangione arrives in court in bid to delay federal trial over CEO killing - KSL News
+- Trump Live Updates: House and Senate Republicans Reach Deal to End DHS Shutdown - The New York Times
+- US and Iraqi officials say kidnapped journalist had been warned of threats - apnews.com
+- Protests erupt in West Bank as Israel approves death penalty for Palestinians convicted of murder - apnews.com
 - How sea mines threaten global trade, and how navies detect them - The Conversation
-- SpaceX seen as make-or-break test for mega IPOs - reuters.com
-- FDA approves GLP-1 weight loss pill Foundayo from Eli Lilly - nbcnews.com
-- Dow jumps 200 points to start April as traders bet Middle East conflict will soon end: Live updates - cnbc.com
+- ‘Volatile’ world requires Britain to get close to EU, Starmer says - politico.eu
+- Four ways a hasty Trump exit from the Iran war may not end the conflict - cnn.com
+- SpaceX seen as make-or-break test for mega IPOs - Reuters
+- Why the new GLP-1 pill is such a big deal - vox.com
 - Oil Falls in Choppy Trade Ahead of Trump Speech on Iran War - Yahoo Finance
-- From scrappy startup to tech giant, Apple celebrates its 50th year - NPR
+- Anthropic Races to Contain Leak of Code Behind Claude AI Agent - wsj.com
+- Apple CEO Tim Cook Explains His Relationship With Trump - macrumors.com
 - Testing the $10 Ikea speaker that lets you connect 100 at once - theverge.com
