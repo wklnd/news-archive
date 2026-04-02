@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 11:38_
+_Updated: 2026-04-02 13:24_
 
 ## Top Stories
 
 - Kommunen finns på plats efter morgonens skottlossning i Grusåsen - Södertälje kommun
+- Stort polispådrag när mördad 15-årig pojke begravs idag - Sydsvenskan
 - Trump: Ska bomba Iran tillbaka till stenåldern - GP
-- Irans militär efter Trumps tal: ”Förbered er” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kris: Kycklinghyllorna kan gapa tomma efter fler utbrott - Omni
-- Begränsar påsktrafiken – vägarna som påverkas - Dagens Nyheter
-- DN Direkt – Sverige köper antidrönarsystem för 8,7 miljarder - Dagens Nyheter
-- Regeringen vill ta bort informationsplikt vid hiv - SVT Nyheter
-- Villan rivs ner – efter storbranden - Corren
+- Vill bli svensk ”pilotskola” för stränga metoden No Excuses - Aftonbladet
+- Ministern: ”Som att vi förbjuder franskt vin” - svd.se
+- Här sveper orange sand in över Kreta - GP
+- Tidöpartier kritiserar Kristersson: ”Dumt” - GP
 - Svensk imam: Judar sysslar med magi - Västerbottens-Kuriren
-- Kraftig ökning av svensk vapenexport till Turkiet - GP
+- Försvaret får nytt skydd mot drönare – Sverige satsar miljarder på systemet Gute II - SVT Nyheter
+- Lägg ägg vilket tråkigt påskväder - Aftonbladet
+- Uppgifter: Israel river hus i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Uppgifter: Israel river hus i Libanon - Västerbottens-Kuriren
 - DN Direkt – Tolvåring ville spränga parlament - Dagens Nyheter
 - Ryska drönarattacker mot Ukraina dag som natt - Corren
-- Trump hotade stoppa vapenstöd till Ukraina - Corren
-- Börsen på rött i starten efter Trumps tal - Omni
-- Trots orostider steg bostadspriserna i mars - fastighetstidningen.se
-- Trump i natt: Offensiv väntar – börserna faller, oljepriset stiger - efn.se
-- Därför kommer den sänkta matmomsen göra dig besviken - GP
+- Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
+- Svenska bostadspriser steg i mars – geopolitiskt läge syns ännu inte bostadsmarknaden - Finanstid
+- Flat Capital avyttrar en stor del av sina passiva AI- och mjukvarurelaterade innehav för totalt 720 MSEK, med en realiserad avkastning på +130% IRR över innehavsperioden (MFN) - Aktiellt
+- Avanza-dödaren nära drömgräns - Affärsvärlden
 - Känslosamt när Artemis 2 sköts upp i natt: ”Vi lyfter för hela mänskligheten” - Omni
 - Påminnelse: Webbinarium om nya funktioner i Dinkel och ärendehanteringen den 16 april - Energimarknadsinspektionen
 
 ## World News
 
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global maktkamp om medicinska innovationer – Europa halkar efter - LäkemedelsVärlden
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- News of the Worlds reportrar kan få nya jobb - journalisten.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - undp.org
-- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - nytimes.com
+- New Secretary General appointed - Olof Palme International Center
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Seminar series: Global Lectures - Utrikespolitiska institutet
+- Egen dynga är guld värd när global gödselbrist hotar - yle.fi
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -59,7 +59,7 @@ _Updated: 2026-04-02 11:38_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Oron: Då tar datan på internet slut - svd.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -103,7 +103,7 @@ _Updated: 2026-04-02 11:38_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - apollohospitals.com
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
@@ -119,37 +119,37 @@ _Updated: 2026-04-02 11:38_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
