@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 22:02_
+_Updated: 2026-04-02 23:02_
 
 ## Top Stories
 
+- Trump sparkar justitieministern Pam Bondi - Västerbottens-Kuriren
 - Stor insats när 15-årige pojken begravdes i Malmö - Omni
-- Karl Dalén: Bondi var lojal som en hund – ändå fick hon sparken - Dagens Nyheter
-- Oljechef: Svenskar till Spanien blir problem - Svenska Dagbladet
-- Misstänks ha sålt sin fru till 120 män – hotfulla sms:en - Aftonbladet
-- Vance till Ungern för Orbáns valspurt - Västerbottens-Kuriren
-- Man mördad i Södertälje - 8 Sidor
+- Flera döda efter broattack i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Niklas Ekdal: Det otänkbara är inte längre helt otänkbart - EFN
+- DN Direkt – Vance till Ungern för Orbáns valspurt - Dagens Nyheter
+- Ryska invasionsstyrkan motad i mars i Ukraina - GP
+- Man död efter skjutning i Södertälje - Västerbottens-Kuriren
 - Snö och hårda vindar i påsk – men snart kommer solen: ”Högre temperaturer” - Arvika Nyheter
 - Misstänkt mord på kvinna utanför Hässleholm - SVT Nyheter
-- Över hälften i utsatta områden funderar på att flytta utomlands - Sveriges Radio
 - Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
-- Ryska invasionsstyrkan motad i mars i Ukraina - Corren
 - Macron om Hormuzsundet: en insats orealistisk - GP
-- FN-chefen varnar för global konfliktspridning - Västerbottens-Kuriren
+- Ny rysk oljeleverans till Kuba trots blockad - GP
 - USA-börsen backar efter Trumps tal i natt - Västerbottens-Kuriren
+- Alla hade räknat ut Hizbollah – nu är de tillbaka för ”den sista striden” - Dagens Nyheter
 - Restaurangernas kritik mot matmomsen: ”Tråkigare stad” - Aftonbladet
-- Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
+- USA-börsen återhämtade sig efter Irans besked - Västerbottens-Kuriren
 - Strul med Ica-banken – även problem med Swish - SVT Nyheter
 - Säljer allt i Lovable och Open AI: "Vem vet vad som händer framöver?" - Breakit
-- Följ med Artemis II runt månen – i realtid - SVT Nyheter
+- Så äter astronauterna ombord på Orion - Svenska Dagbladet
 - Använder du någon av dessa telefoner? I så fall bör du överväga att skaffa en ny - dagens.se
 
 ## World News
@@ -31,18 +31,18 @@ _Updated: 2026-04-02 22:02_
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Toronto Zoo’s baby giraffe named ‘Imara’ after public vote: ‘Certainly a gift’ - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Egen dynga är guld värd när global gödselbrist hotar - yle.fi
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
@@ -52,22 +52,22 @@ _Updated: 2026-04-02 22:02_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -77,7 +77,7 @@ _Updated: 2026-04-02 22:02_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Vilken framtid arbetar du för? - ey.com
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -144,15 +144,15 @@ _Updated: 2026-04-02 22:02_
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - naturskyddsforeningen.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - atl.nu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
