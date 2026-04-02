@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-03 00:05_
+_Updated: 2026-04-03 01:03_
 
-- Trump fires Pam Bondi as US attorney general - Reuters
+- Hegseth ousts Army Chief of Staff Gen. Randy George - CBS News
+- Trump ousts Pam Bondi as attorney general - The Washington Post
+- U.S. bombs Iran's civilian infrastructure for first time after "Stone Ages" threat - Axios
+- Iran fires on Israel and Gulf neighbors as Trump claims threat from Tehran nearly eliminated - PBS
 - Oil prices jump after Trump demands others ‘take the lead’ on Hormuz Strait - The Washington Post
-- Hegseth removes Army's top general during Iran war - axios.com
-- Iran continues strikes across the Persian Gulf despite Trump’s warning - npr.org
-- Trump does not have to turn over presidential records, Justice Department says - nbcnews.com
+- Strong earthquake jolts Bay Area in early morning hours - SFGATE
+- Drugmakers face 100% tariff unless they cut prices or produce drugs in US - Reuters
+- Why Trump’s ‘2 to 3 week’ timeline for the Iran war’s end sounds familiar - Politico
+- Mike Johnson will wait on holding a vote to fund DHS - Axios
 - The case for Trump’s tariffs looks strong a year on from ‘liberation day’ - Financial Times
-- One of the Most Famous Trials in U.S. History Disproves Trump’s Birthright Citizenship Case - Slate
-- House Republicans kvetch anew about DHS funding plan - Politico
-- Trump sets 100% drug tariffs on companies that haven’t lowered prices - The Washington Post
-- Trump uses Iran war address to urge an increasingly skeptical electorate to give him a bit more time - AP News
 - Republican senators McConnell and Tillis break with Trump on Nato withdrawal - theguardian.com
-- Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade - Reuters
-- Ancient Artifacts Stolen in Dutch Museum Heist Are Recovered - The New York Times
+- ‘Everyone is thinking about oil prices’: is Iran using the war to hide a surge in executions? - theguardian.com
+- US Allies Work On Plan B For Hormuz Strait If Trump Walks Away - bloomberg.com
 - ‘Entrenches apartheid’: UAE, 7 other Muslim countries blast Israeli death penalty law - The Times of Israel
-- Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates - CNBC
-- SpaceX Targets More Than $2 Trillion Valuation in IPO - Bloomberg.com
+- SpaceX Targets More Than $2 Trillion Valuation in IPO - bloomberg.com
 - Tesla Deliveries Due. Here's What To Expect. - Investor's Business Daily
-- Starbucks to award bonuses to baristas, expand tipping to promote turnaround efforts - CNBC
+- Trump administration sues three states over attempts to regulate prediction markets - NPR
+- Starbucks to award bonuses to baristas, expand tipping to promote turnaround efforts - cnbc.com
 - Apple employee #8 Chris Espinosa on working his whole life at one company - 9to5Mac
 - Samsung's new Frame Pro and OLED TVs are now available to order - Engadget
