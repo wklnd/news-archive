@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-02 16:07_
+_Updated: 2026-04-02 17:39_
 
-- Trump speech tonight: President addresses nation to provide update on Iran war - Yahoo Finance
-- Senate gives House a second chance to deliver DHS funding - Politico
+- Trump warns US will hit Iran ‘extremely hard’ over next two to three weeks - Politico
 - Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' - NPR
-- What's at risk if SCOTUS sides with Trump in birthright citizenship case - Axios
-- Republicans aren’t rushing to save Trump’s ballroom - Politico
-- Trump says US has plenty of jet fuel for Europe, market disagrees - Yahoo Finance
-- Arizona woman who went missing ‘without a trace’ 32 years ago found alive - The Guardian
-- Supporters of Household Voting Believe U.S. Would Be Better Off Without Women’s Vote - nytimes.com
-- Georgia's GOP Senate primary is a mess. Republicans are blaming each other. - Politico
-- Strong earthquake jolts Bay Area in early morning hours - SFGATE
-- UK to host talks with 35 countries on reopening Strait of Hormuz - Reuters
-- Iran fires on Israel and Gulf neighbors as Trump claims threat from Tehran nearly eliminated - AP News
-- Powerful 7.4 magnitude earthquake in Indonesia's Molucca Sea kills 1 person, sets off small tsunami - CBS News
+- Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship - NPR
+- Senate gives House a second chance to deliver DHS funding - Politico
+- Artemis II successfully launches for historic Moon mission - Axios
+- 4.6 magnitude earthquake shakes California, centered in Santa Cruz Mountains - San Francisco Chronicle
+- Girl who went missing at 13 years old in 1994 is found alive - NBC News
+- Supporters of Household Voting Believe U.S. Would Be Better Off Without Women’s Vote - The New York Times
+- Congress is in no rush to authorize Trump’s ballroom after judge’s ruling - The Washington Post
+- Florida Democratic Party vice chair found dead, husband in custody: Police - NewsNation
+- Iran continues strikes across the Persian Gulf despite Trump’s warning - NPR
 - Israel’s death penalty law marks a new phase in its dehumanisation of Palestinians | Yuli Novak - The Guardian
+- 2,500-year-old golden helmet found over a year after it was stolen from Dutch museum, art detective says - CBS News
+- UK to host talks with 35 countries on reopening Strait of Hormuz - Reuters
 - Live Updates: Trump says Iran war will still take weeks, oil prices rise with no plan to open Strait of Hormuz - CBS News
-- Elon Musk’s SpaceX files to go public, seeking massive market debut - The Washington Post
 - Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols - Axios
-- Tesla First Quarter 2026 Production, Deliveries & Deployments - Tesla Investor Relations
-- Tim Cook explores rare iPod, iPhone prototypes in new interview [Video] - 9to5Mac
-- Will your Samsung Galaxy device get stable One UI 8.5 update in April 2026 - Sammy Fans
+- Tesla Deliveries Due. Here's What To Expect. - Investor's Business Daily
+- Dow erases 600-point drop, briefly turns positive in volatile trading: Live updates - CNBC
+- Don't Buy the Galaxy S26 Ultra. Get This Phone Seriously Cheap Instead - CNET
+- Steam On Linux Use Skyrocketed In March - More Than Double The macOS Gaming Marketshare - Phoronix
