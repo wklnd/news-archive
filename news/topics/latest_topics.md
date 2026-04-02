@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 00:59_
+_Updated: 2026-04-03 01:58_
 
 ## Top Stories
 
-- Trump sparkar justitieministern Pam Bondi - Västerbottens-Kuriren
+- Trump sparkar Pam Bondi efter Epsteinkritiken - GP
 - Misstänkta dubbelmördarens tid i häktet: ”Väluppfostrad och artig” - Aftonbladet
-- Ville ha hämnd mot Kristi Noem – avslöjade maken - Aftonbladet
 - Viktig iransk bro träffad – Iran hotar att hämnas - GP
+- Ville ha hämnd mot Kristi Noem – avslöjade maken - Aftonbladet
 - Niklas Ekdal: Det otänkbara är inte längre helt otänkbart - EFN
 - Ryska invasionsstyrkan motad i mars i Ukraina - GP
-- Man död efter skjutning i Södertälje - Västerbottens-Kuriren
+- Man död efter skjutning i Södertälje - GP
 - Misstänkt mord på kvinna utanför Hässleholm - svt.se
 - Elvaåring fick morduppdrag – ångrade sig i sista stund - Dagens Nyheter
-- Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
+- Tidöpartier kritiserar Kristersson: ”Dumt” - Västerbottens-Kuriren
 - Macron om Hormuzsundet: en insats orealistisk - Västerbottens-Kuriren
+- Huthirebeller attackerar Jaffa – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
 - DN Direkt – Vance till Ungern för Orbáns valspurt - Dagens Nyheter
 - USA-börsen backar efter Trumps tal i natt - Västerbottens-Kuriren
-- Europeiskt krav om slut på strider i Libanon - hbl.fi
-- USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
+- USA-börsen återhämtade sig efter Irans besked - Aftonbladet
 - Strul med Ica-banken – även problem med Swish - svt.se
-- Flat Capital säljer AI-och mjukvaruinnehav för 720 miljoner kronor – gör storvinst - Börsvärlden
-- Musks Tesla sålde färre bilar än väntat - Svenska Dagbladet
+- 8 000 etiketter byttes ut med nya matmomsen - Mitt i
+- Förhöjda värden av giftig gas på SSAB - GP
 - Så äter astronauterna ombord på Orion - Svenska Dagbladet
 - Apple justerar AirTag 2 för ökad trygghet - Teknikveckan
 
@@ -56,7 +56,7 @@ _Updated: 2026-04-03 00:59_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - nyheter.ki.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
@@ -101,17 +101,17 @@ _Updated: 2026-04-03 00:59_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - nyheter.ki.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - nyheter.ki.se
 - Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - nyheter.ki.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -129,16 +129,16 @@ _Updated: 2026-04-03 00:59_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- AI och data science - Stockholms universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - nyheter.ki.se
+- AI och data science - su.se
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - nyheter.ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - nyheter.ki.se
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - nyheter.ki.se
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - nyheter.ki.se
 
 ## Jordbruk
 
@@ -149,7 +149,7 @@ _Updated: 2026-04-03 00:59_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
