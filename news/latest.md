@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-02 02:00_
+_Updated: 2026-04-02 05:35_
 
-- Fate of Trump’s Birthright Citizenship Order in Doubt After Supreme Court Hearing: Live Updates - wsj.com
-- Iran denies Trump's claim it requested ceasefire, calling it 'false and baseless' - bbc.com
-- House and Senate Republicans Reach Deal to End Homeland Security Shutdown - The New York Times
-- Trump suggests in new interviews he is ‘absolutely’ considering withdrawing US from ‘paper tiger’ NATO - CNN
-- NASA's Artemis II Moon mission is set to make space history - axios.com
-- Securing Iran’s enriched uranium by force would be risky and complex, experts say - AP News
-- Judges delay Luigi Mangione’s state and federal trials - CNN
-- Slain teen found in 1974 definitively linked to Ted Bundy murders - kutv.com
-- Library Director in Tennessee Fired for Refusing to Move Gender-Themed Books - The New York Times
-- Iranian President Questions ‘America First’ Agenda in Letter Hours Before Trump’s US Address - Military.com
-- Is the U.S. Navy ready to clear sea mines in the Persian Gulf? - npr.org
+- Oil prices surge with Brent rising 5% as Trump vows to hit Iran 'extremely hard' within weeks - CNBC
+- Supreme Court casts doubt on Trump's birthright citizenship order - axios.com
+- Republicans unveil plan to end partial government shutdown - BBC
+- Trump Laid Out Five Goals for the Iran War. Here’s Where They Stand. - The New York Times
+- ‘On a whole other level’: rapid snow melt-off in American west stuns scientists - The Guardian
+- New York Times reporter Shawn McCreesh was in the right place at the right time to write about Bryon Noem - Business Insider
+- DNA Confirms Ted Bundy Killed Utah Teen in 1974, Investigators Say - The New York Times
+- Tennessee Library Director Luanne James Fired Over L.G.B.T.Q. Books - The New York Times
+- Federal prosecutors indict close associate of Eric Adams - politico.com
+- Jury reaches split verdict in trial of man accused of killing NYPD Det. Jonathan Diller in 2024 - CBS News
+- US-Europe rift widens as Trump lashes out at NATO allies over Mideast war - AP News
+- Indonesia earthquake: Tsunami warning following 7.4-magnitude quake - BBC
+- Is the U.S. Navy ready to clear sea mines in the Persian Gulf? - NPR
 - World’s oldest known land animal dies at 193 - MLive.com
-- Rachel Reeves says she's angry at Trump's decision to launch war with Iran - bbc.com
-- Protests erupt in West Bank as Israel approves death penalty for Palestinians convicted of murder - AP News
-- SpaceX has reportedly filed for the biggest IPO in history - engadget.com
-- Lilly's weight-loss pill wins US approval, sets up next battle with rival Novo Nordisk - reuters.com
-- Oil Falls 2% as Trump Says U.S. Will Exit Iran 'Pretty Quickly' - oilprice.com
-- Nike CEO Blows Off Steam With Staff Over Stalled Turnaround - bloomberg.com
-- From scrappy startup to tech giant, Apple celebrates its 50th year - npr.org
-- Google finally fixed Gemini for Home so you can stop yelling at your ceiling - Android Central
+- Elon Musk’s SpaceX files to go public, seeking massive market debut - The Washington Post
+- FDA Approves Eli Lilly’s GLP-1 Pill - WIRED
+- Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch
+- Stock Market Today: Nasdaq Leads Charge After Trump's War Comments; Amazon, Tesla Rise (Live Coverage) - Investor's Business Daily
+- Tim Cook shares fun video trip back through 50 years of Apple products - 9to5Mac
+- Samsung Galaxy S26 Ultra Review - IGN
