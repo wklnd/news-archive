@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-02 11:42_
+_Updated: 2026-04-02 12:35_
 
-- Trump says Iran conflict ‘nearing completion’ as he seeks to calm economic worries - The Washington Post
-- ‘On a whole other level’: rapid snow melt-off in American west stuns scientists - theguardian.com
-- Artemis II successfully launches for historic Moon mission - Axios
-- Senate and House Republicans Strike Deal to End DHS Shutdown - nytimes.com
-- Amy Coney Barrett Unraveled the Case Against Birthright Citizenship With One Question - slate.com
-- Bryon Noem scandal punctures myth of rural American innocence - UnHerd
+- Trump: U.S. will bomb Iran "back to stone ages" over next 2-3 weeks - Axios
+- ‘On a whole other level’: rapid snow melt-off in American west stuns scientists - The Guardian
+- Key Justices Appear Skeptical of Limiting Birthright Citizenship - The New York Times
+- US-Europe rift widens as Trump lashes out at NATO allies over Mideast war - AP News
+- TSA shutdown: GOP leaders Thune and Johnson boost two-track approach to funding DHS - CNBC
+- Why is the Artemis 2 rocket launch different from all other rocket launches? - Space
 - Case closed: DNA evidence links serial killer Ted Bundy to new victim - KIRO 7 News Seattle
+- Inside the blame game roiling Georgia's GOP Senate primary - Politico
+- How Americans view Trump’s handling of trade and tariffs - Pew Research Center
 - Democrats sue Trump administration over mail-in-voting order - Politico
-- Death of Rohingya refugee left in parking lot by US border agents ruled a homicide - theguardian.com
-- Tennessee Library Director Luanne James Fired Over L.G.B.T.Q. Books - nytimes.com
-- Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted - Al Jazeera
-- UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz - AP News
-- Trump has threatened to leave NATO over Iran. There are few signs that’s happening. - Politico
+- Powerful 7.4 magnitude earthquake in Indonesia's Molucca Sea kills 1 person, sets off small tsunami - CBS News
+- UK to host Strait of Hormuz summit this week - politico.eu
 - World's oldest known tortoise, Jonathan, still alive despite reports of death - BBC
+- Nicola Jennings on Trump and the strait of Hormuz – cartoon - The Guardian
 - Stock futures fall after Trump says Iran war will continue for weeks: Live updates - CNBC
-- Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch
 - Elon Musk’s SpaceX files to go public, seeking massive market debut - The Washington Post
-- European stocks plunge after Trump vows to hit Iran ‘extremely hard’ - CNBC
-- Tim Cook explores rare iPod, iPhone prototypes in new interview [Video] - 9to5Mac
+- Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident - TechCrunch
+- FDA Approves Eli Lilly’s GLP-1 Pill - WIRED
 - Apple CEO Tim Cook Explains His Relationship With Trump - MacRumors
+- Samsung Galaxy S26 Ultra Review - IGN
