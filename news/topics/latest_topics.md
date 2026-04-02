@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 17:35_
+_Updated: 2026-04-02 18:32_
 
 ## Top Stories
 
 - Man skjuten i Södertälje - 8 Sidor
-- Västtrafiks priser höjs – flera månader tidigare än planerat - GP
-- Rektorn om de utvisade barnen: ”Plötsligt står en stol tom” - Dagens Nyheter
-- 35 länder i samtal om Hormuz på torsdagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tidöpartier kritiserar Kristersson: ”Dumt” - Västerbottens-Kuriren
 - Stor polisnärvaro i Malmö under påsk - Aftonbladet
-- Fortsatt sökande efter försvunnen kanotist - Västerbottens-Kuriren
-- Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
+- Allt fler skjuts i dagsljus: ”Blir mer vaksamma” - svd.se
+- Israel river hus i Libanon – varnar Hizbollah - GP
+- Iran och Oman skissar på Hormuzavtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Snö och hårda vindar i påsk – men snart kommer solen till Värmland: ”Högre temperaturer” - NWT
+- Misstänkt mord på kvinna utanför Hässleholm - SVT Nyheter
 - Motorcyklist död efter trafikolycka utanför Helsingborg - SVT Nyheter
-- Över hälften i utsatta områden funderar på att flytta utomlands - Sveriges Radio
-- Här satsar polisen på att stoppa fortkörare i påsk - NT
+- Rektorn om de utvisade barnen: ”Plötsligt står en stol tom” - Dagens Nyheter
 - FN-chefen varnar för global konfliktspridning - GP
-- Lina Lund: Donald har rätt, detta är Putins drömplan - Dagens Nyheter
 - Tio gripna för fejkade helikopterinsatser i Nepal - Västerbottens-Kuriren
 - Pam Bondi ryktas få sparken – ersättare redan klar - Dagens Nyheter
+- Trump: Ska bomba Iran tillbaka till stenåldern - Corren
 - 8 000 etiketter byttes ut med nya matmomsen - Mitt i
 - Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
-- Atlas Copco köper USA-bolag för 160 miljoner - Aftonbladet
-- Säljer allt i Lovable och Open AI: "Vem vet vad som händer framöver?" - Breakit
-- Apple 50 år – på 15 minuter - Computer Sweden
+- MALIN SIWE: Det här är ju värre än fittmössorna, LO - Expressen
+- Småspararna flyr Flat Capital: ”Inte en enda kund på köpsidan” - DI
 - Följ med Artemis II runt månen – i realtid - SVT Nyheter
+- Apple 50 år – på 15 minuter - Computer Sweden
 
 ## World News
 
@@ -50,24 +50,24 @@ _Updated: 2026-04-02 17:35_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Oron: Då tar datan på internet slut - svd.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -78,8 +78,8 @@ _Updated: 2026-04-02 17:35_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - ey.com
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -88,33 +88,33 @@ _Updated: 2026-04-02 17:35_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Vi presenterar ChatGPT Health - openai.com
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -122,27 +122,27 @@ _Updated: 2026-04-02 17:35_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - su.se
+- Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - lakartidningen.se
+- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - di.se
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -151,7 +151,7 @@ _Updated: 2026-04-02 17:35_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
