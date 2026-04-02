@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 00:01_
+_Updated: 2026-04-03 00:59_
 
 ## Top Stories
 
 - Trump sparkar justitieministern Pam Bondi - Västerbottens-Kuriren
-- Nära anhörig till mördade Malmö-pojken häktad - Aftonbladet
+- Misstänkta dubbelmördarens tid i häktet: ”Väluppfostrad och artig” - Aftonbladet
+- Ville ha hämnd mot Kristi Noem – avslöjade maken - Aftonbladet
 - Viktig iransk bro träffad – Iran hotar att hämnas - GP
 - Niklas Ekdal: Det otänkbara är inte längre helt otänkbart - EFN
-- Man död efter skjutning i Södertälje - Svenska Dagbladet
-- Mars blev den mest drönarintensiva månaden i Ukraina - Dagens Nyheter
-- Carl Jan Granqvist använde n-ordet i liveradio - Sveriges Radio
-- Misstänkt mord på kvinna utanför Hässleholm - SVT Nyheter
-- Motorcyklist död efter trafikolycka utanför Helsingborg - SVT Nyheter
-- Misstänkt grankonflikt på Hönö - Expressen
+- Ryska invasionsstyrkan motad i mars i Ukraina - GP
+- Man död efter skjutning i Södertälje - Västerbottens-Kuriren
+- Misstänkt mord på kvinna utanför Hässleholm - svt.se
+- Elvaåring fick morduppdrag – ångrade sig i sista stund - Dagens Nyheter
+- Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
 - Macron om Hormuzsundet: en insats orealistisk - Västerbottens-Kuriren
 - DN Direkt – Vance till Ungern för Orbáns valspurt - Dagens Nyheter
 - USA-börsen backar efter Trumps tal i natt - Västerbottens-Kuriren
-- Alla hade räknat ut Hizbollah – nu är de tillbaka för ”den sista striden” - Dagens Nyheter
-- USA-börsen återhämtade sig efter Irans besked - Aftonbladet
-- 8 000 etiketter byttes ut med nya matmomsen - Mitt i
+- Europeiskt krav om slut på strider i Libanon - hbl.fi
+- USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
+- Strul med Ica-banken – även problem med Swish - svt.se
 - Flat Capital säljer AI-och mjukvaruinnehav för 720 miljoner kronor – gör storvinst - Börsvärlden
-- Strul med Ica-banken – även problem med Swish - SVT Nyheter
+- Musks Tesla sålde färre bilar än väntat - Svenska Dagbladet
 - Så äter astronauterna ombord på Orion - Svenska Dagbladet
-- Disney+ har just lagt till 2000-talets mest underskattade superhjältefilm - MovieZine
+- Apple justerar AirTag 2 för ökad trygghet - Teknikveckan
 
 ## World News
 
@@ -33,7 +33,7 @@ _Updated: 2026-04-03 00:01_
 - Toronto Zoo’s baby giraffe named ‘Imara’ after public vote: ‘Certainly a gift’ - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
@@ -53,23 +53,23 @@ _Updated: 2026-04-03 00:01_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -119,7 +119,7 @@ _Updated: 2026-04-03 00:01_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -146,7 +146,7 @@ _Updated: 2026-04-03 00:01_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - extrakt.se
