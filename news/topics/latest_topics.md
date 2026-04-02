@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 13:24_
+_Updated: 2026-04-02 14:07_
 
 ## Top Stories
 
-- Kommunen finns på plats efter morgonens skottlossning i Grusåsen - Södertälje kommun
+- Man skjuten i Södertälje - 8 Sidor
 - Stort polispådrag när mördad 15-årig pojke begravs idag - Sydsvenskan
-- Trump: Ska bomba Iran tillbaka till stenåldern - GP
-- Vill bli svensk ”pilotskola” för stränga metoden No Excuses - Aftonbladet
-- Ministern: ”Som att vi förbjuder franskt vin” - svd.se
-- Här sveper orange sand in över Kreta - GP
-- Tidöpartier kritiserar Kristersson: ”Dumt” - GP
-- Svensk imam: Judar sysslar med magi - Västerbottens-Kuriren
-- Försvaret får nytt skydd mot drönare – Sverige satsar miljarder på systemet Gute II - SVT Nyheter
+- Trumps tal gav ökad osäkerhet om kriget i Iran - GP
+- Rektorn om de utvisade barnen: ”Plötsligt står en stol tom” - Dagens Nyheter
+- Draget efter snusförbudet: Förbjud franskt vin - Aftonbladet
+- Macron om Hormuzsundet: en insats orealistisk - Västerbottens-Kuriren
+- Tidöpartier kritiserar Kristersson: ”Dumt” - Västerbottens-Kuriren
 - Lägg ägg vilket tråkigt påskväder - Aftonbladet
+- Försvaret får nytt skydd mot drönare – Sverige satsar miljarder på systemet Gute II - SVT Nyheter
+- Brist på kycklingkött efter utbrott av fågelinfluensan - Sveriges Radio
 - Uppgifter: Israel river hus i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Uppgifter: Israel river hus i Libanon - Västerbottens-Kuriren
-- DN Direkt – Tolvåring ville spränga parlament - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Uppgifter: Israel river hus i Libanon - Dagens Nyheter
+- Tolvåring ville spränga parlament - Västerbottens-Kuriren
 - Ryska drönarattacker mot Ukraina dag som natt - Corren
 - Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
-- Svenska bostadspriser steg i mars – geopolitiskt läge syns ännu inte bostadsmarknaden - Finanstid
-- Flat Capital avyttrar en stor del av sina passiva AI- och mjukvarurelaterade innehav för totalt 720 MSEK, med en realiserad avkastning på +130% IRR över innehavsperioden (MFN) - Aktiellt
+- Flat Capital avyttrar en stor del av sina passiva AI- och mjukvarurelaterade innehav för totalt 720 MSEK, med en realiserad avkastning på +130% IRR över innehavsperioden (MFN) - swedbank-aktiellt.se
 - Avanza-dödaren nära drömgräns - Affärsvärlden
+- Matmomsen lockar inte: ”Sparar 3 800 kronor bara på snus” - Arvika Nyheter
 - Känslosamt när Artemis 2 sköts upp i natt: ”Vi lyfter för hela mänskligheten” - Omni
 - Påminnelse: Webbinarium om nya funktioner i Dinkel och ärendehanteringen den 16 april - Energimarknadsinspektionen
 
@@ -35,7 +35,7 @@ _Updated: 2026-04-02 13:24_
 - News of the Worlds reportrar kan få nya jobb - journalisten.se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - undp.org
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - New Secretary General appointed - Olof Palme International Center
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
@@ -53,23 +53,23 @@ _Updated: 2026-04-02 13:24_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - xpert.digital
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - svd.se
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - xpert.digital
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - xpert.digital
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - xpert.digital
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - xpert.digital
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - xpert.digital
 
 ## Business
 
@@ -143,7 +143,7 @@ _Updated: 2026-04-02 13:24_
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
