@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 18:32_
+_Updated: 2026-04-02 19:25_
 
 ## Top Stories
 
 - Man skjuten i Södertälje - 8 Sidor
 - Tidöpartier kritiserar Kristersson: ”Dumt” - Västerbottens-Kuriren
-- Stor polisnärvaro i Malmö under påsk - Aftonbladet
-- Allt fler skjuts i dagsljus: ”Blir mer vaksamma” - svd.se
-- Israel river hus i Libanon – varnar Hizbollah - GP
-- Iran och Oman skissar på Hormuzavtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Snö och hårda vindar i påsk – men snart kommer solen till Värmland: ”Högre temperaturer” - NWT
+- Mördad 15-åring förd till sista vilan på Rosengård - Sveriges Radio
+- Mars blev den mest drönarintensiva månaden i Ukraina - Dagens Nyheter
+- Expert: ”Vi har just nu alla generationers sämsta gärningsmän” - Omni
+- Västtrafiks priser höjs – flera månader tidigare än planerat - GP
+- Snö och hårda vindar i påsk – men snart kommer solen: ”Högre temperaturer” - Arvika Nyheter
 - Misstänkt mord på kvinna utanför Hässleholm - SVT Nyheter
+- Över hälften i utsatta områden funderar på att flytta utomlands - Sveriges Radio
 - Motorcyklist död efter trafikolycka utanför Helsingborg - SVT Nyheter
-- Rektorn om de utvisade barnen: ”Plötsligt står en stol tom” - Dagens Nyheter
-- FN-chefen varnar för global konfliktspridning - GP
-- Tio gripna för fejkade helikopterinsatser i Nepal - Västerbottens-Kuriren
+- Macron om Hormuzsundet: en insats orealistisk - Västerbottens-Kuriren
 - Pam Bondi ryktas få sparken – ersättare redan klar - Dagens Nyheter
+- FN-chefen varnar för global konfliktspridning - GP
 - Trump: Ska bomba Iran tillbaka till stenåldern - Corren
-- 8 000 etiketter byttes ut med nya matmomsen - Mitt i
+- Restaurangernas kritik mot matmomsen: ”Tråkigare stad” - Aftonbladet
 - Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
-- MALIN SIWE: Det här är ju värre än fittmössorna, LO - Expressen
-- Småspararna flyr Flat Capital: ”Inte en enda kund på köpsidan” - DI
+- De vill stoppa höjd pensionsålder – då får du 2 300 mer i pension - Dagens PS
+- Misstänkt mord i Hässleholm – kvinna hittad död - Expressen
 - Följ med Artemis II runt månen – i realtid - SVT Nyheter
 - Apple 50 år – på 15 minuter - Computer Sweden
 
@@ -29,10 +29,10 @@ _Updated: 2026-04-02 18:32_
 
 - FN-chefen varnar för global konfliktspridning - Aftonbladet
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -40,13 +40,13 @@ _Updated: 2026-04-02 18:32_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Egen dynga är guld värd när global gödselbrist hotar - Yle
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -57,17 +57,17 @@ _Updated: 2026-04-02 18:32_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - svd.se
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -98,7 +98,7 @@ _Updated: 2026-04-02 18:32_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Vi presenterar OpenAI för hälso- och sjukvård - openai.com
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
@@ -122,22 +122,22 @@ _Updated: 2026-04-02 18:32_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Olika slutsatser från samma data - Läkartidningen
+- Olika slutsatser från samma data - lakartidningen.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
@@ -153,12 +153,12 @@ _Updated: 2026-04-02 18:32_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Data blir en tillgång för bönderna - Land Lantbruk
