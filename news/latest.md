@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-02 18:36_
+_Updated: 2026-04-02 19:31_
 
-- Live Updates: Trump says Iran war will still take weeks, oil prices rise with no plan to open Strait of Hormuz - CBS News
-- Senate gives House a second chance to deliver DHS funding - Politico
-- Have Trump's tariffs worked? This is where things stand a year after 'Liberation Day' - NPR
-- Wartime fuel shortages spawn panic, robberies and killings in Asia - The Washington Post
-- Trump frustrated with Pam Bondi and considering firing her, sources say - nbcnews.com
-- Artemis II successfully launches for historic Moon mission - axios.com
-- Arizona woman who went missing ‘without a trace’ 32 years ago found alive - The Guardian
-- The Women Who Believe Women Should Lose the Right to Vote - The New York Times
+- Trump likely to replace Bondi as attorney general, but no final decision yet, sources say - CBS News
+- First Thing: Trump claims Iran war is ‘nearing completion’ in address to nation - The Guardian
+- Oil prices jump after Trump demands others ‘take the lead’ on Strait of Hormuz - The Washington Post
+- Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship - npr.org
+- A year later, here's where things stand on Trump's manufacturing revival - Politico
+- Trump Administration Live Updates: Bondi Fired as Attorney General - The New York Times
+- Arizona girl who vanished 32 years ago has been found alive, sheriff says - CBS News
+- Supporters of Household Voting Believe U.S. Would Be Better Off Without Women’s Vote - The New York Times
 - Hawaii doctor accused of trying to kill wife on hiking trail testifies he was defending himself - ABC News
-- Wintry mix of precipitation Thursday into Thursday night, then another system Friday - MPR News
-- Iran executes man allegedly tied to attack on military site during mass protests - jpost.com
-- UK to host talks with 35 countries on reopening Strait of Hormuz - Reuters
-- Israel’s death penalty law marks a new phase in its dehumanisation of Palestinians | Yuli Novak - The Guardian
+- Texas Man Charged With Manslaughter in Connection With Cold Case - The New York Times
+- Iran executes protest detainee over Basij base fire case - ایران اینترنشنال
 - After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal - The New York Times
-- Oil soars past $113, stocks sell off after Trump's Iran war address contains no off-ramp - nbcnews.com
-- Tesla First Quarter 2026 Production, Deliveries & Deployments - Tesla Investor Relations
+- ‘A wow moment’: stolen 2,500-year-old Romanian gold helmet has been found - The Guardian
+- Israel’s death penalty law marks a new phase in its dehumanisation of Palestinians | Yuli Novak - The Guardian
+- Stocks fall, oil rises as Trump comments dent hopes for a U.S.-Iran war resolution: Live updates - CNBC
+- Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols - Axios
 - Elon Musk’s SpaceX files to go public, seeking massive market debut - The Washington Post
-- Exclusive: Gottheimer presses Anthropic on source code leaks and safety protocols - axios.com
+- Tesla First Quarter 2026 Production, Deliveries & Deployments - Tesla Investor Relations
+- Tim Cook explores rare iPod, iPhone prototypes in new interview [Video] - 9to5Mac
 - T-Mobile is about to test the limits of customer loyalty [UPDATED] - PhoneArena
-- Don't Buy the Galaxy S26 Ultra. Get This Phone Seriously Cheap Instead - CNET
