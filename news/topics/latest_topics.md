@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 21:29_
+_Updated: 2026-04-02 22:02_
 
 ## Top Stories
 
-- Trump sparkar justitieministern Pam Bondi - Västerbottens-Kuriren
-- Polisen misstänker: Anhörig till mördad 15-åring planerade hämnddåd - Sydsvenskan
+- Stor insats när 15-årige pojken begravdes i Malmö - Omni
+- Karl Dalén: Bondi var lojal som en hund – ändå fick hon sparken - Dagens Nyheter
 - Oljechef: Svenskar till Spanien blir problem - Svenska Dagbladet
 - Misstänks ha sålt sin fru till 120 män – hotfulla sms:en - Aftonbladet
+- Vance till Ungern för Orbáns valspurt - Västerbottens-Kuriren
 - Man mördad i Södertälje - 8 Sidor
-- Expert: ”Vi har just nu alla generationers sämsta gärningsmän” - omni.se
 - Snö och hårda vindar i påsk – men snart kommer solen: ”Högre temperaturer” - Arvika Nyheter
-- Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
 - Misstänkt mord på kvinna utanför Hässleholm - SVT Nyheter
 - Över hälften i utsatta områden funderar på att flytta utomlands - Sveriges Radio
+- Tidigare M-topp i Lerum lämnar – efter SD-besked - GP
+- Ryska invasionsstyrkan motad i mars i Ukraina - Corren
 - Macron om Hormuzsundet: en insats orealistisk - GP
-- Mars blev den mest drönarintensiva månaden i Ukraina - Dagens Nyheter
 - FN-chefen varnar för global konfliktspridning - Västerbottens-Kuriren
-- Ny rysk oljeleverans till Kuba trots blockad - Västerbottens-Kuriren
+- USA-börsen backar efter Trumps tal i natt - Västerbottens-Kuriren
 - Restaurangernas kritik mot matmomsen: ”Tråkigare stad” - Aftonbladet
 - Felicia Åkerman: Därför faller Stockholmsbörsen – trots Trumps löften om ett slut på kriget - Dagens Nyheter
 - Strul med Ica-banken – även problem med Swish - SVT Nyheter
@@ -29,24 +29,24 @@ _Updated: 2026-04-02 21:29_
 
 - FN-chefen varnar för global konfliktspridning - Aftonbladet
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 08:30 - tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - The New York Times
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - omni.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Egen dynga är guld värd när global gödselbrist hotar - Yle
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -73,39 +73,39 @@ _Updated: 2026-04-02 21:29_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -124,16 +124,16 @@ _Updated: 2026-04-02 21:29_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Kurs i öppen vetenskap: ”Investering i din framtida forskarkarriär” - Stockholms universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-04-02 21:29_
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - commission.europa.eu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- Data blir en tillgång för bönderna - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
