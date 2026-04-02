@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-02 10:34_
+_Updated: 2026-04-02 11:38_
 
 ## Top Stories
 
+- Kommunen finns på plats efter morgonens skottlossning i Grusåsen - Södertälje kommun
 - Trump: Ska bomba Iran tillbaka till stenåldern - GP
-- Man skjuten i Södertälje – allvarligt skadad - Svenska Dagbladet
-- Svenska försvaret får nytt skydd mot drönare - SVT Nyheter
-- Iransk robotsalva efter Trumps tal till nationen - Dagens Nyheter
-- Hjällbo centrum renoveras upp: “Nu kan jag ha öppet sent igen” - GP
+- Irans militär efter Trumps tal: ”Förbered er” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kris: Kycklinghyllorna kan gapa tomma efter fler utbrott - Omni
 - Begränsar påsktrafiken – vägarna som påverkas - Dagens Nyheter
-- Regeringen vill ta bort informationsplikt vid hiv - GP
-- Branden under kontroll – men villan gick inte att rädda - NT
+- DN Direkt – Sverige köper antidrönarsystem för 8,7 miljarder - Dagens Nyheter
+- Regeringen vill ta bort informationsplikt vid hiv - SVT Nyheter
+- Villan rivs ner – efter storbranden - Corren
+- Svensk imam: Judar sysslar med magi - Västerbottens-Kuriren
 - Kraftig ökning av svensk vapenexport till Turkiet - GP
-- Tolvåring ville spränga parlament - Västerbottens-Kuriren
-- ARON LUND: Krigets sår kommer att bli svåra att läka - UNT
+- Uppgifter: Israel river hus i Libanon - Västerbottens-Kuriren
+- DN Direkt – Tolvåring ville spränga parlament - Dagens Nyheter
 - Ryska drönarattacker mot Ukraina dag som natt - Corren
-- Direkt – Krisen i Mellanöstern – Trump kräver öppnande av Hormuz – hotar med Ukrainavapen - Dagens Nyheter
-- Oljepriset stiger efter Trumps tal - Aftonbladet
-- Bopriserna opåverkade av krisen – ökade 1,7 procent i mars - Omni
-- Y combinator slår tillbaka mot Jon Olsson: “Har inget samarbete på nåt sätt” - Breakit
-- Matmomsen är inte det som lockar norrmännen: ”Sparar 3 800 kronor bara på snus” - NWT
+- Trump hotade stoppa vapenstöd till Ukraina - Corren
+- Börsen på rött i starten efter Trumps tal - Omni
+- Trots orostider steg bostadspriserna i mars - fastighetstidningen.se
+- Trump i natt: Offensiv väntar – börserna faller, oljepriset stiger - efn.se
+- Därför kommer den sänkta matmomsen göra dig besviken - GP
 - Känslosamt när Artemis 2 sköts upp i natt: ”Vi lyfter för hela mänskligheten” - Omni
 - Påminnelse: Webbinarium om nya funktioner i Dinkel och ärendehanteringen den 16 april - Energimarknadsinspektionen
 
@@ -37,20 +37,20 @@ _Updated: 2026-04-02 10:34_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- UNDP lanserar läromedel om global utveckling - undp.org
+- Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base - nytimes.com
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- One Month to Go: Judo is Peace, Unity and Friendship - ijf.org
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
@@ -73,20 +73,20 @@ _Updated: 2026-04-02 10:34_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -97,8 +97,9 @@ _Updated: 2026-04-02 10:34_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -106,16 +107,15 @@ _Updated: 2026-04-02 10:34_
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -149,7 +149,7 @@ _Updated: 2026-04-02 10:34_
 - Jordbruk och landsbygdsutveckling - European Commission
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
