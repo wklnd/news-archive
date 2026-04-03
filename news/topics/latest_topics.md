@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 12:08_
+_Updated: 2026-04-03 13:10_
 
 ## Top Stories
 
-- Kustbevakningen har bordat ett nytt misstänkt fartyg - Dagens Nyheter
-- ”Pinsamt misstag” på omslaget till JD Vances bok - Omni
+- Kustbevakningen har bordat nytt fartyg - SVT Nyheter
+- Varning för snö i Värmland på påskafton – Kan komma fem centimeter - Sveriges Radio
+- Rekordlågt vatten – nu uppmanas folk duscha max tre minuter och spara - Dagens Nyheter
 - Stort ryskt anfall i dagsljus – minst en död - Västerbottens-Kuriren
-- Källor: Irans militära kapacitet stor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Så gynnar prischocken klimatet - Svenska Dagbladet
-- ”Nästan omöjligt att rekrytera domare” - Svenska Dagbladet
-- Lågtrycket Dave sabbar påsken med blåst och snö - NT
-- Man död efter skjutning i Södertälje - GP
-- ”Det är ett smutsigt drev” – politisk strid splittrar Vänsterpartiet - Sydsvenskan
+- Källor: Iran har fortsatt stor attackkapacitet - GP
 - Långa köer på E4 genom Jönköping - SVT Nyheter
-- Trump sparkar justitieministern Pam Bondi - GP
-- Iran och Oman skissar på Hormuzavtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Myanmars juntaledare vald till president - GP
+- ”Det är ett smutsigt drev” – politisk strid splittrar Vänsterpartiet - Sydsvenskan
+- Man död efter skjutning i Södertälje - GP
+- Långa köer efter olycka på E4:an - Sveriges Radio
+- Ledare: (Mar)drömmen: elva sverigedemokrater i regeringen - vf.se
+- Macron om Hormuzsundet: en insats orealistisk - GP
+- DN Direkt – Myanmars juntaledare vald till president - Dagens Nyheter
+- Trump sparkar justitieministern Pam Bondi - Corren
 - Tvååring död efter olycka på förskola i Finland - Västerbottens-Kuriren
-- Hundratusentals kan bli utan elstöd: ”Regeringen blundar” - Omni
-- Matjättarna håller löftet – sänker i linje med momsen - Omni Ekonomi
+- Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - NWT
+- Matjättarna håller löftet – sänker i linje med momsen - Omni
 - USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
-- Inrikesflyget nära krasch: ”Använd flyget eller förlora det” - Dagens Nyheter
+- 26 högutdelande aktier för 2026 – internationella listan - Dagens PS
 - Skjuts ur omloppsbanan – på väg mot månen - TV4 Nyheterna
-- Så slipper du tjatet om uppdatering till IOS 26 - Macworld.se
+- Apple 50 år – på 15 minuter - Computer Sweden
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2026-04-03 12:08_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
@@ -57,7 +57,7 @@ _Updated: 2026-04-03 12:08_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -142,23 +142,23 @@ _Updated: 2026-04-03 12:08_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - landlantbruk.se
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
 - Lediga jobb - landlantbruk.se
 - Data blir en tillgång för bönderna - landlantbruk.se
+- Hellre plöjningsfri odling än ekologisk - landlantbruk.se
