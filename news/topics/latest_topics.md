@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 21:11_
+_Updated: 2026-04-03 21:59_
 
 ## Top Stories
 
-- En av piloterna har räddats av USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kustbevakningen har bordat nytt fartyg utanför Ystad - GP
+- Ett till amerikanskt plan har kraschat – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ehnbom: ”Alla köpte Epsteins förklaring” - Svenska Dagbladet
 - Mannen i Södertälje hade hotbild mot sig - Aftonbladet
-- Ehnbom: ”Alla köpte hans förklaring” - Svenska Dagbladet
-- Lågtrycket Dave sabbar påsken med blåst och snö - Folkbladet
-- Svensken i Ukraina: ”De har inte något annat val” - Dagens Nyheter
-- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
-- Snöskotrar utlöste stor lavin i Sorsele kommun - SVT Nyheter
-- Polisen rustar inför motormässan i Jönköping - Dagens Nyheter
-- Uppmaningen till skåningarna: Ta korta duschar - GP
-- Direkt – Krisen i Mellanöstern – Medlare: Iran ratar samtal i Pakistan - Dagens Nyheter
+- Stormen ”Dave” på väg in över Göteborg - GP
+- Två misstänkta efter att Kustbevakningen bordat ett nytt misstänkt fartyg - Dagens Nyheter
 - Har du sett de falska bilderna om kriget i Iran? - Dagens Nyheter
+- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
+- Polisen rustar inför motormässan i Jönköping - Dagens Nyheter
+- Ammarnäs: Stor lavin gick – Kan ha utlösts av skoteråkare - Västerbottens-Kuriren
+- Trossö vårdcentral fortsätter att drivas av Region Blekinge - Region Blekinge
+- Direkt – Krisen i Mellanöstern – Medlare: Iran ratar samtal i Pakistan - Dagens Nyheter
 - Moskva varnar för risker efter att missiler träffat kärnanläggningens område - Dagens.se
-- Sandra Stiskalo: Brittiska influerare flyr Dubai med svansen mellan benen - Dagens Nyheter
-- Kedja vädjar till regeringen: Stoppa butiksstölderna - Dagens PS
+- Svensken i Ukraina: ”De har inte något annat val” - Dagens Nyheter
+- Flera döda efter broattack i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Första provsvaren till SSAB: Giftiga gaser i hytten - Kuriren
 - Piteåborna om momssänkningen på mat: "Valfläsk" - pt.se
-- McKinsey: AI kan plocka bort mellancheferna - Dagens PS
+- Kedja vädjar till regeringen: Stoppa butiksstölderna - Dagens PS
+- Påsken är här – och kärringarna har störtat in - Västerbottens-Kuriren
 - Första bilderna från Artemis 2: ”Inget kan förbereda dig” - Omni
-- Krävdes på 190 000 kr – lagar elbil med flasklock - carup.se
+- Krävdes på 190 000 kr – lagar elbil med flasklock - Carup.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-04-03 21:11_
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- UNDP lanserar läromedel om global utveckling - undp.org
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Seminar series: Global Lectures - Utrikespolitiska institutet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 
 ## Technology
 
@@ -100,7 +100,7 @@ _Updated: 2026-04-03 21:11_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -122,13 +122,13 @@ _Updated: 2026-04-03 21:11_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -147,10 +147,10 @@ _Updated: 2026-04-03 21:11_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
