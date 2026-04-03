@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-03 23:05_
+_Updated: 2026-04-04 00:02_
 
-- Live Updates: U.S. fighter jet shot down by Iran, 1 crew member rescued by American forces - CBS News
+- US military launches rescue mission for pilots who crashed in Iran - Politico
 - Trump Requests $1.5 Trillion for Military Spending - The New York Times
-- 2 U.S. planes are down and Iran hits Gulf refineries as the war wraps its 5th week - NPR
 - Justice Alito Was Taken to the Hospital Last Month in Undisclosed Incident - The New York Times
-- Hegseth's wartime firing of top generals stuns officials: "It's insane" - Axios
-- What to know about Todd Blanche, Trump's pick for acting attorney general - PBS
-- WA sues Trump over national voting list, vote-by-mail restrictions - The Seattle Times
-- Evangelicals backed Trump. Now pastors denounce his ICE crackdown hitting their churches. - NBC News
-- Texas Voucher Program Incites Fight Over Funding Islamic Schools - The New York Times
+- Brush fire breaks out in Moreno Valley amid Santa Ana winds - ABC7 Los Angeles
+- 2 U.S. planes are down and Iran hits Gulf refineries as the war wraps its 5th week - NPR
 - US intelligence said to assess around half of Iran’s missile launchers still intact - The Times of Israel
-- Chinese Politburo member Ma Xingrui under investigation by anti-graft watchdog - Reuters
-- Iran Strikes Gulf Energy Sites as Trump Warns of Further Attacks - bloomberg.com
-- Trump's anger over Iran thrusts NATO into fresh crisis - Reuters
-- French-Owned Ship Passes Through Strait of Hormuz - wsj.com
-- March jobs report blows past expectations - The Washington Post
+- Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
+- Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - The New York Times
+- Who is Christopher LaNeve, set to lead the US Army? - BBC
+- Trump's ballroom fight sheds new light on an underground White House bunker - NPR
+- Iran Strikes More Gulf Targets as Trump Warns of Further Attacks - Bloomberg.com
+- French-owned CMA CGM container ship passes Strait of Hormuz, data shows - Reuters
+- Trump wants the world to buy more US oil. He might regret it. - Politico
+- Trump threatens to break NATO's promise over Iran war - Axios
+- U.S. jobs growth surges past expectations in March - investing.com
 - 2 airlines raise baggage fees: What to know - ABC News
-- Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok - The New York Times
 - Trump administration proposes expanding Chinese tech gear crackdown - Reuters
+- The FDA Issued a Recall on Cheese Due to E. Coli Outbreak—Here's What to Know - eatingwell.com
 - Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac
-- Fitbit 4.66 for Android rolling out water, food, & mood logging, more - 9to5Google
+- Google Meet now on Apple CarPlay, Android Auto coming ‘soon’ - 9to5Google
