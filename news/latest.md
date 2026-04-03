@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-03 01:03_
+_Updated: 2026-04-03 02:02_
 
 - Hegseth ousts Army Chief of Staff Gen. Randy George - CBS News
-- Trump ousts Pam Bondi as attorney general - The Washington Post
-- U.S. bombs Iran's civilian infrastructure for first time after "Stone Ages" threat - Axios
+- Blanche, Trump’s Former Defense Lawyer, Steps In as Acting Attorney General - The New York Times
 - Iran fires on Israel and Gulf neighbors as Trump claims threat from Tehran nearly eliminated - PBS
-- Oil prices jump after Trump demands others ‘take the lead’ on Hormuz Strait - The Washington Post
-- Strong earthquake jolts Bay Area in early morning hours - SFGATE
-- Drugmakers face 100% tariff unless they cut prices or produce drugs in US - Reuters
-- Why Trump’s ‘2 to 3 week’ timeline for the Iran war’s end sounds familiar - Politico
+- As Trump doubles down on Iran war, markets shudder and oil prices climb - The Washington Post
+- 4.6 magnitude earthquake rattles Northern California - ABC News
+- Pharmaceuticals face 100% tariffs in US - unless firms strike a deal - BBC
+- Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit - AP News
+- One of the Most Famous Trials in U.S. History Disproves Trump’s Birthright Citizenship Case - Slate
+- Trump makes case for Iran war. And, SCOTUS leans toward upholding birthright citizenship - NPR
 - Mike Johnson will wait on holding a vote to fund DHS - Axios
-- The case for Trump’s tariffs looks strong a year on from ‘liberation day’ - Financial Times
-- Republican senators McConnell and Tillis break with Trump on Nato withdrawal - theguardian.com
-- ‘Everyone is thinking about oil prices’: is Iran using the war to hide a surge in executions? - theguardian.com
-- US Allies Work On Plan B For Hormuz Strait If Trump Walks Away - bloomberg.com
-- ‘Entrenches apartheid’: UAE, 7 other Muslim countries blast Israeli death penalty law - The Times of Israel
-- SpaceX Targets More Than $2 Trillion Valuation in IPO - bloomberg.com
-- Tesla Deliveries Due. Here's What To Expect. - Investor's Business Daily
-- Trump administration sues three states over attempts to regulate prediction markets - NPR
-- Starbucks to award bonuses to baristas, expand tipping to promote turnaround efforts - cnbc.com
+- Republican senators McConnell and Tillis break with Trump on Nato withdrawal - The Guardian
+- ‘Everyone is thinking about oil prices’: is Iran using the war to hide a surge in executions? - The Guardian
+- US Allies Work On Plan B For Hormuz Strait If Trump Walks Away - Bloomberg.com
+- Pope Leo's Holy Thursday marks return to pre-Francis era practice - ncronline.org
+- SpaceX Targets More Than $2 Trillion Valuation in IPO - Bloomberg.com
+- US sues Arizona, Connecticut, Illinois to stop regulation of prediction markets - Reuters
+- Tesla Sales Rise as $4-a-Gallon Gas Revives Interest in E.V.s - The New York Times
+- OpenAI acquires TBPN, the buzzy founder-led business talk show - TechCrunch
 - Apple employee #8 Chris Espinosa on working his whole life at one company - 9to5Mac
-- Samsung's new Frame Pro and OLED TVs are now available to order - Engadget
+- Samsung's new Frame Pro and OLED TVs are now available to order - engadget.com
