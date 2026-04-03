@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 17:09_
+_Updated: 2026-04-03 18:02_
 
 ## Top Stories
 
-- Kustbevakningen har bordat nytt fartyg - SVT Nyheter
-- Gul varning för kraftigt snöfall i Värmland - NWT
-- Viktig iransk bro träffad – Iran hotar att hämnas - GP
+- SMHI varnar för kraftigt snöfall i Värmland - SVT Nyheter
+- Kustbevakningen har bordat nytt fartyg utanför Ystad - GP
+- Direkt – Krisen i Mellanöstern – Amerikansk källa: Stridsflygplan sköts ner i Iran - Dagens Nyheter
 - Larm om lavin i Sorsele – polisen har inlett fjällräddning - Norran
 - Rekordlågt vatten – nu uppmanas folk duscha max tre minuter och spara - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Amerikansk källa: Stridsflygplan sköts ner i Iran - Dagens Nyheter
-- Spricka inom V – topp i Malmö avstår partikongress - Omni
-- Polisen rustar inför motormässan i Jönköping - Dagens Nyheter
-- Hasse bor vid mordplatsen i Södertälje: ”Så tragiskt allting” - SVT Nyheter
-- Ung man livshotande skadad i olycka – bilen fattade eld - SVT Nyheter
 - Stort ryskt anfall i dagsljus – minst en död - Västerbottens-Kuriren
-- Macron om Hormuzsundet: en insats orealistisk - GP
-- Tvååring död efter olycka på förskola i Finland - Västerbottens-Kuriren
-- Pojke i skoterolycka – livshotande skadad - folkbladet.nu
+- Spricka inom V – topp i Malmö avstår partikongress - Omni
+- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
+- Polisen rustar inför motormässan i Jönköping - Dagens Nyheter
+- Långa köer efter olycka på E4:an - Sveriges Radio
+- Uppgift: Amerikansk pilot jagas i Iran - GP
+- Svensken i Ukraina: ”De har inte något annat val” - Dagens Nyheter
+- Länder vill försöka öppna Hormuzsundet - Västerbottens-Kuriren
+- Tvååring död efter olycka på förskola i Finland - GP
 - Patrik sökte hundratals jobb – fick flytta 130 mil - expressen.se
-- Livsmedlet populärare – året om: "Pratas mycket om ägg" - SN, Södermanlands Nyheter
-- Karin Källström Sluta smita från ansvar för inrikesflyget - Bohusläningen
 - USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
+- ”Kan leda till bestående förändringar” - Svenska Dagbladet
+- USA vill förbjuda kinesiska bilar – pressar Europa att följa efter - Dagens PS
 - Rymdexperten: Därför landar inte Artemis 2 på månen - Sveriges Radio
 - Windows 11 har återigen tappat användare - PC för Alla
 
@@ -30,27 +30,27 @@ _Updated: 2026-04-03 17:09_
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Toronto Zoo’s baby giraffe named ‘Imara’ after public vote: ‘Certainly a gift’ - Global News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -142,7 +142,7 @@ _Updated: 2026-04-03 17:09_
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
