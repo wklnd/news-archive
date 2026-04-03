@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 13:10_
+_Updated: 2026-04-03 14:01_
 
 ## Top Stories
 
 - Kustbevakningen har bordat nytt fartyg - SVT Nyheter
-- Varning för snö i Värmland på påskafton – Kan komma fem centimeter - Sveriges Radio
+- JUST NU: Gul varning för kraftigt snöfall i Värmland - NWT
 - Rekordlågt vatten – nu uppmanas folk duscha max tre minuter och spara - Dagens Nyheter
-- Stort ryskt anfall i dagsljus – minst en död - Västerbottens-Kuriren
-- Källor: Iran har fortsatt stor attackkapacitet - GP
-- Långa köer på E4 genom Jönköping - SVT Nyheter
+- ”Kan leda till bestående förändringar” - Svenska Dagbladet
+- Läraren ghostad av Mohamsson: Nu träffas de i Nyhetsmorgon - News55
+- Flera olyckor på E4 – långa köer i Jönköping - Sveriges Radio
 - ”Det är ett smutsigt drev” – politisk strid splittrar Vänsterpartiet - Sydsvenskan
-- Man död efter skjutning i Södertälje - GP
 - Långa köer efter olycka på E4:an - Sveriges Radio
-- Ledare: (Mar)drömmen: elva sverigedemokrater i regeringen - vf.se
-- Macron om Hormuzsundet: en insats orealistisk - GP
-- DN Direkt – Myanmars juntaledare vald till president - Dagens Nyheter
-- Trump sparkar justitieministern Pam Bondi - Corren
+- DEBATT: Sluta skrämmas! Inte alls ”livsfarligt” i fjällen - Expressen
+- Håller påskkärringarna på att försvinna – och ersättas av halloween? - GP
+- Stort ryskt anfall i dagsljus – minst en död - Västerbottens-Kuriren
+- Experter varnar Trump: anfallen i Iran misstänkta krigsbrott - Dagens Nyheter
+- Myanmars juntaledare vald till president - GP
 - Tvååring död efter olycka på förskola i Finland - Västerbottens-Kuriren
 - Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - NWT
+- Patrik sökte hundratals jobb – fick flytta 130 mil - Expressen
 - Matjättarna håller löftet – sänker i linje med momsen - Omni
-- USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
-- 26 högutdelande aktier för 2026 – internationella listan - Dagens PS
-- Skjuts ur omloppsbanan – på väg mot månen - TV4 Nyheterna
-- Apple 50 år – på 15 minuter - Computer Sweden
+- Livsmedlet populärare – året om: "Pratas mycket om ägg" - SN, Södermanlands Nyheter
+- Rymdexperten: Därför landar inte Artemis 2 på månen - Sveriges Radio
+- Roger från Feber snackar Apple i Nyhetsmorgon - Teknikveckan
 
 ## World News
 
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 14:30 - Tv.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Ontario minimum wage to rise to $17.95 on Oct. 1 - Global News
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Toronto Zoo’s baby giraffe named ‘Imara’ after public vote: ‘Certainly a gift’ - Global News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Ontario minimum wage to rise to $17.95 on Oct. 1 - globalnews.ca
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Toronto Zoo’s baby giraffe named ‘Imara’ after public vote: ‘Certainly a gift’ - globalnews.ca
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -57,16 +57,16 @@ _Updated: 2026-04-03 13:10_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -131,13 +131,13 @@ _Updated: 2026-04-03 13:10_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- AI och data science - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -145,20 +145,20 @@ _Updated: 2026-04-03 13:10_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - landlantbruk.se
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - landlantbruk.se
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
-- Lediga jobb - landlantbruk.se
-- Data blir en tillgång för bönderna - landlantbruk.se
-- Hellre plöjningsfri odling än ekologisk - landlantbruk.se
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
