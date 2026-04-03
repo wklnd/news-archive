@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-03 12:26_
+_Updated: 2026-04-03 13:24_
 
-- Hegseth removes Army's top general during Iran war - Axios
-- Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - nytimes.com
-- Trump warns Tehran ‘more to follow’ after strike destroys Iran’s largest bridge - The Guardian
-- Republican senators McConnell and Tillis break with Trump on Nato withdrawal - The Guardian
-- Artemis II astronauts rocket toward the moon after spending a day around Earth - politico.com
-- Pharmaceuticals face 100% tariffs in US - unless firms strike a deal - BBC
-- Hegseth Allows Troops to Carry Personal Firearms at Military Bases - nytimes.com
-- Hawaii doctor accused of trying to kill wife on hiking trail testifies he was defending himself - ABC News
-- Republicans want to go it alone on ICE funding. It might be a slippery slope. - politico.com
-- House Punts on Homeland Security Funding, Prolonging Shutdown - nytimes.com
+- Army chief of staff fired by Hegseth, sources say - CNBC
+- Pam Bondi Wanted a Graceful Exit. But Trump Wanted Her Gone. - The New York Times
+- U.S. bombs Iran's civilian infrastructure for first time after "Stone Ages" threat - Axios
+- Takeaways from Trump's tough week, as war and gas prices take a toll - NPR
+- International law experts allege violations in Iran war - BBC
+- Artemis II starts to leave Earth’s orbit and shoots to the moon - The Washington Post
+- Iran claims shooting down second US F-35 fighter jet; Watch | World News - Hindustan Times
+- Hegseth Allows Troops to Carry Personal Firearms at Military Bases - The New York Times
+- Trump unveils 100% tariff on some patented drugs on ‘Liberation Day’ anniversary - AP News
+- Mike Johnson will wait on holding a vote to fund DHS - Axios
+- Trump threatens to break NATO's promise over Iran war - Axios
+- Israel under fire from Iranian missiles as Trump issues new warning - euronews.com
 - IDF official says disarming Hezbollah unrealistic, not a goal of Lebanon operation - The Times of Israel
-- Macron and Lee say they'll work together to reopen Strait of Hormuz - Euronews.com
-- Under global spotlight, Australia plays hardball on social media ban - Reuters
-- Trump vows to hit more Iranian infrastructure as nations seek to open Hormuz - Reuters
-- OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - nytimes.com
+- At War With Iran Again, Some Israelis Fear Conflict Is Becoming Routine - The New York Times
+- SpaceX Targets More Than $2 Trillion Valuation in IPO - Bloomberg.com
 - Oil prices surge while Asian share prices rise moderately - AP News
-- CFTC sues Arizona, Connecticut, Illinois over prediction market regulation - CNBC
-- Blue Owl Reels as Investors Who Fueled Its Growth Now Want Out - bloomberg.com
-- Microsoft takes on AI rivals with three new foundational models - TechCrunch
-- Google Meet now on Apple CarPlay, Android Auto coming ‘soon’ - 9to5Google
+- Blue Owl limits withdrawals from two funds after historic surge in redemption requests - Reuters
+- OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I. - The New York Times
+- Google launches Gemma 4, a new open-source model: How to try it - Mashable
+- Pixel 11 Pro XL renders show Google going all-in with new camera bar - Android Authority
