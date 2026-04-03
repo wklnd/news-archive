@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-03 23:57_
+_Updated: 2026-04-04 01:01_
 
 ## Top Stories
 
-- Trump: Nedskjutningar påverkar inte förhandlingarna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Expert: Ryska attacker kan vara vedergällning - GP
-- Krock mellan bil och spårvagn i Göteborg - SVT Nyheter
 - USA-experten: ”Vinden blåser mot Donald Trump” - GP
+- Spårvagn och bil har krockat – tre till sjukhus - Aftonbladet
+- Trump: Nedskjutningar påverkar inte förhandlingarna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Flera fall av misshandel vid bilträff i Jönköping - Dagens Nyheter
 - Lågtrycket Dave sabbar påsken med blåst och snö - Folkbladet
-- I Franska Guyana finns oljan som landet inte vågar röra - Dagens Nyheter
-- SSAB stoppar arbete – giftig gas - SVT Nyheter
-- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
+- SSAB stoppar arbete efter nya sjukdomsfall - Västerbottens-Kuriren
 - Ny fartygsbordning – misstänkt rysk skuggflotta - Corren
 - Spricka inom V – topp i Malmö avstår partikongress - Omni
+- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Medlare: Iran ratar samtal i Pakistan - Dagens Nyheter
+- I Franska Guyana finns oljan som landet inte vågar röra - Dagens Nyheter
 - Moskva varnar för risker efter att missiler träffat kärnanläggningens område - Dagens.se
-- Har du sett de falska bilderna om kriget i Iran? - Dagens Nyheter
-- Sandra Stiskalo: Brittiska influerare flyr Dubai med svansen mellan benen - Dagens Nyheter
+- Lavin har gått i Sorsele – ingen skadad hittad - Omni
+- Första klass är tillbaka – och nu är det mer lägenhet än flygstol - Dagens PS
 - Piteåborna om momssänkningen på mat: "Valfläsk" - pt.se
 - Påsken är här – och kärringarna har störtat in - Västerbottens-Kuriren
-- Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - NWT
-- DEBATT: Det livslånga lärandet ställs på sin spets - Borlänge Tidning
+- Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - nwt.se
 - Första bilderna från Artemis 2: ”Inget kan förbereda dig” - Omni
-- Krävdes på 190 000 kr – lagar elbil med flasklock - Carup.se
+- ”De har ju fan ingen humor” - Östersunds-Posten
 
 ## World News
 
@@ -35,7 +35,7 @@ _Updated: 2026-04-03 23:57_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
@@ -45,8 +45,8 @@ _Updated: 2026-04-03 23:57_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Egen dynga är guld värd när global gödselbrist hotar - Yle
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Egen dynga är guld värd när global gödselbrist hotar - Yle
 
 ## Technology
 
@@ -61,8 +61,8 @@ _Updated: 2026-04-03 23:57_
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -73,21 +73,21 @@ _Updated: 2026-04-03 23:57_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -131,14 +131,14 @@ _Updated: 2026-04-03 23:57_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Förtroendet för vetenskapen i gungning - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
