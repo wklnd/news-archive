@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 01:01_
+_Updated: 2026-04-04 01:57_
 
 ## Top Stories
 
-- Expert: Ryska attacker kan vara vedergällning - GP
+- Dödstalet stiger efter dagens attacker i Ukraina - GP
 - USA-experten: ”Vinden blåser mot Donald Trump” - GP
-- Spårvagn och bil har krockat – tre till sjukhus - Aftonbladet
-- Trump: Nedskjutningar påverkar inte förhandlingarna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Flera fall av misshandel vid bilträff i Jönköping - Dagens Nyheter
-- Lågtrycket Dave sabbar påsken med blåst och snö - Folkbladet
+- Iranier öppnar eld mot amerikanska helikoptrar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Spårvagn och taxi i krock – tre till sjukhus - folkbladet.nu
+- Gul varning för kraftigt snöfall i Värmland - NWT
+- Ehnbom: ”Alla köpte Epsteins förklaring” - Svenska Dagbladet
 - SSAB stoppar arbete efter nya sjukdomsfall - Västerbottens-Kuriren
 - Ny fartygsbordning – misstänkt rysk skuggflotta - Corren
+- Polisen rustar inför motormässan i Jönköping - Dagens Nyheter
 - Spricka inom V – topp i Malmö avstår partikongress - Omni
-- Ministerns uppmaning till SD-toppen efter hbtq-kritiken: ”anmäl diskriminering” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Medlare: Iran ratar samtal i Pakistan - Dagens Nyheter
-- I Franska Guyana finns oljan som landet inte vågar röra - Dagens Nyheter
+- Här finns oljan som Frankrike inte vågar röra - Dagens Nyheter
 - Moskva varnar för risker efter att missiler träffat kärnanläggningens område - Dagens.se
+- Uppgift: Amerikansk pilot jagas i Iran - GP
 - Lavin har gått i Sorsele – ingen skadad hittad - Omni
 - Första klass är tillbaka – och nu är det mer lägenhet än flygstol - Dagens PS
 - Piteåborna om momssänkningen på mat: "Valfläsk" - pt.se
 - Påsken är här – och kärringarna har störtat in - Västerbottens-Kuriren
-- Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - nwt.se
+- Hundratusentals hushåll riskerar bli utan elstöd • Arg tjäder gick till attack • Ännu en politiker byter parti - NWT
 - Första bilderna från Artemis 2: ”Inget kan förbereda dig” - Omni
 - ”De har ju fan ingen humor” - Östersunds-Posten
 
@@ -45,8 +45,8 @@ _Updated: 2026-04-04 01:01_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Egen dynga är guld värd när global gödselbrist hotar - Yle
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -73,21 +73,21 @@ _Updated: 2026-04-04 01:01_
 
 ## Business
 
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -99,30 +99,30 @@ _Updated: 2026-04-04 01:01_
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
@@ -131,14 +131,14 @@ _Updated: 2026-04-04 01:01_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Förtroendet för vetenskapen i gungning - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
