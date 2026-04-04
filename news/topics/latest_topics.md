@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 16:06_
+_Updated: 2026-04-04 16:59_
 
 ## Top Stories
 
-- Flera varningar – nu drar stormen Dave in - Aftonbladet
+- Stormen Dave drar in – vägar kan stängas av - Aftonbladet
+- Saknad pilot vägskäl för Trump - svt.se
 - Irans hotar nytt sund – kan slå mot svenska konsumenter - Dagens Nyheter
-- Saknad pilot vägskäl för Trump - SVT Nyheter
-- Husrannsakan mot kvarhållet fartyg - Västerbottens-Kuriren
-- Flera döda i rysk attack mot marknad - Västerbottens-Kuriren
-- Medlare signalerar hopp om förhandlingar - GP
-- DN Direkt – Larm om smällar vid hotell i Stockholm: ”Pyroteknik” - Dagens Nyheter
+- Ny misstanke mot bordat fartyg - svt.se
+- Direkt – Krisen i Mellanöstern – Uppgift: Iran avvisade förslag om 48 timmars vapenvila - Dagens Nyheter
+- Polisinsats vid Hotel Diplomat - TV4 Nyheterna
+- 04 april 12.35, Trafikolycka, personskada, Söderhamn - Polisen.se
 - Hon har besökt alla Sveriges nationalparker – här är favoriten - Dagens Nyheter
-- Fylla, böter och misshandel – stökig natt i Jönköping - SVT Nyheter
-- 04 april 12.35, Trafikolycka, personskada, Söderhamn - polisen.se
-- Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
-- Frontalkrock på E4 – stopp i trafiken - Expressen
+- Fylla, böter och misshandel – stökig natt i Jönköping - svt.se
+- 04 april 14.55, Trafikkontroll, Västerbottens län - Polisen.se
 - Direkt – Krisen i Mellanöstern – Explosion nära kärnkraftsverk i Iran - Dagens Nyheter
-- Påvens pik till Hegseth: Jesus budskap förvrängs - GP
+- Flera döda i rysk attack mot marknad - Hufvudstadsbladet
+- Maffiaboss gripen för mord i Italien - GP
+- Rekordmånga svenska lastbilar skänks till Ukraina - Dagens Nyheter
 - Linus Larsson: Därför kräver fler sajter betalt för att inte spåra dig - Dagens Nyheter
 - LO: Kommer inte kräva löneökningar om priserna stiger - Omni
-- Ljusare på jobbmarknaden – färre sägs upp - Västerbottens-Kuriren
-- SSAB stoppar allt arbete – nya sjukdomsfall - Sveriges Radio
-- Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
+- Ljusare på jobbmarknaden – färre sägs upp - Aftonbladet
+- SSAB:s svar efter sjukdomsfallen - Sveriges Radio
+- DN Direkt – Artemis II närmare månen än jorden - Dagens Nyheter
 - "The Last of Us" i rymden? 5 spel som släpps i april - MovieZine
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på i onsdags 02:35 - Tv.nu
-- Global oljedynamik tvingar bensinstationer att justera priserna på lokala pumpar - Mix Vale
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Finland extends partnership with five-year TV rights agreement for WOC, EOC and the Orienteering World Cup - International Orienteering Federation
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
 
 ## Technology
 
@@ -97,7 +97,7 @@ _Updated: 2026-04-04 16:06_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -108,7 +108,7 @@ _Updated: 2026-04-04 16:06_
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
@@ -119,30 +119,30 @@ _Updated: 2026-04-04 16:06_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Kina drar om USA – bäst på forskning - svt.se
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Effekten av Conservation Agriculture - lansstyrelsen.se
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
@@ -161,4 +161,4 @@ _Updated: 2026-04-04 16:06_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Får och solparker - en vinst för både lantbruk, får och klimat - solenerginyheter.se
