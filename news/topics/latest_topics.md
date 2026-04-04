@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 10:02_
+_Updated: 2026-04-04 11:07_
 
 ## Top Stories
 
-- Jakten på piloten i Iran forsätter: ”Extremt farligt” - Dagens Nyheter
-- Väcktes av okända personer i stugan - Västerbottens-Kuriren
-- DN Direkt – Juvelerare i Belarus dömd – smycke klassas extremistiskt - Dagens Nyheter
+- Iransk jakt på nedskjuten amerikansk pilot - GP
+- JUST NU Orange varning när stormen Dave närmar sig – här slår den allra hårdast i Värmland - nwt.se
 - Iranier öppnar eld mot amerikanska helikoptrar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Göteborgs pris för sopor och vatten sticker ut – dyrast bland storstäderna - GP
-- Spårvagn och taxi i krock – tre till sjukhus - Omni
-- Många böter och misshandel efter stökig natt i Jönköping - SVT Nyheter
+- Väcktes av okända personer i stugan - Västerbottens-Kuriren
+- Regeringen avfärdade klimatkritik – forskare varnar för ny trend - Dagens Nyheter
+- DN Direkt – Juvelerare i Belarus dömd – smycke klassas extremistiskt - Dagens Nyheter
+- Spårvagn och personbil i krock – tre personer till sjukhus - GP
 - Helldén: Socialdemokraterna går att förflytta - Västerbottens-Kuriren
-- DN Direkt – Nytt sjukdomsfall vid SSAB – arbete stoppas igen - Dagens Nyheter
-- Rekordvarm mars drabbar samiska renskötare: ”Vår nya verklighet” - SVT Nyheter
+- Fylla, böter och misshandel – stökig natt i Jönköping - SVT Nyheter
+- Från soprum till gård – så fick tuppen Torsten ett nytt hem - Dagens Nyheter
 - Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Fyra dödade i ryskt anfall med klusterbomber - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Pentagon: 365 amerikanska soldater skadade i Iran - Dagens Nyheter
-- Källor: Iran har fortsatt stor attackkapacitet - GP
+- Kharg: USA har siktet på Irans akilleshäl - Dagens Nyheter
+- Experter varnar Trump: anfallen i Iran misstänkta krigsbrott - Dagens Nyheter
 - LO: Kommer inte kräva löneökningar om priserna stiger - Omni
-- De fick pengar de inte hade rätt till – så avslöjas pensionsfusket - Dagens PS
 - Elskatten nära noll i flera länder – men Sverige sticker ut - DI
-- Efter momssänkningen – så mycket billigare blir maten - helagotland.se
+- Månadens pensionskaos – från LO:s miljardkrav till AP-fondernas förluster - Dagens PS
+- SSAB stoppar allt arbete igen – nytt sjukdomsfall - Sveriges Radio
 - Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
-- B&O:s mest extrema högtalare blir ännu mer extrem (och dyrare) - Ljud & Bild
+- B&O:s mest extrema högtalare blir ännu mer extrem (och dyrare) - ljudochbild.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global oljedynamik tvingar bensinstationer att justera priserna på lokala pumpar - Mix Vale
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - news.sky.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -42,10 +42,10 @@ _Updated: 2026-04-04 10:02_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -56,7 +56,7 @@ _Updated: 2026-04-04 10:02_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Leveraging AI in Swedish Development Cooperation - fuf.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
@@ -65,11 +65,11 @@ _Updated: 2026-04-04 10:02_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,15 +98,15 @@ _Updated: 2026-04-04 10:02_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Vi presenterar HealthBench - openai.com
+- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
+- Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -123,42 +123,42 @@ _Updated: 2026-04-04 10:02_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- AI och data science - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - ki.se
-- Cancerfonden delar ut 10,6 miljoner till forskare på CLINTEC - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
