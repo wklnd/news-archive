@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 16:19_
+_Updated: 2026-04-04 17:03_
 
-- Trump briefed on downed F-15E fighter jet in Iran, search and rescue efforts underway - Fox News
-- "We're fighting wars": Trump bets his presidency on the Pentagon - Axios
-- ‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN
-- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
+- Iran war enters its 6th week as military searches for downed jet crew member - NPR
+- White House budget proposal silent on civilian federal pay raise - Federal News Network
+- Trump weighs broader cabinet shake-up as Iran war pressure grows - Reuters
+- Artemis II passes halfway point to Moon, sends Earth photos - DW.com
+- Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
 - Chinese firms market Iran war intelligence ‘exposing’ U.S. forces - The Washington Post
-- US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
-- Trump requests $152m funding to restore Alcatraz as prison - The Guardian
+- Did President Trump have a hand in writing the latest White House East Wing court filing? - CBS News
+- Man arrested at retirement home for wife's murder decades earlier - CBS News
+- At least 3 injured after Metrobus crashes into DC restaurant - WTOP
 - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ - The New York Times
-- Trump’s Immigration Policy Sidelines Foreign Doctors Amid Shortage - The New York Times
-- Trump's ballroom fight sheds new light on an underground White House bunker - NPR
-- Explosion hits Christian pro-Israel center in the Netherlands - The Times of Israel
 - Five killed by Russian strike on market in frontline Ukrainian city - Reuters
-- Exclusive | Iranian Strike on U.S. Embassy Caused More Damage Than Disclosed - WSJ
-- Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News
-- United is rolling out 'basic business class' to make premium flying cheaper. Here's how it will work. - Business Insider
+- Police investigating explosion at Israel Center in the Netherlands - report - The Jerusalem Post
+- Ukraine's Zelenskiy in Istanbul for security talks with Erdogan - Reuters
+- Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances - The New York Times
 - When legal sports betting surges, so do Americans' financial problems - NPR
+- United Airlines splits business class into tiers on long-haul flights - Axios
 - Mortgage rate experts drop blunt message for 2026 - thestreet.com
 - Micron Stock Could Be The Next Intel (NASDAQ:MU) - Seeking Alpha
-- Android Auto’s next feature wants to turn your car into an office - Android Police
 - Inside 50 years of Apple with the only original employee still there - AppleInsider
+- New Rowhammer attacks targets modern GPUs, RTX 3060 and RTX A6000 confirmed vulnerable - VideoCardz.com
