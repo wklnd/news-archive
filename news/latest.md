@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 17:03_
+_Updated: 2026-04-04 18:00_
 
 - Iran war enters its 6th week as military searches for downed jet crew member - NPR
-- White House budget proposal silent on civilian federal pay raise - Federal News Network
+- ‘Paradigm shift:’ How Trump’s budget request will keep everyone guessing - Politico
 - Trump weighs broader cabinet shake-up as Iran war pressure grows - Reuters
 - Artemis II passes halfway point to Moon, sends Earth photos - DW.com
-- Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
-- Chinese firms market Iran war intelligence ‘exposing’ U.S. forces - The Washington Post
+- Springs Fire: Brush fire breaks out in Moreno Valley amid Santa Ana winds - ABC7 Los Angeles
+- Trump orders DHS to pay all employees despite shutdown - CBS News
 - Did President Trump have a hand in writing the latest White House East Wing court filing? - CBS News
+- 3 women hurt after crash sends Metro bus plowing into restaurant in Northwest DC - WJLA
 - Man arrested at retirement home for wife's murder decades earlier - CBS News
-- At least 3 injured after Metrobus crashes into DC restaurant - WTOP
 - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ - The New York Times
+- Dutch police probe explosion outside a pro-Israel Christian center - CBS News
 - Five killed by Russian strike on market in frontline Ukrainian city - Reuters
-- Police investigating explosion at Israel Center in the Netherlands - report - The Jerusalem Post
 - Ukraine's Zelenskiy in Istanbul for security talks with Erdogan - Reuters
-- Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances - The New York Times
+- Exclusive | Iranian Strike on U.S. Embassy Caused More Damage Than Disclosed - WSJ
 - When legal sports betting surges, so do Americans' financial problems - NPR
-- United Airlines splits business class into tiers on long-haul flights - Axios
 - Mortgage rate experts drop blunt message for 2026 - thestreet.com
-- Micron Stock Could Be The Next Intel (NASDAQ:MU) - Seeking Alpha
-- Inside 50 years of Apple with the only original employee still there - AppleInsider
+- United Airlines adds new fees to cheapest business-class fares - The Points Guy
+- US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com
+- Android Auto’s next feature wants to turn your car into an office - Android Police
 - New Rowhammer attacks targets modern GPUs, RTX 3060 and RTX A6000 confirmed vulnerable - VideoCardz.com
