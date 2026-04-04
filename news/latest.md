@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 01:04_
+_Updated: 2026-04-04 02:02_
 
-- Live Updates: U.S. fighter jet shot down by Iran, 1 crew member rescued by American forces - cbsnews.com
-- Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts - NPR
-- 2 U.S. planes are down and Iran hits Gulf refineries as the war wraps its 5th week - NPR
+- US fighter jet shot down over Iran, search under way for crew member, US officials say - Reuters
+- Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs - AP News
 - Brush fire breaks out in Moreno Valley amid Santa Ana winds - ABC7 Los Angeles
-- What to Know About the ‘Massive’ Military Bunker Beneath Trump’s Ballroom - The New York Times
-- US intelligence said to assess around half of Iran’s missile launchers still intact - The Times of Israel
-- Trump Seeks $152 Million to Begin to Turn Alcatraz Back Into a Prison - The New York Times
+- Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - whitehouse.gov
+- Russian strikes on Ukraine kill 8 as Kyiv holds door open for Easter truce - AP News
+- What to know about Todd Blanche, Trump's pick for acting attorney general - PBS
 - US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
-- Pam Bondi failed to prosecute Trump's foes. Todd Blanche probably will, too. - NBC News
+- Trump asks for $152 million to rebuild Alcatraz and reopen it as a prison - San Francisco Chronicle
 - Hegseth's wartime firing of top generals stuns officials: "It's insane" - Axios
+- 23 states sue Trump over new executive order targeting mail voting - CBS News
 - Pope Leo XIV carries cross for full Good Friday procession, the first pontiff to do so in decades - Politico
-- Iran Strikes More Gulf Targets as Trump Warns of Further Attacks - Bloomberg.com
+- Seville, Spain's Holy Week blends faith, tradition and spectacle - NPR
 - French-owned CMA CGM container ship passes Strait of Hormuz, data shows - Reuters
 - Trump wants the world to buy more US oil. He might regret it. - Politico
 - US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com
 - Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions - Ars Technica
-- 2 airlines raise baggage fees: What to know - ABC News
-- The cost to fly private is up as much as 20% with fuel prices soaring - CNBC
+- United Airlines raises bag fees amid rising fuel costs and introduces tiered premium fares - AP News
+- Scientists question why anyone would put data centers in space—a big bet for tech leaders like Elon Musk - Business Insider
 - Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac
-- Your Galaxy's Weather app just got a facelift: Here is what's new - Android Authority
+- Google launches Gemma 4, a new open-source model: How to try it - mashable.com
