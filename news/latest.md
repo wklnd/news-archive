@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 05:24_
+_Updated: 2026-04-04 07:11_
 
 - Iran and US race to find missing American crew member downed in fighter jet - reports - BBC
-- ‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN
-- White House Seeks 40 Percent Increase in Military Spending - The New York Times
+- Trump Contemplates Other Cabinet Changes as He Faces Political Clock - The New York Times
+- White House budget proposal silent on civilian federal pay raise - Federal News Network
 - Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
-- Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - The White House (.gov)
-- Trump admin’s challenge of Watergate-era records law alarms historians - Politico
-- Trump asks for $152 million to rebuild Alcatraz and reopen it as a prison - San Francisco Chronicle
-- Judge rejects DOJ's bid to reinstate Powell subpoenas - Axios
+- Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - whitehouse.gov
+- NASA's Artemis II crew are quite the photographers. See what they've snapped so far - NPR
+- Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign - The New York Times
+- Trump asks Congress for $152 million to start rebuilding Alcatraz prison - Los Angeles Times
+- US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
 - US military archbishop says Iran conflict does not meet ‘just war’ standard - The Guardian
-- No One at Waffle House Remembers FEMA Official Who Says He Teleported In - The New York Times
-- Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News
+- Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - cbsnews.com
 - Trump: ‘With a little more time’ the US ‘can easily’ reopen Strait of Hormuz - The Times of Israel
 - Seville, Spain's Holy Week blends faith, tradition and spectacle - NPR
 - Russian oil terminals under attack unable to accept shipments for second week, sources say - Reuters
+- US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com
 - US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis - Gizmodo
 - Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions - Ars Technica
 - Your Easter candy is still expensive — even with cheaper cocoa - Axios
-- Lawyers search for Epstein survivors for Bank of America $72.5m settlement - Al Jazeera
-- Google launches Gemma 4, a new open-source model: How to try it - Mashable
-- ‘PlayStation 6 Is Not Many Years Away’: Leaks Suggest Sony Is Working On Imminent Generational Transition With Handheld Support and ‘PlayGo’ Smart Delivery - Wccftech
+- Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra - The Verge
+- Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI - venturebeat.com
