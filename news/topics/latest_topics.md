@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 05:21_
+_Updated: 2026-04-04 07:08_
 
 ## Top Stories
 
-- Amerikanskt flygplan nedskjutet i Iran – pilot saknas - GP
-- Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
-- Ryssland tog ingen mark alls i Ukraina i mars - Hufvudstadsbladet
-- USA-experten: ”Vinden blåser mot Donald Trump” - GP
-- Spårvagn och taxi i krock – tre till sjukhus - Sydsvenskan
+- Amerikanskt flygplan nedskjutet i Iran – pilot saknas - gp.se
+- Dödstalet stiger efter dagens attacker i Ukraina - Västerbottens-Kuriren
+- DN Direkt – Karl Dalén: Bondi var lojal som en hund – ändå fick hon sparken - Dagens Nyheter
+- Spårvagn och taxi i krock – tre till sjukhus - Svenska Dagbladet
 - Iran säger nej till samtal med USA i Pakistan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SSAB stoppar arbete efter nya sjukdomsfall - Västerbottens-Kuriren
-- DN Direkt – Flera fall av misshandel vid bilträff i Jönköping - dn.se
-- Ny fartygsbordning – misstänkt rysk skuggflotta - Corren
-- Spricka inom V – topp i Malmö avstår partikongress - Omni
-- Uppgift: Amerikansk pilot jagas i Iran - GP
-- FN-soldater skadade i explosion i Libanon - GP
-- Just nu: Larm om lavin utanför Ammarnäs - Västerbottens-Kuriren
-- Piteåborna om momssänkningen på mat: "Valfläsk" - pt.se
+- Stökigt vid bilträff – flera fall av misshandel - Expressen
+- SSAB stoppar arbete efter nya sjukdomsfall - corren.se
+- Rekordvarm mars drabbar samiska renskötare: ”Vår nya verklighet” - SVT Nyheter
+- P-platser kan bli schackspel på Stortorget i Skara - Sveriges Radio
+- Tidöpartier kritiserar Kristersson: ”Dumt” - Västerbottens-Kuriren
+- Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
+- Kharg: USA har siktet på Irans akilleshäl - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Medlare: Iran ratar samtal i Pakistan - Dagens Nyheter
+- Varning för högre hyror när andrahandsregler ändras - Omni
+- Fastator meddelar att Anders Mossberg, styrelseordförande och större aktieägare, har avlidit (MFN) - Aktiellt
+- Efter momssänkningen – så mycket billigare blir maten - helagotland.se
+- USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
 - Hundratusentals hyresgäster utesluts från elstödet – stor frustration - Börskollen
-- Patrik sökte hundratals jobb – fick flytta 130 mil - Expressen
-- Så har Iran tagit råvaruhandeln som gisslan genom Hormuzsundet - TRANSPORTochLOGISTIK.se
-- Första bilderna från Artemis 2: ”Inget kan förbereda dig” - Omni
-- Blekingeduons uppdrag – skapa Pernilla Wahlgrens trädgård: ”En annan värld” - blt.se
-- ”De har ju fan ingen humor” - Östersunds-Posten
+- Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
+- Se nya metoden – så ska tusentals sälar vägas - SVT Nyheter
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global oljedynamik tvingar bensinstationer att justera priserna på lokala pumpar - Mix Vale
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - dn.se
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
+- Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
+- Seminar series: Global Lectures - ui.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - aftonbladet.se
 - Egen dynga är guld värd när global gödselbrist hotar - Yle
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-04-04 05:21_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -104,7 +104,7 @@ _Updated: 2026-04-04 05:21_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -123,6 +123,7 @@ _Updated: 2026-04-04 05:21_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
@@ -132,7 +133,6 @@ _Updated: 2026-04-04 05:21_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -150,7 +150,7 @@ _Updated: 2026-04-04 05:21_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
