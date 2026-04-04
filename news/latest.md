@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 15:39_
+_Updated: 2026-04-04 16:19_
 
-- Search for missing U.S. F-15 crew member underway in Iran - The Washington Post
+- Trump briefed on downed F-15E fighter jet in Iran, search and rescue efforts underway - Fox News
+- "We're fighting wars": Trump bets his presidency on the Pentagon - Axios
 - ‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN
-- White House budget proposal silent on civilian federal pay raise - Federal News Network
-- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - latimes.com
-- Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
-- NC joins lawsuit over Trump’s mail-in ballot order, calling it an unconstitutional power grab - WRAL
+- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
+- Chinese firms market Iran war intelligence ‘exposing’ U.S. forces - The Washington Post
+- US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
+- Trump requests $152m funding to restore Alcatraz as prison - The Guardian
 - Houston Cheers on Artemis II Moon Mission, Reclaiming Its Place as ‘Space City’ - The New York Times
-- Trump asks Congress for $152 million to start rebuilding Alcatraz prison - latimes.com
 - Trump’s Immigration Policy Sidelines Foreign Doctors Amid Shortage - The New York Times
-- Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign - The New York Times
+- Trump's ballroom fight sheds new light on an underground White House bunker - NPR
 - Explosion hits Christian pro-Israel center in the Netherlands - The Times of Israel
+- Five killed by Russian strike on market in frontline Ukrainian city - Reuters
 - Exclusive | Iranian Strike on U.S. Embassy Caused More Damage Than Disclosed - WSJ
-- Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen. - The New York Times
-- Iran executes two linked to opposition group, media say - Reuters
-- United Airlines splits business class into tiers on long-haul flights - Axios
+- Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News
+- United is rolling out 'basic business class' to make premium flying cheaper. Here's how it will work. - Business Insider
 - When legal sports betting surges, so do Americans' financial problems - NPR
-- Micron Could Be The Next Intel - Seeking Alpha
-- Seattle-area housing market has a déjà vu moment - The Seattle Times
+- Mortgage rate experts drop blunt message for 2026 - thestreet.com
+- Micron Stock Could Be The Next Intel (NASDAQ:MU) - Seeking Alpha
 - Android Auto’s next feature wants to turn your car into an office - Android Police
-- New Rowhammer attacks targets modern GPUs, RTX 3060 and RTX A6000 confirmed vulnerable - VideoCardz.com
+- Inside 50 years of Apple with the only original employee still there - AppleInsider
