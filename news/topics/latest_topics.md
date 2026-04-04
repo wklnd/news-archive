@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 11:07_
+_Updated: 2026-04-04 12:01_
 
 ## Top Stories
 
-- Iransk jakt på nedskjuten amerikansk pilot - GP
-- JUST NU Orange varning när stormen Dave närmar sig – här slår den allra hårdast i Värmland - nwt.se
-- Iranier öppnar eld mot amerikanska helikoptrar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Väcktes av okända personer i stugan - Västerbottens-Kuriren
-- Regeringen avfärdade klimatkritik – forskare varnar för ny trend - Dagens Nyheter
+- JUST NU Orange varning när stormen Dave närmar sig – här slår den hårdast mot Värmland - NWT
+- Jakten på piloten i Iran fortsätter: ”Extremt farligt” - Dagens Nyheter
 - DN Direkt – Juvelerare i Belarus dömd – smycke klassas extremistiskt - Dagens Nyheter
-- Spårvagn och personbil i krock – tre personer till sjukhus - GP
-- Helldén: Socialdemokraterna går att förflytta - Västerbottens-Kuriren
+- Regeringen avfärdade klimatkritik – forskare varnar för ny trend - Dagens Nyheter
+- Iranier öppnar eld mot amerikanska helikoptrar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rekordmånga svenska lastbilar skänks till Ukraina - Dagens Nyheter
+- Helldén: Socialdemokraterna går att förflytta - GP
 - Fylla, böter och misshandel – stökig natt i Jönköping - SVT Nyheter
 - Från soprum till gård – så fick tuppen Torsten ett nytt hem - Dagens Nyheter
+- Spårvagn och taxi i krock – tre till sjukhus - Västerbottens-Kuriren
+- Påvens pik till Hegseth: Jesus budskap förvrängs - Västerbottens-Kuriren
 - Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Fyra dödade i ryskt anfall med klusterbomber - Dagens Nyheter
 - Kharg: USA har siktet på Irans akilleshäl - Dagens Nyheter
-- Experter varnar Trump: anfallen i Iran misstänkta krigsbrott - Dagens Nyheter
+- DN Direkt – Maffiaboss gripen för mord i Italien - Dagens Nyheter
 - LO: Kommer inte kräva löneökningar om priserna stiger - Omni
 - Elskatten nära noll i flera länder – men Sverige sticker ut - DI
 - Månadens pensionskaos – från LO:s miljardkrav till AP-fondernas förluster - Dagens PS
-- SSAB stoppar allt arbete igen – nytt sjukdomsfall - Sveriges Radio
+- SSAB stoppar allt arbete – nya sjukdomsfall - Sveriges Radio
 - Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
-- B&O:s mest extrema högtalare blir ännu mer extrem (och dyrare) - ljudochbild.se
+- Jag är förkrossad över att Apple tagit bort min favoritfunktion i iPhone, men den kan komma tillbaka i år - TechRadar
 
 ## World News
 
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global oljedynamik tvingar bensinstationer att justera priserna på lokala pumpar - Mix Vale
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
 - Leveraging AI in Swedish Development Cooperation - fuf.se
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - computersweden.se
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,45 +98,45 @@ _Updated: 2026-04-04 11:07_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
-- Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
@@ -144,15 +144,15 @@ _Updated: 2026-04-04 11:07_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- CAP: Miljarderna som påverkar EU:s jordbruk - naturskyddsforeningen.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Här är världens största jordbruk - ATL
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
