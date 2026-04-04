@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 00:57_
+_Updated: 2026-04-05 01:55_
 
 ## Top Stories
 
+- DN Direkt – Fylleri vid bilträff – 40-tal omhändertagna - Dagens Nyheter
 - Stormen Dave drar in – SMHI varnar för stormbyar i Göteborg - gp.se
-- TV: Flera omhändertagna på A6-området - Jönköpings-Posten
-- Efter Trumps "rensning" – de kan hänga löst - Expressen
-- En av piloterna har räddats av USA – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
-- Kritik: Hela EU ”öppet för illegala migranter” - svd.se
+- Kritik: Hela EU ”öppet för illegala migranter” - Svenska Dagbladet
+- En av piloterna har räddats av USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukraina slagträ inför valet i Ungern: ”Det är vidrigt” - Dagens Nyheter
-- Misstänkta fartyget Flora 1 får lämna svenskt vatten - svt.se
+- Trump övervägar förändringar – ministrarna som hänger löst - Dagens Nyheter
+- Misstänkta fartyget Flora 1 får lämna svenskt vatten - SVT Nyheter
+- Rebellmammorna: Vi kommer synas och höras mer än någonsin - Aftonbladet
 - Farligt lavinläge kring Tärnaby och Hemavan - Västerbottens-Kuriren
-- Nej till extern Epstein‑utredning – förslaget nedröstat - Sveriges Radio
 - Varmaste mars någonsin – särskilt i norra Sverige - Norran
-- Över 1 400 dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Orbáns panik: Får hjälp av Vance – och Putin - Expressen
 - Flera döda i rysk attack mot marknad - Hufvudstadsbladet
-- Direkt – Kriget i Ukraina – Erdogan och Zelenskyj i samtal - Dagens Nyheter
+- Trotsar Trump – med dolda missilstäderna - Expressen
 - Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
-- Tantpatrullen har rätt: Dags för ett nytt pensionssystem - Fempers Nyheter
 - Ljusare på jobbmarknaden – färre sägs upp - Sydsvenskan
+- Tantpatrullen har rätt: Dags för ett nytt pensionssystem - Fempers Nyheter
 - Handelskammaren: Vi får allt mindre för pengarna - Omni
 - SSAB stoppar allt arbete – nya sjukdomsfall - Sveriges Radio
 - Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
@@ -28,31 +28,31 @@ _Updated: 2026-04-05 00:57_
 ## World News
 
 - Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på i onsdags 02:35 - TV.nu
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - New Secretary General appointed - Olof Palme International Center
-- UNDP lanserar läromedel om global utveckling - United Nations Development Programme
+- UNDP lanserar läromedel om global utveckling - undp.org
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -81,8 +81,8 @@ _Updated: 2026-04-05 00:57_
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -97,7 +97,7 @@ _Updated: 2026-04-05 00:57_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -119,26 +119,26 @@ _Updated: 2026-04-05 00:57_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - svt.se
+- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI och data science - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - lakartidningen.se
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,7 +151,7 @@ _Updated: 2026-04-05 00:57_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
