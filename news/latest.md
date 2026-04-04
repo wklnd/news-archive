@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 02:02_
+_Updated: 2026-04-04 05:24_
 
-- US fighter jet shot down over Iran, search under way for crew member, US officials say - Reuters
-- Trump budget seeks $1.5T in defense spending alongside cuts in domestic programs - AP News
-- Brush fire breaks out in Moreno Valley amid Santa Ana winds - ABC7 Los Angeles
-- Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - whitehouse.gov
-- Russian strikes on Ukraine kill 8 as Kyiv holds door open for Easter truce - AP News
-- What to know about Todd Blanche, Trump's pick for acting attorney general - PBS
-- US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
+- Iran and US race to find missing American crew member downed in fighter jet - reports - BBC
+- ‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN
+- White House Seeks 40 Percent Increase in Military Spending - The New York Times
+- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
+- Liberating the Department of Homeland Security From the Democrat-Caused Shutdown - The White House (.gov)
+- Trump admin’s challenge of Watergate-era records law alarms historians - Politico
 - Trump asks for $152 million to rebuild Alcatraz and reopen it as a prison - San Francisco Chronicle
-- Hegseth's wartime firing of top generals stuns officials: "It's insane" - Axios
-- 23 states sue Trump over new executive order targeting mail voting - CBS News
-- Pope Leo XIV carries cross for full Good Friday procession, the first pontiff to do so in decades - Politico
+- Judge rejects DOJ's bid to reinstate Powell subpoenas - Axios
+- US military archbishop says Iran conflict does not meet ‘just war’ standard - The Guardian
+- No One at Waffle House Remembers FEMA Official Who Says He Teleported In - The New York Times
+- Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News
+- Trump: ‘With a little more time’ the US ‘can easily’ reopen Strait of Hormuz - The Times of Israel
 - Seville, Spain's Holy Week blends faith, tradition and spectacle - NPR
-- French-owned CMA CGM container ship passes Strait of Hormuz, data shows - Reuters
-- Trump wants the world to buy more US oil. He might regret it. - Politico
-- US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com
+- Russian oil terminals under attack unable to accept shipments for second week, sources say - Reuters
+- US Airlines Are Hiking Bag Fees Amid Iran War Oil Crisis - Gizmodo
 - Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions - Ars Technica
-- United Airlines raises bag fees amid rising fuel costs and introduces tiered premium fares - AP News
-- Scientists question why anyone would put data centers in space—a big bet for tech leaders like Elon Musk - Business Insider
-- Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac
-- Google launches Gemma 4, a new open-source model: How to try it - mashable.com
+- Your Easter candy is still expensive — even with cheaper cocoa - Axios
+- Lawyers search for Epstein survivors for Bank of America $72.5m settlement - Al Jazeera
+- Google launches Gemma 4, a new open-source model: How to try it - Mashable
+- ‘PlayStation 6 Is Not Many Years Away’: Leaks Suggest Sony Is Working On Imminent Generational Transition With Handheld Support and ‘PlayGo’ Smart Delivery - Wccftech
