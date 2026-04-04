@@ -1,56 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 23:54_
+_Updated: 2026-04-05 00:57_
 
 ## Top Stories
 
-- Trafikverket i beredskapsläge för stormen Dave: ”Bara början” - SVT Nyheter
-- Flera döda i rysk attack mot marknad - Folkbladet
-- Trumpvarning om helvetet – jakt på pilot pågår - GP
-- Kritik: Hela EU ”öppet för illegala migranter” - Svenska Dagbladet
+- Stormen Dave drar in – SMHI varnar för stormbyar i Göteborg - gp.se
+- TV: Flera omhändertagna på A6-området - Jönköpings-Posten
 - Efter Trumps "rensning" – de kan hänga löst - Expressen
+- En av piloterna har räddats av USA – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Kritik: Hela EU ”öppet för illegala migranter” - svd.se
 - Ukraina slagträ inför valet i Ungern: ”Det är vidrigt” - Dagens Nyheter
-- Fylla, böter och misshandel – stökig natt i Jönköping - SVT Nyheter
-- Nej till extern Epstein‑utredning – förslaget nedröstat - Sveriges Radio
-- Misstänkta fartyget Flora 1 får lämna svenskt vatten - SVT Nyheter
+- Misstänkta fartyget Flora 1 får lämna svenskt vatten - svt.se
 - Farligt lavinläge kring Tärnaby och Hemavan - Västerbottens-Kuriren
-- Över 1 400 dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Orbáns panik: Får hjälp av Vance – och Putin - Expressen
-- Irans nya hot kan bli dråpslag för världshandeln - Västerbottens-Kuriren
-- Zelenskyj inleder säkerhetssamtal med Turkiet - GP
+- Nej till extern Epstein‑utredning – förslaget nedröstat - Sveriges Radio
+- Varmaste mars någonsin – särskilt i norra Sverige - Norran
+- Över 1 400 dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
+- Flera döda i rysk attack mot marknad - Hufvudstadsbladet
+- Direkt – Kriget i Ukraina – Erdogan och Zelenskyj i samtal - Dagens Nyheter
+- Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
 - Tantpatrullen har rätt: Dags för ett nytt pensionssystem - Fempers Nyheter
 - Ljusare på jobbmarknaden – färre sägs upp - Sydsvenskan
-- SSAB:s svar efter sjukdomsfallen - Sveriges Radio
-- Socialtjänstministern pratade sänkt matmoms - Alekuriren
+- Handelskammaren: Vi får allt mindre för pengarna - Omni
+- SSAB stoppar allt arbete – nya sjukdomsfall - Sveriges Radio
+- Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
 - iFixit kikar inuti ett par AirPods Max 2. Perfekta för nostalgikern. - feber.se
-- Astronomer ska skicka rekordsnabb rymdsond till sällsynt gäst i solsystemet, men det är bråttom - Illustrerad Vetenskap
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på i onsdags 02:35 - TV.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Debatt: Nu måste vi lyfta kvinnors historier - globalbar.se
-- FN-chefen varnar för global konfliktspridning - Aftonbladet
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
+- Global turism slog nytt rekord under 2025 - travelnews.se
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Zlatan Ibrahimović Headlines Techarena 2026 - techarenan.news
-- Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -58,7 +58,7 @@ _Updated: 2026-04-04 23:54_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - fuf.se
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -81,8 +81,8 @@ _Updated: 2026-04-04 23:54_
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -98,29 +98,29 @@ _Updated: 2026-04-04 23:54_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - via.ritzau.dk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGM J4 logga 16_9.jpg - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Kina drar om USA – bäst på forskning - svt.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -130,15 +130,15 @@ _Updated: 2026-04-04 23:54_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI och data science - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Upp till försvar för forskningen - Läkartidningen
 
 ## Jordbruk
 
@@ -148,10 +148,10 @@ _Updated: 2026-04-04 23:54_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
-- Här är världens största jordbruk - atl.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
