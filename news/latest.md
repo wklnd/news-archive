@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-04 10:06_
+_Updated: 2026-04-04 11:22_
 
-- Trump briefed on downed F-15E fighter jet in Iran, search and rescue efforts underway - foxnews.com
+- Middle East crisis live: US and Iran race to recover missing pilot from downed jet; another ship passes through strait of Hormuz - The Guardian
 - ‘This is a recalibration’: Trump Cabinet worries no one is safe after Bondi and Noem firings - CNN
-- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - latimes.com
-- Trump Goes After Federal Programs He Calls ‘Woke’ in Budget Proposal - The New York Times
-- NASA releases stunning first photos of Earth from Artemis II moon mission - Al Jazeera
-- Judge rejects Department of Justice bid to reinstate Powell subpoenas - Axios
-- Trump asks Congress for $152 million to start rebuilding Alcatraz prison - latimes.com
+- Two fires break out in Southern California amid Santa Ana winds, triggering evacuations - Los Angeles Times
+- White House budget proposal silent on civilian federal pay raise - Federal News Network
+- NASA's Artemis II crew are quite the photographers. See what they've snapped so far - NPR
+- GOPers ignore election officials’ warnings, leaving Georgia little time for paper ballots switch - democracydocket.com
+- Trump asks Congress for $152 million to start rebuilding Alcatraz prison - Los Angeles Times
 - ICE Review Finds Dozens of Violations at Texas Migrant Detention Center - The New York Times
+- US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell - Al Jazeera
 - Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign - The New York Times
-- US military archbishop says Iran conflict does not meet ‘just war’ standard - The Guardian
 - Pope Leo carries cross for all 14 stations during Good Friday procession, first pontiff to do so in decades - CBS News
+- Israel strikes Beirut, US warns Iran may hit Lebanese universities - Reuters
 - Trump’s Mission Impossible for Allies: Reopening the Strait of Hormuz - WSJ
 - Seville, Spain's Holy Week blends faith, tradition and spectacle - NPR
-- Iran hangs 18-year-old over protests in latest wartime execution: activists - France 24
-- United Airlines raises bag fees amid rising fuel costs and introduces tiered premium fares - AP News
 - United Airlines to introduce tiered fare categories for premium cabins - Reuters
-- Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - Business Insider
-- Your Easter candy is still expensive — even with cheaper cocoa - Axios
-- 5 3D Printer Accessories You Can 3D Print - SlashGear
+- Anthropic Cuts Off OpenClaw Support for Claude Subscriptions - businessinsider.com
+- Banks working on the SpaceX IPO reportedly have to subscribe to Grok - Engadget
+- US Bonds Fall as Strong Jobs Data Undermines Fed Cut Outlook - Bloomberg.com
+- ‘PlayStation 6 Is Not Many Years Away’: Leaks Suggest Sony Is Working On Imminent Generational Transition With Handheld Support and ‘PlayGo’ Smart Delivery - Wccftech
 - Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac
