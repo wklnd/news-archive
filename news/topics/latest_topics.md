@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-04 08:35_
+_Updated: 2026-04-04 10:02_
 
 ## Top Stories
 
-- Amerikanskt flygplan nedskjutet i Iran – pilot saknas - GP
-- Många böter och misshandel efter stökig natt i Jönköping - SVT Nyheter
+- Jakten på piloten i Iran forsätter: ”Extremt farligt” - Dagens Nyheter
 - Väcktes av okända personer i stugan - Västerbottens-Kuriren
-- DN Direkt – Karl Dalén: Bondi var lojal som en hund – ändå fick hon sparken - Dagens Nyheter
-- Juvelerare dömd i Belarus – smycke klassas extremistiskt - Sveriges Radio
-- Spårvagn och taxi i krock i Göteborg – tre till sjukhus - Aftonbladet
+- DN Direkt – Juvelerare i Belarus dömd – smycke klassas extremistiskt - Dagens Nyheter
+- Iranier öppnar eld mot amerikanska helikoptrar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Göteborgs pris för sopor och vatten sticker ut – dyrast bland storstäderna - GP
+- Spårvagn och taxi i krock – tre till sjukhus - Omni
+- Många böter och misshandel efter stökig natt i Jönköping - SVT Nyheter
 - Helldén: Socialdemokraterna går att förflytta - Västerbottens-Kuriren
 - DN Direkt – Nytt sjukdomsfall vid SSAB – arbete stoppas igen - Dagens Nyheter
 - Rekordvarm mars drabbar samiska renskötare: ”Vår nya verklighet” - SVT Nyheter
-- Uppmaningen till skåningarna: Ta korta duschar - SVT Nyheter
-- Direkt – Kriget i Ukraina – Fyra dödade i ryskt anfall med klusterbomber - Dagens Nyheter
-- Iran antyder: Ytterligare ett sund kan stängas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Israel: Attackerar Hizbollah-mål - Västerbottens-Kuriren
-- Kharg: USA har siktet på Irans akilleshäl - Dagens Nyheter
-- LO: Inga höjda lönekrav om priserna skenar - Svenska Dagbladet
-- Anders Mossberg, styrelseordförande i Fastator, död i trafikolycka - Expressen
-- Efter momssänkningen – så mycket billigare blir maten - Helagotland
-- USA-börsen återhämtade sig efter Irans besked - Sydsvenskan
+- Direkt – Kriget i Ukraina – Fyra dödade i ryskt anfall med klusterbomber - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Pentagon: 365 amerikanska soldater skadade i Iran - Dagens Nyheter
+- Källor: Iran har fortsatt stor attackkapacitet - GP
+- LO: Kommer inte kräva löneökningar om priserna stiger - Omni
+- De fick pengar de inte hade rätt till – så avslöjas pensionsfusket - Dagens PS
+- Elskatten nära noll i flera länder – men Sverige sticker ut - DI
+- Efter momssänkningen – så mycket billigare blir maten - helagotland.se
 - Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
-- Se nya metoden – så ska tusentals sälar vägas - SVT Nyheter
+- B&O:s mest extrema högtalare blir ännu mer extrem (och dyrare) - Ljud & Bild
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global oljedynamik tvingar bensinstationer att justera priserna på lokala pumpar - Mix Vale
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - news.sky.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -42,7 +42,7 @@ _Updated: 2026-04-04 08:35_
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global sminkjätte fasar ut SCA – tredje bolaget på kort tid - Dagens Nyheter
-- Seminar series: Global Lectures - ui.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Resepriserna i Europa stiger trots global nedgång - travelnews.se
@@ -98,24 +98,24 @@ _Updated: 2026-04-04 08:35_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - openai.com
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - NyTeknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Vi presenterar HealthBench - openai.com
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -127,7 +127,7 @@ _Updated: 2026-04-04 08:35_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
@@ -137,19 +137,19 @@ _Updated: 2026-04-04 08:35_
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Perspektiv på vårdvetenskap - ki.se
 - Cancerfonden delar ut 10,6 miljoner till forskare på CLINTEC - Karolinska Institutet
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Här är världens största jordbruk - ATL
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -158,7 +158,7 @@ _Updated: 2026-04-04 08:35_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Data blir en tillgång för bönderna - Land Lantbruk och Skogsbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
