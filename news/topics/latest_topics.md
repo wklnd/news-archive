@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 21:10_
+_Updated: 2026-04-05 21:56_
 
 ## Top Stories
 
 - Ekots direktrapport om ovädret Dave - Sveriges Radio
-- Saknade amerikanska soldaten räddad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tre saknas efter robotattack mot Haifa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stulen bil voltade efter rån – jakt på gärningsman pågår - Omni
+- Direkt – Krisen i Mellanöstern – Trump: Tror på ett avtal på måndagen - Dagens Nyheter
+- Emely, 32, lyfte i stormen – slog sig illa - Aftonbladet
 - Fyraårige Elias jagas av gränspolisen: ”Nästa gång blir det hårdare tag” - Dagens Nyheter
-- Strömmer om domarbristen: ”Väldigt väldigt allvarligt” - Omni
-- Förenade Arabemiraten försvarar sig mot Irans attacker - Sveriges Radio
-- Uppgifter: Attack mot oljeraffinaderi i Ryssland - Västerbottens-Kuriren
+- Tegelstenar flyger i Borås - Expressen
 - Man död – krockade med skoter i Bruksvallarna - Sveriges Radio
 - Ljus framtid för vägkrogar: ”Elbilen driver återkomsten” - Dagens Nyheter
-- Hunden har varit människans bästa vän längre än man trott - Hufvudstadsbladet
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- Trump hotar Iran – så många gånger har han svängt - Dagens Nyheter
+- ”Ukrainska framgångar i mars” - Västerbottens-Kuriren
 - Träd föll under påskäggsjakt – minst tre döda - SVT Nyheter
 - Ryska soldater betalar befäl för att överleva - Dagens Nyheter
-- Rysk ekonom i exil: Så länge kan Putin fortsätta kriga - Hufvudstadsbladet
+- Zelenskyj i Syrien för nya samtal om säkerhet - GP
 - Försökte lugna kritiker – med aprilskämt - Svenska Dagbladet
 - H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
 - Ministern knackade dörr - Lokalpressen
 - Nasa satsar 200 miljarder – vill stanna på månen - Dagens PS
-- Artemis anar månens baksida: ”Helt sensationellt” - aftonbladet.se
-- Företagen som är nya i Sorsele - konsultföretag ett av dem - Västerbottens-Kuriren
+- Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
+- Trendiga löparskon tillbaka i ny skepnad - Svenska Dagbladet
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2026-04-05 21:10_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Debatt: Nu måste vi lyfta kvinnors historier - globalbar.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -97,21 +97,21 @@ _Updated: 2026-04-05 21:10_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
+- Vi presenterar ChatGPT Health - openai.com
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -120,25 +120,25 @@ _Updated: 2026-04-05 21:10_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - uu.se
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - AI och data science - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-05 21:10_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - commission.europa.eu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
