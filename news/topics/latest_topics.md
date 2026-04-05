@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 22:59_
+_Updated: 2026-04-05 23:55_
 
 ## Top Stories
 
-- Stormen Dave på ingång – här är det senaste - GP
+- Ekots direktrapport om ovädret Dave - sverigesradio.se
 - Tre saknas efter robotattack mot Haifa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Stulen bil voltade efter rån – jakt på gärningsman pågår - Omni
 - ”Ukrainska framgångar i mars” - Västerbottens-Kuriren
-- Emely, 32, lyfte i stormen – slog sig illa - Aftonbladet
+- Historieprofessor Kristian Gerner har avlidit - Västerbottens-Kuriren
 - Fyraårige Elias jagas av gränspolisen: ”Nästa gång blir det hårdare tag” - Dagens Nyheter
-- Historieprofessor Kristian Gerner har avlidit - Aftonbladet
 - Människans bästa vän äldre än tidigare trott - GP
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- Svenskarnas besked: Landet går åt fel håll - Sveriges Radio
+- Svenskarnas besked: Landet går åt fel håll - sverigesradio.se
+- Emely, 32, lyfte i stormen – slog sig illa - Aftonbladet
 - Trump hotar Iran – så många gånger har han svängt - Dagens Nyheter
+- Rekord för Irans nedsläckning av internet - GP
 - Träd föll under påskäggsjakt – minst tre döda - SVT Nyheter
 - Ryska soldater betalar befäl för att överleva - Dagens Nyheter
-- Zelenskyj i Syrien för nya samtal om säkerhet - GP
 - Opec-plus signalerar ökad oljeproduktion – men effekten väntas bli liten - borskollen.se
-- H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
-- Ministern knackade dörr - Lokalpressen
-- Nasa satsar 200 miljarder – vill stanna på månen - Dagens PS
+- Ministern knackade dörr - lokalpressen.se
+- Facket om sjukdomsfallen på SSAB: "Känns kaosartat" - Kuriren
+- Rysslands och USA:s oljekrig hotar friheten och förnyelsen i Europa - Dagens Nyheter
 - Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
 - Trendiga löparskon tillbaka i ny skepnad - Svenska Dagbladet
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
 - Debatt: Nu måste vi lyfta kvinnors historier - globalbar.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -59,17 +59,17 @@ _Updated: 2026-04-05 22:59_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - xpert.digital
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - xpert.digital
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - xpert.digital
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - xpert.digital
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - xpert.digital
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - xpert.digital
 
 ## Business
 
@@ -97,21 +97,21 @@ _Updated: 2026-04-05 22:59_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
-- Previa byter namn till Falck – samlar allt inom hälsa och arbetsliv under samma tak - Via Ritzau
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - openai.com
+- Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-04-05 22:59_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -134,8 +134,8 @@ _Updated: 2026-04-05 22:59_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
