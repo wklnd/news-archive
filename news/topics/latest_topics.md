@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 17:56_
+_Updated: 2026-04-05 19:02_
 
 ## Top Stories
 
-- Ekots direktrapport om ovädret Dave - Sveriges Radio
-- Trumps nya hot: Öppna sundet era jävlar - Dagens Nyheter
-- Saknade amerikanska soldaten räddad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stormen Dave på ingång – här är det senaste - GP
+- Trump: Goda chanser för avtal innan måndag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Kriget i Ukraina – Flera döda i ryska attacker senaste dygnet - Dagens Nyheter
 - M-toppen: ”Då gör man inte rätt för sig” - Svenska Dagbladet
-- DN Direkt – Uddevallabron och Älvsborgsbron stängs av - Dagens Nyheter
-- Uppgifter: Attack mot oljeraffinaderi i Ryssland - Västerbottens-Kuriren
+- Flera attacker i Mellanöstern under dygnet - GP
+- Ryska soldater betalar befäl för att överleva - Dagens Nyheter
 - Man död – krockade med skoter i Bruksvallarna - Sveriges Radio
 - Ljus framtid för vägkrogar: ”Elbilen driver återkomsten” - Dagens Nyheter
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- DN Direkt – Flera allvarliga trafikolyckor i Hälsingland - Dagens Nyheter
+- Frontalkrock på väg 583: ”Flera personer ska vara allvarligt skadade” - Söderhamns-Kuriren
+- Träd föll under påskäggsjakt – minst tre döda - Västerbottens-Kuriren
+- Zelenskyj i Syrien för nya samtal om säkerhet - GP
 - Rysk ekonom i exil: Så länge kan Putin fortsätta kriga - Hufvudstadsbladet
-- Zelenskyj i Syrien för nya samtal om säkerhet - Västerbottens-Kuriren
-- Libanons president: Förhandla med Israel - GP
-- Trotsar Trump – med dolda missilstäderna - expressen.se
+- Ungern går mot ett ödesval – Orbáns makt utmanas på allvar - Sveriges Radio
 - Försökte lugna kritiker – med aprilskämt - Svenska Dagbladet
-- OPEC-plus enas om symbolisk produktionsökning - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Kemfabrik i Abu Dhabi skadad av splitter - Dagens Nyheter
 - H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
-- Racet i omloppsbanan hårdnar – nya satelliter ska bli alternativ till Starlink - Nyteknik
+- Ministern knackade dörr - Lokalpressen
 - Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
 - Företagen som är nya i Sorsele - konsultföretag ett av dem - Västerbottens-Kuriren
 
@@ -57,17 +57,17 @@ _Updated: 2026-04-05 17:56_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - nyheter.ki.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - nyheter.ki.se
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
@@ -97,63 +97,62 @@ _Updated: 2026-04-05 17:56_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - nyheter.ki.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - lakartidningen.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - nyheter.ki.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - lakartidningen.se
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - nyheter.ki.se
-- I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - nyheter.ki.se
-- Många fallgropar i arbetet att ta fram systematiska översikter - lakartidningen.se
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - nyheter.ki.se
-- Upp till försvar för forskningen - lakartidningen.se
-- Invigning av The Cell där konst möter life science - nyheter.ki.se
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - lakartidningen.se
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- CAP: Miljarderna som påverkar EU:s jordbruk - naturskyddsforeningen.se
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2026-04-05 17:56_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
