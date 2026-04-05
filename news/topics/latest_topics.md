@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 07:59_
+_Updated: 2026-04-05 09:38_
 
 ## Top Stories
 
-- Källor: Saknade amerikanska piloten räddad – Senaste nytt om kriget mellan Iran, USA och Israel - svt.se
-- Stormen Dave drar in – SMHI varnar för stormbyar i Göteborg - GP
-- Stökigt i Jönköping - 80-tal omhändertagna - Västerbottens-Kuriren
-- Se utsikten från Malmös dyraste lägenhet någonsin - Sydsvenskan
+- Försvunne piloten räddad i Iran – Trump: ”Vi har honom” - gp.se
+- Stormen Dave fortsätter sin framfart - SVT Nyheter
+- Stökigt i Jönköping – 80-tal omhändertagna - Sydsvenskan
+- Stor polisinsats i Hammarbyhöjden – hade fejkvapen - Aftonbladet
+- Se utsikten från Malmös dyraste lägenhet - Sydsvenskan
 - Kubas sista försvarare: ”Inte fått en ärlig chans” - Svenska Dagbladet
-- Svenskarnas besked: Landet går åt fel håll - Sveriges Radio
-- Sveriges ”Overshoot day” är här - svt.se
-- DN Direkt – Farligt lavinläge kring Tärnaby och Hemavan - Dagens Nyheter
-- Kustbevakningen har bordat nytt fartyg – misstänks för brott - svt.se
-- HENRIK MATTSSON: I Kanada skakar man på huvudet åt Sverige - Expressen
-- DN Direkt – Bil körde in i parad i Louisiana – flera skadade - Dagens Nyheter
-- Ukraina slagträ inför valet i Ungern: ”Det är vidrigt” - Dagens Nyheter
-- Flera döda i rysk attack mot marknad - Västerbottens-Kuriren
-- Trotsar Trump – med dolda missilstäderna - Expressen
-- SSAB stoppar allt arbete – nya sjukdomsfall - Sveriges Radio
-- Socialtjänstministern pratade sänkt matmoms - Alekuriren
-- INSÄNDARE: Nya bolånereglerna drabbar människor som ta hand om sina hem - Enköpingsposten
-- Androidtelefonen kammar hem full pott i Expressens test - Expressen
-- Artemis 2 halvvägs – bara 21 900 mil kvar till månen - Omni
-- Fler detaljer om DJI OSMO Pocket 4 har läckt ut - teknikveckan.se
+- Människans bästa vän äldre än tidigare trott - Corren
+- Debatt: Nedskräpning är ett dyrt och onödigt slöseri - NWT
+- Farligt lavinläge kring Tärnaby och Hemavan - SVT Nyheter
+- 04 april 12.35, Trafikolycka, personskada, Söderhamn - polisen.se
+- DN Direkt – Irans milis värvar barn – patrullerar med vapen - Dagens Nyheter
+- Uppgifter: Attack mot oljeraffinaderi i Ryssland - Västerbottens-Kuriren
+- Flera attacker i Mellanöstern under natten - gp.se
+- Över 1 400 har dödats i israeliska attacker - Hufvudstadsbladet
+- Modejättens nya drag – säljer kläder via AI - Svenska Dagbladet
+- Experten: Därför ska du inte slänga dina trasiga vitvaror - dagensps.se
+- 88 764 bedrägerier, en flytande ö och löftet om att sova i ekonomiklass - dagensps.se
+- Nya tågsatsningar – nu blir det lättare att ta sig ut i Europa - dagensps.se
+- Astronauterna har Iphone – men ingen uppkoppling - Omni
+- Samsung kommer med en ”The Frame Pro OLED” - Teknikveckan
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - nhl.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Global Series stort för Karlsson: ”Fantastiskt” - nhl.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
+- World-leading voices ready for Society Expo 2026 - skelleftea.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - palmecenter.se
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
+- Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - news.samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - nhl.com
 - FN-chefen varnar för global konfliktspridning - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 
@@ -52,7 +52,7 @@ _Updated: 2026-04-05 07:59_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -120,7 +120,7 @@ _Updated: 2026-04-05 07:59_
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -128,15 +128,15 @@ _Updated: 2026-04-05 07:59_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Upp till försvar för forskningen - Läkartidningen
 
@@ -153,7 +153,7 @@ _Updated: 2026-04-05 07:59_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
