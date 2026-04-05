@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 23:55_
+_Updated: 2026-04-06 00:59_
 
 ## Top Stories
 
-- Ekots direktrapport om ovädret Dave - sverigesradio.se
+- Gotlandsfärja fick vända nära sluthamn - Västerbottens-Kuriren
 - Tre saknas efter robotattack mot Haifa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Israel: Iran har 1 000 robotar som kan nå oss - GP
 - Stulen bil voltade efter rån – jakt på gärningsman pågår - Omni
-- ”Ukrainska framgångar i mars” - Västerbottens-Kuriren
-- Historieprofessor Kristian Gerner har avlidit - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Tidigare ukrainsk spionchef död i kriget - Dagens Nyheter
+- Tur att AI:n var så klantig - Svenska Dagbladet
 - Fyraårige Elias jagas av gränspolisen: ”Nästa gång blir det hårdare tag” - Dagens Nyheter
-- Människans bästa vän äldre än tidigare trott - GP
+- Historieprofessor Kristian Gerner har avlidit - Aftonbladet
+- Hunden äldre än man trott - SVT Nyheter
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- Svenskarnas besked: Landet går åt fel håll - sverigesradio.se
-- Emely, 32, lyfte i stormen – slog sig illa - Aftonbladet
 - Trump hotar Iran – så många gånger har han svängt - Dagens Nyheter
 - Rekord för Irans nedsläckning av internet - GP
-- Träd föll under påskäggsjakt – minst tre döda - SVT Nyheter
-- Ryska soldater betalar befäl för att överleva - Dagens Nyheter
-- Opec-plus signalerar ökad oljeproduktion – men effekten väntas bli liten - borskollen.se
-- Ministern knackade dörr - lokalpressen.se
+- Träd föll under påskäggsjakt – minst tre döda - Hufvudstadsbladet
+- Zelenskyj i Syrien för nya samtal om säkerhet - Västerbottens-Kuriren
+- Opec-plus signalerar ökad oljeproduktion – men effekten väntas bli liten - Börskollen
+- Ministern knackade dörr - Lokalpressen
+- DN Direkt – Person fick träd över sig i Vetlanda - Dagens Nyheter
 - Facket om sjukdomsfallen på SSAB: "Känns kaosartat" - Kuriren
-- Rysslands och USA:s oljekrig hotar friheten och förnyelsen i Europa - Dagens Nyheter
 - Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
 - Trendiga löparskon tillbaka i ny skepnad - Svenska Dagbladet
 
@@ -38,8 +38,8 @@ _Updated: 2026-04-05 23:55_
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
-- Debatt: Nu måste vi lyfta kvinnors historier - globalbar.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -55,21 +55,21 @@ _Updated: 2026-04-05 23:55_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - xpert.digital
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - xpert.digital
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - xpert.digital
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - xpert.digital
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - xpert.digital
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - xpert.digital
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,8 +77,8 @@ _Updated: 2026-04-05 23:55_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -101,12 +101,12 @@ _Updated: 2026-04-05 23:55_
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - gu.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - health-isac.org
+- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -126,7 +126,7 @@ _Updated: 2026-04-05 23:55_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - theaftd.org
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - AI och data science - Stockholms universitet
@@ -146,14 +146,14 @@ _Updated: 2026-04-05 23:55_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- CAP: Miljarderna som påverkar EU:s jordbruk - naturskyddsforeningen.se
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL
+- Här är världens största jordbruk - atl.nu
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
+- 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
