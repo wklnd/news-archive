@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-05 13:58_
+_Updated: 2026-04-05 15:40_
 
-- Live updates: Iran war news; US forces rescue missing F-15 crew member, Trump says - CNN
-- Trump threatens Iran with "hell" if Hormuz strait isn't open in 48 hours - Axios
-- Trump files emergency appeal to keep building White House ballroom - The Washington Post
-- Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war - politico.com
-- Where Are NASA’s Artemis II Astronauts Now? Closer to the Moon Than Earth. - The New York Times
-- Man charged with impaired driving after car plows into pedestrians during Louisiana parade: Authorities - ABC News
-- In the West’s water war, Arizona's governor is betting on Trump — and Iran - politico.com
-- $400 Bibles? Luxurious Scripture Is on the Rise. - The New York Times
-- An Indiana man is poisoned with a root beer float. How a robbery revealed a sinister plot to kill - cbsnews.com
-- Pam Bondi’s portrait found in trash hours after Trump fired her as attorney general - al.com
+- Middle East crisis live: Iranian drone attacks cause ‘significant material losses’ at Kuwait energy facilities - The Guardian
+- Iran war: US says missing crew member from downed jet found - DW.com
+- Pope Leo XIV celebrates first Easter vigil, calls for harmony and peace in a world torn by war - Politico
+- Artemis astronauts glimpse Moon's 'Grand Canyon' ahead of historic lunar flyby - Yahoo
+- Trump is trying to build a massive voter database. Election officials are afraid of what he’ll do with it - CNN
+- Ousted Army Chief of Staff Gen. Randy George says U.S. soldiers deserve "courageous leaders of character" in outgoing email - CBS News
+- At Least 15 Injured After Driver Plows Into a Louisiana Parade - The New York Times
+- This Democratic governor is touting her role in the Iran war - Politico
+- Their Parents Were Taken by ICE. The Children Had to Raise One Another. - The New York Times
+- An Indiana man is poisoned with a root beer float. How a robbery revealed a sinister plot to kill - CBS News
+- Israeli fire kills four Palestinians in Gaza, medics say - Reuters
+- In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
 - China Built the World’s Drone Industry. Now It’s Locking Down the Skies. - The New York Times
-- Five killed by Russian strike on market in frontline Ukrainian city - Reuters
-- Satellite Firm Planet Labs To Indefinitely Withhold Iran War Images - HuffPost
-- Trump gives Iran 48 hours to make a deal, as hunt goes on for missing US pilot - Yahoo
-- United Airlines Cuts Perks in New Basic Polaris Business Fare - aviationa2z.com
-- No, Says Economist, March US Jobs Report 'Is Not Good' - Common Dreams
-- Easter 2026: Which Houston stores will be open and which will be closed? - KHOU
-- Krugman talks oil, the speech; Phillips P. O'Brien - Trump has no way out; Blundell - Ukraine wins - Daily Kos
+- Despite the Netanyahu Government's Promises, the IDF Admits It Can't Disarm Hezbollah - Haaretz
+- Oil Markets Seem More Skeptical of Trump’s Peace Signals - The New York Times
+- United Airlines Cuts Perks in New Basic Polaris Business Fare - Aviation A2Z
+- When legal sports betting surges, so do Americans' financial problems - NPR
+- Easter 2026: Which Houston stores will be open and which will be closed? - khou.com
 - Microsoft spent years pushing Copilot, but now it says don’t rely on it - Digital Trends
-- LinkedIn Hidden Code Secretly Searches Your Browser for Installed Extensions - CyberSecurityNews
+- Apple releases first iOS 26.5 public beta - 9to5Mac
