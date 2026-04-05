@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-06 00:59_
+_Updated: 2026-04-06 01:58_
 
 ## Top Stories
 
-- Gotlandsfärja fick vända nära sluthamn - Västerbottens-Kuriren
+- Gotlandsfärja fick vända nära sluthamn - Folkbladet
 - Tre saknas efter robotattack mot Haifa – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Israel: Iran har 1 000 robotar som kan nå oss - GP
-- Stulen bil voltade efter rån – jakt på gärningsman pågår - Omni
-- Direkt – Kriget i Ukraina – Tidigare ukrainsk spionchef död i kriget - Dagens Nyheter
+- ”Ukrainska framgångar i mars” - Västerbottens-Kuriren
 - Tur att AI:n var så klantig - Svenska Dagbladet
+- Israels militärchef besöker styrkor i Libanon - GP
 - Fyraårige Elias jagas av gränspolisen: ”Nästa gång blir det hårdare tag” - Dagens Nyheter
 - Historieprofessor Kristian Gerner har avlidit - Aftonbladet
-- Hunden äldre än man trott - SVT Nyheter
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
+- Tak på flerfamiljshus har lossnat: ”Jävlar vad det flyger grejer” - Sveriges Radio
+- Frontalkrock på väg 583: ”Flera personer ska vara allvarligt skadade” - Söderhamns-Kuriren
 - Trump hotar Iran – så många gånger har han svängt - Dagens Nyheter
 - Rekord för Irans nedsläckning av internet - GP
 - Träd föll under påskäggsjakt – minst tre döda - Hufvudstadsbladet
-- Zelenskyj i Syrien för nya samtal om säkerhet - Västerbottens-Kuriren
-- Opec-plus signalerar ökad oljeproduktion – men effekten väntas bli liten - Börskollen
+- Man befaras död efter fall överbord - Expressen
 - Ministern knackade dörr - Lokalpressen
 - DN Direkt – Person fick träd över sig i Vetlanda - Dagens Nyheter
 - Facket om sjukdomsfallen på SSAB: "Känns kaosartat" - Kuriren
+- Opec-plus signalerar ökad oljeproduktion – men effekten väntas bli liten - Börskollen
 - Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
 - Trendiga löparskon tillbaka i ny skepnad - Svenska Dagbladet
 
@@ -34,17 +34,17 @@ _Updated: 2026-04-06 00:59_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- News of the Worlds reportrar kan få nya jobb - journalisten.se
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Murdoch överväger att sälja brittiska tidningar - journalisten.se
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 - Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
@@ -53,14 +53,14 @@ _Updated: 2026-04-06 00:59_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Storbritannien trappar upp kampen mot deepfake - omni.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
@@ -77,8 +77,8 @@ _Updated: 2026-04-06 00:59_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - ey.com
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -101,14 +101,14 @@ _Updated: 2026-04-06 00:59_
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - gu.se
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
+- Vi presenterar ChatGPT Health - openai.com
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
@@ -121,16 +121,16 @@ _Updated: 2026-04-06 00:59_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Framsteg inom vetenskap och matematik med GPT-5.2 - openai.com
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - theaftd.org
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- AI och data science - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- AI och data science - su.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
@@ -144,13 +144,13 @@ _Updated: 2026-04-06 00:59_
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - naturskyddsforeningen.se
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
-- Jordbruk och landsbygdsutveckling - European Commission
+- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Här är världens största jordbruk - ATL
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
