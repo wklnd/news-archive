@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-05 21:21_
+_Updated: 2026-04-05 21:59_
 
-- US celebrates successful rescue of F-15E crew member as Trump's Iran ultimatum ticks down - foxnews.com
-- On Easter, Pope Leo delivers commanding message of peace to a world at war - The Washington Post
+- U.S. rescues missing airman from Iranian mountains after fighter jet was shot down - The Washington Post
 - Trump, on Easter, threatens 'hell' on Iran's infrastructure if Strait remains blocked - Reuters
-- Artemis II astronauts expected to reach far side of moon on Monday - The Guardian
+- Pope Leo urges peace in first Easter Mass as Christians celebrate in Jerusalem, Gaza and Tehran - AP News
+- More teens are getting hooked on gambling. Parents say it often goes undetected - NPR
+- Trump Revels in Threats to Commit War Crimes in Iran - The New York Times
 - Backpacks full of explosives found near Serbia-Hungary gas pipeline, leaders say - CNN
-- More teens are getting hooked on gambling. Parents say it often goes undetected - npr.org
-- 2 Republican election officials say Trump’s mail-in voting order will be overturned - Politico
 - ‘Proactively fall in line:’ Holocaust Memorial Museum quietly changed content after Trump returned to office - Politico
+- Trump is trying to build a massive voter database. Election officials are afraid of what he’ll do with it - CNN
 - $400 Bibles? Luxurious Scripture Is on the Rise. - The New York Times
 - Secret Service investigates reports of gunfire near Lafayette Park across from the White House - WTOP
-- Pressure mounts on Kanye West to be pulled from his headline role at a summer festival in London - AP News
+- Pepsi Cancels Sponsorship of U.K. Festival With Kanye West Headlining - Variety
 - 3 killed as high winds topple a tree on an Easter egg hunt in Germany - ABC News
-- In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - npr.org
-- How archaeology turns political in the West Bank - CBS News
+- In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
+- How archaeology turns political in the West Bank - cbsnews.com
 - Striking JBS workers to return to Colorado plant on promise of talks - Reuters
 - United Airlines Cuts Perks in New Basic Polaris Business Fare - Aviation A2Z
-- Oil Markets Doubt Trump’s Peace Signals as Tensions With Iran Grow - The New York Times
 - Premium: AI Isn't Too Big To Fail - Ed Zitron's Where's Your Ed At
-- Amazon Takes Up to $200 Off M5 MacBook Air With New Record Low Prices - MacRumors
+- Oil Markets Doubt Trump’s Peace Signals as Tensions With Iran Grow - The New York Times
+- Apple Confirms Its Impressive MacBook Pro Offer - Forbes
 - Suno is a music copyright nightmare capable of pumping out AI cover slop - The Verge
