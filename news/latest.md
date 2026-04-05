@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-05 01:01_
+_Updated: 2026-04-05 02:00_
 
-- Iran and US trade threats to unleash 'hell' as search continues for missing US airman - BBC
+- Second US fighter jet downed by Strait of Hormuz as search for F-15E crew member in Iran continues - Fox News
 - Pam Bondi's Humiliating Last-Ditch Bid to Keep Her Job Exposed - The Daily Beast
+- Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot - Politico
 - US says its agents arrested Qassem Soleimani's relatives after revoking green cards - Reuters
-- At Least 15 Injured After Driver Plows Into a Louisiana Parade - The New York Times
-- Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot - AP News
-- Is Donald Trump at Walter Reed Medical Center Today? Fact-Checking Viral Claims Amid White House Lid, Health C - Times Now
+- Chinese firms market Iran war intelligence ‘exposing’ U.S. forces - The Washington Post
+- Trump health update: New Walter Reed photos emerge amid concerns; White House takes action | Hindustan Times - Hindustan Times
+- Over a dozen injured after car strikes pedestrians at Lao New Year parade in Louisiana - NBC News
 - A subdued Wisconsin Supreme Court race tilts Democrats’ way - Politico
 - Judge halts Trump effort requiring colleges to show they don't consider race in admissions - NPR
-- Elder David A. Bednar: ‘All Who Have Endured Valiantly’ - Church News
-- Brush fires burning in Moreno Valley and Acton area - ABC7 Los Angeles
-- UK arrests fourth suspect over arson attack on Jewish ambulances in London - The Times of Israel
+- Ousted Army Chief of Staff Gen. Randy George says U.S. soldiers deserve "courageous leaders of character" in outgoing email - CBS News
+- 2 men and teen held in U.K. custody over Jewish charity ambulance attack - CBS News
 - Deadly Earthquake and Floods Worsen Afghanistan’s Troubles - The New York Times
 - HORMUZ TRACKER: Weekly Transits Reach Highest Since War Began - Bloomberg.com
-- Who were sustained as new General Authority Seventies at the April 2026 general conference - Church News
-- United Airlines splits business class into tiers on long-haul flights - Axios
+- 7 General Authority Seventies to be given emeritus status on Aug. 1 - Church News
+- Sauté pans sold at Costco recalled after metal caps on handle heat and "forcefully eject" - CBS News
+- United is rolling out 'basic business class' to make premium flying cheaper. Here's how it will work. - AOL.com
 - What’s open, closed on Easter in the San Antonio area - KSAT
 - Housing market trends favor home shoppers, but Iran war clouds the outlook for mortgage rates - AP News
-- ‘The good old days are gone’: how will US prices stand as war in Iran surges on? - The Guardian
-- I compared the Galaxy S26 Ultra to the Nokia Lumia 1020, and I wasn't expecting this - androidpolice.com
+- I compared the Galaxy S26 Ultra to the Nokia Lumia 1020, and I wasn't expecting this - Android Police
 - LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - BleepingComputer
