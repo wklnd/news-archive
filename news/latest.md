@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-05 02:00_
+_Updated: 2026-04-05 05:46_
 
+- Middle East crisis live: Iran rejects Trump’s 48 hour deadline to ‘make a deal’; US races to find missing pilot - The Guardian
 - Second US fighter jet downed by Strait of Hormuz as search for F-15E crew member in Iran continues - Fox News
-- Pam Bondi's Humiliating Last-Ditch Bid to Keep Her Job Exposed - The Daily Beast
-- Trump gives Iran 48 hours to open Strait of Hormuz as search continues for missing US pilot - Politico
-- US says its agents arrested Qassem Soleimani's relatives after revoking green cards - Reuters
-- Chinese firms market Iran war intelligence ‘exposing’ U.S. forces - The Washington Post
-- Trump health update: New Walter Reed photos emerge amid concerns; White House takes action | Hindustan Times - Hindustan Times
-- Over a dozen injured after car strikes pedestrians at Lao New Year parade in Louisiana - NBC News
+- Trump administration arrests relatives of dead Iranian general in Los Angeles - Los Angeles Times
+- Pam Bondi’s portrait found in trash hours after Trump fired her as attorney general - AL.com
+- Car slams into Louisiana Lao New Year parade, injuring about 15 people - Al Jazeera
+- Trump Is ‘Working Nonstop,’ White House Claims—As He Keeps Low Profile In D.C. This Weekend - Forbes
+- Plane makes emergency landing on Interstate 78 in Lehigh County; highway reopens [Updated] - The Morning Call
+- Woman charged in Indiana root beer float murder orders hit on best friend, police say - CBS News
 - A subdued Wisconsin Supreme Court race tilts Democrats’ way - Politico
-- Judge halts Trump effort requiring colleges to show they don't consider race in admissions - NPR
-- Ousted Army Chief of Staff Gen. Randy George says U.S. soldiers deserve "courageous leaders of character" in outgoing email - CBS News
-- 2 men and teen held in U.K. custody over Jewish charity ambulance attack - CBS News
-- Deadly Earthquake and Floods Worsen Afghanistan’s Troubles - The New York Times
+- Who were sustained as new General Authority Seventies at the April 2026 general conference? - Church News
+- Deadly Earthquake and Floods Worsen Afghanistan’s Troubles - nytimes.com
+- Satellite Firm Planet Labs To Indefinitely Withhold Iran War Images - HuffPost
+- Trump gives Iran 48 hours to make a deal, as hunt goes on for missing US pilot - Yahoo
 - HORMUZ TRACKER: Weekly Transits Reach Highest Since War Began - Bloomberg.com
-- 7 General Authority Seventies to be given emeritus status on Aug. 1 - Church News
+- JBS workers end strike without agreement in place - 9News
 - Sauté pans sold at Costco recalled after metal caps on handle heat and "forcefully eject" - CBS News
-- United is rolling out 'basic business class' to make premium flying cheaper. Here's how it will work. - AOL.com
-- What’s open, closed on Easter in the San Antonio area - KSAT
 - Housing market trends favor home shoppers, but Iran war clouds the outlook for mortgage rates - AP News
-- I compared the Galaxy S26 Ultra to the Nokia Lumia 1020, and I wasn't expecting this - Android Police
-- LinkedIn secretly scans for 6,000+ Chrome extensions, collects data - BleepingComputer
+- ‘The good old days are gone’: how will US prices stand as war in Iran surges on? - The Guardian
+- Apple CarPlay Just Got Three Popular iPhone Apps - MacRumors
+- LinkedIn Hidden Code Secretly Searches Your Browser for Installed Extensions - CyberSecurityNews
