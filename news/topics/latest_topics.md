@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 12:03_
+_Updated: 2026-04-05 13:01_
 
 ## Top Stories
 
 - SMHI varnar: Nu drar stormen Dave in - Dagens Nyheter
-- Försvunne piloten räddad i Iran – Trump: ”Vi har honom” - GP
-- Drönarattack mot regeringsbyggnad i Kuwait – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trångt i nya bostäder – sexåringen sover i miniförrådet - Dagens Nyheter
+- Försvunne piloten räddad i Iran – Trump: ”Vi har honom” - GP
 - De förlänger med Vipers – två andra skriver på för konkurrent - Smålandsposten
-- Stökig natt vid Asecs – ett 80-tal personer omhändertagna - Sveriges Radio
+- Drönarattack mot regeringsbyggnad i Kuwait – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rekord för Irans nedsläckning av internet - Västerbottens-Kuriren
 - Kvinna död i bilolycka - Västerbottens-Kuriren
 - Man död i radhusbrand i Umeå - GP
+- Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
 - Människans bästa vän äldre än tidigare trott - Corren
-- Sveriges ”Overshoot day” är här - SVT Nyheter
+- Libanons president: Förhandla med Israel - Västerbottens-Kuriren
 - Ungern går mot ett ödesval – Orbáns makt utmanas på allvar - Sveriges Radio
-- Irans milis värvar barn – patrullerar med vapen - Folkbladet
+- Militärlag upprör i Tyskland – måste fråga om lov för resor - Dagens Nyheter
 - Uppgifter: Attack mot oljeraffinaderi i Ryssland - Västerbottens-Kuriren
-- Libanons president: Förhandla med Israel - GP
 - Anställda vittnar om hård press på Mister York - Omni
 - H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
-- Experten: Därför ska du inte slänga dina trasiga vitvaror - dagensps.se
-- Ljusare på jobbmarknaden – färre sägs upp - Sydsvenskan
-- Astronauterna har Iphone – men ingen uppkoppling - Omni
+- Nasa satsar 200 miljarder – vill stanna på månen - Dagens PS
+- Gällivare skakade i påsk – LKAB bekräftar seismisk händelse - NSD
+- Toakaos på rymdexpeditionen Artemis II - expressen.se
 - Snart blir det enklare att testa nya funktioner för Windows 11 - PC för Alla
 
 ## World News
 
+- Lissabon i centrum för global innovation - The Portugal News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Lissabon i centrum för global innovation - theportugalnews.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - World-leading voices ready for Society Expo 2026 - skelleftea.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
@@ -42,10 +42,10 @@ _Updated: 2026-04-05 12:03_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - new.abb.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 
 ## Technology
@@ -68,8 +68,8 @@ _Updated: 2026-04-05 12:03_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -97,7 +97,7 @@ _Updated: 2026-04-05 12:03_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -155,10 +155,10 @@ _Updated: 2026-04-05 12:03_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - landlantbruk.se
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord | Kungl. Skogs- och Lantbruksakademien, KSLA - Mynewsdesk
 - Lediga jobb - landlantbruk.se
-- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - landlantbruk.se
+- Agri Venture slår ett slag för innovationer inom lantbruk - landlantbruk.se
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Lediga jobb - landlantbruk.se
 - Hellre plöjningsfri odling än ekologisk - landlantbruk.se
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
