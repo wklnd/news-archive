@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 16:07_
+_Updated: 2026-04-05 17:01_
 
 ## Top Stories
 
-- Stormen Dave på ingång – här är det senaste - GP
-- Direkt – Krisen i Mellanöstern – Trump: Tror på ett avtal på måndagen - Dagens Nyheter
-- Saknade amerikanska soldaten räddad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ovädret Dave är här – varning för orkanbyar - Västerbottens-Kuriren
+- Trump: Goda chanser för avtal innan måndag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Nedskjutne piloten räddad från Iran - GP
 - Tiden rinner ut för kändisarnas soliga paradis - Aftonbladet
-- Över 1 400 har dödats i israeliska attacker - Hufvudstadsbladet
 - M-toppen: ”Då gör man inte rätt för sig” - Svenska Dagbladet
+- Över 1 400 har dödats i israeliska attacker - Hufvudstadsbladet
 - Kvinna död i bilolycka - Västerbottens-Kuriren
-- DN Direkt – Man död i radhusbrand i Umeå - Dagens Nyheter
+- Man död – krockade med skoter i Bruksvallarna - Sveriges Radio
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- Skoterförare död - körde in i husvägg - Aftonbladet
+- Trångt i nya bostäder – sexåringen sover i miniförrådet - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Flera döda i ryska attacker senaste dygnet - Dagens Nyheter
 - Rysk ekonom i exil: Så länge kan Putin fortsätta kriga - Hufvudstadsbladet
 - Ungern går mot ett ödesval – Orbáns makt utmanas på allvar - Sveriges Radio
-- Ung man död i olycka utanför Borås - Expressen
+- Efter kaosnatten i Jönköping: Parkering kan stängas - expressen.se
+- OPEC-länder redo producera mer olja - Sydsvenskan
 - Anställda vittnar om hård press på Mister York - Omni Ekonomi
-- Direkt – Krisen i Mellanöstern – Kemfabrik i Abu Dhabi skadad av splitter - Dagens Nyheter
-- Nasa satsar 200 miljarder – vill stanna på månen - Dagens PS
 - H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
-- Toakaos på rymdexpeditionen Artemis II - Expressen
+- Racet i omloppsbanan hårdnar – nya satelliter ska bli alternativ till Starlink - Nyteknik
+- Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
 - Företagen som är nya i Sorsele - konsultföretag ett av dem - Västerbottens-Kuriren
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -41,16 +41,16 @@ _Updated: 2026-04-05 16:07_
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
 - BBC fyller 100 år – äldsta public service i världen - omni.se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
 - Storbritannien trappar upp kampen mot deepfake - omni.se
@@ -77,8 +77,8 @@ _Updated: 2026-04-05 16:07_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - ey.com
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
+- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -124,7 +124,7 @@ _Updated: 2026-04-05 16:07_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -132,7 +132,7 @@ _Updated: 2026-04-05 16:07_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
