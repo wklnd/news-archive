@@ -1,40 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-05 15:35_
+_Updated: 2026-04-05 16:07_
 
 ## Top Stories
 
-- IDF: Flygattacker mot 120 mål i Iran det senaste dygnet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Stormen Dave närmar sig - utökade varningar - Västerbottens-Kuriren
+- Stormen Dave på ingång – här är det senaste - GP
+- Direkt – Krisen i Mellanöstern – Trump: Tror på ett avtal på måndagen - Dagens Nyheter
+- Saknade amerikanska soldaten räddad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tiden rinner ut för kändisarnas soliga paradis - Aftonbladet
-- Libanons president: Förhandla med Israel - GP
-- M-toppar: S politik ger bidragsrally i Stockholm - Svenska Dagbladet
-- JUST NU: Lastbil och personbil i kollision – fem personer drabbade - NWT
+- Över 1 400 har dödats i israeliska attacker - Hufvudstadsbladet
+- M-toppen: ”Då gör man inte rätt för sig” - Svenska Dagbladet
 - Kvinna död i bilolycka - Västerbottens-Kuriren
 - DN Direkt – Man död i radhusbrand i Umeå - Dagens Nyheter
-- Skoterförare död - körde in i husvägg - Aftonbladet
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
+- Skoterförare död - körde in i husvägg - Aftonbladet
 - Direkt – Kriget i Ukraina – Flera döda i ryska attacker senaste dygnet - Dagens Nyheter
-- Försvunne piloten räddad i Iran – Trump: ”Vi har honom” - GP
 - Rysk ekonom i exil: Så länge kan Putin fortsätta kriga - Hufvudstadsbladet
-- Ungern går mot ett ödesval – Orbáns makt utmanas på allvar - sverigesradio.se
+- Ungern går mot ett ödesval – Orbáns makt utmanas på allvar - Sveriges Radio
+- Ung man död i olycka utanför Borås - Expressen
 - Anställda vittnar om hård press på Mister York - Omni Ekonomi
+- Direkt – Krisen i Mellanöstern – Kemfabrik i Abu Dhabi skadad av splitter - Dagens Nyheter
+- Nasa satsar 200 miljarder – vill stanna på månen - Dagens PS
 - H&M-vd:n om konkurrentens AI-satsning: "Något som vi utforskar" - EFN
-- Nasa satsar 200 miljarder – vill stanna på månen - dagensps.se
-- Gällivare skakade i påsk – LKAB bekräftar seismisk händelse - NSD
-- Artemis anar månens baksida: ”Helt sensationellt” - Aftonbladet
+- Toakaos på rymdexpeditionen Artemis II - Expressen
 - Företagen som är nya i Sorsele - konsultföretag ett av dem - Västerbottens-Kuriren
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Lissabon i centrum för global innovation - The Portugal News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global version av Oppo Find X9 Ultra avslöjar Snapdragon 8 Elite Gen 5-chip och rekordstort batteri - Mix Vale
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -42,31 +40,33 @@ _Updated: 2026-04-05 15:35_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - United Nations Development Programme
 - Samsung lanserar global kampanj: ”Why Samsung” – AI, SmartThings, säkerhet och pålitlighet i vitvaror - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - omni.se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - iffs.se
+- Storbritannien trappar upp kampen mot deepfake - omni.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -105,7 +105,7 @@ _Updated: 2026-04-05 15:35_
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Heidi Stensmyren ska driva på AI-utveckling av vården - dagensmedicin.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
@@ -120,25 +120,25 @@ _Updated: 2026-04-05 15:35_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Vi gratulerar Francesca Castoldi på BioNut - Karolinska Institutet
-- Cancerfonden delar ut 10,6 miljoner till forskare på CLINTEC - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -153,7 +153,6 @@ _Updated: 2026-04-05 15:35_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2026-04-05 15:35_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
