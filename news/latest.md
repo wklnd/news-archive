@@ -1,16 +1,16 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 23:20_
+_Updated: 2026-04-07 00:03_
 
-- Live Updates: Trump's threat to blow "everything up" if Iran won't make a deal hangs over new ceasefire bid - CBS News
+- Live Updates: Trump's threat to blow "everything up" if Iran won't make a deal hangs over new ceasefire bid - cbsnews.com
 - U.S. launched "air armada" to rescue F-15 crew in Iran - Axios
-- Seyed Majid Khademi, Iranian Intelligence Chief, Killed in Overnight Attack - The New York Times
-- Iran notifies civilians of retaliatory targets if US attacks infrastructure - newsnationnow.com
-- US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon - Reuters
-- Trump to detail rescue mission as Iran rebuffs U.S. war demands - The Washington Post
+- The Latest Blows to Iran’s Leadership - The New York Times
+- US Supreme Court paves way for dismissal of Steve Bannon conviction - BBC
+- Melania Trump’s Unexpected Easter Look - The New York Times
+- Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says - Reuters
 - Trump’s many threats of possible war crimes reach a crescendo in Iran - CNN
-- Republican group to spend $45M to help Rogers win Michigan Senate race - The Detroit News
 - Trump endorses ex-UK political strategist Steve Hilton for California governor - BBC
+- Vance is on standby in Iran talks - Politico
 - Newly Obtained Video of Minneapolis Shooting Undermines ICE Account - The New York Times
 - Kanye West was booked as a festival headliner. Brands are now pulling their sponsorship - CNN
 - Seoul spy agency says it’s fair to view teen daughter of North Korean leader Kim as his heir - AP News
@@ -20,5 +20,5 @@ _Updated: 2026-04-06 23:20_
 - S&P 500 posts fourth winning day, rising on hopes for last-minute Iran ceasefire: Live updates - CNBC
 - New Jersey cannot regulate Kalshi's prediction market, US appeals court rules - Reuters
 - China stands to benefit most from the war-driven energy crisis - The Washington Post
-- FBI Warns iPhone And Android Users—Do Not Install These Apps - forbes.com
-- Galaxy Z Fold ‘Wide’ will be easier to handle as One UI 9 leaks spout - 9to5Google
+- FBI Warns iPhone And Android Users—Do Not Install These Apps - Forbes
+- iPhone Fold just hit major milestone that’s good news for launch timing - 9to5Mac
