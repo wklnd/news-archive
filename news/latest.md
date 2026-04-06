@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 20:35_
+_Updated: 2026-04-06 21:40_
 
-- Iran sends "maximalist" peace plan response as Trump deadline looms - Axios
-- Trump holds a press conference after profanity-laced post on Iran - NPR
-- US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon - Reuters
-- 'Take it easy tiger': Iran mocks Trump's threat - ynetnews
-- She paid into Medicare for years. Trump's immigration policy will end her coverage - NPR
-- NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline) - Space
-- When War Crimes Rhetoric Becomes Battlefield Reality: The Slippery Slope to Total War on Iran - Just Security
+- Trump reiterates threats to bomb Iran's power plants and bridges - NPR
+- Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says - Reuters
+- US Supreme Court paves way for dismissal of Steve Bannon conviction - BBC
+- Trump to detail rescue mission as Iran rebuffs U.S. war demands - The Washington Post
 - Trump endorses Republican Steven Hilton for California governor, reordering wide-open race - AP News
-- Republican group to spend $45M to help Rogers win Michigan Senate race - The Detroit News
-- International Students Remade a College. What’s Left When They’re Gone? - The New York Times
+- Artemis II just set a new distance-from-Earth record - Axios
+- Trump shrugs off concerns that threat to bomb Iran’s infrastructure could amount to war crimes – US politics live - The Guardian
+- Republican super PAC's multi-hundred-million dollar ad buy shows a Senate GOP on defense - Politico
+- Newly Obtained Video of Minneapolis Shooting Undermines ICE Account - The New York Times
+- Iran notifies civilians of retaliatory targets if US attacks infrastructure - NewsNation
 - Seoul spy agency says it’s fair to view teen daughter of North Korean leader Kim as his heir - AP News
 - Kanye West was booked as a festival headliner. Brands are now pulling their sponsorship - CNN
 - Iran war: Israel attacks Iran's South Pars gas field again - DW.com
-- Russian attacks kill 4 as Ukraine drones target oil infrastructure - AP News
+- Exclusive: Iraq could restore oil exports to pre-war level within a week if Hormuz reopens, Basra Oil chief says - Reuters
 - Jamie Dimon Warns Investors Over Risks From War and Threat of Rising Inflation - The New York Times
-- S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates - CNBC
+- S&P 500 rises slightly as investors hope for last-minute Iran ceasefire: Live updates - CNBC
+- FDA Announces Recall of Iced Tea, Lemonade, and Fruit Punch Sold in 5 States - AOL.com
 - New Jersey cannot regulate Kalshi's prediction market, US appeals court rules - Reuters
-- China stands to benefit most from the war-driven energy crisis - The Washington Post
-- Samsung is discontinuing its texting app, tells impacted users to switch to Google Messages - ABC News
-- You can now search through reviews on the Google Play Store - GSMArena.com news - GSMArena.com
+- Samsung is discontinuing its texting app, tells impacted users to switch to Google Messages - abcnews.com
+- Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones - The Verge
