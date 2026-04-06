@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 10:12_
+_Updated: 2026-04-06 11:51_
 
-- Trump can’t make his mind up about the Strait of Hormuz. It’s more important than he lets on - cnn.com
-- Trump invokes religious rhetoric in praise of Iran rescue, drawing criticism - Reuters
-- NASA's Artemis II crew readies for Monday's lunar flyby. Here's what you need to know - NPR
-- ‘Reflect on the meaning of His divine names’: Conference speakers testify of Christ’s titles - Church News
-- In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
-- 3 Dead After High Winds Topple Tree During Easter Egg Hunt in Germany - The New York Times
-- ‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants - Hindustan Times
-- Trump's trade war with China in focus ahead of May summit - Reuters
-- A gray whale that swam 20 miles up a Washington state river is found dead - AP News
-- ICE Agents Detain Newlywed Spouse of Soldier Training to Deploy - The New York Times
+- ‘Unhinged madman’: US politicians react to Trump’s expletive-laden threat to Iran - theguardian.com
+- CIA deception campaign in Iran helped the spy agency uncover the location of the downed F-15 airman - Fortune
+- Trump endorses Steve Hilton in California governor's race - Politico
 - Pope calls for peace, and Trump vows hell for Iran on Easter - Axios
-- South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor - Yahoo
-- 4 injured, 4 feared trapped under rubble in Iranian missile strike on Haifa building - The Times of Israel
-- Russian Offensive Campaign Assessment, April 5, 2026 - Institute for the Study of War
-- Oil prices choppy after expletive-laden Trump threat to Iran - BBC
-- Gold falls as Iran war, robust US jobs data dim Fed rate-cut hopes - Reuters
-- Japan, South Korea stocks rise as investors assess Trump's Iran war comments, extended deadline - CNBC
-- Private Credit and the New World of Financial Risk - Paul Krugman | Substack
+- Artemis II arrives in lunar space ahead of its trip around the Moon - Engadget
+- ‘Reflect on the meaning of His divine names’: Conference speakers testify of Christ’s titles - Church News
+- ‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants | World News - Hindustan Times
+- Inside Jim Jordan’s quiet preparations for a GOP leadership void - Politico
+- 4 killed in Alabama car crash during pursuit by state trooper - CBS News
+- A gray whale that swam 20 miles up a Washington state river is found dead - AP News
+- In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
+- As Iran war enters 6th week, escalation looks the most likely scenario - The Times of Israel
+- Ukraine’s drones dent Russia’s war-fuelled oil windfall - Financial Times
+- 3 Dead After High Winds Topple Tree During Easter Egg Hunt in Germany - The New York Times
+- Oil Rises Slightly After Trump’s Latest Threats on Iran - The New York Times
+- Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - Bloomberg.com
+- Gold slips as raging Iran war, strong US jobs data lift dollar - Reuters
+- Teamsters Reach Strong Settlement with UPS on Driver Severance Packages - teamster.org
 - NASA Shares Photos Shot on iPhone 17 Pro Max During Artemis II Mission to the Moon - MacRumors
-- Apple debuts 50th anniversary exhibit at Apple Park with iconic products and photography - 9to5Mac
+- iPhone Fold rumor suggests it will bring a 3D printed hinge - GSMArena.com news - GSMArena.com
