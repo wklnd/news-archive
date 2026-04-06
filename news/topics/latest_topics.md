@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-06 13:27_
+_Updated: 2026-04-06 14:05_
 
 ## Top Stories
 
 - Stora trafikproblem efter stormen Dave - Dagens Nyheter
 - Reuters: Vapenvila mellan USA och Iran möjlig redan imorgon - Hufvudstadsbladet
-- Iransk underrättelsechef dödad i attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Uppgifter: USA fick lämna och bomba egna plan - GP
-- Fler tvångsutvisas: ”även om man skriker och slåss” - Dagens Nyheter
-- ”Ukrainska framgångar i mars” - Västerbottens-Kuriren
-- 37 kvinnojourer har fått stänga - Aftonbladet
-- Peter satt på skräckflyget från Thailand – stoppades av Dave - expressen.se
-- Efter kaoset – hela parkeringen kan stängas - Jönköpings-Posten
-- Mellan grushögar och glamour – familjen som byggde Sverige - Dagens Nyheter
-- DN Direkt – Nära hundra döda i oväder och skalv i Afghanistan - Dagens Nyheter
-- Om Magyar vinner i Ungern – ”inte lätt” för EU - GP
 - Lavin i norska skidorten Hemsedal – två döda - SVT Nyheter
+- Flera döda i bombat bostadshus i Odessa - GP
+- Fler tvångsutvisas: ”även om man skriker och slåss” - Dagens Nyheter
+- Uppgifter: USA fick lämna och bomba egna plan - GP
+- 37 kvinnojourer har fått stänga - Aftonbladet
+- Peter satt på skräckflyget från Thailand – stoppades av Dave - Expressen
+- Efter kaoset – hela parkeringen kan stängas - Jönköpings-Posten
+- Tak på flerfamiljshus har lossnat: ”Jävlar vad det flyger grejer” - Sveriges Radio
+- Om Magyar vinner i Ungern – ”inte lätt” för EU - Västerbottens-Kuriren
+- Nära hundra döda i oväder och skalv - Corren
 - Iran: Formulerat svar på fredsförslaget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fler demonstranter har avrättats i Iran - GP
 - Olja fortsätter stiga med fokus på Trumps ultimatum om Hormuzsundet av Investing.com - Investing.com Sverige
 - Stigande inflation kan trigga räntehöjningar - Svenska Dagbladet
-- Experten: Vänj dig vid högt bensinpris - expressen.se
+- Experten: Vänj dig vid högt bensinpris - Expressen
 - Kritiken fortsätter mot finska superbatteriet – trots aprilskämt - Dagens PS
 - DN Direkt – I natt flyger Artemis in i total radioskugga - Dagens Nyheter
 - Ubuntu har nu högre systemkrav än Windows 11 - PC för Alla
@@ -28,7 +28,7 @@ _Updated: 2026-04-06 13:27_
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -37,7 +37,7 @@ _Updated: 2026-04-06 13:27_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - regionstockholm.se
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
@@ -105,40 +105,40 @@ _Updated: 2026-04-06 13:27_
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
-- AI och data science - su.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- AI och data science - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - ki.se
 
 ## Jordbruk
 
@@ -152,7 +152,7 @@ _Updated: 2026-04-06 13:27_
 - Här är världens största jordbruk - ATL Nyheter
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
