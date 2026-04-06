@@ -1,56 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-06 17:11_
+_Updated: 2026-04-06 18:09_
 
 ## Top Stories
 
 - Inställda tåg och träd över vägarna – läs allt om stormen Daves framfart - NWT
-- Lavin i norska Hemsedal – två döda - SVT Nyheter
+- Svensk död efter lavinolycka i norska Hemsedal - SVT Nyheter
 - Frågan som ställs allt oftare i USA: Är Trump galen? - Dagens Nyheter
-- 16 bilar i krock på E22 – totalstopp i trafiken - Omni
-- Mångmiljonär i New York: Jag vill betala mer skatt - Dagens Nyheter
-- Soldatfru kan deporteras: ”Ingen legal rätt” - Svenska Dagbladet
+- Åtta till sjukhus efter masskrock i Blekinge - UNT
+- Upptrappning i kriget inför Trumps tidsfrist - GP
+- Uppgifter: USA fick lämna och bomba egna plan - GP
 - Fler tvångsutvisas: ”även om man skriker och slåss” - Dagens Nyheter
-- Strömavbrott för 31 000 hushåll - Expressen
-- Familjen strandad efter Dave - aftonbladet.se
-- Gotlandsfärja vände tillbaka till Visby – för farligt i stormen - sverigesradio.se
+- Peter satt på skräckflyget från Thailand – stoppades av Dave - Expressen
+- 37 skyddade boenden stängda efter lagändringen - Omni
+- Gotlandsfärja vände tillbaka till Visby – för farligt i stormen - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Fler demonstranter har avrättats i Iran - Dagens Nyheter
+- Mångmiljonär i New York: Jag vill betala mer skatt - Dagens Nyheter
+- Nepals nye premiärminister vill förbjuda studentpolitik - Sveriges Radio
 - Flera döda i bombat bostadshus i Odessa - Västerbottens-Kuriren
-- Israel bombade iransk gasanläggning på nytt - Dagens Nyheter
-- Nepals nye premiärminister vill förbjuda studentpolitik - sverigesradio.se
-- Reuters: Hormuzsundet kan öppnas inom ett dygn - Hufvudstadsbladet
-- Experten: Vänj dig vid högt bensinpris - Dagens Nyheter
-- Oljepriset stiger vid handelns öppning - SVT Nyheter
+- Höga bensinpriser väntas stiga ytterligare – experten: ”Allvarligt ekonomiskt läge” - NWT
 - Stigande inflation kan trigga räntehöjningar - Tidningen Näringslivet
-- Kritiken fortsätter mot finska superbatteriet – trots aprilskämt - Dagens PS
-- Astronauterna på Artemis II blir historiska i natt - sverigesradio.se
-- Deras wifi ska rädda din hifi – sålt 3.000 dosor - DI
+- Tesla återtog elbilskronan – men siffrorna avslöjar sprickor - Dagens PS
+- OpenAI:s finanschef ifrågasätter börsnotering 2026 - Dagens PS
+- Se Artemis II-astronauterna åka mot månens baksida – SVT sänder - SVT Nyheter
+- House Flipper är gratis på Steam just nu. Du kan hämta spelet kostnadsfritt och behålla det för alltid. - feber.se
 
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews.se
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - sverigesradio.se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Zlatan Ibrahimović Headlines Techarena 2026 - Techarenan.news
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
@@ -58,7 +58,7 @@ _Updated: 2026-04-06 17:11_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - via.tt.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -75,7 +75,7 @@ _Updated: 2026-04-06 17:11_
 
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -142,7 +142,7 @@ _Updated: 2026-04-06 17:11_
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -152,7 +152,7 @@ _Updated: 2026-04-06 17:11_
 - Här är världens största jordbruk - atl.nu
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - dalademokraten.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
@@ -160,5 +160,5 @@ _Updated: 2026-04-06 17:11_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
