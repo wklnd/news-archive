@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 11:51_
+_Updated: 2026-04-06 13:32_
 
-- ‘Unhinged madman’: US politicians react to Trump’s expletive-laden threat to Iran - theguardian.com
+- Trump threatens Iran with a new deadline: What we know about the war, now in its 6th week - CNN
 - CIA deception campaign in Iran helped the spy agency uncover the location of the downed F-15 airman - Fortune
-- Trump endorses Steve Hilton in California governor's race - Politico
+- Intelligence head of Iran's Revolutionary Guards killed in strike, media say - Reuters
+- Gold Falls as Trump Threatens Escalation of US Attacks on Iran - Bloomberg.com
 - Pope calls for peace, and Trump vows hell for Iran on Easter - Axios
-- Artemis II arrives in lunar space ahead of its trip around the Moon - Engadget
-- ‘Reflect on the meaning of His divine names’: Conference speakers testify of Christ’s titles - Church News
-- ‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants | World News - Hindustan Times
+- NASA's Artemis II crew readies for Monday's lunar flyby. Here's what you need to know - NPR
 - Inside Jim Jordan’s quiet preparations for a GOP leadership void - Politico
-- 4 killed in Alabama car crash during pursuit by state trooper - CBS News
-- A gray whale that swam 20 miles up a Washington state river is found dead - AP News
+- Trump endorses Republican Steve Hilton in California governor’s race - CNN
+- Another side of Harmeet Dhillon - Politico
+- Panicked Trump, 79, Rages at Supreme Court in 1AM Meltdown - The Daily Beast
+- Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks - Reuters
+- Germany works to clarify new rules on fighting-age men leaving country - Reuters
+- Senior Russian commander killed in March air crash, official says - Reuters
 - In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
-- As Iran war enters 6th week, escalation looks the most likely scenario - The Times of Israel
-- Ukraine’s drones dent Russia’s war-fuelled oil windfall - Financial Times
-- 3 Dead After High Winds Topple Tree During Easter Egg Hunt in Germany - The New York Times
+- JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets - CNBC
 - Oil Rises Slightly After Trump’s Latest Threats on Iran - The New York Times
-- Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - Bloomberg.com
-- Gold slips as raging Iran war, strong US jobs data lift dollar - Reuters
-- Teamsters Reach Strong Settlement with UPS on Driver Severance Packages - teamster.org
+- Global Fuel Shortage Pushes Governments Toward Demand Controls - OilPrice.com
+- Exclusive | Gulf Funds Near Deal to Back Paramount’s $81 Billion Takeover of Warner - WSJ
 - NASA Shares Photos Shot on iPhone 17 Pro Max During Artemis II Mission to the Moon - MacRumors
-- iPhone Fold rumor suggests it will bring a 3D printed hinge - GSMArena.com news - GSMArena.com
+- Samsung Galaxy S27 Ultra Specs and Features Wishlist - Sammy Fans
