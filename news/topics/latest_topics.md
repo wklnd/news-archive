@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-06 20:11_
+_Updated: 2026-04-06 21:35_
 
 ## Top Stories
 
+- Trumps nya Iran-hot: Vi får se vad som händer - GP
 - Inställda tåg och träd över vägarna – läs allt om stormen Daves framfart - NWT
-- Frågan som ställs allt oftare i USA: Är Trump galen? - Dagens Nyheter
-- Trump om räddade piloten: Historiskt - Västerbottens-Kuriren
-- Trafikstopp efter stor krock på E22 - TV4 Nyheterna
-- Svensk död efter lavinolycka i norska Hemsedal - SVT Nyheter
-- Fredsförslag bollas mellan USA och Iran - GP
+- Totalstopp efter krock på E22 i Sölvesborg - SVT Nyheter
+- Direkt – Kriget i Ukraina – Uppgifter: Brand vid oljeterminal efter attack - Dagens Nyheter
+- Svensk man död i lavinolycka i Hemsedal - Västerbottens-Kuriren
+- Reuters: Hormuzsundet kan öppnas inom ett dygn - Hufvudstadsbladet
 - Fler tvångsutvisas: ”även om man skriker och slåss” - Dagens Nyheter
-- Gotlandsfärja vände tillbaka till Visby – för farligt i stormen - Sveriges Radio
 - Husvagn började brinna – mitt bland tusentals unga - SVT Nyheter
-- 37 kvinnojourer har fått stänga - Aftonbladet
-- Flera döda i bombat bostadshus i Odessa - Västerbottens-Kuriren
+- Peter satt på skräckflyget från Thailand – stoppades av Dave - Expressen
+- Gotlandsfärja vände tillbaka till Visby – för farligt i stormen - Sveriges Radio
+- Råttan Magawa hyllas med staty för minröjning i Kambodja - Sveriges Radio
 - Trumps prestigebygge hejdas – gått för fort - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Fler demonstranter har avrättats i Iran - Dagens Nyheter
-- Attack mot petrokemisk anläggning i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Höga bensinpriser väntas stiga ytterligare – experten: ”Allvarligt ekonomiskt läge” - NWT
+- Demonstranter har avrättats i Iran - SVT Nyheter
+- Israel använder nazimetoder i Libanon – varnar kristna för att gömma muslimska flyktingar - Proletären
 - Robotskatt och omfördelning – så vill Sam Altman att AI regleras - EFN
 - Ovanligt samarbete – Europa och Kina skickar upp satellit - Dagens PS
-- Billigare take away efter nya momsen – eller? - SN, Södermanlands Nyheter
+- Ministern knackade dörr - Lokalpressen
+- Oljepriset stiger vid handelns öppning - SVT Nyheter
 - Se Artemis II-astronauterna åka mot månens baksida – SVT sänder - SVT Nyheter
-- Apple ryktas utveckla AI-enhet i AirTag-storlek - Teknikveckan
+- Samsung kommer introducera en Pro-modell i Galaxy S-serien - Swedroid
 
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - new.abb.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - news.samsung.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global kompetens driver hållbara industrisatsningar i norr - new.abb.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2026-04-06 20:11_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Artificiell intelligens: När Tyskland är underskattad undersökning som en grund och mänsklig-centrerad AI-strategi - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -77,8 +77,8 @@ _Updated: 2026-04-06 20:11_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - ey.com
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - ey.com
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -99,7 +99,7 @@ _Updated: 2026-04-06 20:11_
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -122,7 +122,7 @@ _Updated: 2026-04-06 20:11_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Sherry Nakhaeizadeh - uu.se
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
