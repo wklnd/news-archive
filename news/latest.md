@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 18:28_
+_Updated: 2026-04-06 19:30_
 
-- Trump warns Iran he may strike 'every power plant' as deadline to reopen Hormuz nears - Fox News
+- Live Updates: Trump's threat to blow "everything up" if Iran won't make a deal hangs over new ceasefire bid - CBS News
 - U.S., Regional Mediators Push for 45-Day Cease-Fire With Iran - WSJ
-- Supreme Court clears the way for Bannon contempt case to be dismissed - NPR
+- Supreme Court paves way for Steve Bannon contempt case to be dismissed - NBC News
+- CNN will host a California gubernatorial primary debate on May 5 - CNN
+- 'Take it easy tiger': Iran mocks Trump's threat - ynetnews
 - Trump to detail rescue mission as Iran rebuffs U.S. war demands - The Washington Post
-- Trump endorses Republican Steve Hilton in California governor’s race - CNN
-- She paid into Medicare for years. Trump's immigration policy will end her coverage - NPR
-- Trump to hold news conference on airman rescue as his deadline for Iran looms - ABC News
+- Ahead of 2026 Midterms, Republicans Unveil a $342 Million Battle Plan to Keep the Senate - The New York Times
+- Sleepless Trump, 79, Launches Unhinged Truth Social Tirade After Deranged Easter Post - The Daily Beast
+- Voters in Georgia have moved on from Marjorie Taylor Greene. On Tuesday, they finally fill her seat - CNN
 - Newly Obtained Video of Minneapolis Shooting Undermines ICE Account - The New York Times
-- Donald Trump Attempts Damage Control After Wild Easter Sunday Post - The Daily Beast
-- Trump's Total War Budget - Public Notice | Aaron Rupar
-- Israel kills Islamic Guards intel chief, bombs largest Iranian petrochemical plant - The Times of Israel
+- Iran war: Israel attacks Iran's South Pars gas field again - DW.com
 - Seoul spy agency says it’s fair to view teen daughter of North Korean leader Kim as his heir - AP News
-- American woman missing after husband reports she fell overboard during Bahamas trip - NBC News
 - New Revelations Reignite Crypto Scandal Involving Argentina’s President Milei - The New York Times
+- Russian attacks kill 4 as Ukraine drones target oil infrastructure - AP News
 - JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters
 - S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates - CNBC
-- AP says it will offer buyouts as part of pivot away from newspaper journalism - AP News
-- United Tries to Offset Temporary High Fuel Costs With Permanent Fare and Fee Increases - Cranky Flier
+- New Jersey cannot regulate Kalshi's prediction market, US appeals court rules - Reuters
+- US stocks and oil prices flip-flop ahead of Trump’s deadline to bomb Iranian power plants - AP News
 - Samsung is discontinuing its texting app, tells impacted users to switch to Google Messages - ABC News
-- Samsung plans to bring some Galaxy S26 AI features to Galaxy S25 - SamMobile
+- You can now search through reviews on the Google Play Store - GSMArena.com news - GSMArena.com
