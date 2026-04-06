@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 01:03_
+_Updated: 2026-04-06 02:02_
 
-- Trump Warns Iran He Could Strike ‘Every Power Plant,’ in WSJ Interview - WSJ
+- Iran War Live Updates: Trump Escalates Threats in Truth Social Post After U.S. Rescues Downed Airman - The New York Times
 - U.S. rescues missing airman from Iranian mountains after fighter jet was shot down - The Washington Post
 - Pope calls for peace, Trump vows hell for Iran on Easter - Axios
 - In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted - NPR
 - 2 Republican election officials say Trump’s mail-in voting order will be overturned - Politico
-- Artemis II crew capture new photo of far side of the moon - CBS News
+- Big Bear bald eagle cam updates: Jackie and Shadow's first eaglet hatches, second hatched soon after - ABC7 Los Angeles
 - 4 killed in Alabama car crash during pursuit by state trooper - CBS News
+- Release from ICE detention brings relief and lingering trauma for wife of Army reservist - NBC News
 - NYC’s Easter Bonnet Festival draws huge crowd despite a drizzly weather - Gothamist
 - Pam Bondi’s portrait found in trash hours after Trump fired her as attorney general - AL.com
-- Petronas-chartered tanker loaded with Iraqi crude passes through Hormuz - Reuters
 - 3 Dead After High Winds Topple Tree During Easter Egg Hunt in Germany - The New York Times
-- ‘Whole region is going to burn’: Iran's ‘living hell’ warning to US amid Donald Trump's threats of striking power plants | World News - Hindustan Times
-- Iran hits Israeli industrial zone for third time, strikes critical energy infrastructure across Gulf - The Times of Israel
-- Ukraine defies West by striking Russian oil refinery - Yahoo
-- Trading Open Shadowed by Trump Escalation Threats: Markets Wrap - Bloomberg.com
+- Is the world running out of oil? Goldman Sachs weighs in - Investing.com
+- Keiko Fujimori leads Peru's presidential polls a week before election - Reuters
+- Despite the Netanyahu gov't's promises, the IDF admits it can't disarm Hezbollah - Haaretz
+- Oil Markets Seem More Skeptical of Trump’s Peace Signals - The New York Times
+- Striking JBS workers to return to Colorado plant on promise of talks - Reuters
 - Housing market trends favor home shoppers, but Iran war clouds the outlook for mortgage rates - AP News
-- Striking Beef Plant Workers to Resume Work - WSJ
-- OPEC+ agrees to boost oil output when Strait of Hormuz reopens - Reuters
-- Amazon Takes Up to $200 Off M5 MacBook Air With New Record Low Prices - MacRumors
-- Apple debuts 50th anniversary exhibit at Apple Park with iconic products and photography - 9to5Mac
+- OPEC+ Plans Symbolic Oil Quota Hike Amid War, Delegates Say - Bloomberg.com
+- Amazon Takes Up to $200 Off M5 MacBook Air With New Record Low Prices - macrumors.com
+- Samsung will discontinue its Messages app in July and replace it with Google's - Engadget
