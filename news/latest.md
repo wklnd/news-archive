@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 19:30_
+_Updated: 2026-04-06 20:35_
 
-- Live Updates: Trump's threat to blow "everything up" if Iran won't make a deal hangs over new ceasefire bid - CBS News
-- U.S., Regional Mediators Push for 45-Day Cease-Fire With Iran - WSJ
-- Supreme Court paves way for Steve Bannon contempt case to be dismissed - NBC News
-- CNN will host a California gubernatorial primary debate on May 5 - CNN
+- Iran sends "maximalist" peace plan response as Trump deadline looms - Axios
+- Trump holds a press conference after profanity-laced post on Iran - NPR
+- US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon - Reuters
 - 'Take it easy tiger': Iran mocks Trump's threat - ynetnews
-- Trump to detail rescue mission as Iran rebuffs U.S. war demands - The Washington Post
-- Ahead of 2026 Midterms, Republicans Unveil a $342 Million Battle Plan to Keep the Senate - The New York Times
-- Sleepless Trump, 79, Launches Unhinged Truth Social Tirade After Deranged Easter Post - The Daily Beast
-- Voters in Georgia have moved on from Marjorie Taylor Greene. On Tuesday, they finally fill her seat - CNN
-- Newly Obtained Video of Minneapolis Shooting Undermines ICE Account - The New York Times
-- Iran war: Israel attacks Iran's South Pars gas field again - DW.com
+- She paid into Medicare for years. Trump's immigration policy will end her coverage - NPR
+- NASA Artemis 2 astronauts to make historic moon flyby today. Here's what to expect hour by hour (timeline) - Space
+- When War Crimes Rhetoric Becomes Battlefield Reality: The Slippery Slope to Total War on Iran - Just Security
+- Trump endorses Republican Steven Hilton for California governor, reordering wide-open race - AP News
+- Republican group to spend $45M to help Rogers win Michigan Senate race - The Detroit News
+- International Students Remade a College. What’s Left When They’re Gone? - The New York Times
 - Seoul spy agency says it’s fair to view teen daughter of North Korean leader Kim as his heir - AP News
-- New Revelations Reignite Crypto Scandal Involving Argentina’s President Milei - The New York Times
+- Kanye West was booked as a festival headliner. Brands are now pulling their sponsorship - CNN
+- Iran war: Israel attacks Iran's South Pars gas field again - DW.com
 - Russian attacks kill 4 as Ukraine drones target oil infrastructure - AP News
-- JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters
+- Jamie Dimon Warns Investors Over Risks From War and Threat of Rising Inflation - The New York Times
 - S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates - CNBC
 - New Jersey cannot regulate Kalshi's prediction market, US appeals court rules - Reuters
-- US stocks and oil prices flip-flop ahead of Trump’s deadline to bomb Iranian power plants - AP News
+- China stands to benefit most from the war-driven energy crisis - The Washington Post
 - Samsung is discontinuing its texting app, tells impacted users to switch to Google Messages - ABC News
 - You can now search through reviews on the Google Play Store - GSMArena.com news - GSMArena.com
