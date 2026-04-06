@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-06 15:57_
+_Updated: 2026-04-06 17:30_
 
-- Trump Issues New Ultimatum to Iran - Bloomberg.com
-- CIA deception campaign in Iran helped the spy agency uncover the location of the downed F-15 airman - Fortune
-- Live updates: Iran rejects temporary ceasefire, as Trump sets deadline for reopening Strait of Hormuz - CNN
-- Intelligence head of Iran's Revolutionary Guards killed in strike, media say - Reuters
-- She paid into Medicare for years. Trump's immigration policy will end her coverage - npr.org
+- Live Updates: Trump's threat to blow "everything up" if Iran won't make a deal hangs over new ceasefire bid - CBS News
+- Supreme Court clears the way for Bannon contempt case to be dismissed - NPR
+- Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says - Reuters
+- Trump to detail rescue mission as Iran rebuffs U.S. war demands - The Washington Post
+- She paid into Medicare for years. Trump's immigration policy will end her coverage - NPR
 - From Oman, a waterfront view of the embattled Strait of Hormuz - The Washington Post
-- Trump endorses Steve Hilton in California governor's race - Politico
+- U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears - cnbc.com
+- Trump endorses Steve Hilton in California governor's race - NBC News
 - Jim Jordan’s dream might not be deferred much longer - Politico
-- Mysterious pod of killer whales never seen before visits Seattle - CBS News
-- Panicked Trump, 79, Rages at Supreme Court in 1AM Meltdown - The Daily Beast
-- Iran accuses UN nuclear watchdog of inaction, warns of risk from attacks - Reuters
+- Donald Trump Attempts Damage Control After Wild Easter Sunday Post - The Daily Beast
+- Seoul spy agency says it’s fair to view teen daughter of North Korean leader Kim as his heir - AP News
 - American woman missing after husband reports she fell overboard during Bahamas trip - NBC News
-- 2 dead found in wreckage of Haifa building hit by missile; 2 more people still missing - The Times of Israel
-- Ukraine outshoots Russia in cross-border drone war for 1st time, March data suggests - abcnews.com
-- Jamie Dimon Cites Risks From War, Private Credit and More - The New York Times
-- S&P 500 is little changed as investors await possible Iran and U.S. ceasefire: Live updates - CNBC
-- Meta salary data reveals a VP of AI can make $650,000 in base salary - Business Insider
-- Emerging Market Stocks, Currencies Gain on Iran Ceasefire Report - Bloomberg.com
-- Samsung's Messages app is shutting down in 2026: Here's what you need to do - androidcentral.com
-- Dangerous "NoVoice" malware found in over 50 Play Store apps that were installed 2.3 million times - PhoneArena
+- Pope calls for peace, and Trump vows hell for Iran on Easter - Axios
+- Russian attacks kill 4 as Ukraine drones target oil infrastructure - AP News
+- JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters
+- S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates - cnbc.com
+- US stocks and oil prices flip-flop ahead of Trump’s deadline to bomb Iranian power plants - AP News
+- AP plans staff cuts, restructuring amid broader business shift - Axios
+- Samsung's Messages app is shutting down in 2026: Here's what you need to do - Android Central
+- The NASA Artemis 2.0 Smartwatch Runs Python And Lets Kids Code Their Own Wearable - Yanko Design
