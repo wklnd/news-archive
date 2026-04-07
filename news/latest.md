@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-07 14:41_
+_Updated: 2026-04-07 16:13_
 
-- Trump's tipping point: Destroy Iran's infrastructure or give talks a chance - Axios
+- Live Updates: Trump warns "a whole civilization will die tonight" as Iran asks civilians to shield power plants - CBS News
 - Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ - The New York Times
-- Trump threatens to jail reporters if they don’t turn over Iran source - The Washington Post
-- Former Australian soldier charged with committing 5 war crime murders in Afghanistan - AP News
-- Voters set to decide Wisconsin Supreme Court race and Georgia runoff for Marjorie Taylor Greene's seat - nbcnews.com
-- Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse - NPR
-- Liberals will try to expand their majority on the Wisconsin Supreme Court in a Tuesday election - CNN
-- How Trump’s Endorsement in California Could Backfire Against Republicans - The New York Times
-- ICE arrests newlywed wife of Army soldier at military base - ABC7 Los Angeles
-- Texas is changing its social studies curriculum. Critics say it's too state-centric - KUT
-- Three killed in shooting near Israeli consulate in Turkiye’s Istanbul - Al Jazeera
+- Trump Floats Seizing Iran Oil as He Weighs Chinese Leverage Play - Bloomberg.com
+- Vance arrives in Hungary hoping to boost Orbán’s election campaign - AP News
+- Voters set to decide Wisconsin Supreme Court race and Georgia runoff for Marjorie Taylor Greene's seat - NBC News
+- Australia Charges Ex-Soldier With War Crimes in Afghanistan - The New York Times
+- Wisconsin Supreme Court back on ballot after years-long fight for control - The Washington Post
+- DHS shutdown enters eighth week as Mike Johnson faces Republican revolt over funding deal – live - The Guardian
+- Wisconsin town revolts against a Trump-backed data center project - Politico
+- There’s a Third Political Party in Arizona. Just Don’t Call It ‘Independent.’ - The New York Times
 - Which Asian countries' ships are passing through the Strait of Hormuz? - BBC
+- Iran war: What is happening on day 39 of US-Israeli attacks? - Al Jazeera
+- Gunfight outside Israeli consulate in Istanbul leaves one attacker dead - Reuters
 - Exclusive: Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says - Reuters
-- Kim Jong-un’s Daughter Drives a Tank, and Succession Talk Accelerates - The New York Times
-- Oil Prices Jump as Trump’s Deadline for Deal Draws Near - The New York Times
-- Universal Music, home to Taylor Swift and Drake, receives €55bn takeover offer - The Guardian
-- Medicare Finalizes 2.48% Rate Hike for Insurers in 2027 - Bloomberg.com
-- Iran war upends spring housing market. Here's what real estate agents are seeing - cnbc.com
-- Report: Apple's foldable iPhone may be delayed due to engineering snags - Engadget
-- Moonshot on iPhone: Astronaut Reid Wiseman snaps unbelievable photo of the lunar surface - 9to5Mac
+- Stock Market Today: Oil Jumps, Dow Inches Lower After U.S. Raises the Temperature on Iran — Live Updates - WSJ
+- Bill Ackman’s Fund Offers to Buy Universal Music in $64 Billion Deal - The New York Times
+- Stocks nervy, oil above $110 as Trump's Iran deadline nears - Reuters
+- AI's impact on jobs: not all doom and gloom - Axios
+- A wide foldable iPhone dummy emerges amid rumors of a delay - The Verge
+- Artemis II astronaut puts all of our iPhone moon photos to shame - Engadget
