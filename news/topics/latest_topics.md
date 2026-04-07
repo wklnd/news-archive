@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-07 23:11_
+_Updated: 2026-04-08 00:04_
 
 ## Top Stories
 
-- Pakistans premiärminister: Skjut upp tidsfristen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Minst 45 fartyg genom Hormuz sedan i fredags - Dagens Nyheter
-- Dave orsakade sjösjuka i Karlatornet – svajade fyra decimeter - Sveriges Radio
-- Dubbla veton mot Hormuz-resolution - aftonbladet.se
+- Källa: ”Goda nyheter förväntas från båda sidor snart” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran: Vi kommer fortsätta attackera - Dagens Nyheter
+- Efter stormen – detta gäller för din försäkring - GP
 - Hotet mot Putin: Spridda drönarattacker på enorm yta • Luftförsvaret för svagt - Expressen
-- ”Kidnappning” i Borås var ”på skoj” - TV4 Nyheterna
-- DN Direkt – Ytterligare en person död efter trafikolycka - Dagens Nyheter
+- Joakim Medin: I JD Vances ögon är Orbán en av Europas viktigaste ledare - ETC.se
+- Ny superteknik hittade piloten - Expressen
 - Allt färre papperslösa söker vård: ”De är rädda” - Dagens Nyheter
-- Gripne svensken i Marocko pekas ut som ”uppdragsgivare” - Dagens Nyheter
 - DN Direkt – Nio års fängelse för mordförsök i Växjö - Dagens Nyheter
-- JD Vance: EU borde göra som Orbán - GP
-- Beirutbo efter Israels upptrappning: ”Vi har bara förlorat på Hizbollahs stöd till Iran” - Dagens Nyheter
+- Flicka och kvinna misshandlade i Borås - Expressen
+- Ung kvinna död efter svåra olyckan på väg 583 - soderhamnskuriren.se
 - Hon lär Ukrainas krigsveteraner att sova igen efter krigstrauman - Dagens Nyheter
+- Beirutbo efter Israels upptrappning: ”Vi har bara förlorat på Hizbollahs stöd till Iran” - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Flera kamerunier dödade i Rysslands krig - Dagens Nyheter
+- Redar (S): ”Vi har väldigt språksvag personal i välfärden” - Kvartal
 - Oväntat låg inflation i Sverige i mars - global.morningstar.com
 - Sam Altman ifrågasätts i ny granskning - Svenska Dagbladet
-- DN Direkt – Stockholmsbörsen vände ned efter Trumps hot - Dagens Nyheter
-- Polisen utreder arbetsmiljöbrott på SSAB – vågar inte undersöka marken - SVT Nyheter
+- Polisutredning om arbetsmiljöbrott på SSAB – vågar inte undersöka - Norran
+- Lägsta kaffepriset på ett halvår - DI
 - Astronauterna har nu rundat månen – i radiotystnad - omniekonomi.se
 - Bilder påstås visa designen för Sony Xperia 1 VIII - Swedroid
 
 ## World News
 
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - news.bitcoin.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
@@ -78,27 +78,27 @@ _Updated: 2026-04-07 23:11_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - Mynewsdesk
 
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
 - Vi presenterar ChatGPT Health - OpenAI
@@ -107,6 +107,7 @@ _Updated: 2026-04-07 23:11_
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -115,48 +116,47 @@ _Updated: 2026-04-07 23:11_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - uu.se
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Gården som sålde plogen – och förbättrade jorden - extrakt.se
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - ATL.nu
 - 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
