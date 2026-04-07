@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-07 21:36_
+_Updated: 2026-04-07 23:11_
 
 ## Top Stories
 
-- Trumps hot: Broar och kraftverk förstörs om Hormuzsundet inte öppnas - SVT Nyheter
-- Efter stormen – detta gäller för din försäkring - GP
-- Dubbla veton mot Hormuz-resolution - Aftonbladet
-- JD Vance: EU borde göra som Orbán - Västerbottens-Kuriren
-- Uppgifter: Khamenei vårdas i Qom – är medvetslös - Omni
-- Ryssland hotar tre länder med ”vedergällning” - Marcus Oscarsson
+- Pakistans premiärminister: Skjut upp tidsfristen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Minst 45 fartyg genom Hormuz sedan i fredags - Dagens Nyheter
+- Dave orsakade sjösjuka i Karlatornet – svajade fyra decimeter - Sveriges Radio
+- Dubbla veton mot Hormuz-resolution - aftonbladet.se
+- Hotet mot Putin: Spridda drönarattacker på enorm yta • Luftförsvaret för svagt - Expressen
+- ”Kidnappning” i Borås var ”på skoj” - TV4 Nyheterna
 - DN Direkt – Ytterligare en person död efter trafikolycka - Dagens Nyheter
-- ”Vistelseförbuden har gett större effekt än vi trodde” - Dagens Nyheter
 - Allt färre papperslösa söker vård: ”De är rädda” - Dagens Nyheter
-- ”Uppdragsgivare” i knarkhärva gripen i Marocko - Dagens Nyheter
-- Attack mot petrokemisk anläggning i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Gripne svensken i Marocko pekas ut som ”uppdragsgivare” - Dagens Nyheter
+- DN Direkt – Nio års fängelse för mordförsök i Växjö - Dagens Nyheter
+- JD Vance: EU borde göra som Orbán - GP
 - Beirutbo efter Israels upptrappning: ”Vi har bara förlorat på Hizbollahs stöd till Iran” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Pakistan anklagar Israel för att sabotera samtal - Dagens Nyheter
-- Skottlossning vid Israels konsulat i Istanbul - SVT Nyheter
-- Oväntat låg inflation i Sverige i mars - Morningstar Canada
-- IPO-året 2025: Dyra noteringar underpresterade - Affärsvärlden
-- Lägsta kaffepriset på ett halvår - DI
-- Totalstopp på SSAB – polisen utreder arbetsmiljöbrott - SVT Nyheter
-- Chappell Roans superhit väckte NASA-besättningen på Artemis 2 - GP
-- Smittan avtar i Värmland: ”Det värsta är bakom oss” - NWT
+- Hon lär Ukrainas krigsveteraner att sova igen efter krigstrauman - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Flera kamerunier dödade i Rysslands krig - Dagens Nyheter
+- Oväntat låg inflation i Sverige i mars - global.morningstar.com
+- Sam Altman ifrågasätts i ny granskning - Svenska Dagbladet
+- DN Direkt – Stockholmsbörsen vände ned efter Trumps hot - Dagens Nyheter
+- Polisen utreder arbetsmiljöbrott på SSAB – vågar inte undersöka marken - SVT Nyheter
+- Astronauterna har nu rundat månen – i radiotystnad - omniekonomi.se
+- Bilder påstås visa designen för Sony Xperia 1 VIII - Swedroid
 
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -39,14 +39,14 @@ _Updated: 2026-04-07 21:36_
 - New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Colliers International Named to IAOP® Global Outsourcing 100 List for 13th Consecutive Year - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - aftonbladet.se
 
 ## Technology
 
@@ -97,16 +97,16 @@ _Updated: 2026-04-07 21:36_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Nyteknik
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Vi presenterar ChatGPT Health - openai.com
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - uu.se
+- Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -122,8 +122,9 @@ _Updated: 2026-04-07 21:36_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sherry Nakhaeizadeh - uu.se
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
@@ -134,9 +135,8 @@ _Updated: 2026-04-07 21:36_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 
@@ -153,7 +153,7 @@ _Updated: 2026-04-07 21:36_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lediga jobb - ATL.nu
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
+- 5 fonder och ETF:er inom jordbruk att överväga - global.morningstar.com
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
