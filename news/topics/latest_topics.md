@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-07 11:44_
+_Updated: 2026-04-07 13:29_
 
 ## Top Stories
 
 - SVT:s korrespondenter: Kraftig risk för eskalering av kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Misstänkt farligt föremål vid Skeppsbron i Malmö – VMA utfärdat - Sydsvenskan
 - SMHI: Därför skickades ingen röd varning ut för stormen Dave - GP
-- Ytterligare en död efter olyckan i Söderhamn - Expressen
-- DN Direkt – Iranske exilprinsen kommer till Sverige - dn.se
-- Viktigt meddelande till allmänheten i Skeppsbron i Malmö, Skåne län - Krisinformation.se
-- Tågolycka i Frankrike – en död och flera skadade - SVT Nyheter
-- DN Direkt – Går vidare – slopar permanenta uppehållstillstånd - dn.se
-- Elever i vinstdrivande friskolor tjänar sämre som vuxna - dn.se
-- Fem till sjukhus efter masskrock - SVT Nyheter
-- Efter ovädret – nytt besked om tågen från Borås - Borås Tidning
-- Ukrainakriget: Barn dödade i drönarattacker - Corren
-- Ungersk säkerhetsexpert: Så försöker Ryssland säkra Orbáns valseger - dn.se
-- Par fick spöstraff – för sex utanför äktenskapet - Västerbottens-Kuriren
-- Hundra barn döda i utbrott av mässlingen - Aftonbladet
+- Busspendlare dödade i anfall i Ukraina - Västerbottens-Kuriren
+- Efter stormen Dave – brist på räkor i Bohuslän - Bohusläningen
+- DN Direkt – Iranske exilprinsen kommer till Sverige - Dagens Nyheter
+- DN Direkt – Ytterligare en person död efter trafikolycka - Dagens Nyheter
+- Utmönstring av permanent uppehållstillstånd och anpassning av svensk rätt till EU:s migrations- och asylpakt - Regeringen.se
+- Efter stormen - flera tågsträckor påverkas - Sveriges Radio
+- Krossade gymkedjans kortläsare som hämnd – nu döms han - Dagens Nyheter
+- DN Direkt – JD Vance i Budapest – ska kampanja för Orbán - Dagens Nyheter
+- Orbán till Putin: Jag står till ert förfogande - Svenska Dagbladet
+- Dödliga skott vid Israels konsulat i Istanbul - Hufvudstadsbladet
+- Snabbtåg i dödlig krock i Frankrike - GP
 - Oväntat låg inflation i Sverige i mars - Morningstar Canada
 - Ingen påverkan av kriget i Mellanöstern på bostadspriserna – än! - svenskbyggtidning -
 - Streamingjätten kan få betala dyrt – efter olagliga prishöjningar - Breakit
-- Norske privatbankiren: "Om du har utrymme, köp mer" - Affärsvärlden
+- Banken: Spela defensivt – tio utdelningsaktier att satsa på när det blåser - Börskollen
 - Astronauterna har nu rundat månen – i radiotystnad - Omni Ekonomi
 - Prisbot utmanar Prisjakt med en ny prisjämförelsetjänst - Teknikveckan
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews.se
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Seminar series: Global Lectures - Utrikespolitiska institutet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global turism slog nytt rekord under 2025 - travelnews.se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Resepriserna i Europa stiger trots global nedgång - travelnews.se
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -97,45 +97,45 @@ _Updated: 2026-04-07 11:44_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - openai.com
+- Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Vi presenterar ChatGPT Health - openai.com
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGM J4 logga 16_9.jpg - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - theaftd.org
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- AI och data science - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
@@ -149,10 +149,10 @@ _Updated: 2026-04-07 11:44_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Lediga jobb - ATL Nyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
