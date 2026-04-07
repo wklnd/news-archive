@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-07 05:40_
+_Updated: 2026-04-07 07:29_
 
-- Live updates: Trump says ‘entire country’ of Iran could be taken out if no deal is reached by tomorrow - CNN
-- U.S. launched "air armada" to rescue F-15 crew in Iran - Axios
-- Donald Trump says US could destroy Iran ‘in one night’ as he demands opening of Strait of Hormuz - Financial Times
+- Live updates: Trump says ‘entire country’ of Iran could be taken out if no deal is reached by tomorrow - cnn.com
+- Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ - The New York Times
+- Trump, 79, Launches Rambling Attack on Biden to Confused Kids - The Daily Beast
 - NYC Families Need Over $125,000 in Income to Live in Any Borough - Bloomberg.com
-- Photos of Trump's Monday, talking Iran at Easter Egg Roll and mimicking a sniper in the press room - AP News
-- Could the 25th Amendment be invoked against Trump? Here's how it works - PBS
-- President Trump endorses Steve Hilton in the California governor’s race - Los Angeles Times
-- Supreme Court sides with Steve Bannon in bid to dismiss Jan. 6 conviction - The Washington Post
-- Minneapolis releases video that undermines ICE claims about non-fatal shooting - MPR News
-- Home of Indianapolis city councilor shot at over his support of datacenters - The Guardian
 - Which Asian countries' ships are passing through the Strait of Hormuz? - BBC
-- Photos of Kim Jong Un’s teen daughter driving a tank spark heir talk - USA Today
-- Vietnam's top leader To Lam consolidates power, gets China-style mandate - Reuters
 - Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say - BBC
+- How to watch the NCAA National Championship game without cable - SFGATE
+- Trump endorses Republican Steven Hilton for California governor, reordering wide-open race - AP News
+- Minneapolis releases video that undermines ICE claims about non-fatal shooting - MPR News
+- Taiwan opposition chief leaves for China 'peace' mission, minister details warship deployments - Reuters
+- Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants - The New York Times
+- Australia's most-decorated soldier arrested over alleged war crimes, local media say - BBC
+- Vietnam's top leader To Lam consolidates power, gets China-style mandate - Reuters
+- North Korea: Kim's daughter now seen as likely heir — South - DW.com
 - UnitedHealth, Humana, Health Insurers Jump On Higher Medicare Advantage Payments - Investor's Business Daily
 - Exclusive: SpaceX lays out IPO details, targets early June roadshow, sources say - Reuters
-- OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek - TechCrunch
-- OpenAI, Anthropic, Google Unite to Combat Model Copying in China - Bloomberg.com
+- Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war - CNBC
+- Jamie Dimon Warns Investors Over Risks From War and Threat of Rising Inflation - The New York Times
 - Google quietly launched an AI dictation app that works offline - TechCrunch
-- Apple showcases apps using Liquid Glass in new developer gallery - 9to5Mac
+- Walmart’s new Chromecast with Google TV replacement starts showing up in stores, $30 - 9to5Google
