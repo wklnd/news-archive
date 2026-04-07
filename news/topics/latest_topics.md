@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-07 16:08_
+_Updated: 2026-04-07 17:55_
 
 ## Top Stories
 
-- Trumps senaste hot: ”Hel civilisation kommer att dö” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SJ: Oklart om resenärer får ersättning efter stormen "Dave" - GP
-- Misstänkt kidnappning i Borås: ”Pågår arbete just nu” - TV4 Nyheterna
-- Misstänkt föremål var handgranat - Västerbottens-Kuriren
+- Israel bekräftar: bombat järnvägar i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Efter stormen – detta gäller för din försäkring - GP
+- Just nu: Stillastående personbil ger ett körfält blockerat på E6 - Hallands Nyheter
+- Misstänkt föremål var handgranat - Folkbladet
 - Ytterligare en död efter olycka i Söderhamn på påskaftonen - Sveriges Radio
-- Orbáns löfte – orden till Putin - expressen.se
+- Uppgifter: Irans högste ledare skadad i dödlig attack - expressen.se
 - Utredning lyfter ofrivillig barnlöshet kopplat till Sveriges låga födelsetal - Regeringen.se
-- Fem till sjukhus efter masskrock - SVT Nyheter
-- Larmet: Inga färska räkor i Göteborg - GP
-- Nio års fängelse för mordförsök i Växjö - GP
-- DN Direkt – JD Vance i Budapest – ska kampanja för Orbán - dn.se
+- Planet försökte landa två gånger – skickades till Oslo - Dagens Nyheter
+- Knivhögg sin vän i halsen – döms till nio års fängelse - SVT Nyheter
+- Bistånd till Somalia ska minska invandring - Västerbottens-Kuriren
+- JD Vance anklagar EU för ”skamlös” inblandning i ungerska valet - Dagens Nyheter
 - Skjutning vid Israels konsulat i Istanbul - GP
-- Ukraina och Bulgarien i avtal om drönare och vapen - Sveriges Radio
-- Netanyahu vädjar till Trump att fortsätta kriget - dn.se
-- Oväntat låg inflation i Sverige i mars - Morningstar Canada
-- Lägsta kaffepriset på ett halvår - di.se
+- Direkt – Krisen i Mellanöstern – FN:s säkerhetsråd röstar om Hormuz-resolution - Dagens Nyheter
+- Irantoppen: ”Ny fas i kriget” - aftonbladet.se
+- Oväntat låg inflation trots osäkerhet i världsekonomin - Sveriges Radio
 - Wallenberg tar plats i Zelenskyj-råd - aftonbladet.se
 - Skatteåterbäring på väg – detta köper proffsen nu - EFN
-- Första fotot från månens baksida publicerat - omni.se
+- AI kräver en medborgarlön - tidningensyre.se
+- Chappell Roans superhit väckte NASA-besättningen på Artemis 2 - GP
 - Prisbot utmanar Prisjakt med en ny prisjämförelsetjänst - Teknikveckan
 
 ## World News
@@ -36,9 +36,9 @@ _Updated: 2026-04-07 16:08_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
-- BBC fyller 100 år – äldsta public service i världen - omni.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Seminar series: Global Lectures - ui.se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
 - Global turism slog nytt rekord under 2025 - travelnews.se
 - Colliers International Named to IAOP® Global Outsourcing 100 List for 13th Consecutive Year - Via TT
@@ -53,9 +53,9 @@ _Updated: 2026-04-07 16:08_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - mynewsdesk.com
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Storbritannien trappar upp kampen mot deepfake - omni.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - dagensps.se
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -87,10 +87,9 @@ _Updated: 2026-04-07 16:08_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - mynewsdesk.com
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - mynewsdesk.com
 - Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - mynewsdesk.com
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - mynewsdesk.com
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - mynewsdesk.com
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - mynewsdesk.com
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - mynewsdesk.com
 - Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - mynewsdesk.com
 - Olof Stenhammar och Melker Andersson i ny rap för entreprenörer i Sverige - mynewsdesk.com
 
@@ -98,24 +97,24 @@ _Updated: 2026-04-07 16:08_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - lakartidningen.se
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - mynewsdesk.com
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Vi presenterar HealthBench - openai.com
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - mynewsdesk.com
+- Vi presenterar ChatGPT Health - openai.com
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - lakartidningen.se
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - mynewsdesk.com
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - mynewsdesk.com
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - mynewsdesk.com
 - GoCo Health Innovation City dubblar markyta och investering - mynewsdesk.com
 - CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - mynewsdesk.com
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - mynewsdesk.com
 
 ## Science
 
@@ -123,12 +122,12 @@ _Updated: 2026-04-07 16:08_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - dn.se
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - lakartidningen.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Horizon Europe funds Gustav Nilsonne for new open science project - ki.se
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - lakartidningen.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
