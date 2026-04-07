@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-07 11:50_
+_Updated: 2026-04-07 13:36_
 
 - Trump's tipping point: Destroy Iran's infrastructure or give talks a chance - Axios
 - Risky rescue of US crew downed in Iran relied on dozens of aircraft and subterfuge, Trump says - AP News
-- Under airstrikes, Iran defiant on eve of Trump's ceasefire deadline - Reuters
 - At White House Easter Egg Roll, Trump tells the children about the war - The Washington Post
-- What to expect in Georgia's special congressional runoff to replace Marjorie Taylor Greene - PBS
-- Artemis 2 astronauts fly around the moon in record-breaking lunar loop by NASA - Space
-- President Trump endorses Steve Hilton in the California governor’s race - latimes.com
-- Could the 25th Amendment be invoked against Trump? Here's how it works - PBS
-- Ryan Jennings, beloved coach and father from Maine, drowns saving children from rip current off Juno Beach, Florida - ABC7 Los Angeles
-- Minneapolis releases video that undermines ICE claims about non-fatal shooting - MPR News
+- Australia Charges Ex-Soldier With War Crimes in Afghanistan - nytimes.com
+- Artemis II astronauts swung by the moon, broke an Apollo record, and saw an eclipse - NPR
+- Voters set to decide Wisconsin Supreme Court race and Georgia runoff for Marjorie Taylor Greene's seat - nbcnews.com
+- How Trump’s Endorsement in California Could Backfire Against Republicans - nytimes.com
+- ‘Vile on every level’: Tucker Carlson rips Donald Trump over Easter Sunday ‘f-word’ post - Politico
+- A ragtag Wisconsin group is leading America’s first anti-data center referendum - Politico
+- New video contradicts ICE's original story about North Minneapolis shooting - Axios
+- Which Asian countries' ships are passing through the Strait of Hormuz? - BBC
 - Kim Jong Un Praises South Korea’s Lee for Apology on Drones - Bloomberg.com
-- Hungary’s Orbán has long annoyed the European Union. Now some hope he faces defeat - The Times of Israel
-- Former Australian soldier charged with committing 5 war crime murders in Afghanistan - AP News
-- Vance in Budapest: Viktor Orbán’s last throw of the MAGA dice - politico.eu
+- Why Hungary’s Election Could Swing on Roma Votes - nytimes.com
+- Iran calls for human chains to protect power plants as Trump’s deadline nears - AP News
 - Oil Prices Jump as Trump’s Deadline for Deal Draws Near - nytimes.com
-- Medicare Finalizes 2.48% Rate Hike for Insurers in 2027 - Bloomberg.com
-- Bill Ackman’s Pershing Square offers €55bn to buy Universal Music Group - Financial Times
-- Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war - cnbc.com
-- Google Pixel 10a finally launches in Japan with exclusive ‘Isai Blue’ color [Video] - 9to5Google
-- Apple's foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports - Reuters
+- Pershing Square Announces Proposal to Universal Music Group N.V. - Business Wire
+- Iran war upends spring housing market. Here's what real estate agents are seeing - CNBC
+- Beer cans, helium balloons and mortgages: An unexpected mix of things affected by the war - NPR
+- Moonshot on iPhone: Astronaut Reid Wiseman snaps unbelievable photo of the lunar surface - 9to5Mac
+- Report: Apple's foldable iPhone may be delayed due to engineering snags - Engadget
