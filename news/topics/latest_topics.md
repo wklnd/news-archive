@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-07 13:29_
+_Updated: 2026-04-07 14:07_
 
 ## Top Stories
 
 - SVT:s korrespondenter: Kraftig risk för eskalering av kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Misstänkt farligt föremål vid Skeppsbron i Malmö – VMA utfärdat - Sydsvenskan
-- SMHI: Därför skickades ingen röd varning ut för stormen Dave - GP
-- Busspendlare dödade i anfall i Ukraina - Västerbottens-Kuriren
-- Efter stormen Dave – brist på räkor i Bohuslän - Bohusläningen
-- DN Direkt – Iranske exilprinsen kommer till Sverige - Dagens Nyheter
-- DN Direkt – Ytterligare en person död efter trafikolycka - Dagens Nyheter
+- Ytterligare en död efter olyckan i Söderhamn - expressen.se
+- DN Direkt – E.ON: Förbättrat läge efter stormen Dave – fortsatt intensivt arbete i fält - Dagens Nyheter
+- Busspendlare dödade i anfall i Ukraina - GP
+- Skeppsbron i Malmö öppen igen – handgranaten bortförd - Sydsvenskan
+- Orbán till Putin: Jag står till din tjänst - Västerbottens-Kuriren
+- Larmet: Inga färska räkor i Göteborg - GP
+- DN Direkt – Varnar för rabiesrisk vid hundköp – valpar förs in i landet med falska intyg - Dagens Nyheter
 - Utmönstring av permanent uppehållstillstånd och anpassning av svensk rätt till EU:s migrations- och asylpakt - Regeringen.se
-- Efter stormen - flera tågsträckor påverkas - Sveriges Radio
-- Krossade gymkedjans kortläsare som hämnd – nu döms han - Dagens Nyheter
+- Tågstopp på Kinnekullebanan - Sveriges Radio
 - DN Direkt – JD Vance i Budapest – ska kampanja för Orbán - Dagens Nyheter
-- Orbán till Putin: Jag står till ert förfogande - Svenska Dagbladet
-- Dödliga skott vid Israels konsulat i Istanbul - Hufvudstadsbladet
-- Snabbtåg i dödlig krock i Frankrike - GP
+- Ukraina och Bulgarien i avtal om drönare och vapen - Sveriges Radio
+- Israel: Attackerat regimmål i Iran - GP
+- Skottlossning vid Israels konsulat i Istanbul - SVT Nyheter
 - Oväntat låg inflation i Sverige i mars - Morningstar Canada
-- Ingen påverkan av kriget i Mellanöstern på bostadspriserna – än! - svenskbyggtidning -
 - Streamingjätten kan få betala dyrt – efter olagliga prishöjningar - Breakit
+- Lägsta kaffepriset på ett halvår - DI
 - Banken: Spela defensivt – tio utdelningsaktier att satsa på när det blåser - Börskollen
-- Astronauterna har nu rundat månen – i radiotystnad - Omni Ekonomi
+- Här är de första bilderna från iPhone 17 Pro Max skickade från Artemis II-uppdraget - TechRadar
 - Prisbot utmanar Prisjakt med en ny prisjämförelsetjänst - Teknikveckan
 
 ## World News
@@ -75,7 +75,7 @@ _Updated: 2026-04-07 13:29_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -98,19 +98,19 @@ _Updated: 2026-04-07 13:29_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-04-07 13:29_
 
 ## Jordbruk
 
-- Effekten av Conservation Agriculture - lansstyrelsen.se
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk - European Commission
+- Framtidens jordbruk - commission.europa.eu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk och landsbygdsutveckling - commission.europa.eu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - ATL Nyheter
 - 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
