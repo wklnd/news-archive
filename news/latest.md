@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-07 07:29_
+_Updated: 2026-04-07 08:58_
 
-- Live updates: Trump says ‘entire country’ of Iran could be taken out if no deal is reached by tomorrow - cnn.com
+- Trump threatens new rampage as Iran deal deadline nears - The Washington Post
 - Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ - The New York Times
-- Trump, 79, Launches Rambling Attack on Biden to Confused Kids - The Daily Beast
-- NYC Families Need Over $125,000 in Income to Live in Any Borough - Bloomberg.com
-- Which Asian countries' ships are passing through the Strait of Hormuz? - BBC
-- Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say - BBC
+- Iran defiant on eve of Trump's ceasefire deadline - Reuters
+- Between Easter Eggs and Bunny Hops, Trump Talks of War and Autopens - The New York Times
+- In maps and photos: Five Iranian civilian bridges at risk of US strikes - Al Jazeera
+- NYC Families Need Over $125,000 in Income to Live in Any Borough - bloomberg.com
 - How to watch the NCAA National Championship game without cable - SFGATE
-- Trump endorses Republican Steven Hilton for California governor, reordering wide-open race - AP News
+- President Trump endorses Steve Hilton in the California governor’s race - Los Angeles Times
 - Minneapolis releases video that undermines ICE claims about non-fatal shooting - MPR News
-- Taiwan opposition chief leaves for China 'peace' mission, minister details warship deployments - Reuters
-- Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants - The New York Times
+- Ryan Jennings, beloved coach and father from Maine, drowns saving children from rip current off Juno Beach, Florida - ABC7 Los Angeles
 - Australia's most-decorated soldier arrested over alleged war crimes, local media say - BBC
 - Vietnam's top leader To Lam consolidates power, gets China-style mandate - Reuters
 - North Korea: Kim's daughter now seen as likely heir — South - DW.com
-- UnitedHealth, Humana, Health Insurers Jump On Higher Medicare Advantage Payments - Investor's Business Daily
-- Exclusive: SpaceX lays out IPO details, targets early June roadshow, sources say - Reuters
-- Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war - CNBC
+- The South Pars natural gas complex is an energy lifeline for Iran - AP News
+- Stocks stumble, oil above $110 as Trump's Iran deadline nears - Reuters
+- UnitedHealth, Humana Among Stocks Getting a Boost From Medicare Decision - WSJ
 - Jamie Dimon Warns Investors Over Risks From War and Threat of Rising Inflation - The New York Times
+- Asia-Pacific markets trade mixed as investors assess Trump's hardened rhetoric on Iran war - cnbc.com
+- Apple Continues Promoting iOS 26 and macOS 26 Liquid Glass With Updated Design Gallery - MacRumors
 - Google quietly launched an AI dictation app that works offline - TechCrunch
-- Walmart’s new Chromecast with Google TV replacement starts showing up in stores, $30 - 9to5Google
