@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 00:07_
+_Updated: 2026-04-09 01:08_
 
 ## Top Stories
 
 - Trump: Vapenvilan berör inte Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet
 - Leif GW förvånad över gripandet i Brattåsmorden - Expressen
-- Motstridiga uppgifter kring Hormuzsundet - GP
-- Trump träffar Nato-chefen – med hot att dra sig ur - Västerbottens-Kuriren
-- Villa i Matfors övertänd – två till sjukhus - SVT Nyheter
+- Trump träffar Nato-chefen – med hot att dra sig ur - GP
+- Netanyahu: Vapenvilan innebär inte slutet på kriget - Omni
+- DN Direkt – Isak i comeback när Liverpool föll - Dagens Nyheter
 - Efter stormen – detta gäller för din försäkring - NLT
 - DN Direkt – Många väntar för länge på operation - Dagens Nyheter
 - Utredning om förgiftning på Akademiska sjukhuset läggs ner - GP
 - "Regeringen och Sverigedemokraterna sänker priset för resor till Gotland" - Regeringen.se
-- Direkt – Krisen i Mellanöstern – Robotar och drönare mot Qatar - Dagens Nyheter
-- Arkitekt erkänner mord på åtta kvinnor - aftonbladet.se
-- Expert: Trump har förvandlat politiken till en sorts reality-tv - Dagens Nyheter
 - Irans nye ledare Mojtaba Khamenei ”spelade nyckelroll” i spelet om vapenvilan - Dagens Nyheter
+- Arkitekt erkänner mord på åtta kvinnor - Aftonbladet
+- Dokument om Ukrainas EU-ansökan delades med Kreml - GP
+- Expert: Trump har förvandlat politiken till en sorts reality-tv - Dagens Nyheter
 - Oljepriset föll men det kan dröja innan bensinpriset sjunker vid pumpen - Yle
 - ”Allt blir bara dyrare” – tänk så fel vi alla har om matpriserna - Sydsvenskan
 - Kryptograf pekas ut som Bitcoins grundare - Svenska Dagbladet
@@ -28,10 +28,10 @@ _Updated: 2026-04-09 00:07_
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - omoss.svt.se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -39,14 +39,14 @@ _Updated: 2026-04-09 00:07_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Seminar series: Global Lectures - Utrikespolitiska institutet
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - aftonbladet.se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - aftonbladet.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -107,37 +107,37 @@ _Updated: 2026-04-09 00:07_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - AI och data science - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Vi gratulerar Francesca Castoldi på BioNut - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
