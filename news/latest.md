@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-08 19:44_
+_Updated: 2026-04-08 20:51_
 
+- Halt in strikes mostly holds after Trump, Iran agree to 2-week ceasefire - The Washington Post
 - Gilgo Beach serial killer suspect Rex Heuermann pleads guilty - The Guardian
-- A fragile U.S.-Iran ceasefire shows cracks as attacks continue across the region - NPR
-- Warnings for the G.O.P.: 3 Takeaways From the Elections in Georgia and Wisconsin - The New York Times
+- Iran demands crypto fees for ships passing Hormuz during ceasefire - Financial Times
+- ‘A wow moment’: Democrats’ election hot streak goes scorching - Politico
 - Israel carries out large wave of air strikes across Lebanon - BBC
-- Hegseth declares victory in Iran but says US forces will remain in region - Politico
+- After 5 Weeks of War, a Look at What Trump Has Accomplished in Iran - The New York Times
+- US military says it's ready to resume Iran fighting if diplomacy fails - Reuters
+- Human remains identified as pair who vanished after Oklahoma car chase 13 years ago - CBS News
 - Chris Taylor wins Wisconsin Supreme Court race, expanding liberals' majority - NBC News
-- Middle East crisis live: Trump says Lebanon is ‘separate skirmish’ to Iran as Israel launches massive strikes on country - The Guardian
-- Epstein files: Ex-AG Pam Bondi’s April 14 testimony before House Oversight to be rescheduled - CNBC
-- Washington’s most powerful drug industry lobbyist is stepping down - The Washington Post
-- JD Vance claims US is not interfering in Hungary election - The Guardian
+- After pager attack on Hezbollah, Hungary offered help to Iran - The Washington Post
 - How the Journal Covered Trump’s 12-Hour Iran ‘Civilization’ Countdown - WSJ
 - Empty ships and shut wells: Why the Iran war oil crisis is not over yet - Al Jazeera
+- North Korea launches a second projectile in 2 days, Seoul says - Politico
 - China Pressed Iran Toward Cease-fire, Iranian Officials Say - The New York Times
-- Iran ceasefire clouded by confusion, contradictions - Axios
-- Delta Expects Strong Profit Despite Higher Fuel Costs - The New York Times
+- Jeff Shell Exiting as President of Paramount - hollywoodreporter.com
+- NYT investigation suggests Adam Back may be Satoshi Nakamoto; he denies the claim - The Block
 - Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch - Investor's Business Daily
-- The New York Times Claims It Finally Unmasked Satoshi Nakamoto (This Time for Real) - Gizmodo
-- The U.S. housing markets where million-dollar listings are standard - CNBC
-- Starting in May, pre-2013 Kindles won't be able to buy or download new books - Ars Technica
-- Google’s April 2026 Pixel update tackles some annoying bugs - Android Police
+- Meta debuts Muse Spark, first AI model under Alexandr Wang - Axios
+- Amazon Pulls Support for Perfectly Fine Older Kindles - WIRED
+- Bicycle bell designed to defeat noise-cancelling headphones - Boing Boing
