@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-08 16:15_
+_Updated: 2026-04-08 18:02_
 
-- U.S., Iran agree to 2-week ceasefire. And, Trump-backed Clay Fuller wins House race - NPR
-- Hegseth declares victory in Iran but says US forces will remain in region - Politico
-- Warnings for the G.O.P.: 3 Takeaways From the Elections in Georgia and Wisconsin - The New York Times
-- Netanyahu backs Iran truce; opposition blames him for worst-ever ‘diplomatic disaster’ - The Times of Israel
-- China Pressed Iran Toward Cease-fire, Iranian Officials Say - The New York Times
+- The U.S. and Iran agree to a 2-week ceasefire - NPR
+- Pete Hegseth says "we'll be hanging around" after Iran ceasefire announcement - CBS News
+- Live updates: Hearing for suspected Gilgo Beach killer Rex Heuermann set to begin - bbc.com
+- Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates - The New York Times
+- After pager attack on Hezbollah, Hungary offered help to Iran - The Washington Post
+- NATO chief heads to Washington as Trump 2.0 flames the alliance - Axios
+- Epstein files: Ex-AG Pam Bondi’s April 14 testimony before House Oversight to be rescheduled - CNBC
+- Cease-Fire Leaves Questions Over Fate of Iran’s Uranium - The New York Times
+- Iran demands crypto fees for ships passing Hormuz during ceasefire - Financial Times
+- Universities of Wisconsin board votes to fire system president after he refused to quit - Channel 3000
 - How the Journal Covered Trump’s 12-Hour Iran ‘Civilization’ Countdown - WSJ
-- Gilgo Beach serial killer suspect Rex Heuermann expected to plead guilty - CBS News
-- Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran' - CNBC
-- Universities of Wisconsin board votes to fire system president after he refused to quit - channel3000.com
-- Man in critical condition after ICE shooting incident in California - The Washington Post
-- Saudi Arabia’s Crucial East-West Pipeline Hit by Drone Attack - Bloomberg.com
-- Germany accuses JD Vance of hypocrisy over claim that EU meddled in Hungary’s election - politico.eu
-- North Korea fires missiles toward sea after ridiculing South’s hopes for better ties - AP News
-- Live updates: Attacks reported in Iran and Gulf Arab nations hours after ceasefire announcement - AP News
-- Stock Market Today: Dow Futures Soar, Oil Plunges After U.S., Iran Walk Back From the Brink — Live Updates - WSJ
-- Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems - The Hacker News
+- Large-scale oil shipping won't start again quickly after Iran ceasefire - Axios
+- Saudi Arabia’s key east-west oil pipeline hit as Middle East energy attacks continue - Financial Times
+- Israel carries out large wave of air strikes across Lebanon - yahoo.com
+- Stock Market Today: Dow Jumps More Than 1000 Points After U.S., Iran Walk Back From the Brink - WSJ
+- Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch - Investor's Business Daily
 - Delta Expects Strong Profit Despite Higher Fuel Costs - The New York Times
-- The New York Times says it’s identified Satoshi, the inventor of bitcoin - marketwatch.com
-- Apple’s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes
-- Amazon is cutting off support for older Kindles - Engadget
+- Jeff Shell Out As Paramount President - deadline.com
+- Google’s April 2026 Pixel update tackles some annoying bugs - Android Police
+- Apple very cautious about iPhone Ultra sales, as Samsung wins major concession - 9to5Mac
