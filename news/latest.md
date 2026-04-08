@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-08 03:02_
+_Updated: 2026-04-08 06:21_
 
-- Live Updates: Trump announces 2-week ceasefire in Iran war, contingent on Iran reopening Strait of Hormuz - CBS News
+- Live Updates: U.S. and Iran strike ceasefire, launching 2-week diplomatic push and delaying Trump's threat of large-scale attack - CBS News
 - Republican Clay Fuller wins special election to replace Marjorie Taylor Greene - Politico
-- Pope says Trump’s threat to destroy Iranian civilization is ‘truly unacceptable’ - AP News
-- Trump Calls Off Iran Bombing For Two Weeks After Dark Threat - Forbes
-- Trump agrees to suspend attacks for ‘two weeks’ if Iran opens Strait of Hormuz - The Washington Post
+- GOP dissenters emerge on Trump's threat against Iranian "civilization" - Axios
+- When a president is unfit for office, here’s what the Constitution says can happen - The Conversation
+- Telehealth abortion will remain available for now, after a federal judge's ruling - NPR
+- Chris Taylor, a Liberal Judge, Wins Race for Wisconsin Supreme Court - The New York Times
+- Leader of University of Wisconsin System Is Fired by the Board - The New York Times
+- ICE agents shoot man in car in northern California - theguardian.com
+- Netanyahu says US-Iran ceasefire ‘does not include Lebanon’ - Al Jazeera
+- Pakistan proposes 2-week Iran ceasefire ahead of Trump deadline - Axios
 - Trump stumps for Viktor Orbán in phone call during Vance’s rally - Politico
-- Wisconsin Supreme Court election results 2026: Live updates - The Washington Post
-- ICE Agents Shoot Into a Car, Injuring a Suspect in Northern California - The New York Times
-- US soldier’s wife released after arrest by ICE agents at military base - The Guardian
-- Texas Considers Required Reading List for Schools, Which Includes the Bible - The New York Times
-- U.K. issues Ye travel ban over antisemitism, leading to festival cancellation - NPR
-- China, Russia veto scaled-back Hormuz resolution at UN Security Council - Al-Monitor
-- Decorated Australian Veteran Charged With Afghanistan War Crimes - WSJ
-- Iranians begin forming human chains around power plants ahead of Trump’s deadline, social media videos show - Fortune
-- Dow futures jump 900 points, oil tumbles after Trump suspends Iran attacks for two weeks: Live updates - CNBC
-- Delta joins the growing list of US airlines raising checked bag fees as jet fuel costs soar - AP News
-- Bill Ackman’s Fund Offers to Buy Universal Music in $64 Billion Deal - The New York Times
-- Gas prices could soon breach $5 a gallon if Strait of Hormuz remains shut, J.P. Morgan analysts say - CBS News
-- Apple’s Foldable iPhone Remains on Track for September Debut (AAPL) - Bloomberg.com
+- Russia and China veto watered-down UN resolution aimed at reopening the Strait of Hormuz - PBS
+- Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump - The New York Times
+- Oil prices plunge following U.S.-Iran ceasefire - Axios
+- Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative - TechCrunch
+- Gas Prices Are Americans’ Top Concern in Iran War - Pew Research Center
+- Delta hikes checked baggage fees to $45 and up - Star Tribune
 - Gemini overlay and Gemini Live start rolling out big Android redesign [Gallery] - 9to5Google
+- 4 '80s Inspired Retro Gadgets You Can Find On Amazon - bgr.com
+- Asus Zenbook A16 Laptop Review - X2 Elite Extreme & 48 GB RAM for $1599 - Notebookcheck
