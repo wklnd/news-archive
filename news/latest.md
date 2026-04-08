@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-08 18:02_
+_Updated: 2026-04-08 19:44_
 
-- The U.S. and Iran agree to a 2-week ceasefire - NPR
-- Pete Hegseth says "we'll be hanging around" after Iran ceasefire announcement - CBS News
-- Live updates: Hearing for suspected Gilgo Beach killer Rex Heuermann set to begin - bbc.com
-- Georgia, Wisconsin Elections Show Declining Appetite for Republican Candidates - The New York Times
-- After pager attack on Hezbollah, Hungary offered help to Iran - The Washington Post
-- NATO chief heads to Washington as Trump 2.0 flames the alliance - Axios
+- Gilgo Beach serial killer suspect Rex Heuermann pleads guilty - The Guardian
+- A fragile U.S.-Iran ceasefire shows cracks as attacks continue across the region - NPR
+- Warnings for the G.O.P.: 3 Takeaways From the Elections in Georgia and Wisconsin - The New York Times
+- Israel carries out large wave of air strikes across Lebanon - BBC
+- Hegseth declares victory in Iran but says US forces will remain in region - Politico
+- Chris Taylor wins Wisconsin Supreme Court race, expanding liberals' majority - NBC News
+- Middle East crisis live: Trump says Lebanon is ‘separate skirmish’ to Iran as Israel launches massive strikes on country - The Guardian
 - Epstein files: Ex-AG Pam Bondi’s April 14 testimony before House Oversight to be rescheduled - CNBC
-- Cease-Fire Leaves Questions Over Fate of Iran’s Uranium - The New York Times
-- Iran demands crypto fees for ships passing Hormuz during ceasefire - Financial Times
-- Universities of Wisconsin board votes to fire system president after he refused to quit - Channel 3000
+- Washington’s most powerful drug industry lobbyist is stepping down - The Washington Post
+- JD Vance claims US is not interfering in Hungary election - The Guardian
 - How the Journal Covered Trump’s 12-Hour Iran ‘Civilization’ Countdown - WSJ
-- Large-scale oil shipping won't start again quickly after Iran ceasefire - Axios
-- Saudi Arabia’s key east-west oil pipeline hit as Middle East energy attacks continue - Financial Times
-- Israel carries out large wave of air strikes across Lebanon - yahoo.com
-- Stock Market Today: Dow Jumps More Than 1000 Points After U.S., Iran Walk Back From the Brink - WSJ
-- Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch - Investor's Business Daily
+- Empty ships and shut wells: Why the Iran war oil crisis is not over yet - Al Jazeera
+- China Pressed Iran Toward Cease-fire, Iranian Officials Say - The New York Times
+- Iran ceasefire clouded by confusion, contradictions - Axios
 - Delta Expects Strong Profit Despite Higher Fuel Costs - The New York Times
-- Jeff Shell Out As Paramount President - deadline.com
+- Cybersecurity Stocks Climb Amid Anthropic's Project Glasswing Launch - Investor's Business Daily
+- The New York Times Claims It Finally Unmasked Satoshi Nakamoto (This Time for Real) - Gizmodo
+- The U.S. housing markets where million-dollar listings are standard - CNBC
+- Starting in May, pre-2013 Kindles won't be able to buy or download new books - Ars Technica
 - Google’s April 2026 Pixel update tackles some annoying bugs - Android Police
-- Apple very cautious about iPhone Ultra sales, as Samsung wins major concession - 9to5Mac
