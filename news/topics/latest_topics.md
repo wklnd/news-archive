@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 01:08_
+_Updated: 2026-04-09 01:59_
 
 ## Top Stories
 
 - Trump: Vapenvilan berör inte Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet
-- Leif GW förvånad över gripandet i Brattåsmorden - Expressen
-- Trump träffar Nato-chefen – med hot att dra sig ur - GP
-- Netanyahu: Vapenvilan innebär inte slutet på kriget - Omni
-- DN Direkt – Isak i comeback när Liverpool föll - Dagens Nyheter
-- Efter stormen – detta gäller för din försäkring - NLT
-- DN Direkt – Många väntar för länge på operation - Dagens Nyheter
-- Utredning om förgiftning på Akademiska sjukhuset läggs ner - GP
-- "Regeringen och Sverigedemokraterna sänker priset för resor till Gotland" - Regeringen.se
+- En man anhållen för dubbelmord i Härnösand 2005 - Via TT
 - Irans nye ledare Mojtaba Khamenei ”spelade nyckelroll” i spelet om vapenvilan - Dagens Nyheter
+- Trump träffar Nato-chefen – med hot att dra sig ur - GP
+- 60 dödade i Nigeria - SVT Nyheter
+- ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet
+- DN Direkt – Många väntar för länge på operation - Dagens Nyheter
+- Efter stormen – detta gäller för din försäkring - NLT
+- Utredning om förgiftning på Akademiska sjukhuset läggs ner - GP
+- Rättegången igång – klimataktivisternas bevisning stoppas - ETC.se
+- Dokument om Ukrainas EU-ansökan delades med Kreml - Västerbottens-Kuriren
 - Arkitekt erkänner mord på åtta kvinnor - Aftonbladet
-- Dokument om Ukrainas EU-ansökan delades med Kreml - GP
 - Expert: Trump har förvandlat politiken till en sorts reality-tv - Dagens Nyheter
+- Skottlossning vid Israels konsulat i Istanbul - SVT Nyheter
 - Oljepriset föll men det kan dröja innan bensinpriset sjunker vid pumpen - Yle
 - ”Allt blir bara dyrare” – tänk så fel vi alla har om matpriserna - Sydsvenskan
-- Kryptograf pekas ut som Bitcoins grundare - Svenska Dagbladet
-- Finansbranschens råd kostar dig dyrt - Svenska Dagbladet
+- Pekas ut som hjärnan bakom bitcoin – värd 700 miljarder - DI
+- AI-jättarna går samman för att motverka kinesiska kopior - Dagens PS
 - Artemis astronauter på väg mot kritiskt skede i rymdresan - Dagens Nyheter
 - Rädd för jump scares? Ny app varnar innan det smäller - MovieZine
 
 ## World News
 
 - Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - press.newsmachine.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -44,13 +44,13 @@ _Updated: 2026-04-09 01:08_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - mynewsdesk.com
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -73,25 +73,25 @@ _Updated: 2026-04-09 01:08_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - mynewsdesk.com
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - mynewsdesk.com
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - mynewsdesk.com
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - mynewsdesk.com
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - mynewsdesk.com
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - mynewsdesk.com
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - mynewsdesk.com
+- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - mynewsdesk.com
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - mynewsdesk.com
+- Hans Skruvfors blir VD för Sambla Group - mynewsdesk.com
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - mynewsdesk.com
+- Sharon Lavie blir Lendos sparekonom - mynewsdesk.com
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - mynewsdesk.com
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - mynewsdesk.com
+- Co-native och HSB i fortsätt samarbete med nytt ramavtal - mynewsdesk.com
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - mynewsdesk.com
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - mynewsdesk.com
 
 ## Health
 
@@ -100,64 +100,64 @@ _Updated: 2026-04-09 01:08_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - mynewsdesk.com
 - Vi presenterar ChatGPT Health - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Medical Device SBOMs: Attention to Details Matter - Health-ISAC - Health Information Sharing and Analysis Center - Health-ISAC
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - mynewsdesk.com
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - mynewsdesk.com
+- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - mynewsdesk.com
+- GoCo Health Innovation City dubblar markyta och investering - mynewsdesk.com
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - AI och data science - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Vi gratulerar Francesca Castoldi på BioNut - Karolinska Institutet
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - mynewsdesk.com
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - mynewsdesk.com
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- Lediga jobb - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - ATL.nu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL.nu
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Lediga jobb - ATL.nu
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - mynewsdesk.com
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mjau Svenska Smaker i gele-Abborre.jpg - mynewsdesk.com
+- CLAAS API connects to Farm Management Information Systems - mynewsdesk.com
+- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - mynewsdesk.com
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
