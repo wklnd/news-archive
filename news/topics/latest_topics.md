@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-08 11:44_
+_Updated: 2026-04-08 13:31_
 
 ## Top Stories
 
 - I natt: Iran och USA överens om vapenvila - Västerbottens-Kuriren
-- UPPGIFTER: Putins guldgruva krossad av Ukraina - Marcus Oscarsson
 - Stena bulks vd: ”Vi ska få ut besättningarna som fort som möjligt” - Dagens Nyheter
-- Välkomnar vapenvila: Sverige berett att bidra - GP
-- Angripna länder pustar ut – och gör segerrop - GP
 - Regeringen satsar på fler IVF-försök - Corren
+- Utredningen om förgiftningarna på Akademiska sjukhuset läggs ned - SVT Nyheter
+- En dold GPS-sändare i en stulen fyrhjuling avslöjade internationell stöldliga - polisen.se
+- Angripna länder pustar ut – och gör segerrop - GP
 - Ett hundratal kunder fortfarande utan el i länet efter stormen Dave - SVT Nyheter
-- DN Direkt – Stockholmsbörsen rusar efter besked om vapenvila - Dagens Nyheter
-- Försvunnen kanotist hittad död - Västerbottens-Kuriren
-- Han blir ny medieombudsman - Altinget.se
+- Stor brist på skolkuratorer – Sred kör 80 mil för att stötta elever - Dagens Nyheter
+- Anställda isolerades efter pulverbrev - Västerbottens-Kuriren
+- "Regeringen och Sverigedemokraterna sänker priset för resor till Gotland" - regeringen.se
 - JD Vance anklagar EU för ”skamlös” inblandning i ungerska valet - Dagens Nyheter
-- Stockholmsbörsen rusar efter besked om vapenvila mellan USA och Iran - Sveriges Radio
+- Börserna stiger kraftigt, oljepriserna rasar efter vapenvilan mellan USA och Iran - Morningstar Canada
 - Matpriser föll kraftigt i mars inför momssänkningen - Matpriskollen - Börsvärlden
-- Fler än väntat kan få pengar efter Northvolts konkurs - Affärsvärlden
-- DN Direkt – Bill Ackman lägger bud på Universal Music - Dagens Nyheter
+- Ackmans Universal-kupp lägger fokus på värderingen - Affärsvärlden
+- ”Läs New Yorkers profil på Altman innan Open AI-notering” - Omni Ekonomi
 - Varför vill så många till månen? - Svenska Dagbladet
-- Därför tar det så lång tid för Microsoft att fasa ut Kontrollpanelen - PC för Alla
 - "Sony Xperia 1 VIII får uppdaterade kameror och ny design" - mobil.se
 - Ny läcka hävdar att nästa iPhones kan bli "i stort sett oförändrade" desigmässigt – och jag hoppar redan över den här generationen - TechRadar
-- Aubrey Plaza väntar barn - Aftonbladet
+- Sony ger dig chans att scanna in dig i spel - Teknikveckan
+- DN Direkt – Stockholmsbörsen rusar efter besked om vapenvila - Dagens Nyheter
 
 ## World News
 
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
@@ -37,16 +38,15 @@ _Updated: 2026-04-08 11:44_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global turism slog nytt rekord under 2025 - travelnews.se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Colliers International Named to IAOP® Global Outsourcing 100 List for 13th Consecutive Year - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Umeå children in worldwide school project on AI - Umeå universitet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 
 ## Technology
 
@@ -54,31 +54,31 @@ _Updated: 2026-04-08 11:44_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - computersweden.se
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - computersweden.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - xpert.digital
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - xpert.digital
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - computersweden.se
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - computersweden.se
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Nu blir datorerna dyrare – efter prishöjning på minnen - computersweden.se
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - xpert.digital
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - xpert.digital
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - xpert.digital
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - xpert.digital
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - deloitte.com
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - deloitte.com
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -121,39 +121,39 @@ _Updated: 2026-04-08 11:44_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - umu.se
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
 - AI och data science - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Ny koalition för att vidareutveckla bedömning av forskning - umu.se
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - kungahuset.se
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - ju.se
 
 ## Jordbruk
 
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbruk och landsbygdsutveckling - European Commission
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
