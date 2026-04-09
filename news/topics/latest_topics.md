@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 23:10_
+_Updated: 2026-04-10 00:05_
 
 ## Top Stories
 
-- Larm om hög smäll vid Vasaplatsen i Göteborg - SVT Nyheter
 - Farhågor om många dödade barn i Beirut - Hufvudstadsbladet – HBL
-- Rutte: Amerikanskt ledarskap helt avgörande - Västerbottens-Kuriren
+- Andreas Granath: Mark Rutte verkar ha ett riktigt skitjobb - GP
 - Han utmanar Trumps och Putins bästa vän i Europa - Dagens Nyheter
 - De har suttit fast i Hormuzsundet i över en månad: ”Hört många explosioner” - GP
+- Explosion vid Vasaplatsen i Göteborg - SVT Nyheter
 - Liberalerna får inte ihop listor i flera kommuner - Omni
 - Nya rekommendationer ska främja goda sömnvanor hos barn och unga - Regeringen.se
-- DN Direkt – Misstänkt för Brattåsmorden begärs häktad - Dagens Nyheter
 - Man livshotande skadad i frontalkrock - Västerbottens-Kuriren
+- DN Direkt – Misstänkt för Brattåsmorden begärs häktad - Dagens Nyheter
 - Dumpens Sara Nilsson åtalas för förtal – igen - GP
 - Förnekar koppling till Epstein - Svenska Dagbladet
 - Fredsprisade ryssar stämplas som extremister - GP
-- Direkt – Krisen i Mellanöstern – Nato kanske till Hormuzsundet - Dagens Nyheter
-- Så övertalades Trump att gå i krig mot Iran - Västerbottens-Kuriren
+- Kina uppges i hemlighet ha pressat Iran till avtalet - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Tre svenskar dödade i Libanon - Dagens Nyheter
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
 - Meta: Muse-modellerna kan vara just den gnista som företaget behövde för utvecklingen av AI-modeller - Morningstar Canada
-- Läkaren: Farorna med gasexponereringen på SSAB - Sveriges Radio
 - Affärsvärlden ger ett neutralt råd för Lucara Diamond - Affärsvärlden
+- Priset på diesel sänks med nästan tre kronor - nyteknik
 - 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
 - Apples trumfkort – dolt i telefonen - Svenska Dagbladet
 
 ## World News
 
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
@@ -64,9 +64,9 @@ _Updated: 2026-04-09 23:10_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -84,7 +84,6 @@ _Updated: 2026-04-09 23:10_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-04-09 23:10_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
@@ -103,6 +103,7 @@ _Updated: 2026-04-09 23:10_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
@@ -113,7 +114,6 @@ _Updated: 2026-04-09 23:10_
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -137,8 +137,8 @@ _Updated: 2026-04-09 23:10_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
