@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-10 00:24_
+_Updated: 2026-04-10 01:24_
 
-- Melania Trump Says She Was Not a Victim of Jeffrey Epstein - The New York Times
-- Live Updates: Trump threatens Iran as dispute over Israel's war in Lebanon casts doubt on ceasefire - CBS News
-- Strait of Hormuz remains all but closed, despite Iran ceasefire deal - Axios
-- Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters
-- White House struggles to prop up truce marked by confusion, contradictions - The Washington Post
-- Automatic U.S. military draft registration planned by December, filing shows - CNBC
-- Husband arrested in Bahamas after US woman vanishes from boat denies wrongdoing, lawyer says - AP News
-- Exclusive: Trump weighs pulling some US troops from Europe amid NATO strains, official says - Reuters
+- Melania Trump denies close ties to Jeffrey Epstein in rare public statement - NPR
+- Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts - AP News
+- Strait of Hormuz remains all but closed, Trump demands Iran stop tolls - Axios
+- The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
+- NATO chief insists Europe is ‘scrambling’ to help with Iran war after latest Trump attacks - Politico
+- See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away" - CBS News
+- What Trump’s blowup with Rutte was really about - Politico
 - Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups - The Guardian
-- Women in Their 20s May Not Be Having Babies, but by 45 Most Probably Will - The New York Times
-- Emperor penguins have just been declared endangered - The Washington Post
-- Argentina passes bill loosening protection of its glaciers - BBC
-- UK and Norway led a military operation to deter Russian submarines in the North Atlantic - AP News
+- US judge orders Pentagon to restore press access - Reuters
+- ‘Subpoenas are forthcoming’: Florida AG opens probe into OpenAI, ChatGPT - Politico
+- I.U.C.N. Red List Moves Emperor Penguins to “Endangered” - The New York Times
+- IDF's 98th Division gains control over Hezbollah-ridden town in southern Lebanon - Yahoo
+- UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic - Euronews.com
 - Chinese FM spokesperson responds to report that China encouraged Iran to accept ceasefire, promised to act as guarantor - Global Times
-- Stock Market Today: Dow Gains; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start — Live Updates - WSJ
+- Futures: Stocks Add To Gains With Big News Due - Investor's Business Daily
+- U.S. Postal Service seeks hike in price of first-class mail stamps to 82 cents in July - CNBC
 - Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers - AP News
-- US spirits maker Sazerac explores deal with Jack Daniel's owner, WSJ reports - Reuters
 - Kia plans to launch U.S. pickup truck by 2030 - CNBC
-- Amazon upsets ebook lovers by ending support for old Kindle devices - The Guardian
-- Spotify now lets you turn off all video - Engadget
+- Spotify now lets everyone turn off videos in its app - TechCrunch
+- Pixel At a Glance preps showing nearby Google Wallet passes, ‘Restaurant insights’ - 9to5Google
