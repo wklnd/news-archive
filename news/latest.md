@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-09 23:30_
+_Updated: 2026-04-10 00:24_
 
-- Melania Trump denies association with Jeffrey Epstein - Politico
+- Melania Trump Says She Was Not a Victim of Jeffrey Epstein - The New York Times
 - Live Updates: Trump threatens Iran as dispute over Israel's war in Lebanon casts doubt on ceasefire - CBS News
-- Democrats grow bolder on talk about removing Trump from office after his Iran threats - AP News
-- The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
-- 710,000 fewer babies were born last year in U.S. compared with two decades ago - NPR
+- Strait of Hormuz remains all but closed, despite Iran ceasefire deal - Axios
 - Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters
+- White House struggles to prop up truce marked by confusion, contradictions - The Washington Post
+- Automatic U.S. military draft registration planned by December, filing shows - CNBC
 - Husband arrested in Bahamas after US woman vanishes from boat denies wrongdoing, lawyer says - AP News
 - Exclusive: Trump weighs pulling some US troops from Europe amid NATO strains, official says - Reuters
 - Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups - The Guardian
-- ‘Subpoenas are forthcoming’: Florida AG opens probe into OpenAI, ChatGPT - Politico
+- Women in Their 20s May Not Be Having Babies, but by 45 Most Probably Will - The New York Times
 - Emperor penguins have just been declared endangered - The Washington Post
-- Hungary voters want new EU approach, but tough on Ukraine - dw.com
 - Argentina passes bill loosening protection of its glaciers - BBC
-- Xi Helps Trump on Iran War as China Assists With Ceasefire Bid - Yahoo Finance
-- Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026 - CNBC
-- Amazon Rises Toward Key Level; CEO Says This Is 'On Fire' - Investor's Business Daily
+- UK and Norway led a military operation to deter Russian submarines in the North Atlantic - AP News
+- Chinese FM spokesperson responds to report that China encouraged Iran to accept ceasefire, promised to act as guarantor - Global Times
+- Stock Market Today: Dow Gains; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start — Live Updates - WSJ
 - Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers - AP News
-- US Postal Service seeks to hike stamp prices to 82 cents - Yahoo Finance
-- Spotify now lets everyone turn off videos in its app - TechCrunch
-- Google bakes NotebookLM, its research tool, into Gemini - Engadget
+- US spirits maker Sazerac explores deal with Jack Daniel's owner, WSJ reports - Reuters
+- Kia plans to launch U.S. pickup truck by 2030 - CNBC
+- Amazon upsets ebook lovers by ending support for old Kindle devices - The Guardian
+- Spotify now lets you turn off all video - Engadget
