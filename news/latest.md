@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-09 21:48_
+_Updated: 2026-04-09 23:30_
 
-- Melania Trump Says She Was Not a Victim of Jeffrey Epstein - The New York Times
-- Iran's president says Israeli strikes on Lebanon render negotiations meaningless - Reuters
+- Melania Trump denies association with Jeffrey Epstein - Politico
+- Live Updates: Trump threatens Iran as dispute over Israel's war in Lebanon casts doubt on ceasefire - CBS News
+- Democrats grow bolder on talk about removing Trump from office after his Iran threats - AP News
 - The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
-- Trump's journey from 'annihilation' to 'PEACE' in one day rested on realization of a long-term battle to control Strait of Hormuz - Fortune
-- Republicans block effort to halt Trump's war with Iran after 'civilization' threat - NBC News
+- 710,000 fewer babies were born last year in U.S. compared with two decades ago - NPR
+- Hormuz at near standstill as Iran warns ships to keep to its waters - Reuters
 - Husband arrested in Bahamas after US woman vanishes from boat denies wrongdoing, lawyer says - AP News
-- US fertility rates drop to record low in 2025 as births fall - Reuters
+- Exclusive: Trump weighs pulling some US troops from Europe amid NATO strains, official says - Reuters
 - Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups - The Guardian
 - ‘Subpoenas are forthcoming’: Florida AG opens probe into OpenAI, ChatGPT - Politico
-- Hawaii doctor found guilty of trying to kill wife on hike - BBC
-- Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts - AP News
-- Hungary voters want new EU approach, but tough on Ukraine - DW.com
-- UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic - Euronews.com
-- In the Trump era, everybody's talking about 'soft power.' But ... what is it exactly? - NPR
-- Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates - CNBC
-- Average US long-term mortgage rate eases to 6.37% after rising five weeks in a row - ABC News
-- Kia plans to launch U.S. pickup truck by 2030 - CNBC
-- Amazon CEO reveals AI revenue, dismisses spending doubts in annual letter - Reuters
-- Spotify now lets you turn off all video - Engadget
-- Xbox Achievements are getting some major changes, including the option to hide embarrassing games that you don't want to show off - Eurogamer
+- Emperor penguins have just been declared endangered - The Washington Post
+- Hungary voters want new EU approach, but tough on Ukraine - dw.com
+- Argentina passes bill loosening protection of its glaciers - BBC
+- Xi Helps Trump on Iran War as China Assists With Ceasefire Bid - Yahoo Finance
+- Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026 - CNBC
+- Amazon Rises Toward Key Level; CEO Says This Is 'On Fire' - Investor's Business Daily
+- Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers - AP News
+- US Postal Service seeks to hike stamp prices to 82 cents - Yahoo Finance
+- Spotify now lets everyone turn off videos in its app - TechCrunch
+- Google bakes NotebookLM, its research tool, into Gemini - Engadget
