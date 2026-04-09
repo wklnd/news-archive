@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 05:35_
+_Updated: 2026-04-09 07:29_
 
 ## Top Stories
 
+- DN Direkt – Trump i ny attack mot Nato - Dagens Nyheter
 - Trump: Vapenvilan berör inte Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Irans nye ledare Mojtaba Khamenei ”spelade nyckelroll” i spelet om vapenvilan - Dagens Nyheter
-- Vita huset: USA ska diskutera utträde ur Nato - GP
-- DN Direkt – Natochefen: ”Ärlig” diskussion med Trump - Dagens Nyheter
-- Misstänkta seriemördaren erkänner – dödat åtta kvinnor - Expressen
-- Iran ger ut karta över Hormuzsundet - Västerbottens-Kuriren
+- Iran: Hormuzsundet stängt igen - UNT
+- Explosion vid port i Södertälje - Aftonbladet
+- Hyresvärd utmanar systemet – boende kritiska: ”Hyran är jättehög” - Dagens Nyheter
+- Därför ökar cykelolyckorna i Skåne: ”Pang – så låg jag där” - Sydsvenskan
 - Man anhållen misstänkt för dubbelmordet i Brattås 2005 - SVT Nyheter
-- Efter stormen – detta gäller för din försäkring - NLT
+- Anmälan enligt lex Maria – patient avled efter för snabb tillförsel av näringslösning - Skillingaryd
 - LEDARE: När mer pengar till vården möts av kritik - Smålandsposten
-- LEDARE: Socialdemokraterna ska inte diktera kyrkans villkor - NT
-- Dokument om Ukrainas EU-ansökan delades med Kreml - Västerbottens-Kuriren
-- Orbán till Putin: Jag står till er tjänst - Europaportalen
+- Förlossning prövas i rätten – rättegång inleds på torsdag - Aftonbladet
+- Dokument om Ukrainas EU-ansökan delades med Kreml - GP
+- Arkitekt erkänner mord på åtta kvinnor - Aftonbladet
 - ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet
-- UPPGIFTER: Putins guldgruva krossad av Ukraina - Marcus Oscarsson
-- Oljepriset föll men det kan dröja innan bensinpriset sjunker vid pumpen - Yle
-- Pekas ut som hjärnan bakom bitcoin – värd 700 miljarder - DI
-- Småsparare tankar Tesla i dippen – medan storbanken varnar för tvärnit - Börskollen
-- Information om sjukdomsfall vid SSABs byggarbetsplats i Luleå - Cision News
+- DN Direkt – Orbán till Putin: Jag står till din tjänst - Dagens Nyheter
+- Stigande oljepris får börserna att sura igen - GP
+- Bopriserna stiger – men färre affärer - TV4 Nyheterna
+- LEDARE: Skånska elkunder måste få vad de redan har betalat för - Kristianstadsbladet
+- Läkaren: Farorna med gasexponereringen på SSAB - Sveriges Radio
 - Artemis astronauter på väg mot kritiskt skede i rymdresan - Dagens Nyheter
-- "Sony Xperia 1 VIII får uppdaterade kameror och ny design" - mobil.se
+- Deras "kärlekshormon" ökar skörden med 30 procent – ska sälja med udda prismodell - Impact Loop
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2026-04-09 05:35_
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -103,19 +103,19 @@ _Updated: 2026-04-09 05:35_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -148,17 +148,17 @@ _Updated: 2026-04-09 05:35_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - ATL.nu
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL.nu
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Mjau Svenska Smaker i gele-Abborre.jpg - Mynewsdesk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
