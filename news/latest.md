@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-09 05:37_
+_Updated: 2026-04-09 07:30_
 
-- President Trump’s ceasefire with Iran draws praise from world leaders - Fox News
+- Iran War Live Updates: Cease-Fire Tested by Confusion Over Strait and Strikes on Lebanon - The New York Times
+- Bondi won't appear for House deposition next week in the Epstein investigation - PBS
 - At least 182 killed across Lebanon in large wave of Israeli strikes - BBC
-- Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms - AP News
-- Pam Bondi defies House subpoena over Epstein files - Axios
-- Democrats romp in Wisconsin Supreme Court race, narrow margins in Georgia - CNBC
-- Former Army employee charged with leaking classified info to journalist - NBC News
-- Doctor found guilty of trying to kill his wife during cliffside hike in Hawaii - CBS News
+- Vance to lead U.S. delegation at peace talks with Iran in Pakistan on Saturday - Axios
+- President Trump’s ceasefire with Iran draws praise from world leaders - Fox News
+- Police in the Bahamas arrest husband of US woman who vanished from boat - AP News
+- Hawaii doctor accused of trying to kill his wife found guilty of attempted manslaughter - The Guardian
 - Has Trump Met His War Goals in Iran? - The New York Times
-- Gilgo Beach suspect pleads guilty, admits killing 8 women over 3 decades - The Washington Post
-- Trump continues to attack Nato after meeting with alliance chief Mark Rutte - BBC
+- Trump vents at NATO but avoids rupture after meeting with alliance’s leader - The Washington Post
+- Rex Heuermann pleads guilty to murdering 7 women and admits he killed another - PBS
 - Report: Hungary offered Iran intel on Hezbollah pager attack by Israel - The Times of Israel
-- Gulf States Fear an Emboldened Iran after Trump’s Cease-Fire - WSJ
 - Against the Mad King Trump makes technocracy look good - UnHerd
 - Hungary's Tisza party seen winning two-thirds majority in parliament, Median projection shows - Reuters
-- Oil prices rise as investors eye fragile US-Iran ceasefire - BBC
+- After 5 Weeks of War, a Look at What Trump Has Accomplished in Iran - The New York Times
+- Stock Market Today: Stocks Jump After U.S., Iran Walk Back From the Brink - WSJ
+- Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation - VentureBeat
 - Adam Back Denies He Is Satoshi Nakamoto in Response to Times Investigation - The New York Times
-- Meta unveils first AI model from costly superintelligence team - Reuters
 - Paramount Unlikely To Replace Jeff Shell, Insiders Say; Deep Bench To Step Up As WBD Deal Close Approaches - Deadline
 - Amazon to end support for older Kindle devices - TechCrunch
-- iOS 26.4.1 fixes iPhone bug that stopped iCloud data from syncing, including Apple Passwords - 9to5Mac
+- iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors
