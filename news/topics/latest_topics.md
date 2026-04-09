@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 08:56_
+_Updated: 2026-04-09 10:50_
 
 ## Top Stories
 
-- Dödsruna över stjärnan publicerades av misstag - Svenska Dagbladet
-- Trump i ny attack mot Nato – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Över 50 sjukvårdare dödade i krigets Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kina uppges i hemlighet ha pressat Iran till avtalet - Dagens Nyheter
 - Vita huset: USA ska diskutera utträde ur Nato - GP
-- Explosion vid port i Södertälje under natten - Omni
-- ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet
-- Barnkirurgin på Drottning Silvias evakueras – personalen sjuk - GP
+- Ny rutt genom Hormuz pekas ut: ”Undvik minor” - Västerbottens-Kuriren
+- Skandalerna kan sänka Orban - Dagens Arena
+- Vårdpersonal sjuk – evakueras ur lokaler - Aftonbladet
+- Kristoffer Tamsons (M) lämnar regionpolitiken - SVT Nyheter
 - Man anhållen misstänkt för dubbelmordet i Brattås 2005 - SVT Nyheter
 - Tittade på mobilen – körde ihjäl man - Västerbottens-Kuriren
-- Myndigheter brister i språkstöd till personer med annat modersmål - Sveriges Radio
 - 09 april 08.00, Sammanfattning natt, Östergötlands län - polisen.se
-- Arkitekt erkänner mord på åtta kvinnor - Aftonbladet
-- Fartyg meddelas: Sundet är fortfarande stängt - Expressen
-- Dokument om Ukrainas EU-ansökan delades med Kreml - Svenska Dagbladet
+- Dokument om Ukrainas EU-ansökan delades med Kreml - GP
 - UPPGIFTER: Putins guldgruva krossad av Ukraina - Marcus Oscarsson
-- Stigande oljepris får börserna att sura igen - GP
-- Bopriserna stiger – men färre affärer - TV4 Nyheterna
-- Flaskhalsmiljarder ska jämna ut elpriserna - Omni
-- Storägare i svenskt bolag pekas ut som bitcoins skapare - EFN
-- Artemis astronauter på väg mot kritiskt skede i rymdresan - Dagens Nyheter
-- Deras "kärlekshormon" ökar skörden med 30 procent – ska sälja med udda prismodell - Impact Loop
+- Hyresvärd utmanar systemet – boende kritiska: ”Hyran är jättehög” - Dagens Nyheter
+- Villabrand i Matfors – två till sjukhus - Expressen
+- Stigande oljepris får börserna att surna igen - GP
+- SkandiaMäklarna om Svensk Mäklarstatistik mars 2026: Priserna rusar på bostadsmarknaden – högsta ökningen på över ett år - svenskbyggtidning -
+- Busch om sänkta bensinskatten: Planen ligger fast - Expressen
+- Fortsatt nollränta på populära sparkonton - Svenska Dagbladet
+- Artemis månresa välkommet avbrott för nyhetströtta: ”Blir positivt” - Sveriges Radio
+- Kassan kapas via en enda pixel – varning för osynliga attacker - Ehandel.se
 
 ## World News
 
@@ -36,16 +36,16 @@ _Updated: 2026-04-09 08:56_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Liberty International i Stockholm växer - travelnews-se
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
@@ -66,10 +66,10 @@ _Updated: 2026-04-09 08:56_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -83,12 +83,12 @@ _Updated: 2026-04-09 08:56_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
