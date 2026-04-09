@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 14:08_
+_Updated: 2026-04-09 16:19_
 
 ## Top Stories
 
-- Israels attacker mot Libanon fördöms - Dagens Nyheter
-- Tre svenskar dödade i Libanon - GP
+- Libanon i sorg – attackvågen hotar vapenvilan - GP
+- S om regeringens straffskärpningar: Luftslott - Västerbottens-Kuriren
+- Frågetecknen kring dubbelmordet i Brattås – nu kan det lösas - Aftonbladet
+- Expert: Osannolikt att USA lämnar Nato - Dagens Nyheter
+- Tre svenskar dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Oron i Vita huset: Tagit ut segern i förskott - Svenska Dagbladet
-- Pressträff om förslag på den största straffreformen sedan brottsbalken infördes - Regeringen.se
-- Arg Trump efter Natomöte: ”Kom ihåg Grönland” - Hufvudstadsbladet
-- Ukraina fienden när Ungern går till val: ”Hemskt” - GP
-- Kristoffer Tamsons (M) lämnar regionpolitiken - SVT Nyheter
-- Dorotea och Vilhelmina kommun utsatta för it-attack - SVT Nyheter
 - Barnkirurgin på Drottning Silvias evakueras – personalen sjuk - GP
 - Magdalena Andersson: Vi går till val som ett enskilt parti - Dagens Nyheter
+- Den 22 april fyller flest svenskar år - Statistikmyndigheten SCB
+- Träd föll över Rogers bil under stormen Dave: ”Fick sig en rejäl smäll” - NWT
 - Fyra döda – försökte korsa Engelska kanalen - Aftonbladet
 - DN Direkt – Misstänkt nekar till Brattåsmorden - Dagens Nyheter
-- Frankrike om Ungerns Kreml-läcka: Ett svek - GP
+- Skandalerna kan sänka Orban - Dagens Arena
 - Fartyg meddelas: Sundet är fortfarande stängt - Expressen
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
 - Varningen: ”Q-Day” rycker närmare - Svenska Dagbladet
-- Bostadspriserna stiger: "Amorteringsreglerna trumfar Trump" - Placera.se
-- Miljarder till elnätet när Svenska kraftnät tömmer kontot - nyteknik
-- Artemis månresa välkommet avbrott för nyhetströtta: ”Blir positivt” - Sveriges Radio
-- Efter nya bilden på jorden: Nej, den har inte blivit grå - TV4 Nyheterna
+- Så har fritidshuspriserna utvecklats i Bollnäs - Ljusnan
+- Ödesfrågan för bjässen: ”Då är det allvarligt” - EFN
+- 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
+- 1 miljard Microsoft-användare hotas – kritisk sårbarhet avslöjad - Dagens PS
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- Nordnets förra vd fattar klubban i VNV Global - DI
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Liberty International i Stockholm växer - travelnews-se
 
 ## Technology
 
@@ -63,12 +63,12 @@ _Updated: 2026-04-09 14:08_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -99,23 +99,23 @@ _Updated: 2026-04-09 14:08_
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -142,11 +142,12 @@ _Updated: 2026-04-09 14:08_
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
@@ -159,6 +160,5 @@ _Updated: 2026-04-09 14:08_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
