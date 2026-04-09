@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 12:40_
+_Updated: 2026-04-09 14:08_
 
 ## Top Stories
 
-- Kina uppges i hemlighet ha pressat Iran till avtalet - Dagens Nyheter
-- Libanon i sorg – attackvågen hotar vapenvilan - Västerbottens-Kuriren
-- Ny rutt genom Hormuz pekas ut: ”Undvik minor” - Svenska Dagbladet
-- Busch och SVT i bråk efter utspel om ”politiska frågor” - Omni
+- Israels attacker mot Libanon fördöms - Dagens Nyheter
+- Tre svenskar dödade i Libanon - GP
+- Oron i Vita huset: Tagit ut segern i förskott - Svenska Dagbladet
+- Pressträff om förslag på den största straffreformen sedan brottsbalken infördes - Regeringen.se
+- Arg Trump efter Natomöte: ”Kom ihåg Grönland” - Hufvudstadsbladet
 - Ukraina fienden när Ungern går till val: ”Hemskt” - GP
-- Efter gripandet – då förhörs mannen misstänkt för Brattåsmorden - Sveriges Radio
-- Moderat profil lämnar politiken – blir vd - Västerbottens-Kuriren
-- Barnkirurgin på Drottning Silvias evakueras – personalen sjuk - GP
+- Kristoffer Tamsons (M) lämnar regionpolitiken - SVT Nyheter
 - Dorotea och Vilhelmina kommun utsatta för it-attack - SVT Nyheter
-- DN Direkt – Björn Söder (SD) ska övervaka valet i Ungern - Dagens Nyheter
-- Vita huset: USA ska diskutera utträde ur Nato - GP
+- Barnkirurgin på Drottning Silvias evakueras – personalen sjuk - GP
+- Magdalena Andersson: Vi går till val som ett enskilt parti - Dagens Nyheter
+- Fyra döda – försökte korsa Engelska kanalen - Aftonbladet
+- DN Direkt – Misstänkt nekar till Brattåsmorden - Dagens Nyheter
 - Frankrike om Ungerns Kreml-läcka: Ett svek - GP
-- Hyresvärd utmanar systemet – boende kritiska: ”Hyran är jättehög” - Dagens Nyheter
-- Arkitekt erkänner mord på åtta kvinnor - Aftonbladet
+- Fartyg meddelas: Sundet är fortfarande stängt - Expressen
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
-- Miljarder till elnätet när Svenska kraftnät tömmer kontot - nyteknik
 - Varningen: ”Q-Day” rycker närmare - Svenska Dagbladet
-- SkandiaMäklarna om Svensk Mäklarstatistik mars 2026: Priserna rusar på bostadsmarknaden – högsta ökningen på över ett år - svenskbyggtidning -
+- Bostadspriserna stiger: "Amorteringsreglerna trumfar Trump" - Placera.se
+- Miljarder till elnätet när Svenska kraftnät tömmer kontot - nyteknik
 - Artemis månresa välkommet avbrott för nyhetströtta: ”Blir positivt” - Sveriges Radio
-- Samsungs nästa stora presentation kan ske 22 juli - Swedroid
+- Efter nya bilden på jorden: Nej, den har inte blivit grå - TV4 Nyheterna
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -36,7 +37,7 @@ _Updated: 2026-04-09 12:40_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -44,7 +45,6 @@ _Updated: 2026-04-09 12:40_
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 
@@ -97,22 +97,22 @@ _Updated: 2026-04-09 12:40_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -136,7 +136,7 @@ _Updated: 2026-04-09 12:40_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
