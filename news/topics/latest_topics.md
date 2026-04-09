@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 18:02_
+_Updated: 2026-04-09 19:37_
 
 ## Top Stories
 
+- Israel ska börja förhandla med Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Frågetecknen kring dubbelmordet i Brattås – nu kan det lösas - Aftonbladet
-- Israel utfärdar evakueringsorder i södra Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Oron i Vita huset: Tagit ut segern i förskott - Svenska Dagbladet
-- Expert: Osannolikt att USA lämnar Nato - Dagens Nyheter
-- Tre svenskar dödade i Libanon - GP
+- Expert: Osannolikt att USA lämnar Nato - Hufvudstadsbladet – HBL
 - S om regeringens straffskärpningar: Luftslott - Västerbottens-Kuriren
+- Framställde AI-porr av programledare – man dömd - GP
+- Borgerlig kritik inför Pahlavis Sverigebesök - Svenska Dagbladet
 - Man död efter singelolycka på riksväg 68 - SVT Nyheter
-- Flera svenska lärosäten har avtal med universitet som kopplas till kinesisk militär - Dagens Nyheter
-- Magdalena Andersson: Vi går till val som ett enskilt parti - Dagens Nyheter
-- Den 22 april fyller flest svenskar år - Statistikmyndigheten SCB
-- Fyra döda – försökte korsa Engelska kanalen - Aftonbladet
-- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
+- Nu blommar sälgen – lockar fram fjärilar och flugor - Sveriges Radio
+- Dorotea och Vilhelmina kommun utsatta för it-attack - SVT Nyheter
+- Träd föll över Rogers bil under stormen Dave: ”Fick sig en rejäl smäll” - NWT
+- Andreas Granath: För iranierna innebär vapenvilan inte slutet på förtrycket - GP
+- Direkt – Krisen i Mellanöstern – Iran delar ut karta över Hormuzsundet - Dagens Nyheter
 - ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet – HBL
-- Iran: Hormuzsundet stängt igen - Aftonbladet
+- ”Svensk väpnad styrka till Finland” - Svenska Dagbladet
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
 - Priset på diesel sänks med nästan tre kronor - nyteknik
-- Rea på fritidshus – och så skyddar du dig mot klimatriskerna - Dagens PS
-- LEDARE: Skånska elkunder måste få vad de redan har betalat för - Kristianstadsbladet
+- Meta: Muse-modellerna kan vara just den gnista som företaget behövde för utvecklingen av AI-modeller - Morningstar Canada
+- Börsbolagen som blir vinnare när jättarna noteras - Placera.se
 - 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
-- Spotify rullar ut nya videokontroller - m3.se
+- Ryzen 9 9950X3D2 Dual Edition får bekräftad prislapp - Nordichardware
 
 ## World News
 
@@ -58,6 +58,7 @@ _Updated: 2026-04-09 18:02_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -66,25 +67,24 @@ _Updated: 2026-04-09 18:02_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-04-09 18:02_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -137,17 +137,17 @@ _Updated: 2026-04-09 18:02_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
