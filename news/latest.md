@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-09 09:03_
+_Updated: 2026-04-09 10:51_
 
-- Vance: Israel offered to restrain strikes in Lebanon during U.S.-Iran talks - Axios
-- 36 Hours of Chaos: The Scramble for a Cease-Fire in Iran - The New York Times
-- Trump warns U.S. military will stay near Iran until 'real agreement' is honored - CNBC
-- Bondi won't appear for House deposition next week in the Epstein investigation - PBS
-- US man arrested in case of Michigan woman's disappearance in Bahamas - BBC
-- Iran’s proposal to collect tolls in the Strait of Hormuz violates trade norms - AP News
-- Hawaii doctor accused of trying to kill his wife during cliffside hike found guilty of attempted manslaughter - CBS News
+- Live Updates: Iran accuses U.S. of violating ceasefire as Israeli attacks on Lebanon continue - CBS News
+- Man Is Arrested in Bahamas Days After Michigan Woman Goes Missing - The New York Times
 - Trump's abrupt Iran reversal exposes limits of his leverage - Reuters
+- Gilgo Beach suspect pleads guilty, admits killing 8 women over 3 decades - The Washington Post
+- Bondi won't appear for House deposition next week in the Epstein investigation - PBS
+- Shipping stalls as Tehran dictates terms in Hormuz - Financial Times
+- Hawaii doctor accused of trying to kill his wife found guilty of attempted manslaughter - The Guardian
 - Clean Energy Slate Wins Control of Arizona’s Biggest Utility - The New York Times
-- Trump criticises Nato as alliance chief describes meeting as 'very frank' - BBC
-- North Korea fires missiles toward sea after ridiculing South’s hopes for better ties - AP News
-- Report: Hungary offered Iran intel on Hezbollah pager attack by Israel - The Times of Israel
-- Hungary's Tisza party seen winning two-thirds majority in parliament, Median projection shows - Reuters
-- Against the Mad King Trump makes technocracy look good - UnHerd
-- Stock Market News, April 8, 2026: Stocks Jump After U.S., Iran Walk Back From the Brink - WSJ
-- Adam Back Denies He Is Satoshi Nakamoto in Response to Times Investigation - The New York Times
-- Paramount Unlikely To Replace Jeff Shell, Insiders Say; Deep Bench To Step Up As WBD Deal Close Approaches - Deadline
-- Analysts warn the TACO trade won’t last forever after an Iran ceasefire wipes out weeks of losses in markets - Fortune
-- iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors
-- YouTube Shorts will use AI to make avatars that look and sound like you - 9to5Google
+- Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored - CNBC
+- As Hegseth proclaims victory in Iran war, Caine takes cautious tone - The Washington Post
+- North Korea Says It Tested an Electromagnetic Weapons System - Bloomberg.com
+- Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire - CNBC
+- Israeli military says it has killed Hezbollah chief Naim Qassem - Reuters
+- President Trump’s ceasefire with Iran draws praise from world leaders - Fox News
+- US Futures Waver as Iran Says Ceasefire Violated: Markets Wrap - Bloomberg.com
+- Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally. - Investor's Business Daily
+- Paramount Won't Need To Replace Jeff Shell, Insiders Say - Deadline
+- Bill Ackman in talks to launch fund to bet on investor complacency - Financial Times
+- Gemini gets notebooks to help you organize projects - The Verge
+- Amazon to end support for older Kindle devices - TechCrunch
