@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 16:19_
+_Updated: 2026-04-09 18:02_
 
 ## Top Stories
 
-- Libanon i sorg – attackvågen hotar vapenvilan - GP
-- S om regeringens straffskärpningar: Luftslott - Västerbottens-Kuriren
 - Frågetecknen kring dubbelmordet i Brattås – nu kan det lösas - Aftonbladet
-- Expert: Osannolikt att USA lämnar Nato - Dagens Nyheter
-- Tre svenskar dödade i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Israel utfärdar evakueringsorder i södra Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Oron i Vita huset: Tagit ut segern i förskott - Svenska Dagbladet
-- Barnkirurgin på Drottning Silvias evakueras – personalen sjuk - GP
+- Expert: Osannolikt att USA lämnar Nato - Dagens Nyheter
+- Tre svenskar dödade i Libanon - GP
+- S om regeringens straffskärpningar: Luftslott - Västerbottens-Kuriren
+- Man död efter singelolycka på riksväg 68 - SVT Nyheter
+- Flera svenska lärosäten har avtal med universitet som kopplas till kinesisk militär - Dagens Nyheter
 - Magdalena Andersson: Vi går till val som ett enskilt parti - Dagens Nyheter
 - Den 22 april fyller flest svenskar år - Statistikmyndigheten SCB
-- Träd föll över Rogers bil under stormen Dave: ”Fick sig en rejäl smäll” - NWT
 - Fyra döda – försökte korsa Engelska kanalen - Aftonbladet
-- DN Direkt – Misstänkt nekar till Brattåsmorden - Dagens Nyheter
-- Skandalerna kan sänka Orban - Dagens Arena
-- Fartyg meddelas: Sundet är fortfarande stängt - Expressen
+- Chatta med SVT:s Mellanösternkommentator Samir Abu Eid - SVT Nyheter
+- ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet – HBL
+- Iran: Hormuzsundet stängt igen - Aftonbladet
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
-- Varningen: ”Q-Day” rycker närmare - Svenska Dagbladet
-- Så har fritidshuspriserna utvecklats i Bollnäs - Ljusnan
-- Ödesfrågan för bjässen: ”Då är det allvarligt” - EFN
+- Priset på diesel sänks med nästan tre kronor - nyteknik
+- Rea på fritidshus – och så skyddar du dig mot klimatriskerna - Dagens PS
+- LEDARE: Skånska elkunder måste få vad de redan har betalat för - Kristianstadsbladet
 - 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
-- 1 miljard Microsoft-användare hotas – kritisk sårbarhet avslöjad - Dagens PS
+- Spotify rullar ut nya videokontroller - m3.se
 
 ## World News
 
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -36,17 +37,16 @@ _Updated: 2026-04-09 16:19_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Liberty International i Stockholm växer - travelnews-se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -103,8 +103,8 @@ _Updated: 2026-04-09 16:19_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
@@ -137,8 +137,8 @@ _Updated: 2026-04-09 16:19_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
