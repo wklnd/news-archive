@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-09 19:37_
+_Updated: 2026-04-09 21:45_
 
 ## Top Stories
 
-- Israel ska börja förhandla med Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Farhågor om många dödade barn i Beirut - Hufvudstadsbladet – HBL
+- Andreas Granath: Mark Rutte verkar ha ett riktigt skitjobb - GP
+- Få fartyg passerar Hormuzsundet efter eldupphöret - Dagens Nyheter
+- Han utmanar Trumps och Putins bästa vän i Europa - Dagens Nyheter
+- Reaktioner på Ekots granskning av Svea Gymnasium i Sollentuna - Sveriges Radio
 - Frågetecknen kring dubbelmordet i Brattås – nu kan det lösas - Aftonbladet
-- Expert: Osannolikt att USA lämnar Nato - Hufvudstadsbladet – HBL
+- Man livshotande skadad i frontalkrock - Västerbottens-Kuriren
+- Ebba Busch som Ica-Stig på TikTok – anmäld - GP
+- Dumpens Sara Nilsson åtalas för förtal – igen - GP
 - S om regeringens straffskärpningar: Luftslott - Västerbottens-Kuriren
-- Framställde AI-porr av programledare – man dömd - GP
-- Borgerlig kritik inför Pahlavis Sverigebesök - Svenska Dagbladet
-- Man död efter singelolycka på riksväg 68 - SVT Nyheter
-- Nu blommar sälgen – lockar fram fjärilar och flugor - Sveriges Radio
-- Dorotea och Vilhelmina kommun utsatta för it-attack - SVT Nyheter
-- Träd föll över Rogers bil under stormen Dave: ”Fick sig en rejäl smäll” - NWT
-- Andreas Granath: För iranierna innebär vapenvilan inte slutet på förtrycket - GP
-- Direkt – Krisen i Mellanöstern – Iran delar ut karta över Hormuzsundet - Dagens Nyheter
-- ”Om Orbán vinner finns ingen framtid” – unga Budapestbor vill ha tillbaka sin demokrati - Hufvudstadsbladet – HBL
-- ”Svensk väpnad styrka till Finland” - Svenska Dagbladet
+- DN Direkt – Kommuner drabbade av it-attack – går upp i stabsläge - Dagens Nyheter
+- Fredsprisade ryssar stämplas som extremister - GP
+- Detta vet vi: Vapenvilan mellan USA och Iran - Dagens Nyheter
+- Storbritannien och Norge skrämde ryska ubåtar - Aftonbladet
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
-- Priset på diesel sänks med nästan tre kronor - nyteknik
 - Meta: Muse-modellerna kan vara just den gnista som företaget behövde för utvecklingen av AI-modeller - Morningstar Canada
-- Börsbolagen som blir vinnare när jättarna noteras - Placera.se
+- Priset på diesel sänks med nästan tre kronor - nyteknik
+- Dolda vinnarna när jättarna ska till börsen - Affärsvärlden
 - 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
-- Ryzen 9 9950X3D2 Dual Edition får bekräftad prislapp - Nordichardware
+- Apples unika fördel i AI-racet - Svenska Dagbladet
 
 ## World News
 
@@ -37,21 +37,21 @@ _Updated: 2026-04-09 19:37_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
@@ -76,15 +76,15 @@ _Updated: 2026-04-09 19:37_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -137,28 +137,28 @@ _Updated: 2026-04-09 19:37_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ping Chen får anslag från Novo Nordisk Fonden för forskning om fettlever - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL.nu
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL.nu
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
