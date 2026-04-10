@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 23:03_
+_Updated: 2026-04-11 00:03_
 
 ## Top Stories
 
 - Orbáns enda utmanare i Ungern – det här är Péter Magyar - GP
-- DN Direkt – Rysk ubåt i Kattegatt – följs av svenskt stridsflyg - Dagens Nyheter
-- Katrineholmare häktas för 21 år gammalt dubbelmord i Brattås - Sveriges Radio
-- Vance varnar Iran: Försök inte lura oss – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rysk ubåt i Kattegatt – följs av svenskt stridsflyg - Dagens Nyheter
+- Iranska delegationen på plats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - USA och Iran ställer krav inför Pakistansamtal - Hufvudstadsbladet – HBL
-- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - Cornucopia?
+- Trump till tidigare vännerna: ”Lågt IQ” - Aftonbladet
+- Misstänkte mannen häktas för dubbelmordet i Brattås - Omni
 - Flera partier får inte ihop valbara kandidater i alla dalakommuner - SVT Nyheter
-- Badförbud upphävs på nio badplatser i Stockholm - Dagens Nyheter
 - 10 april 13.28, Trafikkontroll, Västerbottens län - polisen.se
-- Två män åtalas för brutala mordet i p-huset - NT
+- C kallar minister till utskott – om prostitution - Västerbottens-Kuriren
+- Susannes oro inför valet: ”Risk att vi tappar kontroll” - Sveriges Radio
 - Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
-- DN Direkt – Uppgifter: Sinande kassa i Trumps ”fredsråd” - Dagens Nyheter
-- En död när buss körde ner i ravin på Kanarieöarna - Västerbottens-Kuriren
 - Israels godkännande av nya bosättningar fördöms - Västerbottens-Kuriren
-- Staten blir majoritetsägare i ny kärnkraft - Västerbottens-Kuriren
+- Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
+- DN Direkt – Uppgifter: Sinande kassa i Trumps ”fredsråd” - Dagens Nyheter
+- Oppositionen protesterar när regeringen vill förstatliga kärnkraft - EFN
 - USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
 - Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
 - Plejd skjuter upp planerad flytt till Stockholmsbörsen till 2027 - Placera.se
@@ -28,6 +28,7 @@ _Updated: 2026-04-10 23:03_
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -38,15 +39,14 @@ _Updated: 2026-04-10 23:03_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -98,38 +98,38 @@ _Updated: 2026-04-10 23:03_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
@@ -142,23 +142,23 @@ _Updated: 2026-04-10 23:03_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Här är världens största jordbruk - ATL Nyheter
-- Framtidens jordbruk är här - EU Digital Strategy
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Här är världens största jordbruk - ATL Nyheter
 - Lediga jobb - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - ATL Nyheter
+- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lediga jobb - ATL Nyheter
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
