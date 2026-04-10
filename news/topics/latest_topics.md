@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 13:25_
+_Updated: 2026-04-10 14:05_
 
 ## Top Stories
 
-- Två barn bland dödade svenskar i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Pensionerade polisen om genombrottet: ”Ser bra ut” - Sveriges Radio
+- Misstänkte mannen häktas för dubbelmordet i Brattås - Omni
+- Trump: Israel trappar ner attackerna i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - HANS STIGSSON: Misslyckad vapenvila följer på misslyckat krig - NT
-- Källa: Trumps möte med Rutte ”gick åt helvete” - Hufvudstadsbladet – HBL
-- Två barn bland dödade svenskar i Libanon - Västerbottens-Kuriren
-- DN Direkt – Handgranat exploderade i centrala Göteborg - Dagens Nyheter
-- DN Direkt – Trump till tidigare vännerna: ”Lågt IQ” - Dagens Nyheter
-- En anhållen för terrorbrott – Säpo utreder - Västerbottens-Kuriren
-- Anmäler Kristersson om klimatet: ”Hittar på” - GP
-- Flicka motsätter sig omhäktning för dubbelmord - Västerbottens-Kuriren
 - ”Valet i Ungern viktigt för hela EU” - Västerbottens-Kuriren
+- Handgranat exploderade vid utslussningsboende - GP
+- Avslöjar Trumps vrede i rummet: ”Gick åt helvete” - Aftonbladet
+- Stor polisinsats i Botkyrka efter skottlossning - SVT Nyheter
+- Flicka motsätter sig omhäktning för dubbelmord - Västerbottens-Kuriren
+- Åtalas för mord på rappare – brutal film spreds - GP
+- Pojke hölls isolerad och fick mat genom en lucka i över tre dygn på Sis-hem - Dagens Nyheter
+- Xi mötte Taiwans oppositionsledare: ”Kommer enas” - Västerbottens-Kuriren
+- Får man faktiskt ta betalt av fartyg i Hormuzsundet? Havsrätten säger nej - Yle
 - Argentinas glaciärer hotade av gruvdrift - Dagens Nyheter
-- Trump: Iran gör ett dåligt jobb med Hormuzsundet - Omni Ekonomi
-- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - cornucopia.se
-- Bred oro över ny AI-modell: ”Anthropics försiktighet en skrämmande signal” - Omni
+- Två barn bland dödade svenskar i Libanon - Västerbottens-Kuriren
+- Bessent och Powell varnar för Anthropics nya AI-modell - Omni
+- Börsuppgång tilltar – Saab mot strömmen - Västerbottens-Kuriren
 - Ödesdagar för oljekrisen – kan bli ny prischock - Dagens Nyheter
-- Klassisk butik går i graven när Coopförening städar - Dagens Nyheter
-- ANNONS: Så kan avgifterna äta upp din pension - Östersunds-Posten
+- Dieselpriset studsar upp – en krona dyrare - Sydsvenskan
 - Se dem här: Nasa publicerar historiska bilder från månens baksida - Illustrerad Vetenskap
 - Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -56,17 +56,17 @@ _Updated: 2026-04-10 13:25_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
@@ -142,23 +142,23 @@ _Updated: 2026-04-10 13:25_
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL.nu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL.nu
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL.nu
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
