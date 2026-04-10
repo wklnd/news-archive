@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-10 11:50_
+_Updated: 2026-04-10 13:31_
 
 - Live Updates: Trump cautions Iran against charging tolls to go through Strait of Hormuz as fragile ceasefire holds - CBS News
-- Jimmy Kimmel Salutes Melania’s White House Surprise - The New York Times
+- Melania Trump says she's "never been friends with Epstein" in rare address - Axios
 - What We Know About the Disappearance of Lynette Hooker - The Cut
-- Netanyahu announces negotiations with Lebanon after U.S. pressure - Axios
-- What Trump’s blowup with Rutte was really about - Politico
+- Netanyahu signals peace talks with Lebanon as Europe abhors continued Israeli bombing - politico.eu
+- What is Israel’s war in Lebanon, and why could it shatter the Iran ceasefire? - CNN
 - Trump Lashes Out at MAGA Critics Amid Iran Split - WSJ
-- Court voids latest Pentagon press restrictions - Politico
-- White House Warned Staff Not to Engage in Insider Trading Amid War With Iran - The New York Times
+- Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon - The New York Times
+- Exclusive | White House Warns Staff Not to Place Bets on Prediction Markets Amid Iran War - WSJ
+- These Republican-on-Republican disputes are keeping Congress frozen - Politico
 - Family says popular energy drink played role in cheerleader's fatal heart condition - NBC News
-- Victim in ICE Shooting Suffered at Least Six Wounds, His Lawyer Says - The New York Times
 - No Longer Off Limits, the Strait of Hormuz Remains Thorny Politically - The New York Times
-- US-Iran ceasefire under strain ahead of talks - Reuters
-- The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
-- How to watch the Hungarian election like a pro - politico.eu
-- Asian stocks set for best week since 2022 ahead of U.S.-Iran talks - Reuters
-- Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks - Financial Times
-- China EV Exports Jump to Record as Iran Oil Shock Entices Buyers - Bloomberg.com
-- Asia-Pacific markets rise amid worries over Strait of Hormuz staying largely closed - CNBC
+- Even Hungary’s skewed elections might not save Viktor Orban - The Economist
+- EU’s Kallas urges ‘heavy-handed’ Israel to end strikes in Lebanon - politico.eu
+- 'We should not be at the mercy of events abroad' - Starmer - BBC
+- US summons bank bosses over cyber risks from Anthropic’s latest AI model - The Guardian
+- Iran war will leave a long-term ‘scar’ on Wall Street, investors warn - Financial Times
+- EV bloodbath: US sales plunge as Tesla tightens its grip - Business Insider
+- US Postal Service to suspend employer pay to workers’ pensions, citing cash crunch - NewsNation
+- Amazon upsets ebook lovers by ending support for old Kindle devices - The Guardian
 - WhatsApp is bringing Status updates to the top of the Chats tab - 9to5Mac
-- Free-to-Play Borderlands Mobile Game Suddenly Available as 'Limited-Time Test' on iPhone - IGN
