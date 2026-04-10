@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-10 05:51_
+_Updated: 2026-04-10 08:20_
 
-- U.S. to lead ceasefire talks between Lebanon and Israel in D.C. as Lebanon emerges as potential spoiler to Iran deal - CBS News
-- Michigan Man Is Arrested in Disappearance of Wife in Bahamas - The New York Times
+- Live Updates: Trump cautions Iran against charging tolls through Strait of Hormuz as fragile ceasefire holds - CBS News
 - Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder - The Guardian
+- What is Israel’s war in Lebanon, and why could it shatter the Iran ceasefire? - CNN
 - What Trump’s blowup with Rutte was really about - Politico
-- Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war - PBS
-- Trump Lashes Out at Prominent Conservatives Over Iran War Criticism - The New York Times
+- What We Know About the Disappearance of Lynette Hooker - The Cut
+- Netanyahu signals peace talks with Lebanon as Europe abhors continued Israeli bombing - politico.eu
 - Pentagon violated court order to restore press access, judge rules - The Washington Post
 - White House Warned Staff Not to Engage in Insider Trading Amid War With Iran - The New York Times
-- Texas teen's death linked to caffeine in Alani Nu energy drink, family alleges in lawsuit - NBC News
+- Family says popular energy drink played role in cheerleader's fatal heart condition - NBC News
 - Student Hit by Projectile During ‘No Kings’ Protest Lost an Eye, Lawyer Says - The New York Times
-- US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed - Reuters
-- European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon - The New York Times
-- Mass drowning of chicks puts emperor penguins at risk of extinction - The Guardian
-- UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic - Euronews.com
-- Stock Market Today: Dow Gains; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start — Live Updates - WSJ
+- Strait of Hormuz still seeing significantly lower traffic despite Iran war ceasefire - CBS News
+- The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
+- I.U.C.N. Red List Moves Emperor Penguins to “Endangered” - The New York Times
+- 'We should not be at the mercy of events abroad' - Starmer - BBC
+- Scott Bessent called in US bank CEOs to discuss Anthropic model’s cyber risks - Financial Times
+- Stock futures little changed as traders monitor fragile ceasefire between U.S. and Iran: Live updates - CNBC
 - Michael Burry says Anthropic is 'eating Palantir's lunch' as enterprise AI spending shifts - Business Insider
 - The New York Times Says It’s Identified the Creator of Bitcoin - Futurism
-- Goldman Sachs resets its oil price forecasts for the rest of 2026 - thestreet.com
+- You can now edit your Instagram comments - TechCrunch
 - JBL Live 780NC and 680NC review: Great leaps, greater missteps - Engadget
-- Spotify now lets everyone turn off videos in its app - TechCrunch
