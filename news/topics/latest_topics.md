@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 17:26_
+_Updated: 2026-04-10 18:28_
 
 ## Top Stories
 
-- 45-årig man häktas för Brattåsmorden - Dagens Nyheter
-- ”Valet i Ungern viktigt för hela EU” - Västerbottens-Kuriren
+- Michael Winiarski: Trumps krig ett tungt bakslag för det amerikanska imperiet - Dagens Nyheter
+- Tidigare förundersökningsledaren: ”Ingen känner igen honom” - Aftonbladet
+- Ungerska valet: Magyar leder stort – men seger räcker kanske inte - Europaportalen
 - Vance varnar Iran: Försök inte lura oss – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fullt utvecklad brand i centrala Stockholm Hornstull - Aftonbladet
+- Larm om lägenhetsbrand vid Hornstull - Mitt i
 - Efter M-toppens avhopp: ”Osedvanligt dåligt” - Svenska Dagbladet
-- "Jag tappade räkningen på alla patienter" - Läkare Utan Gränser
 - Flicka misstänkt för dubbelmord har omhäktats - Västerbottens-Kuriren
 - Man skjuten söder om Stockholm - Corren
-- ”När gråzonsbarnen börjar gymnasiet tar det ofta stopp” - Dagens Nyheter
 - Unga kvinnor misstänks ha misshandlat 79-årig hemlös - Dagens Nyheter
-- Pål Jonson om Trumps Natoutspel: Ansträngande - Västerbottens-Kuriren
+- Badförbud upphävs på nio badplatser i Stockholm - Dagens Nyheter
+- Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
+- Pål Jonson om Trumps Natoutspel: Ansträngande - GP
 - Xi mötte Taiwans oppositionsledare: ”Kommer enas” - Västerbottens-Kuriren
-- Hizbollah: Attackvågor mot israelisk militär – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Argentinas glaciärer hotade av gruvdrift - Dagens Nyheter
-- Staten tvingas äga ny kärnkraft - Svenska Dagbladet
+- Putins dieselartär i lågor - Expressen
+- Staten tvingas bli största ägaren i ny kärnkraft - Västerbottens-Kuriren
 - Bessent och Powell varnar för Anthropics nya AI-modell - Omni
-- Dieselpriset studsar upp – en krona dyrare - Aftonbladet
+- Stockholmsbörsen inleder fredagen något uppåt, OMXS30-index stiger 0,3 procent - Placera.se
 - Småspararfavoriten Plejd rusar – analyshus: ”Strålande” kvartal - EFN
 - Se dem här: Nasa publicerar historiska bilder från månens baksida - Illustrerad Vetenskap
 - Microsoft sänker priset på moln-pc med 20 procent - Computer Sweden
@@ -85,8 +85,8 @@ _Updated: 2026-04-10 17:26_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -131,8 +131,8 @@ _Updated: 2026-04-10 17:26_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- AI och data science - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
@@ -150,15 +150,15 @@ _Updated: 2026-04-10 17:26_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - ATL.nu
+- Lediga jobb - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - ATL.nu
+- Lediga jobb - ATL Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL.nu
+- Lediga jobb - ATL Nyheter
