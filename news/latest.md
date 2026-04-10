@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-10 01:24_
+_Updated: 2026-04-10 02:06_
 
 - Melania Trump denies close ties to Jeffrey Epstein in rare public statement - NPR
-- Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts - AP News
-- Strait of Hormuz remains all but closed, Trump demands Iran stop tolls - Axios
+- Netanyahu signals peace talks with Lebanon as Europe abhors continued Israeli bombing - politico.eu
+- Trump Warns Iran Not to Charge Fees For Ships Transiting Hormuz - Bloomberg.com
+- Trump’s ceasefire with Iran is tested as world anxiously watches - Politico
 - The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
 - NATO chief insists Europe is ‘scrambling’ to help with Iran war after latest Trump attacks - Politico
-- See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away" - CBS News
 - What Trump’s blowup with Rutte was really about - Politico
+- See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away" - CBS News
 - Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups - The Guardian
-- US judge orders Pentagon to restore press access - Reuters
-- ‘Subpoenas are forthcoming’: Florida AG opens probe into OpenAI, ChatGPT - Politico
-- I.U.C.N. Red List Moves Emperor Penguins to “Endangered” - The New York Times
+- Pentagon violated court order to restore press access, judge rules - The Washington Post
+- Emperor Penguins Are Now Endangered, a New Assessment Finds - The New York Times
 - IDF's 98th Division gains control over Hezbollah-ridden town in southern Lebanon - Yahoo
 - UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic - Euronews.com
-- Chinese FM spokesperson responds to report that China encouraged Iran to accept ceasefire, promised to act as guarantor - Global Times
-- Futures: Stocks Add To Gains With Big News Due - Investor's Business Daily
-- U.S. Postal Service seeks hike in price of first-class mail stamps to 82 cents in July - CNBC
+- Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs - CNBC
+- Futures: Trump Issues Hormuz Threat; Amazon Fuels AI Trade - Investor's Business Daily
+- The USPS is suspending contributions to employee pensions as it warns of a 'pending liquidity crisis' - Business Insider
 - Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers - AP News
 - Kia plans to launch U.S. pickup truck by 2030 - CNBC
 - Spotify now lets everyone turn off videos in its app - TechCrunch
-- Pixel At a Glance preps showing nearby Google Wallet passes, ‘Restaurant insights’ - 9to5Google
+- Amazon upsets ebook lovers by ending support for old Kindle devices - The Guardian
