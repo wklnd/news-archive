@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 10:07_
+_Updated: 2026-04-10 11:46_
 
 ## Top Stories
 
-- Hizbollah: Attackvågor mot israelisk militär - Västerbottens-Kuriren
-- Pål Jonson om Trumps Natoutspel: Ansträngande - GP
-- Han utmanar Trumps och Putins bästa vän i Europa - Dagens Nyheter
-- Artist hängs ut som mördare för sina texter: ”Bisarrt” - Omni
-- Explosion i Vasastaden i Göteborg – var handgranat - SVT Nyheter
-- Två barn bland dödade svenskar i Libanon - Västerbottens-Kuriren
-- Kampen för att rädda Gaboro: ”Det var kaos" - NT
+- ”Valet i Ungern viktigt för hela EU” - Västerbottens-Kuriren
+- Källa: Trumps möte med Rutte ”gick åt helvete” - Hufvudstadsbladet – HBL
+- Trump: Israel trappar ner attackerna i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Två svenska barn dödade i Libanon - Dagens Nyheter
+- Handgranat bakom explosion i Göteborg - Omni
+- Tre bilar i krock – höger körfält nu öppet på E6:an - SVT Nyheter
+- Åtalas för mord på rappare – brutal film spreds - Dagens Nyheter
 - Kvinna tvingades sälja sex – ska betala skatt - Västerbottens-Kuriren
+- Pojke hölls isolerad och fick mat genom en lucka i över tre dygn på Sis-hem - Dagens Nyheter
 - Marinen tar in spaningsfartyget Orion för nya tester - Sveriges Radio
-- Oro för att valresultatet ifrågasätts - GP
 - HANS STIGSSON: Misslyckad vapenvila följer på misslyckat krig - NT
-- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - cornucopia.se
-- Så förebygger filippinska kustsamhället översvämningar på naturlig väg - Sveriges Radio
+- Argentinas glaciärer hotade av gruvdrift - Dagens Nyheter
 - Trump till tidigare vännerna: ”Lågt IQ” - Aftonbladet
-- Börsen går mot grön öppning - Aftonbladet
-- Bessent och Powell varnar bankjättar för Anthropic - Omni
-- Katrine Kielos: Den farligaste förändringen syns inte i oljepriset - EFN
-- Fondbolagen: Börsoron bidrog till uttag på 11 miljarder kronor - Sak & Liv
+- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - cornucopia.se
+- Börsen går mot grön öppning - Västerbottens-Kuriren
+- Bessent och Powell varnar för Anthropics nya AI-modell - Omni
+- Katrine Kielos: Farligaste förändringen syns inte i priset - EFN
+- Klassisk butik går i graven när Coopförening städar - Dagens Nyheter
 - Se dem här: Nasa publicerar historiska bilder från månens baksida - Illustrerad Vetenskap
 - Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
 
@@ -29,46 +29,46 @@ _Updated: 2026-04-10 10:07_
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
-- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Tabloiddrottningens sista smaskiga story - Svenska Dagbladet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -142,23 +142,23 @@ _Updated: 2026-04-10 10:07_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- 71204-01_Mjau_Partypuffar Kattmynta_60g_Cat_Doypack_Collabra_FRONT_20250414.jpg - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - ATL.nu
