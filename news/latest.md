@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-11 00:06_
+_Updated: 2026-04-11 01:19_
 
+- Swalwell campaign imploding after new sexual assault allegation - Politico
 - Vance warns Iran not to ‘play’ the US as he departs for negotiations aimed at ending the war - AP News
 - Survivors of Epstein’s abuse accuse Melania Trump of ‘shifting burden’ on to victims - The Guardian
-- Democrat Kamala Harris teases 2028 presidential bid, following Trump loss - Al Jazeera
-- Swalwell campaign imploding after new sexual assault allegation - Politico
-- Artemis II live updates: Astronauts prepare for splashdown as Orion returns to Earth today - Yahoo
 - Trump officials unveil designs for president’s controversial 250-foot arch - The Washington Post
-- What We Know About the Disappearance of Lynette Hooker - The Cut
+- Democrat Kamala Harris teases 2028 presidential bid, following Trump loss - Al Jazeera
+- Trump criticizes Iran not allowing more oil through Strait of Hormuz: 'Not the agreement we have' - Fox News
+- Middle East crisis live: Trump warns of fresh Iran strikes if talks fail; Lebanon and Israel agree to meet in US - The Guardian
+- Husband of American woman missing in Bahamas is questioned again by police, attorney says - CNN
 - Trump proposes painting executive office building white - CBS News
-- James Blair eyes White House leave to run Trump's midterms push - Axios
-- Mapping the Strait of Hormuz at near standstill after ceasefire - Reuters
+- Masked Men in San Francisco Offer Cash for Signatures on Ballot Initiatives - The New York Times
 - Five things to know about Hungary's election - NPR
+- Lebanon and U.S. ask Israel for "pause" in fighting, sources say - Axios
 - Prince Harry sued for defamation by Sentebale charity he co-founded - Al Jazeera
-- Lebanon says ceasefire must be in place before Israel talks - BBC
-- Pope Leo XIV condemns war, rejects claims of divine backing - Politico
+- Shortlisted for an Oscar, 'Homebound' is a daring movie about two dear friends - NPR
 - 20-year-old suspect arrested after throwing Molotov cocktail at Sam Altman's San Francisco home, OpenAI says - ABC7 San Francisco
+- S&P 500 slips Friday, but index posts best week since November after fragile Iran ceasefire deal: Live updates - CNBC
 - US inflation soars in March as war on Iran drives economy into uncertainty - The Guardian
-- Bank of Canada, Major Lenders Meet on Anthropic AI Cyber Risk - Bloomberg.com
-- JP Morgan Warns Oil Could Hit $120 if Hormuz Stalemate Drags Into July - Crude Oil Prices Today | OilPrice.com
+- Strait of Hormuz Constraints Keep Oil Prices Elevated - Crude Oil Prices Today | OilPrice.com
 - Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool - The Verge
-- Some Google Pixel phones hit with bootloop issues following recent updates, fix in the works - 9to5Google
+- New iPhone Fold leaks cover ‘Ultra’ name, launch timing, more - 9to5Mac
