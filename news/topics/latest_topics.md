@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 18:28_
+_Updated: 2026-04-10 19:25_
 
 ## Top Stories
 
-- Michael Winiarski: Trumps krig ett tungt bakslag för det amerikanska imperiet - Dagens Nyheter
-- Tidigare förundersökningsledaren: ”Ingen känner igen honom” - Aftonbladet
-- Ungerska valet: Magyar leder stort – men seger räcker kanske inte - Europaportalen
-- Vance varnar Iran: Försök inte lura oss – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Larm om lägenhetsbrand vid Hornstull - Mitt i
+- Direkt – Krisen i Mellanöstern – Libanon kräver vapenvila för Israelsamtal - Dagens Nyheter
+- Katrineholmare häktas för 21 år gammalt dubbelmord i Brattås - Sveriges Radio
+- Ungerska valet: Magyar leder stort – men seger räcker kanske inte till - Europaportalen
+- Lägenhetsbrand på Södermalm – en förd till sjukhus - Mitt i
 - Efter M-toppens avhopp: ”Osedvanligt dåligt” - Svenska Dagbladet
+- Kronprinsessan Mette-Marit tillbaka på jobbet – med syrgas - Expressen
 - Flicka misstänkt för dubbelmord har omhäktats - Västerbottens-Kuriren
-- Man skjuten söder om Stockholm - Corren
-- Unga kvinnor misstänks ha misshandlat 79-årig hemlös - Dagens Nyheter
 - Badförbud upphävs på nio badplatser i Stockholm - Dagens Nyheter
-- Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
-- Pål Jonson om Trumps Natoutspel: Ansträngande - GP
-- Xi mötte Taiwans oppositionsledare: ”Kommer enas” - Västerbottens-Kuriren
+- ”När gråzonsbarnen börjar gymnasiet tar det ofta stopp” - Dagens Nyheter
+- Man skjuten söder om Stockholm - Corren
+- Källa: Trumps möte med Rutte ”gick åt helvete” - Hufvudstadsbladet – HBL
+- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - Cornucopia?
 - Putins dieselartär i lågor - Expressen
-- Staten tvingas bli största ägaren i ny kärnkraft - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Tre svenskar dödade i Libanon - Dagens Nyheter
+- Ny kärnkraft är en samhällsinvestering som förutsätter en ny roll för staten - Regeringen.se
 - Bessent och Powell varnar för Anthropics nya AI-modell - Omni
-- Stockholmsbörsen inleder fredagen något uppåt, OMXS30-index stiger 0,3 procent - Placera.se
-- Småspararfavoriten Plejd rusar – analyshus: ”Strålande” kvartal - EFN
+- Börsuppgång tilltar – Saab mot strömmen - Västerbottens-Kuriren
+- Dieselpriset studsar upp – en krona dyrare - Aftonbladet
 - Se dem här: Nasa publicerar historiska bilder från månens baksida - Illustrerad Vetenskap
-- Microsoft sänker priset på moln-pc med 20 procent - Computer Sweden
+- Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
 
 ## World News
 
@@ -85,8 +85,8 @@ _Updated: 2026-04-10 18:28_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -131,8 +131,8 @@ _Updated: 2026-04-10 18:28_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
@@ -150,15 +150,15 @@ _Updated: 2026-04-10 18:28_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
