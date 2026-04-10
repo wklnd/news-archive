@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 00:03_
+_Updated: 2026-04-11 01:03_
 
 ## Top Stories
 
 - Orbáns enda utmanare i Ungern – det här är Péter Magyar - GP
-- Rysk ubåt i Kattegatt – följs av svenskt stridsflyg - Dagens Nyheter
-- Iranska delegationen på plats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svenskt stridsflyg följde rysk ubåt - SVT Nyheter
 - USA och Iran ställer krav inför Pakistansamtal - Hufvudstadsbladet – HBL
+- Israel: Ej vapenvila med Hizbollah - Västerbottens-Kuriren
+- Artemis 2 kommer hem i natt efter historiska månresan - Omni
 - Trump till tidigare vännerna: ”Lågt IQ” - Aftonbladet
-- Misstänkte mannen häktas för dubbelmordet i Brattås - Omni
+- 45-årig man häktas för Brattåsmorden - Dagens Nyheter
 - Flera partier får inte ihop valbara kandidater i alla dalakommuner - SVT Nyheter
 - 10 april 13.28, Trafikkontroll, Västerbottens län - polisen.se
 - C kallar minister till utskott – om prostitution - Västerbottens-Kuriren
-- Susannes oro inför valet: ”Risk att vi tappar kontroll” - Sveriges Radio
 - Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
 - Israels godkännande av nya bosättningar fördöms - Västerbottens-Kuriren
 - Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
-- DN Direkt – Uppgifter: Sinande kassa i Trumps ”fredsråd” - Dagens Nyheter
-- Oppositionen protesterar när regeringen vill förstatliga kärnkraft - EFN
+- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - Cornucopia?
+- Regeringen föreslår att ta majoritetspost i Videberg Kraft - Placera.se
 - USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
 - Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
-- Plejd skjuter upp planerad flytt till Stockholmsbörsen till 2027 - Placera.se
-- Artemis 2 kommer hem i natt efter historiska månresan - Omni
-- Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
+- Ödesdagar för oljekrisen – kan bli ny prischock - Dagens Nyheter
+- Apples trumfkort – dolt i telefonen - Svenska Dagbladet
+- Tullare går under cover i ny tv-serie. Legends har premiär på Netflix nästa månad. - feber.se
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-04-11 00:03_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Nordnets förra vd fattar klubban i VNV Global - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 
 ## Technology
 
@@ -55,12 +55,12 @@ _Updated: 2026-04-11 00:03_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -105,40 +105,40 @@ _Updated: 2026-04-11 00:03_
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning om hälso- och sjukvårdskuratorer inom EU - Socionomen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
