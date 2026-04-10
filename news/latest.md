@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-10 02:06_
+_Updated: 2026-04-10 05:51_
 
-- Melania Trump denies close ties to Jeffrey Epstein in rare public statement - NPR
-- Netanyahu signals peace talks with Lebanon as Europe abhors continued Israeli bombing - politico.eu
-- Trump Warns Iran Not to Charge Fees For Ships Transiting Hormuz - Bloomberg.com
-- Trump’s ceasefire with Iran is tested as world anxiously watches - Politico
-- The deadliest 10 minutes in decades: Lebanese reel from Israeli strikes that killed hundreds - The Guardian
-- NATO chief insists Europe is ‘scrambling’ to help with Iran war after latest Trump attacks - Politico
+- U.S. to lead ceasefire talks between Lebanon and Israel in D.C. as Lebanon emerges as potential spoiler to Iran deal - CBS News
+- Michigan Man Is Arrested in Disappearance of Wife in Bahamas - The New York Times
+- Trump news at a glance: Melania Trump’s weird disavowal of Epstein is getting weirder - The Guardian
 - What Trump’s blowup with Rutte was really about - Politico
-- See the messages Brian Hooker sent his friend after wife's disappearance in the Bahamas: "The wind blew me away" - CBS News
-- Wild chimpanzees recorded waging ‘civil war’ with coordinated attacks between two groups - The Guardian
+- Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war - PBS
+- Trump Lashes Out at Prominent Conservatives Over Iran War Criticism - The New York Times
 - Pentagon violated court order to restore press access, judge rules - The Washington Post
-- Emperor Penguins Are Now Endangered, a New Assessment Finds - The New York Times
-- IDF's 98th Division gains control over Hezbollah-ridden town in southern Lebanon - Yahoo
+- White House Warned Staff Not to Engage in Insider Trading Amid War With Iran - The New York Times
+- Texas teen's death linked to caffeine in Alani Nu energy drink, family alleges in lawsuit - NBC News
+- Student Hit by Projectile During ‘No Kings’ Protest Lost an Eye, Lawyer Says - The New York Times
+- US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed - Reuters
+- European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon - The New York Times
+- Mass drowning of chicks puts emperor penguins at risk of extinction - The Guardian
 - UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic - Euronews.com
-- Keir Starmer: 'I'm fed up' with Trump and Putin affecting UK energy costs - CNBC
-- Futures: Trump Issues Hormuz Threat; Amazon Fuels AI Trade - Investor's Business Daily
-- The USPS is suspending contributions to employee pensions as it warns of a 'pending liquidity crisis' - Business Insider
-- Well-timed bets on Polymarket tied to the Iran war draw calls for investigations from lawmakers - AP News
-- Kia plans to launch U.S. pickup truck by 2030 - CNBC
+- Stock Market Today: Dow Gains; Oil Rebounds After Iran Cease-Fire Gets Off to Shaky Start — Live Updates - WSJ
+- Michael Burry says Anthropic is 'eating Palantir's lunch' as enterprise AI spending shifts - Business Insider
+- The New York Times Says It’s Identified the Creator of Bitcoin - Futurism
+- Goldman Sachs resets its oil price forecasts for the rest of 2026 - thestreet.com
+- JBL Live 780NC and 680NC review: Great leaps, greater missteps - Engadget
 - Spotify now lets everyone turn off videos in its app - TechCrunch
-- Amazon upsets ebook lovers by ending support for old Kindle devices - The Guardian
