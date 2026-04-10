@@ -1,59 +1,59 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-10 01:09_
+_Updated: 2026-04-10 02:02_
 
 ## Top Stories
 
-- Natos generalsekreterare: Amerikanskt ledarskap helt avgörande - Hufvudstadsbladet – HBL
 - Få fartyg passerar Hormuzsundet efter eldupphöret - Dagens Nyheter
+- Natos generalsekreterare: Amerikanskt ledarskap helt avgörande - Hufvudstadsbladet – HBL
 - Han utmanar Trumps och Putins bästa vän i Europa - Dagens Nyheter
-- Hög smäll i Vasa i Göteborg – polisinsats - Sveriges Radio
-- Liberalerna får inte ihop listor i flera kommuner - Omni
+- Explosion vid Vasaplatsen i Göteborg - SVT Nyheter
+- Förnekar koppling till Epstein - Svenska Dagbladet
 - Farhågor om många dödade barn i Beirut - Västerbottens-Kuriren
 - Nya rekommendationer ska främja goda sömnvanor hos barn och unga - Regeringen.se
 - Man livshotande skadad i frontalkrock - Västerbottens-Kuriren
 - DN Direkt – Misstänkt för Brattåsmorden begärs häktad - Dagens Nyheter
 - Ebba Busch som Ica-Stig på TikTok – anmäld - GP
-- Förnekar koppling till Epstein - Svenska Dagbladet
+- Direkt – Krisen i Mellanöstern – Dödstalet stiger i Libanon - Dagens Nyheter
 - Kina uppges i hemlighet ha pressat Iran till avtalet - Dagens Nyheter
-- Misstänkt mordförsök i Göteborg - Expressen
-- Direkt – Krisen i Mellanöstern – Tre svenskar dödade i Libanon - Dagens Nyheter
+- Putin utlyser ensidig vapenvila - Aftonbladet
 - Börsnedgång tilltar – oljepriset stiger - Västerbottens-Kuriren
 - Oljepriset rusar – avslöjar skräcken: ”Fysisk brist” - Expressen
-- Meta: Muse-modellerna kan vara just den gnista som företaget behövde för utvecklingen av AI-modeller - Morningstar Canada
 - Ackmans plan: Utnyttja investerarnas arrogans - Dagens PS
+- Priset på diesel sänks med nästan tre kronor - nyteknik
 - 🌔 Artemis 2-astronauterna flög runt månen – satte nytt distansrekord - Warp News
 - Apples trumfkort – dolt i telefonen - Svenska Dagbladet
+- Efter nya bilden på jorden: Nej, den har inte blivit grå - TV4 Nyheterna
 
 ## World News
 
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin.com News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nordnets förra vd fattar klubban i VNV Global - DI
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -63,12 +63,12 @@ _Updated: 2026-04-10 01:09_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
-- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -76,8 +76,9 @@ _Updated: 2026-04-10 01:09_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2026-04-10 01:09_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Co-native och HSB i fortsätt samarbete med nytt ramavtal - Mynewsdesk
 - Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
 
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Vi presenterar ChatGPT Health - OpenAI
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM J4 logga 16_9.jpg - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Women's Empowerment Week på GoCo Health Innovation City - Mynewsdesk
 
 ## Science
 
@@ -133,12 +133,12 @@ _Updated: 2026-04-10 01:09_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2026-04-10 01:09_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lediga jobb - ATL.nu
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Lediga jobb - ATL.nu
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Lediga jobb - ATL.nu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
