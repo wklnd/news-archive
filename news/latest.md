@@ -1,19 +1,19 @@
 # Top News Headlines
 
-_Updated: 2026-04-11 21:59_
+_Updated: 2026-04-11 23:03_
 
-- Iran War Live Updates: U.S. and Iran Hold Historic High-Level Peace Talks in Pakistan - The New York Times
+- Middle East crisis live: Iran peace talks under way as Trump claims US has begun clearing mines in strait of Hormuz - The Guardian
 - Calls grow for Swalwell to quit California governor race after sexual assault allegations - BBC
-- U.S. Forces Start Mine Clearance Mission in Strait of Hormuz - centcom.mil
-- Attacker in New York subway machete attack shot and killed by police - The Guardian
-- US military 'setting conditions' to clear mines from Strait of Hormuz - Reuters
-- US Intelligence Shows China Set to Supply Iran Arms, CNN Reports - Bloomberg.com
+- Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships - USNI News
+- US Navy Ships Crossed Strait of Hormuz on Saturday, Axios Says - Bloomberg.com
+- Man Stabs 3 With Machete at Grand Central and Is Fatally Shot by Officer - The New York Times
+- US intelligence indicates China preparing weapons shipment to Iran, CNN reports - Reuters
+- US appeals court extends deadline to halt White House ballroom construction - Al Jazeera
 - US man in Bahamian jail after wife disappears into Atlantic waters during boat trip - The Guardian
+- Man Accused of Warehouse Arson Invoked Mangione, Court Files Say - The New York Times
 - Secretary Rubio Terminates Green Cards of Foreign Nationals Tied to Infamous Iranian Regime Propagandist - U.S. Department of State (.gov)
-- Ontario warehouse fire: What we know about Chamel Abdulkarim, suspect charged with arson - ABC7 Los Angeles
-- Trump says plans filed for huge triumphal arch in Washington - DW.com
-- Pope Leo says 'delusion of omnipotence' is fueling U.S.-Israeli war in Iran - NPR
-- Is strongman leader and MAGA darling Viktor Orbán about to be ousted? What to know ahead of Hungary's elections - CBS News
+- Pope Leo criticizes "idolatry of self" in latest rebuke of Iran conflict: "Enough with war!" - CBS News
+- An Orban loss in Hungary’s election could be the turning point Putin fears - France 24
 - Peru holds presidential election amid a decade of political tumult - Al Jazeera
 - India cracks down on satirists for turning its prime minister into a punch line - NPR
 - March inflation soars, confirming Iran war price shock - Axios
