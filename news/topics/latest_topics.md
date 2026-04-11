@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 17:02_
+_Updated: 2026-04-11 17:56_
 
 ## Top Stories
 
-- Trump: USA har börjat rensa Hormuzsundet - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Iran har framfört krav och röda linjer till Pakistan - Dagens Nyheter
+- Emma Bouvin: Peppen är inte enorm när ”Ondskan” möter ”Den store Satan” - Dagens Nyheter
+- Trump: USA har börjat rensa Hormuzsundet - GP
+- Mystiken kring fantombilden – ’inget stämmer’ - Aftonbladet
+- Iransk militär: Attackerar inom 30 minuter om USA korsar sundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
-- Iransk militär: Attackerar inom 30 minuter ifall sundet korsas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- Bil och spårvagn i olycka - GP
-- Polisen: Oförklarligt att inte fler dött i bombdåd - Västerbottens-Kuriren
-- Försvaret tappar makt över falska pass till militära spioner - Dagens Nyheter
+- Påskvapenvila inledd i ryska kriget i Ukraina - Västerbottens-Kuriren
+- SMHI-larm: Stor risk för gräsbränder - Västerbottens-Kuriren
 - Svensk utlämnad från USA för lagföring - polisen.se
-- Regeringen föreslår flyttbidrag – ska få arbetslösa att flytta - Dagens Nyheter
-- Nioårig pojke inlåst i skåpbil – sedan 2024 - SVT Nyheter
+- Försvaret tappar makt över falska pass till militära spioner - Dagens Nyheter
+- Polisen: Oförklarligt att inte fler dött i bombdåd - GP
+- Nioårig pojke inlåst i skåpbil – i två år - Västerbottens-Kuriren
 - Fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
 - UPPDATERAS: Rysk oljehub bombad samt fabriker i Tver - massiva ryska förluster - USA vill ge ekonomiskt stöd till putinisten Orbans regim, förlänger lyfta ryska sanktioner - Cornucopia?
 - Trumps hemliga plan när han avgår - Aftonbladet
 - Hur långt har batteriernas ”game changer” kommit? - Dagens Nyheter
 - Han har tjänat 13 miljarder på ett år – på en enda aktie - Dagens PS
 - USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
-- Pareto: Betydande upprevideringar väntar Plejd efter rapportkrossen - Affärsvärlden
+- Flygbränslebrist hotar EU-flygplatser inom tre veckor - Sveriges Radio
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - 28 mobiler som riskerar att sluta fungera 2026 – är din på listan? - Dagens.se
 
@@ -41,8 +41,8 @@ _Updated: 2026-04-11 17:02_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
@@ -73,9 +73,9 @@ _Updated: 2026-04-11 17:02_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -88,11 +88,11 @@ _Updated: 2026-04-11 17:02_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -104,6 +104,7 @@ _Updated: 2026-04-11 17:02_
 - Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -115,30 +116,29 @@ _Updated: 2026-04-11 17:02_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2026-04-11 17:02_
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
-- Jordbruk och landsbygdsutveckling - European Commission
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - ATL.nu
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
