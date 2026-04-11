@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 21:56_
+_Updated: 2026-04-11 23:00_
 
 ## Top Stories
 
 - Historiska fredssamtal – oviss utgång - GP
+- Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
 - USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
-- Netanyahu: Israel ”har mer kvar att göra” i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Direkt – Kriget i Ukraina – Ännu en drönare hittad i Finland - Dagens Nyheter
 - Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
-- Ukraina noterar över 400 brott mot vapenvilan - Västerbottens-Kuriren
+- Malte, 19, dog i kanotolyckan i Växjö - Aftonbladet
 - SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- De manifesterar inför ”exilprinsens” besök - GP
-- Två olyckor där skärmflygare fastnade i träd - Västerbottens-Kuriren
-- Man ihjälskjuten av israeliska bosättare - Västerbottens-Kuriren
-- Viktigast i veckan: Avgörande väntar i Ungern – USA-krig dämpar tillväxt i EU - Europaportalen
+- DN Direkt – Skärmflygare fast högt upp i träd - Dagens Nyheter
+- Svensk utlämnad från USA för lagföring - polisen.se
+- Tredje rundan av samtal ”kan bli sista” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Palestinier ihjälskjuten på Västbanken - Västerbottens-Kuriren
+- Poliser utsatta för våld i Enköping - Expressen
 - Källor: Trump utlovar massbenådningar innan han slutar - Dagens Nyheter
-- Fångutväxling mellan Ukraina och Ryssland - GP
-- Lufthansas piloter varslar om ny flygstrejk - DI
-- Bränslepriset skenar – Cathay slopar avgångar - Aftonbladet
+- Lufthansas piloter varslar om ny flygstrejk - NWT
+- DN Direkt – Självkörande Tesla får grönt ljus i Nederländerna - Dagens Nyheter
+- Flygbolag slopar avgångar när bränslepriset skenar - DI
 - Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
-- Nio av tio laddstolpar står tomma – elbilsboomen som aldrig kom - Bulletin
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Perrelli har fått hjärnskakning - Expressen
 
@@ -59,8 +59,8 @@ _Updated: 2026-04-11 21:56_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -82,6 +82,7 @@ _Updated: 2026-04-11 21:56_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -90,9 +91,8 @@ _Updated: 2026-04-11 21:56_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-04-11 21:56_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Vi presenterar ChatGPT Health - OpenAI
+- Vi presenterar HealthBench - OpenAI
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -135,10 +135,10 @@ _Updated: 2026-04-11 21:56_
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
