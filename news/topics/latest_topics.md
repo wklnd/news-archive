@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 23:00_
+_Updated: 2026-04-11 23:56_
 
 ## Top Stories
 
 - Historiska fredssamtal – oviss utgång - GP
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
 - USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
-- Direkt – Kriget i Ukraina – Ännu en drönare hittad i Finland - Dagens Nyheter
 - Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
-- Malte, 19, dog i kanotolyckan i Växjö - Aftonbladet
+- Ukraina noterar över 400 brott mot vapenvilan - Västerbottens-Kuriren
+- Expert: ”Gott tecken” att samtalen pågår inpå natten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
+- De manifesterar inför ”exilprinsens” besök - GP
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
 - DN Direkt – Skärmflygare fast högt upp i träd - Dagens Nyheter
-- Svensk utlämnad från USA för lagföring - polisen.se
-- Tredje rundan av samtal ”kan bli sista” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Palestinier ihjälskjuten på Västbanken - Västerbottens-Kuriren
-- Poliser utsatta för våld i Enköping - Expressen
-- Källor: Trump utlovar massbenådningar innan han slutar - Dagens Nyheter
+- Kvinna körde i fel riktning på riksväg 25 - Expressen
+- Direkt – Krisen i Mellanöstern – Man ihjälskjuten av israeliska bosättare - Dagens Nyheter
+- Nioårig pojke stängdes in i skåpbil i nästan två år - Aftonbladet
 - Lufthansas piloter varslar om ny flygstrejk - NWT
-- DN Direkt – Självkörande Tesla får grönt ljus i Nederländerna - Dagens Nyheter
-- Flygbolag slopar avgångar när bränslepriset skenar - DI
+- Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan
+- Bränslepriset skenar – Cathay ställer in - Svenska Dagbladet
 - Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Perrelli har fått hjärnskakning - Expressen
+- NY STUDIE: Då kan ditt nej till sex påverka relationen - Aftonbladet
 
 ## World News
 
@@ -36,17 +36,17 @@ _Updated: 2026-04-11 23:00_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -58,7 +58,7 @@ _Updated: 2026-04-11 23:00_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
@@ -82,7 +82,6 @@ _Updated: 2026-04-11 23:00_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-04-11 23:00_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -100,21 +100,21 @@ _Updated: 2026-04-11 23:00_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
@@ -122,23 +122,23 @@ _Updated: 2026-04-11 23:00_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
