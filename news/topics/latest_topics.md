@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 23:56_
+_Updated: 2026-04-12 01:01_
 
 ## Top Stories
 
 - Historiska fredssamtal – oviss utgång - GP
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
 - USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
+- Källor: Iranledarens ansikte vanställt - DI
 - Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
-- Ukraina noterar över 400 brott mot vapenvilan - Västerbottens-Kuriren
-- Expert: ”Gott tecken” att samtalen pågår inpå natten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Vi vinner oavsett – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
 - De manifesterar inför ”exilprinsens” besök - GP
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
 - DN Direkt – Skärmflygare fast högt upp i träd - Dagens Nyheter
-- Kvinna körde i fel riktning på riksväg 25 - Expressen
-- Direkt – Krisen i Mellanöstern – Man ihjälskjuten av israeliska bosättare - Dagens Nyheter
-- Nioårig pojke stängdes in i skåpbil i nästan två år - Aftonbladet
+- Ryssland och Ukraina anklagar varandra för brott mot vapenvila - Dagens Nyheter
+- Man ihjälskjuten av israeliska bosättare - Västerbottens-Kuriren
+- Källor: Trump utlovar massbenådningar innan han slutar - Dagens Nyheter
 - Lufthansas piloter varslar om ny flygstrejk - NWT
 - Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan
-- Bränslepriset skenar – Cathay ställer in - Svenska Dagbladet
 - Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
+- Bränslepriset skenar – Cathay ställer in - Svenska Dagbladet
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Perrelli har fått hjärnskakning - Expressen
 - NY STUDIE: Då kan ditt nej till sex påverka relationen - Aftonbladet
@@ -28,21 +28,21 @@ _Updated: 2026-04-11 23:56_
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -73,9 +73,9 @@ _Updated: 2026-04-11 23:56_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -90,8 +90,8 @@ _Updated: 2026-04-11 23:56_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
@@ -142,23 +142,23 @@ _Updated: 2026-04-11 23:56_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL Nyheter
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL Nyheter
-- Framtidens jordbruk är här - EU Digital Strategy
-- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
