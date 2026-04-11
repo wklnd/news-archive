@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 19:58_
+_Updated: 2026-04-11 21:11_
 
 ## Top Stories
 
-- Kinas dubbelspel mot väst om Iran – utmanar USA - Dagens Nyheter
-- USA: Två krigsfartyg passerade Hormuzsundet - GP
+- Historiska fredssamtal – oviss utgång - GP
+- USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
 - Al Jazeera: Vissa framsteg har gjorts – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ännu en kraschad drönare hittad i Finland - Västerbottens-Kuriren
 - Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
-- Påskvapenvila inledd i ryska kriget i Ukraina - Västerbottens-Kuriren
-- Barn påkört i Stockholm - Expressen
+- Malte, 19, dog i kanotolyckan i Växjö - Aftonbladet
 - SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
 - De manifesterar inför ”exilprinsens” besök - GP
-- Försvaret kan stoppas från att skapa falska pass - GP
+- Försvaret tappar makt över falska pass till militära spioner - Dagens Nyheter
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- Så har Ungerns valsystem riggats för att gynna Orbán - Dagens Nyheter
-- Nioårig pojke inlåst i skåpbil – sedan 2024 - SVT Nyheter
 - Direkt – Krisen i Mellanöstern – Man ihjälskjuten av israeliska bosättare - Dagens Nyheter
+- Viktigast i veckan: Avgörande väntar i Ungern – USA-krig dämpar tillväxt i EU - Europaportalen
+- Nioårig pojke inlåst i skåpbil – i två år - Västerbottens-Kuriren
 - Fångutväxling mellan Ukraina och Ryssland - GP
 - Lufthansas piloter varslar om ny flygstrejk - DI
-- Hur långt har batteriernas ”game changer” kommit? - Dagens Nyheter
-- Han har tjänat 13 miljarder på ett år – på en enda aktie - Dagens PS
 - Bränslepriset skenar – Cathay slopar avgångar - Aftonbladet
+- Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
+- Nio av tio laddstolpar står tomma – elbilsboomen som aldrig kom - Bulletin
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
-- 28 mobiler som riskerar att sluta fungera 2026 – är din på listan? - Dagens.se
+- NY STUDIE: Då kan ditt nej till sex påverka relationen - Aftonbladet
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -73,9 +73,9 @@ _Updated: 2026-04-11 19:58_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
