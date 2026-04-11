@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 13:54_
+_Updated: 2026-04-11 15:36_
 
 ## Top Stories
 
-- Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
 - Direkt – Krisen i Mellanöstern – Trumps förhandlare har landat i Pakistan för fredssamtalen - Dagens Nyheter
-- Tre barn på E20 vid Örebro – bilister varnas - SVT Nyheter
-- Zelenskyj: Redo för vapenvila – men kommer svara - GP
-- Ebba Busch: Åkesson jobbar inte så mycket - Västerbottens-Kuriren
-- Svensk utlämnad från USA för lagföring - polisen.se
-- Polisen: Oförklarligt att inte fler dött i bombdåd - GP
+- Källor: Amerikanska krigsfartyg har korsat Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
+- DN Direkt – Larm om lekande barn på E20: ”Totalt livsfarligt” - Dagens Nyheter
+- Tre fartyg på väg genom Hormuzsundet - Västerbottens-Kuriren
+- Bil och spårvagn i krock – stopp i spårvagnstrafiken - Sveriges Radio
+- Misstänkt bedragare utlämnad från USA - Västerbottens-Kuriren
 - Regeringen föreslår flyttbidrag – ska få arbetslösa att flytta - Dagens Nyheter
-- 11 april 06.59, Sammanfattning natt, Värmlands län - polisen.se
-- Båt hamnade ovanpå bil: "Mycket ovanlig olycka" - NT
-- Samtalen inledda – via medlare – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källa: Iran har inte koll på minorna i sundet - Västerbottens-Kuriren
-- Energidrycken stäms – efter 17-årings död • Ägs av svensk energidryckjätte - Expressen
-- Pål Jonson: Utspelen försvagar sammanhållningen i Nato - Dagens Nyheter
+- Polisen: Oförklarligt att inte fler dött i bombdåd - GP
+- Kraftigt jordskalv i Västerbotten – ”Ovanligt stort” - SVT Nyheter
+- Poliser utsatta för våld i Enköping - Expressen
+- UPPDATERAS: Rysk oljehub bombad samt fabriker i Tver - massiva ryska förluster - USA vill ge ekonomiskt stöd till putinisten Orbans regim, förlänger lyfta ryska sanktioner - Cornucopia?
+- Trumps hemliga plan när han avgår - Aftonbladet
+- Uppgifter: Trumps vrede i möte med Nato-chef - Affärsvärlden
+- Hur långt har batteriernas ”game changer” kommit? - Dagens Nyheter
 - Han har tjänat 13 miljarder på ett år – på en enda aktie - Dagens PS
 - Skriker efter anställda – varför flyttar ingen hit? - Svenska Dagbladet
-- Globala fonder flyr indiska aktier - DI
 - Bränslepriset högt trots statliga skattelättnader - Sydkusten
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Apple förbereder Car Key för Lexus – lansering kan närma sig - Teknikveckan
@@ -28,8 +28,8 @@ _Updated: 2026-04-11 13:54_
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Another CBSA dog sniffs out kilos of raw meat in traveller’s bag at Pearson airport - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
