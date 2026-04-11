@@ -1,13 +1,13 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 01:03_
+_Updated: 2026-04-11 01:59_
 
 ## Top Stories
 
-- Orbáns enda utmanare i Ungern – det här är Péter Magyar - GP
+- Därför stöttar Trump Orbán: ”Klubb av starka män” - Hufvudstadsbladet – HBL
 - Svenskt stridsflyg följde rysk ubåt - SVT Nyheter
-- USA och Iran ställer krav inför Pakistansamtal - Hufvudstadsbladet – HBL
 - Israel: Ej vapenvila med Hizbollah - Västerbottens-Kuriren
+- Krigsfartyg står redo – kan smälla om 24 timmar - Marcus Oscarsson
 - Artemis 2 kommer hem i natt efter historiska månresan - Omni
 - Trump till tidigare vännerna: ”Lågt IQ” - Aftonbladet
 - 45-årig man häktas för Brattåsmorden - Dagens Nyheter
@@ -16,24 +16,25 @@ _Updated: 2026-04-11 01:03_
 - C kallar minister till utskott – om prostitution - Västerbottens-Kuriren
 - Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
 - Israels godkännande av nya bosättningar fördöms - Västerbottens-Kuriren
+- Så ska triumfbågen i Washington DC se ut - SVT Nyheter
 - Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
-- UPPDATERAS: Ryska krigsmakten kan inte längre underhålla sina Antonovplan - möjlig vapenvila i ortodoxa påskhelgen - Cornucopia?
-- Regeringen föreslår att ta majoritetspost i Videberg Kraft - Placera.se
 - USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
 - Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
 - Ödesdagar för oljekrisen – kan bli ny prischock - Dagens Nyheter
+- Regeringen föreslår att ta majoritetspost i Videberg Kraft - Placera.se
 - Apples trumfkort – dolt i telefonen - Svenska Dagbladet
-- Tullare går under cover i ny tv-serie. Legends har premiär på Netflix nästa månad. - feber.se
+- Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
 
 ## World News
 
+- Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -43,10 +44,9 @@ _Updated: 2026-04-11 01:03_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
 
 ## Technology
 
@@ -55,12 +55,12 @@ _Updated: 2026-04-11 01:03_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
@@ -98,47 +98,47 @@ _Updated: 2026-04-11 01:03_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- van Bemmel J H, Musen M A, eds. Handbook of medical informatics - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Forskning om hälso- och sjukvårdskuratorer inom EU - Socionomen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Rapporter – Centrum för högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
