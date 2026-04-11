@@ -1,40 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 05:24_
+_Updated: 2026-04-11 07:12_
 
 ## Top Stories
 
-- Kan Orbán äntligen besegras? - Dagens Arena
-- Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
-- Gröna bron på plats över E22 – ett av två brolyft klart - Sydsvenskan
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ungerska valet: Magyar leder stort – men seger räcker kanske inte till - Europaportalen
+- Rysk ubåt i Kattegatt – Försvarsmakten följer upp med stridsflyg - GP
+- Busch: Åkesson saknar förmågan att leda landet - Svenska Dagbladet
 - Israel: Inga samtal om vapenvila med Hizbollah - Västerbottens-Kuriren
-- Artemis II tillbaka på jorden - Svenska Dagbladet
-- Bråket efter raderade inlägget: ”Skandalöst” - Expressen
+- Få vet hur sjukvården styrs – experten vill renovera demokratin - GP
 - 45-årig man häktas för Brattåsmorden - Dagens Nyheter
 - Flera partier får inte ihop valbara kandidater i alla dalakommuner - SVT Nyheter
 - 10 april 13.28, Trafikkontroll, Västerbottens län - polisen.se
-- Sju av tio oroar sig för AI:s påverkan på valet - tidningensyre.se
-- Insändare. Vi bör som Natomedlem markera mot Trump och Rutte - Dagens Nyheter
-- Ukraina: En död inför påskvapenvila - Västerbottens-Kuriren
+- Folksam: Fler skador än befarat efter stormen Dave - Cision News
+- Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
+- Ukraina: En död inför påskvapenvila - GP
 - Rederi-vd:n: Försiktigt optimistisk - Västerbottens-Kuriren
-- Så ska triumfbågen i Washington DC se ut - SVT Nyheter
-- USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
-- Oppositionen protesterar när regeringen vill förstatliga kärnkraft - EFN
+- Pål Jonson: Utspelen försvagar sammanhållningen i Nato - Dagens Nyheter
 - Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
-- Experterna: Anthropics nya ai-modell kan bli ett digitalt maktmedel för USA - nyteknik
+- Staten blir majoritetsägare i ny kärnkraft - Västerbottens-Kuriren
+- Ordet är fritt: Pausa effektavgiften i Varberg nu! - Hallands Nyheter
+- Bank of Canada möter stora långivare om AI-cyberhot från Anthropic - Investing.com Sverige
+- Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Apples trumfkort – dolt i telefonen - Svenska Dagbladet
-- Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
 
 ## World News
 
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Another CBSA dog sniffs out kilos of raw meat in traveller’s bag at Pearson airport - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -46,7 +47,6 @@ _Updated: 2026-04-11 05:24_
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 
 ## Technology
 
@@ -73,9 +73,9 @@ _Updated: 2026-04-11 05:24_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -135,10 +135,10 @@ _Updated: 2026-04-11 05:24_
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-11 05:24_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Framtidens jordbruk är här - EU Digital Strategy
-- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk
