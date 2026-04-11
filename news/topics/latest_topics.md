@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 17:56_
+_Updated: 2026-04-11 19:03_
 
 ## Top Stories
 
 - Emma Bouvin: Peppen är inte enorm när ”Ondskan” möter ”Den store Satan” - Dagens Nyheter
 - Trump: USA har börjat rensa Hormuzsundet - GP
-- Mystiken kring fantombilden – ’inget stämmer’ - Aftonbladet
-- Iransk militär: Attackerar inom 30 minuter om USA korsar sundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
+- Al Jazeera: Vissa framsteg har gjorts – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Påskvapenvila inledd i ryska kriget i Ukraina - Västerbottens-Kuriren
-- SMHI-larm: Stor risk för gräsbränder - Västerbottens-Kuriren
-- Svensk utlämnad från USA för lagföring - polisen.se
+- Bil och spårvagn i olycka - GP
 - Försvaret tappar makt över falska pass till militära spioner - Dagens Nyheter
-- Polisen: Oförklarligt att inte fler dött i bombdåd - GP
-- Nioårig pojke inlåst i skåpbil – i två år - Västerbottens-Kuriren
+- SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
+- De manifesterar inför ”exilprinsens” besök - GP
+- DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
+- Svensk utlämnad från USA för lagföring - polisen.se
+- Nioårig pojke inlåst i skåpbil – i två år - Dagens Nyheter
 - Fångutväxling mellan Ukraina och Ryssland - Västerbottens-Kuriren
-- UPPDATERAS: Rysk oljehub bombad samt fabriker i Tver - massiva ryska förluster - USA vill ge ekonomiskt stöd till putinisten Orbans regim, förlänger lyfta ryska sanktioner - Cornucopia?
-- Trumps hemliga plan när han avgår - Aftonbladet
+- Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
+- Barn påkört i Stockholm - Expressen
+- Lufthansas piloter varslar om ny flygstrejk - DI
 - Hur långt har batteriernas ”game changer” kommit? - Dagens Nyheter
 - Han har tjänat 13 miljarder på ett år – på en enda aktie - Dagens PS
-- USA:s inflation rusar efter kriget – bensin 21 procent dyrare - Omni
-- Flygbränslebrist hotar EU-flygplatser inom tre veckor - Sveriges Radio
-- Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
+- Bränslepriset skenar – Cathay slopar avgångar - Västerbottens-Kuriren
+- Artemis-astronauterna tillbaka – Trump: Nästa steg är Mars - Sveriges Radio
 - 28 mobiler som riskerar att sluta fungera 2026 – är din på listan? - Dagens.se
 
 ## World News
@@ -40,13 +40,13 @@ _Updated: 2026-04-11 17:56_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Seminar series: Global Lectures - Utrikespolitiska institutet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 
 ## Technology
 
@@ -100,7 +100,7 @@ _Updated: 2026-04-11 17:56_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -150,12 +150,12 @@ _Updated: 2026-04-11 17:56_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - ATL.nu
+- Lediga jobb - ATL Nyheter
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
