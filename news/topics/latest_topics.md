@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 13:02_
+_Updated: 2026-04-11 13:54_
 
 ## Top Stories
 
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
 - Direkt – Krisen i Mellanöstern – Trumps förhandlare har landat i Pakistan för fredssamtalen - Dagens Nyheter
-- Tre fartyg på väg genom Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tre barn på E20 vid Örebro – bilister varnas - SVT Nyheter
 - Zelenskyj: Redo för vapenvila – men kommer svara - GP
-- Ernest, 20: ”Jag har förlorat hela mitt liv” - Svenska Dagbladet
-- Tog taxi till Malmö med knark i kasse – får fem års fängelse - Sydsvenskan
-- Misstänkt bedragare utlämnad från USA - Västerbottens-Kuriren
+- Ebba Busch: Åkesson jobbar inte så mycket - Västerbottens-Kuriren
+- Svensk utlämnad från USA för lagföring - polisen.se
 - Polisen: Oförklarligt att inte fler dött i bombdåd - GP
-- Båtkärra lossade mitt i trafiken – båten hamnade ovanpå en bil - Sveriges Radio
-- 45-årig man häktas för Brattåsmorden - Dagens Nyheter
+- Regeringen föreslår flyttbidrag – ska få arbetslösa att flytta - Dagens Nyheter
+- 11 april 06.59, Sammanfattning natt, Värmlands län - polisen.se
+- Båt hamnade ovanpå bil: "Mycket ovanlig olycka" - NT
+- Samtalen inledda – via medlare – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Källa: Iran har inte koll på minorna i sundet - Västerbottens-Kuriren
-- UPPDATERAS: Rysk oljehub bombad samt fabriker i Tver - massiva ryska förluster - USA vill ge ekonomiskt stöd till putinisten Orbans regim, förlänger lyfta ryska sanktioner - Cornucopia?
-- Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
+- Energidrycken stäms – efter 17-årings död • Ägs av svensk energidryckjätte - Expressen
 - Pål Jonson: Utspelen försvagar sammanhållningen i Nato - Dagens Nyheter
+- Han har tjänat 13 miljarder på ett år – på en enda aktie - Dagens PS
 - Skriker efter anställda – varför flyttar ingen hit? - Svenska Dagbladet
-- Guld bryter mönstret – stiger inte trots krisen - Dagens PS
-- President Trump pratade upp Palantirs aktiekurs - Västerbottens-Kuriren
+- Globala fonder flyr indiska aktier - DI
 - Bränslepriset högt trots statliga skattelättnader - Sydkusten
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
-- Solcellernas omöjliga problem kan ha lösts – nytt trick kan bana väg för framtidens gröna energi - Illustrerad Vetenskap
+- Apple förbereder Car Key för Lexus – lansering kan närma sig - Teknikveckan
 
 ## World News
 
@@ -44,9 +44,9 @@ _Updated: 2026-04-11 13:02_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 
 ## Technology
 
@@ -55,15 +55,15 @@ _Updated: 2026-04-11 13:02_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
@@ -73,9 +73,9 @@ _Updated: 2026-04-11 13:02_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -85,10 +85,10 @@ _Updated: 2026-04-11 13:02_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-04-11 13:02_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -150,15 +150,15 @@ _Updated: 2026-04-11 13:02_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Lediga jobb - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
-- Lediga jobb - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Här är tio megagårdar att drömma om - Land Lantbruk
