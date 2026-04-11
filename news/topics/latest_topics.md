@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-11 08:37_
+_Updated: 2026-04-11 10:03_
 
 ## Top Stories
 
+- Direkt – Krisen i Mellanöstern – Uppgifter: Kina planerar att smuggla vapen till Iran - Dagens Nyheter
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
-- Iranska delegationen på plats – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rysk ubåt i Kattegatt – Försvarsmakten följer upp med stridsflyg - GP
-- Busch: Åkesson saknar förmågan att leda landet - Svenska Dagbladet
+- Ebba Busch: Åkesson jobbar inte så mycket - Västerbottens-Kuriren
+- Svensk utlämnad från USA – misstänkt i stort bedrägeriärende - SVT Nyheter
 - Jamie Raskins krav: Utred Trumps psykiska hälsa - Expressen
-- Få vet hur sjukvården styrs – experten vill renovera demokratin - GP
+- JD Vance har landat – USA:s delegation på plats i Pakistan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - 45-årig man häktas för Brattåsmorden - Dagens Nyheter
-- Konservativa röster behöver inte vara ett hinder - Kyrkans Tidning
+- Poddprofilen om sexet med gäster: ”Kanske” - Expressen
 - TOVE HOVEMYR: Detta borde Uppsalavalet handla om nu - UNT
-- Explosion i Malmö – flera larm om smäll - GP
+- 30 km/h i Göteborg när hastigheten sänks - Aftonbladet
 - Melania Trump anklagas för att flytta fokus - Hufvudstadsbladet – HBL
 - Källa: Iran har inte koll på minorna i sundet - GP
 - Ukraina: Flera dödade inför påskvapenvila - Corren
-- Insändare. Vi bör som Natomedlem markera mot Trump och Rutte - Dagens Nyheter
-- Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
+- Pål Jonson: Utspelen försvagar sammanhållningen i Nato - Dagens Nyheter
 - Gabbana lämnar högsta posten i Dolce & Gabbana - Market.se
-- Ordet är fritt: Pausa effektavgiften i Varberg nu! - Hallands Nyheter
-- Trumps nya Iranhot dämpade börsen – summerade stark vecka - Omni Ekonomi
-- Apples trumfkort – dolt i telefonen - Svenska Dagbladet
-- Här är vinnarna och förlorarna när Google möblerar om i sökresultaten - Ehandel.se
+- Dieselpriset höjs igen – kostar 23 kronor litern - Omni
+- Flygpriserna kan fortsätta stiga – bränslet rekorddyrt - Dagens Nyheter
+- Forskning: Tillgängliga AI-modeller kan hitta samma sårbarheter som Mythos - Omni Ekonomi
+- Artemis II tillbaka på jorden efter månvarvet - Svenska Dagbladet
+- Solcellernas omöjliga problem kan ha lösts – nytt trick kan bana väg för framtidens gröna energi - Illustrerad Vetenskap
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-04-11 08:37_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-04-11 08:37_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
