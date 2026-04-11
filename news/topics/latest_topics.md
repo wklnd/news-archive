@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 01:01_
+_Updated: 2026-04-12 01:58_
 
 ## Top Stories
 
 - Historiska fredssamtal – oviss utgång - GP
 - Avslöjar valet i Ungern ytterhögerns akilleshäl? - expo.se
-- USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
 - Källor: Iranledarens ansikte vanställt - DI
-- Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
+- USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
 - Trump: Vi vinner oavsett – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Karl Dalén: ”Magrationen” kan växa efter Trumps hätska utspel - Dagens Nyheter
 - SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
 - De manifesterar inför ”exilprinsens” besök - GP
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- DN Direkt – Skärmflygare fast högt upp i träd - Dagens Nyheter
+- Folksam: Fler skador än befarat efter stormen Dave - Cision News
 - Ryssland och Ukraina anklagar varandra för brott mot vapenvila - Dagens Nyheter
-- Man ihjälskjuten av israeliska bosättare - Västerbottens-Kuriren
-- Källor: Trump utlovar massbenådningar innan han slutar - Dagens Nyheter
+- Palestinier ihjälskjuten på Västbanken - Västerbottens-Kuriren
+- Trumps hemliga plan när han avgår - Aftonbladet
 - Lufthansas piloter varslar om ny flygstrejk - NWT
 - Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan
-- Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
 - Bränslepriset skenar – Cathay ställer in - Svenska Dagbladet
+- Rullstolsburne Rune, 84, fakturerades för jobb som aldrig utfördes - Aftonbladet
 - Artemis 2 tillbaka på jorden efter historiska månfärden - Omni
 - Perrelli har fått hjärnskakning - Expressen
 - NY STUDIE: Då kan ditt nej till sex påverka relationen - Aftonbladet
@@ -28,11 +28,11 @@ _Updated: 2026-04-12 01:01_
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
@@ -42,7 +42,7 @@ _Updated: 2026-04-12 01:01_
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -59,6 +59,7 @@ _Updated: 2026-04-12 01:01_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
@@ -69,7 +70,6 @@ _Updated: 2026-04-12 01:01_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -82,6 +82,7 @@ _Updated: 2026-04-12 01:01_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -90,9 +91,8 @@ _Updated: 2026-04-12 01:01_
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 
 ## Health
 
@@ -100,22 +100,22 @@ _Updated: 2026-04-12 01:01_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Vi presenterar ChatGPT Health - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -125,11 +125,11 @@ _Updated: 2026-04-12 01:01_
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Upp till försvar för forskningen - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
