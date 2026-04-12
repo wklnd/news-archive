@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-12 13:20_
+_Updated: 2026-04-12 14:02_
 
-- Iran War Live Updates: Top Iranian Negotiator Suggests Iran Is Open to Further Peace Talks - The New York Times
-- How Hungarian Prime Minister Viktor Orbán’s hometown became a symbol of excesses - NPR
+- No Deal: U.S.-Iran peace talks in Islamabad collapse - NPR
+- Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins. - The New York Times
 - Eric Swalwell abuse claims investigated by Manhattan district attorney - BBC
-- US officials claim Iran unable to find mines it laid in strait of Hormuz, report says - The Guardian
-- Trump says plans filed for huge triumphal arch in Washington - DW.com
-- Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
-- Decades after a Texas mom's disappearance, a tip leads to the location of her secret grave - CBS News
-- White House ballroom construction can continue for now, appeals court says - NPR
+- ‘Everything is gone’: Israel destroys entire villages in Lebanon - The Guardian
+- 'This is the last warning.' Iran threatens U.S. warships after they throw down the gauntlet for winner-take-all Strait of Hormuz - Fortune
+- Trump says plans filed for huge triumphal arch in Washington - dw.com
 - China says it will resume some ties with Taiwan after visit by opposition leader - AP News
-- A love story at sea ends in silence: Inside the life and disappearance of Lynette Hooker - CNN
+- Decades after a Texas mom's disappearance, a tip leads to the location of her secret grave - CBS News
+- America’s Fastest-Growing County Wonders if ‘Paradise’ Is Growing Too Fast - The New York Times
+- Second Venezuelan Doctor Detained in South Texas by Immigration Agents - The New York Times
 - Pope says ‘enough of war’ and decries ‘delusion of omnipotence’ at peace vigil - The Guardian
-- Peru holds presidential election amid a decade of political tumult - Al Jazeera
+- Ukraine, Russia swap 175 servicemen each ahead of Easter ceasefire - Reuters
 - IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks - The Times of Israel
-- Why the Cease-Fire With Iran Will Hold - Foreign Affairs
+- Peru holds presidential election amid a decade of political tumult - Al Jazeera
 - ‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity - San Francisco Chronicle
+- Failure of US-Iran Talks Set to Weigh on Risk Assets Monday - Bloomberg.com
 - U.S. oil exports seen hitting record 5.2M bbl/day as Iran war sparks supply race (USO:NYSEARCA) - Seeking Alpha
-- US inflation soars in March as war on Iran drives economy into uncertainty - The Guardian
-- Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks - MarketWatch
+- The biggest IPO in history has a hole in its safety net - Financial Times
 - Framework CEO warns AI boom may lead to a scenario where "personal computing as we know it is dead - Notebookcheck
-- Google Messages for Android rolls out Trash folder - 9to5Google
+- Microsoft Teams is finally fixing those awkward "can you hear me?" moments - XDA
