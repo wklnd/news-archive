@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 13:06_
+_Updated: 2026-04-12 13:57_
 
 ## Top Stories
 
 - Iran: USA kunde inte vinna vår delegations förtroende – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Fartyg gör u-sväng i sundet efter avbrutna samtal - Västerbottens-Kuriren
+- Dödliga attacker mot södra Libanon - Västerbottens-Kuriren
 - Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
+- Bebislycka på Parken Zoo - Västerbottens-Kuriren
+- ”Det är lite som ett gift” - Aftonbladet
 - Kustbevakningen har bordat ännu ett fartyg bordat utanför Ystad - GP
-- Ödesdag i Ungern: ”Val mellan öst och väst” - Västerbottens-Kuriren
-- Pappa och dotter tvingades fly efter protester mot ryska kriget - Dagens Nyheter
-- Kvinna misstänks ha försökt döda litet barn - Västerbottens-Kuriren
+- DN Direkt – Första kvinnliga huvudtränaren i Bundesliga - Dagens Nyheter
 - DN Direkt – Man med machete – polisen avlossade varningsskott - Dagens Nyheter
-- SMHI-larm: Stor risk för gräsbränder i landet - GP
+- SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
 - 12 april 08.12, Sammanfattning natt, Jönköpings län - polisen.se
-- Ukrainakriget: Tusentals brott mot vapenvilan - Västerbottens-Kuriren
-- Netanyahu hoppas på ”fred för generationer” - GP
-- Över 500 gripna efter demonstration - Aftonbladet
-- Källorna bekräftar: Mojtaba vanställd - Expressen
+- Ödesdag i Ungern: ”Val mellan öst och väst” - Västerbottens-Kuriren
+- Påskvapenvila inledd i ryska kriget i Ukraina - Dagens Nyheter
+- Pappa och dotter tvingades fly efter protester mot ryska kriget - Dagens Nyheter
+- USA: Två krigsfartyg passerade Hormuzsundet - Västerbottens-Kuriren
 - Kraschade fredssamtal – då stiger bensinpriset - Svenska Dagbladet
 - Kinesiska bilar ökar i Europa – men det går trögare i Sverige - Dagens Nyheter
-- Svenskars pensionspengar sitter fast i Ryssland - Omni
-- Slutet för dollarn efter BRICS-ländernas guldyra? - Dagens PS
+- Viral rosa mjölk skapar hysteri – hyllor ekar tomma - Omni
+- Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan
 - DN Direkt – Spårvagn och bil i krock – en skadad - Dagens Nyheter
-- Mystiska ljusslingan på himlen: ”Lite obehagligt” - Aftonbladet
+- ”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - UNDP lanserar läromedel om global utveckling - UNDP
-- New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 
@@ -73,23 +73,23 @@ _Updated: 2026-04-12 13:06_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -97,23 +97,23 @@ _Updated: 2026-04-12 13:06_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -122,23 +122,23 @@ _Updated: 2026-04-12 13:06_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- AI och data science - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
