@@ -1,64 +1,63 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 08:09_
+_Updated: 2026-04-12 09:49_
 
 ## Top Stories
 
-- Här lämnar JD Vance mötet med Iran – utan avtal - GP
-- Ingmar Nevéus: Därför bryr sig världen om valet i lilla Ungern - Dagens Nyheter
-- Månfararna efter resan: ”Jorden är en livbåt” - GP
+- Iran och USA oense efter fredsförhandlingar - GP
 - USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
-- ”Vad fan är det här, varför gör vi inget?” - Svenska Dagbladet
-- Nu ska bilarna bort från Pildammsparken och Slottsparken - Sydsvenskan
+- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
+- Vallokalerna öppna i Ungern – Orbán har röstat - Västerbottens-Kuriren
+- ”Älskar mitt jobb som polis, men det går inte” - Svenska Dagbladet
+- Ukrainakriget: Tusentals brott mot vapenvilan - Västerbottens-Kuriren
+- SMHI-larm: Stor risk för gräsbränder i landet - SVT Nyheter
+- 12 april 08.12, Sammanfattning natt, Jönköpings län - polisen.se
 - DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- Påskstormen slog ut strömmen för tusentals - Lokalpressen
-- SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
-- Obligatorisk vaccinering mot smittsam hönssjuka - Västerbottens-Kuriren
-- DN Direkt – Artemis II-besättningens första uttalanden efter månresan - Dagens Nyheter
-- Iransk media: Samtalen fortsätter på söndag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ukraina noterar över 400 brott mot vapenvilan - Sydsvenskan
-- Källorna bekräftar: Mojtaba vanställd - Expressen
+- Stökig natt i Norrköping – tre kvinnor slagna vid hållplats - NT
+- MEDAN DU SOV: Iran och USA oense i förhandlingar ⦁ 500 demonstranter gripna - NLT
+- Peru röstar i politiskt kaos - komiker kan gå till andra omgången - Dagens Nyheter
+- Drottning Marys pappa är död - Expressen
+- Källor: Iranledarens ansikte vanställt - Aftonbladet
 - Lufthansas piloter varslar om ny flygstrejk - NWT
 - Beskedet: Rosa mjölken slut ”i princip överallt” - Aftonbladet
-- Heliumbrist från Iran hotar forskning och sjukvård - Sveriges Radio
+- Ingen hejd på Plejd - Affärsvärlden
 - Vanliga felet vid däckbytet: "Kolla upp direkt" - Carup.se
+- Astronomer fullkomligt överraskade: Extrem kollision i rymden kan vara nära förestående - Illustrerad Vetenskap
 - ”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet
-- Den osynliga faran som hindrar resan till Mars - Aftonbladet
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -66,6 +65,7 @@ _Updated: 2026-04-12 08:09_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
@@ -73,23 +73,23 @@ _Updated: 2026-04-12 08:09_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
