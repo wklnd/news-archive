@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-12 05:54_
+_Updated: 2026-04-12 08:13_
 
-- Live Updates: Vance participates in high-stakes talks with Iran as U.S. Navy ships cross the Strait of Hormuz - CBS News
-- Eric Swalwell abuse claims investigated by Manhattan district attorney - BBC
-- Trump touts newly released plans for D.C. triumphal arch - NPR
-- 'This is the last warning.' Iran threatens U.S. warships after they throw down the gauntlet for winner-take-all Strait of Hormuz - Fortune
-- Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll - AP News
-- Federal judges say White House ballroom construction can continue, for now - The Washington Post
-- Man with machete fatally shot at NYC's Grand Central after slashing attack, NYPD says - CBS News
-- Two U.S. Warships Transit Strait of Hormuz for First Time Since War Began - WSJ
-- Ironworkers killed in Philadelphia parking garage collapse identified as demolition begins - CBS News
-- How much sway does Trump have over Hungarian voters? - DW.com
+- Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan - The Guardian
+- Swalwell staffers stand with accusers as Manhattan DA confirms investigation - The Washington Post
+- How Hungarian Prime Minister Viktor Orbán’s hometown became a symbol of excesses - NPR
+- Trump says plans filed for huge triumphal arch in Washington - DW.com
+- Construction of Trump’s ballroom can continue until April 17, appeals court rules - Politico
+- U.S. naval destroyers have crossed the Strait of Hormuz, CENTCOM says - CBS News
+- Stabbings on New York City subway leave 3 hurt as officers fatally shoot knife-wielding man - PBS
+- Decades after a Texas mom's disappearance, a tip leads to the location of her secret grave - CBS News
+- Second Venezuelan Doctor Detained in South Texas by Immigration Agents - The New York Times
+- Russia violates Easter ceasefire more than 400 times, Ukraine's military says - The Kyiv Independent
 - Pope Leo XIV denounces the ‘delusion of omnipotence’ he says fuels the US-Israeli war in Iran - Politico
-- Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
-- UK freezes deal to return Chagos Islands to Mauritius - DW.com
+- ‘Everything is gone’: Israel destroys entire villages in Lebanon - The Guardian
 - Why the Cease-Fire With Iran Will Hold - Foreign Affairs
+- At least 30 dead in stampede at Haiti’s historic Laferriere Citadel - Reuters
 - Anthropic’s latest AI model strikes fear into banks - Morning Brew
+- An AI started and employed an entire store with $100,000. It screwed up with staffing on day one. - Business Insider
 - ‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity - San Francisco Chronicle
-- AI runs this store. It's lied, surveilled workers and tried to hire someone in Afghanistan - NBC News
 - Inflation Soared to 3.3% in March, Driven by Higher Gasoline Costs - WSJ
-- France Kicks Windows to the Curb, Pivots to Linux OS - PCMag
 - PS6 Pricing: 41% of Digital Foundry Viewers Would Pay $699 or More for a Next-Gen PlayStation - Digital Foundry
+- Regularly $1,099, you can now get this MacBook Air for $230 if you act fast - Mashable
