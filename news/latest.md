@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-12 02:03_
+_Updated: 2026-04-12 05:54_
 
-- Iran War Live Updates: U.S. and Iran Hold Historic High-Level Peace Talks in Pakistan - The New York Times
-- Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships - USNI News
-- Manhattan DA's office to investigate Swalwell sexual assault allegation - NBC News
+- Live Updates: Vance participates in high-stakes talks with Iran as U.S. Navy ships cross the Strait of Hormuz - CBS News
+- Eric Swalwell abuse claims investigated by Manhattan district attorney - BBC
 - Trump touts newly released plans for D.C. triumphal arch - NPR
-- US military begins clearing Strait of Hormuz, Trump says - Military Times
-- Stabbings on New York City subway leave 3 hurt as officers fatally shoot knife-wielding man - PBS
-- Appeals court rules Trump's White House ballroom construction can temporarily move forward - NBC News
-- Two U.S. Warships Transit Strait of Hormuz for First Time Since War Began - WSJ
-- 6 days later, a mother, sailor and lover of the sea is still missing while her husband remains in police custody - CNN
+- 'This is the last warning.' Iran threatens U.S. warships after they throw down the gauntlet for winner-take-all Strait of Hormuz - Fortune
 - Hungarian election rivals Orbán and Magyar make final push for votes on eve of poll - AP News
-- Pope Leo criticizes "idolatry of self" in latest rebuke of Iran conflict: "Enough with war!" - CBS News
-- Peru holds presidential election amid a decade of political tumult - Al Jazeera
-- UK puts Diego Garcia handover on hold to appease Trump - politico.eu
-- Record gas price surge fuels sharp rise in U.S. inflation - Honolulu Star-Advertiser
-- Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home - TechCrunch
-- 'Vulnpocalypse': What happens when AI gives hackers a superweapon - NBC News
-- Where Seattle-area drivers go for cheaper gas - The Seattle Times
-- 'iPhone Ultra' Will Solve Two Key Problems - MacRumors
-- XChat, X’s standalone messaging app, launching soon with these features - 9to5Mac
-- Artemis II crew used modern photography to tell the visual story of their lunar journey – and update some classic Apollo images - The Conversation
+- Federal judges say White House ballroom construction can continue, for now - The Washington Post
+- Man with machete fatally shot at NYC's Grand Central after slashing attack, NYPD says - CBS News
+- Two U.S. Warships Transit Strait of Hormuz for First Time Since War Began - WSJ
+- Ironworkers killed in Philadelphia parking garage collapse identified as demolition begins - CBS News
+- How much sway does Trump have over Hungarian voters? - DW.com
+- Pope Leo XIV denounces the ‘delusion of omnipotence’ he says fuels the US-Israeli war in Iran - Politico
+- Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
+- UK freezes deal to return Chagos Islands to Mauritius - DW.com
+- Why the Cease-Fire With Iran Will Hold - Foreign Affairs
+- Anthropic’s latest AI model strikes fear into banks - Morning Brew
+- ‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity - San Francisco Chronicle
+- AI runs this store. It's lied, surveilled workers and tried to hire someone in Afghanistan - NBC News
+- Inflation Soared to 3.3% in March, Driven by Higher Gasoline Costs - WSJ
+- France Kicks Windows to the Curb, Pivots to Linux OS - PCMag
+- PS6 Pricing: 41% of Digital Foundry Viewers Would Pay $699 or More for a Next-Gen PlayStation - Digital Foundry
