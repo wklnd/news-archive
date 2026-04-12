@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-12 12:23_
+_Updated: 2026-04-12 13:20_
 
-- Middle East crisis live: US and Iran fail to reach a deal after marathon peace talks in Pakistan - The Guardian
-- Many Polls Say Orban Will Lose. But He Has an Edge Even Before Voting Begins. - The New York Times
+- Iran War Live Updates: Top Iranian Negotiator Suggests Iran Is Open to Further Peace Talks - The New York Times
+- How Hungarian Prime Minister Viktor Orbán’s hometown became a symbol of excesses - NPR
 - Eric Swalwell abuse claims investigated by Manhattan district attorney - BBC
-- Russian Offensive Campaign Assessment, April 11, 2026 - Institute for the Study of War
-- Trump touts newly released plans for D.C. triumphal arch - NPR
-- 'This is the last warning.' Iran threatens U.S. warships after they throw down the gauntlet for winner-take-all Strait of Hormuz - Fortune
-- China says it will resume some ties with Taiwan after visit by opposition leader - AP News
+- US officials claim Iran unable to find mines it laid in strait of Hormuz, report says - The Guardian
+- Trump says plans filed for huge triumphal arch in Washington - DW.com
+- Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
+- Decades after a Texas mom's disappearance, a tip leads to the location of her secret grave - CBS News
 - White House ballroom construction can continue for now, appeals court says - NPR
-- Stabbings on New York City subway leave 3 hurt as officers fatally shoot knife-wielding man - PBS
-- Very large hail, damaging winds, tornadoes possible Monday in Minnesota - Bring Me The News
+- China says it will resume some ties with Taiwan after visit by opposition leader - AP News
+- A love story at sea ends in silence: Inside the life and disappearance of Lynette Hooker - CNN
 - Pope says ‘enough of war’ and decries ‘delusion of omnipotence’ at peace vigil - The Guardian
-- IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks - The Times of Israel
 - Peru holds presidential election amid a decade of political tumult - Al Jazeera
+- IDF and Hezbollah trade strikes, rockets as Israel and Lebanon gear up for direct talks - The Times of Israel
 - Why the Cease-Fire With Iran Will Hold - Foreign Affairs
-- U.S. oil exports seen hitting record 5.2M bbl/day as Iran war sparks supply race (USO:NYSEARCA) - Seeking Alpha
 - ‘Close to midnight’: Alleged Sam Altman firebomber wrote of fears AI would end humanity - San Francisco Chronicle
+- U.S. oil exports seen hitting record 5.2M bbl/day as Iran war sparks supply race (USO:NYSEARCA) - Seeking Alpha
 - US inflation soars in March as war on Iran drives economy into uncertainty - The Guardian
 - Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks - MarketWatch
-- Microsoft Teams is finally fixing those awkward "can you hear me?" moments - XDA
-- Samsung Galaxy S26 Ultra is a major downgrade to S25 Ultra in one key area, and that's why I didn’t buy it - Android Police
+- Framework CEO warns AI boom may lead to a scenario where "personal computing as we know it is dead - Notebookcheck
+- Google Messages for Android rolls out Trash folder - 9to5Google
