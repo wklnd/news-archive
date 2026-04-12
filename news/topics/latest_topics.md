@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 09:49_
+_Updated: 2026-04-12 11:24_
 
 ## Top Stories
 
-- Iran och USA oense efter fredsförhandlingar - GP
-- USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
-- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
-- Vallokalerna öppna i Ungern – Orbán har röstat - Västerbottens-Kuriren
-- ”Älskar mitt jobb som polis, men det går inte” - Svenska Dagbladet
-- Ukrainakriget: Tusentals brott mot vapenvilan - Västerbottens-Kuriren
-- SMHI-larm: Stor risk för gräsbränder i landet - SVT Nyheter
-- 12 april 08.12, Sammanfattning natt, Jönköpings län - polisen.se
-- DN Direkt – Förre utredaren tror på fler gripanden i Brattåsmorden - Dagens Nyheter
-- Stökig natt i Norrköping – tre kvinnor slagna vid hållplats - NT
-- MEDAN DU SOV: Iran och USA oense i förhandlingar ⦁ 500 demonstranter gripna - NLT
-- Peru röstar i politiskt kaos - komiker kan gå till andra omgången - Dagens Nyheter
+- Här lämnar JD Vance mötet med Iran – utan avtal - GP
+- Dödliga attacker mot södra Libanon - Västerbottens-Kuriren
+- Kustbevakningen bordade fartyg i Östersjön – misstänks för miljöbrott - SVT Nyheter
 - Drottning Marys pappa är död - Expressen
-- Källor: Iranledarens ansikte vanställt - Aftonbladet
-- Lufthansas piloter varslar om ny flygstrejk - NWT
-- Beskedet: Rosa mjölken slut ”i princip överallt” - Aftonbladet
-- Ingen hejd på Plejd - Affärsvärlden
-- Vanliga felet vid däckbytet: "Kolla upp direkt" - Carup.se
+- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
+- Pappa och dotter tvingades fly efter protester mot ryska kriget - Dagens Nyheter
+- SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
+- 12 april 08.12, Sammanfattning natt, Jönköpings län - polisen.se
+- Bilist backade genom trädgård och körde in i grävmaskin - Brottsplatskartan.se
+- Stökig natt i Norrköping – tre kvinnor slagna vid hållplats - NT
+- Ungerska valet i gång – Orbán har röstat - Västerbottens-Kuriren
+- Ryssland och Ukraina anklagar varandra för brott mot vapenvila - Dagens Nyheter
+- USA: Två krigsfartyg passerade Hormuzsundet - Hufvudstadsbladet – HBL
+- Påvens hårda ord om Trump: Dyrkar sig själv - Expressen
+- Kraschade fredssamtal – då stiger bensinpriset - Svenska Dagbladet
+- Linus Larsson: Här är AI-systemet som är ”för farligt för världen” - Dagens Nyheter
+- Varningen: Dina bilder raderas – nytt fult Apple-bedrägeri - Dagens PS
+- Slutet för dollarn efter BRICS-ländernas guldyra? - Dagens PS
 - Astronomer fullkomligt överraskade: Extrem kollision i rymden kan vara nära förestående - Illustrerad Vetenskap
-- ”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet
+- Artemis II tillbaka på jorden – ”nästa steg, Mars!” - Hufvudstadsbladet – HBL
 
 ## World News
 
