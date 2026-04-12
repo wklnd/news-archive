@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-12 22:03_
+_Updated: 2026-04-12 23:06_
 
-- Hungary election live: Polls in Hungary close in tightly fought election after 16 years under Viktor Orbán - The Guardian
-- Deadlock on Strait of Hormuz and Iran’s nuclear stockpile led to impasse, officials say - CNN
+- Viktor Orbán concedes defeat as Hungary's Tisza Party heads for election win - NBC News
+- Trump says U.S. will blockade Strait of Hormuz and intercept ships that paid tolls to Iran - CBS News
+- Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks - The Guardian
 - "Eric may have tipped the scale": Swalwell scandal threatens surge of House expulsions - Axios
-- Israeli strike kills infant girl in south Lebanon during father's funeral - Reuters
-- ‘This is the last warning:’ Iran radioes US during Strait of Hormuz de-mining effort: Report - The Hill
-- Reports of multiple people shot inside Chick-fil-A in Union, New Jersey; investigation ongoing - ABC7 New York
-- Iran War Live Updates: Trump Says U.S. Will ‘Blockade’ Strait of Hormuz After Peace Talks Fail - The New York Times
-- Trump Fires Board That Oversees Presidio in San Francisco - The New York Times
+- A Hezbollah commander describes battling Israel in Lebanon - NPR
+- 1 dead, 6 hurt in Chick-fil-A shooting in Union Township, N.J., investigators say - CBS New York - CBS News
+- President Trump terminates Presidio Trust - KRON4
+- ‘This is the last warning:’ Iran radioes US during Strait of Hormuz demining effort: Report - The Hill
 - Stabbings on New York City subway leave 3 hurt as officers fatally shoot knife-wielding man - PBS
-- China says it will resume some ties with Taiwan after visit by opposition leader - Politico
-- Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover - The Guardian
-- On Africa trip, Pope Leo will face debate over polygamy as Catholicism booms - The Washington Post
+- Cuban president says he has 'no fear' of US - Politico
+- ‘Everything is gone’: Israel destroys entire villages in Lebanon - The Guardian
 - Russia and Ukraine accuse each other of violating Putin’s Easter ceasefire - AP News
-- At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere - Al Jazeera
+- A country-by-country glance at Pope Leo XIV's trip to Africa - NPR
+- South Africa’s Democratic Alliance elects new leader to take on ANC - Financial Times
 - Bessent and Powell call emergency meeting with bank CEOs after Anthropic's Mythos AI finds thousands of zero-day exploits - moneywise.com
-- Mutually Automated Destruction: The Escalating Global A.I. Arms Race - The New York Times
 - WATCH: An exclusive 23-story Miami hotel vanishes in under-20-second implosion - WYFF News 4
 - Micron Technology: I'm Buying And Not Looking Back (NASDAQ:MU) - Seeking Alpha
-- Hackers Give Rockstar Games Until April 14 To Pay For Stolen Data - Forbes
+- Mutually Automated Destruction: The Escalating Global A.I. Arms Race - The New York Times
+- Rockstar Games says hack will have ‘no impact’ - The Verge
 - Apple AI Glasses Will Rival Meta’s With Several Styles, Oval Cameras - Bloomberg.com
