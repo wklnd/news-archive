@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 13:57_
+_Updated: 2026-04-12 15:39_
 
 ## Top Stories
 
-- Iran: USA kunde inte vinna vår delegations förtroende – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dödliga attacker mot södra Libanon - Västerbottens-Kuriren
-- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
-- Bebislycka på Parken Zoo - Västerbottens-Kuriren
-- ”Det är lite som ett gift” - Aftonbladet
-- Kustbevakningen har bordat ännu ett fartyg bordat utanför Ystad - GP
-- DN Direkt – Första kvinnliga huvudtränaren i Bundesliga - Dagens Nyheter
-- DN Direkt – Man med machete – polisen avlossade varningsskott - Dagens Nyheter
-- SMHI-larm: Stor risk för gräsbränder i landet - Västerbottens-Kuriren
-- 12 april 08.12, Sammanfattning natt, Jönköpings län - polisen.se
+- Direkt – Krisen i Mellanöstern – Trump: Kommer blockera fartyg i Hormuzsundet - Dagens Nyheter
+- Experten om fredssamtalen mellan USA och Iran: ”Skymningsland” - GP
 - Ödesdag i Ungern: ”Val mellan öst och väst” - Västerbottens-Kuriren
+- Bebislycka på Parken Zoo - Västerbottens-Kuriren
+- Brand i flerfamiljshus – en kvinna förd till sjukhus - Aftonbladet
+- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
+- Nytt fartyg bordat – erkänner miljöbrott - Västerbottens-Kuriren
+- Ung kvinna misstänks ha försökt döda litet barn - SVT Nyheter
+- DN Direkt – Äldre man död i frontalkrock - Dagens Nyheter
+- Jonas om livet som gränspendlare: ”Jag älskar att jobba i Danmark” - Dagens Nyheter
 - Påskvapenvila inledd i ryska kriget i Ukraina - Dagens Nyheter
 - Pappa och dotter tvingades fly efter protester mot ryska kriget - Dagens Nyheter
-- USA: Två krigsfartyg passerade Hormuzsundet - Västerbottens-Kuriren
+- Putins vapenfabrik i Sibirien i lågor - Expressen
+- Påvens hårda ord om Trump: Dyrkar sig själv - Expressen
 - Kraschade fredssamtal – då stiger bensinpriset - Svenska Dagbladet
 - Kinesiska bilar ökar i Europa – men det går trögare i Sverige - Dagens Nyheter
-- Viral rosa mjölk skapar hysteri – hyllor ekar tomma - Omni
 - Självkörande Tesla får grönt ljus i Nederländerna - Sydsvenskan
-- DN Direkt – Spårvagn och bil i krock – en skadad - Dagens Nyheter
+- Eon investerar 42 miljoner i elnätet - Mitt i
+- Artemis II tillbaka på jorden efter månvarvet - Enköpingsposten
 - ”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet
 
 ## World News
@@ -100,21 +100,21 @@ _Updated: 2026-04-12 13:57_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -150,15 +150,15 @@ _Updated: 2026-04-12 13:57_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - ATL Nyheter
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Här är världens största jordbruk - ATL Nyheter
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
