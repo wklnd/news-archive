@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 20:01_
+_Updated: 2026-04-12 21:21_
 
 ## Top Stories
 
+- Man död i arbetsplatsolycka i Växjö – föll från hög höjd - SVT Nyheter
+- Oppositionen leder i Ungern - GP
 - Direkt – Krisen i Mellanöstern – Trump: Nato vill hjälpa till med minröjning i Hormuzsundet - Dagens Nyheter
-- Ungerska valet i gång – Orbán har röstat - GP
-- Fredssamtal över – inget avtal mellan USA och Iran - Hufvudstadsbladet – HBL
-- Klasskamrat till misstänkte dubbelmördaren: ”Aldrig kunnat föreställa mig” - Aftonbladet
-- Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
-- Två till sjukhus efter larm om farligt ämne - Västerbottens-Kuriren
-- En till sjukhus vid storbrand – VMA utfärdat - GP
+- Exilprinsen Pahlavi på plats i Sverige: ”Stolt över mitt arv” - Dagens Nyheter
+- Brandman död – föll från stegbil - Expressen
+- Marie Brynolfsson blir Vänsterpartiets nya gruppledare - GP
+- Storbrand utanför Sundsvall – skola håller stängt - Västerbottens-Kuriren
 - Överbeläggning på rättspsykiatriska kliniker fortsatt hög - Sveriges Radio
 - Äldre man död i frontalkrock utanför Sollefteå - SVT Nyheter
 - Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter
-- DN Direkt – Uppgifter om 100 döda i flyganfall i Nigeria - Dagens Nyheter
+- Uppgifter om 100 döda i flyganfall i Nigeria - GP
 - Krismöte efter irländska bränsleprotester - Aftonbladet
 - Nathan Shachar: Medelklassen har tvingats bära upp Israels krigsekonomi - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Ännu en drönare hittad i Finland - Dagens Nyheter
+- UPPDATERAS: 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
 - Uppgifter: Wallenberg går in som största ägare i Stegra - EFN
 - Masshysteri: Folket kastar sig efter den nya rosa mjölken - Enköpingsposten
+- Goldman Sachs får miljonbot - Dagens PS
 - Risk för baksmälla på börsen – efter spruckna fredssamtal - Dagens Nyheter
-- Kraschade fredssamtal – då stiger bensinpriset - Svenska Dagbladet
 - Artemis II tillbaka på jorden efter månvarvet - Enköpingsposten
-- ”Får svar direkt: Du ska bli stark, tight, atletisk” - Svenska Dagbladet
+- Gåtan: Nio forskare döda eller försvunna - Aftonbladet
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2026-04-12 20:01_
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -46,11 +46,12 @@ _Updated: 2026-04-12 20:01_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -58,17 +59,16 @@ _Updated: 2026-04-12 20:01_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Robotik AI Turbo för industriella lösningar med konstgjord intelligens i industrin 4.0-om det måste vara snabbt nu - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -144,7 +144,7 @@ _Updated: 2026-04-12 20:01_
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -155,10 +155,10 @@ _Updated: 2026-04-12 20:01_
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
+- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Framtidens jordbruk är här - EU Digital Strategy
+- Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
