@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 23:01_
+_Updated: 2026-04-12 23:58_
 
 ## Top Stories
 
 - Oppositionen leder i Ungern - GP
-- Brand på äldreboende i Nässjö – stor insats - SVT Nyheter
-- Emma Bouvin: Det som pågår nu är ett spel för gallerierna - Dagens Nyheter
-- Man död efter övning – föll från hög höjd - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Trump: Nato vill hjälpa till med minröjning i Hormuzsundet - Dagens Nyheter
+- Man död i arbetsplatsolycka i Växjö – föll från hög höjd - SVT Nyheter
 - Exilprinsen Pahlavi på plats i Sverige: ”Stolt över mitt arv” - Dagens Nyheter
-- Två till sjukhus efter larm om farligt ämne - Västerbottens-Kuriren
+- Två till sjukhus – utsatta för farligt ämne - Västerbottens-Kuriren
+- ”Londons aorta” skadad – nu väntar akut ingrepp - Svenska Dagbladet
 - Skola i Sundsvall håller stängt efter storbrand - Dagens Nyheter
 - Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter
-- Överbeläggning på rättspsykiatriska kliniker fortsatt hög - Sveriges Radio
 - Äldre man död i frontalkrock utanför Sollefteå - SVT Nyheter
+- Nytt fartyg bordat – erkänner miljöbrott - Västerbottens-Kuriren
 - Uppgifter om 100 döda i flyganfall i Nigeria - Västerbottens-Kuriren
 - Nathan Shachar: Medelklassen har tvingats bära upp Israels krigsekonomi - Dagens Nyheter
+- Ex-diplomat åtalas efter mordet på Kongos första premiärminister - Dagens Nyheter
 - UPPDATERAS: 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
-- Slut bränsle på flera bensinstationer på Irland - Sydsvenskan
 - Är Wallenberg på väg att bli storägare i Stegra? Så svarar Stegra - Impact Loop
 - Masshysteri: Folket kastar sig efter den nya rosa mjölken - Enköpingsposten
 - Volvo-ägarens oväntade hyllning: Bättre än elbilar - Carup.se
-- Varningen: ”Ett steg närmare stagflation” - Svenska Dagbladet
+- Goldman Sachs får miljonbot - Dagens PS
 - Artemis II tillbaka på jorden efter månvarvet - Enköpingsposten
 - Gåtan: Nio forskare döda eller försvunna - Aftonbladet
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-12 23:01_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
-- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- UNDP lanserar läromedel om global utveckling - UNDP
-- New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- UNDP lanserar läromedel om global utveckling - UNDP
+- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 
 ## Technology
 
@@ -82,7 +82,6 @@ _Updated: 2026-04-12 23:01_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-04-12 23:01_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -105,60 +105,60 @@ _Updated: 2026-04-12 23:01_
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - ATL.nu
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL.nu
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Framtidens jordbruk är här - EU Digital Strategy
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
