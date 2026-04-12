@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-12 18:00_
+_Updated: 2026-04-12 19:05_
 
 ## Top Stories
 
-- Trump kräver att Iran öppnar Hormuzsundet – hotar - GP
 - Ungerska valet i gång – Orbán har röstat - GP
-- Trump: USA kommer blockera Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump kräver att Iran öppnar Hormuzsundet – hotar - Corren
 - Insändare. Stoppa exilprinsen Pahlavis besök i riksdagen - Dagens Nyheter
 - Klasskamrat till misstänkte dubbelmördaren: ”Aldrig kunnat föreställa mig” - Aftonbladet
-- Direkt – Krisen i Mellanöstern – USA inleder blockad av all sjöfart i Hormuzsundet - Dagens Nyheter
-- En till sjukhus vid storbrand – VMA utfärdat - UNT
+- Fredssamtal över – inget avtal mellan USA och Iran - Hufvudstadsbladet – HBL
+- Två till sjukhus – misstänkt farligt utsläpp i Gävle hamn - SVT Nyheter
+- En till sjukhus vid storbrand – VMA utfärdat - GP
 - Nytt fartyg bordat – erkänner miljöbrott - Västerbottens-Kuriren
 - Ung kvinna misstänks ha försökt döda litet barn - SVT Nyheter
 - Överbeläggning på rättspsykiatriska kliniker fortsatt hög - Sveriges Radio
 - Tusentals påstådda brott mot vapenvilan mellan Ryssland och Ukraina - Dagens Nyheter
+- Uppgifter om 100 döda i flyganfall i Nigeria - Västerbottens-Kuriren
 - Stora protester i Irland – bensinmackar blockeras - Sveriges Radio
 - Påvens hårda ord om Trump: Dyrkar sig själv - Expressen
-- Trump-chefen: ”Jag blev teleporterad till Waffle House” - Expressen
 - Därför är rosa mjölken slut överallt: ”Överväldigande” - Expressen
 - Wallenberg går in som största ägare i Stegra - EFN
 - Kraschade fredssamtal – då stiger bensinpriset - Svenska Dagbladet
@@ -31,6 +31,7 @@ _Updated: 2026-04-12 18:00_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
+- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Bildextra: NHL Global series med Icelandair - travelnews-se
@@ -40,11 +41,10 @@ _Updated: 2026-04-12 18:00_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - UNDP lanserar läromedel om global utveckling - UNDP
+- New Secretary General appointed - Olof Palme International Center
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 
@@ -144,21 +144,21 @@ _Updated: 2026-04-12 18:00_
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - ATL Nyheter
+- Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Här är världens största jordbruk - ATL Nyheter
 - Framtidens jordbruk är här - EU Digital Strategy
 - Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
