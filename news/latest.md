@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-13 02:05_
+_Updated: 2026-04-13 06:02_
 
+- Trump says US will blockade strait of Hormuz after Iran peace talks fail - The Guardian
 - Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat - The Washington Post
-- The U.S. military says it will blockade Iranian ports as Iran peace talks collapse - NPR
-- Planeloads of negotiators and too little time: US and Iran’s 21 hours of talks - The Guardian
-- LAUSD and teachers union reach tentative agreement days before threatened strike - Los Angeles Times
-- Abuse allegations against lead Democrat shake race for California governor - Al Jazeera
-- One dead and several injured after mass shooting at Chick-fil-A in New Jersey - Gothamist
+- Eric Swalwell exits California governor race after sex assault allegations - Al Jazeera
+- Failed US-Iran talks in Pakistan raise questions about fragile ceasefire - AP News
+- Trump blasts Pope Leo for criticism of U.S. foreign policy - CNBC
+- Strongest storm on planet bearing down on U.S. islands in Western Pacific - San Francisco Chronicle
 - Trump Fires Board That Oversees Presidio in San Francisco - The New York Times
 - DHS probing Swalwell over allegations he illegally employed nanny - Politico
 - Monday severe weather in Minnesota: Tornadoes and baseball-sized hail possible - Bring Me The News
+- Trump Says Gas Prices Might Not Drop By Midterms, Underscoring G.O.P. Peril - The New York Times
+- Keiko Fujimori leads Peru's presidential vote with 16.6%, shows early exit poll from Ipsos Peru - Reuters
+- Pope Leo in Africa: Pontiff prioritises world's fastest-growing Catholic region - BBC
+- 'No other way': Mideast prepares for more fighting as talks fail - Yahoo
 - ‘Everything is gone’: Israel destroys entire villages in Lebanon - The Guardian
-- Trump Weighs Limited Strikes Against Iran After Peace Talks Collapse - WSJ
-- A country-by-country glance at Pope Leo XIV's trip to Africa - NPR
-- Peru’s voters face choice of 35 contenders for ninth president in 10 years - AP News
-- Oil Surges, US Futures Drop on Hormuz Blockade: Markets Wrap - Bloomberg.com
-- UK regulators rush to assess risks of latest Anthropic AI model, FT reports - Reuters
-- Sam Altman’s home targeted in second attack - The San Francisco Standard
-- Here's what smart people are saying about what the failed US-Iran peace talks and Trump's blockade mean for markets - markets.businessinsider.com
-- Apple AI Glasses Will Rival Meta’s With Several Styles, Oval Cameras - Bloomberg.com
-- This Is The Best Tablet You Can Buy In 2026, According To Amazon User Reviews - bgr.com
-- Apple iPhone Fold: Release Date Leaked And Striking Design Revealed In Photos - Forbes
+- Oil Jumps, Stocks Drop on US Plan to Block Hormuz: Markets Wrap - Bloomberg.com
+- JBS Reaches Labor Deal With Striking Meatpacking Workers - WSJ
+- Sam Altman’s home targeted in second attack; two suspects arrested - The San Francisco Standard
+- Dollar and oil rise as US-Iran peace talks collapse - Reuters
+- Apple reportedly testing four designs for upcoming smart glasses - TechCrunch
+- Is your phone listening to you? - CBS News
