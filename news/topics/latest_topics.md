@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 00:09_
+_Updated: 2026-04-14 01:10_
 
 ## Top Stories
 
 - Valet i Ungern: Nu kommer Péter Magyars hämnd mot Orbán - Dagens Nyheter
 - Påven slår tillbaka mot Trump: "Är inte rädd" - GP
-- Sorg på brandstationen: ”Var glad och omtyckt” - Omni
-- Mats, 61, om mordet: ”Jag hörde fem till sex skott” - Aftonbladet
+- Professorn om blockaden: Liknar USA:s metod i Venezuela – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Hegseth ber Gud om våld utan nåd - Svenska Dagbladet
-- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Shahens son besöker riksdagen: "Väldigt naivt” - Corren
+- Smärtstillande fungerar på havskräftor - Aftonbladet
 - Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
+- Reza Pahlavi om kritiken: Många är fast i 1979 - Västerbottens-Kuriren
 - DN Direkt – Stora mängder fästingar vid fornlämning – besöksavrådan - Dagens Nyheter
+- Pojke påkörd av lastbil - Expressen
 - En person anhållen för förberedelse till terroristbrott m.m. - Åklagarmyndigheten
 - Rysslands nya drönartaktik: Attacker i dagsljus - Dagens Nyheter
-- UPPDATERAS: 10 721 vapenvilebrott av Ryssland, avtal med Ryssland är noll värt - ryssarna tog kraftiga förluster när Ukraina försvarade sig - Cornucopia?
 - Skräcken inifrån SAS-planet – ”nu kommer det smälla” - Aftonbladet
 - Har svaret redo om Putin ringer - Expressen
-- Ministern varnar för fortsatt stigande energipriser i USA - Omni
-- Trump hotar blockera Hormuzsundet – oljepriset rusar - Placera.se
-- BAE Systems förlorar order från Estland värd 5,4 miljarder - Dagens PS
+- Pappa försökte kidnappa dotter – åtalas - Aftonbladet
+- Johann Bernövall: Därför kan Wallenberg vilja rädda Stegra - Impact Loop
+- Börsen vände upp efter Trumps signaler om Iran – oljepriset lugnade sig - Börskollen
+- PRISER VÄNTAS INOM KORT SPEGLA KRISEN - IEA - Placera.se
 - Efter slakten – mjukvaruaktier stiger på börsen igen - Dagens PS
-- Rymdfararna efter resan: ”Jorden är en livbåt” - Hufvudstadsbladet – HBL
+- Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
 - ”Om fem år vill vi finnas i hela EU” - Svenska Dagbladet
 
 ## World News
 
+- FAO: Protracted Strait of Hormuz crisis could turn into global agrifood catastrophe - Food and Agriculture Organization
 - Volkswagen Group maintains stable market share in declining global market in Q1 - Volkswagen Group
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 
 ## Technology
 
@@ -61,6 +61,7 @@ _Updated: 2026-04-14 00:09_
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-04-14 00:09_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -133,9 +133,9 @@ _Updated: 2026-04-14 00:09_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
@@ -157,8 +157,8 @@ _Updated: 2026-04-14 00:09_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
