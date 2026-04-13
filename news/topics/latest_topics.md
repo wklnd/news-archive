@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 17:56_
+_Updated: 2026-04-13 19:38_
 
 ## Top Stories
 
-- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Oppositionen leder i Ungern - GP
-- Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
+- Valet i Ungern: Nu kommer Péter Magyars hämnd mot Orbán - Dagens Nyheter
+- Trumps varning: Attackfartyg som kommer i närheten av blockaden kommer att elimineras - SVT Nyheter
+- Påven slår tillbaka mot Trump: "Är inte rädd" - GP
 - Shahens son besöker riksdagen: "Väldigt naivt” - Västerbottens-Kuriren
-- Krock mellan lastbil och personbil – en till sjukhus - Bohusläningen
-- Medarbetare vid Värends räddnings­tjänst avliden i samband med arbets­plats­olycka – flaggar på halv stång - Älmhults kommun
+- Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
+- Incident på Arlanda – Sas fick avbryta start - Aftonbladet
 - En person anhållen misstänkt för förberedelse till terroristbrott - SVT Nyheter
-- Åklagare nekas att få ut upploppsbilder - GP
-- Pojke påkörd av lastbil - Expressen
-- Hon var SD:s hyllade kronprinsessa: ”Det var jobbigt att sabba för partiet” - Sydsvenskan
-- UPPDATERAS: 10 721 vapenvilebrott av Ryssland, avtal med Ryssland är noll värt - ryssarna tog kraftiga förluster när Ukraina försvarade sig - Cornucopia?
-- Donald Trump delade Jesus­liknande själv­porträtt – anklagas för hädelse - Världen idag
+- Hon var SD:s hyllade kronprinsessa: ”Det var jobbigt att sabba för partiet” - HD – Nyheter Dygnet Runt
+- Åklagare nekas att få ut SVT:s upploppsbilder från Rosengård - SVT Nyheter
+- Bil och lastbil i krock – en till sjukhus - Expressen
 - Larm om explosion i Motala - Expressen
 - Expert: Iran har fortfarande ess i rockärmen - Aftonbladet
+- KOMMER INTE BLOCKERA LÅN TILL UKRAINA - MAGYAR - Placera.se
+- Ilskan på flygplatsen: " Folk kräktes och svimmade" - Expressen
 - Heliumbrist från Iran hotar forskning och sjukvård - Sveriges Radio
-- Godischef ska lyfta Novo Nordisk i USA - Placera.se
-- Stegra upp i ny viktklass med Wallenberg: “Kommer inte tillåtas gå omkull” - Metal Supply
 - Citi sänker verkstadsbjässar, ser mer rimliga värderingar efter kursuppgångar - EFN - Börsvärlden
-- Frankrike ”bryter sig loss” – Linux ska ersätta Windows på arbetsdatorer - Ny Teknik
-- Artemis II tillbaka på jorden – första bemannade månpassagen på 50 år - Evertiq
+- Godischef ska lyfta Novo Nordisk i USA - Placera.se
+- Irankriget ger dyrare pistagenötter - Sydsvenskan
+- Franska staten testar alternativ till Windows - Computer Sweden
+- Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
 
 ## World News
 
+- Volkswagen Group maintains stable market share in declining global market in Q1 - Volkswagen Group
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Seminar series: Global Lectures - Utrikespolitiska institutet
 
 ## Technology
 
@@ -69,7 +69,7 @@ _Updated: 2026-04-13 17:56_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -87,9 +87,9 @@ _Updated: 2026-04-13 17:56_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -122,26 +122,27 @@ _Updated: 2026-04-13 17:56_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
@@ -149,16 +150,15 @@ _Updated: 2026-04-13 17:56_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk och Skogsbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Lediga jobb - ATL.nu
