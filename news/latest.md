@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-13 06:02_
+_Updated: 2026-04-13 08:34_
 
-- Trump says US will blockade strait of Hormuz after Iran peace talks fail - The Guardian
-- Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat - The Washington Post
+- Dow futures drop 500 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates - CNBC
+- Forint Surges as Orban’s Loss Starts New Era for Hungary-EU Ties - Bloomberg.com
 - Eric Swalwell exits California governor race after sex assault allegations - Al Jazeera
-- Failed US-Iran talks in Pakistan raise questions about fragile ceasefire - AP News
-- Trump blasts Pope Leo for criticism of U.S. foreign policy - CNBC
+- Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks - The Washington Post
+- Trump lambasts Pope Leo XIV, extending feud over Iran war with American pontiff - NPR
 - Strongest storm on planet bearing down on U.S. islands in Western Pacific - San Francisco Chronicle
 - Trump Fires Board That Oversees Presidio in San Francisco - The New York Times
-- DHS probing Swalwell over allegations he illegally employed nanny - Politico
-- Monday severe weather in Minnesota: Tornadoes and baseball-sized hail possible - Bring Me The News
+- Mamdani Plans to Open City-Owned Grocery Store in East Harlem - The New York Times
+- Oil back above $100 as US to blockade Iranian ports after peace talks fail - BBC
 - Trump Says Gas Prices Might Not Drop By Midterms, Underscoring G.O.P. Peril - The New York Times
-- Keiko Fujimori leads Peru's presidential vote with 16.6%, shows early exit poll from Ipsos Peru - Reuters
+- Stampede at Haiti’s Citadelle Laferrière Mars a Haitian Source of Pride - The New York Times
 - Pope Leo in Africa: Pontiff prioritises world's fastest-growing Catholic region - BBC
-- 'No other way': Mideast prepares for more fighting as talks fail - Yahoo
 - ‘Everything is gone’: Israel destroys entire villages in Lebanon - The Guardian
-- Oil Jumps, Stocks Drop on US Plan to Block Hormuz: Markets Wrap - Bloomberg.com
+- Russia and Ukraine accuse each other of violating Putin’s Easter ceasefire - AP News
 - JBS Reaches Labor Deal With Striking Meatpacking Workers - WSJ
 - Sam Altman’s home targeted in second attack; two suspects arrested - The San Francisco Standard
-- Dollar and oil rise as US-Iran peace talks collapse - Reuters
+- Research Finds That AI Has Already Replaced Work for 20 Percent of Jobs - Futurism
+- Trump officials may be encouraging banks to test Anthropic’s Mythos model - TechCrunch
 - Apple reportedly testing four designs for upcoming smart glasses - TechCrunch
-- Is your phone listening to you? - CBS News
+- Rockstar Games says hack will have ‘no impact’ - The Verge
