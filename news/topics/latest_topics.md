@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 01:03_
+_Updated: 2026-04-13 02:01_
 
 ## Top Stories
 
 - Oppositionen leder i Ungern - GP
 - Direkt – Krisen i Mellanöstern – Trump: Nato vill hjälpa till med minröjning i Hormuzsundet - Dagens Nyheter
-- Nya Trumphot mot Iran efter kollaps i samtal - Hufvudstadsbladet – HBL
 - Exilprinsen Pahlavi på plats i Sverige: ”Stolt över mitt arv” - Dagens Nyheter
-- Man död i arbetsplatsolycka i Växjö – föll från hög höjd - SVT Nyheter
-- ”Londons aorta” skadad – nu väntar akut ingrepp - Svenska Dagbladet
-- Storbrand utanför Sundsvall – skola håller stängt - Västerbottens-Kuriren
+- Man död efter övning – föll från hög höjd - Sveriges Radio
+- Nya Trumphot mot Iran efter kollaps i samtal - Hufvudstadsbladet – HBL
+- Brandman död – föll från stegbil - Expressen
 - Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter
+- Storbrand utanför Sundsvall – skola håller stängt - Västerbottens-Kuriren
 - Kustbevakningen har bordat ännu ett fartyg bordat utanför Ystad - GP
 - Folksam: Stormen Dave väntas kosta 20 Mkr i skadeersättning - Sak & Liv
-- Nathan Shachar: Medelklassen har tvingats bära upp Israels krigsekonomi - Dagens Nyheter
-- Uppgifter om 100 döda i flyganfall i Nigeria - GP
+- Panik på historiskt fort – minst 25 ihjältrampade - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Källa: De kraven avvisade Iran - Dagens Nyheter
 - UPPDATERAS: 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
-- YLVA NILSSON: Det här är slutet för Nato-chefen - Expressen
+- Uppgifter om 100 döda i flyganfall i Nigeria - Svenska Dagbladet
+- Är Wallenberg på väg att bli storägare i Stegra? Så svarar Stegra - Impact Loop
 - Volvo-ägarens oväntade hyllning: Bättre än elbilar - Carup.se
 - Oljepriset rusar vid handelns öppning - Svenska Dagbladet
 - Masshysteri: Folket kastar sig efter den nya rosa mjölken - Enköpingsposten
-- Expert: USA har målat in sig i ett hörn – kan skada sina allierade - Omni
 - Månfararna efter resan: ”Jorden är en livbåt” - GP
 - Gåtan: Nio forskare döda eller försvunna - Aftonbladet
 
@@ -52,24 +52,24 @@ _Updated: 2026-04-13 01:03_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -107,15 +107,15 @@ _Updated: 2026-04-13 01:03_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -147,8 +147,8 @@ _Updated: 2026-04-13 01:03_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - ATL.nu
 - Jordbruk och landsbygdsutveckling - European Commission
