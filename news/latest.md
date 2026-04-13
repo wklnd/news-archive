@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-13 16:17_
+_Updated: 2026-04-13 18:00_
 
-- Retired U.S. Navy admiral on Trump's threat to blockade the Strait of Hormuz - NPR
-- 4 Takeaways From Viktor Orban’s Defeat in Hungary’s Election - The New York Times
-- Pope Leo says he has "no fear of the Trump administration" after Trump lashes out - CBS News
-- Judge dismisses Trump defamation lawsuit against Murdoch, WSJ about Epstein letter - CNBC
+- US judge dismisses Trump defamation suit against Wall Street Journal - BBC
+- U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away - CNBC
+- After Criticizing Pope, Trump Posts Image of Himself as a Jesus-Like Figure - The New York Times
+- How Hungary’s Child Sex Abuse Scandal Contributed To Orban’s Downfall - Forbes
 - Swalwell exits California governor's race after assault allegations as rivals seek his supporters - AP News
 - More than a quarter of private colleges are at risk of closing, a new projection shows - NPR
 - Lynette Hooker was concerned about husband Brian in messages to friend: "I can't be out there with him" - CBS News
+- For Many, Ban on Transgender Military Service Means Full Pay but No Work - The New York Times
 - "The door is not closed": Mediators rush to revive U.S.-Iran talks - Axios
-- ‘It’s all we have to run on’: GOP looks to tout tax cuts as war overtakes Hill agenda - Politico
-- Von der Leyen uses Orbán defeat to push for end of veto in EU foreign policy - politico.eu
-- Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US - AP News
-- Sánchez returns to China as Spain seeks deeper ties amid Iran war tensions - AP News
-- A stampede at a Haitian mountaintop fortress kills at least 25 people and injures dozens - NPR
+- A 50% Property Tax Hike Proposal Is Tearing This Massachusetts Town Apart - WSJ
+- Leo becomes first Pope to visit Algeria at start of major Africa tour - BBC
+- IDF says 250 Hezbollah fighters killed in minutes in April 8 strikes - The Jerusalem Post
+- Southport killer's parents failed in 'moral duty' to report son - BBC
+- Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election - NPR
 - Goldman Sachs Reports Record Quarter in Banking and Trading - WSJ
-- Oil jumps back above $100 after US-Iran peace talks fail - BBC
-- Delta Air Lines unveils first new Delta One suite in premium cabin arms race - CNBC
-- Iran war’s global energy crisis sharpens China’s advantage in clean tech - AP News
-- Apple Testing Four Smart Glasses Styles Made of High-End Materials - MacRumors
-- Why Apple pulled high-end Mac mini and Mac Studio models from sale - Cult of Mac
-- One UI 9 Settings show Samsung trusting simplicity - Sammy Fans
+- Delta unveils new suite design, posh plane; plans upgrade for old, dated cabins - The Points Guy
+- Investors are writing off any move from the Fed this month—collapsing talks in Iran have sealed the deal - Fortune
+- Where to invest $10,000 as the Iran war whipsaws markets, according to 9 Wall Street pros - Business Insider
+- Review: Pragmata (Switch 2) - A Dazzling Puzzle-Shooter Driven By A Heartfelt Friendship - Nintendo Life
+- One UI 9 leak suggests Samsung is listening to our software complaints - Android Authority
