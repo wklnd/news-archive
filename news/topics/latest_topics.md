@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 08:30_
+_Updated: 2026-04-13 10:28_
 
 ## Top Stories
 
-- DN Direkt – Vårbudgeten: lägre inflation på grund av sänkt matmoms - Dagens Nyheter
-- Oppositionen leder i Ungern - GP
-- Två skjutna i Helsingborg – en död - Aftonbladet
-- Trump kritiserar påven: Är inte ett fan - Västerbottens-Kuriren
+- Röd börsöppning efter misslyckade fredsförhandlingar - DI
+- Så påverkas hushållen av vårbudgeten: ”Inte mycket i kronor och ören” - Dagens Nyheter
+- ”Valet i Ungern visar att högerextremism kan besegras” - Västerbottens-Kuriren
 - Shahens son besöker riksdagen: "Väldigt naivt” - GP
-- Direkt – Krisen i Mellanöstern – Trump: Nato vill hjälpa till med minröjning i Hormuzsundet - Dagens Nyheter
-- Skola i Sundsvall håller stängt efter storbrand - Dagens Nyheter
-- Europol varnar för att drönare utgör ett större hot mot civilsamhället - Sveriges Radio
-- 13 april 07.15, Sammanfattning natt, Norrbottens län - polisen.se
+- Man död efter skjutning i Helsingborg – kvinna allvarligt skadad - Sveriges Radio
+- Stor ökning av avrättade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Storbrand utanför Sundsvall – skola håller stängt - Västerbottens-Kuriren
+- Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter
+- En person anhållen för förberedelse till terroristbrott m.m. - Åklagarmyndigheten
 - 13 april 07.29, Sammanfattning natt, Jönköpings län - polisen.se
-- Iran: Var nära avtal med USA - GP
-- UPPDATERAS: 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
-- YLVA NILSSON: Det här är slutet för Nato-chefen - Expressen
-- Märkliga beteendet – efter frun försvann - Expressen
+- Trump inför militär blockad av Persiska viken - Västerbottens-Kuriren
+- Husseins familj dödades i Libanon: ”Rokaya ville bli läkare i Sverige” - Sveriges Radio
+- 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
+- Passagerarplan vek av – flög över hustaken - Aftonbladet
 - Stockholmsbörsen mot röd öppning efter Trumps nya hot: ”Strategiskt dödläge” - EFN
 - Därför är rosa mjölken slut överallt: ”Överväldigande” - Expressen
 - Medlemmarnas pengar fast i ”Den goda banken”: ”Redan en zombiebank” - Dagens Nyheter
-- Flygstrejk slår mot Lufthansas passagerare - DI
-- Månfararna efter resan: ”Jorden är en livbåt” - GP
-- Gåtan: Nio forskare döda eller försvunna - Aftonbladet
+- Börsmarknaden stirrar mot Trump och Irankonflikten inför kvartalsrapporterna - Börskollen
+- Rymdfararna efter resan: ”Jorden är en livbåt” - Folkbladet
+- Rockstar bekräftar att de hackats igen - Teknikveckan
 
 ## World News
 
-- Enad Global 7 ska spara 32 miljoner kronor - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
@@ -35,24 +34,24 @@ _Updated: 2026-04-13 08:30_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- UNDP lanserar läromedel om global utveckling - UNDP
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- BBC fyller 100 år – äldsta public service i världen - Omni
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -64,10 +63,11 @@ _Updated: 2026-04-13 08:30_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
@@ -97,16 +97,15 @@ _Updated: 2026-04-13 08:30_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2026-04-13 08:30_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-13 08:30_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - ATL.nu
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
+- Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
