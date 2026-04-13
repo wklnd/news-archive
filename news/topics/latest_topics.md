@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 21:47_
+_Updated: 2026-04-13 23:24_
 
 ## Top Stories
 
-- Valet i Ungern: Nu kommer Péter Magyars hämnd mot Orbán - Dagens Nyheter
-- USA inför bred blockad mot iranska hamnar - Hufvudstadsbladet – HBL
+- Här är utmaningarna för Ungerns nye ledare - Hufvudstadsbladet – HBL
+- Professorn om blockaden: Liknar USA:s metod i Venezuela – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Finansministern saknar svar i vårbudgeten - Arbetet
-- Stor sorg på brandstationen: ”Enorm chock” - Aftonbladet
-- Påven slår tillbaka mot Trump: "Är inte rädd" - GP
-- Mats, 61, om mordet i Helsingborg: ”Jag hörde fem till sex skott” - Aftonbladet
-- Reza Pahlavi om kritiken: Många är fast i 1979 - Västerbottens-Kuriren
+- S-tjänsteman fick inte vara spiritualist – stämde partiet: ”Så smutsigt” - Aftonbladet
+- Dog under övning – kollegernas sorg - Expressen
+- Rysslands nya drönartaktik: Attacker i dagsljus - Dagens Nyheter
+- Shahens son besöker riksdagen: "Väldigt naivt” - Corren
 - Länsstyrelsen avråder från besök till Noaks ark på Öland – stora mängder fästingar i området - Länsstyrelsen
 - Pojke påkörd av lastbil - Expressen
-- Man häktad misstänkt för förberedelse till terrorbrott - SVT Nyheter
-- Rysslands nya drönartaktik: Attacker i dagsljus - Dagens Nyheter
+- En person anhållen för förberedelse till terroristbrott m.m. - Åklagarmyndigheten
+- Fästinginvasion på turistmål – stoppar besökare - Expressen
 - UPPDATERAS: 10 721 vapenvilebrott av Ryssland, avtal med Ryssland är noll värt - ryssarna tog kraftiga förluster när Ukraina försvarade sig - Cornucopia?
-- De pekas ut som vinnare – efter spruckna samtalen: ”Trump-grej” - TV4 Nyheterna
-- Pappa försökte kidnappa dotter – åtalas - Aftonbladet
-- Energichocken ritar om kartan: “50/50-portföljen är död” - Affärsvärlden
+- Skräcken inifrån SAS-planet – ”nu kommer det smälla” - Aftonbladet
+- Extra hastighetskontroller i hela landet - Polisen.se
+- Ministern varnar för fortsatt stigande energipriser i USA - Omni
 - BAE Systems förlorar order från Estland värd 5,4 miljarder - Dagens PS
+- Efter slakten – mjukvaruaktier stiger på börsen igen - Dagens PS
 - Trump hotar blockera Hormuzsundet – oljepriset rusar - Placera.se
-- Booking: Hackare kan ha kommit åt kundinformation - Västerbottens-Kuriren
 - Rymdfararna efter resan: ”Jorden är en livbåt” - Hufvudstadsbladet – HBL
-- Franska myndigheter ska testa alternativ till Windows - PC för Alla
+- ”Om fem år vill vi finnas i hela EU” - Svenska Dagbladet
 
 ## World News
 
@@ -65,11 +65,11 @@ _Updated: 2026-04-13 21:47_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -90,14 +90,15 @@ _Updated: 2026-04-13 21:47_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
@@ -107,58 +108,57 @@ _Updated: 2026-04-13 21:47_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Enheten för radiologi - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Upp till försvar för forskningen - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Förtroendet för vetenskapen i gungning - Läkartidningen
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - ATL Nyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - ATL Nyheter
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
