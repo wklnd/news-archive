@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 02:01_
+_Updated: 2026-04-13 05:58_
 
 ## Top Stories
 
 - Oppositionen leder i Ungern - GP
 - Direkt – Krisen i Mellanöstern – Trump: Nato vill hjälpa till med minröjning i Hormuzsundet - Dagens Nyheter
+- Två skjutna i Helsingborg – en död - Aftonbladet
 - Exilprinsen Pahlavi på plats i Sverige: ”Stolt över mitt arv” - Dagens Nyheter
-- Man död efter övning – föll från hög höjd - Sveriges Radio
-- Nya Trumphot mot Iran efter kollaps i samtal - Hufvudstadsbladet – HBL
-- Brandman död – föll från stegbil - Expressen
-- Kan bli 15 grader – så länge håller värmen i sig - Dagens Nyheter
+- Man död i arbetsplatsolycka i Växjö – föll från hög höjd - SVT Nyheter
+- USA: Fem dödade i attacker mot knarkbåtar - Expressen
 - Storbrand utanför Sundsvall – skola håller stängt - Västerbottens-Kuriren
-- Kustbevakningen har bordat ännu ett fartyg bordat utanför Ystad - GP
-- Folksam: Stormen Dave väntas kosta 20 Mkr i skadeersättning - Sak & Liv
+- Dave gjorde mer skada än försäkringsbolag befarat - Sveriges Radio
+- Fartyg bordat i Sverige – kom från Ryssland - Hufvudstadsbladet – HBL
+- Efter stoppet: Nu öppnar både E22 och väg 108 - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Iran: Var nära avtal med USA - Dagens Nyheter
+- USA: Fem dödade i attacker mot knarkbåtar - Västerbottens-Kuriren
 - Panik på historiskt fort – minst 25 ihjältrampade - Sydsvenskan
-- Direkt – Krisen i Mellanöstern – Källa: De kraven avvisade Iran - Dagens Nyheter
 - UPPDATERAS: 469 ryska brott mot vapenvilan på sex timmar igår, medevacgrupp dödade - fyra krigsfångar avrättade av ryssarna - Cornucopia?
-- Uppgifter om 100 döda i flyganfall i Nigeria - Svenska Dagbladet
 - Är Wallenberg på väg att bli storägare i Stegra? Så svarar Stegra - Impact Loop
-- Volvo-ägarens oväntade hyllning: Bättre än elbilar - Carup.se
-- Oljepriset rusar vid handelns öppning - Svenska Dagbladet
+- Marknadspuls: Surt i Asien efter Trumps Hormuzblockad - Omni Ekonomi
 - Masshysteri: Folket kastar sig efter den nya rosa mjölken - Enköpingsposten
+- Expert: USA har målat in sig i ett hörn – kan skada sina allierade - Omni
 - Månfararna efter resan: ”Jorden är en livbåt” - GP
 - Gåtan: Nio forskare döda eller försvunna - Aftonbladet
 
@@ -29,24 +29,24 @@ _Updated: 2026-04-13 02:01_
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - New Secretary General appointed - Olof Palme International Center
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 
 ## Technology
 
@@ -99,46 +99,46 @@ _Updated: 2026-04-13 02:01_
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- AI och data science - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,18 +147,18 @@ _Updated: 2026-04-13 02:01_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lediga jobb - ATL.nu
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
