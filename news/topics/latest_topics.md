@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-13 16:14_
+_Updated: 2026-04-13 17:56_
 
 ## Top Stories
 
-- DN Direkt – MP om vårbudgeten: ”Siffertrixandet” måste få ett slut - Dagens Nyheter
-- Stor ökning av avrättade i Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Medarbetare vid Värends räddnings­tjänst avliden i samband med arbets­plats­olycka – flaggar på halv stång - Älmhults kommun
-- DN/Ipsos: Jimmie Åkesson knappar in på Magdalena Andersson i statsministermatchen - Dagens Nyheter
-- Man häktad misstänkt för förberedelse till terrorbrott - SVT Nyheter
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Oppositionen leder i Ungern - GP
-- Pahlavi: Irans framtid ”inte längre avlägsen geopolitik” - Dagens Nyheter
-- Explosion vid butik i Södertälje - GP
-- Tomas Ramberg: Trump bombar bort valfläsket - Dagens Nyheter
-- C-protest utanför riksdagen - Expressen
-- Video uppges visa Netanyahu i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
+- Shahens son besöker riksdagen: "Väldigt naivt” - Västerbottens-Kuriren
+- Krock mellan lastbil och personbil – en till sjukhus - Bohusläningen
+- Medarbetare vid Värends räddnings­tjänst avliden i samband med arbets­plats­olycka – flaggar på halv stång - Älmhults kommun
+- En person anhållen misstänkt för förberedelse till terroristbrott - SVT Nyheter
+- Åklagare nekas att få ut upploppsbilder - GP
+- Pojke påkörd av lastbil - Expressen
+- Hon var SD:s hyllade kronprinsessa: ”Det var jobbigt att sabba för partiet” - Sydsvenskan
 - UPPDATERAS: 10 721 vapenvilebrott av Ryssland, avtal med Ryssland är noll värt - ryssarna tog kraftiga förluster när Ukraina försvarade sig - Cornucopia?
-- Trump rasar mot påven: ”Svag och usel” - Expressen
-- Larmet: Döda rådjur i sopsäckar i Kristianstad - Expressen
+- Donald Trump delade Jesus­liknande själv­porträtt – anklagas för hädelse - Världen idag
+- Larm om explosion i Motala - Expressen
+- Expert: Iran har fortfarande ess i rockärmen - Aftonbladet
 - Heliumbrist från Iran hotar forskning och sjukvård - Sveriges Radio
-- Medlemmarnas pengar fast i ”Den goda banken”: ”Redan en zombiebank” - Dagens Nyheter
-- Slopad köpstämpel för ABB, Sandvik och AB Volvo - EFN
-- Irankriget ger dyrare pistagenötter - Sydsvenskan
-- Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
-- ”Om fem år vill vi finnas i hela EU” - Svenska Dagbladet
+- Godischef ska lyfta Novo Nordisk i USA - Placera.se
+- Stegra upp i ny viktklass med Wallenberg: “Kommer inte tillåtas gå omkull” - Metal Supply
+- Citi sänker verkstadsbjässar, ser mer rimliga värderingar efter kursuppgångar - EFN - Börsvärlden
+- Frankrike ”bryter sig loss” – Linux ska ersätta Windows på arbetsdatorer - Ny Teknik
+- Artemis II tillbaka på jorden – första bemannade månpassagen på 50 år - Evertiq
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
 - Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
-- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
+- New Secretary General appointed - Olof Palme International Center
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Seminar series: Global Lectures - Utrikespolitiska institutet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 
 ## Technology
 
@@ -100,15 +100,15 @@ _Updated: 2026-04-13 16:14_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2026-04-13 16:14_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Upp till försvar för forskningen - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2026-04-13 16:14_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - ATL.nu
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Bönder behöver inte oroa sig för Ukrainas intåg i EU-gemenskapen - Land Lantbruk och Skogsbruk
-- Lediga jobb - ATL.nu
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Lediga jobb - ATL.nu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
-- 2022-03-30 Webinar: Sustainable Development – Biodiversity, Climate Change and Food Security - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
