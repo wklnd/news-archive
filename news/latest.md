@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-13 18:00_
+_Updated: 2026-04-13 19:41_
 
-- US judge dismisses Trump defamation suit against Wall Street Journal - BBC
-- U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away - CNBC
-- After Criticizing Pope, Trump Posts Image of Himself as a Jesus-Like Figure - The New York Times
-- How Hungary’s Child Sex Abuse Scandal Contributed To Orban’s Downfall - Forbes
+- Trump Attack on Pope and Posting of Jesus Image Draw Widespread Criticism - The New York Times
+- Live Updates: U.S. military blockade on Iranian ports in the Strait of Hormuz begins - CBS News
+- Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting - NPR
+- Russian hardliners mourn Orban's electoral loss, Kremlin reaches out to his successor - Reuters
 - Swalwell exits California governor's race after assault allegations as rivals seek his supporters - AP News
-- More than a quarter of private colleges are at risk of closing, a new projection shows - NPR
+- Barack Obama Twists the Knife After JD Vance’s Humiliation - The Daily Beast
 - Lynette Hooker was concerned about husband Brian in messages to friend: "I can't be out there with him" - CBS News
+- Active weather week ahead: Severe storms possible Monday afternoon - MPR News
 - For Many, Ban on Transgender Military Service Means Full Pay but No Work - The New York Times
-- "The door is not closed": Mediators rush to revive U.S.-Iran talks - Axios
-- A 50% Property Tax Hike Proposal Is Tearing This Massachusetts Town Apart - WSJ
-- Leo becomes first Pope to visit Algeria at start of major Africa tour - BBC
+- U.S. asked Iran to freeze uranium enrichment for 20 years, sources say - Axios
 - IDF says 250 Hezbollah fighters killed in minutes in April 8 strikes - The Jerusalem Post
-- Southport killer's parents failed in 'moral duty' to report son - BBC
-- Trump says U.S. will blockade Iranian ports. And, Orbán loses Hungarian election - NPR
-- Goldman Sachs Reports Record Quarter in Banking and Trading - WSJ
-- Delta unveils new suite design, posh plane; plans upgrade for old, dated cabins - The Points Guy
-- Investors are writing off any move from the Fed this month—collapsing talks in Iran have sealed the deal - Fortune
-- Where to invest $10,000 as the Iran war whipsaws markets, according to 9 Wall Street pros - Business Insider
-- Review: Pragmata (Switch 2) - A Dazzling Puzzle-Shooter Driven By A Heartfelt Friendship - Nintendo Life
-- One UI 9 leak suggests Samsung is listening to our software complaints - Android Authority
+- Leo becomes first Pope to visit Algeria at start of major Africa tour - BBC
+- Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom - BBC
+- Canadian PM Carney is on the verge of a majority government in a special election - AP News
+- Stock Market Today: Oil Jumps Back Above $100, Dow Slips on Hormuz Blockade — Live Updates - WSJ
+- Goldman bond traders take shine off bumper quarter - Financial Times
+- US home buyers 'frozen' as sales slump over Iran war fears - BBC
+- Iran war’s global energy crisis sharpens China’s advantage in clean tech - AP News
+- GTA 6 Hackers Say Stolen Data "Will be Published as Their Demands Had Not Been Met" - Insider Gaming
+- Pragmata is just OK, but it could’ve been great - The Verge
