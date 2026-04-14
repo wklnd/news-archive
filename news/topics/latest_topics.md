@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 21:48_
+_Updated: 2026-04-14 23:25_
 
 ## Top Stories
 
-- Startelvan mot Danmark - Svensk fotboll
 - Direkt – Krisen i Mellanöstern – Källor: Plan för att öppna Hormuzsundet – utan USA - Dagens Nyheter
-- Kina följer maktskiftet i Ungern med oro - Hufvudstadsbladet – HBL
-- Trump: Förhandlingarna kan återupptas ”inom två dagar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Polisen om explosionen i Utby: "Flera olika teorier" - GP
-- Kramfors: Kvinnans ord till 112: ”Jag ville undvika monstret” - Aftonbladet
+- HANS STIGSSON: En seger för Ungern är en seger för Europa - NT
+- Trump bråkar med Meloni: "Trodde hon var modig" - Västerbottens-Kuriren
+- Handgranat exploderade i villaområde i Utby – krossade fönster - GP
+- Israel och Libanon redo för direkta förhandlingar - GP
+- Nya fredssamtal mellan USA och Iran planeras – oljan på dagslägsta - EFN
 - Kvinna häktad för mordförsök på barn - Västerbottens-Kuriren
+- Lastbil och personbil i frontalkrock i Sala – en död - SVT Nyheter
 - Svenskans bästa ord – alldeles lagom - NWT
-- Lokal fördelning av satsningar i vårbudgeten för 2026 - Regeringen.se
-- Ny explosion vid butik i Södertälje - GP
-- Libanonmöte inlett medan Hizbollah attackerar - Västerbottens-Kuriren
-- Trump: ”Trodde Meloni var modig – hade fel” - Dagens Nyheter
-- Zelenskyj lovar olja till Ungern i april - Västerbottens-Kuriren
-- Ryska studenter lockas till ”säkra” drönarstyrkor - Dagens Nyheter
-- Di erfar: Harald Mix hålls utanför styrelsen efter Wallenbergs intåg i Stegra - DI
-- Bensin- och dieselpriset höjs cirka 50 öre - Corren
+- Efter jätteläckan: Förundersökning läggs ner - Corren
+- Sex, droger och penningtvätt – skandalerna som skakar buddismen i Thailand - Dagens Nyheter
+- Zelenskyj lovar olja till Ungern i april - GP
+- Uppgift: Bombdåd när påven kom på besök - Aftonbladet
+- Kvinna blottade sig för barn - Expressen
+- Di erfar: Harald Mix petas efter Wallenbergs intåg i Stegra - DI
+- Saab snuvas på storaffär med Peru - EFN
+- Ny dieselsmäll – så stor är höjningen - ATL.nu
 - Hatade modellen gör comeback som elbil och ska frälsa Europa - Dagens PS
-- DN Direkt – Plus på börsen efter hopp om fredssamtal - Dagens Nyheter
-- Minneskrisen får Microsoft att chockhöja Surface-priser - Computer Sweden
 - Webbinarium om Dinkel 16 april – här hittar du länken - Energimarknadsinspektionen
+- Xbox Game Pass är för dyrt säger Microsofts nya spelchef - m3.se
 
 ## World News
 
@@ -65,11 +65,11 @@ _Updated: 2026-04-14 21:48_
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -78,10 +78,10 @@ _Updated: 2026-04-14 21:48_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -97,68 +97,68 @@ _Updated: 2026-04-14 21:48_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Förtroendet för vetenskapen i gungning - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL Nyheter
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Lediga jobb - ATL Nyheter
-- 2021-01-14 Webbinarium: Leder EU:s strategi ”Farm to Fork” till en hållbar livsmedelskedja? - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
