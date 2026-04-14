@@ -1,38 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 13:37_
+_Updated: 2026-04-14 16:18_
 
 ## Top Stories
 
+- Orbáns fall öppnar dörren för von der Leyens stora reform - Dagens Nyheter
 - Uppgifter: Iran och USA återupptar förhandlingar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kina följer maktskiftet i Ungern med oro - Dagens Nyheter
-- Analyser: Trump-Jesus försökte vända blad med bisarrt hamburgarevent - Omni
-- Handgranat exploderade i villaområde i Utby – krossade fönster - GP
-- Lärare tejpade elevers munnar – frias - Västerbottens-Kuriren
-- Åtta frågor om Valkompassen – så fungerar den - Dagens Nyheter
+- Meloni blandar sig i bråket mellan Trump och påven - Sveriges Radio
+- Sarnecki om friande domen efter muntejpandet: "Trams" - GP
+- Ytterligare tre häktade efter Vårbymord - Västerbottens-Kuriren
+- Irans hån: Får plats på Trumps McDonaldskvitto - Västerbottens-Kuriren
+- Okända smällar har hörts i Geneta – polis på plats - SVT Nyheter
 - DN Direkt – Man anhållen efter mordet i Helsingborg - Dagens Nyheter
-- Efter jätteläckan: Förundersökning läggs ner - SVT Nyheter
 - Svenskans bästa ord – alldeles lagom - NWT
-- Googlesökningarna – innan hon ströp sin mamma - GP
-- Svartlistade fartyg passerar Hormuzsundet - Dagens Nyheter
-- Fredssamtal mellan Israel och Libanon inleds - Västerbottens-Kuriren
-- DN Direkt – Skottlossning på skola i Turkiet - Dagens Nyheter
-- Oljetrafiken ökar i Öresund – jämförs med Suez - Aftonbladet
-- Stegra i principöverenskommelse om finansieringsrunda på EUR 1,4 miljarder, ledd av ett Wallenberg Investments- konsortium - Cision News
-- Pensionsmyndigheten: Banker skrämmer upp unga - Omni
-- Rusning till ISK-konton – efter skattesänkningen - Sveriges Radio
-- Skyddade kundadresser röjda – stor läcka hos Danske Bank avslöjad - Börskollen
+- Efter jätteläckan: Förundersökning läggs ner - Corren
+- Israel och Libanon i historiskt möte – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uppgift: Bombdåd när påven kom på besök - Aftonbladet
+- Skottlossning på skola i Turkiet – flera skadade - Sydsvenskan
+- Italien bryter militärt samarbete med Israel - Aftonbladet
+- Stegra säkrar 15 miljarder – Wallenberg går in med kapital - Sveriges Radio
+- Bensin- och dieselpriset höjs cirka 50 öre - Corren
+- Minister välkomnar ökat ISK-sparande: ”Ska löna sig” - Omni
+- De sökte 1 000 jobb – så gick det sen - Dagens Nyheter
 - Minneskrisen får Microsoft att chockhöja Surface-priser - Computer Sweden
 - Efterfrågan på olja rasar – men Ryssland rusar - nyteknik
 
 ## World News
 
-- Global stålprognos för i år sänks - DI
+- IMF: Irankriget kan skapa global recession - Svenska Dagbladet
+- IMF: Irankriget kan skapa global recession - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Unions ett permanent och hållbart eldupphör i Mellanöstern - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -40,12 +40,12 @@ _Updated: 2026-04-14 13:37_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Umeå children in worldwide school project on AI - Umeå universitet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
@@ -80,8 +80,8 @@ _Updated: 2026-04-14 13:37_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -97,48 +97,48 @@ _Updated: 2026-04-14 13:37_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Women's Empowerment Week på GoCo Health Innovation City - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- AI och data science - Stockholms universitet
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Förtroendet för vetenskapen i gungning - Läkartidningen
+- AI och data science - Stockholms universitet
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-04-14 13:37_
 - Lediga jobb - ATL.nu
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
