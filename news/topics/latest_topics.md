@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 10:10_
+_Updated: 2026-04-14 11:55_
 
 ## Top Stories
 
-- Stegra räddas av Wallenbergsfären - Dagens Nyheter
-- Handgranat har detonerat i Utby - GP
-- Kina följer maktskiftet i Ungern med oro - Dagens Nyheter
-- Förundersökning om grovt dataintrång läggs ned - Åklagarmyndigheten
-- Olycka mellan lastbil och bil på E4 söder om Gränna - SVT Nyheter
-- Svartlistade fartyg passerar Hormuzsundet - Dagens Nyheter
+- DN Direkt – Lärare frias för tejpade barnmunnar - Dagens Nyheter
+- Handgranat exploderade i villaområde i Utby – krossade fönster - GP
+- ALEX VORONOV: Berättelsen om frihet vann i Ungern - UNT
+- Analyser: Trump-Jesus försökte vända blad med bisarrt hamburgarevent - Omni
+- Uppgifter: Iran och USA återupptar förhandlingar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ströp ihjäl sin mamma – dotter döms till rättspsykiatrisk vård - Sveriges Radio
+- DN Direkt – Man anhållen efter mordet i Helsingborg - Dagens Nyheter
 - Norsk stadsbuss stoppad i Stenungsund – barn bakom ratten - SVT Nyheter
-- Anonyma mejl till regeringen – skickas inifrån S partikansli - Dagens Nyheter
+- Anonym mejladress begär ut handlingar – kopplas till S-kansli - SVT Nyheter
 - Svenskans bästa ord – alldeles lagom - NWT
-- Lokal fördelning av satsningar i vårbudgeten för 2026 - Regeringen.se
-- Hizbollah: Inte intresserade av förhandlingar - GP
-- Meloni blandar sig i bråket mellan Trump och påven - Sveriges Radio
-- Ättlingar till Escobars flodhästar ska avlivas - Västerbottens-Kuriren
-- Uppgifter: Mål om nya samtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svartlistade fartyg passerar Hormuzsundet - Dagens Nyheter
+- Fredssamtal mellan Israel och Libanon inleds - Västerbottens-Kuriren
+- Ättlingar till Escobars flodhästar ska avlivas - GP
+- Skolskjutning i Turkiet – elva skadade - SVT Nyheter
+- Stegra i principöverenskommelse om finansieringsrunda på EUR 1,4 miljarder, ledd av ett Wallenberg Investments- konsortium - Cision News
 - Pensionsmyndigheten: Banker skrämmer upp unga - Omni
 - Trumps minister: Då slår oljepriset i taket - DI
-- Evergrandes Hui erkänner bedrägeribrott - Västerbottens-Kuriren
-- Inflationen dämpades i mars - Fastighetsnytt
+- Inflationen oförändrad – ligger på 0,5 procent - Sveriges Radio
 - Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
 - Roblox inför nya konton för barn - Svenska Dagbladet
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Unions ett permanent och hållbart eldupphör i Mellanöstern - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Colliers International Named to IAOP® Global Outsourcing 100 List for 13th Consecutive Year - Via TT
+- FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
@@ -58,18 +58,18 @@ _Updated: 2026-04-14 10:10_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,8 +80,8 @@ _Updated: 2026-04-14 10:10_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -90,8 +90,8 @@ _Updated: 2026-04-14 10:10_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
@@ -122,43 +122,43 @@ _Updated: 2026-04-14 10:10_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Upp till försvar för forskningen - Läkartidningen
+- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - ATL.nu
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Lediga jobb - ATL.nu
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
