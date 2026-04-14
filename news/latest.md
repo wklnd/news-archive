@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-14 08:20_
+_Updated: 2026-04-14 10:13_
 
-- Vance Says Pope Leo Should Stay Out of U.S. Affairs - The New York Times
-- Live updates: The latest on US military blockade on Iranian ports - CNN
-- Eric Swalwell announces resignation from Congress - Axios
+- Trump's pope spat risks feud with crucial Catholic swing voters - Axios
+- Live Updates: U.S. imposes military blockade of Iranian ports on Strait of Hormuz - CBS News
+- Rep. Eric Swalwell of California says he will resign after sexual misconduct allegations - AP News
 - Rep. Tony Gonzales to resign from Congress amid backlash over sexual misconduct allegations - The Texas Tribune
-- Negotiations to prevent a Tuesday LAUSD strike are still in progress late Monday night - Los Angeles Times
-- Orbán's election loss has ripple effects for Trump and U.S. conservatives - PBS
+- MAGA Absorbs the Loss of Orban, a Kindred Spirit to Trump’s Movement - The New York Times
+- Last-ditch negotiations to prevent a Tuesday LAUSD strike appear to be in progress past midnight - Los Angeles Times
 - Brian Hooker released from custody in Bahamas after wife's disappearance - CBS News
 - 2 dead in U.S. military strike on alleged drug boat in eastern Pacific - NBC News
 - Minnesota authorities investigate arrest by ICE of a Hmong American man as a possible kidnapping - AP News
-- Trump’s top general urges lawmakers to reup FISA 702 - Live Updates - Politico
+- Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship - The Guardian
 - UK report lays bare ‘catastrophic’ missed chances before stabbings at girls’ dance class - AP News
-- North Korea tests cruise and anti-ship missiles from naval destroyer - Reuters
-- Rubio to host Israeli and Lebanese ambassadors for talks amid ceasefire effort - Axios
-- IDF says close to capturing Hezbollah’s historic Bint Jbeil stronghold - The Times of Israel
-- Oil prices ease on hopes of new US-Iran peace talks - BBC
-- Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder - NPR
-- S&P 500 futures are little changed after index erases Iran war losses: Live updates - CNBC
-- China’s Export Growth Faltered in First Month of War in Iran - Bloomberg
+- US-sanctioned tankers pass Strait of Hormuz despite US blockade, data shows - Reuters
+- What We Know About Prince Harry and Meghan Markle’s Australia Trip - Town & Country Magazine
+- With Algeria Visit, Pope Leo Returns to His Augustinian Roots - The New York Times
+- Stocks rebound, oil and dollar slip on hopes of US-Iran resolution - Reuters
+- Two suspects have been arrested for allegedly shooting at Sam Altman's house - Engadget
+- China Evergrande’s Billionaire Founder Pleads Guilty to Fraud - Bloomberg
+- China exports growth in March misses estimates, imports surge most in over four years - CNBC
 - iPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track - MacRumors
-- Motorola Razr 70 Ultra specs leak - GSMArena.com news - GSMArena.com
+- RAMageddon has come for Microsoft’s Surface Pro and Surface Laptop - The Verge
