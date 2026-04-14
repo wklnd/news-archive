@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 16:18_
+_Updated: 2026-04-14 17:49_
 
 ## Top Stories
 
 - Orbáns fall öppnar dörren för von der Leyens stora reform - Dagens Nyheter
-- Uppgifter: Iran och USA återupptar förhandlingar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Fartyg vid Hormuzsundet avvaktar USA:s hot - GP
 - Meloni blandar sig i bråket mellan Trump och påven - Sveriges Radio
 - Sarnecki om friande domen efter muntejpandet: "Trams" - GP
-- Ytterligare tre häktade efter Vårbymord - Västerbottens-Kuriren
-- Irans hån: Får plats på Trumps McDonaldskvitto - Västerbottens-Kuriren
-- Okända smällar har hörts i Geneta – polis på plats - SVT Nyheter
-- DN Direkt – Man anhållen efter mordet i Helsingborg - Dagens Nyheter
+- Misstänks för mordförsök på barn - SN, Södermanlands Nyheter
+- IMF: Irankriget kan leda till global recession – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ny explosion vid butik i Södertälje - GP
 - Svenskans bästa ord – alldeles lagom - NWT
 - Efter jätteläckan: Förundersökning läggs ner - Corren
+- Lokal fördelning av satsningar i vårbudgeten för 2026 - Regeringen.se
 - Israel och Libanon i historiskt möte – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Uppgift: Bombdåd när påven kom på besök - Aftonbladet
-- Skottlossning på skola i Turkiet – flera skadade - Sydsvenskan
-- Italien bryter militärt samarbete med Israel - Aftonbladet
-- Stegra säkrar 15 miljarder – Wallenberg går in med kapital - Sveriges Radio
-- Bensin- och dieselpriset höjs cirka 50 öre - Corren
+- Ukrainska robotar intog rysk ställning – kan vara historiskt - Expressen
+- ”Det här kunde varit jag, min fru, min dotter” - Aftonbladet
+- Di erfar: Harald Mix petas efter Wallenbergs intåg i Stegra - DI
 - Minister välkomnar ökat ISK-sparande: ”Ska löna sig” - Omni
 - De sökte 1 000 jobb – så gick det sen - Dagens Nyheter
-- Minneskrisen får Microsoft att chockhöja Surface-priser - Computer Sweden
-- Efterfrågan på olja rasar – men Ryssland rusar - nyteknik
+- Erik Magnusson Kriget kan höja ditt elpris när Trump tar över Putins grepp om Europas gaskran - Sydsvenskan
+- Frankrike fasar ut Windows – vill stärka sin digitala suveränitet - Voister
+- Webbinarium om Dinkel 16 april – här hittar du länken - Energimarknadsinspektionen
 
 ## World News
 
@@ -38,38 +38,38 @@ _Updated: 2026-04-14 16:18_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC kräver tillbaka lön från ex-ankaret efter skandalen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Umeå children in worldwide school project on AI - Umeå universitet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -78,8 +78,8 @@ _Updated: 2026-04-14 16:18_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-04-14 16:18_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Women's Empowerment Week på GoCo Health Innovation City - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -133,12 +133,12 @@ _Updated: 2026-04-14 16:18_
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- AI och data science - Stockholms universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förtroendet för vetenskapen i gungning - Läkartidningen
-- AI och data science - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-04-14 16:18_
 - Lediga jobb - ATL.nu
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
