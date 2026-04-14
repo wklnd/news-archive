@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-14 14:44_
+_Updated: 2026-04-14 16:24_
 
-- U.S. imposes military blockade of Iranian ports on Strait of Hormuz - CBS News
-- In Leo, Trump Faces a Different Kind of Papal Opponent - The New York Times
-- Eric Swalwell announces resignation from Congress - Axios
-- Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US - AP News
+- Live Updates: In Iran war, push to resume talks intensifies as U.S. blockade of Iran's ports enters Day 2 - CBS News
+- Vance Says Pope Leo Should Stay Out of U.S. Affairs - The New York Times
+- How many ships have passed the Strait of Hormuz and how many were attacked? - Al Jazeera
+- Swalwell exit shakes up chaotic California governor's race - BBC
+- Fresh Iran talks could begin this week as US continues blockade on ports - Fox News
 - Why Congress is fighting over a central tool of American surveillance - NPR
-- Tankers pass Strait of Hormuz on first day of US blockade, data shows - Reuters
+- Bahamas police release Michigan man questioned after wife disappeared from their boat - The Guardian
 - LAUSD strike is off, schools to open Tuesday with tentative union deals in place - Los Angeles Times
-- A Divided America Processes a War That Trump Has Scarcely Explained - The New York Times
-- Biden DOJ 'weaponized' federal law to prosecute pro-lifers — and give them longer prison sentences - New York Post
+- Ex-Pence aide Olivia Troye plans to run for Congress in Virginia as a Democrat - The Washington Post
 - GOP leaders prepare to steamroll opponents of DHS funding plan - Politico
-- In Orbán loss, Netanyahu sees his closest European ally defeated - CNN
-- U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class - NPR
-- As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost - The New York Times
-- As Bahrain Cracked Down Amid War, a Death in Custody Sparked Outrage - The New York Times
-- JPMorgan’s Profit Rises 13%, Tops Wall Street Expectations - Barron's
-- Stock Market Today: Oil Slips Below $100 Amid Hopes of More Talks — Live Markets - WSJ
-- Two suspects have been arrested for allegedly shooting at Sam Altman's house - Engadget
-- China’s Export Growth Slowed Sharply in First Month of Iran War - Bloomberg.com
+- Serbia's Aleksandar Vučić clashes with Péter Magyar over Putin 'godfather' remark - Euronews.com
+- Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US - AP News
+- Gunman opens fire at high school in Turkey, wounding at least 16 - CNN
+- With Algeria Visit, Pope Leo Returns to His Roots in a Holy Order - The New York Times
+- JPMorgan earnings, Oracle's $300 million windfall, new Delta suites and more in Morning Squawk - CNBC
+- Wholesale inflation rose in March to three year-high - CNN
+- Middle East War Will Slow Global Economic Growth, I.M.F. Warns - The New York Times
+- Behind fiery attack on OpenAI’s Altman, a growing divide over AI - The Washington Post
 - iPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track - MacRumors
-- This new Android app could be a lifesaver for sleepy commuters - Android Authority
+- Exynos 2600 Was Born Out Of Sheer Necessity And Wouldn’t Have Entered Mass Production If Samsung’s Mistakes Not Cost It $3 Billion Last Year - Wccftech
