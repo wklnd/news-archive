@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 01:10_
+_Updated: 2026-04-14 02:06_
 
 ## Top Stories
 
@@ -8,22 +8,22 @@ _Updated: 2026-04-14 01:10_
 - Påven slår tillbaka mot Trump: "Är inte rädd" - GP
 - Professorn om blockaden: Liknar USA:s metod i Venezuela – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Hegseth ber Gud om våld utan nåd - Svenska Dagbladet
-- Smärtstillande fungerar på havskräftor - Aftonbladet
+- Misstanken: Här åker den 16‑årige mördaren runt i kommunens bil - Sveriges Radio
 - Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
 - Reza Pahlavi om kritiken: Många är fast i 1979 - Västerbottens-Kuriren
 - DN Direkt – Stora mängder fästingar vid fornlämning – besöksavrådan - Dagens Nyheter
-- Pojke påkörd av lastbil - Expressen
 - En person anhållen för förberedelse till terroristbrott m.m. - Åklagarmyndigheten
+- Dog under övning – kollegernas sorg - Expressen
+- Person räddad ur brinnande lägenhet i Varberg - Expressen
 - Rysslands nya drönartaktik: Attacker i dagsljus - Dagens Nyheter
-- Skräcken inifrån SAS-planet – ”nu kommer det smälla” - Aftonbladet
-- Har svaret redo om Putin ringer - Expressen
 - Pappa försökte kidnappa dotter – åtalas - Aftonbladet
+- Skräcken inifrån SAS-planet – ”nu kommer det smälla” - Aftonbladet
 - Johann Bernövall: Därför kan Wallenberg vilja rädda Stegra - Impact Loop
-- Börsen vände upp efter Trumps signaler om Iran – oljepriset lugnade sig - Börskollen
 - PRISER VÄNTAS INOM KORT SPEGLA KRISEN - IEA - Placera.se
+- Börsen vände upp efter Trumps signaler om Iran – oljepriset lugnade sig - Börskollen
 - Efter slakten – mjukvaruaktier stiger på börsen igen - Dagens PS
-- Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
 - ”Om fem år vill vi finnas i hela EU” - Svenska Dagbladet
+- Rockstar Games bekräftar nytt dataintrång - Nordichardware
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-04-14 01:10_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Russia is running out of parts to keep ageing Antonov transport aircraft flying - Aerospace Global News
-- Artemis II re-entry: Hansen, crew ‘focusing on getting it all done right,’ Hadfield says - Global News
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
 - Trump given 'Vietnam' warning by Iran's deputy foreign minister - Sky News
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -47,6 +46,7 @@ _Updated: 2026-04-14 01:10_
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -90,8 +90,8 @@ _Updated: 2026-04-14 01:10_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
@@ -133,8 +133,8 @@ _Updated: 2026-04-14 01:10_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- AI och data science - Stockholms universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -157,8 +157,8 @@ _Updated: 2026-04-14 01:10_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
