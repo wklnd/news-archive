@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 11:55_
+_Updated: 2026-04-14 13:37_
 
 ## Top Stories
 
-- DN Direkt – Lärare frias för tejpade barnmunnar - Dagens Nyheter
-- Handgranat exploderade i villaområde i Utby – krossade fönster - GP
-- ALEX VORONOV: Berättelsen om frihet vann i Ungern - UNT
-- Analyser: Trump-Jesus försökte vända blad med bisarrt hamburgarevent - Omni
 - Uppgifter: Iran och USA återupptar förhandlingar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ströp ihjäl sin mamma – dotter döms till rättspsykiatrisk vård - Sveriges Radio
+- Kina följer maktskiftet i Ungern med oro - Dagens Nyheter
+- Analyser: Trump-Jesus försökte vända blad med bisarrt hamburgarevent - Omni
+- Handgranat exploderade i villaområde i Utby – krossade fönster - GP
+- Lärare tejpade elevers munnar – frias - Västerbottens-Kuriren
+- Åtta frågor om Valkompassen – så fungerar den - Dagens Nyheter
 - DN Direkt – Man anhållen efter mordet i Helsingborg - Dagens Nyheter
-- Norsk stadsbuss stoppad i Stenungsund – barn bakom ratten - SVT Nyheter
-- Anonym mejladress begär ut handlingar – kopplas till S-kansli - SVT Nyheter
+- Efter jätteläckan: Förundersökning läggs ner - SVT Nyheter
 - Svenskans bästa ord – alldeles lagom - NWT
+- Googlesökningarna – innan hon ströp sin mamma - GP
 - Svartlistade fartyg passerar Hormuzsundet - Dagens Nyheter
 - Fredssamtal mellan Israel och Libanon inleds - Västerbottens-Kuriren
-- Ättlingar till Escobars flodhästar ska avlivas - GP
-- Skolskjutning i Turkiet – elva skadade - SVT Nyheter
+- DN Direkt – Skottlossning på skola i Turkiet - Dagens Nyheter
+- Oljetrafiken ökar i Öresund – jämförs med Suez - Aftonbladet
 - Stegra i principöverenskommelse om finansieringsrunda på EUR 1,4 miljarder, ledd av ett Wallenberg Investments- konsortium - Cision News
 - Pensionsmyndigheten: Banker skrämmer upp unga - Omni
-- Trumps minister: Då slår oljepriset i taket - DI
-- Inflationen oförändrad – ligger på 0,5 procent - Sveriges Radio
-- Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
-- Roblox inför nya konton för barn - Svenska Dagbladet
+- Rusning till ISK-konton – efter skattesänkningen - Sveriges Radio
+- Skyddade kundadresser röjda – stor läcka hos Danske Bank avslöjad - Börskollen
+- Minneskrisen får Microsoft att chockhöja Surface-priser - Computer Sweden
+- Efterfrågan på olja rasar – men Ryssland rusar - nyteknik
 
 ## World News
 
+- Global stålprognos för i år sänks - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -36,17 +37,16 @@ _Updated: 2026-04-14 11:55_
 - Global Unions ett permanent och hållbart eldupphör i Mellanöstern - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Colliers International Named to IAOP® Global Outsourcing 100 List for 13th Consecutive Year - Via TT
 - FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Umeå children in worldwide school project on AI - Umeå universitet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2026-04-14 11:55_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -80,8 +80,8 @@ _Updated: 2026-04-14 11:55_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Vilken framtid arbetar du för? - EY
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -98,10 +98,10 @@ _Updated: 2026-04-14 11:55_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -115,7 +115,7 @@ _Updated: 2026-04-14 11:55_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,19 +123,19 @@ _Updated: 2026-04-14 11:55_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - AI och data science - Stockholms universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -153,12 +153,12 @@ _Updated: 2026-04-14 11:55_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Lediga jobb - ATL.nu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
