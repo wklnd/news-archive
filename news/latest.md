@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-14 17:54_
+_Updated: 2026-04-14 19:47_
 
-- Live Updates: In Iran war, push to resume talks intensifies as U.S. blockade of Iran's ports enters Day 2 - CBS News
-- JD Vance defends Trump amid spat with Pope Leo: ‘Stick to matters of morality’ - The Guardian
-- Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US - AP News
-- A dozen battleground Dems send Swalwell’s campaign donations to charity - Politico
-- Trump’s Attacks on Pope Leo Create Fresh Midterm Headaches for G.O.P. - The New York Times
-- Los Angeles Schools Strike Narrowly Averted in Last-Minute Deal - The New York Times
-- Bahamas police release Michigan man questioned after wife disappeared from their boat - The Guardian
+- How geography powers Iran’s grip on the Strait of Hormuz, despite U.S. blockade - The Washington Post
+- Jon Stewart on Trump’s Jesus photo denial: ‘Do you even care about lying to us any more?’ - The Guardian
 - Tony Gonzales announces plans to quit Congress early - Axios
-- Newsom Reveals Embarrassing Reality of Trump DoorDash Stunt - The Daily Beast
 - Trump’s leaky blockade: ship sneaks through and talks with Iran resume - Fortune
-- Trump and Putin just lost their ‘poster boy’ in Europe. What now for Hungary? - CNN
+- Israel and Lebanon are holding rare diplomatic talks in D.C. - NPR
+- What to know about Eric Swalwell’s exit from Congress and the California governor’s race - AP News
+- Brian Hooker, husband of woman missing in Bahamas: "I won't be able to stop looking" - CBS News
+- Los Angeles Schools Strike Narrowly Averted in Last-Minute Deal - The New York Times
+- Appeals court again blocks Boasberg contempt probe into Alien Enemies Act deportations - Politico
+- Florida doctor indicted after allegedly removing patient's liver instead of spleen in fatal surgery - NBC News
+- ‘We were never friends’: Kremlin plays down loss of ally following Orbán’s election defeat - The Guardian
 - Former student opens fire in school in Turkey, wounding 16, governor says - Reuters
-- North Korea's Kim Jong Un supervises missile tests from his naval destroyer - NBC News
-- As War Chills Economy, Dubai’s Most Vulnerable Bear the Cost - The New York Times
-- JPMorgan profit beats estimates on record trading haul, strong dealmaking - Reuters
-- Middle East War Will Slow Global Economic Growth, I.M.F. Warns - The New York Times
-- US wholesale prices surged 4% last month after the war in Iran sent energy prices soaring - AP News
+- After losing loved ones, an Israeli and a Palestinian work together for Middle East peace - NPR
+- Fuel protests have Ireland's government facing possible no-confidence vote - NPR
+- Iran war already taking a toll on the global economy, IMF says in new forecast - The Washington Post
+- JPMorgan’s Profit Rises 13%, Tops Wall Street Expectations - Barron's
+- Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks - CNBC
 - Man charged in arson attack on Sam Altman’s house had AI CEO kill list, prosecutors say - Fortune
 - Blackmagic's DaVinci Resolve 21 takes on Adobe Lightroom with a new Photo page - Engadget
-- Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom
+- Google will begin punishing sites for back button hijacking in June - Ars Technica
