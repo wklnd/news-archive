@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-14 10:13_
+_Updated: 2026-04-14 12:00_
 
-- Trump's pope spat risks feud with crucial Catholic swing voters - Axios
 - Live Updates: U.S. imposes military blockade of Iranian ports on Strait of Hormuz - CBS News
-- Rep. Eric Swalwell of California says he will resign after sexual misconduct allegations - AP News
-- Rep. Tony Gonzales to resign from Congress amid backlash over sexual misconduct allegations - The Texas Tribune
-- MAGA Absorbs the Loss of Orban, a Kindred Spirit to Trump’s Movement - The New York Times
-- Last-ditch negotiations to prevent a Tuesday LAUSD strike appear to be in progress past midnight - Los Angeles Times
-- Brian Hooker released from custody in Bahamas after wife's disappearance - CBS News
+- Vance Says Pope Leo Should Stay Out of U.S. Affairs - The New York Times
+- A dozen battleground Dems send Swalwell’s campaign donations to charity - Politico
+- Péter Magyar vows to pursue those who ‘plundered’ Hungary after election win - The Guardian
+- US-sanctioned Chinese tanker passes through Strait of Hormuz - The Jerusalem Post
+- Tony Gonzales announces plans to quit Congress early - Axios
+- Michigan Man Is Released in Wife’s Disappearance in the Bahamas - The New York Times
+- Last-ditch negotiations to prevent a Tuesday LAUSD extend past midnight into Tuesday - Los Angeles Times
 - 2 dead in U.S. military strike on alleged drug boat in eastern Pacific - NBC News
-- Minnesota authorities investigate arrest by ICE of a Hmong American man as a possible kidnapping - AP News
-- Florida teenager charged with sexually assaulting and killing stepsister Anna Kepner on cruise ship - The Guardian
-- UK report lays bare ‘catastrophic’ missed chances before stabbings at girls’ dance class - AP News
-- US-sanctioned tankers pass Strait of Hormuz despite US blockade, data shows - Reuters
-- What We Know About Prince Harry and Meghan Markle’s Australia Trip - Town & Country Magazine
-- With Algeria Visit, Pope Leo Returns to His Augustinian Roots - The New York Times
-- Stocks rebound, oil and dollar slip on hopes of US-Iran resolution - Reuters
+- Minnesota county investigates federal agents’ removal of US citizen from his home as a possible kidnapping - CNN
+- U.K. inquiry lays bare 'catastrophic' missed chances before stabbings at dance class - NPR
+- Pope starts Africa tour in Algeria and calls for peace against Iran war’s backdrop - AP News
+- Rubio to host Israeli and Lebanese ambassadors for talks amid ceasefire effort - Axios
+- Prince Harry and Meghan arrive in Australia to a muted welcome - Reuters
+- S&P 500 futures tick higher after index erases Iran war losses: Live updates - CNBC
+- China Evergrande Founder Pleads Guilty to Fraud in Downfall - Bloomberg.com
 - Two suspects have been arrested for allegedly shooting at Sam Altman's house - Engadget
-- China Evergrande’s Billionaire Founder Pleads Guilty to Fraud - Bloomberg
-- China exports growth in March misses estimates, imports surge most in over four years - CNBC
-- iPhone Fold Production Pushed Back, But Fall 2026 Launch Still on Track - MacRumors
+- China’s exports slow as Middle East turmoil weighs on trade - Financial Times
 - RAMageddon has come for Microsoft’s Surface Pro and Surface Laptop - The Verge
+- New ultra-premium foldable released internationally with big launch discounts - Notebookcheck
