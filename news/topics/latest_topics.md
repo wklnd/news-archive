@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-14 08:16_
+_Updated: 2026-04-14 10:10_
 
 ## Top Stories
 
-- Professorn om blockaden: Liknar USA:s metod i Venezuela – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stegra räddas av Wallenbergsfären - Dagens Nyheter
 - Handgranat har detonerat i Utby - GP
-- DN Direkt – Vance: Ledsen att Orbán förlorade - Dagens Nyheter
-- Trump om kritiserade Jesusbilden: Mig som läkare - Västerbottens-Kuriren
+- Kina följer maktskiftet i Ungern med oro - Dagens Nyheter
+- Förundersökning om grovt dataintrång läggs ned - Åklagarmyndigheten
+- Olycka mellan lastbil och bil på E4 söder om Gränna - SVT Nyheter
+- Svartlistade fartyg passerar Hormuzsundet - Dagens Nyheter
 - Norsk stadsbuss stoppad i Stenungsund – barn bakom ratten - SVT Nyheter
-- Den spanske premiärministerns fru mutanklagad - Aftonbladet
 - Anonyma mejl till regeringen – skickas inifrån S partikansli - Dagens Nyheter
-- Näringslivet och facket kritiska mot regeringens vårbudget - Dagens Arena
-- Besöksavrådan vid turistmål – mycket fästingar - Västerbottens-Kuriren
-- Reza Pahlavi om kritiken: Många är fast i 1979 - Corren
+- Svenskans bästa ord – alldeles lagom - NWT
+- Lokal fördelning av satsningar i vårbudgeten för 2026 - Regeringen.se
 - Hizbollah: Inte intresserade av förhandlingar - GP
-- Här köar oljetankrar på väg till Ryssland – 50 kilometer från Pellinge - Hufvudstadsbladet – HBL
-- UPPDATERAS: 10 721 vapenvilebrott av Ryssland, avtal med Ryssland är noll värt - ryssarna tog kraftiga förluster när Ukraina försvarade sig - Cornucopia?
-- Ukrainas motstånd inspirerar oss alla | Mattias Svensson | SvD Ledare - Svenska Dagbladet
+- Meloni blandar sig i bråket mellan Trump och påven - Sveriges Radio
+- Ättlingar till Escobars flodhästar ska avlivas - Västerbottens-Kuriren
+- Uppgifter: Mål om nya samtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Pensionsmyndigheten: Banker skrämmer upp unga - Omni
-- Stegras säkrar finansiering – Wallenberg går in med pengar - DI
-- IEA-chef: Oljepriser återspeglar inte krigets effekter än - Affärsvärlden
-- Portföljkampen: Kinneviks rapport kan bli avgörande - Dagens PS
+- Trumps minister: Då slår oljepriset i taket - DI
+- Evergrandes Hui erkänner bedrägeribrott - Västerbottens-Kuriren
+- Inflationen dämpades i mars - Fastighetsnytt
 - Artemis II-besättningen såg månen ”bombarderas” av meteoriter - Ny Teknik
-- Nobina tecknar nytt 10‑årigt avtal för ersättningstrafik åt VR Mälartåg - Cision News
+- Roblox inför nya konton för barn - Svenska Dagbladet
 
 ## World News
 
-- FAO: Protracted Strait of Hormuz crisis could turn into global agrifood catastrophe - Food and Agriculture Organization
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Man arrested, 2 women in critical condition after stabbing inside Brampton home - Toronto - Global News
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Unions ett permanent och hållbart eldupphör i Mellanöstern - UNI Global Union
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -57,19 +57,19 @@ _Updated: 2026-04-14 08:16_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Phonaks AI-drivna hörapparater uppmärksammas med 2026 Artificial Intelligence Excellence Awards - it-halsa.se
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -142,23 +142,23 @@ _Updated: 2026-04-14 08:16_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - ATL.nu
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Lediga jobb - ATL.nu
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Lediga jobb - ATL.nu
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Lediga jobb - ATL.nu
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
