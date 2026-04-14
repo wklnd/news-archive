@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-14 23:32_
+_Updated: 2026-04-15 00:28_
 
-- Fresh Iran talks could begin this week as US continues blockade on ports - Fox News
-- A New Accuser Says Eric Swalwell Sexually Assaulted Her - The New York Times
-- Trump says Iran talks may resume this week, but opposes enrichment compromise - The Washington Post
-- Reps. Eric Swalwell and Tony Gonzales formally submit resignations from Congress - Axios
-- Jon Stewart on Trump’s Jesus photo denial: ‘Do you even care about lying to us any more?’ - The Guardian
-- Appeals court orders judge to end contempt investigation of Trump administration deportation flights - AP News
-- Bahamas police release Michigan man questioned after his wife disappeared from the couple’s boat - AP News
-- LAUSD strike averted: Tentative deal reached with SEIU Local 99, schools to open Tuesday - ABC7 Los Angeles
-- Pope Leo issues warning on democracy after Trump criticism - Reuters
-- Thune says Senate GOP ‘prepared’ to fill potential Supreme Court vacancy - Politico
-- Investors size up landmark new chapter for Hungary post-Orban - Reuters
-- Iran War Live Updates: Israel and Lebanon Begin Direct Talks as Hezbollah Signals Its Opposition - The New York Times
-- At least 16 wounded in Turkey high school shooting; gunman dead - CBS News
-- After losing loved ones, an Israeli and a Palestinian work together for Middle East peace - NPR
+- Six ships turned around as part of Strait of Hormuz blockade, US military says - Reuters
+- Reps. Eric Swalwell and Tony Gonzales officially resign amid misconduct claims - NBC News
+- Rubio launches direct negotiations between Israel and Lebanon - Axios
+- New accuser says Eric Swalwell sexually assaulted her in 2018 - The Guardian
+- Johnson says he told Trump to take down image of president-as-Jesus - Politico
+- Live updates: Trump hints US-Iran talks could resume over next two days - CNN
+- Husband of US woman missing in Bahamas released, says he will keep looking - BBC
+- LAUSD strike averted; schools open Tuesday as unions reach tentative deals with raises - Los Angeles Times
+- Florida doctor indicted after allegedly removing patient's liver instead of spleen in fatal surgery - NBC News
+- Trump summons FISA holdouts to the White House - Politico
+- Trump and Putin just lost their ‘poster boy’ in Europe. What now for Hungary? - CNN
+- Former student opens fire in school in Turkey, wounding 16, governor says - Reuters
+- France and UK to co-host talks on securing Strait of Hormuz - politico.eu
+- Live Updates: Iran war continues with U.S. blockade of ports; Lebanon and Israel hold direct talks - CBS News
 - Fed nominee Warsh reports well over $100 million in assets ahead of April 21 hearing - Reuters
-- Stock Market News, April 14, 2026: S&P 500 ends just shy of record, Nasdaq logs longest win streak since 2021 on hopes for renewed US-Iran talks; Big Tech rallies and oil prices retreat - MarketWatch
-- UK gov’s Mythos AI tests help separate cybersecurity threat from hype - Ars Technica
-- Texas man charged in attacks targeting Sam Altman's SF home, OpenAI HQ - SFGATE
+- Stocks post back-to-back gains as traders remain optimistic for U.S.-Iran deal: Live updates - CNBC
+- Crypto Firms Seek Access to Anthropic’s Mythos While Shoring Up Defenses - The Information
+- United Airlines CEO reportedly pitched merger with American, sparking competition fears - The Guardian
 - Google will begin punishing sites for back button hijacking in June - Ars Technica
-- ‘Google app for desktop’ launches on Windows - 9to5Google
+- Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain - TechCrunch
