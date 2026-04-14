@@ -1,0 +1,20 @@
+# .github/workflows/deduplicate.yml
+name: Deduplicate Headlines
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # 22:00 UTC = midnight UTC+2
+  workflow_dispatch:
+
+jobs:
+  deduplicate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install PyGithub
+      - run: python scripts/cleaner.py
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
