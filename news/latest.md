@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-15 03:08_
+_Updated: 2026-04-15 06:32_
 
 - U.S. blockade has turned back six merchant ships leaving Strait of Hormuz - The Washington Post
-- New accuser says Eric Swalwell sexually assaulted her in 2018 - The Guardian
-- Live updates: Trump hints US-Iran talks could resume over next two days - CNN
-- Johnson says he told Trump to take down image of president-as-Jesus - Politico
-- Justice Department fires 4 prosecutors accused of bias against anti-abortion activists - AP News
-- Reps. Eric Swalwell and Tony Gonzales officially resign amid misconduct claims - NBC News
-- Husband of US woman missing in Bahamas released, says he will keep looking - BBC
-- LAUSD strike averted: Tentative deal reached with SEIU Local 99, schools to open Tuesday - ABC7 Los Angeles
-- 51 Percent of Americans Think Trump’s Military Action in Iran Has Not Been Worthwhile - The New York Times
-- Camp Mystic official testifies that he didn’t see flood warnings issued the day before storm hit - The Texas Tribune
-- Trump and Putin just lost their ‘poster boy’ in Europe. What now for Hungary? - CNN
+- A New Accuser Says Eric Swalwell Sexually Assaulted Her - The New York Times
+- Winona-Rochester Bishop Robert Barron, a Trump ally, urges president to apologize to Pope - MPR News
+- US-Iran peace talks could resume in next two days, Trump says - The Guardian
+- Justice Department says Biden DOJ weaponized law to go after anti-abortion activists - NPR
+- Reps. Eric Swalwell and Tony Gonzales formally submit resignations from Congress - Axios
+- Woman killed by police at Omaha Walmart after allegedly kidnapping, slashing child - CBS News
+- ‘An incalculable loss’: Hampshire College to close doors after fall semester - The Guardian
+- Hochul Proposes Tax on N.Y.C. Second Homes That Are Worth $5 Million - The New York Times
+- Mexico’s Sheinbaum pushes back on Trump over migrant deaths and Cuba - AP News
 - Live Updates: Iran war continues with U.S. blockade of ports; Lebanon and Israel hold direct talks - CBS News
-- France and UK to co-host talks on securing Strait of Hormuz - politico.eu
+- After losing loved ones, an Israeli and a Palestinian work together for Middle East peace - NPR
+- Investors size up landmark new chapter for Hungary post-Orban - Reuters
 - At Auschwitz, Diaspora Jews who lived through terror march alongside Holocaust survivors - The Times of Israel
-- Crypto Firms Seek Access to Anthropic’s Mythos While Shoring Up Defenses - The Information
-- Higher oil prices, higher yields, no more rate cuts? No problem for US stocks - Reuters
+- Stock market today: S&P 500, Nasdaq rally toward record highs, oil tumbles as Iran deal optimism grows - Yahoo Finance
+- Anthropic Attracts Investor Offers at an $800 Billion Valuation - Bloomberg.com
 - Disney Layoffs Hit Marvel Studios Hard - Forbes
-- 7-Eleven expects to close hundreds of its stores in North America this year - abcnews.com
+- From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary - Fortune
 - Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away - Ars Technica
-- Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case - 9to5Mac
+- Someone planted backdoors in dozens of WordPress plug-ins used in thousands of websites - TechCrunch
