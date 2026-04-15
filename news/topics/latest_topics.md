@@ -1,38 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-15 08:16_
+_Updated: 2026-04-15 10:12_
 
 ## Top Stories
 
-- Vance: Misstron kan inte lösas över en natt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Över 1000 höns på E20 - Dagens Nyheter
 - Trump bråkar med Meloni: "Trodde hon var modig" - Västerbottens-Kuriren
 - Uppgifter: Tvingades jobba 12 timmar varje dag med nya tunnelbanan - Aftonbladet
-- Kry-läkare: ”Kan ta 100 patienter på en dag” - Sveriges Radio
-- USA: Inga fartyg från Iran har passerat blockad - GP
-- DHR:s analys av regeringens vårbudget 2026: Ett svek och ett tomt löfte - Via TT
-- Lastbil och personbil i frontalkrock i Sala – en död - SVT Nyheter
-- JUST NU: Man i 35-årsåldern är försvunnen – polisen har inlett sökinsats - NWT
-- Här är platserna där narkotika säljs öppet i Stockholm - Dagens Nyheter
-- Ny explosion vid butik i Södertälje - GP
+- ”Samtalen riskerar att sakna betydelse för Hizbollah” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- En anhållen efter explosion i Södertälje - GP
+- DN Direkt – Uppgifter: EU planerar för ett Nato utan USA - Dagens Nyheter
+- Antalet öppna drogscener i Stockholms län minskar för fjärde året i rad - polisen.se
+- JUST NU Man i 35-årsåldern är försvunnen – polisen har inlett sökinsats: ”Patruller och drönare” - NWT
+- Mathias Bred: Tvinga inte Svenska kyrkans präster att viga - GP
+- Rättegången mot den misstänkte mannen fortsätter - SVT Nyheter
+- USA: Blockaden mot Iran nu fullt införd - Corren
 - HANS STIGSSON: En seger för Ungern är en seger för Europa - NT
 - Mellanösternkommentatorn: ”Ser inte så ljust ut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tre år av krig i Sudan: Extrem fattigdom kan nå 60 procent av befolkningen - Unric
-- Fyra döda i amerikansk attack mot påstådda smugglare - Omni
+- ”Armin” från ett nedsläckt Iran: ”Vi lever i dödens skugga” - Sveriges Radio
 - OLOF JONMYREN: Wallenbergs miljardbesked stärker framtidstron på grönt stål - SN, Södermanlands Nyheter
 - Nöjesparkerna väljer olika vägar – så påverkas biljettpriserna i år - Börskollen
 - Miljardvinster för Ica – ”lagliga kryphål” ger handlarna lägre skatt - Dagens Nyheter
-- Börsen väntas öppna runt nollan - Aftonbladet
-- Linux 7.0 lanseras skarpt - 7.1 redan på horisonten - SweClockers
-- En nallebjörn värd en halv miljon kronor - Aftonbladet
+- Börsen väntas öppna runt nollan - Folkbladet
+- Ny EU-regel: Alla mobiler som säljs i Sverige måste ha en ny funktion - Dagens.se
+- Linux 7.0 släppt. Med officiellt stöd för Rust. - feber.se
 
 ## World News
 
 - IMF: Irankriget kan skapa global recession - DI
 - IMF: Irankriget kan skapa global recession - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -40,9 +38,11 @@ _Updated: 2026-04-15 08:16_
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global stålprognos för i år sänks - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
@@ -52,24 +52,24 @@ _Updated: 2026-04-15 08:16_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,9 +98,10 @@ _Updated: 2026-04-15 08:16_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -108,14 +109,13 @@ _Updated: 2026-04-15 08:16_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-15 08:16_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Lediga jobb - ATL.nu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - ATL.nu
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
