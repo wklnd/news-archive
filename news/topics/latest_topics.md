@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-15 18:35_
+_Updated: 2026-04-15 20:41_
 
 ## Top Stories
 
-- Vårpropositionen: Mer att önska för företagen - Mynewsdesk
-- Snabba Kry-läkare får bonus - Aftonbladet
-- JUST NU: Tekniskt fel hos Telia skapar betalningsproblem på Coop – butiker i Värmland drabbade - NWT
-- Värmlänning dömd till fängelse för jaktbrott - Sveriges Radio
 - Öppnas låset? Fem frågor efter valet i Ungern - Hufvudstadsbladet – HBL
-- Interna kritiken: Lägg ner regeringskravet - Svenska Dagbladet
+- Källor: Nya samtal nära mellan Iran och USA - Dagens Nyheter
+- Vårpropositionen: Mer att önska för företagen - Mynewsdesk
+- JUST NU: Tekniskt fel hos Telia skapar betalningsproblem på Coop – butiker i Värmland drabbade - NWT
+- Misstänkt försök till rekrytering av 8-åringar - Svenska Dagbladet
+- Vädjar till Trump: Återuppta inte striderna - GP
+- Granskning: Snabba läkare får bonus - Västerbottens-Kuriren
 - 18-årig man begärs häktad – misstänks för förberedelse till terroristbrott - SVT Nyheter
-- Tomas fångar in E20-hönsen: ”Redan värpt ägg” - GP
-- Nya ellagar underlättar för energidelning - Tidningen Energi
-- Kvinna avliden efter misstänkt mordbrand - Västerbottens-Kuriren
-- Uppgifter: USA och Iran möts nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kristersson deltar i möte om Hormuzsundet - Västerbottens-Kuriren
-- DN Direkt – Uppgifter: EU planerar för ett Nato utan USA - Dagens Nyheter
-- Fler brittiska drönare till Ukraina - GP
+- Man i Luleå döms för 26 våldtäkter mot barn - SVT Nyheter
+- Kvinna död efter lägenhetsbrand i Båstad - SVT Nyheter
+- Trump publicerar ny Jesusbild – fortsätter attackera påven - Dagens Nyheter
+- Svårt för Nato att växla upp utan USA - GP
+- Nedskärningar på BBC – tusentals får gå - Västerbottens-Kuriren
+- Rysk fejkrepublik väcker oro i Estland - Corren
 - OLOF JONMYREN: JONMYREN: Wallenbergs miljardbesked ger eko också i Oxelösund - SN, Södermanlands Nyheter
-- Hermès aktie rasar – färre kunder från Mellanöstern - Västerbottens-Kuriren
-- MilDefs Årsredovisning och Hållbarhetsrapport 2025 är publicerad - Cision News
-- Nya ”hackande” AI-modellen skrämmer bankvärlden - Dagens Nyheter
-- 4 732 meddelanden – så föll Jonathan för AI-chattboten som blev hans död - Omni
+- Stockholmsbörsen föll till minus inför stängning – rally i Mildef - EFN
+- Hermès rapport: Tillväxten avtar; aktierna verkar vara rätt värderade - Morningstar
+- LEDARE: Klart att Ica-handlare ska få tjäna miljoner - Kristianstadsbladet
 - Gemini blir mer personlig i fler länder - Teknikveckan
+- Nu drabbar RAM-krisen priserna - Ljud & Bild
 
 ## World News
 
@@ -51,25 +51,25 @@ _Updated: 2026-04-15 18:35_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -82,11 +82,11 @@ _Updated: 2026-04-15 18:35_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
@@ -98,24 +98,24 @@ _Updated: 2026-04-15 18:35_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-04-15 18:35_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Förtroendet för vetenskapen i gungning - Läkartidningen
 
 ## Jordbruk
@@ -150,15 +150,15 @@ _Updated: 2026-04-15 18:35_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL Nyheter
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
