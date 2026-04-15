@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-15 16:53_
+_Updated: 2026-04-15 18:35_
 
 ## Top Stories
 
+- Vårpropositionen: Mer att önska för företagen - Mynewsdesk
+- Snabba Kry-läkare får bonus - Aftonbladet
+- JUST NU: Tekniskt fel hos Telia skapar betalningsproblem på Coop – butiker i Värmland drabbade - NWT
 - Värmlänning dömd till fängelse för jaktbrott - Sveriges Radio
-- Trump: Öppnar Hormuz för Kinas skull - Omni
-- Vance: Tänker fortsätta förhandla med Iran - GP
-- Nya vänbråket: Ödelägger allt på två minuter - Aftonbladet
-- Magyar: Parlamentet öppnar i början av maj - Västerbottens-Kuriren
+- Öppnas låset? Fem frågor efter valet i Ungern - Hufvudstadsbladet – HBL
 - Interna kritiken: Lägg ner regeringskravet - Svenska Dagbladet
-- Tomas fångar in E20-hönsen: ”Redan värpt ägg” - GP
 - 18-årig man begärs häktad – misstänks för förberedelse till terroristbrott - SVT Nyheter
-- DN Direkt – Anhållen man släppt efter dödsskjutning - Dagens Nyheter
+- Tomas fångar in E20-hönsen: ”Redan värpt ägg” - GP
+- Nya ellagar underlättar för energidelning - Tidningen Energi
 - Kvinna avliden efter misstänkt mordbrand - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Iran hotar sjöfarten i Röda havet om ”olagliga” blockaden fortsätter - Dagens Nyheter
-- Minst fyra dödade i skolskjutning i Turkiet - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Påven: Världen behöver höra budskap om fred - Dagens Nyheter
-- ”Rakt in i Islamiska republikens fälla” - Kvartal
-- Betalstrul på Coop i hela landet: ”Kö och kaos” - Aftonbladet
+- Uppgifter: USA och Iran möts nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kristersson deltar i möte om Hormuzsundet - Västerbottens-Kuriren
+- DN Direkt – Uppgifter: EU planerar för ett Nato utan USA - Dagens Nyheter
+- Fler brittiska drönare till Ukraina - GP
+- OLOF JONMYREN: JONMYREN: Wallenbergs miljardbesked ger eko också i Oxelösund - SN, Södermanlands Nyheter
 - Hermès aktie rasar – färre kunder från Mellanöstern - Västerbottens-Kuriren
+- MilDefs Årsredovisning och Hållbarhetsrapport 2025 är publicerad - Cision News
 - Nya ”hackande” AI-modellen skrämmer bankvärlden - Dagens Nyheter
-- Sommarland sänker priser: ”Ekonomisk osäkerhet för familjer” - skaraborgsbygden.se
-- Ökad sjuklighet hos blåmesar – SVA behöver fler rapporter - Hällekis-Kuriren
 - 4 732 meddelanden – så föll Jonathan för AI-chattboten som blev hans död - Omni
+- Gemini blir mer personlig i fler länder - Teknikveckan
 
 ## World News
 
@@ -53,8 +53,8 @@ _Updated: 2026-04-15 16:53_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
@@ -73,26 +73,26 @@ _Updated: 2026-04-15 16:53_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Superlista: 151 verktyg som gör dig redo för framtiden - Miljö & Utveckling
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -134,11 +134,11 @@ _Updated: 2026-04-15 16:53_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Förnyelse av bidrag till forskningsinfrastruktur för National E-infrastructure for Aging Research (NEAR) - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Förtroendet för vetenskapen i gungning - Läkartidningen
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2026-04-15 16:53_
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - ATL Nyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - Land Lantbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
