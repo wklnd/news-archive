@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-16 00:26_
+_Updated: 2026-04-16 01:39_
 
 - MAGA’s Reaction to Trump’s Jesus Post Is Surprising—and Revealing - Slate
 - Inside the sudden downfall of Eric Swalwell - CNN
 - Iran War News Live Updates: Blockade ‘Fully Implemented’ as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ
-- Senate rejects resolution to block Trump from striking Iran - The Washington Post
-- Pope at orphanage in Cameroon: No one is ever forgotten - Vatican News
-- Pakistani delegation arrives in Tehran in move to ease tensions and arrange more US-Iran talks - AP News
-- Husband of Michigan woman missing in the Bahamas leaves country, lawyer says - NBC News
-- SantaCon Leader Ran His Own $1 Million Con Game, U.S. Says - The New York Times
-- House GOP delays action on FISA extension - Politico
+- Children killed in Lebanon as Israeli strikes hit homes far from front lines of war with Hezbollah - AP News
+- Senate Republicans Again Block Bid to Limit Trump’s Iran War Powers - The New York Times
+- Justice Sonia Sotomayor issues unusual apology over 'hurtful' remarks about colleague Brett Kavanaugh - NBC News
+- Husband of missing American woman in the Bahamas leaves country, lawyer says - NBC News
+- SantaCon Leader Ran His Own $1 Million Con, U.S. Says - The New York Times
 - Oklahoma principal shot while tackling ex-student armed with handguns - The Guardian
+- Grisly New Addition to Search for American Missing in Bahamas - The Daily Beast
 - Israeli security cabinet discusses possible Lebanon ceasefire, senior official says - Reuters
+- Sudan enters a fourth year of war as officials lament an ‘abandoned crisis’ - AP News
 - Nine killed in second Turkish school shooting in two days - BBC
-- Pakistan and Bangladesh migrants are faking they are gay to get asylum in the UK: Report - The Times of India
 - Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media - The Guardian
 - Trump threatens to fire Powell, won’t halt probe of Fed renovations - The Washington Post
-- Allbirds says it's ditching footwear and pivoting to become an AI company. - CBS News
-- S&P 500 hits new all-time high as investors shrug off Iran war oil price spike - NBC News
-- Ford’s EV and software chief Doug Field is leaving the company - The Verge
-- Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica
+- Shares in Allbirds surge after maker of wool sneakers announces pivot to AI - The Guardian
+- Stock Market Today: S&P 500 Ticks Higher as Bank Earnings Show U.S. Economy Holding Up - WSJ
+- Man accused of attack on Sam Altman's SF home was in crisis, parents say - SFGATE
 - Google launches a Gemini AI app on Mac - The Verge
+- Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica
