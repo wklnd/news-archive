@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-15 11:56_
+_Updated: 2026-04-15 13:34_
 
 ## Top Stories
 
-- Prorysk grupp försökte angripa svenskt värmeverk - Västerbottens-Kuriren
-- Trump hamrar in: Kriget är snart slut - GP
-- Europa planerar militär insats i Hormuz – utan USA - Expressen
-- Akut brist på bröstmjölk i både Malmö och Lund - Omni
-- Udda morgonen – Jakob fångade in höns på E20: ”Trodde det var ett aprilskämt” - NLT
 - Tre personer döms för grovt jaktbrott under björnjakt i Strömsunds kommun - Sveriges Domstolar
+- SD-politikern Katja Nyberg delgiven brottsmisstanke - Ekuriren
+- Olle Lönnaeus Trump drog på korståg i Iran och smädade påven – blir han förlåten? - Sydsvenskan
+- Prorysk grupp försökte angripa svenskt värmeverk - Västerbottens-Kuriren
+- Läkare i appen Kry kan ta emot upp till 100 patienter per dag - Sveriges Radio
+- Polisens varning – 1 500 hönor på E20: ”Var uppmärksam” - Aftonbladet
 - Antalet öppna drogscener i Stockholms län minskar för fjärde året i rad - polisen.se
 - En anhållen efter explosion i Södertälje - Västerbottens-Kuriren
+- Rättegången mot den misstänkte mannen fortsätter - SVT Nyheter
 - DN Direkt – Anhållen man släppt efter dödsskjutning - Dagens Nyheter
-- Mathias Bred: Tvinga inte Svenska kyrkans präster att viga - GP
-- Trump bråkar med Meloni: "Trodde hon var modig" - Västerbottens-Kuriren
-- Mellanösternkommentatorn: ”Ser inte så ljust ut” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vance: Stora framsteg i samtal med Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tv-kanal i Frankrike anklagas för rasism mot Bally Bagayoko - Sveriges Radio
+- USA: Blockaden mot Iran nu fullt införd - Corren
 - HANS STIGSSON: En seger för Ungern är en seger för Europa - NT
-- ”Armin” från ett nedsläckt Iran: ”Vi lever i dödens skugga” - Sveriges Radio
-- OLOF JONMYREN: Wallenbergs miljardbesked ger eko också i Oxelösund - SN, Södermanlands Nyheter
-- Hermès aktie rasar – färre kunder från Mellanöstern - Aftonbladet
+- OLOF JONMYREN: JONMYREN: Wallenbergs miljardbesked ger eko också i Oxelösund - SN, Södermanlands Nyheter
 - Miljardvinster för Ica – ”lagliga kryphål” ger handlarna lägre skatt - Dagens Nyheter
+- Hermès aktie rasar – färre kunder från Mellanöstern - Aftonbladet
 - Nöjesparkerna väljer olika vägar – så påverkas biljettpriserna i år - Börskollen
-- 4 732 meddelanden – så föll Jonathan för AI-chattboten som blev hans död - Omni
-- Linux 7.0 släppt. Med officiellt stöd för Rust. - feber.se
+- Adobe tätar allvarlig sårbarhet i Acrobat Reader - Computer Sweden
+- Microsoft chockhöjer priserna på sina Surface-datorer - PC för Alla
 
 ## World News
 
 - IMF: Irankriget kan skapa global recession - DI
 - IMF: Irankriget kan skapa global recession - Aftonbladet
+- Global stålprognos för i år sänks - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Global stålprognos för i år sänks - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- FN: Hormuzblockad kan ge global livsmedelskris - TV4 Nyheterna
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-04-15 11:56_
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -110,11 +110,11 @@ _Updated: 2026-04-15 11:56_
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- DexTech Medical meddelar nya positiva resultat från myelomstudien - it-halsa.se
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
@@ -150,11 +150,11 @@ _Updated: 2026-04-15 11:56_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - ATL Nyheter
+- Lediga jobb - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
