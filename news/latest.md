@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-15 19:45_
+_Updated: 2026-04-15 21:50_
 
-- Commercial Ships Transit Strait of Hormuz as U.S. Blockades Iran’s Ports - WSJ
-- Live updates: Iran’s military threatens Red Sea shipping if US blockade continues - CNN
-- Oklahoma principal shot disarming ex-student with semi-automatic guns - The Guardian
-- Trump takes aim at Pope Leo again, days after calling him 'weak on crime' - CNBC
-- Tax season was supposed to bring big refunds. So far they're less than expected - NPR
-- How Eric Swalwell rose to the top of Democratic politics as rumors followed him - The Washington Post
-- Capitol agenda: Cory Mills under fire but not going anywhere - Politico
-- Trump Just Posted An AI Image Of Himself With Jesus - Forbes
-- Trump adviser Sebastian Gorka seeks top counterterrorism job - The Washington Post
-- GOP leaders delay FISA vote amid GOP rebellion - Politico
-- Pope arrives in Cameroon as separatists announce 3-day pause in fighting - AP News
-- Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media - The Guardian
-- Iran claims oil tanker transits Strait of Hormuz amid U.S. blockade on Iranian ports - CBS News
+- Jury Finds Live Nation Acts as a Monopoly in a Victory for States - The New York Times
+- Iran War News Live Updates: Blockade ‘Fully Implemented’ as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ
+- Johnson backs Trump, Vance in criticism of pope - Politico
+- War powers vote will test Senate’s support for Trump’s war with Iran - The Washington Post
 - Sudan enters a fourth year of war as officials lament an ‘abandoned crisis’ - AP News
-- Trump Administration Live Updates: President Threatens to Fire Fed Chief if He Does Not Resign - The New York Times
-- Allbirds Is Pivoting to AI Compute. Sure, Why Not - WIRED
-- S&P 500 ticks higher as benchmark approaches all-time high: Live updates - CNBC
-- Snap Inc blames AI as it lays off 1,000 workers - The Guardian
-- Trump Mobile Drops Trashy Update on New Phone - The Daily Beast
-- Amazon’s new Fire TV Stick HD is its ‘slimmest ever’ - The Verge
+- Pope: Algeria visit a ‘special blessing’ and opportuntity to promote dialogue - Vatican News
+- GOP leaders delay FISA vote amid GOP rebellion - Politico
+- Capitol agenda: Cory Mills under fire but not going anywhere - Politico
+- Bernie Sanders pushes resolutions to block US weapons sales to Israel - The Guardian
+- Gavin Newsom faces growing pressure to intervene in a scrambled California governor’s race - CNN
+- Israeli security cabinet to discuss possible Lebanon ceasefire, senior official says - Reuters
+- Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media - The Guardian
+- Trump says new talks with Iran will happen soon. And, Eric Swalwell faces new allegations - NPR
+- Pakistani, Bangladeshi migrants pretend to be gay to remain in UK: Report - The Times of India
+- Trump threatens to fire Powell, won’t halt probe of Fed renovations - The Washington Post
+- Stock market today: S&P 500, Nasdaq, Dow futures hit pause near records amid hopes for US-Iran talks - Yahoo Finance
+- Allbirds announced a switch from shoes to AI and its stock jumped 600 percent - The Verge
+- Bank of America beats profit estimates as trading, investment banking shine - Reuters
+- Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica
+- Teens’ Experiences on TikTok, Instagram and Snapchat - Pew Research Center
