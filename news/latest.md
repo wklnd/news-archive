@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-16 14:48_
+_Updated: 2026-04-16 17:13_
 
+- Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say - The New York Times
+- Pope criticises 'tyrants' who spend billions on wars, days after Trump spat - BBC
 - 3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz - NPR
-- Stephen Colbert Wants the Vice President to Lay Off the Pope - The New York Times
-- Hopes for Middle East peace grow with Israel and Lebanon eyeing ceasefire - Reuters
-- Trump wants a Tax Day victory lap in Las Vegas. The city’s economy isn’t cooperating. - Politico
-- US military maintaining blockade on Iranian ports as peace talks are set to begin - Fox News
+- Trump would "welcome" Israel-Lebanon ceasefire: U.S. official - Axios
+- New Jersey special House election is another test of Trump’s popularity ahead of midterms - Politico
+- Trump to promote tax breaks in Las Vegas, where residents feel the pinch of high gas prices - AP News
+- US military: 'locked and loaded' to strike Iran's power plants, energy industry if ordered - Reuters
+- Johnson tries again on spy powers vote amid GOP rebellion - Politico
 - Scoop: Trump discussed "Jesus" meme with Bill Pulte before posting it, sources say - Axios
-- Fellow California Congressman Rep. Sam Liccardo says rumors of Eric Swalwell sexual misconduct swirled for years - ABC7 Los Angeles
-- Floodwaters inundate Wisconsin streets, trapping drivers, as Midwest rebuilds after powerful storms - NBC News
-- Lawyer John Eastman Disbarred for Efforts to Overturn 2020 Election - The New York Times
-- Trump administration set to launch tariff refund portal. Here's what to know. - CBS News
+- House Democrats file articles of impeachment against Hegseth - CBS News
 - Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16 - AP News
-- Online age checks are coming in Europe - politico.eu
-- Turkish police order 83 arrests over online praise for school shootings - BBC
-- Pakistani army chief visits Tehran in hopes for renewed talks between US and Iran - AP News
-- Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head tells AP - AP News
+- Pakistan Looks to Play Peacemaker Between U.S. and Iran, Again - The New York Times
+- Why China Won’t Lean Hard on Iran - The New York Times
+- South African politician Julius Malema sentenced to prison for firing gun - Al Jazeera
+- Europe has 'maybe six weeks of jet fuel left', energy boss warns - BBC
+- S&P 500 and Nasdaq pull back after hitting fresh record highs: Live updates - CNBC
 - We're in our 'Long Island AI' era as shoe brand Allbirds goes full AI - Yahoo Finance
-- Asia stocks climb tracking Wall St rally; Nikkei hits record high, China GDP beats - Investing.com
-- PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers - CNBC
-- Microsoft's new college deal is a half-hearted answer to the $500 MacBook Neo - Engadget
-- Apple, Google Offer ‘Nudify’ Apps Despite Policies Against Them - Bloomberg.com
+- China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending - The New York Times
+- DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos - The Verge
+- YouTube now lets you hide Shorts - Engadget
