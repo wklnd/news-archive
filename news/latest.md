@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-16 12:01_
+_Updated: 2026-04-16 13:41_
 
-- Trump would "welcome" Israel-Lebanon ceasefire: U.S. official - Axios
-- Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold - The Times of Israel
+- 3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz - NPR
+- Stephen Colbert Wants the Vice President to Lay Off the Pope - The New York Times
 - Scoop: Trump discussed "Jesus" meme with Bill Pulte before posting it, sources say - Axios
-- How Trump’s Clash With Pope Leo Turned Into a Fight Over Theology - The New York Times
-- Pakistani Mediators Arrive in Tehran in Bid to Keep U.S.-Iran Peace Talks Alive - The New York Times
-- US Senate Republicans block latest bid to rein in Trump Iran war powers - Reuters
-- Drivers Stranded as Flooding Closes Major Highway in Milwaukee - The New York Times
-- California attorney who tried to help overturn 2020 election loses law license - AP News
-- US launches fifth strike on alleged Pacific drug boat in a week, killing three - The Guardian
-- U.S. set to launch tariff refund system on April 20 - NBC News
-- What Orban's loss means for far right movements around the world - NPR
-- EU age verification app ready as Europe moves to curb children's social media access - Reuters
-- Pakistan and Bangladesh migrants are faking they are gay to get asylum in the UK: Report - The Times of India
+- Hopes for deal to end Iran war grow, but nuclear issues unresolved - Reuters
+- Trump wants a Tax Day victory lap in Las Vegas. The city’s economy isn’t cooperating. - Politico
+- Live Results: New Jersey special congressional election to replace Mikie Sherrill - PBS
+- Floodwaters inundate Wisconsin streets, trapping drivers, as Midwest rebuilds after powerful storms - NBC News
+- Questions emerge on Eric Swalwell's his physical location, financial activities amid sexual assault allegations - ABC7 San Francisco
+- House defies Trump on immigration with move to shield Haitians - The Washington Post
+- Lawyer John Eastman Disbarred for Efforts to Overturn 2020 Election - The New York Times
+- Online age checks are coming in Europe - politico.eu
+- Live updates: Push for US-Iran talks gains momentum as White House expresses optimism for deal - CNN
 - Russia launches drones, missiles overnight and through the day - Reuters
-- Shares in Allbirds surge after maker of wool sneakers announces pivot to AI - The Guardian
-- Asian stocks mostly higher after Wall Street hits record and oil rises - AP News
-- Parents speak out after son accused of Molotov attack on Sam Altman’s SF home - SFGATE
-- Snapchat CEO lays off 1,000, citing ‘rapid advancements’ in AI - San Francisco Chronicle
+- Pakistan and Bangladesh migrants are faking they are gay to get asylum in the UK: Report - The Times of India
+- Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head tells AP - AP News
+- We're in our 'Long Island AI' era as shoe brand Allbirds goes full AI - Yahoo Finance
+- Stocks back to record-setting ways on Middle East truce hopes - Reuters
+- PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers - CNBC
 - Google rolls out a native Gemini app for Mac - TechCrunch
-- Apple, Google Offer ‘Nudify’ Apps Despite Policies Against Them - Bloomberg.com
+- YouTube Shorts are a lot easier to ignore with this new setting [Gallery] - 9to5Google
