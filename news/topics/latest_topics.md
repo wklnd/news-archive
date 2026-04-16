@@ -1,97 +1,97 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-16 18:05_
+_Updated: 2026-04-16 19:52_
 
 ## Top Stories
 
-- Strax: SVT sänder live om händelseutvecklingen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Användning av läkemedel mot obesitas ökade kraftigt - Sveriges Radio
+- Trump: Tio dagars vapenvila mellan Libanon och Israel - Aftonbladet
+- Fristadsförfattare får stanna i Lund – kommunen backar - SVT Nyheter
+- Kristersson har talat med Magyar: Kan lösa lånet - Västerbottens-Kuriren
+- Misstänkt för terrorförberedelse häktas - GP
 - Trump säger upp kontrakt – efter påvebråket - GP
-- Expert: Trump kan välja att isolera Vance - Dagens Nyheter
-- Misstänkt för terrorförberedelse häktas - Västerbottens-Kuriren
-- Lunds politiker backar – fristadsförfattaren får stanna - Sydsvenskan
+- Yasin-giget ställdes in — nu döms 15 åring - Sveriges Radio
 - Trots kritiken – straffåldern sänks till 13 år - SVT Nyheter
+- Sverige får snabbspår från EU för ny lag mot gängrekrytering - Dagens Nyheter
+- Risk för större smittspridning av blåmessjuka - GP
 - Forskare hittade på sjukdom – sedan började chattbotarna ställa diagnoser - Dagens Nyheter
-- Kristersson om skatt på prostitution: Väcker frågor - Västerbottens-Kuriren
-- Nätläkare granskas – kan ta emot hundra patienter om dagen - SVT Nyheter
-- Öppnas låset? Fem frågor efter valet i Ungern - Hufvudstadsbladet – HBL
-- 14-åring bakom dödsskjutningen i Turkiet - GP
-- Uppgifter: Libanon avböjer samtal med Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Förbannelsen över JD Vance - Aftonbladet
 - Attacker mot Ukraina och Ryssland – många döda - Corren
-- Kristersson: Risken för ransonering av olja ökar - GP
+- Minst nio dödade i skolskjutning i Turkiet - Västerbottens-Kuriren
+- Påven i Bamenda: ”Ve de som manipulerar religion för militära eller politiska syften” - Vatican News
+- Dyrare flygresor väntar när bränslebrist hotar i Europa - Dagens Nyheter
 - Färre får bostadsbidrag – ser kraftig minskning - Tidningen Näringslivet
-- Prognosen just nu: ECB petar inte på räntan - Dagens PS
-- Kinnevik skriver ned värdet på investeringar med 83 procent - Sveriges Radio
-- Windows Recall i nytt blåsväder? - Computer Sweden
-- Google släpper nya appar till Windows och Mac OS - Computer Sweden
+- Då lockar aktien med dubbel glädje - EFN
+- 13-åring beskrivs som underbarn – på Polymarket - Dagens PS
+- Apple skickar Siri-teamet på AI-bootcamp - Omni
+- Välkommen Hanna - Landskrona BoIS
 
 ## World News
 
 - IMF: Irankriget kan skapa global recession - DI
 - IMF: Irankriget kan skapa global recession - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Svensk rymdforskning inspirerar till global satsning på hållbar turism - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Lissabon i centrum för global innovation - The Portugal News
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
@@ -106,16 +106,16 @@ _Updated: 2026-04-16 18:05_
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Enheten för radiologi - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-04-16 18:05_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
+- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Förtroendet för vetenskapen i gungning - Läkartidningen
 
 ## Jordbruk
@@ -147,7 +147,6 @@ _Updated: 2026-04-16 18:05_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
@@ -162,3 +161,4 @@ _Updated: 2026-04-16 18:05_
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
