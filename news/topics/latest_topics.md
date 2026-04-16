@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-16 11:56_
+_Updated: 2026-04-16 13:37_
 
 ## Top Stories
 
-- Björn af Kleen: Trumps allsmäktighet drunknade i Hormuzsundet - Dagens Nyheter
+- Håkan Boström: Vi har i praktiken redan ungdomsfängelser - GP
+- Nätläkare granskas – kan ta emot hundra patienter om dagen - SVT Nyheter
 - Åtal väckt för mord i Sigtuna 2015 - Åklagarmyndigheten
-- Trump: nya samtal under torsdagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Hatad i Kreml – spås ta över efter Zelenskyj - Svenska Dagbladet
-- Larmade om risker – fick inga pass - Hotellrevyn
-- Döms för mordplan i Yasin i Umeå - Västerbottens-Kuriren
+- Pojke döms för mordplaner – kopplas till Yasins konsert - Omni
+- Björn af Kleen: Trumps allsmäktighet drunknade i Hormuzsundet - Dagens Nyheter
+- Hynek Pallas Det här kan vi lära oss av revolten i Ungern - GP
 - Fakta i frågan: Kommer Sverige att klara en allt äldre befolkning? - Dagens Nyheter
+- Olagliga peptider utlovar skönhet: ”En väldigt cynisk bransch” - Dagens Nyheter
 - Debatt: Varför är stödet för svenska monarkin så starkt? - Sveriges Radio
-- Läkemedel mot alzheimer döms ut - GP
-- Mordförsök i Haninge – en till sjukhus - SVT Nyheter
+- Risk för större smittspridning av blåmessjuka - Västerbottens-Kuriren
+- Israel slår ut sista bron i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- FN kritiseras för misslyckande om Hormuzsundet - Sveriges Radio
 - DN Direkt – 14-åring bakom dödsskjutningen i Turkiet - Dagens Nyheter
-- Israel: Slagit till mot 200 mål på 24 timmar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Attacker mot Ukraina och Ryssland – många döda - Corren
-- Hon spärrades in på kloster: Nunnorna slog mig mellan revbenen med ett krucifix - Dagens Nyheter
+- Försäkringskassan: Bostadsbidraget har inte följt inkomstutvecklingen - Bostadspolitik
 - Arbetslösheten minskar – men högt antal varsel oroar - Sydsvenskan
-- Wallenbergs mångmiljardsatsning i STEGRA positiv även för ECOMB - Cision News
-- Miljardras för Kinnevik – “Oro kring AI:s påverkan” - Breakit
-- Sinch backar på blankarrapport: ”Möjliggör bedrägerier” - Omni Ekonomi
-- Kanterna av ett försvunnet hav kan ha hittats på Mars - Sveriges Radio
-- Ökad sjuklighet hos blåmesar – SVA behöver fler rapporter - sva.se
+- SKR vill stoppa kommunala försök med kortare arbetstid - Proletären
+- Kinnevik skriver ned värdet på investeringar med 83 procent - Sveriges Radio
+- Windows Recall i nytt blåsväder? - Computer Sweden
+- Två supermassiva svarta hål på kollisionskurs – kan skaka om rymden - nyteknik
 
 ## World News
 
@@ -32,41 +32,41 @@ _Updated: 2026-04-16 11:56_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Trumps beställning: Visa att global uppvärmning är bra - Omni
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Der Mensch im Mittelpunkt: Warum technische Innovation mit Automation und KI ohne menschliche Kompetenz scheitert - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
