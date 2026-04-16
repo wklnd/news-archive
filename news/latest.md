@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-16 01:39_
+_Updated: 2026-04-16 03:10_
 
-- MAGA’s Reaction to Trump’s Jesus Post Is Surprising—and Revealing - Slate
-- Inside the sudden downfall of Eric Swalwell - CNN
 - Iran War News Live Updates: Blockade ‘Fully Implemented’ as Mediators Push for U.S.-Iran Ceasefire Extension - WSJ
-- Children killed in Lebanon as Israeli strikes hit homes far from front lines of war with Hezbollah - AP News
-- Senate Republicans Again Block Bid to Limit Trump’s Iran War Powers - The New York Times
+- Popes have spoken out on politics before. But with Trump and Pope Leo it's different - NPR
+- Scoop: Trump discussed "Jesus" meme with Bill Pulte before posting it, sources say - Axios
+- Inside the sudden downfall of Eric Swalwell - CNN
 - Justice Sonia Sotomayor issues unusual apology over 'hurtful' remarks about colleague Brett Kavanaugh - NBC News
-- Husband of missing American woman in the Bahamas leaves country, lawyer says - NBC News
-- SantaCon Leader Ran His Own $1 Million Con, U.S. Says - The New York Times
+- Senate rejects resolution to block Trump from striking Iran - The Washington Post
+- Husband of Michigan woman missing in the Bahamas leaves country, lawyer says - NBC News
 - Oklahoma principal shot while tackling ex-student armed with handguns - The Guardian
-- Grisly New Addition to Search for American Missing in Bahamas - The Daily Beast
+- Hormuz traffic remains at a trickle as US blockade of Iranian ports appears to hold - The Times of Israel
+- Republicans worry White House ‘nonsense’ is hurting midterm prospects - Politico
 - Israeli security cabinet discusses possible Lebanon ceasefire, senior official says - Reuters
-- Sudan enters a fourth year of war as officials lament an ‘abandoned crisis’ - AP News
+- Sudan Enters Fourth Year of War Amid World’s Most Severe Humanitarian Crisis - The New York Times
 - Nine killed in second Turkish school shooting in two days - BBC
 - Hungary’s prime minister-elect vows to suspend ‘propaganda machine’ state media - The Guardian
-- Trump threatens to fire Powell, won’t halt probe of Fed renovations - The Washington Post
+- Trump threatens to fire Fed chair Powell if he doesn't leave in May - BBC
 - Shares in Allbirds surge after maker of wool sneakers announces pivot to AI - The Guardian
-- Stock Market Today: S&P 500 Ticks Higher as Bank Earnings Show U.S. Economy Holding Up - WSJ
-- Man accused of attack on Sam Altman's SF home was in crisis, parents say - SFGATE
-- Google launches a Gemini AI app on Mac - The Verge
-- Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica
+- Parents speak out after son accused of Molotov attack on Sam Altman’s SF home - SFGATE
+- Snapchat CEO lays off 1,000, citing ‘rapid advancements’ in AI - San Francisco Chronicle
+- Trump Mobile Drops Trashy Update on New Phone - The Daily Beast
+- Google rolls out a native Gemini app for Mac - TechCrunch
