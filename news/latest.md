@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-16 20:47_
+_Updated: 2026-04-16 22:28_
 
-- Trump speaks with Lebanese president amid Israel ceasefire push - Axios
-- Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say - The New York Times
-- Iran-US talks turn to interim deal amid rifts over nuclear work, Iranian sources say - Reuters
-- US House rejects war powers resolution aimed at limiting Iran War - BBC
-- U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says - CNBC
+- Israel agrees to 10-day Lebanon ceasefire - The Washington Post
+- Justin Fairfax, who nearly became Virginia governor, killed his wife and himself, police say - AP News
+- Pope Leo takes aim at 'handful of tyrants' spending billions on war amid tensions with Trump - NPR
+- Judge blocks above-ground construction of Trump's White House ballroom, administration appeals - CNBC
+- Why a U.S. blockade on Iran seems to be working - PBS
 - A New Jersey special election could soon narrow the House GOP’s razor-thin majority - CNN
-- ICE agent charged with second-degree assault in Minnesota for allegedly pointing gun at civilians - NBC News
-- Commission of Fine Arts votes to move ahead with Trump's proposed victory arch - NPR
-- Pope says ‘world is being ravaged by a handful of tyrants’ amid feud with Trump’s White House - The Guardian
-- Tom Steyer is running the most expensive campaign in America. It might win him the California governorship. - Politico
-- Russian missiles and drones bombard Ukraine in hourslong attack, killing at least 16 - AP News
-- Iran war: Pakistan delegation in Tehran to continue talks - dw.com
-- Pope Leo tells Cameroon's government to root out corruption to find peace - BBC
+- ICE agent charged with assault and accused of pointing a gun at civilians in Minnesota - NBC News
+- Trump picks Dr. Erica Schwartz to lead CDC - CNN
+- Rise in Young Men's Religiosity Realigns Gender Gaps - Gallup News
+- US House rejects war powers resolution aimed at limiting Iran War - BBC
+- Israel escalates attacks on medics in Lebanon with deadly ‘quadruple tap’ - The Guardian
+- Ukraine scrambles to supply air defenses as large-scale Russia attacks kill 16 - AP News
 - Turkish police detain 162 people over online posts about school shootings - BBC
-- AP Exclusive: Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head warns - AP News
+- Hungarian Americans say Orbán's defeat could provide roadmap for countering Trump - NPR
+- Europe has 'maybe six weeks of jet fuel left', energy boss warns - BBC
+- S&P 500 and Nasdaq rise, hit fresh record highs: Live updates - CNBC
 - Fed leadership transition on shaky ground as clock ticks on Powell's term - Reuters
-- RFK Jr.'s peptide policy could boost Hims & Hers as its GLP-1 business evolves - CNBC
-- Stock Market Today: Dow, Oil and Gold Prices Tick Higher After Wednesday's Records - WSJ
-- OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code - The Verge
-- DJI Osmo Pocket 4 Announced: 4K/240fps, ActiveTrack 7.0, and Built-in 107GB Storage - CineD
+- Hims & Hers stock extends gains as RFK Jr. signals FDA will consider looser restrictions on peptides - Yahoo Finance
+- New Codex features include the ability to use your computer in the background - Ars Technica
+- DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos - The Verge
