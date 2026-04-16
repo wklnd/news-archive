@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-16 23:10_
+_Updated: 2026-04-17 00:07_
 
 ## Top Stories
 
 - Trump: Tio dagars vapenvila mellan Israel och Libanon - SVT Nyheter
-- Ryska dubbelattacker slår mot ukrainska sjukvårdare - Dagens Nyheter
-- Trettonåringar som mördar ska kunna fängslas - Västerbottens-Kuriren
+- Analyser: Hormuzsundet är Irans svaga punkt - Omni
 - Fristadsförfattare får stanna i Lund – kommunen backar - SVT Nyheter
 - Därför vill (nästan) alla flytta till South Carolina - Dagens Nyheter
-- Voltade med bil under polisjakt - Sveriges Radio
+- Trots kritiken – straffåldern sänks till 13 år - SVT Nyheter
+- Rysk jätteanläggning i lågor – uppgifter om flera döda - Marcus Oscarsson
 - Snabbspår för ny lag mot gängrekrytering - Dagens Nyheter
 - Anställd på sjukhus i Stockholm gripen – misstänkt för stöld - SVT Nyheter
 - 18-åring häktad misstänkt för terrorförberedelse - Västerbottens-Kuriren
 - Risk för större smittspridning av blåmessjuka - GP
-- Kristersson har talat med Magyar: Kan lösa lånet - GP
-- Trump: Avtal med Iran ”mycket nära” - Västerbottens-Kuriren
-- Ryssland: Fängelse för polack som stred för Ukraina - Dagens Nyheter
 - Trump säger upp kontrakt – efter påvebråket - GP
-- Günther Mårder begärd häktad för grovt insiderbrott - EFN
+- Attacker mot Ukraina och Ryssland – många döda - Corren
+- Påven i Bamenda: ”Ve de som manipulerar religion för militära eller politiska syften” - Vatican News
+- Kristersson har talat med Magyar: Kan lösa lånet - GP
 - IEA varnar: Europas flygbränsle slut om sex veckor - Sveriges Radio
 - USA:s regering förbereder distribution av Anthropics AI-modell Mythos till federala myndigheter - Investing.com Sverige
 - Ny lag kan göra privatleasing 10 000 kronor dyrare per månad - Dagens PS
+- Var femte Cybertruck köpt av Musks egna bolag - nyteknik
+- Kalle Anka säljs på Tradera – kan slå auktionsrekord - Expressen
 - Apple skickar Siri-teamet på AI-bootcamp - Omni
-- Välkommen Hanna - Landskrona BoIS
 
 ## World News
 
+- ”Global kris” hotar – kamp mot klockan - Expressen
 - IMF: Irankriget kan skapa global recession - DI
 - IMF: Irankriget kan skapa global recession - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Varningen: Kriget kan leda till global recession - Placera.se
-- Trumps beställning: Visa att global uppvärmning är bra - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Kronprinsen fick ”stor summa” för avlyssning - Omni
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Tabloiddrottningens sista smaskiga story - Svenska Dagbladet
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- U20 World Cup: Live-resultat, fixturer och tabeller - 365Scores
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Är mjukvaruteknik övermättad 2025? - HackerNoon
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -79,8 +79,8 @@ _Updated: 2026-04-16 23:10_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -88,11 +88,11 @@ _Updated: 2026-04-16 23:10_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -106,16 +106,16 @@ _Updated: 2026-04-16 23:10_
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -127,7 +127,7 @@ _Updated: 2026-04-16 23:10_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Mötet mellan konst och vetenskap i tidigmodern tid - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -137,8 +137,8 @@ _Updated: 2026-04-16 23:10_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Förtroendet för vetenskapen i gungning - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
