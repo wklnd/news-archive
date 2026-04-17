@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-17 01:23_
+_Updated: 2026-04-17 02:05_
 
 ## Top Stories
 
 - Trump: Tio dagars vapenvila mellan Israel och Libanon - SVT Nyheter
 - Åklagare: Bagare stal 35 miljoner från Svenska kyrkan i New York - Dagens Nyheter
 - Därför vill (nästan) alla flytta till South Carolina - Dagens Nyheter
+- Efter nya avslöjanden: Starmer manas att avgå - Aftonbladet
 - Trots kritiken – straffåldern sänks till 13 år - SVT Nyheter
 - Påven: Världen förstörs av en ”handfull tyranner” - Expressen
-- Rättegången mot den misstänkte mannen fortsätter - SVT Nyheter
 - Snabbspår för ny lag mot gängrekrytering - Dagens Nyheter
 - Anställd på sjukhus i Stockholm gripen – misstänkt för stöld - SVT Nyheter
 - Misstänkt för terrorförberedelse häktas - Västerbottens-Kuriren
-- Äldre i bräschen på klimatmarsch - GP
+- Kristersson om skatt på prostitution: Väcker frågor - GP
+- Ryssland: Fängelse för polack som stred för Ukraina - Dagens Nyheter
 - Kustnära rutter belyser Irans växande kontroll över sjöfartsleder - Dagens.se
 - Fria ord: Jag är stolt över att ungrarna vägrade låta rädslan styra deras framtid - GP
 - Attacker mot Ukraina och Ryssland – många döda - Corren
-- Hovet: Går inte att återställa Mette-Marits mejl - Expressen
+- Günther Mårder begärd häktad för grovt insiderbrott - EFN
 - Dyrare flygresor väntar när bränslebrist hotar i Europa - Dagens Nyheter
 - USA:s regering förbereder distribution av Anthropics AI-modell Mythos till federala myndigheter - Investing.com Sverige
 - Ny lag kan göra privatleasing 10 000 kronor dyrare per månad - Dagens PS
-- Var femte Cybertruck köpt av Musks egna bolag - nyteknik
 - Kalle Anka säljs på Tradera – kan slå auktionsrekord - Expressen
 - Apple skickar Siri-teamet på AI-bootcamp - Omni
 
@@ -37,7 +37,6 @@ _Updated: 2026-04-17 01:23_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Varningen: Kriget kan leda till global recession - Placera.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
@@ -47,29 +46,30 @@ _Updated: 2026-04-17 01:23_
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Kronprinsen fick ”stor summa” för avlyssning - Omni
 - 48 städer krokar arm i global klimatomställning - Viable Cities - Cision News
+- Lissabon i centrum för global innovation - The Portugal News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Är mjukvaruteknik övermättad 2025? - HackerNoon
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-04-17 01:23_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
+- Enheten för radiologi - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 
 ## Science
 
