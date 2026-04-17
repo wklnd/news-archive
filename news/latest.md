@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-17 06:35_
+_Updated: 2026-04-17 08:23_
 
-- Live updates: Ceasefire in Lebanon goes into effect as Trump voices confidence in Iran deal - CNN
+- Iran War Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect - The New York Times
 - Progressive Democrat Analilia Mejia wins New Jersey special election for US House - The Guardian
-- Acting ICE Director Says He Plans to Resign in May - The New York Times
-- Pope Leo takes aim at 'handful of tyrants' spending billions on war amid tensions with Trump - NPR
-- RFK Jr. faces barrage from Democrats in House hearings - Axios
-- Court documents reveal mounting tension in Fairfax marriage before murder-suicide - The Washington Post
+- Fact check: Trump falsely claims Pope Leo said Iran can have a nuclear weapon - CNN
+- Acting ICE director Todd Lyons to leave agency - Axios
+- RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing - NPR
+- Justin Fairfax’s rapid rise in Virginia politics flamed out after scandal - The Washington Post
 - House plans overnight FISA vote - Politico
 - ICE agent charged with assault for allegedly pointing gun during Minneapolis incident - The Washington Post
-- Caine warns "we will use force" if Iran does not comply with blockade on Strait of Hormuz - CBS News
-- Mandelson, a Friend of Epstein’s, Became U.S. Ambassador Despite Failing Security Vetting - The New York Times
+- Hegseth Again Threatens Attacks on Iran’s Civilian Infrastructure - The New York Times
+- Police investigate bomb threat at the home of Pope Leo's brother - NBC News
+- Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked - BBC
 - ‘A political era has ended’: Orbán breaks silence after Hungarian election defeat - politico.eu
 - Israel escalates attacks on medics in Lebanon with deadly ‘quadruple tap’ - The Guardian
-- School shootings a new trauma for Turkey as nation mourns - BBC
+- Death toll from Turkey’s second school shooting in a week rises to 10 - AP News
 - Netflix shares dive as co-founder Reed Hastings steps away - Yahoo Finance
+- White House to give US agencies Anthropic Mythos access, Bloomberg News reports - Reuters
+- Asia stocks dip but head for sharp weekly gains on Iran peace hopes, tech boost - Investing.com
 - Jet fuel supplies are lagging. What does that mean for airlines and travelers? - AP News
-- Trump officials negotiating access to Anthropic's Mythos despite blacklist - Axios
-- F.A.A. Caps Flights at O’Hare Airport in Chicago to Cut Delays - The New York Times
-- DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos - The Verge
-- Metro 2039 Is Coming To Xbox This Winter, Gorgeous In-Engine Gameplay Revealed - Pure Xbox
-- OpenAI’s Codex Mac app adds three key features that go beyond agentic coding - 9to5Mac
+- Google working on Pixel ‘laptop’ and ‘Pixel Glow’ lights that are also coming to phones - 9to5Google
+- Gemini can now create personalized AI images by digging around in Google Photos - Ars Technica
