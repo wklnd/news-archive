@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-17 21:37_
+_Updated: 2026-04-17 23:10_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Stenergard: Militära insatser behövs i Hormuz - Dagens Nyheter
-- Iran: Kan stänga sundet om blockaden fortsätter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nooshi öppnade kongressen med löfte om ny riktning för Sverige - Vänsterpartiet
+- Frankrike och Storbritannien ska leda insats i Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Iran: Hormuzsundet öppet under vapenvilan - Västerbottens-Kuriren
 - Förrädarna-profilen om fängelse för 13-åringar: "Det är det minst dåliga" - GP
+- Direkt – Krisen i Mellanöstern – En uppges död i israelisk drönarattack - Dagens Nyheter
+- Tomas Ramberg: Dadgostar har kört fast i regeringsdiket - Dagens Nyheter
 - H.M. Konungen och utrikesminister Maria Malmer Stenergard besökte Ukraina - Regeringen.se
-- Forskaren: Extremt sällsynt att björn attackerar häst - Sveriges Radio
 - Mohamsson kunde inte nämna alla grundlagar - Västerbottens-Kuriren
-- Sista minuten-tips inför högskoleprovet: ”Väldigt underlättande om man vet” - Dagens Nyheter
-- Tonåring döms för bananattack mot talmannen - SVT Nyheter
+- Erik, 30, har skrivit 2,0 på högskoleprovet – 14 gånger - UNT
 - Ätstörningsklinik krävs på miljontals kronor – går i konkurs - Dagens Nyheter
-- Netanyahu om Hizbollah: Inte avslutat jobbet - Västerbottens-Kuriren
+- Tonåring döms för bananattack mot talmannen - SVT Nyheter
+- Misstänkt irländsk gangsterboss gripen i Dubai - Västerbottens-Kuriren
 - Svantesson: Svenskarna får betala för Trumps oförutsägbarhet - Dagens Nyheter
 - Adam Cwejman: Orbán är borta – men Ungern har inte valt en ny Reinfeldt - GP
 - Glädje i Beirut efter vapenvilan - GP
 - Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
-- Günther Mårder häktas för insiderbrott, ärendet gäller Raysearch (uppdatering) - Placera.se
-- Peter Hedlund: Allvarligt talat – det här är skörare än ett korthus - EFN
-- Farlig, mäktig och hemlig – Vita huset vill ha Mythos - Breakit
+- NT-rådet säger nej till Leqembi – kostnaden väger tyngre än nyttan - Biostock
+- EU-länder kan tvingas dela sina lager av flygbränsle - Omni
+- TSMC:s rapport: Justerade prognoser och expansionsplaner mot bakgrund av stark efterfrågan på AI - Morningstar Canada
 - Efter flera års tystnad: Metro får Embracer att rusa - EFN
 - CERT-SE:s veckobrev v.16 - CERT-SE
 
