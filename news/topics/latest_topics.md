@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-17 13:30_
+_Updated: 2026-04-17 14:09_
 
 ## Top Stories
 
+- DN Direkt – Kungen är i Ukraina – träffar Zelenskyj - Dagens Nyheter
 - H.M. Konungen och utrikesminister Maria Malmer Stenergard besöker Ukraina - Regeringen.se
-- Skottlossning mot två i bil i Malmö - Västerbottens-Kuriren
+- Busch utfärdar KD-vallöften - Västerbottens-Kuriren
+- Bil beskjuten i Malmö – två personer flydde: ”Full jakt” - Sveriges Radio
 - DN Direkt – Rysk bärraket på himlen orsakade larmsamtal - Dagens Nyheter
 - Livstecken från systrarna Donya och Darya som utvisats till Iran - GP
-- Akuta problem med vattenförsörjningen på Gotland - Sveriges Radio
-- Ebba Buschs plan inför valet: slopa pappamånderna | Henrik Torehammar - Svenska Dagbladet
-- DN Direkt – Dadgostar : V i regeringen handlar inte om ministerposter - Dagens Nyheter
-- 16-åring döms – kastade bananskal mot talmannen - Omni
-- Läkemedel mot Alzheimer döms ut - Västerbottens-Kuriren
+- Tonåring döms för bananattack mot talmannen - SVT Nyheter
+- Läkemedel mot alzheimer döms ut - GP
 - Masskjutningen i Gävle – 28 mordförsök utreds - Västerbottens-Kuriren
+- E4 avstängd – brand i släp med farligt gods - Expressen
 - Mandelson klarade inte säkerhetsprövning – tillsattes ändå - Dagens Nyheter
 - Återvänder till stad i Libanon: ”Obeboeligt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Nobelpristagarens straff kortas – fångar benådas - Aftonbladet
-- Glädje i Beirut efter vapenvilan - GP
-- Günther Mårder begärd häktad för grovt insiderbrott - EFN
-- Flygbolag ställer in 160 flygningar i Europa - Sveriges Radio
-- USA vill ge myndigheter tillgång till Anthropics omstridda AI-modell - nyteknik
-- Trendbrott för bolånen – fler binder räntan - Västerviks-Tidningen
+- Statsministern deltar i toppmöte om Hormuzsundet - Regeringen.se
+- Günther Mårder häktad för misstänkt insiderbrott - Tidningen Balans
+- AUTOLIV RUSAR, ERICSSON VÄNT UPP, OMXS30 +0,2% - Placera.se
+- Anthropic uppdaterar sin kraftfullaste AI-modell - Omni
+- Rekordmånga band bolåneräntan i mars - sbab.se
 - Apple skickar Siri-teamet på AI-bootcamp - Omni
-- Apple och Google styr trafik till ”nudify-appar” - Omni
+- Apple och Google styr trafik till ”nudify-appar” - Omni Ekonomi
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
+- IMF: Irankriget kan skapa global recession - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
-- IMF: Irankriget kan skapa global recession - DI
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
 - IMF: Irankriget kan skapa global recession - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Svensk rymdforskning inspirerar till global satsning på hållbar turism - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- Lissabon i centrum för global innovation - The Portugal News
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2026-04-17 13:30_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
