@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-17 08:19_
+_Updated: 2026-04-17 10:12_
 
 ## Top Stories
 
-- Vapenvilan i gång: ”Förhållandevis lugn natt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Dadgostar försöker tränga sig på S – utan samtycke - GP
-- Glädje i Beirut efter vapenvilan - Västerbottens-Kuriren
-- DN Direkt – Misstänkt miljonstöld från Svenska kyrkan - Dagens Nyheter
-- Märkligt ljusfenomen i natt: ”Såg ett starkt ljus med svans” - Norran
-- Ett tryggt samhälle byggs inte genom att låsa in barn - Altinget.se
-- Slopa alla pappamånader – KD:s krav i ny regering - Dagens Nyheter
-- Björn attackerade havande häst – åt upp fölet - Norran
-- Så lyckas du med örtodlingen - Dagens Nyheter
-- Anställd på sjukhus i Stockholm gripen – misstänkt för stöld - SVT Nyheter
-- Utslängd ur landet – fortsätter kämpa mot Lukasjenko - GP
-- Därför är trist kallprat roligare än du tror - Dagens Nyheter
-- Attacker mot Ukraina och Ryssland – många döda - Corren
-- Hynek Pallas Det här kan vi lära oss av revolten i Ungern - GP
-- Ericssons vinst under förväntan det första kvartalet 2026 - Sveriges Radio
-- Därför slår USA-börsen nya rekord trots kriget - nextconomy.se
-- Farlig, mäktig och hemlig – Vita huset vill ha Mythos - Breakit
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Interna kravet på Dadgostar – sluta tjata om ministerposter - GP
+- Journalsystemet Cosmic kan ha lett till dödsfall - Omni
+- Ljusfenomen över natthimlen i norr - Västerbottens-Kuriren
+- Brand stoppar trafiken på E4 mot Uppsala - märsta.nu
+- ”Global kris” hotar – kamp mot klockan - Expressen
+- Åklagare: Bagare stal 35 miljoner från Svenska kyrkan i New York - Dagens Nyheter
+- Björnattack utanför Umeå – åt av föl - Västerbottens-Kuriren
+- Skottlossning mot bil i Malmö - Västerbottens-Kuriren
+- Första livstecknet på fem veckor: Då fick systrarna höra om domstolens nej - Dagens Nyheter
+- Libanon: Israeliska attacker trots vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Utslängd ur landet – fortsätter kämpa mot Lukasjenko - Västerbottens-Kuriren
+- Nobelpristagarens straff kortas – fångar benådas - Västerbottens-Kuriren
+- Sista försöket att rädda den strandade knölvalen sjösätts i dag - Dagens Nyheter
+- Günther Mårder begärd häktad för grovt insiderbrott - EFN
+- Ålandsbanken: Initial nedgång att vänta för Ericsson - DI
+- IEA varnar: Europas flygbränsle slut om sex veckor - Sveriges Radio
 - Rekordmånga band bolåneräntan i mars - SBAB - Börsvärlden
 - Kalle Anka kan slå rekord på Tradera - Expressen
 - Apple skickar Siri-teamet på AI-bootcamp - Omni
@@ -29,24 +29,24 @@ _Updated: 2026-04-17 08:19_
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - IMF: Irankriget kan skapa global recession - DI
+- IMF: Irankriget kan skapa global recession - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Varningen: Kriget kan leda till global recession - Placera.se
-- IMF: Irankriget kan skapa global recession - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Trumps beställning: Visa att global uppvärmning är bra - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Kronprinsen fick ”stor summa” för avlyssning - Omni
-- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2026-04-17 08:19_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- AI & Smart Healthcare: Med artificiell intelligens för bättre hälsovårdstjänster och hälsodiagnos 4.0 - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -114,8 +114,8 @@ _Updated: 2026-04-17 08:19_
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-04-17 08:19_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KIB-podden: Öppen vetenskap och varför det är viktigt - biblioteken, forskarna och de många aspekterna på öppen vetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Förtroendet för vetenskapen i gungning - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2026-04-17 08:19_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
