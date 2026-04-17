@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-17 19:24_
+_Updated: 2026-04-17 20:12_
 
 ## Top Stories
 
 - Trumps känga till Nato: ”Värdelösa när de behövdes” - GP
-- Nooshi öppnade kongressen med löfte om ny riktning för Sverige - Vänsterpartiet
-- Källor: USA och Iran förhandlar om uranavtal, Iran säger att Hormuzsundet är öppet för fartyg (uppdatering 2) - Börsvärlden
-- H.M. Konungen och utrikesminister Maria Malmer Stenergard besöker Ukraina - Regeringen.se
-- Paret driver stuguthyrning – så löser de vattenbristen - Sveriges Radio
-- Vad kommer Busch ersätta falukorven med? - Altinget.se
+- Tomas Ramberg: Dadgostar har kört fast i regeringsdiket - Dagens Nyheter
+- Wilmas föl blev uppätet av en björn: ”Trodde det var ett skämt” - Aftonbladet
+- Uppmaningen: Mata inte småfåglar i tre veckor - SVT Nyheter
+- Slopa alla pappamånader – KD:s krav i ny regering - GP
+- Netanyahu om Hizbollah: Inte avslutat jobbet - Västerbottens-Kuriren
 - Mohamsson kunde inte nämna alla grundlagar - Västerbottens-Kuriren
-- Dags för högskoleprov – så gick det för värmlänningarna i fjol - NWT
+- Sista minuten-tips inför högskoleprovet: ”Väldigt underlättande om man vet” - Dagens Nyheter
 - Tonåring döms för bananattack mot talmannen - SVT Nyheter
 - Forskare: Våldsamma budskap har blivit vardagsmat - GP
+- ”USA och Iran måste riva upp kravlistor för att få fred” - Dagens Nyheter
 - Adam Cwejman: Orbán är borta – men Ungern har inte valt en ny Reinfeldt - GP
 - Sandra Stiskalo: Gåskvaliteten kan leda Keir Starmer genom skandalen - Dagens Nyheter
 - Glädje i Beirut efter vapenvilan - GP
-- ”En fruktansvärd natt” – flera döda i Rysslands attacker - SVT Nyheter
 - Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
 - USA vill ge myndigheter tillgång till Anthropics omstridda AI-modell - nyteknik
 - Günther Mårder häktas för insiderbrott, ärendet gäller Raysearch (uppdatering) - Placera.se
@@ -54,6 +54,7 @@ _Updated: 2026-04-17 19:24_
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -64,9 +65,8 @@ _Updated: 2026-04-17 19:24_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
@@ -98,6 +98,7 @@ _Updated: 2026-04-17 19:24_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
@@ -106,16 +107,15 @@ _Updated: 2026-04-17 19:24_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
@@ -127,18 +127,18 @@ _Updated: 2026-04-17 19:24_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Förtroendet för vetenskapen i gungning - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2026-04-17 19:24_
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Får 60 miljoner för säkrare matförsörjning - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
