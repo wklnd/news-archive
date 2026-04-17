@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-17 16:06_
+_Updated: 2026-04-17 17:41_
 
-- Iran declares Strait of Hormuz completely open to commercial traffic during Israel-Lebanon ceasefire - CNBC
+- Dow soars 1,000 points, S&P 500 tops 7,100 for the first time as Strait of Hormuz reopens temporarily: Live updates - CNBC
 - House GOP rebellion derails FISA renewal - Axios
 - Democrat Analilia Mejia wins special House election - New Jersey Monitor
 - Stephen Colbert Delights in Trump’s ‘Ongoing Papal Feud’ - The New York Times
+- RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing - NPR
 - 'NYC is cooked': Business leaders and Wall Streeters erupt over proposed luxury second-home tax - Business Insider
-- Trump nominates former Coast Guard doctor as CDC chief - NPR
-- French widow, 86, flies home after ICE detention ordeal - The Guardian
+- French Widow Detained by ICE in Alabama Is Released After 16 Days - The New York Times
 - Acting ICE chief Todd Lyons resigns, a year into Trump’s deportation campaign - The Washington Post
+- California warehouse worker accused of arson raged online against capitalist greed - NBC News
 - Trump rails against court decision that once again stalls his White House ballroom project - NPR
-- Severe storm outbreak poised to clobber central US during relentless week of tornadoes, hail and floods - CNN
 - Starmer Fires Senior U.K. Civil Servant Over Mandelson Revelations - The New York Times
-- Ukraine scrambles to supply air defenses as large-scale Russia attacks kill 16 - AP News
 - Myanmar scraps all death sentences - The Telegraph
+- Ukraine scrambles to supply air defenses as large-scale Russia attacks kill 16 - AP News
 - Europe-led coalition prepares mission to reopen Strait of Hormuz - Euronews.com
-- Dow surges 700 points after Iran signals shipping may resume through Strait of Hormuz: Live updates - CNBC
-- Anthropic CEO to meet White House chief of staff amid Pentagon AI dispute, Axios reports - Yahoo Finance
-- Netflix shares slide after surprise Hastings exit sparks growth concerns - Reuters
+- Washington steps up scrutiny of prediction markets - abcnews.com
+- Why Netflix Stock Is Tanking Friday - Yahoo Finance
 - What lagging jet fuel supplies could mean for airlines and travelers - PBS
+- Stock Market Today: Dow up 1,000 points, S&P 500 and Nasdaq hit record highs, as oil prices plunge 10%; Iran says Strait of Hormuz is 'completely open' - MarketWatch
+- Apple Could Unveil Its Sub-1nm Chips In A Few Years, As TSMC Said To Fire Up Trial Production In 2029 - Wccftech
 - iPhone 18 Pro's Four Rumored Colors Revealed, Including 'Dark Cherry' - MacRumors
-- Price war: Apple's 1TB M5 MacBook Pro dips to $1,580 - AppleInsider
