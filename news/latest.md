@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 14:02_
+_Updated: 2026-04-18 15:47_
 
-- Live Updates: Trump says U.S. will continue blockade after Iran says Strait of Hormuz "completely open" - CBS News
+- Live Updates: Iran reimposes restrictions on Strait of Hormuz 1 day after Trump said it was "completely open" - CBS News
 - How Trump Helped Pope Leo Find His Voice - The New York Times
-- Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather
-- What smart people are saying about Mamdani's proposed tax on second homes worth $5 million or more - Business Insider
 - Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
-- Deaths of migrants in ICE custody hit record high under Trump - NPR
-- Trump ballroom construction allowed for now, US appeals court says - Reuters
+- Trump suffers rare defeat with House Republicans on FISA - Axios
+- Republicans rush to close the gap in the final stretch of Virginia's redistricting election - NBC News
+- Not just Trump: Redistricting race will hinge on what these state leaders did - NPR
+- US midwestern states at risk of severe thunderstorms, weather agency warns - The Guardian
 - ‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On - The New York Times
-- ‘Big sigh of relief’: Republicans finally get some good news - Politico
 - Iran disputes claims of new agreements with Trump - The Washington Post
-- 'Staggering' I was not told Mandelson failed vetting, says PM - BBC
-- Maduro Is Gone, and the Purge Has Begun - The New York Times
-- Pope urges Africa’s youth to resist dual temptations of migration and corruption in Cameroon - AP News
-- Japan seals largest-ever defense contract with frigate sale to Australia - The Japan Times
-- Judge halts local TV giant Nexstar's takeover of rival Tegna until trial - NPR
-- Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw - Axios
-- Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season - Reuters
-- Nio Already Has a European Solution: Finally Time to Buy the Stock? - The Motley Fool
+- Patients and dental community mourn Dr. Cerina Fairfax, killed by Virginia ex-Lt. Gov. Fairfax - PBS
+- Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela - The New York Times
+- Counter terrorism investigate more arson attempts - BBC
+- Key questions facing government over Mandelson vetting - BBC
+- After Orban’s defeat in Hungary, Bulgaria offers Kremlin’s next best bet - The Washington Post
+- Judge Halts Nexstar-Tegna TV Station Merger - WSJ
+- White House chief of staff meets with Anthropic CEO over its new AI technology - AP News
+- 'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers - CNBC
+- Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR
+- 5+ Things to Know About the Next Mac Studio - MacRumors
 - The Ultimate 2026 MacBook Buyer’s Guide: Neo, Air, or Pro? - Geeky Gadgets
-- Ford Mustang GTD Crushes Corvette ZR1X's Nürburgring Record With 6:40 Lap - Motor1.com
