@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 15:41_
+_Updated: 2026-04-18 17:06_
 
 ## Top Stories
 
 - Fartyg beskjutna i Hormuzsundet – experten: ”Desperata” - GP
-- Tomas Ramberg: Nu satsar Dadgostar allt på rött - Dagens Nyheter
-- H.M. Konungen och utrikesminister Maria Malmer Stenergard besöker Ukraina - Regeringen.se
-- Israel: Nya flyganfall i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nazisterna försvann och Ludvika blev ”världens centrum” - Aftonbladet
-- Iran: Inget datum för nya samtal med USA - Hufvudstadsbladet – HBL
+- Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Hovet till Ryssland: ”Fel och fult” - Dagens Nyheter
+- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
+- Misstänkt mord i Malmö – man anhållen - Folkbladet
+- Påven: Ointresserad av att debattera med Trump - GP
 - Stor risk för gräsbränder i helgen på flera platser i landet - SVT Nyheter
-- Papprävar mot gäss blev en flopp - Västerbottens-Kuriren
-- Person hittad död på Limhamn – en gripen - SVT Nyheter
-- Peter Alestig: Fallhöjden är större i ”gröna” projekt - Dagens Nyheter
+- Papprävar mot gäss blev en flopp - GP
+- Isabella Löwengrip vill vinna valet för M: ”Klart de är glada att ha mig på sin sida” - Dagens Nyheter
+- Vänsterpartiet går till val på billig tandvård - Vänsterpartiet
 - Viktigast i veckan: Ungrarna röstade bort Orbán – Rekordsysselsättning i EU - Europaportalen
-- DN Direkt – Kungen är i Ukraina – träffar Zelenskyj - Dagens Nyheter
 - ”Fruktansvärt” – Trump förfärad över Ryssland - Marcus Oscarsson
 - Fortsatta lättnader för rysk olja - Expressen
+- Europeisk ytterhöger vänder Trump ryggen - Expressen
 - Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
-- Sandström: Wallenberg fyndar en trasig gunga och två karuseller i guld - Affärsvärlden
+- Gamla batterier ska få nytt liv - Dagens Nyheter
 - Miljardärer som ger bort allt – ny våg av stordonatorer utmanar den rika eliten - Dagens PS
-- Forskaren: Iran-kriget kan kosta USA 1 000 miljarder - Dagens PS
-- Fynd låg bortglömt i en källare i över 70 år – visar sig nu tillhöra något som forskarna inte visste existerade - Illustrerad Vetenskap
+- För få elbilar - laddstolpar står oanvända - Svenska Dagbladet
 - Iphone kan få tillgång till fler satellitfunktioner i IOS 27 - Macworld.se
+- Betalade dyrt för nytt batteri – men felet kvarstår - Gefle Dagblad
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Umeå children in worldwide school project on AI - Umeå universitet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -54,6 +54,7 @@ _Updated: 2026-04-18 15:41_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -69,7 +70,6 @@ _Updated: 2026-04-18 15:41_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -83,8 +83,8 @@ _Updated: 2026-04-18 15:41_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilken framtid arbetar du för? - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
@@ -107,12 +107,12 @@ _Updated: 2026-04-18 15:41_
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
@@ -123,21 +123,21 @@ _Updated: 2026-04-18 15:41_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -149,7 +149,7 @@ _Updated: 2026-04-18 15:41_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
