@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 23:58_
+_Updated: 2026-04-19 01:03_
 
 ## Top Stories
 
 - Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Minst sex döda i skjutning i Kiev - Västerbottens-Kuriren
-- Pojke gick på konsert med vännerna – sprängdes till döds dagen efter - Dagens Nyheter
-- Ny bilfri gata mitt i Göteborg – parkeringsplatserna försvinner - GP
+- Man gripen för mordförsök – kvinna allvarligt skadad - Västerbottens-Kuriren
 - Sánchez motstånd får honom att växa – kritiserar Trump - Omni
+- Pojke dog i sprängning – vännen bad Chat GPT om råd - Aftonbladet
+- Borgmästare: Flera döda i skjutning i Kiev - Corren
+- Ny bilfri gata mitt i Göteborg – parkeringsplatserna försvinner - GP
 - Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
 - Rysk media: Kungen nobbade Zelenskyjs hand - Västerbottens-Kuriren
+- Larm om gräsbrand – räddningstjänst på plats: ”En hektar” - NWT
 - Hawar Asaiesh omvald till V:s partistyrelse - VLT
-- Stor risk för gräsbränder i helgen på flera platser i landet - SVT Nyheter
-- Man i Skellefteå anhållen för mordförsök på kvinna - Norran
 - ”Berättelsen om frihet vann i Ungern” - Västerbottens-Kuriren
-- Påven: ”Ligger inte i mitt intresse” att debattera med Trump – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Lyxtält och bekväma sängar har blivit standard i Mount Everests basläger - Dagens Nyheter
-- Israels styrkor river bebyggelse i Libanon - GP
-- Günther Mårder häktad – misstänks för insiderbrott - Expressen
+- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
+- Påven: Ointresserad av att debattera med Trump - Västerbottens-Kuriren
 - Kommuner byggde laddplatser – nu gapar de tomma - Omni
-- Vänsterpartiet går till val på billig tandvård - Vänsterpartiet
-- Bilar blir allt äldre – hot mot bilindustrin växer - Dagens PS
-- Anders fryser ner sin hjärna – för att väckas i framtiden - Dagens Nyheter
+- V vill se billigare tandvård: ”Handlar om att våga le” - Flamman
+- SBAB vill se mer av både marknaden och staten - Fastighetstidningen
+- Iran öppnar Hormuzsundet: ”Redo för verksamhet och full passage” - EFN
 - Säljer svensk Blixten McQueen för pangpris - Carup.se
+- Gåtan har gäckat astronomerna i 50 år, men nu tror de sig förstå varför planeter tynar bort - Illustrerad Vetenskap
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
+- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -43,28 +43,28 @@ _Updated: 2026-04-18 23:58_
 - Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -77,14 +77,14 @@ _Updated: 2026-04-18 23:58_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
@@ -102,20 +102,20 @@ _Updated: 2026-04-18 23:58_
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
@@ -123,18 +123,18 @@ _Updated: 2026-04-18 23:58_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
