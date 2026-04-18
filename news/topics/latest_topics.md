@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 21:59_
+_Updated: 2026-04-18 23:02_
 
 ## Top Stories
 
-- Fartyg beskjutna i Hormuzsundet – experten: ”Desperata” - GP
-- Borgmästare: Flera döda i skjutning i Kiev - Corren
-- Pojke dog i sprängning – vännen bad Chat GPT om råd - Aftonbladet
-- Direkt – Kriget i Ukraina – Hovet till Ryssland: ”Fel och fult” - Dagens Nyheter
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Zelenskyj: Minst fem döda i skjutning i Kiev - GP
+- Pojke gick på konsert med vännerna – sprängdes till döds dagen efter - Dagens Nyheter
 - Språkvetaren om nya läsvanor: Så påverkas ordförrådet - Sveriges Radio
 - Ny bilfri gata mitt i Göteborg – parkeringsplatserna försvinner - GP
-- Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
+- V-kongressen: Vi ska sitta i en rödgrön regering - Västerbottens-Kuriren
+- Rysk media: Kungen nobbade Zelenskyjs hand - Västerbottens-Kuriren
 - Stor risk för gräsbränder i helgen på flera platser i landet - SVT Nyheter
 - Hawar Asaiesh omvald till V:s partistyrelse - VLT
-- Hund till angrepp i lägenhet – två skadade - GP
+- Två bitna av hund i Haninge - Expressen
 - ”Berättelsen om frihet vann i Ungern” - Västerbottens-Kuriren
+- Barnmatsburkar i Österrike kan innehålla råttgift - Corren
 - Direkt – Krisen i Mellanöstern – Israels styrkor river bebyggelse i Libanon - Dagens Nyheter
-- DN Direkt – Påven: Ointresserad av att debattera med Trump - Dagens Nyheter
 - Lyxtält och bekväma sängar har blivit standard i Mount Everests basläger - Dagens Nyheter
 - Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
 - Bilar blir allt äldre – hot mot bilindustrin växer - Dagens PS
-- Kommuner byggde laddplatser – nu gapar de tomma - Omni
-- Gamla batterier ska få nytt liv - Dagens Nyheter
+- H&M skruvar om – men räcker det för att återta modetronen? - Dagens Nyheter
+- V kräver frikort för tandvården - GP
 - Anders fryser ner sin hjärna – för att väckas i framtiden - Dagens Nyheter
 - Gåtan har gäckat astronomerna i 50 år, men nu tror de sig förstå varför planeter tynar bort - Illustrerad Vetenskap
 
@@ -41,8 +41,8 @@ _Updated: 2026-04-18 21:59_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
@@ -51,25 +51,25 @@ _Updated: 2026-04-18 21:59_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
