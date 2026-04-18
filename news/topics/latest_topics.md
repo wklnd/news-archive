@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 13:57_
+_Updated: 2026-04-18 15:41_
 
 ## Top Stories
 
-- Uppgifter om beskjutning i Hormuzsundet - GP
-- Stort stöd för V:s regeringskrav – ”S opålitligt” - GP
-- Här är Gert Wingårdhs okända skyskrapa – mitt i Göteborg - GP
-- Direkt – Krisen i Mellanöstern – Israel: Vi har genomfört attacker på flera platser - Dagens Nyheter
-- Anklagelser mot FBI-chefen – kallas alkoholist och paranoid - Omni
-- Nooshi Dadgostar omvald till V-ledare - Altinget.se
+- Fartyg beskjutna i Hormuzsundet – experten: ”Desperata” - GP
+- Tomas Ramberg: Nu satsar Dadgostar allt på rött - Dagens Nyheter
+- H.M. Konungen och utrikesminister Maria Malmer Stenergard besöker Ukraina - Regeringen.se
+- Israel: Nya flyganfall i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nazisterna försvann och Ludvika blev ”världens centrum” - Aftonbladet
+- Iran: Inget datum för nya samtal med USA - Hufvudstadsbladet – HBL
 - Stor risk för gräsbränder i helgen på flera platser i landet - SVT Nyheter
-- DN Direkt – Misstänkt mord i Malmö - Dagens Nyheter
 - Papprävar mot gäss blev en flopp - Västerbottens-Kuriren
-- Rökutveckling i plan på Arlanda utan åtgärd - UNT
-- Nathan Shachar: Netanyahu för krig mot Iran och Hizbollah – och mot Israels institutioner - Dagens Nyheter
-- Nakna män tog över Trondheim - Aftonbladet
+- Person hittad död på Limhamn – en gripen - SVT Nyheter
+- Peter Alestig: Fallhöjden är större i ”gröna” projekt - Dagens Nyheter
 - Viktigast i veckan: Ungrarna röstade bort Orbán – Rekordsysselsättning i EU - Europaportalen
+- DN Direkt – Kungen är i Ukraina – träffar Zelenskyj - Dagens Nyheter
 - ”Fruktansvärt” – Trump förfärad över Ryssland - Marcus Oscarsson
+- Fortsatta lättnader för rysk olja - Expressen
+- Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
 - Sandström: Wallenberg fyndar en trasig gunga och två karuseller i guld - Affärsvärlden
-- Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
-- FI varnar för semesterlån: ”Otrevlig eftersmak” - Omni
+- Miljardärer som ger bort allt – ny våg av stordonatorer utmanar den rika eliten - Dagens PS
 - Forskaren: Iran-kriget kan kosta USA 1 000 miljarder - Dagens PS
 - Fynd låg bortglömt i en källare i över 70 år – visar sig nu tillhöra något som forskarna inte visste existerade - Illustrerad Vetenskap
 - Iphone kan få tillgång till fler satellitfunktioner i IOS 27 - Macworld.se
@@ -42,11 +42,11 @@ _Updated: 2026-04-18 13:57_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -60,8 +60,6 @@ _Updated: 2026-04-18 13:57_
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -70,6 +68,8 @@ _Updated: 2026-04-18 13:57_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -77,21 +77,21 @@ _Updated: 2026-04-18 13:57_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group appoints new Chief People & Culture Officer – Anna Holmqvist - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
@@ -119,26 +119,26 @@ _Updated: 2026-04-18 13:57_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
