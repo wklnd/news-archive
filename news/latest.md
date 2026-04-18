@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 15:47_
+_Updated: 2026-04-18 17:23_
 
-- Live Updates: Iran reimposes restrictions on Strait of Hormuz 1 day after Trump said it was "completely open" - CBS News
-- How Trump Helped Pope Leo Find His Voice - The New York Times
-- Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
-- Trump suffers rare defeat with House Republicans on FISA - Axios
-- Republicans rush to close the gap in the final stretch of Virginia's redistricting election - NBC News
-- Not just Trump: Redistricting race will hinge on what these state leaders did - NPR
-- US midwestern states at risk of severe thunderstorms, weather agency warns - The Guardian
-- ‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On - The New York Times
-- Iran disputes claims of new agreements with Trump - The Washington Post
-- Patients and dental community mourn Dr. Cerina Fairfax, killed by Virginia ex-Lt. Gov. Fairfax - PBS
+- Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz - The New York Times
+- How the dispute between Trump and Pope Leo escalated - CBS News
+- The Inside Story of Five Days That Remade the Supreme Court - The New York Times
+- How Justin Fairfax’s obsessive quest to clear his name destroyed his family - The Washington Post
+- Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much - The New York Times
+- Tornadoes Reported Across the Midwest as Powerful Storms Slam the Region - The New York Times
+- Middle East crisis live: Iran ‘reviewing new US proposals’ as Trump warns Tehran over strait of Hormuz closure - The Guardian
+- ‘Big sigh of relief’: Republicans finally get some good news. Can it last? - Politico
+- US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial - AP News
+- Trump orders more access to psychedelics like LSD, psilocybin, ibogaine - The Washington Post
+- Photos: How overfishing in Southeast Asia is an ecological and human crisis - NPR
+- Mediation fails in dispute over Franco-German fighter jet, Handelsblatt says - Reuters
 - Maduro’s Successor Is Purging Allies Who Kept Him in Power in Venezuela - The New York Times
-- Counter terrorism investigate more arson attempts - BBC
-- Key questions facing government over Mandelson vetting - BBC
-- After Orban’s defeat in Hungary, Bulgaria offers Kremlin’s next best bet - The Washington Post
+- Lebanese exiles: Israel must eliminate Hezbollah for Lebanon's future - The Jerusalem Post
 - Judge Halts Nexstar-Tegna TV Station Merger - WSJ
+- The Jet-Fuel Surge Is Making Global Flight Connections Disappear - Bloomberg
 - White House chief of staff meets with Anthropic CEO over its new AI technology - AP News
-- 'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers - CNBC
 - Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR
 - 5+ Things to Know About the Next Mac Studio - MacRumors
 - The Ultimate 2026 MacBook Buyer’s Guide: Neo, Air, or Pro? - Geeky Gadgets
