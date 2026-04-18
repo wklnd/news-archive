@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 19:20_
+_Updated: 2026-04-18 20:23_
 
-- Live Updates: Iran Says Strait of Hormuz Under 'Strict Control' Until U.S. Ends Blockade - The New York Times
-- Pope Leo XIV says ‘not in my interest at all’ to debate Trump but will keep preaching peace - Politico
+- Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end - NPR
+- Pope says 'tyrants' speech was not aimed at Trump - BBC
 - Midwest, Great Lakes brace for more severe storms after night of tornadoes - CBS News
 - Penthouse pieds-à-terre: Bezos, Trump, and other billionaires facing Mamdani's proposed tax - Business Insider
-- A Breakdown of Five Days of Secret Supreme Court Memos - The New York Times
 - Justin Fairfax grew obsessed with clearing his name. His family paid the price. - The Washington Post
-- Middle East crisis live: ships report attacks as Iran closes strait of Hormuz; Trump says deal still possible - The Guardian
+- ACCELERATING MEDICAL TREATMENTS FOR SERIOUS MENTAL ILLNESS - The White House (.gov)
+- Scoop: Trump convenes Iran situation room meeting amid renewed Hormuz crisis - Axios
+- Poll: Trump’s immigration message changed. Voters' opinions have not. - Politico
+- ‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On - The New York Times
 - Record US drought sparks worries about fires, water supply and food prices - AP News
-- Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist - The New York Times
-- ‘Big sigh of relief’: Republicans finally get some good news. Can it last? - Politico
-- Iran: Attacks on ships reported as Strait of Hormuz recloses - DW.com
-- At least two dead as gunman opens fire and takes hostages in Kyiv - BBC
+- At least 5 killed by gunman in Kyiv shooting - politico.eu
 - Photos: How overfishing in Southeast Asia is an ecological and human crisis - NPR
+- Report: U.S. military preparing to board Iran-linked ships in coming days - Haaretz
 - Mediation fails in dispute over Franco-German fighter jet, Handelsblatt says - Reuters
 - Judge Halts Nexstar-Tegna TV Station Merger - WSJ
 - Anthropic’s Mythos AI model tests limits of global cyber defences - Financial Times
-- 'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers - CNBC
+- You can put beef tallow and salmon sperm on your face. But should you? - AP News
 - Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR
 - The App Store is booming again, and AI may be why - TechCrunch
-- The Ultimate 2026 MacBook Buyer’s Guide: Neo, Air, or Pro? - Geeky Gadgets
+- The first-gen AirPods Max drop to a record-low price following AirPods Max 2 launch - TechRadar
