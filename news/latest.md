@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 13:20_
+_Updated: 2026-04-18 14:02_
 
 - Live Updates: Trump says U.S. will continue blockade after Iran says Strait of Hormuz "completely open" - CBS News
-- Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
+- How Trump Helped Pope Leo Find His Voice - The New York Times
 - Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather
-- Trump’s Dispute With Pope Leo Deepens Divisions on the Right - The New York Times
-- US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial - AP News
-- EU officials in Hungary to discuss unlocking billions of euros held while Orbán was in charge - AP News
-- Trump to release reading of scripture days after angering many Christians - Politico
-- GOP senators urge Trump to find Iran exit plan as energy prices rise: ‘The clock is ticking’ - Politico
-- Senior U.S. officials could be back in Pakistan for Iran talks within days, sources say - CBS News
-- Trump came to Arizona to rally young voters. An older crowd greeted him. - The Washington Post
-- Starmer rejects calls to quit as pressure mounts over Mandelson vetting - Al Jazeera
+- What smart people are saying about Mamdani's proposed tax on second homes worth $5 million or more - Business Insider
+- Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
+- Deaths of migrants in ICE custody hit record high under Trump - NPR
+- Trump ballroom construction allowed for now, US appeals court says - Reuters
+- ‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On - The New York Times
+- ‘Big sigh of relief’: Republicans finally get some good news - Politico
+- Iran disputes claims of new agreements with Trump - The Washington Post
+- 'Staggering' I was not told Mandelson failed vetting, says PM - BBC
 - Maduro Is Gone, and the Purge Has Begun - The New York Times
+- Pope urges Africa’s youth to resist dual temptations of migration and corruption in Cameroon - AP News
 - Japan seals largest-ever defense contract with frigate sale to Australia - The Japan Times
-- UK and France to lead defensive mission in Strait of Hormuz - BBC
-- Federal Court Temporarily Freezes Nexstar’s Merger With Tegna - The New York Times
-- White House chief of staff meets with Anthropic CEO over its new AI technology - AP News
+- Judge halts local TV giant Nexstar's takeover of rival Tegna until trial - NPR
+- Scoop: Bessent and Wiles met Anthropic's Amodei in sign of thaw - Axios
 - Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season - Reuters
-- California coffee chain reinstates policy on Pride flags after swift backlash - The Guardian
-- Apple's $599 MacBook Neo Sold Out Through April Amid Surging Demand - MacRumors
-- Vivo X300 Ultra Review: The Camera King Has Arrived - Android Headlines
+- Nio Already Has a European Solution: Finally Time to Buy the Stock? - The Motley Fool
+- The Ultimate 2026 MacBook Buyer’s Guide: Neo, Air, or Pro? - Geeky Gadgets
+- Ford Mustang GTD Crushes Corvette ZR1X's Nürburgring Record With 6:40 Lap - Motor1.com
