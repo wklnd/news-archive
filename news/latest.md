@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 12:25_
+_Updated: 2026-04-18 13:20_
 
-- Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire - BBC
-- US to recover uranium from Iran at a 'leisurely pace', Trump tells Reuters - Reuters
-- Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather
-- Trump suffers rare defeat with House Republicans on FISA - Axios
-- EU officials in Hungary to discuss unlocking billions of euros held while Orbán was in charge - AP News
-- Trump came to Arizona to rally young voters. An older crowd greeted him. - The Washington Post
-- How the dispute between Trump and Pope Leo escalated - CBS News
+- Live Updates: Trump says U.S. will continue blockade after Iran says Strait of Hormuz "completely open" - CBS News
 - Trump shocked Netanyahu with post declaring Lebanon strikes "prohibited" - Axios
-- The world holds its breath: Trump says Iran war will end 'pretty soon' as uranium deal is in sight - Fortune
+- Live updates: Life-threatening storms target the Heartland, intense tornadoes and huge hail possible - FOX Weather
+- Trump’s Dispute With Pope Leo Deepens Divisions on the Right - The New York Times
+- US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial - AP News
+- EU officials in Hungary to discuss unlocking billions of euros held while Orbán was in charge - AP News
 - Trump to release reading of scripture days after angering many Christians - Politico
-- 'Staggering' I was not told Mandelson failed vetting, says PM - BBC
-- In Angola, Pope Leo XIV Faces the Legacy of Colonialism - The New York Times
+- GOP senators urge Trump to find Iran exit plan as energy prices rise: ‘The clock is ticking’ - Politico
+- Senior U.S. officials could be back in Pakistan for Iran talks within days, sources say - CBS News
+- Trump came to Arizona to rally young voters. An older crowd greeted him. - The Washington Post
+- Starmer rejects calls to quit as pressure mounts over Mandelson vetting - Al Jazeera
+- Maduro Is Gone, and the Purge Has Begun - The New York Times
 - Japan seals largest-ever defense contract with frigate sale to Australia - The Japan Times
-- One of the world’s most wanted men is arrested, ending years-long hunt - The Washington Post
-- Judge halts local TV giant Nexstar's takeover of rival Tegna until trial - NPR
-- Anthropic and Trump: Is a truce near? - Politico
-- QVC Group, Whose Networks Popularized Shopping On TV, Files For Chapter 11 Bankruptcy - Deadline
+- UK and France to lead defensive mission in Strait of Hormuz - BBC
+- Federal Court Temporarily Freezes Nexstar’s Merger With Tegna - The New York Times
+- White House chief of staff meets with Anthropic CEO over its new AI technology - AP News
 - Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season - Reuters
-- Galaxy S27 Ultra may perform on par with desktops, and not just because of a 2nm chip - PhoneArena
+- California coffee chain reinstates policy on Pride flags after swift backlash - The Guardian
 - Apple's $599 MacBook Neo Sold Out Through April Amid Surging Demand - MacRumors
+- Vivo X300 Ultra Review: The Camera King Has Arrived - Android Headlines
