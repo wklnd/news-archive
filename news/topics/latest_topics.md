@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 12:07_
+_Updated: 2026-04-18 13:08_
 
 ## Top Stories
 
-- Iran hotar stänga Hormuzsundet igen - Västerbottens-Kuriren
-- Larmsamtalet: ”Lovar döda mig om jag flyr” - Svenska Dagbladet
-- DN Direkt – Dadgostar: V i regeringen handlar inte om ministerposter - Dagens Nyheter
+- Uppgifter om beskjutning i Hormuzsundet - GP
+- Nya uppgifter om Kash Patel: Super och skolkar – kan få sparken - Aftonbladet
 - Här är Gert Wingårdhs okända skyskrapa – mitt i Göteborg - GP
-- Uppgifter: Iran har stängt Hormuzsundet på nytt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stort stöd för V:s regeringskrav – ”S opålitligt” - GP
 - Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
-- Person hittad död på Limhamn – en gripen - SVT Nyheter
-- Kritiken: Högskoleprovet ställer för låga krav - Västerbottens-Kuriren
-- Nooshi Dadgostar omvald till V-ledare - Altinget.se
-- Isabella Löwengrip vill vinna valet för M: ”Klart de är glada att ha mig på sin sida” - Dagens Nyheter
+- Man körde av vägen under polisjakt utanför Helsingborg - Expressen
+- SMHI varnar: risk för gräsbrand i helgen - Norran
+- Nooshi Dadgostar omvald som V-ledare - Aftonbladet
+- Kvinna död i Malmö – misstänkt mord - Västerbottens-Kuriren
+- Papprävar mot gäss blev en flopp - GP
 - Nathan Shachar: Netanyahu för krig mot Iran och Hizbollah – och mot Israels institutioner - Dagens Nyheter
-- Nakna män tog över Trondheim - Aftonbladet
 - Viktigast i veckan: Ungrarna röstade bort Orbán – Rekordsysselsättning i EU - Europaportalen
-- Misstänkt mord i Malmö - Expressen
-- Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
-- FI varnar för semesterlån: ”Otrevlig eftersmak” - Omni
+- DN Direkt – Kungen är i Ukraina – träffar Zelenskyj - Dagens Nyheter
+- Kvinna i 20-årsåldern död efter olycka - Expressen
+- Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
 - Sandström: Wallenberg fyndar en trasig gunga och två karuseller i guld - Affärsvärlden
+- FI: Låna inte till semestern – otrevlig eftersmak - Corren
 - Jeep Compass – en själlös fraktare - Dagens Nyheter
-- Så verklighetstrogen är succéfilmen Project Hail Mary: ”Genuint sant” - nyteknik
+- Fynd låg bortglömt i en källare i över 70 år – visar sig nu tillhöra något som forskarna inte visste existerade - Illustrerad Vetenskap
 - Ledare: Artemis – Åter till månen och nu för att stanna - NWT
 
 ## World News
@@ -31,44 +31,44 @@ _Updated: 2026-04-18 12:07_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
+- Alberta eyes accelerated review system for major projects over $250 million - Global News
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Alberta eyes accelerated review system for major projects over $250 million - Global News
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
@@ -123,21 +123,21 @@ _Updated: 2026-04-18 12:07_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
