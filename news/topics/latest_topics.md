@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 18:02_
+_Updated: 2026-04-18 19:06_
 
 ## Top Stories
 
 - Fartyg beskjutna i Hormuzsundet – experten: ”Desperata” - GP
 - Direkt – Kriget i Ukraina – Hovet till Ryssland: ”Fel och fult” - Dagens Nyheter
-- Tomas Ramberg: Nu satsar Dadgostar allt på rött - Dagens Nyheter
-- Flera döda i skjutning i Kiev - SVT Nyheter
+- Zelenskyj: Minst fem döda i skjutning i Kiev - GP
 - Misstänkt mord i Malmö – man anhållen - Folkbladet
-- Fransk soldat dödad i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Israel: Nya flyganfall i Libanon - Västerbottens-Kuriren
+- Språkvetaren om nya läsvanor: Så påverkas ordförrådet - Sveriges Radio
+- Tomas Ramberg: Nu satsar Dadgostar allt på rött - Dagens Nyheter
 - I dag: Flera gräsbränder i länet - Västerbottens-Kuriren
 - Vänsterpartiet går till val på billig tandvård - Vänsterpartiet
 - Anställd i Svenska kyrkan och invald i Vänsterpartiets partistyrelse - Dagen
-- Testa dina ordkunskaper inför högskoleprovet - Östersunds-Posten
-- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
+- Fartyg beskjutna i Hormuzsundet - Expressen
 - Experten: JD Vance har hamnat i en rävsax efter bråket mellan påven och Trump - Dagens Nyheter
 - Ett inlägg i ”Senaste nytt om kriget mellan Iran, USA och Israel” - SVT Nyheter
-- Viktigast i veckan: Ungrarna röstade bort Orbán – Rekordsysselsättning i EU - Europaportalen
+- Påven: Ointresserad av att debattera med Trump - Corren
 - Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
-- Gamla batterier ska få nytt liv - Dagens Nyheter
 - För få elbilar - laddstolpar står oanvända - Svenska Dagbladet
+- Gamla batterier ska få nytt liv - Dagens Nyheter
 - Bilar blir allt äldre – hot mot bilindustrin växer - Dagens PS
-- Flera svenska nomineringar på BAFTA-galan – men bara en vinnare - MovieZine
+- Fynd låg bortglömt i en källare i över 70 år – visar sig nu tillhöra något som forskarna inte visste existerade - Illustrerad Vetenskap
 - Iphone kan få tillgång till fler satellitfunktioner i IOS 27 - Macworld.se
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -42,11 +42,11 @@ _Updated: 2026-04-18 18:02_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -106,16 +106,16 @@ _Updated: 2026-04-18 18:02_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
@@ -123,20 +123,20 @@ _Updated: 2026-04-18 18:02_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
@@ -160,5 +160,5 @@ _Updated: 2026-04-18 18:02_
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
