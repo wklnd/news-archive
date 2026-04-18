@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 13:08_
+_Updated: 2026-04-18 13:57_
 
 ## Top Stories
 
 - Uppgifter om beskjutning i Hormuzsundet - GP
-- Nya uppgifter om Kash Patel: Super och skolkar – kan få sparken - Aftonbladet
-- Här är Gert Wingårdhs okända skyskrapa – mitt i Göteborg - GP
 - Stort stöd för V:s regeringskrav – ”S opålitligt” - GP
-- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
-- Man körde av vägen under polisjakt utanför Helsingborg - Expressen
-- SMHI varnar: risk för gräsbrand i helgen - Norran
-- Nooshi Dadgostar omvald som V-ledare - Aftonbladet
-- Kvinna död i Malmö – misstänkt mord - Västerbottens-Kuriren
-- Papprävar mot gäss blev en flopp - GP
+- Här är Gert Wingårdhs okända skyskrapa – mitt i Göteborg - GP
+- Direkt – Krisen i Mellanöstern – Israel: Vi har genomfört attacker på flera platser - Dagens Nyheter
+- Anklagelser mot FBI-chefen – kallas alkoholist och paranoid - Omni
+- Nooshi Dadgostar omvald till V-ledare - Altinget.se
+- Stor risk för gräsbränder i helgen på flera platser i landet - SVT Nyheter
+- DN Direkt – Misstänkt mord i Malmö - Dagens Nyheter
+- Papprävar mot gäss blev en flopp - Västerbottens-Kuriren
+- Rökutveckling i plan på Arlanda utan åtgärd - UNT
 - Nathan Shachar: Netanyahu för krig mot Iran och Hizbollah – och mot Israels institutioner - Dagens Nyheter
+- Nakna män tog över Trondheim - Aftonbladet
 - Viktigast i veckan: Ungrarna röstade bort Orbán – Rekordsysselsättning i EU - Europaportalen
-- DN Direkt – Kungen är i Ukraina – träffar Zelenskyj - Dagens Nyheter
-- Kvinna i 20-årsåldern död efter olycka - Expressen
-- Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
+- ”Fruktansvärt” – Trump förfärad över Ryssland - Marcus Oscarsson
 - Sandström: Wallenberg fyndar en trasig gunga och två karuseller i guld - Affärsvärlden
-- FI: Låna inte till semestern – otrevlig eftersmak - Corren
-- Jeep Compass – en själlös fraktare - Dagens Nyheter
+- Finansprofilen Günther Mårder häktas misstänkt för insiderbrott - Sveriges Radio
+- FI varnar för semesterlån: ”Otrevlig eftersmak” - Omni
+- Forskaren: Iran-kriget kan kosta USA 1 000 miljarder - Dagens PS
 - Fynd låg bortglömt i en källare i över 70 år – visar sig nu tillhöra något som forskarna inte visste existerade - Illustrerad Vetenskap
-- Ledare: Artemis – Åter till månen och nu för att stanna - NWT
+- Iphone kan få tillgång till fler satellitfunktioner i IOS 27 - Macworld.se
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-04-18 13:08_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -119,18 +119,18 @@ _Updated: 2026-04-18 13:08_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -138,7 +138,7 @@ _Updated: 2026-04-18 13:08_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
 
 ## Jordbruk
 
