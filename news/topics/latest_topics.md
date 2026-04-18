@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-18 09:41_
+_Updated: 2026-04-18 11:12_
 
 ## Top Stories
 
-- Trump: Kommer ta uranet till USA - Västerbottens-Kuriren
-- Nya uppgifter om Kash Patel: Super och skolkar – kan få sparken - Aftonbladet
-- Kontroversiell konsult höll i chefsdag i Göteborg - GP
-- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
-- Slukar brittisk drake – oroar sig för läget i USA - Svenska Dagbladet
+- Här är Gert Wingårdhs okända skyskrapa – mitt i Göteborg - GP
+- Uppgifter: Iran har stängt Hormuzsundet på nytt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Iran hotar stänga Hormuzsundet igen - Västerbottens-Kuriren
-- DN Direkt – Framgång i domstol för Trumps balsal - Dagens Nyheter
-- Kritiken: Högskoleprovet ställer för låga krav - GP
-- Isabella Löwengrip vill vinna valet för M: ”Klart de är glada att ha mig på sin sida” - Dagens Nyheter
+- Israels styrkor river bebyggelse i Libanon - Västerbottens-Kuriren
+- Malins hjärta stannade i 84 minuter • Mamma Eva: "Jag skrek rakt ut" - GP
+- Nya uppgifter om Kash Patel: Super och skolkar – kan få sparken - Aftonbladet
+- Person hittad död på Limhamn – en gripen - SVT Nyheter
+- Erik, 30, har skrivit 2,0 på högskoleprovet – 14 gånger - UNT
 - ”Unga ska inte behöva ha Avanza som hobby” - HD – Nyheter Dygnet Runt
-- Fortsatta lättnader för rysk olja - Västerbottens-Kuriren
+- Enormt rör lyftes på plats i Värtahamnen - Dagens Nyheter
+- Nathan Shachar: Netanyahu för krig mot Iran och Hizbollah – och mot Israels institutioner - Dagens Nyheter
 - Nakna män tog över Trondheim - Aftonbladet
-- Misstänkt irländsk gangsterboss gripen i Dubai - Aftonbladet
-- Adam Cwejman: Orbán är borta – men Ungern har inte valt en ny Reinfeldt - GP
+- Kvinna i 20-årsåldern död efter olycka - Expressen
+- Ung kvinna avliden efter trafikolycka i Lojsta - Helagotland
 - Günther Mårder begärd häktad – regeringen kopplas in - Aftonbladet
 - FI varnar för semesterlån: ”Otrevlig eftersmak” - Omni
-- Pensionsmissen: Kan få 16 800 mer i plånboken – varje månad - Dagens PS
-- EU-länder kan tvingas dela sina lager av flygbränsle - Omni
-- Ledare: Artemis – Åter till månen och nu för att stanna - NWT
-- Dessa appar bör du radera omedelbart: Finns på nästan alla telefoner - Dagens.se
+- Sandström: Wallenberg fyndar en trasig gunga och två karuseller i guld - Affärsvärlden
+- Jeep Compass – en själlös fraktare - Dagens Nyheter
+- Så verklighetstrogen är succéfilmen Project Hail Mary: ”Genuint sant” - nyteknik
+- Andreas lokal har samlat gamers i över 20 år - Gefle Dagblad
 
 ## World News
 
@@ -35,17 +35,17 @@ _Updated: 2026-04-18 09:41_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- IMF: Irankriget kan skapa global recession - DI
 - Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
@@ -56,20 +56,20 @@ _Updated: 2026-04-18 09:41_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -108,14 +108,14 @@ _Updated: 2026-04-18 09:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
+- Cotton Deborah, Watts D Heather, eds. The medical management of AIDS in women - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-18 09:41_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lediga jobb - Land Lantbruk och Skogsbruk
 - Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
