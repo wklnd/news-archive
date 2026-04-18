@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-18 20:23_
+_Updated: 2026-04-18 21:28_
 
-- Iran says it has closed the Strait of Hormuz again, as ceasefire nears its end - NPR
-- Pope says 'tyrants' speech was not aimed at Trump - BBC
-- Midwest, Great Lakes brace for more severe storms after night of tornadoes - CBS News
-- Penthouse pieds-à-terre: Bezos, Trump, and other billionaires facing Mamdani's proposed tax - Business Insider
-- Justin Fairfax grew obsessed with clearing his name. His family paid the price. - The Washington Post
-- ACCELERATING MEDICAL TREATMENTS FOR SERIOUS MENTAL ILLNESS - The White House (.gov)
+- Iran's military closes Strait of Hormuz again, citing U.S. blockade - PBS
 - Scoop: Trump convenes Iran situation room meeting amid renewed Hormuz crisis - Axios
+- Pope says 'tyrants' speech was not aimed at Trump - BBC
+- Trump Signs Executive Order to Loosen Restrictions on Psychedelic Drugs - The New York Times
+- Midwest, Great Lakes brace for more severe storms after night of tornadoes - CBS News
+- Iran: Attacks on ships reported as Strait of Hormuz recloses - dw.com
 - Poll: Trump’s immigration message changed. Voters' opinions have not. - Politico
+- 2 JBER soldiers injured in bear attack during Arctic Valley exercise - Anchorage Daily News
 - ‘Turning Point Was Charlie Kirk’: Why This Student Group Moved On - The New York Times
-- Record US drought sparks worries about fires, water supply and food prices - AP News
-- At least 5 killed by gunman in Kyiv shooting - politico.eu
+- Record U.S. drought sparks fears about wildfires, water supply and food prices - CBS News
+- Ukraine police shoot dead gunman who killed six in Kyiv, took hostages - Al Jazeera
 - Photos: How overfishing in Southeast Asia is an ecological and human crisis - NPR
-- Report: U.S. military preparing to board Iran-linked ships in coming days - Haaretz
+- Macron says a French soldier was killed and 3 were wounded in attack on peacekeepers in Lebanon - AP News
 - Mediation fails in dispute over Franco-German fighter jet, Handelsblatt says - Reuters
-- Judge Halts Nexstar-Tegna TV Station Merger - WSJ
+- Airline industry faces a shake-up as jet fuel hits hard - Axios
 - Anthropic’s Mythos AI model tests limits of global cyber defences - Financial Times
-- You can put beef tallow and salmon sperm on your face. But should you? - AP News
-- Tired of waiting for your EV to charge up? One Chinese company has a novel solution - NPR
+- Judge Halts Nexstar-Tegna TV Station Merger - WSJ
+- 'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers - CNBC
 - The App Store is booming again, and AI may be why - TechCrunch
 - The first-gen AirPods Max drop to a record-low price following AirPods Max 2 launch - TechRadar
