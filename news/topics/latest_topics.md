@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-19 13:58_
+_Updated: 2026-04-19 15:39_
 
 ## Top Stories
 
+- Nya förhandlingar i Islamabad enligt Trump – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Dåd i Kiev utreds som terror - Hufvudstadsbladet – HBL
+- V-ledning förlorade om partiskatt – sänks inte - gp.se
 - Iran: Styrkor stoppade två fartyg - Västerbottens-Kuriren
-- Malmö: Explosion i Hindby - Aftonbladet
-- Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
-- Här vänder fartygen efter Irans besked – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- I Bulgarien kan ”en ny Orbán” bli vinnare i valet - Dagens Nyheter
-- V-ledning förlorade om partiskatt – sänks inte - GP
+- Otippade resekorridoren – här är expertens bästa sommartips - Aftonbladet
+- Minskning av brottsvinster från bedrägerier - gp.se
 - Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
 - Norske ”seriemördaren” åtalas för dråp i Sverige - Västerbottens-Kuriren
-- Vapnet i Kramfors sexköpshärva: Åtta gatuhundar - Dagens Nyheter
-- Kulturmärkta gatan kan komma att fyllas med 280 sopkärl - Dagens Nyheter
-- Hizbollahs varning: Vapenvilan utmanas - GP
-- Dåd i Kiev utreds som terror - GP
-- Larm om skjutning vid skola i Iowa - Expressen
-- Amanda Sokolnicki: Det finns bara en allsmäktig gud, och han heter Donald Trump - Dagens Nyheter
-- Börsrekord mitt i krig – nu manas investerare till försiktighet - Dagens PS
+- Aguirre omvald till Vänsterpartiets partistyrelse - märsta.nu
+- Explosion i Malmö sprängde hål i husvägg - SVT Nyheter
+- Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
+- Hizbollahs varning: Vapenvilan utmanas - gp.se
+- Uppgifter: EU vill att fler arbetar hemifrån - Omni
+- DN Direkt – Uppgifter: EU-kommissionen manar till distansarbete - Dagens Nyheter
 - Günther Mårder nekar grova ekobrott –regeringen agerar - News55
-- Lärare på SETT-mässan: Så kan AI bli ett lärverktyg - Sveriges Radio
+- DEBATT: Stegra visar vägen - Dagens industri
 - V vill se billigare tandvård: ”Handlar om att våga le” - Flamman
+- Bryssel redo att fördela flygbränsle i krisen - EFN
 - Här är dinosaurien som luktar bäst - Aftonbladet
 - Så sparar du pengar under festivalsommaren – smarta knep inför säsongen - Börskollen
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-19 13:58_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
-- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
+- Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Varningen: Kriget kan leda till global recession - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF.org - International Judo Federation
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Alberta eyes accelerated review system for major projects over $250 million - Global News
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2026-04-19 13:58_
 
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -123,26 +123,26 @@ _Updated: 2026-04-19 13:58_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
@@ -152,13 +152,13 @@ _Updated: 2026-04-19 13:58_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Fröätare hjälper oss att bekämpa ogräs på åkern - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
