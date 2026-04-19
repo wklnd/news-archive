@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-19 20:23_
+_Updated: 2026-04-19 21:29_
 
-- 8 children killed in Louisiana mass shooting - NBC News
+- Mass shooting rampage in Louisiana leaves eight children dead and others wounded - The Guardian
 - Trump says US negotiators to head to Pakistan for Iran talks - Al Jazeera
-- In Angola, love for an American pope but not for an American president - The Washington Post
-- Zelensky condemns US extension of Russian sanctions waiver - BBC
 - 5 Injured During a Shooting Near University of Iowa Campus - The New York Times
+- Iran doubles down on closing Strait of Hormuz as ceasefire nears expiration - Politico
+- Real estate investors are buying up long-term care facilities. Residents can suffer - NPR
 - Hundreds trying to storm Wisconsin beagle research facility met with rubber bullets, pepper spray - CNN
 - Waltz defends Trump’s threat to bomb ‘every single power plant’ in Iran - ABC News - Breaking News, Latest News and Videos
-- Iran doubles down on closing Strait of Hormuz as ceasefire nears expiration - Politico
-- In wake of political violence, states use campaign cash for personal security - Politico
-- Muslim Southerners Face a Fresh Wave of Hateful Political Rhetoric - The New York Times
+- 1 dead after small plane crashes in Land O’ Lakes neighborhood - WFLA
+- Woodland Hills woman Shamim Mafi arrested at LAX for alleged trafficking of drones, bombs, ammo for Iran, US prosecutors say - ABC7 Los Angeles
+- Rubén Gallego on why he defended Eric Swalwell — and why he regrets it now - vox.com
 - North Korea launches multiple short-range ballistic missiles toward sea - Politico
-- Russia-aligned Rumen Radev set to win Bulgarian election, exit polls say - politico.eu
-- Hungary’s Tisza party widens parliamentary majority as final votes are counted - politico.eu
-- UK police investigating if arson attacks on Jewish sites in London are the work of Iranian proxies - AP News
-- Blue Origin reuses huge New Glenn rocket for 1st time, lands booster at sea (launch video) - Space
+- Turnout and Exit Polls Bode Well for Bulgarian Parties Promising Change - The New York Times
+- In Angola, love for an American pope but not for an American president - The Washington Post
+- Arson attacks 'gathering momentum', Chief Rabbi says - BBC
+- Errant upper stage spoils Blue Origin's success in reusing New Glenn booster - Ars Technica
+- Scoop: NSA using Anthropic's Mythos despite blacklist - Axios
 - Luxury Brands Bet on the Middle East. War Has Damaged Their Plans. - The New York Times
-- The one metric Warren Buffett says can crash the stock market just hit a dizzying new high - Fortune
-- Trump, When Asked About White House Meeting with Anthropic’s Dario Amodei: ‘Who?’ - Gizmodo
-- Pixel Laptop: Return of Google Pixelbook laptops spotted in new OS release - Notebookcheck
+- '8,000 Jobs'—Polymarket Sees Tech Layoff Surge As Meta AI Push Bites - Forbes
+- Pixel 11 is about to get a major glow-down - PhoneArena
 - Huawei Pura X Max live images leaked ahead of April 20 launch - Huawei Central
