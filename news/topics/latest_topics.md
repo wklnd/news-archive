@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-19 17:07_
+_Updated: 2026-04-19 18:02_
 
 ## Top Stories
 
-- Pontus Jansson ur spel resten av säsongen - Malmö FF
 - Nya förhandlingar i Islamabad enligt Trump – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Risk för skakig börs i oklart Hormuz-läge: ”Lite för naiva” - Dagens Nyheter
-- DN Direkt – Mona Juul avslutar sin tjänst efter Epsteinhärva - Dagens Nyheter
-- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
+- Iran: Styrkor stoppade två fartyg - Västerbottens-Kuriren
 - V-ledning förlorade om partiskatt – sänks inte - GP
+- Fräck guldstöld mitt i Göteborg – avslöjades av kalsongstöld på Ica - GP
+- Brottsvinster från bedrägerier minskar: ”Går åt rätt håll” - Sveriges Radio
+- Efter larm om råttgift i barnmat: Inga produkter återkallas i Sverige - GP
+- Familjen hittade vägglöss i sin kupé på nattåget - Sydsvenskan
 - Norsk man åtalas för mord efter misstänkt dödshjälp i Sverige - Dagens Nyheter
 - Aguirre omvald till Vänsterpartiets partistyrelse - märsta.nu
-- Explosion i Malmö sprängde hål i husvägg - SVT Nyheter
-- Fem drabbade i olycka på E4:an – långa köer - Sveriges Radio
-- Gisslandrama i Kiev – flera döda och skadade - Dagens Nyheter
-- Hizbollahs varning: Vapenvilan utmanas - GP
-- Andersson och Löfven deltar i jätteprotest - Marcus Oscarsson
-- Uppgifter: EU vill se mer hemmajobb i energikrisen - SVT Nyheter
-- Ta ut pensionen redan vid 64 – experten: "Det är faktiskt ett tips" - Dagens PS
+- Vistas du tillräckligt i naturen? Ny rapport visar stora skillnader - oskarshamns-nytt.se
+- DN Direkt – Uppgifter: EU-kommissionen manar till distansarbete - Dagens Nyheter
+- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
+- Dåd i Kiev utreds som terror - GP
+- DN Direkt – Mona Juul avslutar sin tjänst efter Epsteinhärva - Dagens Nyheter
+- 10 snålaste elbilarna – ettan förvånar många - Carup.se
 - Kristersson: Risken för ransonering av olja ökar - Världen idag
 - Günther Mårder nekar grova ekobrott –regeringen agerar - News55
-- DEBATT: Stegra visar vägen - Dagens industri
+- DEBATT: Stegra visar vägen - DI
 - Här är dinosaurien som luktar bäst - Aftonbladet
 - Bugg i Microsoft Teams har orsakats av Edge-uppdatering - PC för Alla
 
@@ -31,8 +31,8 @@ _Updated: 2026-04-19 17:07_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
-- Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
@@ -40,26 +40,26 @@ _Updated: 2026-04-19 17:07_
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Varningen: Kriget kan leda till global recession - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Varningen: Kriget kan leda till global recession - Placera.se
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -104,18 +104,18 @@ _Updated: 2026-04-19 17:07_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -128,21 +128,21 @@ _Updated: 2026-04-19 17:07_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
