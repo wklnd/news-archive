@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-19 18:02_
+_Updated: 2026-04-19 19:06_
 
 ## Top Stories
 
+- Åtta barn ihjälskjutna i Louisiana - gp.se
 - Nya förhandlingar i Islamabad enligt Trump – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Iran: Styrkor stoppade två fartyg - Västerbottens-Kuriren
-- V-ledning förlorade om partiskatt – sänks inte - GP
-- Fräck guldstöld mitt i Göteborg – avslöjades av kalsongstöld på Ica - GP
-- Brottsvinster från bedrägerier minskar: ”Går åt rätt håll” - Sveriges Radio
-- Efter larm om råttgift i barnmat: Inga produkter återkallas i Sverige - GP
+- Mona Juul avslutar sin tjänst efter Epsteinhärva - Aftonbladet
+- Barnmatsburkar i Österrike kan innehålla råttgift - Västerbottens-Kuriren
+- DN Direkt – Bilförare till sjukhus – krockade med träd - Dagens Nyheter
+- Fräck guldstöld mitt i Göteborg – avslöjades av kalsongstöld på Ica - gp.se
 - Familjen hittade vägglöss i sin kupé på nattåget - Sydsvenskan
 - Norsk man åtalas för mord efter misstänkt dödshjälp i Sverige - Dagens Nyheter
 - Aguirre omvald till Vänsterpartiets partistyrelse - märsta.nu
 - Vistas du tillräckligt i naturen? Ny rapport visar stora skillnader - oskarshamns-nytt.se
-- DN Direkt – Uppgifter: EU-kommissionen manar till distansarbete - Dagens Nyheter
-- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
-- Dåd i Kiev utreds som terror - GP
-- DN Direkt – Mona Juul avslutar sin tjänst efter Epsteinhärva - Dagens Nyheter
+- Iran: Styrkor stoppade två fartyg - Västerbottens-Kuriren
+- Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
+- Här körs V-styrelsen över – partiskatten sänks inte - Flamman
+- Skör vapenvila i Libanon – Israel stärker buffert - gp.se
+- Rolls-Royce är nu världens dyraste elbil - Dagens PS
+- Pensionärernas varning till unga – gör inte samma misstag - oskarshamns-nytt.se
 - 10 snålaste elbilarna – ettan förvånar många - Carup.se
 - Kristersson: Risken för ransonering av olja ökar - Världen idag
-- Günther Mårder nekar grova ekobrott –regeringen agerar - News55
-- DEBATT: Stegra visar vägen - DI
 - Här är dinosaurien som luktar bäst - Aftonbladet
 - Bugg i Microsoft Teams har orsakats av Edge-uppdatering - PC för Alla
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
@@ -35,41 +36,40 @@ _Updated: 2026-04-19 18:02_
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Varningen: Kriget kan leda till global recession - Placera.se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Varningen: Kriget kan leda till global recession - Placera.se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -128,17 +128,17 @@ _Updated: 2026-04-19 18:02_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
