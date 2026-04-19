@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-19 22:00_
+_Updated: 2026-04-19 23:03_
 
 ## Top Stories
 
-- Trump: USA har beslagtagit iranskt lastfartyg - Västerbottens-Kuriren
-- Nya förhandlingar i Islamabad enligt Trump – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Åtta barn ihjälskjutna i Louisiana - GP
-- Expert: Kriget har gett Iran ett vapen i framtida konflikter - Dagens Nyheter
-- Israel återöppnar bosättning på Västbanken - SVT Nyheter
-- Euroskeptiker mot valseger i Bulgarien - SVT Nyheter
+- Trump: USA har attackerat iranskt fartyg - SVT Nyheter
+- Trump: USA till Pakistan för Iransamtal - Västerbottens-Kuriren
+- Åtta barn dödade i skjutning i Louisiana - Hufvudstadsbladet – HBL
+- Nikolas bankkonto spärrades – nu saknar han pengar till mat och hyra - Sydsvenskan
 - Utvisas efter 22 år – tvingas lämna sin son i Sverige - Dagens Nyheter
+- Skör vapenvila i Libanon – Israel stärker buffert - GP
 - Här är de unga som vill påverka i politiken: ”Alla vill inte bli influencers” - Dagens Nyheter
 - V-ledning förlorade om partiskatt – sänks inte - Corren
 - Aguirre omvald till Vänsterpartiets partistyrelse - märsta.nu
-- Dåd i Kiev utreds som terror - Hufvudstadsbladet – HBL
-- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
-- Norsk diplomat avgår – efter kopplingarna till Epstein - Expressen
-- Skör vapenvila i Libanon – Israel stärker buffert - GP
+- Nooshi Dadgostar omvald till V-ledare - Altinget.se
+- DN Direkt – Gais mardröm fortsätter – jumbo efter derbyförlust - Dagens Nyheter
+- Israel återöppnar bosättning på Västbanken - SVT Nyheter
+- Trumpadvokat tar över utredning om tidigare CIA-chefen - Dagens Nyheter
+- Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
 - Günther Mårder lämnar styrelseuppdrag - Dagens Nyheter
 - Oljeexperten: Ransoneringen påbörjad – ”Kraftiga slag för världsekonomin” - Tidningen Näringslivet
-- Rolls-Royce är nu världens dyraste elbil - Dagens PS
 - Börsrekord mitt i krig – nu manas investerare till försiktighet - Dagens PS
-- Här är dinosaurien som luktar bäst - Aftonbladet
+- Miljardsatsning i försvaret kan ge 48 000 nya jobb - Omni
 - Skarpa Android 17 kommer allt närmare - mobil.se
+- Nya fynd: Här är dinosaurien som slår T-Rex i luktsinne - Sydsvenskan
 
 ## World News
 
@@ -33,6 +33,7 @@ _Updated: 2026-04-19 22:00_
 - Ontario expanding areas where alcohol can be consumed in provincial parks - Global News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Alberta eyes accelerated review system for major projects over $250 million - Global News
+- Why Goldman Sachs expects 13% gains for global stocks next year - Investing.com
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -40,13 +41,12 @@ _Updated: 2026-04-19 22:00_
 - New Secretary General appointed - Olof Palme International Center
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Varningen: Kriget kan leda till global recession - Placera.se
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Varningen: Kriget kan leda till global recession - Placera.se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -54,7 +54,6 @@ _Updated: 2026-04-19 22:00_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -70,6 +69,7 @@ _Updated: 2026-04-19 22:00_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -102,20 +102,20 @@ _Updated: 2026-04-19 22:00_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
@@ -123,6 +123,7 @@ _Updated: 2026-04-19 22:00_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -130,7 +131,6 @@ _Updated: 2026-04-19 22:00_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -152,9 +152,9 @@ _Updated: 2026-04-19 22:00_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
