@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 23:11_
+_Updated: 2026-04-21 00:09_
 
 ## Top Stories
 
-- Brand i Hjärup – flerfamiljshus utrymt - Aftonbladet
-- Samernas jurist kritiserar Buschs utspel om renar: ”Trumpistiskt” - Dagens Nyheter
-- Must-chefen: Ryssland kan inte fly från ekonomin - GP
-- Explosioner i rysk oljehamn: ”Massiv attack” - GP
-- Trump: Inte troligt att vapenvila förlängs - Västerbottens-Kuriren
+- Experter: Putin kommer fortsätta kriga – även om ekonomin krisar - Dagens Nyheter
 - Washington: Nya samtal mellan Israel och Libanon - GP
-- Ryska plan över Östersjön - Västerbottens-Kuriren
-- Skrällen från Malmö är evigt tacksam mot vården – nu ska hon slåss för den - Sydsvenskan
 - Överläkaren svarade på frågor om fosterdiagnostik - SVT Nyheter
-- Kommuner skönmålar sin ekonomi under valår - Västerbottens-Kuriren
-- Starmer: Jag skulle inte ha utsett Mandelson - TV4 Nyheterna
+- Brand i Hjärup – flerfamiljshus utrymt - Västerbottens-Kuriren
+- Samernas jurist kritiserar Buschs utspel om renar: ”Trumpistiskt” - Dagens Nyheter
+- Explosioner i rysk oljehamn: ”Massiv attack” - GP
+- Skrällen från Malmö är evigt tacksam mot vården – nu ska hon slåss för den - Sydsvenskan
+- Ryska bombplan över Östersjön – möttes av Gripen - GP
+- DN Direkt – Stopp på E4 efter olycka - Dagens Nyheter
+- Norrbotten, resultat från några av dagens trafikkontroller. - Brottsplatskartan.se
+- Iran: USA:s beteende oförenligt med diplomati – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kinas unga bryter med gamla normer: ”Robotar får väl jobba åt oss” - Dagens Nyheter
 - Från president till premiärminister – det här är Rumen Radev - GP
-- Europol spårade 45 ukrainska bortförda barn - Aftonbladet
-- Tim Cook avgår som vd för Apple - Aftonbladet
-- Günther Mårder lämnar Spotlight Groups styrelse - Cision News
+- Källor: Ukraina redo att vrida på oljekranen – bäddar för välbehövligt EU-lån - Omni
+- Tim Cook avgår som vd för Apple - Dagens Nyheter
 - Warsh: Fed ska vara oberoende - Västerbottens-Kuriren
-- Daniel Eks försvarsbolag Helsing satsar i Sverige - Dagens Nyheter
+- Daniel Eks tyska drönarföretag till Stockholm - Aftonbladet
+- Günther Mårder lämnar Spotlight Groups styrelse - Cision News
 - Minnesbristen ser ut att pågå till 2027 - Computer Sweden
 - Microsoft skickar ut akutfixar för Windows Server - PC för Alla
 
 ## World News
 
-- Iran: Why does Sweden care so little about Ahmadreza Djalali? - Global Bar Magazine
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - Tv.nu
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -46,7 +47,6 @@ _Updated: 2026-04-20 23:11_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -60,7 +60,7 @@ _Updated: 2026-04-20 23:11_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -68,8 +68,8 @@ _Updated: 2026-04-20 23:11_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -98,22 +98,22 @@ _Updated: 2026-04-20 23:11_
 
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
@@ -123,7 +123,6 @@ _Updated: 2026-04-20 23:11_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,34 +130,35 @@ _Updated: 2026-04-20 23:11_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Jordbruk och landsbygdsutveckling - European Commission
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Mjau Kattunge multibox - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Smakfulla klappar till hunden och katten - Mynewsdesk
+- Fler goda nyheter för lekfulla katter - Mynewsdesk
+- 7 av 10 svenskar firar hundens födelsedag - Mynewsdesk
+- God jul pälskling! - Mynewsdesk
