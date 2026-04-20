@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 02:06_
+_Updated: 2026-04-20 06:02_
 
-- 8 children killed in mass shooting in Shreveport, Louisiana, police say - CBS News
-- U.S. takes Iran-flagged ship into custody, Trump says - Axios
+- Oil prices jump after Trump says Iranian ship seized - BBC
+- Man kills 7 of his children and 1 other in mass shooting in Shreveport, Louisiana, police say - CBS News
 - Trump says US-Iran talks to continue Monday in Pakistan - Politico
-- Businesses can claim refunds for Trump tariffs ruled unconstitutional starting Monday - AP News
-- Iranian official says excessive demands made by U.S. are barrier to in-person talks - PBS
-- Five people shot on Iowa City Ped Mall - thegazette.com
-- Republican senator criticizes Trump’s ‘holy war’ with Pope Leo - The Guardian
-- Canada’s prime minister says economic ties with US are a weakness that must be corrected - AP News
-- Iran reverses course on opening Strait of Hormuz as hardliners take front seat in Tehran - Fox News
-- Activists Tear-Gassed at Failed Raid of Beagle Research Facility - The New York Times
-- North Korea launches multiple short-range ballistic missiles toward sea - Politico
+- What to know about tariff refund site that's set to go live Monday - Axios
+- ‘We’re Catholic first’: Sunday mass attendees weigh in on Trump’s feud with Pope Leo - The Guardian
+- Trump’s Disapproval Rating Grows As Iran War Remains Unpopular, Poll Finds - Forbes
+- Carney says Canada’s economic ties with US are a weakness that must be corrected - AP News
+- Democrats Eye a Broader Battlefield to Capture Congress in November - The New York Times
+- 3 students, 2 others shot near the University of Iowa, authorities say - Politico
+- Starmer battles for Downing Street future amid Mandelson vetting scandal - Financial Times
 - Hamas Officials Say Group Is Ready to Hand Over Some Weapons - The New York Times
-- Rumen Radev looks set to win Bulgarian Parliamentary election - BBC
-- Starmer's Mandelson nightmare never ends. This time, it may cost him his job as U.K. leader - NBC News
+- Bulgaria election: Ex-President Radev’s party leads in early results - Al Jazeera
+- Pope prays at Catholic shrine in Angola that was a center of African slave trade - AP News
+- Oil prices jump after Strait of Hormuz setbacks - Axios
 - Blue Origin successfully reused its New Glenn rocket - The Verge
-- Oil jumps and stock futures slip as Iran tensions unsettle markets - Reuters
-- Scoop: NSA using Anthropic's Mythos despite blacklist - Axios
-- Impact of Iran war will hurt US even after conflict ends, economists warn - Financial Times
-- Apple’s Revamped Siri Interface in iOS 27 Is Hidden in WWDC Teaser - Bloomberg.com
-- Apple's major MacBook Pro overhaul is reportedly 'slightly' delayed due to supply chain shortages - 9to5Mac
+- China keeps benchmark lending rates unchanged as economic growth revs up, Mideast risks loom - CNBC
+- Markets shudder as Strait of Hormuz starts resembling a combat zone. 'We're prepared to subject you to disabling fire' - Fortune
+- WWDC 2026 Graphic Teases Major iOS 27 Feature - MacRumors
+- The next Mac Studio and MacBook Pro releases could be postponed by several months - Engadget
+- Massive Intel Nova Lake leak reveals multiple chips with copious amounts of cache - Notebookcheck
