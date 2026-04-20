@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 21:39_
+_Updated: 2026-04-20 23:11_
 
 ## Top Stories
 
-- Experter: Putin kommer fortsätta kriga – även om ekonomin krisar - Dagens Nyheter
-- Busch: Rätten till renskötsel inte rimlig - gp.se
-- Evakuerade libaneser uppmanas att inte återvända - Västerbottens-Kuriren
-- Explosioner i rysk oljehamn: ”Massiv attack” - gp.se
-- Kvinna död efter fall från klippa utanför Södertälje - Omni
-- Trump: Nytt avtal kommer göra hela världen stolt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ryska bombplan över Östersjön – möttes av Gripen - Hufvudstadsbladet – HBL
+- Brand i Hjärup – flerfamiljshus utrymt - Aftonbladet
+- Samernas jurist kritiserar Buschs utspel om renar: ”Trumpistiskt” - Dagens Nyheter
+- Must-chefen: Ryssland kan inte fly från ekonomin - GP
+- Explosioner i rysk oljehamn: ”Massiv attack” - GP
+- Trump: Inte troligt att vapenvila förlängs - Västerbottens-Kuriren
+- Washington: Nya samtal mellan Israel och Libanon - GP
+- Ryska plan över Östersjön - Västerbottens-Kuriren
 - Skrällen från Malmö är evigt tacksam mot vården – nu ska hon slåss för den - Sydsvenskan
-- A-traktor kraschade i 150 – pojke åtalas - gp.se
-- Kub-test försvinner – ersätts i flera regioner - Västerbottens-Kuriren
-- Stal kassalåda mitt i natten – var tom - Expressen
-- FN: Mångmiljardbelopp för att återuppbygga Gaza - Sydsvenskan
-- Starmer grillas om Mandelsonhärvan - Västerbottens-Kuriren
-- Bulgariens valvinnare tonar ner det proryska - Hufvudstadsbladet – HBL
+- Överläkaren svarade på frågor om fosterdiagnostik - SVT Nyheter
+- Kommuner skönmålar sin ekonomi under valår - Västerbottens-Kuriren
+- Starmer: Jag skulle inte ha utsett Mandelson - TV4 Nyheterna
+- Kinas unga bryter med gamla normer: ”Robotar får väl jobba åt oss” - Dagens Nyheter
+- Från president till premiärminister – det här är Rumen Radev - GP
+- Europol spårade 45 ukrainska bortförda barn - Aftonbladet
+- Tim Cook avgår som vd för Apple - Aftonbladet
+- Günther Mårder lämnar Spotlight Groups styrelse - Cision News
 - Warsh: Fed ska vara oberoende - Västerbottens-Kuriren
-- Myndigheten om ransonering: Frivilligt till en början - Sveriges Radio
-- Nya nattåg till övre Norrland möter protester och oro - Dagens Nyheter
-- Daniel Eks tyska drönarföretag till Stockholm - Aftonbladet
+- Daniel Eks försvarsbolag Helsing satsar i Sverige - Dagens Nyheter
 - Minnesbristen ser ut att pågå till 2027 - Computer Sweden
 - Microsoft skickar ut akutfixar för Windows Server - PC för Alla
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-20 21:39_
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-04-20 21:39_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -96,26 +96,26 @@ _Updated: 2026-04-20 21:39_
 
 ## Health
 
-- Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Förvärv av RMS Medical Devices - it-halsa.se
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-04-20 21:39_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -152,7 +152,7 @@ _Updated: 2026-04-20 21:39_
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
