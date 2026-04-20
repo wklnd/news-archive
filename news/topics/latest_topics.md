@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 16:18_
+_Updated: 2026-04-20 17:52_
 
 ## Top Stories
 
-- Uppgifter: Iran skickar delegation till samtalen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Elins tvååriga dotter måste flytta till Frankrike - Omni
-- Flera greps vid illegalt kampsportsevent i Varberg - polisen.se
+- Explosioner i rysk oljehamn: ”Massiv attack” - GP
 - Veckan börjar med sol och 17 grader – då vänder det - Mitt i
-- Kanada trött på USA – söker nya allierade - Expressen
-- Oklart om samtal mellan Iran och USA: ”Inga planer” - GP
+- Elins tvååriga dotter måste flytta till Frankrike - Omni
+- Forskare flyr Trumps USA – Lunds universitet tar emot - Dagens Nyheter
+- Oklart om samtal mellan Iran och USA: ”Inga planer” - Västerbottens-Kuriren
+- Förvirring kring fredssamtalen mellan USA och Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - A-traktor kraschade i hög hastighet – tonåring åtalas - SVT Nyheter
-- Fängelse för kvinnor som misshandlade hemlös man - Dagens Nyheter
-- Extra polisresurser till utredningar av fler sexköp i kopplerihärvan - SVT Nyheter
-- Busch: Rätten till renskötsel inte rimlig - Västerbottens-Kuriren
+- Unga kvinnor döms för flera våldsdåd - Västerbottens-Kuriren
+- Busch: Rätten till renskötsel inte rimlig - GP
+- Pojken: ”Han hade värsta mördarblicken” - Dagens Nyheter
 - Bulgariens valvinnare tonar ner det proryska - Hufvudstadsbladet – HBL
 - Nathan Shachar: Netanyahus svåra val – svika egna väljarna eller Trump - Dagens Nyheter
-- Trumpvän kan ta över i Slovenien - Västerbottens-Kuriren
-- Explosioner i rysk oljehamn: ”Massiv attack” - GP
-- Dieselpriset sänks på nytt – närmar sig 20 kronor litern - Omni
+- Starmer: Jag skulle inte ha utsett Mandelson - GP
+- Trump förnyar hot: Kommer slå ut kraftverk - Västerbottens-Kuriren
 - Myndigheten om ransonering: Frivilligt till en början - Sveriges Radio
-- EQT anklagas för riggat Karo-utköp – strid i två länder - Affärsvärlden
+- Dieselpriset sänks på nytt – närmar sig 20 kronor litern - Omni
+- Bankernas jakt på kriminella slår blint – laglydiga i kläm - Dagens PS
 - ”Den goda bankens” skulder till medlemmarna skenar - Dagens Nyheter
 - Minnesbristen ser ut att pågå till 2027 - Computer Sweden
-- Kraftig ökning av antalet appar – AI ligger bakom uppgången - m3.se
+- Harvardforskare: Rödhåriga har speciell förmåga som har gett dem en evolutionär fördel - Illustrerad Vetenskap
 
 ## World News
 
+- Iran: Why does Sweden care so little about Ahmadreza Djalali? - Global Bar Magazine
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -36,17 +37,16 @@ _Updated: 2026-04-20 16:18_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-04-20 16:18_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Oron: Då tar datan på internet slut - Svenska Dagbladet
+- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 
 ## Business
 
@@ -91,8 +91,8 @@ _Updated: 2026-04-20 16:18_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -123,7 +123,6 @@ _Updated: 2026-04-20 16:18_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -131,6 +130,7 @@ _Updated: 2026-04-20 16:18_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -152,8 +152,8 @@ _Updated: 2026-04-20 16:18_
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
