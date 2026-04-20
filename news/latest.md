@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 13:06_
+_Updated: 2026-04-20 14:48_
 
-- US navy attacks and seizes Iranian cargo ship, with peace talks due to take place in Pakistan - BBC
-- 8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say - CBS News
-- Strong earthquake hits off Japan’s coast, tsunami warning issued - CNN
+- US captures Iranian ship Touska amid mediation efforts: All we know - Al Jazeera
+- Live Updates: Risk of Iran war reigniting as Trump renews threats, Tehran says no plan to attend peace talks - CBS News
+- Shreveport, Louisiana shooting today: Father kills 7 of his children, plus another child, in mass shooting at house, police say - ABC7 Chicago
+- Major 7.5-magnitude quake hits off Japan, triggers tsunami warnings - Reuters
 - Trump Administration to Begin Refunding $166 Billion in Tariffs - The New York Times
 - The pope's English fuels a Trump feud - Axios
-- Transcript: Former U.S. Attorney General Eric Holder on "Face the Nation with Margaret Brennan," April 19, 2026 - CBS News
 - Republicans stare down a growing, neverending FISA crisis - Politico
+- 6 crew missing after U.S.-flagged ship found overturned in Pacific following powerful typhoon - CBS News
+- Epstein survivor says it's not too late to expose what happened at his New Mexico ranch - NBC News
 - Canada's prime minister says economic connection to the U.S. has shifted from a strength to a weakness - PBS
-- Wisconsin authorities put total arrests from clashes at beagle breeding facility at about 25 - AP News
-- Iran War Live Updates: Uncertainty Hangs Over U.S.-Iran Talks in Wake of Ship Seizure - WSJ
-- British Prime Minister Starmer faces angry lawmakers over Mandelson's appointment as ambassador - AP News
-- Bulgaria election: Ex-President Radev claims ‘victory’ after early results - Al Jazeera
-- North Korea launches multiple short-range ballistic missiles toward sea - Politico
-- British police are probing a shadowy Islamic group amid arson spree at Jewish sites - NBC News
-- US stablecoins pose danger to emerging markets, say central bankers - Financial Times
+- North Korea again tests cluster munitions in a launch observed by Kim and his daughter - AP News
+- Starmer Will Tell Parliament He Was Kept in the Dark on Mandelson Vetting - The New York Times
+- U.K police investigating if attacks in London are the work of Iranian proxies - NPR
+- Bulgaria: Pro-Russia Rumen Radev on course to win election - dw.com
+- Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes - The Guardian
 - Stock futures decline as Iranian war tensions escalate: Live updates - CNBC
-- Blue Origin Rocket Launches, Then Loses AST SpaceMobile BlueBird Satellite - PCMag
-- The Hot Hedge Fund Strategy Triggering a Pay Bonanza for Traders - Bloomberg.com
+- Wheels Up Wants High-End Travelers to See Flying Private as ‘Not So Far Out of Reach’ - WSJ
+- PTO, parental leave, pensions: Even the most prized benefits are on the chopping block - Business Insider
+- Lawsuits, licensing, and royalties are complicating 4K video support in gadgets - Ars Technica
 - Real photo of iPhone 18 Pro in new colors reveals two very welcome changes - PhoneArena
-- MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed' - MacRumors
