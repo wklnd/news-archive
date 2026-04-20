@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 19:35_
+_Updated: 2026-04-20 21:39_
 
 ## Top Stories
 
-- Explosioner i rysk oljehamn: ”Massiv attack” - GP
-- Förvirring kring fredssamtalen mellan USA och Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Kvinna död – föll från klippa - Dagens Nyheter
-- Forskare flyr Trumps USA – Lunds universitet tar emot - Dagens Nyheter
-- Unga torpeder uppmanas att undvika Malmö C - Sydsvenskan
-- Så mycket kostade statsministerns matta – betalt av skattebetalarna - Aftonbladet
-- DN Direkt – Ryska bombplan över Östersjön – möttes av Gripen - Dagens Nyheter
-- Busch: Rätten till renskötsel inte rimlig - GP
-- A-traktor kraschade i 150 – pojke åtalas - Västerbottens-Kuriren
-- Kräver livstids fängelse – för brutala dubbelmordet - GP
-- Uppgifter: Iran skickar delegation till samtalen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Experter: Putin kommer fortsätta kriga – även om ekonomin krisar - Dagens Nyheter
+- Busch: Rätten till renskötsel inte rimlig - gp.se
+- Evakuerade libaneser uppmanas att inte återvända - Västerbottens-Kuriren
+- Explosioner i rysk oljehamn: ”Massiv attack” - gp.se
+- Kvinna död efter fall från klippa utanför Södertälje - Omni
+- Trump: Nytt avtal kommer göra hela världen stolt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ryska bombplan över Östersjön – möttes av Gripen - Hufvudstadsbladet – HBL
+- Skrällen från Malmö är evigt tacksam mot vården – nu ska hon slåss för den - Sydsvenskan
+- A-traktor kraschade i 150 – pojke åtalas - gp.se
+- Kub-test försvinner – ersätts i flera regioner - Västerbottens-Kuriren
+- Stal kassalåda mitt i natten – var tom - Expressen
+- FN: Mångmiljardbelopp för att återuppbygga Gaza - Sydsvenskan
+- Starmer grillas om Mandelsonhärvan - Västerbottens-Kuriren
 - Bulgariens valvinnare tonar ner det proryska - Hufvudstadsbladet – HBL
-- Nathan Shachar: Netanyahus svåra val – svika egna väljarna eller Trump - Dagens Nyheter
-- Starmer: Jag skulle inte ha utsett Mandelson - GP
+- Warsh: Fed ska vara oberoende - Västerbottens-Kuriren
 - Myndigheten om ransonering: Frivilligt till en början - Sveriges Radio
 - Nya nattåg till övre Norrland möter protester och oro - Dagens Nyheter
-- Nu avgörs Birgitte Bonnesens öde i Högsta Domstolen - Dagens Juridik
-- Bankernas jakt på kriminella slår blint – laglydiga i kläm - Dagens PS
+- Daniel Eks tyska drönarföretag till Stockholm - Aftonbladet
 - Minnesbristen ser ut att pågå till 2027 - Computer Sweden
 - Microsoft skickar ut akutfixar för Windows Server - PC för Alla
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-20 19:35_
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- US renews Russian oil waiver after pressure from countries dealing with Iran war price shocks - Reuters
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -54,30 +54,30 @@ _Updated: 2026-04-20 19:35_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Oron: Då tar datan på internet slut - Svenska Dagbladet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
@@ -101,17 +101,17 @@ _Updated: 2026-04-20 19:35_
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
@@ -160,5 +160,5 @@ _Updated: 2026-04-20 19:35_
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
+- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
