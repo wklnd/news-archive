@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 17:05_
+_Updated: 2026-04-20 18:44_
 
-- Oil prices jump after U.S. seizes Iranian vessel, imperiling ceasefire - The Washington Post
+- U.S. seizes Iranian cargo ship. And, tariff refund portal launches - NPR
 - 8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say - CBS News
+- FBI Director Kash Patel sues The Atlantic claiming false reporting about drinking, absences - Reuters
 - Japan earthquake: 7.7 magnitude quake triggers tsunami warning - BBC
-- Trump administration launches tariff refund system as first step in paying back billions – US politics live - The Guardian
-- Trump tells PBS News that 'lots of bombs start going off' if Iran ceasefire expires - PBS
-- Supreme Court takes up Catholic objection to Colorado's preschool program - NBC News
-- From Pulpits to Pews, Trump and the Pope Are on the Minds of Catholics - The New York Times
+- Trump administration begins accepting refunds on over $166bn in tariffs - The Guardian
+- Mass shooting at Winston-Salem park near middle school prompts lockdown: NC SBI - WLOS
+- Even Catholic Trump supporters feel conflicted over the president’s tiff with the pope - CNN
 - Epstein survivor says it's not too late to expose what happened at his New Mexico ranch - NBC News
-- Capitol agenda: FISA fight weighs on GOP priorities - Politico
-- 6 crew missing after U.S.-flagged ship found overturned in Pacific following powerful typhoon - CBS News
-- North Korea again tests cluster munitions in a launch observed by Kim and his daughter - NBC News
-- Bulgaria: Pro-Russia Rumen Radev on course to win election - dw.com
-- Starmer to Address UK Lawmakers on Mandelson Vetting - The New York Times
-- China warns against joint US, Philippines and Japan drills eroding regional trust - Reuters
-- Dow is flat even after Iran ceasefire setback as investors bet on eventual de-escalation: Live updates - CNBC
-- Lilly to acquire Kelonia Therapeutics to advance in vivo CAR-T cell therapies | Eli Lilly and Company - investor.lilly.com
-- Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes - The Guardian
+- 4 Drug Lab Investigators Die in Car Crash in Mexico - The New York Times
+- Supreme Court will decide if preschools that decline children of same-sex couples may receive state funding - CNN
+- Starmer Tells Parliament He Was Kept in the Dark on Mandelson Vetting - The New York Times
+- UK police arrest 2 in connection with weekend arson attack on synagogue - AP News
+- Hormuz shipping again near standstill after shots and seizure - Reuters
+- Bulgaria: Pro-Russia Rumen Radev wins ‌election - dw.com
+- Stocks fall on U.S.-Iran war uncertainty, though losses kept in check: Live updates - CNBC
+- Rivian’s factory hit by tornado ahead of R2 launch - TechCrunch
+- Exclusive | Bipartisan Senators Warn United and American Airlines on Potential Merger - WSJ
 - Blackstone-Backed Jersey Mike’s Submits Confidential IPO Filing - Bloomberg.com
 - Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support - Ars Technica
-- OnePlus just turned its next phone into an Android gaming handheld - Android Authority
+- Galaxy S24 and Fold 7 get Galaxy S26 AI features with latest One UI 8.5 beta - SamMobile
