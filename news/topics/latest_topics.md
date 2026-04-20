@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 05:57_
+_Updated: 2026-04-20 08:31_
 
 ## Top Stories
 
-- Trump: USA har attackerat iranskt fartyg - SVT Nyheter
-- DN Direkt – Åtta barn döda efter skjutning i USA - Dagens Nyheter
-- En död i ukrainsk attack - Västerbottens-Kuriren
-- Kraftig explosion i villaidyllen - Aftonbladet
-- ”Galningsteorin”: Trump gör som Nixon – för att skrämmas - TV4 Nyheterna
-- Tre döda i ny amerikansk narkotikaattack - Västerbottens-Kuriren
-- Brand i villa utanför Växjö – spred sig till övervåningen - SVT Nyheter
-- V-ledning förlorade om partiskatt – sänks inte - Corren
-- Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
-- Explosion vid flerfamiljshus i Malmö - Västerbottens-Kuriren
+- Iran: USA:s ”piratdåd” bryter mot vapenvilan - GP
+- Åtta barn dödade i skjutning: "Ofattbar tragedi" - Västerbottens-Kuriren
+- DN Direkt – Ytterdörr sprängd i Falkenberg - Dagens Nyheter
+- Vättern krymper – lägsta nivån på 23 år - Aftonbladet
+- Undersköterskorna om kaoset i Malmö: ”Överväger att sluta” - Sydsvenskan
+- En död i ukrainsk attack - GP
+- Tioåriga Tilda dog – nu anmäls behandlingen - Dagens Nyheter
+- Alex Schulman: Därför känner jag igen mig själv i Simona Mohamssons tv-fiasko - Dagens Nyheter
+- Ni måste sluta spela dumma om Vänsterpartiets krav på ministerposter - Arbetet
+- Brand i villa – tog sig från fasaden - Aftonbladet
+- Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
 - Valseger för nytt parti kan påverka Bulgariens Ukrainapolitik - SVT Nyheter
+- DN Direkt – Tre döda i ny amerikansk fartygsattack - Dagens Nyheter
 - Israel återöppnar bosättning på Västbanken - Västerbottens-Kuriren
-- Skör vapenvila i Libanon – Israel stärker buffert - Västerbottens-Kuriren
-- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
-- Günther Mårder lämnar styrelseuppdrag - Dagens Nyheter
-- Priset på olja stiger på nytt - Aftonbladet
-- Miljardsatsning i försvaret kan ge 48 000 nya jobb - Omni
-- Asiens börser inleder veckan med försiktiga kliv uppåt - Börskollen
+- Efter kursrekord – nu väntas nedgång på börsen - Aftonbladet
+- Bankerna vänder blad efter penningtvättsskandalerna - Dagens PS
+- Akta dig för att försöka tajma freden på börsen - Dagens PS
+- Oljepriset stiger på nytt efter helgens attacker - Omni
 - Forskning visar: Så åldras du på bästa sätt - Dagens Nyheter
-- Nya färgglada Iphone 18 Pro-serien - mobil.se
+- Jag har precis upptäckt appen Walk With Frodo i Garmins Connect IQ-butik och det är en dröm för alla LOTR-fans - TechRadar
 
 ## World News
 
 - ”Global kris” hotar – kamp mot klockan - Expressen
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Varningen: Kriget kan leda till global recession - Placera.se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2026-04-20 05:57_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 
 ## Business
 
@@ -96,24 +96,24 @@ _Updated: 2026-04-20 05:57_
 
 ## Health
 
-- Förvärv av RMS Medical Devices - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Förvärv av RMS Medical Devices - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
 
@@ -123,21 +123,21 @@ _Updated: 2026-04-20 05:57_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- Öppen vetenskap: ”En av nycklarna är meritering” - ju.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -152,13 +152,13 @@ _Updated: 2026-04-20 05:57_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- AI möter djurglädje – Bozita lanserar interaktiv upplevelse för sina besökare - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
