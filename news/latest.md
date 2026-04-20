@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 06:02_
+_Updated: 2026-04-20 08:35_
 
 - Oil prices jump after Trump says Iranian ship seized - BBC
-- Man kills 7 of his children and 1 other in mass shooting in Shreveport, Louisiana, police say - CBS News
+- Louisiana man kills 7 of his children, another child in mass shooting - Al Jazeera
 - Trump says US-Iran talks to continue Monday in Pakistan - Politico
-- What to know about tariff refund site that's set to go live Monday - Axios
-- ‘We’re Catholic first’: Sunday mass attendees weigh in on Trump’s feud with Pope Leo - The Guardian
 - Trump’s Disapproval Rating Grows As Iran War Remains Unpopular, Poll Finds - Forbes
-- Carney says Canada’s economic ties with US are a weakness that must be corrected - AP News
+- ‘We’re Catholic first’: Sunday mass attendees weigh in on Trump’s feud with Pope Leo - The Guardian
+- Bulgaria: Pro-Russian Radev set to win parliamentary vote - dw.com
+- Canada’s prime minister says economic ties with US are a weakness that must be corrected - Politico
+- U.S. Military Strikes a Boat in the Caribbean, Killing 3 - The New York Times
 - Democrats Eye a Broader Battlefield to Capture Congress in November - The New York Times
-- 3 students, 2 others shot near the University of Iowa, authorities say - Politico
-- Starmer battles for Downing Street future amid Mandelson vetting scandal - Financial Times
-- Hamas Officials Say Group Is Ready to Hand Over Some Weapons - The New York Times
-- Bulgaria election: Ex-President Radev’s party leads in early results - Al Jazeera
+- Hormuz standoff reignites, talks set in Pakistan on Monday - Euronews.com
+- British police are probing a shadowy Islamic group amid arson spree at Jewish sites - NBC News
+- UK's Starmer faces parliament over Mandelson vetting as resignation demands swirl - Reuters
+- North Korea again tests cluster munitions in a launch observed by Kim and his daughter - AP News
 - Pope prays at Catholic shrine in Angola that was a center of African slave trade - AP News
-- Oil prices jump after Strait of Hormuz setbacks - Axios
 - Blue Origin successfully reused its New Glenn rocket - The Verge
 - China keeps benchmark lending rates unchanged as economic growth revs up, Mideast risks loom - CNBC
-- Markets shudder as Strait of Hormuz starts resembling a combat zone. 'We're prepared to subject you to disabling fire' - Fortune
-- WWDC 2026 Graphic Teases Major iOS 27 Feature - MacRumors
-- The next Mac Studio and MacBook Pro releases could be postponed by several months - Engadget
-- Massive Intel Nova Lake leak reveals multiple chips with copious amounts of cache - Notebookcheck
+- Trump's energy boss: gas may stay above $3-per-gallon into 2027 - Axios
+- The NSA is reportedly using Anthropic's new model Mythos - Engadget
+- MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed' - MacRumors
+- Apple’s Revamped Siri Interface in iOS 27 Is Hidden in WWDC Teaser - Bloomberg.com
