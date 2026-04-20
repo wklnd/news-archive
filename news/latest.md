@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 14:48_
+_Updated: 2026-04-20 17:05_
 
-- US captures Iranian ship Touska amid mediation efforts: All we know - Al Jazeera
-- Live Updates: Risk of Iran war reigniting as Trump renews threats, Tehran says no plan to attend peace talks - CBS News
-- Shreveport, Louisiana shooting today: Father kills 7 of his children, plus another child, in mass shooting at house, police say - ABC7 Chicago
-- Major 7.5-magnitude quake hits off Japan, triggers tsunami warnings - Reuters
-- Trump Administration to Begin Refunding $166 Billion in Tariffs - The New York Times
-- The pope's English fuels a Trump feud - Axios
-- Republicans stare down a growing, neverending FISA crisis - Politico
-- 6 crew missing after U.S.-flagged ship found overturned in Pacific following powerful typhoon - CBS News
+- Oil prices jump after U.S. seizes Iranian vessel, imperiling ceasefire - The Washington Post
+- 8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say - CBS News
+- Japan earthquake: 7.7 magnitude quake triggers tsunami warning - BBC
+- Trump administration launches tariff refund system as first step in paying back billions – US politics live - The Guardian
+- Trump tells PBS News that 'lots of bombs start going off' if Iran ceasefire expires - PBS
+- Supreme Court takes up Catholic objection to Colorado's preschool program - NBC News
+- From Pulpits to Pews, Trump and the Pope Are on the Minds of Catholics - The New York Times
 - Epstein survivor says it's not too late to expose what happened at his New Mexico ranch - NBC News
-- Canada's prime minister says economic connection to the U.S. has shifted from a strength to a weakness - PBS
-- North Korea again tests cluster munitions in a launch observed by Kim and his daughter - AP News
-- Starmer Will Tell Parliament He Was Kept in the Dark on Mandelson Vetting - The New York Times
-- U.K police investigating if attacks in London are the work of Iranian proxies - NPR
+- Capitol agenda: FISA fight weighs on GOP priorities - Politico
+- 6 crew missing after U.S.-flagged ship found overturned in Pacific following powerful typhoon - CBS News
+- North Korea again tests cluster munitions in a launch observed by Kim and his daughter - NBC News
 - Bulgaria: Pro-Russia Rumen Radev on course to win election - dw.com
+- Starmer to Address UK Lawmakers on Mandelson Vetting - The New York Times
+- China warns against joint US, Philippines and Japan drills eroding regional trust - Reuters
+- Dow is flat even after Iran ceasefire setback as investors bet on eventual de-escalation: Live updates - CNBC
+- Lilly to acquire Kelonia Therapeutics to advance in vivo CAR-T cell therapies | Eli Lilly and Company - investor.lilly.com
 - Oil prices rise and markets fall after US seizure of ship hits Iran peace deal hopes - The Guardian
-- Stock futures decline as Iranian war tensions escalate: Live updates - CNBC
-- Wheels Up Wants High-End Travelers to See Flying Private as ‘Not So Far Out of Reach’ - WSJ
-- PTO, parental leave, pensions: Even the most prized benefits are on the chopping block - Business Insider
-- Lawsuits, licensing, and royalties are complicating 4K video support in gadgets - Ars Technica
-- Real photo of iPhone 18 Pro in new colors reveals two very welcome changes - PhoneArena
+- Blackstone-Backed Jersey Mike’s Submits Confidential IPO Filing - Bloomberg.com
+- Clarifying HEVC licensing fees, royalties, and why vendors kill HEVC support - Ars Technica
+- OnePlus just turned its next phone into an Android gaming handheld - Android Authority
