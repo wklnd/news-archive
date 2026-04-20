@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 01:04_
+_Updated: 2026-04-20 02:02_
 
 ## Top Stories
 
 - Trump: USA har attackerat iranskt fartyg - SVT Nyheter
 - Åtta barn ihjälskjutna i Louisiana - GP
 - Trump: USA till Pakistan för Iransamtal - Västerbottens-Kuriren
-- Nikolas bankkonto spärrades – nu saknar han pengar till mat och hyra - Sydsvenskan
 - Källor: Trump spelar instabil för att skrämma Iran - Omni
-- Ann utsatt för spökparkering: ”Obehagligt” - Aftonbladet
-- Här är de unga som vill påverka i politiken: ”Alla vill inte bli influencers” - Dagens Nyheter
+- Nikolas bankkonto spärrades – nu saknar han pengar till mat och hyra - Sydsvenskan
+- Skör vapenvila i Libanon – Israel stärker buffert - GP
 - V-ledning förlorade om partiskatt – sänks inte - Corren
-- Nooshi Dadgostar omvald till V-ledare - Altinget.se
-- Aguirre omvald till Vänsterpartiets partistyrelse - märsta.nu
-- Israel återöppnar bosättning på Västbanken - SVT Nyheter
-- Dåd i Kiev utreds som terror - Hufvudstadsbladet – HBL
+- Nooshi Dadgostar: Sverige ska bli starkt igen - Dagens Nyheter
+- Här är de unga som vill påverka i politiken: ”Alla vill inte bli influencers” - Dagens Nyheter
+- Explosion i Malmö sprängde hål i husvägg - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Israel återöppnar bosättning på Västbanken - Dagens Nyheter
 - Så blev Orbáns beundrare Péter Magyar hans värsta fiende - Dagens Nyheter
-- Skör vapenvila i Libanon – Israel stärker buffert - Västerbottens-Kuriren
+- ALEX VORONOV: Vi måste fortsätta hålla pressen uppe mot Ungern - UNT
+- Dåd i Kiev utreds som terror - Hufvudstadsbladet – HBL
 - Günther Mårder lämnar styrelseuppdrag - Dagens Nyheter
-- Uppgifter: EU vill se mer hemmajobb i energikrisen - SVT Nyheter
-- Larmet efter stormen Dave: Svårare att bekämpa skogsbränder - TTELA
+- Oljeexperten: Ransoneringen påbörjad – ”Kraftiga slag för världsekonomin” - Tidningen Näringslivet
+- Priset på olja stiger på nytt - Aftonbladet
 - Miljardsatsning i försvaret kan ge 48 000 nya jobb - Omni
-- Skarpa Android 17 kommer allt närmare - mobil.se
 - Nya färgglada Iphone 18 Pro-serien - mobil.se
+- Skarpa Android 17 kommer allt närmare - mobil.se
 
 ## World News
 
@@ -38,12 +38,12 @@ _Updated: 2026-04-20 01:04_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - New Secretary General appointed - Olof Palme International Center
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Varningen: Kriget kan leda till global recession - Placera.se
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
@@ -58,9 +58,9 @@ _Updated: 2026-04-20 01:04_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -73,22 +73,22 @@ _Updated: 2026-04-20 01:04_
 
 ## Business
 
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-04-20 01:04_
 
 ## Science
 
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
