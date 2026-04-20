@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 10:59_
+_Updated: 2026-04-20 13:06_
 
-- Oil prices jump after Trump says Iranian ship seized - BBC
-- Shreveport, Louisiana shooting today: Father kills 7 of his children plus another child in mass shooting at house, police say - ABC7 Chicago
-- What to know about tariff refund site that launches Monday - Axios
-- Trump says US-Iran talks to continue Monday in Pakistan - Politico
-- Bulgaria election: Ex-President Radev’s party leads in early results - Al Jazeera
-- ‘We’re Catholic first’: Sunday mass attendees weigh in on Trump’s feud with Pope Leo - The Guardian
-- Canada’s prime minister says economic ties with US are a weakness that must be corrected - Politico
-- U.S. Military Strikes a Boat in the Caribbean, Killing 3 - The New York Times
+- US navy attacks and seizes Iranian cargo ship, with peace talks due to take place in Pakistan - BBC
+- 8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say - CBS News
+- Strong earthquake hits off Japan’s coast, tsunami warning issued - CNN
+- Trump Administration to Begin Refunding $166 Billion in Tariffs - The New York Times
+- The pope's English fuels a Trump feud - Axios
+- Transcript: Former U.S. Attorney General Eric Holder on "Face the Nation with Margaret Brennan," April 19, 2026 - CBS News
+- Republicans stare down a growing, neverending FISA crisis - Politico
+- Canada's prime minister says economic connection to the U.S. has shifted from a strength to a weakness - PBS
 - Wisconsin authorities put total arrests from clashes at beagle breeding facility at about 25 - AP News
-- Five injured in UI shooting, police release images of persons of interest - KGAN
-- Powerful 7.4-magnitude earthquake strikes off Japan, tsunami alert issued - AP News
-- UK PM Starmer faces tough week as scandal over his Epstein-linked pick for US ambassador refuses to die down - CNN
-- British police are probing a shadowy Islamic group amid arson spree at Jewish sites - NBC News
+- Iran War Live Updates: Uncertainty Hangs Over U.S.-Iran Talks in Wake of Ship Seizure - WSJ
+- British Prime Minister Starmer faces angry lawmakers over Mandelson's appointment as ambassador - AP News
+- Bulgaria election: Ex-President Radev claims ‘victory’ after early results - Al Jazeera
 - North Korea launches multiple short-range ballistic missiles toward sea - Politico
-- Oil prices jump after Strait of Hormuz setbacks - Axios
-- China keeps benchmark lending rates unchanged as economic growth revs up, Mideast risks loom - CNBC
-- Blue Origin successfully reused its New Glenn rocket - The Verge
-- Stock market today: S&P 500, Nasdaq, Dow futures fall as US-Iran tensions flare up again to shutter Hormuz - Yahoo! Finance Canada
+- British police are probing a shadowy Islamic group amid arson spree at Jewish sites - NBC News
+- US stablecoins pose danger to emerging markets, say central bankers - Financial Times
+- Stock futures decline as Iranian war tensions escalate: Live updates - CNBC
+- Blue Origin Rocket Launches, Then Loses AST SpaceMobile BlueBird Satellite - PCMag
+- The Hot Hedge Fund Strategy Triggering a Pay Bonanza for Traders - Bloomberg.com
+- Real photo of iPhone 18 Pro in new colors reveals two very welcome changes - PhoneArena
 - MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed' - MacRumors
-- AI sets sights on touchy new frontier: Taste - Axios
