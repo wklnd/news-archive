@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-20 22:27_
+_Updated: 2026-04-20 23:31_
 
-- U.S. seizes Iranian cargo ship. And, tariff refund portal launches - NPR
+- Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO - Apple
+- Live updates: Pakistan prepares for upcoming peace talks despite US seizure of Iranian cargo ship - AP News
 - Shreveport, Louisiana officials identify 8 children killed in domestic shootings, confirm timeline - Fox News
-- Big Names Wait in the Wings as Virginians Decide Their House Maps - The New York Times
-- 2 dead after planned fight leads to mass shooting at Winston-Salem park: SBI - WLOS
-- Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon - BBC
-- FBI Director Kash Patel sues the Atlantic for $250M, alleging defamation - The Washington Post
+- Voters say they feel confused and misled on Virginia's redistricting vote - NPR
+- President Trump’s Landmark Order Advances Breakthrough Mental Health Treatments — Delivering New Hope to Veterans - The White House (.gov)
 - Trump Administration Takes Steps to Refund $166 Billion in Tariffs - The New York Times
-- The Onion Has a New Plan to Take Over Infowars - The New York Times
-- Democrat Betty Yee exits California governor's race - San Francisco Chronicle
-- Sen. Mark Warner's daughter dies of juvenile diabetes and other health issues at 36 - NBC News
+- Another Democrat Leaves the California Governor’s Race - The New York Times
+- The Onion plans to lease Alex Jones’s Infowars after judge blocks purchase - The Guardian
+- Planned fight between young people escalates to shooting that kills 2 at North Carolina park - AP News
+- Supreme Court takes up Catholic objection to Colorado's preschool program - NBC News
+- Mandelson files to exclude worst of UK’s private comments on Trump - politico.eu
 - Japan earthquake: 7.7 magnitude quake triggers tsunami warning - BBC
-- British Prime Minister Starmer faces angry lawmakers over Mandelson's appointment as ambassador - ABC News - Breaking News, Latest News and Videos
+- Gunman kills Canadian woman, wounds four at Mexico’s Teotihuacan pyramids - Reuters
 - Distress call captures tanker under fire as Iran shuts Strait of Hormuz and more top headlines - Fox News
-- UK police arrest 2 in connection with weekend arson attack on synagogue - AP News
-- Stock Market Today: Dow, Nasdaq Slip; Oil Climbs as Tensions in Gulf Continue — Live Updates - WSJ
-- Trump’s Fed Pick to Defend Central Bank’s Independence on Rate Setting - The New York Times
-- FAA grounds Blue Origin New Glenn after labeling mission a ‘mishap’ - Orlando Sentinel
+- Fed chair nominee Warsh set to commit to be ‘strictly independent’ on rates - Politico
+- Wall Street closes slightly down on renewed tensions between US, Iran - Reuters
 - Alarms sound in the cockpit as two Southwest jets fly dangerously close near Nashville International Airport - CNN
-- iOS 27 will drop support for four iPhone models, says leaker - 9to5Mac
-- Your Samsung phone just got a big upgrade for editing photos, videos, and documents - Android Authority
+- Trump says energy chief 'wrong,' expects lower gas prices as soon as Iran war ends - Reuters
+- Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent - Ars Technica
+- Samsung’s next pair of Galaxy Buds surface with apparent open-ear design - 9to5Google
