@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-20 12:19_
+_Updated: 2026-04-20 13:51_
 
 ## Top Stories
 
-- Ellevio tar bort effektavgiften - SVT Nyheter
-- Iran: USA:s ”piratdåd” bryter mot vapenvilan - GP
-- DN Direkt – Tsunamivarning i Japan: ”Evakuera så snabbt som möjligt” - Dagens Nyheter
-- Iranska UD: Inga planer på fler samtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Person häktad för grovt dataintrång och grovt sabotage - SVT Nyheter
+- Oklart om samtal mellan Iran och USA: ”Inga planer” - GP
+- Flera greps vid illegalt kampsportsevent i Varberg - polisen.se
 - Kanada trött på USA – söker nya allierade - Expressen
+- DN Direkt – SD föreslår haverikommission mot övergrepp i hemtjänsten - Dagens Nyheter
 - Brand i Vilsta industriområde i Eskilstuna – kraftig rökbildning - SVT Nyheter
 - Ytterligare ett fall med kritiserade hjärtläkaren – tioårig flicka dog - SVT Nyheter
-- DN Direkt – Kub-test försvinner – ersätts i flera regioner - Dagens Nyheter
 - Pojken: ”Han hade värsta mördarblicken” - Dagens Nyheter
-- Explosion i Falkenberg - GP
-- Valvinnaren i Bulgarien tonar ner den proryska retoriken - Dagens Nyheter
-- Bråkade om skilsmässa innan dådet: ”Han mördade sina barn – han sköt sin fru” - Omni
+- Ni måste sluta spela dumma om Vänsterpartiets krav på ministerposter - Arbetet
+- Busch: Rätten till renskötsel inte rimlig - GP
+- Egen majoritet för ex-president i Bulgarien - GP
+- Iranska UD: Inga planer på fler samtal med USA – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Tsunamivarning i Japan: ”Evakuera så snabbt som möjligt” - Dagens Nyheter
 - Trumpvän kan ta över i Slovenien - Aftonbladet
-- En död i ukrainsk attack - GP
-- Risk för ransonering: ”Osthyvelsprincip” - Aftonbladet
-- Glädjebeskedet: Priset på kaffe sjunker rejält - Expressen
-- VD SER POTENTIAL FÖR ATT VÄXA MARKNADEN FÖR GLP-1 - Placera.se
-- Oljepriset stiger på nytt efter helgens attacker - Omni
-- Julturné för Arvingarna i vinter - Västerbottens-Kuriren
-- iOS 27 kan göra det enklare att ändra layouten på hemskärmen - Teknikveckan
+- Myndigheten om ransonering: Frivilligt till en början - Sveriges Radio
+- Finansprofilen Günther Mårder överklagar häktning - Omni
+- Unga akademiker pressas av AI – lösningen är inte färre utbildningar - Affärsvärlden
+- Kontanter värdelösa i butik – tusentals svenskar fast i bank - Dagens PS
+- Kraftig ökning av appar i appbutikerna – AI bakom uppgången - Computer Sweden
+- iOS 27 kan få ångra-knapp för hemskärmen. Bara sisådär 19 år för sent. - feber.se
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:20 - TV.nu
 - ”Global kris” hotar – kamp mot klockan - Expressen
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Lissabon i centrum för global innovation - The Portugal News
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
 
 ## Technology
@@ -63,12 +63,12 @@ _Updated: 2026-04-20 12:19_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
@@ -76,13 +76,13 @@ _Updated: 2026-04-20 12:19_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -91,31 +91,31 @@ _Updated: 2026-04-20 12:19_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Strandbacka Medical har säkrat finansiering för en första pilotstudie av PERIsign - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
