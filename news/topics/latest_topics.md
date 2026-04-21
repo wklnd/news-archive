@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-21 16:15_
+_Updated: 2026-04-21 17:52_
 
 ## Top Stories
 
-- Källor: JD Vance till Iransamtal i Pakistan - GP
-- USA har bordat oljetanker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Utreder mord – kvinnan har avlidit - Norran
-- Man anhållen efter brand i Hjärup - GP
+- Carl Fridh Kleberg: De vinner på en vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kraftig brand radhuslänga på Sofielund: ”Fullt utvecklad” - Sydsvenskan
+- USA: Irankopplad oljetanker bordad - Västerbottens-Kuriren
 - Michael Winiarski: Trumps spel skymmer förvirringen kring krigets egentliga mål - Dagens Nyheter
-- Ebba Buschs svar om sin ”spelbarhet”: ”Skulle aldrig” - Omni
-- Poliser beskjutna i trapphus i Husby - Dagens Nyheter
-- Sex parkerade bilar brann i natt - Expressen
-- Region Dalarna efter dödsfallet: Orsakades delvis av journalsystembyte - SVT Nyheter
+- Ukraina hoppas på lån – men kan dröja till i maj - GP
+- Debatt: Är skogsavverkningen ett problem för den biologiska mångfalden? - Sveriges Radio
+- DN Direkt – Barn lekte med handgranat – man döms - Dagens Nyheter
+- Skott mot polis i Stockholm – man gripen - GP
+- Nya regler för bastur i Stockholm – medlemskap slopas - Dagens Nyheter
 - Risk för låga grundvattennivåer i Skåne - Västerbottens-Kuriren
-- Tolv fartyg genom Hormuzsundet – på ett dygn – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Amnesty: Världen ”på randen till farlig ny era” - GP
 - Två palestinier dödade av bosättare - Aftonbladet
+- Dödlig rysk attack mot Ukraina - Corren
 - Elon Musk uteblev från förhör – kallar åklagaren ”marionett” - Dagens Nyheter
-- Åklagare tror på färre åtal efter Bonnesen-domen - finanswatch.se
+- Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
 - Apples vd Tim Cook avgår – ersätts av John Ternus - Computer Sweden
 - Analytiker varnar: Utbudschock speglas inte i oljepriserna - EFN
 - Priset på kondomer väntas rusa - SVT Nyheter
-- Över 1000 skräp på väg till jobbet – ny rapport om nedskräpning i Sverige - Via TT
+- Hälften av ny musik på Deezer är skapad med AI - Omni
 - För användare med Android-enheter: Vi upphör med stöd för Android 8 - frejaeid.com
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - Tv.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
@@ -46,7 +46,7 @@ _Updated: 2026-04-21 16:15_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -54,11 +54,11 @@ _Updated: 2026-04-21 16:15_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
