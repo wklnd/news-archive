@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 00:24_
+_Updated: 2026-04-22 01:24_
 
 - Live Updates: Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains - CBS News
-- Sheila Cherfilus-McCormick resigns from Congress after campaign finance charges - BBC
-- Southern Poverty Law Center says it faces DOJ probe over paid informants - The Washington Post
-- Teotihuacán Gunman Carried Notes Related to Past U.S. Mass Shootings - The New York Times
 - Live Results: Virginia redistricting special election - PBS
-- Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua - Al Jazeera
-- Louisiana gunman who killed eight children masked his rage before rampage - The Washington Post
-- Florida Opens Criminal Inquiry Into ChatGPT Tied to Fatal School Shooting - The New York Times
+- Florida Democrat Rep. Sheila Cherfilus-McCormick, facing possible expulsion, resigns - NPR
+- Teotihuacán Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings - The New York Times
+- DOJ indictment accuses Southern Poverty Law Center of fraud in secretly funding extremist groups - CNBC
+- US forces board a sanctioned oil tanker in the Indian Ocean, the Pentagon says - AP News
+- Louisiana man charged with lying to authorities about gun used in mass shooting - NBC News
+- Florida Inquiry Into ChatGPT’s Role in FSU Shooting Shifts to Criminal Investigation - The New York Times
 - Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation - The New York Times
-- Trump’s surgeon general pick faces mounting GOP opposition - Politico
-- Fired official says Starmer’s office pushed for clearance of Epstein-linked envoy - The Washington Post
+- Trump fought to keep the ballroom fundraising contract secret. Here’s what’s in it. - The Washington Post
+- Fired U.K. Official Describes ‘Pressure’ to Expedite Envoy’s Appointment - The New York Times
 - EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line - Kyiv Post
-- Israeli soldiers punished over vandalism of Jesus statue in Lebanon - BBC
-- Japan Scraps Most Curbs on Exporting Weapons in Historic Shift - Bloomberg.com
-- Kevin Warsh Hearing: Trump's Nominee Pressed on Disclosures, Fed Independence — Live Updates - WSJ
-- Tim Cook is stepping down as CEO of Apple. Here's a look at his 15-year legacy, from new products and services to China expansion. - TechCrunch
-- Michael and Susan Dell to donate $750 million to UT Austin to fund new medical campus - CNBC
-- New York sues prediction markets Coinbase and Gemini Titan, calls their operations gambling - Reuters
-- Microsoft removes Call of Duty from Game Pass, lowers subscription pricing - Ars Technica
+- Lebanon PM backs Israel talks, will not allow Hezbollah 'intimidation' - ynetnews
+- Mass murder trial in El Salvador for almost 500 alleged MS-13 members - CBS News
+- Trump’s Fed pick grilled by Senate panel, with confirmation still in limbo - The Washington Post
+- Meet John Ternus, the 51-year-old former swimming champ who will succeed Tim Cook as Apple CEO - Fortune
+- Stocks close lower as Iran ceasefire deadline looms amid threat of canceled talks - CNBC
+- Michael and Susan Dell Surpass $1 Billion in Giving to UT Austin - The University of Texas at Austin
+- Xbox cuts Game Pass prices but new Call of Duty games will no longer hit the service on day one - Engadget
 - Google now lets you have full conversations with Gemini for Home - Engadget
