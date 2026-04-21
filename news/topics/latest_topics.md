@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-21 23:11_
+_Updated: 2026-04-22 00:08_
 
 ## Top Stories
 
-- Trump meddelar amerikansk förlängning av vapenvilan - GP
-- Direkt – Krisen i Mellanöstern – Iran uppmanar FN att fördöma båtattack - Dagens Nyheter
+- Trump: Förlänger vapenvilan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukraina hoppas på lån – men kan dröja till i maj - GP
 - Ingen simskola för dömda barn - Västerbottens-Kuriren
+- Kraftig brand i radhuslänga i Malmö – flera lägenheter förstörda - Sydsvenskan
 - Ryskt mordförsök mot rådgivare i Ukraina: ”Knappast en slump” - Dagens Nyheter
-- Kraftig brand i radhuslänga på Sofielund - Sydsvenskan
+- Tvångsvårdades tidigare – nu misstänkt för att ha mördat kvinna - Aftonbladet
 - Barn lekte med handgranat – man döms - Västerbottens-Kuriren
-- DN Direkt – Kvinna död i Skellefteå – man begärs häktad - Dagens Nyheter
 - M vill höja antalet ordningsvakter med 600 procent - Dagens Nyheter
 - Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
-- Hotet från Iran – här bevakas synagogor av militär - Dagens Nyheter
-- Hur fungerar vardagen i Ukraina – många män flyr landet den här vägen. – Senaste nytt om kriget i Ukraina - SVT Nyheter
+- Risk för låga grundvattennivåer i Skåne - GP
+- EU utvidgar sanktionerna mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Över 140 drönare – 25 skadade i Ukraina - Hufvudstadsbladet – HBL
 - Israel inför ”gul linje” i södra Libanon: ”Mycket oroande” - Dagens Nyheter
 - Sandra Stiskalo: I Londons hjärta är hånskratt och ohyfs vardag - Dagens Nyheter
 - Lufthansa ställer in 20 000 avgångar - GP
 - Trumps Fed-kandidat Kevin Warsh grillades om oberoende - SVT Nyheter
 - Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
-- Varningen: Irankriget kan påverka globala efterfrågan - Sveriges Radio
+- Apples avgående vd: "Frisk" och planerar lång tid som ordförande - EFN
 - Meteorregn lyser upp himlen – når kulmen i natt - Aftonbladet
 - Fler av livets byggstenar har hittats på Mars - Sydsvenskan
 
@@ -39,37 +39,37 @@ _Updated: 2026-04-21 23:11_
 - New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-04-21 23:11_
 
 - Förvärv av RMS Medical Devices - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -155,8 +155,8 @@ _Updated: 2026-04-21 23:11_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
