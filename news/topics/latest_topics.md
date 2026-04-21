@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-21 10:17_
+_Updated: 2026-04-21 12:00_
 
 ## Top Stories
 
 - Källor: JD Vance till Pakistan för Iransamtal - Västerbottens-Kuriren
-- Uppdatering i ärende om mord m.m. i Rönninge, Salems kommun - Åklagarmyndigheten
-- Presskonferens om sommarens vattensituation - SVT Nyheter
-- Så kan Tiktok och AI påverka valet - Dagens Nyheter
-- 70 miljarder dollar under 10 år – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Evakuerade kan inte flytta hem – lägenheter totalförstörda i brand - Sveriges Radio
+- Experten: Tre scenarion för dagens fredssamtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Strömavbrott på Skansen – tvingas hålla stängt - Dagens Nyheter
+- Trump-minister lämnar – uppgifter om utredning - EFN
+- C: Tror Busch är spelbar om Tidö faller - Västerbottens-Kuriren
+- Minst fem döda i attacker i Gaza - GP
+- Risk för låga grundvattennivåer i Skåne - Västerbottens-Kuriren
+- Åklagaren begär mer tid i Rönningefallet - Västerbottens-Kuriren
 - Falska budskap om vindkraft – Sverige sticker ut i Europa - Sveriges Radio
-- Barnbidrag kan betalas ut felaktigt – i flera år - Sveriges Radio
-- Andelen elever i anpassad grundskola ökar – ”Vi har inte en entydig förklaring” - Dagens Nyheter
-- Vänsterpartiets vågspel - Dagens Arena
-- Amnesty: Världen ”på randen till farlig ny era” - GP
+- Man tömde brandsläckare på SL-buss – kvinna fick hjärnskakning - Dagens Nyheter
 - Rapport: Sexuellt våld tvingar bort palestinier - Västerbottens-Kuriren
 - Dödlig rysk attack mot Ukraina - Corren
-- Bulgariens valvinnare tonar ner det proryska - Hufvudstadsbladet – HBL
-- Swedbanks tidigare vd Birgitte Bonnesen frias - ETC.se
+- Amnesty: Världen ”på randen till farlig ny era” - GP
+- Misstänkt mordförsök i Bromölla – attackerades med tillhygge - Sveriges Radio
+- Chefsjuristens förvåning: ”Nu blir det väldigt svårt” - EFN
 - Apples vd Tim Cook avgår – ersätts av John Ternus - Computer Sweden
-- Investor slog börsen: ”If we snooze, we lose” - DI
-- Så förändrade börsrevolutionen din och hela Sveriges ekonomi - Dagens Nyheter
+- Rekordresultat för Avanza – som nu planerar satsning i Danmark - Sak & Liv
+- Investor slår Stockholmsbörsen - Västerbottens-Kuriren
+- Socialt stöd kan hjälpa äldre att förbli självständiga trots kognitiv försämring - Karolinska Institutet
 - Microsoft släpper nöduppdateringar för fel i Windows Server - Computer Sweden
-- Hälsoföretag ett av företagen som startats i Umeå senaste veckan - Västerbottningen
 
 ## World News
 
@@ -34,16 +34,16 @@ _Updated: 2026-04-21 10:17_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- ”Global kris” hotar – kamp mot klockan - Expressen
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Umeå children in worldwide school project on AI - Umeå universitet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Lissabon i centrum för global innovation - The Portugal News
@@ -54,7 +54,6 @@ _Updated: 2026-04-21 10:17_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -70,6 +69,7 @@ _Updated: 2026-04-21 10:17_
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -96,23 +96,23 @@ _Updated: 2026-04-21 10:17_
 
 ## Health
 
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
@@ -152,8 +152,8 @@ _Updated: 2026-04-21 10:17_
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- De gick från reko till eko - ST-tidningen
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Lediga jobb - Land Lantbruk
