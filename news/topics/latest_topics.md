@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 00:08_
+_Updated: 2026-04-22 01:24_
 
 ## Top Stories
 
-- Trump: Förlänger vapenvilan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ukraina hoppas på lån – men kan dröja till i maj - GP
-- Ingen simskola för dömda barn - Västerbottens-Kuriren
+- Trump meddelar amerikansk förlängning av vapenvilan - GP
 - Kraftig brand i radhuslänga i Malmö – flera lägenheter förstörda - Sydsvenskan
-- Ryskt mordförsök mot rådgivare i Ukraina: ”Knappast en slump” - Dagens Nyheter
-- Tvångsvårdades tidigare – nu misstänkt för att ha mördat kvinna - Aftonbladet
+- JUST NU: "Inom 24 timmar" – jättebesked för Ukraina nära - Marcus Oscarsson
+- USA: Irankopplad oljetanker bordad - Folkbladet
+- Ingen simskola för dömda barn - Västerbottens-Kuriren
+- Iran: Öppnar inte sundet om inte blockaden hävs - Omni
 - Barn lekte med handgranat – man döms - Västerbottens-Kuriren
-- M vill höja antalet ordningsvakter med 600 procent - Dagens Nyheter
+- DN Direkt – Kvinna död i Skellefteå – man begärs häktad - Dagens Nyheter
 - Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
 - Risk för låga grundvattennivåer i Skåne - GP
-- EU utvidgar sanktionerna mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Över 140 drönare – 25 skadade i Ukraina - Hufvudstadsbladet – HBL
+- Ryskt mordförsök mot rådgivare i Ukraina: ”Knappast en slump” - Dagens Nyheter
 - Israel inför ”gul linje” i södra Libanon: ”Mycket oroande” - Dagens Nyheter
 - Sandra Stiskalo: I Londons hjärta är hånskratt och ohyfs vardag - Dagens Nyheter
+- Han vann valet i Bulgarien - 8 Sidor
 - Lufthansa ställer in 20 000 avgångar - GP
-- Trumps Fed-kandidat Kevin Warsh grillades om oberoende - SVT Nyheter
 - Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
+- Trumps Fed-kandidat Kevin Warsh grillades om oberoende - SVT Nyheter
 - Apples avgående vd: "Frisk" och planerar lång tid som ordförande - EFN
 - Meteorregn lyser upp himlen – når kulmen i natt - Aftonbladet
-- Fler av livets byggstenar har hittats på Mars - Sydsvenskan
+- Fler av livets byggstenar har hittats på Mars - Västerbottens-Kuriren
 
 ## World News
 
@@ -52,24 +52,24 @@ _Updated: 2026-04-22 00:08_
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - DI
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,24 +97,24 @@ _Updated: 2026-04-22 00:08_
 ## Health
 
 - Förvärv av RMS Medical Devices - it-halsa.se
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
@@ -152,13 +152,13 @@ _Updated: 2026-04-22 00:08_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
