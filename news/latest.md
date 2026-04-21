@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-21 23:28_
+_Updated: 2026-04-22 00:24_
 
-- Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government - CNBC
-- House Democrat Sheila Cherfilus-McCormick resigns amid ethics investigation - The Guardian
-- Two CIA officers die in Mexico accident after counternarcotics operation - The Washington Post
-- Tucker Carlson Says He's "Sorry For Misleading People" To Back Trump - Deadline
-- Live Results: Virginia redistricting special election - PBS
 - Live Updates: Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains - CBS News
+- Sheila Cherfilus-McCormick resigns from Congress after campaign finance charges - BBC
+- Southern Poverty Law Center says it faces DOJ probe over paid informants - The Washington Post
+- Teotihuacán Gunman Carried Notes Related to Past U.S. Mass Shootings - The New York Times
+- Live Results: Virginia redistricting special election - PBS
+- Two CIA agents reportedly killed in car crash in Mexican state of Chihuahua - Al Jazeera
 - Louisiana gunman who killed eight children masked his rage before rampage - The Washington Post
-- Trump Encourages Companies Not to Seek Tariff Refunds - Bloomberg.com
+- Florida Opens Criminal Inquiry Into ChatGPT Tied to Fatal School Shooting - The New York Times
 - Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation - The New York Times
-- Florida launches ‘criminal investigation’ into ChatGPT, fueled by FSU shooting - Politico
-- Fired former UK official says he felt political pressure to approve Mandelson as US ambassador - AP News
-- Survivors of Teotihuacan pyramid shooting recount daring escape - Los Angeles Times
+- Trump’s surgeon general pick faces mounting GOP opposition - Politico
+- Fired official says Starmer’s office pushed for clearance of Epstein-linked envoy - The Washington Post
+- EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line - Kyiv Post
 - Israeli soldiers punished over vandalism of Jesus statue in Lebanon - BBC
 - Japan Scraps Most Curbs on Exporting Weapons in Historic Shift - Bloomberg.com
 - Kevin Warsh Hearing: Trump's Nominee Pressed on Disclosures, Fed Independence — Live Updates - WSJ
-- Apple’s Cook Says He’s ‘Healthy,’ Will Be Chairman for Long Time - Bloomberg.com
-- S&P 500 falls as oil jumps on fear Iran negotiations breaking down: Live updates - CNBC
-- Michael and Susan Dell Surpass $1 Billion in Giving to UT Austin - The University of Texas at Austin
-- Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games - The Verge
-- Framework Laptop 13 Pro is the first major revision to the original Framework Laptop - Ars Technica
+- Tim Cook is stepping down as CEO of Apple. Here's a look at his 15-year legacy, from new products and services to China expansion. - TechCrunch
+- Michael and Susan Dell to donate $750 million to UT Austin to fund new medical campus - CNBC
+- New York sues prediction markets Coinbase and Gemini Titan, calls their operations gambling - Reuters
+- Microsoft removes Call of Duty from Game Pass, lowers subscription pricing - Ars Technica
+- Google now lets you have full conversations with Gemini for Home - Engadget
