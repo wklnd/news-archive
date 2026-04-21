@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-21 22:27_
+_Updated: 2026-04-21 23:11_
 
 ## Top Stories
 
-- Lufthansa ställer in 20 000 avgångar - GP
-- Expert: Trumps utspel försvårar förhandlingar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Så kan Tiktok och AI påverka valet - Dagens Nyheter
-- L-ledaren inte orolig för dömda barns skolgång - Omni
-- Risk att brand i Malmö sprids: ”Kämpar för fullt” - Aftonbladet
+- Trump meddelar amerikansk förlängning av vapenvilan - GP
+- Direkt – Krisen i Mellanöstern – Iran uppmanar FN att fördöma båtattack - Dagens Nyheter
 - Ukraina hoppas på lån – men kan dröja till i maj - GP
-- Barn lekte med handgranat – man döms - Västerbottens-Kuriren
-- M vill höja antalet ordningsvakter med 600 procent - Dagens Nyheter
-- Man häktad för mord på kvinna - GP
-- Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
+- Ingen simskola för dömda barn - Västerbottens-Kuriren
 - Ryskt mordförsök mot rådgivare i Ukraina: ”Knappast en slump” - Dagens Nyheter
+- Kraftig brand i radhuslänga på Sofielund - Sydsvenskan
+- Barn lekte med handgranat – man döms - Västerbottens-Kuriren
+- DN Direkt – Kvinna död i Skellefteå – man begärs häktad - Dagens Nyheter
+- M vill höja antalet ordningsvakter med 600 procent - Dagens Nyheter
+- Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
 - Hotet från Iran – här bevakas synagogor av militär - Dagens Nyheter
+- Hur fungerar vardagen i Ukraina – många män flyr landet den här vägen. – Senaste nytt om kriget i Ukraina - SVT Nyheter
 - Israel inför ”gul linje” i södra Libanon: ”Mycket oroande” - Dagens Nyheter
-- Över 140 drönare – 25 skadade i Ukraina - Västerbottens-Kuriren
-- Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
+- Sandra Stiskalo: I Londons hjärta är hånskratt och ohyfs vardag - Dagens Nyheter
+- Lufthansa ställer in 20 000 avgångar - GP
 - Trumps Fed-kandidat Kevin Warsh grillades om oberoende - SVT Nyheter
-- Apples vd Tim Cook avgår – ersätts av John Ternus - Computer Sweden
+- Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
 - Varningen: Irankriget kan påverka globala efterfrågan - Sveriges Radio
-- Fler av livets byggstenar har hittats på Mars - Aftonbladet
 - Meteorregn lyser upp himlen – når kulmen i natt - Aftonbladet
+- Fler av livets byggstenar har hittats på Mars - Sydsvenskan
 
 ## World News
 
@@ -56,8 +56,8 @@ _Updated: 2026-04-21 22:27_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
 - Är mjukvaruteknik övermättad 2025? - HackerNoon
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -96,26 +96,26 @@ _Updated: 2026-04-21 22:27_
 
 ## Health
 
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Förvärv av RMS Medical Devices - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 
 ## Science
 
@@ -128,16 +128,16 @@ _Updated: 2026-04-21 22:27_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
