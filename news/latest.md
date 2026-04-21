@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-21 12:05_
+_Updated: 2026-04-21 13:43_
 
 - A deal to end the Iran war seemed close. Then Trump started posting on social media - CNN
+- Dems brace for a close finish on Virginia redistricting effort - Politico
 - Relatives of mass shooting victims in Louisiana pray for end to domestic violence - The Washington Post
-- Trump labor secretary Lori Chavez-DeRemer resigns amid misconduct investigation - The Guardian
-- FBI Director Kash Patel sues The Atlantic for article that alleged excessive drinking - PBS
-- $166 billion in tariff refunds just became available, but small businesses may already be at a disadvantage - Fortune
-- Japan lifts ban on lethal weapons exports in major shift of pacifist policy - Al Jazeera
-- Iran talks on shaky footing after U.S. seizure of ship in Strait of Hormuz - The Washington Post
-- George Ariyoshi, first US governor of Asian American descent, dies at 100 - Politico
+- Lori Chavez-DeRemer, Trump’s Labor Secretary, Steps Down Amid Internal Investigation - The New York Times
 - What a US destroyer shooting a cargo ship's engine out reveals about how the Navy is handling Iran blockade runners - Business Insider
-- From Attila the Hun to Donald J. Trump: A brief history of popes battling world leaders - politico.eu
 - Gunman shoots several tourists at historic pyramids in Mexico - NPR
+- House Democrats prepare to abandon Rep. Sheila Cherfilus-McCormick en masse - Axios
+- Governor’s race wildly unpredictable two weeks before Californians receive ballots - Los Angeles Times
+- Former Hawaii Gov. George Ariyoshi, first U.S. governor of Asian American descent, dies at 100 - NBC News
+- How the Cole Disaster Drove the U.S. to Develop New Warship Defenses - The New York Times
 - Japan on high alert for 'huge' second earthquake after lifting tsunami warning - BBC
-- Did Pope Leo find his voice in Africa? Or did the world finally hear him? - AP News
-- Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria - NBC News
-- Tim Cook Will Step Down as Apple C.E.O. - The New York Times
-- Trump’s Federal Reserve chair pick to face lawmakers at key confirmation hearing – US politics live - The Guardian
-- Oil falls on expectations US-Iran talks likely to proceed, opening supply By Reuters - Investing.com
-- Uber loses another US driver sex assault trial, ordered to pay $5,000 - Reuters
+- Japan Scraps Most Curbs on Weapons Exports in Historic Shift Since World War II - Bloomberg.com
+- Exclusive: Russia to halt Kazakhstan's oil flows to Germany via Druzhba, sources say - Reuters
+- Meet John Ternus, the 51-year-old former swimming champ who will succeed Tim Cook as Apple CEO - Fortune
+- Oil Prices Recede and Stocks Gain as Investors Eye Peace Talks - The New York Times
+- 3 things to know about Fed chair nominee Kevin Warsh - NPR
+- I rated Tim Cook a 'loser' in 2013. He proved me — and Silicon Valley — wrong. - Business Insider
 - Deezer says AI song uploads have nearly overtaken human music - The Verge
-- New Microsoft Pro and Surface Laptop release delay rumoured - Notebookcheck
+- Prego Has a Dinner-Conversation-Recording Device, Capisce? - WIRED
+- Galaxy Z Fold 8 Wide Listed with Snapdragon 8 Gen 5 and One UI 9 - Geeky Gadgets
