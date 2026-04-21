@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-21 17:00_
+_Updated: 2026-04-21 18:39_
 
-- A deal to end the Iran war seemed close. Then Trump started posting on social media - CNN
+- Middle East crisis live: Trump says he does not want to extend ceasefire with Iran - The Guardian
 - Woman and child jumped off roof to escape deadly Louisiana shooting - BBC
-- What a US destroyer shooting a cargo ship's engine out reveals about how the Navy is handling Iran blockade runners - Business Insider
-- U.S. delegation set to leave for Islamabad as Iran ceasefire nears expiration - The Washington Post
+- Two CIA officers die in Mexico accident after counternarcotics operation - The Washington Post
 - Dems brace for a close finish on Virginia redistricting effort - Politico
-- Iran diplomacy wobbles as factions compete to avoid looking soft on US - ایران اینترنشنال
 - Ethics panel to decide penalty for Rep. Sheila Cherfilus-McCormick over theft allegations - CBS News
-- Lori Chavez-DeRemer, Trump’s Labor Secretary, Steps Down Amid Internal Investigation - The New York Times
-- Here's Why You Won't See Any Of Those Tariff Refunds - Forbes
-- Florida’s Attorney General announces criminal investigation into OpenAI - NBC News
+- Vance to travel to Pakistan on Tuesday for Iran talks, sources say - Axios
+- Live: Trump pick Kevin Warsh faces Senate hearing to replace Powell as Fed Chair - BBC
+- Graham releases blueprint for GOP immigration enforcement funding plan - Politico
+- This is how Democrats say Oversight Republicans are trying to quash the Epstein investigation - Politico
+- Gilgo Beach serial killer Rex Heuermann told his ex-wife he killed 7 of the victims in their shared home, documentary says - NBC News
 - Gunman shoots several tourists at historic pyramids in Mexico - NPR
-- Japan Scraps Most Curbs on Weapons Exports in Historic Shift Since World War II - Bloomberg
-- Mass trial for 486 alleged MS-13 gang leaders begins in El Salvador - BBC
+- Japan Scraps Most Curbs on Exporting Weapons in Historic Shift - Bloomberg
 - How the Cole Disaster Drove the U.S. to Develop New Warship Defenses - The New York Times
-- Kevin Warsh Hearing Live: Trump's Fed Chair Nominee to Face Questions from Senators — Li - WSJ
+- EU top court strikes down Hungary’s anti-LGBTQ+ rules - politico.eu
 - Apple Bets New CEO John Ternus Will Bring Back Jobs-Era Decisiveness - Bloomberg
-- Dow rises 200 points as Trump predicts a deal with Iran before ceasefire expires: Live updates - CNBC
-- Retail sales post biggest jump in more than 3 years on record spike in gas prices - CNN
-- They Built a Legendary Privacy Tool. Now They’re Sworn Enemies - WIRED
+- S&P 500 moves into the red as oil rises ahead of Iran ceasefire deadline: Live updates - CNBC
+- Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines - The New York Times
+- Record surge in gasoline receipts boosts US retail sales in March - Reuters
+- Microsoft Teams is trying to fix accidental hand-raising - The Verge
 - Apple Is Working On A High-Resolution Camera Upgrade That Its Chinese Competitors Have Been Investing Millions To Implement - Wccftech
