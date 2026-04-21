@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-21 19:39_
+_Updated: 2026-04-21 20:43_
 
-- Trump threatens more US strikes in Iran as ceasefire deadline looms - Politico
-- Vance's Pakistan trip on hold as Iran refuses to commit to peace talks - Axios
-- Sen. Chris Murphy applauds Iranian ships against U.S. Navy - Jewish Insider
+- Rep. Cherfilus-McCormick resigns, third House member to quit this month - CNBC
+- Trump accuses Iran of 'numerous' ceasefire violations as deadline looms, Pakistan talks uncertain - Fox News
+- Two CIA officers die in Mexico accident after counternarcotics operation - The Washington Post
+- Dem Sen. Chris Murphy bizarrely applauds disputed report that Iran broke through US blockade: ‘Shameful’ - New York Post
+- Many Americans question Trump’s temperament amid Iran war, pope spat: Reuters/Ipsos poll - Reuters
 - Tucker Carlson says he regrets backing Donald Trump and is ‘tormented by it’ - The Guardian
-- 2 Americans Killed in Mexico Crash Were C.I.A. Members - The New York Times
-- US military service members will no longer be required to get annual flu shot - The Guardian
-- Woman and child jumped off roof to escape deadly Louisiana shooting - BBC
-- Senate Republicans unveil budget resolution, kickstarting reconciliation process to fund ICE - CBS News
-- Florida Inquiry Into ChatGPT’s Role in FSU Shooting Shifts to Criminal Investigation - The New York Times
+- 2 women remain critical after mass shooting that killed 8 Shreveport children - WDSU
+- Graham releases blueprint for GOP immigration enforcement funding plan - Politico
 - Gilgo Beach serial killer Rex Heuermann told his ex-wife he killed 7 of the victims in their shared home, documentary says - NBC News
+- Virginians vote on redrawing congressional map to favor Democrats - The Washington Post
 - Mexico’s famous Teotihuacan pyramids are closed after gunman opens fire on tourists - AP News
-- Japan lifts post-World War II ban on lethal weapons exports - The Washington Post
-- How the Cole Disaster Drove the U.S. to Develop New Warship Defenses - The New York Times
-- Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon - BBC
+- New testimony raises pressure on UK's Starmer over choice of envoy to US - Reuters
+- Japan Scraps Most Curbs on Exporting Weapons in Historic Shift - Bloomberg.com
+- Lebanon PM and Macron to discuss bolstering country's position in Israel talks - The Jerusalem Post
+- Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts - CNBC
 - Apple Bets New CEO John Ternus Will Bring Back Jobs-Era Decisiveness - Bloomberg.com
-- Kevin Warsh Hearing: Trump's Fed Chair Nominee Faces Questions — Live Updates - WSJ
-- Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines - The New York Times
-- Long-Haul Flight Fares Soar as Iran War Hits European Aviation Hard - Crude Oil Prices Today | OilPrice.com
+- Amazon launches comprehensive GLP-1 program with One Medical - Axios
+- Airlines are about to run out of jet fuel because of the Iran war - CNN
 - Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games - The Verge
 - Former Pinterest team redesigns email with Extra — and it’s actually good - TechCrunch
