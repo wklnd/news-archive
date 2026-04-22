@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 10:18_
+_Updated: 2026-04-22 12:05_
 
 - Trump gives Iran days to end power struggle, return to peace talks - Axios
-- Virginia Redistricting Referendum 2026 Live Results - NBC News
-- DOJ charges Southern Poverty Law Center over paid informants - The Washington Post
-- Rep Sheila Cherfilus-McCormick resigns from Congress after criminal charges - BBC
-- Judge dismisses Kash Patel's defamation lawsuit over claim he frequented 'nightclubs' - CNBC
+- Virginia approves redistricting, giving Democrats edge in midterms - BBC
 - Man Is Charged With Providing Gun to Louisiana Shooter - The New York Times
-- Texas can require public schools to display Ten Commandments in classrooms, court rules - AP News
+- Florida Democrat Rep. Sheila Cherfilus-McCormick, facing possible expulsion, resigns - NPR
+- Judge dismisses Kash Patel's defamation lawsuit over claim he frequented 'nightclubs' - CNBC
+- 5th Circuit allows Texas to require Ten Commandments in classrooms - The Washington Post
+- Trump administration sues Southern Poverty Law Center on fraud charges - Al Jazeera
+- US military pushes for boost in 2027 spending on drones and air defenses used in Iran war - AP News
+- ‘The GOP should’ve done more’: Virginia Republicans point fingers after gerrymandering loss - Politico
 - Trump reads from Bible in Oval Office in taped message for Christian group - The Guardian
-- Immigration Agent Is Charged With Assaulting a Colorado Protester - The New York Times
-- Pentagon details record $1.5 trillion budget request - The Washington Post
-- Gunman at Mexico’s Teotihuacán pyramid was obsessed with Columbine massacre - Los Angeles Times
-- Back home, Hong Kong fire victim gathers memories from the ashes - Reuters
-- ‘Stop sucking up to America’: Japan’s youth rises up to protect pacifist constitution - The Guardian
-- Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid - Yahoo
-- Incoming Apple CEO John Ternus Has Big Challenges Ahead - Deadline
-- Oil prices dip as status of US-Iran peace talks remains unclear - BBC
+- Mexico to beef up security at tourist sites after shooting at pyramids in lead up to World Cup - AP News
+- Ukraine war briefing: Quick loan in pipeline as Druzhba reopens - The Guardian
+- Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid - NPR
+- Iran War Live Updates: Trump Extends Iran Cease-Fire With Peace Talks in Limbo - WSJ
+- Tech leaders, Trump, and more react to Tim Cook stepping down as Apple CEO - 9to5Mac
+- UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war - CNBC
 - Five things we learned at Fed nominee Warsh's Senate hearing - Reuters
 - SpaceX nears deal with Cursor - Axios
-- OpenAI Unveils New Image Model That’s Better at Charts and Diagrams - Bloomberg
 - Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters
+- Google now lets you have full conversations with Gemini for Home - Engadget
