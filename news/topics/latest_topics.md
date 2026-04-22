@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 10:15_
+_Updated: 2026-04-22 12:01_
 
 ## Top Stories
 
-- Skolor i Borlänge håller stängt - SVT Nyheter
-- Karl Dalén: Vapenvilan testar Irans och USA:s smärttrösklar - Dagens Nyheter
-- Iran uppges ha beskjutit fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- SD kan få elva ministrar – Vinge och Lindberg favoriter - Omni
-- EU: Ukraina får första pengarna i maj eller juni - Omni
-- Arne Larsson: Jimmie Åkesson har förlorat sin rebellstatus - GP
-- Nej, smink räcker inte som solskydd – huden åldras - Västerbottens-Kuriren
-- Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
-- Adam Cwejman: M och S kan vara Sveriges minst dåliga regeringsalternativ - GP
-- Företagen ger bygglov högre betyg för tredje året i rad - Sigtuna kommun
-- Tidigare FN-ambassadören: Iran och USA vill båda ses som vinnare - Sveriges Radio
-- DN Direkt – Virginia röstar för ny valkarta - Dagens Nyheter
-- Kranbil har kört in i bro – Huddingevägen avstängd - Expressen
-- Sverige kräver tullar mot bosättningar - Hufvudstadsbladet – HBL
+- 20-tal skolor i Borlänge stängs efter hot om våld - SVT Nyheter
+- Misstänkt grovt brott på Södermalm - SVT Nyheter
+- Källa: Olja flödar i Druzjba-ledningen inom kort - GP
+- Sorg och oro efter storbranden på Sofielund - Sydsvenskan
+- Här är namnen som SD vill se som ministrar - Dagens Nyheter
+- Larm om vätecyanid – Luleå hamn stängs - Västerbottens-Kuriren
+- Nej, smink räcker inte som solskydd – huden åldras - GP
+- Tomas Ramberg: KD och L förlorar hur det än går i valet - Dagens Nyheter
+- Dadgostar binder upp Vänsterpartiet inför ett osäkert regeringsspel - Altinget.se
+- Så nöjda är man med myndighetsutövningen i Vimmerby och Hultsfred - Dagens Vimmerby
+- Donald Trumps nya hot mot Iran - GP
+- Experten: Trump vet att ekonomin är Irans akilleshäl - Dagens Nyheter
+- Virginia röstar för ny valkarta - Västerbottens-Kuriren
+- Containerfartyg beskjutet av Iran nära Hormuz - Hufvudstadsbladet – HBL
+- Ebba Busch om flygbränslet: Värsta energikrisen någonsin - GP
 - Han tror Bonnesen-domen vrider tillbaka klockan - finanswatch.se
 - Kevin Warsh: Har inte lovat Trump räntesänkningar - EFN
-- Lufthansa ställer in 20 000 avgångar - GP
-- ABB lyfter på ljusgrön börs – Evolution backar - DI
+- LUFTHANSA STÄLLER IN 20.000 FLYGNINGAR PGA DYRARE BRÄNSLE (OMS) - Placera.se
 - Fler av livets byggstenar har hittats på Mars - nyteknik
-- God chans att se stjärnfall på himlen i natt - Ekuriren
+- Stor chans att se stjärnfall i natt: ”Ha tålamod” - Aftonbladet
 
 ## World News
 
 - VNV Global skriver ner värdet på Voi - DI
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:25 - TV.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:25 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Umeå children in worldwide school project on AI - Umeå universitet
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
+- Cameron – smittad av skandalen - Aftonbladet
 
 ## Technology
 
@@ -101,7 +101,6 @@ _Updated: 2026-04-22 10:15_
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar HealthBench - OpenAI
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
@@ -113,6 +112,7 @@ _Updated: 2026-04-22 10:15_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
@@ -120,19 +120,19 @@ _Updated: 2026-04-22 10:15_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
