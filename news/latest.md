@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 21:51_
+_Updated: 2026-04-22 23:35_
 
-- Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire - Fox News
+- Middle East crisis live: White House says Trump ‘satisfied’ with blockade after Iran says it seized two ships in strait of Hormuz - The Guardian
 - Trump's redistricting war leaves Republicans worse off - Axios
-- Shelter in place ordered in Institute after reported chemical leak; at least 7 transported - WCHS
-- Senators grill RFK Jr. on vaccines, drug prices and more at hearing - NPR
-- Rep. David Scott, a Georgia Democrat, dies at 80 - NBC News
-- Druzhba pipeline restarts Russian oil flows to Europe, unblocking E.U. loan for Kyiv - NBC News
-- State of Emergency issued in Georgia as wildfire destroys 47 buildings - FOX 5 Atlanta
-- Man charged with lying to police about gun used by Louisiana shooter - The Washington Post
-- California’s Governor Candidates to Meet in First Major Debate After Swalwell - The New York Times
-- Texas Gov. Greg Abbott Uses Trump-Style Tactics in Fight With Cities Over ICE - The New York Times
-- UK bans a generation of children from smoking: How it works - Al Jazeera
+- Senate’s No. 2 Republican grills RFK Jr. on vaccines - Politico
+- Rep. David Scott, a Georgia Democrat seeking his 13th term in Congress, dies at age 80 - AP News
+- Kalshi suspends, fines 3 congressional candidates in 'insider trading' enforcement actions - CNBC
+- Clearing Strait of Hormuz of mines could take 6 months, Pentagon tells Congress - The Washington Post
+- Chemical leak at a West Virginia plant kills 2 people and sends 19 more to hospital, officials say - WRAL
+- Mother who lost three kids in Louisiana shooting hospitalized with bullet lodged in face - The Guardian
+- California Candidates to Appear in First Major Debate After Swalwell - The New York Times
+- Gov. Kemp Declares State of Emergency in Response to South Georgia Wildfires - Georgia.gov
+- EU prepares finalisation of Ukraine loan and new Russia sanctions, Cyprus says - Reuters
+- China hails countries for blocking Taiwan president's flight - dw.com
+- Greetings from an Islamabad park, a peaceful vantage point in an uncertain world - NPR
 - Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour - BBC
-- Palestinian schoolboy among two killed by Israeli settlers, amid spate of attacks on education in the West Bank - CNN
-- China hails countries for blocking Taiwan president's flight - DW.com
-- Spirit Airlines nears deal with Trump administration for $500 million rescue package - NBC News
+- Spirit Airlines close to a $500 million bailout from Trump administration - CNN
+- Trump family crypto firm sued over alleged 'extortion' - BBC
+- Anthropic investigating possible breach of its Mythos AI model - CBS News
 - Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label - The New York Times
-- Billionaire backer sues Trump family's crypto firm over alleged extortion - BBC
-- FTX Bankruptcy Liquidators Disposed of Cursor Stake for $200k, Now Worth Billions - Yahoo Finance
 - Xbox cuts prices for Game Pass but ends day-one Call of Duty access - BBC
-- Framework’s first eGPUs turn its laptop into a desktop PC - The Verge
+- ‘The MacBook Pro for Linux users’ both copies and contrasts with Apple - 9to5Mac
