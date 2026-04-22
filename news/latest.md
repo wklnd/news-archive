@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 05:51_
+_Updated: 2026-04-22 08:23_
 
-- Virginia approves redistricting, giving Democrats edge in midterms - BBC
-- Trump accuses Iran of 'numerous' ceasefire violations as deadline looms, Pakistan talks uncertain - Fox News
+- Trump gives Iran days to end power struggle, return to peace talks - Axios
+- Virginia Redistricting Referendum 2026 Live Results - NBC News
 - DOJ charges Southern Poverty Law Center over paid informants - The Washington Post
+- Rep Sheila Cherfilus-McCormick resigns from Congress after criminal charges - BBC
 - Judge dismisses Kash Patel's defamation lawsuit over claim he frequented 'nightclubs' - CNBC
-- Cherfilus-McCormick resignation makes some Democrats regret vote to expel George Santos - Axios
-- The Republican insider now running Trump’s Labor Department - Politico
-- Gun used to kill 8 children was stolen from truck, Louisiana man tells investigators - AP News
-- $12.5 billion ‘down payment’ brings air traffic control out of 1990s. Now, more money is needed for new software and AI - CNN
-- Florida Inquiry Into ChatGPT’s Role in FSU Shooting Shifts to Criminal Investigation - The New York Times
+- Man Is Charged With Providing Gun to Louisiana Shooter - The New York Times
+- 5th Circuit allows Texas to require Ten Commandments in classrooms - The Washington Post
+- Florida AG launches criminal investigation into ChatGPT over FSU shooting - NPR
 - Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation - The New York Times
-- Taiwan president cancels Africa trip blaming Chinese pressure - Reuters
-- Teotihuacán Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings - The New York Times
+- ‘The GOP should’ve done more’: Virginia Republicans point fingers after gerrymandering loss - Politico
+- Gunman at Mexico’s Teotihuacán pyramid was obsessed with Columbine massacre - Los Angeles Times
 - ‘Stop sucking up to America’: Japan’s youth rises up to protect pacifist constitution - The Guardian
-- EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line - Kyiv Post
-- Warsh Pressed on Financial Disclosures, Fed Independence at Hearing - WSJ
+- Priceless 2,500-year-old golden helmet returned to Romania after Dutch museum raid - Yahoo
+- Taiwan president cancels Africa trip blaming Chinese pressure - Reuters
+- Warsh says he got no pressure from Trump to cut rates even as president publicly pushes for them - AP News
 - Tim Cook is stepping down as CEO of Apple: Here's a look at his 15-year legacy, from new products and services to China expansion - TechCrunch
-- Oil prices turn lower as investors assess outlook for US-Iran peace talks - Reuters
-- SpaceX obtains right to buy AI start-up Cursor for $60bn - Financial Times
+- Oil prices dip as status of US-Iran peace talks remains unclear - BBC
+- SpaceX nears deal with Cursor - Axios
 - Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters
-- Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 - Ars Technica
+- Google now lets you have full conversations with Gemini for Home - Engadget
