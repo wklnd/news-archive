@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 01:24_
+_Updated: 2026-04-22 02:01_
 
 ## Top Stories
 
-- Trump meddelar amerikansk förlängning av vapenvilan - GP
+- Donald Trump förlänger vapenvilan med Iran - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran uppmanar FN att fördöma båtattack - Dagens Nyheter
 - Kraftig brand i radhuslänga i Malmö – flera lägenheter förstörda - Sydsvenskan
-- JUST NU: "Inom 24 timmar" – jättebesked för Ukraina nära - Marcus Oscarsson
 - USA: Irankopplad oljetanker bordad - Folkbladet
-- Ingen simskola för dömda barn - Västerbottens-Kuriren
-- Iran: Öppnar inte sundet om inte blockaden hävs - Omni
-- Barn lekte med handgranat – man döms - Västerbottens-Kuriren
-- DN Direkt – Kvinna död i Skellefteå – man begärs häktad - Dagens Nyheter
+- EU: Ukraina får första pengarna i maj eller juni - Omni
+- Flera döda i fängelseupplopp - Västerbottens-Kuriren
+- I kväll: Man häktas misstänkt för mord - Västerbottens-Kuriren
 - Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
 - Risk för låga grundvattennivåer i Skåne - GP
+- Skenande kostnader för nätläkare: ”Helt vansinnigt” - Arvika Nyheter
 - Ryskt mordförsök mot rådgivare i Ukraina: ”Knappast en slump” - Dagens Nyheter
-- Israel inför ”gul linje” i södra Libanon: ”Mycket oroande” - Dagens Nyheter
 - Sandra Stiskalo: I Londons hjärta är hånskratt och ohyfs vardag - Dagens Nyheter
+- Israel inför ”gul linje” i södra Libanon: ”Mycket oroande” - Dagens Nyheter
 - Han vann valet i Bulgarien - 8 Sidor
 - Lufthansa ställer in 20 000 avgångar - GP
 - Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
@@ -34,19 +34,19 @@ _Updated: 2026-04-22 01:24_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Köpenhamns flygplats utsedd till Europas bästa för avresande passagerare - travelnews-se
+- Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Umeå children in worldwide school project on AI - Umeå universitet
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2026-04-22 01:24_
 
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -129,8 +129,8 @@ _Updated: 2026-04-22 01:24_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
