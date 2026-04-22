@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 00:29_
+_Updated: 2026-04-23 01:31_
 
+- John Phelan out as US Navy secretary, replaced by Cao - Axios
 - Live Updates: Iran attacks ships in Strait of Hormuz as thousands more U.S. forces head for Middle East - CBS News
-- Chemical leak at a West Virginia plant kills 2 people and sends 19 more to hospital, officials say - AP News
-- Trump's redistricting war leaves Republicans worse off - Axios
-- Law requiring ICE agents to show identification struck down by 9th Circuit - Los Angeles Times
-- Druzhba pipeline restarts Russian oil flows to Europe, unblocking E.U. loan for Kyiv - NBC News
+- Federal appeals court blocks California law requiring federal agents to wear identification - AP News
+- Officials: Two dead after chemical incident in Institute area; shelter in place lifted - WCHS
+- Trump gives Iran days to end power struggle, return to peace talks - Axios
 - Kalshi suspends, fines 3 congressional candidates in 'insider trading' enforcement actions - CNBC
 - How the Southern Poverty Law Center Drew the Ire of Conservatives - The New York Times
+- Rep. David Scott, a Georgia Democrat, dies at 80 - NBC News
 - Mother who lost three kids in Louisiana shooting hospitalized with bullet lodged in face - The Guardian
 - Nearly half of U.S. kids are breathing unhealthy air, report says. These are the cleanest and most polluted cities. - CBS News
-- Leading candidates to square off in TV debate at critical point in California governor’s race - AP News
+- EU prepares finalisation of Ukraine loan and new Russia sanctions, Cyprus says - Reuters
 - China hails countries for blocking Taiwan president's flight - DW.com
 - Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour - BBC
 - Palestinian boy, 14, among two killed in settler attack near West Bank school - The Guardian
-- UK bans a generation of children from smoking: How it works - Al Jazeera
+- Tesla Q1 revenue rises, driven by EV sales and FSD subscriptions - TechCrunch
 - Spirit Airlines close to a $500 million bailout from Trump administration - CNN
-- Stock Market Today: S&P 500 Hits Record; Tesla Beats Expectations — Live Updates - WSJ
-- Trump family crypto firm sued over alleged 'extortion' - BBC
-- Anthropic investigating possible breach of its Mythos AI model - CBS News
+- SpaceX and Cursor have explored a team-up with Mistral to take on AI rivals - Business Insider
+- Trump Media CEO’s Exit Caps a 90% Drop as MAGA Stocks Stumble - Bloomberg.com
 - Xbox cuts prices for Game Pass but ends day-one Call of Duty access - BBC
-- OnePlus Watch 4 officially brings Wear OS 6 in a titanium body, mysterious launch plans [Gallery] - 9to5Google
+- AMD Ryzen 9 9950X3D2 Dual Edition CPU Is Now Available – The Fastest Dual X3D Stacked Chip On The Planet - Wccftech
