@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 23:26_
+_Updated: 2026-04-23 00:10_
 
 ## Top Stories
 
-- DN Direkt – SKR vill skärpa reglerna för nätläkare - Dagens Nyheter
-- Misstänkt farligt föremål i Malmö - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Tre döda i israelisk attack - Dagens Nyheter
-- Zelenskyj om EU:s jättelån: Den rätta signalen - GP
-- Isabella Löwengrip efter kritiken: Kvinnor röstar mer emotionellt - Aftonbladet
-- Tonårspojke anhållen för skolhot i Borlänge - Västerbottens-Kuriren
-- Så gör näktergalen för att passera Sahara - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Irans president: Tre hinder för förhandlingar - Dagens Nyheter
+- SKR vill skärpa reglerna för nätläkare - Västerbottens-Kuriren
+- Larm om vätecyanid – Luleå hamn stängs - Norran
+- Vita huset: Inget iranskt brott mot vapenvila - GP
+- Tonårspojke anhållen för skolhot i Borlänge - GP
+- Ukraina låter rysk olja flöda – nu beviljas efterlängtad miljardboost - Aftonbladet
+- Så gör näktergalen för att passera Sahara - GP
 - ”Busch polariserar med utspel om rennäringen” - Västerbottens-Kuriren
 - Kvinnas död kopplas till journalsystemet Cosmic - Dagens Nyheter
 - Osäkert omvärldsläge och låga vattennivåer orosmoln för Skånes lantbrukare - Cision News
-- Direkt – Krisen i Mellanöstern – Irans president: Tre hinder för förhandlingar - Dagens Nyheter
-- Montenegro tar steg mot EU - Aftonbladet
+- Montenegro tar steg mot EU - Folkbladet
 - Fjärrstyrda robotar ersätter soldater i Ukrainas attacker - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Bostadshus i Ryssland träffade av ukrainsk attack - Dagens Nyheter
+- Libanon hoppas på förlängd vapenvila - Västerbottens-Kuriren
+- Larmet till Putin efter Zelenskys attack - Expressen
 - Ebba Busch (KD): Värsta energikrisen någonsin - GP
-- Varnar för dyra flygpriser i sommar – och i flera år - Expressen
+- Varningen i sommar: ”Riktigt, riktigt dyrt” - Expressen
 - Stort intresse då Volvo lanserade ”ödesbilen” EX60 - Dagens Nyheter
-- Miljarder i elstöd kan börja betalas ut vid midsommar - Omni
+- Elstödet klubbat – kan betalas ut till midsommar - Omni Ekonomi
 - Dolby och BMW introducerar Dolby Atmos i BMW 7-serien – omslutande ljud letar sig in i fler framtida modeller - Via TT
 - Meteorregn lyser upp himlen – når kulmen i natt - Aftonbladet
 
@@ -73,54 +73,55 @@ _Updated: 2026-04-22 23:26_
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Markets are experiencing reduced activity due to the Thanksgiving holiday, leading to lower trading volumes - VT Markets
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
-- Förvärv av RMS Medical Devices - it-halsa.se
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Vi presenterar HealthBench - OpenAI
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -137,7 +138,6 @@ _Updated: 2026-04-22 23:26_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
