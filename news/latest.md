@@ -1,4 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 14:45_
+_Updated: 2026-04-22 16:22_
 
+- Iran War Live News Updates: Three Ships Attacked in Hormuz After Trump Extends Cease-Fire, Blockade - WSJ
+- Virginia redistricting election results: Key takeaways from Democrats’ win - Al Jazeera
+- Trump gives Iran days to end power struggle, return to peace talks - Axios
+- Southern Poverty Law Center indicted on federal fraud charges - NPR
+- Epstein’s victims say other men abused them. Files shed little light on how investigators followed up - CNN
+- Texas can require public schools to display Ten Commandments in classrooms, court rules - AP News
+- Man charged for previously having gun used to kill 8 children in Louisiana says it was stolen from his truck - CBS News
+- Two University of South Florida doctoral students are missing, police say - NBC News
+- Trump blasted Obama’s Iran deal. Now he faces similar tradeoffs. - The Washington Post
+- Parents of slain Loyola University Chicago student Sheridan Gorman demand answers on her "preventable murder" - CBS News
+- EU launches procedure to unblock €90bn Ukraine loan and new Russia sanctions - Euronews.com
+- UK lawmakers approve lifetime smoking ban for today's under-18s - Reuters
+- Mexico officials say Teotihuacán gunman carried material related to US mass shooting - BBC
+- Exclusive: Ukraine says some Russian missiles fly near Chornobyl, risking major accident - Reuters
+- Warsh says he got no pressure from Trump to cut rates even as president publicly pushes for them - AP News
+- Boeing Q1 results top estimates as improving jet deliveries cut losses - Yahoo Finance
+- Stocks rise after U.S.-Iran ceasefire extension, strong earnings: Live updates - CNBC
+- Why these treatments for one of the deadliest cancers are stirring such hope - The Washington Post
+- Framework’s first eGPUs turn its laptop into a desktop PC - The Verge
+- "Not surprising at all" – analysts see Xbox Game Pass price cut as inevitable shift that will drive subscription growth in 2026 - GamesIndustry.biz
