@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 08:19_
+_Updated: 2026-04-22 10:15_
 
 ## Top Stories
 
-- Flera skolor i Borlänge håller stängt efter hot - Västerbottens-Kuriren
-- Donald Trumps nya hot mot Iran - GP
-- Novus: Rödgröna i fortsatt stabil ledning – SD backar - Omni
-- Lina larmade om brister hos Lager 157 och fick sparken: ”Då tändes en eld i mig” - Sydsvenskan
-- Larm om vätecyanid – Luleå hamn stängs - SVT Nyheter
-- Direkt – Kriget i Ukraina – Bostadshus i Ryssland träffade av ukrainsk attack - Dagens Nyheter
-- Nej, smink räcker inte som solskydd – huden åldras - Dagens Nyheter
+- Skolor i Borlänge håller stängt - SVT Nyheter
+- Karl Dalén: Vapenvilan testar Irans och USA:s smärttrösklar - Dagens Nyheter
+- Iran uppges ha beskjutit fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- SD kan få elva ministrar – Vinge och Lindberg favoriter - Omni
+- EU: Ukraina får första pengarna i maj eller juni - Omni
+- Arne Larsson: Jimmie Åkesson har förlorat sin rebellstatus - GP
+- Nej, smink räcker inte som solskydd – huden åldras - Västerbottens-Kuriren
 - Sofia Mirjamsdotter: Oerhört utspel om rennäringen - Västerbottens-Kuriren
 - Adam Cwejman: M och S kan vara Sveriges minst dåliga regeringsalternativ - GP
-- Misstänkte mannen häktad för mord - Norran
-- Spanien visar värdig migrationspolitik - Dagens Arena
+- Företagen ger bygglov högre betyg för tredje året i rad - Sigtuna kommun
+- Tidigare FN-ambassadören: Iran och USA vill båda ses som vinnare - Sveriges Radio
 - DN Direkt – Virginia röstar för ny valkarta - Dagens Nyheter
-- Iran uppges ha beskjutit fartyg i Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Israel: Hizbollah har attackerat - Dagens Nyheter
+- Kranbil har kört in i bro – Huddingevägen avstängd - Expressen
+- Sverige kräver tullar mot bosättningar - Hufvudstadsbladet – HBL
+- Han tror Bonnesen-domen vrider tillbaka klockan - finanswatch.se
 - Kevin Warsh: Har inte lovat Trump räntesänkningar - EFN
-- Därför frias Birgitte Bonnesen – fast hon vilseledde pressen och läsarna - Sak & Liv
 - Lufthansa ställer in 20 000 avgångar - GP
-- Norges rikaste man i blåsväder – bolag stäms på miljardbelopp - Dagens PS
-- Meteorregn lyser upp himlen – når kulmen i natt - Aftonbladet
-- Hälften av ny musik på Deezer är skapad med AI - Omni
+- ABB lyfter på ljusgrön börs – Evolution backar - DI
+- Fler av livets byggstenar har hittats på Mars - nyteknik
+- God chans att se stjärnfall på himlen i natt - Ekuriren
 
 ## World News
 
+- VNV Global skriver ner värdet på Voi - DI
 - Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
+- Är mjukvaruteknik övermättad 2025? - HackerNoon
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -122,22 +122,22 @@ _Updated: 2026-04-22 08:19_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -149,7 +149,7 @@ _Updated: 2026-04-22 08:19_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
