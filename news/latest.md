@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 02:06_
+_Updated: 2026-04-22 05:51_
 
-- Live Updates: Trump extends ceasefire as uncertainty over U.S.-Iran peace talks remains - CBS News
-- Election Day Turnout in Virginia Is Down Significantly From 2025, After Strong Early Voting - The New York Times
-- Southern Poverty Law Center indicted on charges that it fraudulently paid informants in extremist groups - NBC News
-- Florida Democrat Rep. Sheila Cherfilus-McCormick, facing possible expulsion, resigns - NPR
-- Gunman who fired on tourists at Mexican pyramid carried materials related to 1999 Columbine massacre - AP News
-- US forces board a sanctioned oil tanker in the Indian Ocean, the Pentagon says - AP News
-- Shreveport Man Arrested and Charged in Connection with Shamar Elkins Securing Firearm to Commit Mass Shooting - Department of Justice (.gov)
-- Florida AG launches criminal investigation into ChatGPT over FSU shooting - NPR
-- Trump’s surgeon general pick faces mounting GOP opposition - Politico
-- The House Ethics Committee wants to do better - Politico
-- Fired former official says he felt political pressure to approve Mandelson as U.S. ambassador - NBC News
+- Virginia approves redistricting, giving Democrats edge in midterms - BBC
+- Trump accuses Iran of 'numerous' ceasefire violations as deadline looms, Pakistan talks uncertain - Fox News
+- DOJ charges Southern Poverty Law Center over paid informants - The Washington Post
+- Judge dismisses Kash Patel's defamation lawsuit over claim he frequented 'nightclubs' - CNBC
+- Cherfilus-McCormick resignation makes some Democrats regret vote to expel George Santos - Axios
+- The Republican insider now running Trump’s Labor Department - Politico
+- Gun used to kill 8 children was stolen from truck, Louisiana man tells investigators - AP News
+- $12.5 billion ‘down payment’ brings air traffic control out of 1990s. Now, more money is needed for new software and AI - CNN
+- Florida Inquiry Into ChatGPT’s Role in FSU Shooting Shifts to Criminal Investigation - The New York Times
+- Ohio State Details Relationship that Led to Former President Walter Carter Jr.’s Resignation - The New York Times
+- Taiwan president cancels Africa trip blaming Chinese pressure - Reuters
+- Teotihuacán Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings - The New York Times
+- ‘Stop sucking up to America’: Japan’s youth rises up to protect pacifist constitution - The Guardian
 - EXCLUSIVE: Are Robots Replacing Soldiers in Ukraine War? What’s Really Happening on the Front Line - Kyiv Post
-- Israeli soldiers punished over vandalism of Jesus statue in Lebanon - BBC
-- Japan Scraps Most Curbs on Weapons Exports in Historic Shift Since World War II - Bloomberg.com
-- Trump’s Fed pick grilled by Senate panel, with confirmation still in limbo - The Washington Post
-- Meet John Ternus, the 51-year-old former swimming champ who will succeed Tim Cook as Apple CEO - Fortune
-- US Stock Futures Rise as Trump Extends Iran Truce: Markets Wrap - Bloomberg.com
-- Michael and Susan Dell Surpass $1 Billion in Giving to UT Austin - The University of Texas at Austin
-- Microsoft removes Call of Duty from Game Pass, lowers subscription pricing - Ars Technica
-- Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch
+- Warsh Pressed on Financial Disclosures, Fed Independence at Hearing - WSJ
+- Tim Cook is stepping down as CEO of Apple: Here's a look at his 15-year legacy, from new products and services to China expansion - TechCrunch
+- Oil prices turn lower as investors assess outlook for US-Iran peace talks - Reuters
+- SpaceX obtains right to buy AI start-up Cursor for $60bn - Financial Times
+- Microsoft cuts Xbox Game Pass price, to remove 'Call of Duty' day one inclusions - Reuters
+- Mozilla: Anthropic’s Mythos found 271 security vulnerabilities in Firefox 150 - Ars Technica
