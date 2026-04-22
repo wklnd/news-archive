@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-22 17:54_
+_Updated: 2026-04-22 19:39_
 
-- At least 2 ships attacked in Strait of Hormuz after Trump announces indefinite extension of Iran ceasefire - CBS News
-- With Virginia vote, Democrats gain edge over Trump's national GOP redistricting push - NPR
-- To Iran, Trump Blinked First by Extending the Cease-Fire - The New York Times
-- Trump will participate in marathon Bible-reading event with other top Republicans - PBS
-- UK bans a generation of children from smoking: How it works - Al Jazeera
-- 'We can do better,' FAA head says of work to update U.S. analog air traffic system - NPR
-- Man charged for previously having gun used to kill 8 children in Louisiana says it was stolen from his truck - CBS News
-- Coalition repairs, red-meat speeches and personnel moves: The White House jumps into midterms mode - Politico
-- Two University of South Florida doctoral students are missing, police say - NBC News
-- Trump blasted Obama’s Iran deal. Now he faces similar trade-offs. - The Washington Post
-- Russia to stop Kazakh oil flows to German refinery via Druzhba, Berlin says - Reuters
-- Pope calls for justice and closing income gap in Equatorial Guinea Mass with presidential family - AP News
-- EU expects positive decisions on 90 billion euro loan to Ukraine on Wednesday - Reuters
+- Live Updates: Iran attacks ships in Strait of Hormuz as thousands more U.S. forces head for Middle East - CBS News
+- Six takeaways from Virginia’s vote to boost Democrats in national redistricting war - The Washington Post
+- Georgia Rep. David Scott dies at 80 - NBC News
+- Trump gives Iran days to end power struggle, return to peace talks - Axios
+- Scoop: Trump set to reclassify marijuana soon - Axios
 - Mexico to beef up security at tourist sites after shooting at pyramids - NPR
-- Trump administration in advanced talks for Spirit Airlines rescue package, source says - CNBC
-- Stock Market Today: Nasdaq Picks Up Steam On Trump Ceasefire; United Airlines Takes A Tumble (Live Coverage) - Investor's Business Daily
-- SpaceX nears deal with Cursor - Axios
-- Boeing’s Commercial Jet Business Improves, Reducing Quarterly Loss - WSJ
-- ‘The MacBook Pro for Linux users’ both copies and contrasts with Apple - 9to5Mac
+- Man charged for previously having gun used to kill 8 children in Louisiana says it was stolen from his truck - CBS News
+- California’s Governor Candidates to Meet in First Major Debate After Swalwell - The New York Times
+- Trump advisers privately strategize around a new midterm push: Democrats would be worse - CNN
+- Trump blasted Obama’s Iran deal. Now he faces similar tradeoffs. - The Washington Post
+- UK bans a generation of children from smoking: How it works - Al Jazeera
+- Druzhba pipeline restarts Russian oil flows to Europe, unblocking E.U. loan for Kyiv - NBC News
+- Pope calls for justice and closing income gap in Equatorial Guinea Mass with presidential family - AP News
+- Palestinian schoolboy among two killed by Israeli settlers, amid spate of attacks on education in the West Bank - CNN
+- Exclusive | Trump Administration Nearing Rescue Deal for Spirit Airlines - WSJ
+- Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label - The New York Times
+- SpaceX says it can buy AI coding tool Cursor for $60B later this year - AP News
+- S&P 500, Nasdaq on Pace for New Closing Highs - Barron's
+- Xbox cuts prices for Game Pass but ends day-one Call of Duty access - BBC
 - Google announces ‘Workspace Intelligence’ and TPU 8t + 8i chips - 9to5Google
