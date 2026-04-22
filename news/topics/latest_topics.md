@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-22 13:37_
+_Updated: 2026-04-22 16:16_
 
 ## Top Stories
 
-- 20-tal skolor i Borlänge stängs efter hot om våld - SVT Nyheter
-- Donald Trumps nya hot mot Iran - GP
-- DN Direkt – Larm om vätecyanid – Luleå hamn stängs - Dagens Nyheter
-- Källa: Olja flödar i Druzjba-ledningen inom kort - GP
-- Häktning hävd i ärende om brukande av falsk urkund - Åklagarmyndigheten
-- Analys: Hur det än går i valet förlorar KD och L - Omni
-- Region Dalarna efter dödsfallet: Orsakades delvis av journalsystembyte - SVT Nyheter
-- Företagen ger bygglov högre betyg för tredje året i rad - Sigtuna kommun
-- Adam Cwejman: M och S kan vara Sveriges minst dåliga regeringsalternativ - GP
-- Försvunnen tonåring anträffad i Borlänge - SVT Nyheter
-- Iran är försvagat – men inte brutet - Fokus - Sveriges nyhetsmagasin
-- Fartyg beskjutna nära Hormuz – förs till Iran - GP
+- Fartyg beskjutna nära Hormuz – förs till Iran - Västerbottens-Kuriren
+- Ungern släpper igenom miljardlån till Ukraina - Hufvudstadsbladet – HBL
+- Kvinnas död kopplas till journalsystemet Cosmic - Dagens Nyheter
+- DEBATT: S: Skattepengar ska gå till patienter – inte till vinstdrivande bolag - Blekinge Läns Tidning
+- Räddningstjänsten: Så nära var det att branden spred sig - Sveriges Radio
+- Lyxgåvan till kungen – matta för tre miljoner - Expressen
+- Över 20 skolor i Borlänge höll stängt efter hot om våld - Dagens Nyheter
+- Nu kan du gifta dig snabbare – Skatteverket lanserar ny tjänst - Breakit
+- Så nöjda är man med myndighetsutövningen i Vimmerby och Hultsfred - Dagens Vimmerby
+- ”Busch polariserar med utspel om rennäringen” - Västerbottens-Kuriren
+- Trumps två val: ”Han har väldigt bråttom” - Hufvudstadsbladet – HBL
+- Livslångt rökförbud för unga britter - GP
 - Experten: Trump vet att ekonomin är Irans akilleshäl - Dagens Nyheter
-- DN Direkt – Virginia röstar för ny valkarta - Dagens Nyheter
+- Rysk influencer i rampljuset för video om Putin - Sveriges Radio
 - Ebba Busch (KD): Värsta energikrisen någonsin - GP
-- EU föreslår energipaket: Vill minska beroende av fossilt - Aktuell Hållbarhet
-- Han tror Bonnesen-domen vrider tillbaka klockan - finanswatch.se
-- Kevin Warsh: Har inte lovat Trump räntesänkningar - EFN
-- Fler av livets byggstenar har hittats på Mars - nyteknik
+- Statsministern till Cypern för informellt toppmöte i Europeiska rådet - Regeringen.se
+- Musk har option att förvärva svenskt AI-bolag - Placera.se
+- Finansproffsen osäkra på ny Fed-chef - Västerbottens-Kuriren
 - Microsoft rullar ut akutfix för .NET - PC för Alla
+- Dolby och BMW introducerar Dolby Atmos i BMW 7-serien – omslutande ljud letar sig in i fler framtida modeller - Via TT
 
 ## World News
 
+- DEBATT: Sverige är en global musiksupermakt – men saknar strategi - DI
+- Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på ikväll 19:45 - Tv.nu
 - VNV Global skriver ner värdet på Voi - DI
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:25 - TV.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- VNV Global minskar substansvärdet - Affärsvärlden
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Anderson Global Welcomes Brightpoint Group to Its Global Platform (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Artificial intelligence in radiology – “Risk prediction is very exciting” - Life Science Sweden
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -80,10 +80,10 @@ _Updated: 2026-04-22 13:37_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -96,7 +96,6 @@ _Updated: 2026-04-22 13:37_
 
 ## Health
 
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -107,14 +106,15 @@ _Updated: 2026-04-22 13:37_
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
@@ -130,7 +130,7 @@ _Updated: 2026-04-22 13:37_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -156,9 +156,9 @@ _Updated: 2026-04-22 13:37_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Här är tio megagårdar att drömma om - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Lammen bräker igen på Tangará Farms gård - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- De tar över Tangará Farm: "Vi har köpt fastigheten och djuren" - Land Lantbruk
