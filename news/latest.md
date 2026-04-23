@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 19:57_
+_Updated: 2026-04-23 21:52_
 
-- Senate Adopts GOP Budget, Laying the Groundwork to Fund ICE and Reopen DHS - The New York Times
-- Live updates: Trump threatens to shoot boats laying mines as tension escalates in Strait of Hormuz - CNN
-- Trump administration moves to ease federal restrictions on marijuana - The Guardian
-- John Phelan forced out as Navy secretary after 13 months - The Washington Post
-- 5 takeaways from first major California governor’s debate after Swalwell exit - The Hill
-- The U.S. seizes another oil tanker as peace talks with Iran remain in limbo - NPR
-- Chapel Hill man accused of planning mass shooting is law enforcement veteran of over 20 years - WRAL
-- DeSantis on Jeffries ‘F around and find out’ remark: ‘I will pay for you to come down to Florida’ - The Hill
-- Gilgo Beach serial killer's ex-wife relives slayings every night, sleeping in 'kill room' - NBC News
-- More than 15 million under fire weather alerts in central U.S., as warmth, strong winds fuel "extreme" wildfire risks - CBS News
+- New Republican plan would fund ICE for rest of Trump’s term - The Washington Post
 - Live Updates: Iran touts video of Strait of Hormuz cargo ship seizures as Trump keeps quiet on next move - CBS News
-- What we know about Israel killing Lebanese journalist Amal Khalil - Al Jazeera
-- EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters
-- On Africa trip, the ‘quiet pope’ adopts a confident global voice - The Washington Post
+- Trump Administration Loosens Restrictions on Medical Marijuana - The New York Times
+- 2 critical, multiple hurt following mass shooting at Mall of Louisiana - WAFB
+- Man arrested on suspicion of planning mass shooting at New Orleans festival - The Guardian
+- Rivals Target Steyer, Becerra in Debate as California Governor Race Tightens - KQED
+- Trump claims US has total control over strait of Hormuz after Iran seizes two container ships - The Guardian
+- New documentary reveals ‘kill room’ rituals of Gilgo Beach serial killer - The Guardian
+- ‘All eyes are on Ron DeSantis’: Florida could make or break the GOP’s redistricting edge - Politico
+- Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? - Al Jazeera
+- EU approves €90 billion loan for Ukraine after Hungary lifts controversial veto - Euronews.com
+- Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says - AP News
+- UK to pay France up to $892 million in deal to reduce migrant crossings - Reuters
+- Chinese Satellites Over Mideast Battlefield Put U.S. on Edge - WSJ
 - Hollywood Petition to Block Paramount-Warner Bros. Merger Tops 4,000 Names as Robert De Niro, Sofia Coppola, Holly Hunter and More Join the Fight - Variety
-- Former national cyber director: Anthropic's 'Mythos' AI can hack nearly anything and we aren't ready - Fortune
-- Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce - CNBC
-- Mortgage rates hit 'lowest level in the last three spring homebuying seasons': Mortgage and refinance interest rates today - Yahoo Finance
-- Here's How the iPhone Ultra Compares to Other Apple Devices - MacRumors
-- Apple's M4 Mac mini, including the $599 one, is gradually becoming impossible to buy - Ars Technica
+- Anthropic’s Mythos breach was humiliating - The Verge
+- Microsoft will offer voluntary retirement to thousands of employees in a first for tech giant - GeekWire
+- Iran War Created Biggest Ever Energy Security Threat, IEA Says - Crude Oil Prices Today | OilPrice.com
+- Microsoft brings Xbox back, scraps Microsoft Gaming - The Verge
+- Galaxy S25 stable One UI 8.5 update changelog is here - SamMobile
