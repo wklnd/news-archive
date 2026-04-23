@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 10:23_
+_Updated: 2026-04-23 12:08_
 
-- Iran fires on 2 ships in Strait of Hormuz after Trump extends ceasefire - Fox News
+- Senate adopts budget resolution after marathon "vote-a-rama" as GOP moves to fund ICE without Democrats - CBS News
 - John Phelan forced out as Navy secretary after 13 months - The Washington Post
-- Trump's redistricting war leaves Republicans worse off - Axios
+- Iran tightens control of Hormuz after US calls off renewed attacks - Reuters
 - Candidates for California Governor Debate: 5 Takeaways - The New York Times
-- Israeli strike kills journalist after ongoing attacks blocked rescuers, Lebanon says - The Guardian
-- Senate’s No. 2 Republican grills RFK Jr. on vaccines - Politico
-- Wildfires in Georgia Destroy Homes and Set Off Evacuations - The New York Times
-- Vote-a-rama is underway in the Senate - Politico
-- Inside the Massachusetts courtroom where former students face a teacher charged with rape - NBC News
-- Kalshi suspends three US congressional candidates for 'political insider trading' - Reuters
-- Hungary drops veto, clearing path for $106 billion EU loan to Ukraine - CBS News
+- Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says - AP News
+- Virginia judge blocks redistricting referendum from being certified - WSET
+- Wildfires destroy nearly 50 homes in Georgia as blazes grow in Florida - PBS
+- Remains of 3 children found in Memphis may have been there for years, police say - CBS News
+- Why was the Southern Poverty Law Center indicted on federal fraud charges? | Trump administration - The Guardian
+- Chemical leak at a W.Va. plant kills 2 people, sends 30 more to hospitals, officials say - NPR
+- EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban - The New York Times
+- Pope tells inmates 'you are not alone' during Equatorial Guinea prison visit at end of Africa tour - AP News
 - US criticizes China's pressure on African countries to block Taiwan president's trip - Reuters
-- Taiwan minister makes rare visit to South China Sea island for drills - Reuters
 - Palestinian boy, 14, among two killed in settler attack near West Bank school - The Guardian
 - Tesla earnings rise, but AI expenses add up for Elon Musk - Axios
 - Trump administration and Spirit Airlines in advanced discussions over bailout, sources say - CBS News
-- Asian shares pull back from record highs as oil gains on Iran risk - Reuters
-- Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’ - TechCrunch
+- Tesla will build factories just to retrofit millions of HW3 cars it said could do FSD - Electrek
+- lululemon Names Proven Brand Builder Heidi O’Neill as Chief Executive Officer - Lululemon
 - Base Mac Mini Sold Out From Apple Online Store - MacRumors
-- Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch
+- Leaker shares iPhone 18 Pro’s new camera feature, plus future upgrades - 9to5Mac
