@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 12:08_
+_Updated: 2026-04-23 13:43_
 
-- Senate adopts budget resolution after marathon "vote-a-rama" as GOP moves to fund ICE without Democrats - CBS News
-- John Phelan forced out as Navy secretary after 13 months - The Washington Post
+- Senate GOP is kickstarting budget reconciliation to fund ICE. Here's how that works - NPR
 - Iran tightens control of Hormuz after US calls off renewed attacks - Reuters
+- Pete Hegseth fires U.S. Navy Secretary John Phelan - Axios
 - Candidates for California Governor Debate: 5 Takeaways - The New York Times
 - Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says - AP News
-- Virginia judge blocks redistricting referendum from being certified - WSET
-- Wildfires destroy nearly 50 homes in Georgia as blazes grow in Florida - PBS
+- Trump claims ‘rigged’ Virginia vote as court moves to block map redraw - France 24
 - Remains of 3 children found in Memphis may have been there for years, police say - CBS News
-- Why was the Southern Poverty Law Center indicted on federal fraud charges? | Trump administration - The Guardian
-- Chemical leak at a W.Va. plant kills 2 people, sends 30 more to hospitals, officials say - NPR
-- EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban - The New York Times
-- Pope tells inmates 'you are not alone' during Equatorial Guinea prison visit at end of Africa tour - AP News
-- US criticizes China's pressure on African countries to block Taiwan president's trip - Reuters
-- Palestinian boy, 14, among two killed in settler attack near West Bank school - The Guardian
-- Tesla earnings rise, but AI expenses add up for Elon Musk - Axios
-- Trump administration and Spirit Airlines in advanced discussions over bailout, sources say - CBS News
+- Clearing Strait of Hormuz of mines could take 6 months, Pentagon tells Congress - The Washington Post
+- Kalshi suspends three US congressional candidates for 'political insider trading' - Reuters
+- An Independent Senate Hopeful Tries to Scare Off Montana Democrats - The New York Times
+- UK, France agree 3‑year deal to curb Channel crossings - DW.com
+- How TikTok is driving American expats to Southeast Asia - NPR
+- Hungary drops veto, clearing path for $106 billion EU loan to Ukraine - CBS News
+- War in Iran Gives New Fuel to a Tax Debate in Australia - The New York Times
+- "The Amtrak of the skies"? Trump's interventionism comes for Spirit Airlines - Axios
+- Tesla’s revenue rises again as it prepares for more AI and robotics - The Verge
 - Tesla will build factories just to retrofit millions of HW3 cars it said could do FSD - Electrek
-- lululemon Names Proven Brand Builder Heidi O’Neill as Chief Executive Officer - Lululemon
+- Comcast beats revenue, earnings expectations as broadband losses improve - CNBC
 - Base Mac Mini Sold Out From Apple Online Store - MacRumors
 - Leaker shares iPhone 18 Pro’s new camera feature, plus future upgrades - 9to5Mac
