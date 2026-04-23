@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 23:28_
+_Updated: 2026-04-24 00:25_
 
-- New Republican plan would fund ICE for rest of Trump’s term - The Washington Post
-- Multiple people wounded in Mall of Louisiana shooting, suspects still at large - NBC News
-- Hung Cao, the former refugee who is Trump’s new acting navy secretary - The Guardian
-- US Labels State-Licensed Marijuana as Less Dangerous Drug - Bloomberg.com
-- Live Updates: Iran touts video of Strait of Hormuz cargo ship seizures as Trump keeps quiet on next move - CBS News
-- Award-winning UMass Amherst chef charged with murder in fatal beating of his wife at campus hotel - The Boston Globe
+- US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next? - Al Jazeera
+- Search is on for gunmen after 10 injured in Mall of Louisiana shooting - NBC News
 - Trump claims US has total control over strait of Hormuz after Iran seizes two container ships - The Guardian
-- Bones of 3 Children Found in Woods May Have Been There for Years - The New York Times
-- ‘All eyes are on Ron DeSantis’: Florida could make or break the GOP’s redistricting edge - Politico
-- Man arrested on suspicion of planning mass shooting at New Orleans festival - The Guardian
-- EU approves €90 billion loan for Ukraine after Hungary lifts controversial veto - Euronews.com
-- Israeli killing of Lebanese journalist draws international condemnation - The Guardian
+- Trump moves to reschedule marijuana - Politico
+- Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted - NPR
+- U.S. Soldier Charged With Using Classified Information To Profit From Prediction Market Bets - Department of Justice (.gov)
+- US blockade of Hormuz successful despite media reports suggesting otherwise, maritime expert says - The Jerusalem Post
+- He Was Exonerated in a Murder and Elected to Office. He May Never Serve. - The New York Times
+- Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’ - Al Jazeera
+- EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters
 - Inside the daring 3-hour operation to rescue a group of tourists from a cliff in Australia - CBS News
 - Chinese Satellites Over Mideast Battlefield Put U.S. on Edge - WSJ
-- Meta says it will cut 8,000 jobs as AI spending grows - BBC
-- Hollywood Petition to Block Paramount-Warner Bros. Merger Tops 4,000 Names as Robert De Niro, Sofia Coppola, Holly Hunter and More Join the Fight - Variety
-- Spirit Airlines lawyer says cash 'not going to last for very much longer,' but government rescue on the table - CNBC
-- Stocks weaken on dimming hopes for Iran deal, mixed quarterly earnings - Reuters
+- What we know about Israel killing Lebanese journalist Amal Khalil - Al Jazeera
+- Meta to cut 10% of staff as it pours billions into AI - CNN
+- Warner Bros shareholders approve Paramount’s $81 billion takeover of the Hollywood giant - AP News
+- Ted Cruz pours cold water on Trump administration plan to bail out Spirit Airlines: 'TERRIBLE idea' - Fox Business
+- Intel's stock soars 15% as results top estimates, with chipmaker showing signs of growth - CNBC
 - Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games - The Verge
+- Instagram ‘Instants’ app launches on Android, and it’s basically Snapchat - 9to5Google
 - Here's What's Coming in the 2026 Apple TV - MacRumors
