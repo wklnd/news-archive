@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-23 13:39_
+_Updated: 2026-04-23 16:18_
 
 ## Top Stories
 
+- Trump: Skjut alla båtar som lägger minor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Pressbriefing med statsminister Ulf Kristersson och finansminister Elisabeth Svantesson - Regeringen.se
 - Tågkrock i Danmark – fem kritiskt skadade - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Prins Harry besöker Kiev - Dagens Nyheter
-- Eleverna dagen efter skolhotet i Borlänge: ”Skönt att vara tillbaka” - SVT Nyheter
-- Expert: Det vill Israel med Libanonkriget - Västerbottens-Kuriren
-- S: Nej till 13-åringar i fängelse – vill se 14-årsgräns - Omni
-- Så levde misstänkte Brattåsmördaren - Dagens Nyheter
-- SKR vill skärpa reglerna för nätläkare - GP
-- DN Direkt – S säger nej till 13-åringar i fängelse - Dagens Nyheter
-- Nu är det STOPP för fler olyckor på E4 mellan Gränna och Huskvarna - SVT Nyheter
-- Zelenskyj om EU:s jättelån: Den rätta signalen - Västerbottens-Kuriren
-- Vita huset: Inget iranskt brott mot vapenvila - GP
-- USA åtalar organisation som motarbetar KKK - ETC.se
-- Två misstänks för olaga hot mot flera av Säpos skyddspersoner - SVT Nyheter
-- Bankekonomer tror inte på räntehöjningar i år - Västerbottens-Kuriren
-- Saabs vd: "Försöker ta reda på vad som har skett" - Corren
+- ”Giftregn” över Ryssland efter ukrainsk oljeattack - Västerbottens-Kuriren
+- 340 sjuka efter sushi i Lerum – orsaken oklar - GP
+- DN Direkt – Lägre graden av misstanke efter skolhot i Borlänge - Dagens Nyheter
+- Höjer beredskapen på grund av omvärldsläget - Svensk Farmaci
+- Granat inkastad i fel bostad – mamma fick amputera - Dagens Nyheter
+- Sjuåring fick underlivet sönderskuret – nu frias mamman från fängelsestraffet - Dagens.se
+- Region Sörmland om nya reglerna för digital vård: ”Väldigt positivt” - SVT Nyheter
+- EU:s lån kan väga upp Putins nya oljevinster - GP
+- Cypern driver på för EU-stöd vid militär attack - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – USA: Bordat ännu en Irankopplad oljetanker - Dagens Nyheter
+- Skyddspersoner hotade – Säkerhetspolisen utreder - Expressen
+- Saabs vinst ökar – vd Micael Johansson: ”Full fart framåt” - Sveriges Radio
 - Inte bara Musk – Microsoft var sugna på att köpa Anysphere först - Breakit
-- Skör vapenvila pressar upp räntor och olja - Placera.se
-- Anker Soundcore Space 2 har en batteritid på 70 timmar. 50 timmar med aktiv brusreducering. - feber.se
-- Prispengar till danskonsten - Svenska Dagbladet
+- Uppgifter: Saab nära jätteaffär med Nato - Corren
+- Polisen ber om hjälp efter sjukdomsfall på SSAB - Aftonbladet
+- Nu kan du “vibe-jobba” i Word, Excel och Powerpoint - Computer Sweden
+- Anker har gjort ett eget AI-chip. Thus-chippet ska användas för brusreducering i hörlurar. - feber.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:25 - Tv.nu
-- Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på idag 07:50 - Tv.nu
 - VNV Global skriver ner värdet på Voi - DI
 - Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
+- Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -73,72 +73,72 @@ _Updated: 2026-04-23 13:39_
 
 ## Business
 
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Förvärv av RMS Medical Devices - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 
 ## Jordbruk
 
