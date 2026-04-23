@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-23 18:16_
+_Updated: 2026-04-23 19:53_
 
 ## Top Stories
 
-- Trump: Skjut alla båtar som lägger minor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Företagarna som drabbas och går med vinst under krisen i Mellanöstern - Dagens Nyheter
-- ”Giftregn” över Ryssland efter ukrainsk oljeattack - Västerbottens-Kuriren
+- Olycka med tåg i Danmark - 8 Sidor
+- Direkt – Krisen i Mellanöstern – Libanon anklagar Israel för krigsbrott - Dagens Nyheter
 - Ägaren efter utbrottet på sushirestaurangen: "Vi är förkrossade" - GP
-- Tågkrock i Danmark – fem kritiskt skadade - Folkbladet
-- ATG:s spelares uppgifter läckta på darknet - Dagens Nyheter
-- Region Sörmland om nya reglerna för digital vård: ”Väldigt positivt” - SVT Nyheter
-- Kvinna och barn skadades av granat – sex åtalas - GP
-- Höjer beredskapen på grund av omvärldsläget - Svensk Farmaci
-- Bakslaget för våren – risk för snö i helgen - Dagens Nyheter
-- Stina Blomgren: Libanon väntas be om en månad längre vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Cypern driver på för EU-stöd vid militär attack - Sveriges Radio
-- EU:s lån kan väga upp Putins nya oljevinster - GP
+- Zelenskyj: Vi är redo för EU - Hufvudstadsbladet – HBL
+- Rawa Majid kan ha gett order om sprängningen där en 15-årig pojke dog - Aftonbladet
+- ”Giftregn” över Ryssland efter ukrainsk oljeattack - Västerbottens-Kuriren
+- Regeringen om hur kriget i Iran påverkar svensk ekonomi: ”Påtagligt” - SVT Nyheter
+- Lämnar formellt V – blir ny vilde i riksdagen - Västerbottens-Kuriren
+- Uppsalapolitiker stoppar betalning till nätläkare - UNT
+- Håkan Boström: Ebba Busch har rätt om rennäringen - GP
+- Direkt – Krisen i Mellanöstern – Dödliga israeliska räder i södra Libanon - Dagens Nyheter
 - USA: Bordat ännu en Irankopplad oljetanker - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – CNN: Video på fartyg som bordas av Iran ”iscensatt” - Dagens Nyheter
+- Valp och ponny dödade av varg i Danmark - Sydsvenskan
 - Simone Margulies: Volymtillväxt och förbättrad effektivitet stärker resultatet - Axfood
-- Saabs vd: "Försöker ta reda på vad som skett" - Corren
-- Inte bara Musk – Microsoft var sugna på att köpa Anysphere först - Breakit
-- Schaktmassor från SSAB förvaras i Boden – prover har tagits - NSD
+- Hur högt kan oljepriset bli? Vad skulle krävas för 200 dollar på olja - ig.com
+- Schaktmassor från SSAB förvaras i Boden – prover har tagits - PT.se
+- Affärsvärlden behåller köprådet för Husqvarna - Affärsvärlden
 - Nu kan du “vibe-jobba” i Word, Excel och Powerpoint - Computer Sweden
 - Anker har gjort ett eget AI-chip. Thus-chippet ska användas för brusreducering i hörlurar. - feber.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på idag 07:50 - Tv.nu
 - VNV Global skriver ner värdet på Voi - DI
-- Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -58,6 +58,7 @@ _Updated: 2026-04-23 18:16_
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Hur Kinas AI-sjukhus omdefinierar hälso- och sjukvårdens framtid - HackerNoon
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -66,7 +67,6 @@ _Updated: 2026-04-23 18:16_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
@@ -85,14 +85,14 @@ _Updated: 2026-04-23 18:16_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -124,19 +124,19 @@ _Updated: 2026-04-23 18:16_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - CLINTEC forskare får 32 miljoner i historisk satsning från Cancerfonden - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
@@ -159,6 +159,6 @@ _Updated: 2026-04-23 18:16_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lammen bräker igen på Tangará Farms gård - Land Lantbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- De tar över Tangará Farm: "Vi har köpt fastigheten och djuren" - Land Lantbruk
