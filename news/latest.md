@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-23 21:52_
+_Updated: 2026-04-23 23:28_
 
 - New Republican plan would fund ICE for rest of Trump’s term - The Washington Post
+- Multiple people wounded in Mall of Louisiana shooting, suspects still at large - NBC News
+- Hung Cao, the former refugee who is Trump’s new acting navy secretary - The Guardian
+- US Labels State-Licensed Marijuana as Less Dangerous Drug - Bloomberg.com
 - Live Updates: Iran touts video of Strait of Hormuz cargo ship seizures as Trump keeps quiet on next move - CBS News
-- Trump Administration Loosens Restrictions on Medical Marijuana - The New York Times
-- 2 critical, multiple hurt following mass shooting at Mall of Louisiana - WAFB
-- Man arrested on suspicion of planning mass shooting at New Orleans festival - The Guardian
-- Rivals Target Steyer, Becerra in Debate as California Governor Race Tightens - KQED
+- Award-winning UMass Amherst chef charged with murder in fatal beating of his wife at campus hotel - The Boston Globe
 - Trump claims US has total control over strait of Hormuz after Iran seizes two container ships - The Guardian
-- New documentary reveals ‘kill room’ rituals of Gilgo Beach serial killer - The Guardian
+- Bones of 3 Children Found in Woods May Have Been There for Years - The New York Times
 - ‘All eyes are on Ron DeSantis’: Florida could make or break the GOP’s redistricting edge - Politico
-- Who is John Phelan, the US Navy Secretary fired by Pete Hegseth? - Al Jazeera
+- Man arrested on suspicion of planning mass shooting at New Orleans festival - The Guardian
 - EU approves €90 billion loan for Ukraine after Hungary lifts controversial veto - Euronews.com
-- Lebanese journalist Amal Khalil killed in Israeli strike on a house where she took cover, paper says - AP News
-- UK to pay France up to $892 million in deal to reduce migrant crossings - Reuters
+- Israeli killing of Lebanese journalist draws international condemnation - The Guardian
+- Inside the daring 3-hour operation to rescue a group of tourists from a cliff in Australia - CBS News
 - Chinese Satellites Over Mideast Battlefield Put U.S. on Edge - WSJ
+- Meta says it will cut 8,000 jobs as AI spending grows - BBC
 - Hollywood Petition to Block Paramount-Warner Bros. Merger Tops 4,000 Names as Robert De Niro, Sofia Coppola, Holly Hunter and More Join the Fight - Variety
-- Anthropic’s Mythos breach was humiliating - The Verge
-- Microsoft will offer voluntary retirement to thousands of employees in a first for tech giant - GeekWire
-- Iran War Created Biggest Ever Energy Security Threat, IEA Says - Crude Oil Prices Today | OilPrice.com
-- Microsoft brings Xbox back, scraps Microsoft Gaming - The Verge
-- Galaxy S25 stable One UI 8.5 update changelog is here - SamMobile
+- Spirit Airlines lawyer says cash 'not going to last for very much longer,' but government rescue on the table - CNBC
+- Stocks weaken on dimming hopes for Iran deal, mixed quarterly earnings - Reuters
+- Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games - The Verge
+- Here's What's Coming in the 2026 Apple TV - MacRumors
