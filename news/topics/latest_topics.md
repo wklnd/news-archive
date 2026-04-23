@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-23 23:23_
+_Updated: 2026-04-24 00:08_
 
 ## Top Stories
 
+- Journalisten Amal Khalil dödad i Libanon – Israel anklagas för krigsbrott - Dagens Nyheter
 - Ukrainas motoffensiv avtar – behöver samla försvaret - Dagens Nyheter
-- Garagebrand i Alby: Svart rök och bilar i lågor - Sveriges Radio
 - Livsmedelsprofessorn: Viktigt att utreda brett - GP
+- Garagebrand i Alby: Svart rök och bilar i lågor - Sveriges Radio
 - 15-åring sprängde sig själv av misstag – unik rättegång inledd - Dagens Nyheter
-- Zelenskyj: Vi är redo för EU - Hufvudstadsbladet – HBL
-- Det väntas av samtalen mellan Israel och Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Pressbriefing med statsminister Ulf Kristersson och finansminister Elisabeth Svantesson - Regeringen.se
+- Ukrainas drönarjägare eftertraktade världen över - Dagens Nyheter
 - Hällristning återfunnen – men ska begravas igen - Dagens Nyheter
 - Lämnar formellt V – blir ny vilde i riksdagen - GP
+- Polischefen pressad om högermiljardärens verktyg - Dagens Nyheter
 - Polisanställd häktad för våldtäkt på kollega - Västerbottens-Kuriren
-- Journalisten Amal Khalil dödad i Libanon – Israel anklagas för krigsbrott - Dagens Nyheter
+- Grönt ljus för EU:s lån till Ukraina: Viktig dag - GP
+- USA: Har bordat Irankopplad oljetanker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Miljontals amerikaner kan bli kanadensare - Västerbottens-Kuriren
 - Trädgårdsmästaren sköts i ryggen – men Mugabes son kan gå fri - Dagens Nyheter
-- Leo XIV:s farväl av Afrika - Vatican News
 - ATG:s spelares uppgifter läckta på darknet - Dagens Nyheter
 - Schaktmassor från SSAB förvaras i Boden – prover har tagits - PT.se
 - Trots inställda flyg: Reseexperten tror inte på kaos i sommar - Sveriges Radio
-- Risk för plastbrist på grund av kriget i Iran - Dagens Nyheter
+- Hur högt kan oljepriset bli? Vad skulle krävas för 200 dollar på olja - ig.com
 - Bästa "Assassin’s Creed" någonsin återvänder – se trailern för remaken av "Black Flag" - MovieZine
 - Anker har gjort ett eget AI-chip. Thus-chippet ska användas för brusreducering i hörlurar. - feber.se
 
@@ -37,8 +37,8 @@ _Updated: 2026-04-23 23:23_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - UNDP
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
@@ -98,24 +98,24 @@ _Updated: 2026-04-23 23:23_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
