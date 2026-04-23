@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-23 08:24_
+_Updated: 2026-04-23 10:19_
 
 ## Top Stories
 
-- Våldsam olycka i Danmark – flera skadade - Aftonbladet
+- Tåg i frontalkrock i Danmark – kritiska skador - Aftonbladet
+- Ukraina: Läget vid fronten är det bästa på ett år - Omni
+- Brand i lägenhet – man i 80-årsåldern allvarligt skadad - Sveriges Radio
 - Fyra skadade efter misstänkt mordförsök i Kristianstad – sex personer gripna - SVT Nyheter
-- Uppgifter: Kan ta ett halvår att rensa Hormuz - Västerbottens-Kuriren
-- Klart: Utbildning för övningskörning slopas - GP
-- Här finns Malmös billigaste öl – priset på en starköl på 389 krogar i stan - Sydsvenskan
-- Hyresgästföreningen rasar mot C-krav på marknadshyror i nyproduktion - Bostadspolitik
+- Trump: Ingen deadline för när kriget ska vara slut - Omni
+- Irans chefsförhandlare: Meningslös vapenvila - Västerbottens-Kuriren
 - Så levde misstänkte Brattåsmördaren: Utredning klar - Västerbottens-Kuriren
 - SKR vill skärpa reglerna för nätläkare - GP
 - 16-åring bad AI om hjälp att hugga ihjäl Irankritiker i Malmö - Dagens Nyheter
 - Tonårspojke anhållen för skolhot i Borlänge - UNT
-- Journalist dödad i israelisk attack - GP
 - Ungern släpper fram massivt EU-lån till Ukraina - Dagens Nyheter
-- Ukraina: Dödlig rysk attack mot Dnipro - Corren
-- Blockaden av iranska hamnar fortsätter, säger Trump - Hufvudstadsbladet – HBL
+- Libanon: Dödliga israeliska attacker - Västerbottens-Kuriren
+- Fjärrstyrda robotar ersätter soldater i Ukrainas attacker - Dagens Nyheter
+- Fem dödade i Gaza efter israelisk attack – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Expert: Ransonering av bränsle inom kort i Sverige - Dagens Nyheter
-- Uppgifter: Mårder misstänks ha fört vidare information om Raysearch - EFN
+- SBAB: Bostadspriserna stiger – men byggandet tar bara fart svagt - Bostadspolitik
 - Källor: Microsoft var nära att lägga bud på Anysphere - Omni
-- Kospi mot strömmen på deppiga börser - Aftonbladet
+- Saabs bakslag: Peru gör miljardbetalning för amerikanska stridsflyg - DI
 - Recension – Tides of Tomorrow - FZ.se
-- God chans att se stjärnfall på himlen i natt - Ekuriren
+- Test: Robotgräsklippare med fyrhjulsdrift – det gör skillnad - m3.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på idag 07:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:25 - Tv.nu
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
 - VNV Global skriver ner värdet på Voi - DI
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 07:30 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
 - At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
@@ -92,7 +92,7 @@ _Updated: 2026-04-23 08:24_
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2026-04-23 08:24_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
+- The Human Right to Participate in Science and the Legal and Institutional Structure of Science - Uppsala universitet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Får och solparker - en vinst för både lantbruk, får och klimat - Solenerginyheter
+- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk
+- 2023-02-07 Seminarium: Friska djur behöver inte antibiotika! - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- De tar över Tangará Farm: "Vi har köpt fastigheten och djuren" - Land Lantbruk
