@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-24 20:05_
+_Updated: 2026-04-24 21:29_
 
 ## Top Stories
 
+- Ny attack mot samma familj i Södertälje – en gripen - Sveriges Radio
 - Elin drabbad av sushiutbrottet i Lerum: ”Inte bra” - GP
 - Direkt – Kriget i Ukraina – Dödlig attack mot Odessa - Dagens Nyheter
-- Yvonne fick sms från falsk polis: ”Jätteobehagligt” - Aftonbladet
 - Hegseth om Hormuz: Slut med snålskjuts - GP
-- Kryphål i lagen har gjort ombildning möjlig – utan hyresgästerna fått rösta - Dagens Nyheter
-- Israel och Libanon förlänger vapenvila - Hufvudstadsbladet – HBL
+- Yvonne fick sms från falsk polis: ”Jätteobehagligt” - Aftonbladet
+- Nya attacker i Libanon trots vapenvila - Västerbottens-Kuriren
 - Ica återkallar strimlad skinka – har fel datum - Västerbottens-Kuriren
-- Pojke oskyldig – skolhot i Borlänge var ryktesspridning - SVT Nyheter
-- Stor svenskledd polisinsats: ”De rör sig fort” - GP
-- Den osynliga faran – tre finländare minns Tjernobylkatastrofen för 40 år sedan - Yle
-- USA och Iran till Pakistan för nya samtal - GP
+- Snö drar in under lördag – SMHI: "Kan bli kvar" - Norran
+- UD-anställd åtalas – tog med hemliga papper hem - GP
+- Satsningar i den nya infrastrukturplanen presenteras i Göteborg och Malmö - Regeringen.se
+- USA och Iran håller nya fredssamtal i Pakistan - Dagens Nyheter
 - EU-ledarna möts på Cypern – ”söker sin roll i Mellanöstern” - SVT Nyheter
-- Skogsbränder i Japan – tusentals evakueras - Västerbottens-Kuriren
-- Ny fångutväxling mellan Ukraina och Ryssland - Aftonbladet
-- Energimyndighetens analytiker om risken för ransonering - Sveriges Radio
+- Nathan Shachar: Är iranska regimen splittrad – eller är det en charad för att lura Trump? - Dagens Nyheter
+- Norge inför åldersgräns för sociala medier - Hufvudstadsbladet – HBL
+- Analytiker: Ingen bensinransonering i sikte – trots energikris - Sveriges Radio
+- Därför biter det högre oljepriset inte på börsen - Dagens Nyheter
 - Ännu en höjning av drivmedelspriserna - Aftonbladet
-- Mcdonalds köttiga byte – byter Polen mot Danmark - Omni
-- Larmet – Höga halter vanadin i slaggmassor på SSAB:s bygge: ”Väldigt toxiskt” - Dagens Arbete
-- Finska "Saros" är ett av de snyggaste PS5-spelen någonsin - MovieZine
+- Afv: Sivers Semiconductors aktie skulle kunna tiodubblas, enligt förvaltare på DNB - Börsvärlden
+- "Saros" är ett av årets bästa och snyggaste spel - MovieZine
 - Rekord i nyföretagande – men få överlever: ”Väcker funderingar” - Tidningen Näringslivet
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
-- VNV Global skriver ner värdet på Voi - DI
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- VNV Global skriver ner värdet på Voi - DI
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Viettel Global kommer att betala en kontantutdelning för 2026 med en ränta på 33 %. - Vietnam.vn
+- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
 
 ## Technology
 
 - At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -81,10 +81,9 @@ _Updated: 2026-04-24 20:05_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -93,6 +92,7 @@ _Updated: 2026-04-24 20:05_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -123,21 +123,21 @@ _Updated: 2026-04-24 20:05_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
