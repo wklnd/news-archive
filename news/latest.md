@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-24 21:37_
+_Updated: 2026-04-24 22:28_
 
-- Justice Department drops probe into Fed Chair Jerome Powell - NPR
+- Justice Department drops investigation into Federal Reserve and Jerome Powell - NBC News
+- Trump Says He Dislikes Prediction Markets. His Family Invests in Them. - The New York Times
 - Witkoff and Kushner expected to meet Iranian foreign minister in Pakistan - Axios
-- Body of 1 missing USF doctoral student found, search for 2nd student goes on - NBC News
 - Nato says 'no provision' to expel members after report US could seek to suspend Spain - BBC
+- Missing USF student’s body found on Howard Frankland Bridge as search continues for Nahida Bristy - FOX 13 Tampa Bay
 - FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order - fda.gov
+- Trump administration to prioritise seeking death penalty, use firing squads - Al Jazeera
+- At least 10 injured, homes destroyed after tornadoes hit northern Oklahoma: What we know - KOCO
+- Track where wildfires are spreading in Georgia and Florida. See maps - USA Today
+- Pentagon chief Hegseth says US blockade on Iran 'going global' - Reuters
 - Netanyahu says he was successfully treated for prostate cancer - The Guardian
-- Watch tornado rip through Vance Air Force Base in Enid, Oklahoma - USA Today
-- Trump’s effort to bar migrants from claiming asylum at the border rejected, setting up possible Supreme Court showdown - CNN
-- Hegseth declares victory while preparing for more war with Iran - Politico
-- Soldier Involved In Maduro Raid Charged Over Insider Polymarket Bets That Won Him $400,000 - Forbes
 - Chornobyl at 40: Settlers and horses survive Russian drones, contamination - Al Jazeera
-- In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill - The New York Times
-- Live Updates: U.S. and Iran remain locked in Strait of Hormuz standoff, Israel launches new strikes in Lebanon - CBS News
-- Russian stuff blowing up: Prisoner exchange brings home 193 Ukrainians - Daily Kos
-- Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider
-- Clock ticks on Spirit Airlines as bondholders weigh Trump bailout. Here's what could happen next - CNBC
+- The world is searching for oil. This summit is looking to get rid of it. - Politico
+- 29 leaders gathered in Cyprus. As usual, the summit was about one who didn’t. - politico.eu
+- 20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here - CNBC
+- O’Leary: Possible Spirit Airlines bailout ‘really bad idea’ - The Hill
 - Intel Stock Surges 23% After Earnings, On Track for Record Close. Can AI Drive It Higher? - Barron's
-- Stock market today: Nasdaq and S&P 500 rise as DOJ drops Powell investigation, Intel stock soars - Yahoo Finance
+- US Consumer Sentiment Falls to Record Low on Inflation - Bloomberg.com
 - Galaxy Z Fold 8 Wide dimensions, aspect ratios of displays leak - SamMobile
-- Samsung may be bracing for first-ever annual loss in smartphone business - Ars Technica
+- Watch Apple reveal how it made the delightful MacBook Neo intro video - 9to5Mac
