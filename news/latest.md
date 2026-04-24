@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-24 03:12_
+_Updated: 2026-04-24 06:41_
 
-- Trump says Lebanon and Israel agree to extend Israel-Hezbollah ceasefire by 3 weeks - AP News
-- Soldier Used Classified Information to Bet on Maduro’s Ouster, U.S. Says - The New York Times
+- U.S. soldier accused of pocketing $400,000 through bets on Maduro’s capture - The Washington Post
+- Live Updates: Israel-Lebanon ceasefire extended by 3 weeks following White House peace talks, Trump says - CBS News
+- US Reduces Marijuana Restrictions in Lift to Ailing Industry - Bloomberg.com
+- Trump’s navy secretary ousted over dispute about shipbuilding - The Guardian
+- 'Missing scientist' cases have stoked wild speculation. For loved ones, the theories are hurtful - BBC
+- Ken Griffin’s Citadel attacks Zohran Mamdani for using his penthouse to sell New York tax plan - Financial Times
 - 1 dead, 5 injured and several in custody in Mall of Louisiana shooting - NBC News
-- Acting Navy secretary, once a political lightning rod, finds surprising support - Politico
 - Trump claims US has total control over strait of Hormuz after Iran seizes two container ships - The Guardian
-- What to know about the missing scientists alarming Congress - Axios
-- Louisiana GOP oks bill to keep elected Black New Orleanian from taking office - NOLA.com
-- US to loosen marijuana rules in major shift for $47 billion industry - Reuters
-- California governor race odds swing wildly after snoozy debate - New York Post
-- House Republicans grumbling about ‘skinny’ ICE funding package complicates its path - The Hill
+- White House exasperated with GOP over Virginia election faceplant - Politico
+- Severe thunderstorm watch in Twin Cities: 70 mph winds, ping pong-sized hail possible - Bring Me The News
 - Inside the daring 3-hour operation to rescue a group of tourists from a cliff in Australia - CBS News
-- Iran escalates Hormuz 'tit-for-tat,' seizes ship tied to billionaire close to Trump, Macron - Fox News
-- What we know about Israel killing Lebanese journalist Amal Khalil - Al Jazeera
-- EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters
-- Meta informs staff of layoffs affecting 8,000 employees amid AI push - Fox Business
-- Trump Says the US Is Weighing Purchase of Spirit Airlines - Bloomberg.com
-- David Zaslav Merger Payout Approved By Just 17% Of WBD Shareholders; 82% Opposed - Deadline
-- Regeneron inks drug pricing deal with Trump, will offer new hearing-loss therapy for free - CNBC
-- Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games - The Verge
-- Here's What's Coming in the 2026 Apple TV - MacRumors
+- Iran takes seized ships to port, countries check on seafarers' safety - Reuters
+- Pope Leo vents about failure to end Iran war: 'Many innocent people have died' - NBC News
+- Body of journalist for pro-Hezbollah daily pulled from rubble of Lebanon home struck by IDF - The Times of Israel
+- Meta to lay off 8,000 as part of AI efficiency push - Axios
+- Trump confirms he's weighing a taxpayer takeover of Spirit Airlines "for the right price" - CBS News
+- Nike Cuts 1,400 Jobs in Operations and Tech in Latest Round of Layoffs - WWD
+- Intel Stock: Earnings Were Strong Enough to Put Shares at Highest Level in 25 Years - Barron's
+- Asha Sharma Has Reportedly Brought Xbox Back by Dropping the Microsoft Gaming Brand and Going Back to Just ‘Xbox’ - Wccftech
+- Android 17 QPR1 Beta 1 hits Pixel devices - Android Police
