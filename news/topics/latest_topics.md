@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-24 01:25_
+_Updated: 2026-04-24 02:09_
 
 ## Top Stories
 
 - Donald Trump: Vapenvilan mellan Libanon och Israel förlängs - GP
-- Dödliga attacker inför samtalen om vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas motoffensiv avtar – behöver samla försvaret - Dagens Nyheter
-- Kraftig bilbrand Alby söder om Stockholm - SVT Nyheter
-- Khamenei delegerar makten över Iran till generalerna - Omni
-- KI tonar ner oron för svensk ekonomi - Sveriges Radio
+- Vi riskerar att få både inflation och stagnation - Dagens Arena
+- Över 300 sjuka efter att ha ätit sushi i Lerum - Expressen
+- Mojtaba Khamenei brännskadad i ansiktet: ”Har svårt att prata” - Aftonbladet
+- Tio kvar på sjukhus efter tågolyckan - Sydsvenskan
 - Hällristning återfunnen – men ska begravas igen - Dagens Nyheter
 - Polischefen pressad om högermiljardärens verktyg - Dagens Nyheter
 - Polisanställd häktad för våldtäkt på kollega - Västerbottens-Kuriren
 - Region Sörmland om nya reglerna för digital vård: ”Väldigt positivt” - SVT Nyheter
-- Miljontals amerikaner kan bli kanadensare - Aftonbladet
-- Zelenskyj: Vi är redo för EU - Corren
+- Zelenskyj: Vi är redo för EU - Västerbottens-Kuriren
+- Trump utesluter kärnvapen mot Iran - Aftonbladet
+- Sandra Stiskalo: En chock att en frisk kvinna i sorg får dödshjälp i Schweiz - Dagens Nyheter
 - Leo XIV:s Afrikaresa avrundas - Signum – Katolsk orientering om kyrka, kultur och samhälle
-- Irankriget kan vara början till slutet på USA:s ställning - TV4 Nyheterna
 - ATG:s spelares uppgifter läckta på darknet - Dagens Nyheter
 - Schaktmassor från SSAB förvaras i Boden – prover har tagits - PT.se
 - Bolagens krisdrag – här är flygen som kan ställas in: ”Tjänar för lite på det” - Aftonbladet
@@ -27,26 +27,26 @@ _Updated: 2026-04-24 01:25_
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:25 - Tv.nu
 - VNV Global skriver ner värdet på Voi - DI
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Umeå children in worldwide school project on AI - Umeå universitet
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 
 ## Technology
 
@@ -97,14 +97,14 @@ _Updated: 2026-04-24 01:25_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - it-halsa.se
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
@@ -113,9 +113,9 @@ _Updated: 2026-04-24 01:25_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -131,14 +131,14 @@ _Updated: 2026-04-24 01:25_
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Fyra innovationsanslag till KI från Knut och Alice Wallenbergs Stiftelse - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
