@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-24 16:19_
+_Updated: 2026-04-24 17:50_
 
-- Nato says US cannot suspend Spain from alliance, after reported Pentagon email - BBC
-- Firing fears ripple through "Mean Girls" Pentagon - Axios
-- US soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid - AP News
-- Israel-Lebanon ceasefire extended by three weeks, Trump says - Axios
-- Israel's Benjamin Netanyahu treated for early-stage prostate cancer - BBC
+- DOJ drops criminal probe of Fed Chair Powell, removes hurdle for Warsh confirmation - CNBC
+- Nato says 'no provision' to expel members after report US could seek to suspend Spain - BBC
+- As U.S. re-arms during Iran ceasefire, long-term concerns emerge about advanced munitions supplies - CBS News
+- Netanyahu announces he was diagnosed and treated for prostate cancer - Politico
 - After 2 failed votes, Mike Johnson unveils new plan to extend key U.S. spy powers - NPR
+- Israel-Lebanon ceasefire extended by three weeks, Trump says - Axios
 - Tornado roars through Enid, Oklahoma, destroys homes, forces Air Force base to close - CBS News
-- India voices anger after Trump shares comments calling it a ‘hellhole’ - The Guardian
-- Iran: Hegseth just sent an alarming message to the rest of the world. - Slate
-- 2 young people arrested in alleged plot to attack Houston synagogue - NPR
-- Gaza Set to Hold First Local Election in Two Decades - The New York Times
+- US soldier charged with using classified intel to win $400K Polymarket bet on Maduro raid - AP News
+- India Condemns Trump Social Media Post Calling Nation ‘Hellhole’ - Bloomberg.com
+- North Carolina woman, Harris Co. juvenile arrested after allegedly planning attack on Houston Jewish day school: FBI - ABC13 Houston
 - EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto - NPR
 - In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill - The New York Times
-- Trump attacks against NATO allies 'painful', says former NATO chief - Euronews.com
-- Meta slashes 8,000 jobs, or 10% of its workforce, as Microsoft offers buyouts - ABC News - Breaking News, Latest News and Videos
-- Trump Says the US Is Weighing Purchase of Spirit Airlines - Bloomberg.com
-- Procter & Gamble earnings beat estimates as sales grow 7% - CNBC
-- Intel Stock Surges 29% After Stellar Earnings. Why AI Can Drive the Rally Further. - Barron's
+- Is this what war looks like now? | Mohamad Bazzi - The Guardian
+- Europeans Ask: What Would It Mean to Defend One Another Without NATO? - The New York Times
+- Intel’s stock extends its spectacular run — and could see its best day in four decades - MarketWatch
+- Meta and Microsoft have joined the tech layoff tsunami – but is AI really to blame? - The Conversation
+- Trump Faces Conservative Mutiny Over Potential $500M Spirit Airlines Bailout - NOTUS — News of the United States
+- Stock-Market Today: Nasdaq Opens Higher; Intel, TSCM in Focus — Live Updates - WSJ
 - YouTube TV starts rolling out Multiview upgrade that supports any channel - 9to5Google
-- Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails - Engadget
+- Microsoft Gaming reverts to Xbox branding as part of new mission statement - GamesIndustry.biz
