@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-24 22:28_
+_Updated: 2026-04-24 23:31_
 
-- Justice Department drops investigation into Federal Reserve and Jerome Powell - NBC News
+- Justice Dept. drops criminal probe of Fed Chair Jerome Powell - The Washington Post
+- Live Updates: Witkoff, Kushner to head to new Iran peace talks in Pakistan, White House says - CBS News
 - Trump Says He Dislikes Prediction Markets. His Family Invests in Them. - The New York Times
-- Witkoff and Kushner expected to meet Iranian foreign minister in Pakistan - Axios
+- One of two missing USF students found dead, roommate named a suspect - CNN
+- Why Trump wants to spend $1 billion on Great Salt Lake - NPR
+- Israel-Lebanon ceasefire extended by three weeks, Trump says - Axios
+- Camp Mystic must undergo changes before it can reopen this summer, Texas officials say - NBC News
+- US justice department to allow firing squads as federal death penalty method - The Guardian
+- A violent tornado tears through Oklahoma town, damaging 40 homes but sparing lives - The Hill
+- Justice Department’s effort to strip citizenship from naturalized Americans could face widespread judicial pushback - The Conversation
 - Nato says 'no provision' to expel members after report US could seek to suspend Spain - BBC
-- Missing USF student’s body found on Howard Frankland Bridge as search continues for Nahida Bristy - FOX 13 Tampa Bay
-- FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order - fda.gov
-- Trump administration to prioritise seeking death penalty, use firing squads - Al Jazeera
-- At least 10 injured, homes destroyed after tornadoes hit northern Oklahoma: What we know - KOCO
-- Track where wildfires are spreading in Georgia and Florida. See maps - USA Today
-- Pentagon chief Hegseth says US blockade on Iran 'going global' - Reuters
 - Netanyahu says he was successfully treated for prostate cancer - The Guardian
 - Chornobyl at 40: Settlers and horses survive Russian drones, contamination - Al Jazeera
 - The world is searching for oil. This summit is looking to get rid of it. - Politico
-- 29 leaders gathered in Cyprus. As usual, the summit was about one who didn’t. - politico.eu
-- 20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here - CNBC
-- O’Leary: Possible Spirit Airlines bailout ‘really bad idea’ - The Hill
-- Intel Stock Surges 23% After Earnings, On Track for Record Close. Can AI Drive It Higher? - Barron's
-- US Consumer Sentiment Falls to Record Low on Inflation - Bloomberg.com
-- Galaxy Z Fold 8 Wide dimensions, aspect ratios of displays leak - SamMobile
-- Watch Apple reveal how it made the delightful MacBook Neo intro video - 9to5Mac
+- White House mulls using Defense Production Act in Spirit Airlines takeover - CBS News
+- S&P 500, Nasdaq close at records, boosted by Intel, as investors hope for a restart to U.S.-Iran talks - CNBC
+- Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider
+- Citadel Sends Warning Shot to NYC After Mamdani Blasts Billionaire Griffin - Bloomberg.com
+- Leaker details next year’s ‘iPhone 20’ display features - 9to5Mac
+- iPhone 18 Pro battery and charging: all expected changes - PhoneArena
