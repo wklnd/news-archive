@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-25 03:04_
+_Updated: 2026-04-25 06:21_
 
-- Justice Department drops criminal probe of Fed chair Powell, likely clearing the way for Warsh - AP News
-- Iran War Live Updates: U.S. Blockade Around Strait of Hormuz Will Last ‘as Long as It Takes,’ Hegseth Says - The New York Times
+- Live Updates: Witkoff, Kushner to head to new Iran peace talks in Pakistan, White House says - CBS News
+- DOJ drops Powell probe, but successor’s confirmation remains in limbo - The Washington Post
 - Statement From Mayor Zohran Kwame Mamdani on Int. 1-B and Int. 175-B - NYC.gov
+- Iranian FM Araghchi to visit Pakistan in step towards US talks resumption - Al Jazeera
 - US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News
-- US justice department to allow firing squads as federal death penalty method - The Guardian
-- Appeals court clears way for U.S. to reopen border for asylum seekers - The Washington Post
+- Appeals court rules that Trump's asylum ban at the border is illegal - NPR
 - Body of 1 missing USF student found on Howard Frankland Bridge, man arrested - Tampa Bay Times
 - Maine Gov. Janet Mills vetoes ban on data center construction - NBC News
 - Camp Mystic license imperiled, but troubled camp could still reopen - The Washington Post
-- Special Forces Sgt. in Polymarket Maduro raid bet case released; Kalshi says it blocked him - CNBC
-- Chornobyl at 40: Settlers and horses survive Russian drones, contamination - Al Jazeera
+- At least 10 injured, homes destroyed after tornadoes hit northern Oklahoma: What we know - KOCO
+- OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter - Al Jazeera
+- PHOTO ESSAY: Chernobyl liquidators return to where they faced an invisible enemy - AP News
+- EU approves a $106 billion loan package to help Ukraine after Hungary lifts its veto - NPR
 - Netanyahu says he was successfully treated for prostate cancer - The Guardian
-- The world is searching for oil. This summit is looking to get rid of it. - Politico
-- In Britain, 7 Unelected Lords Help Block an Assisted Dying Bill - The New York Times
-- White House mulls using Defense Production Act in Spirit Airlines takeover - CBS News
 - Meta Employees React to Pending Job Cuts: '28 Days of Hell' - Business Insider
-- S&P 500, Nasdaq close at records, boosted by Intel, as investors hope for a restart to U.S.-Iran talks - CNBC
-- Stock Market Today, April 24: Nvidia Surges on Soaring AI Chip Demand - Yahoo Finance
+- Nvidia stock closes at record, pushing market cap past $5 trillion - CNBC
+- Markets News, April 24, 2026: Nasdaq, S&P 500 Hit Records as Intel Soars; Oil Falls on US-Iran Talks; DOJ Drops Powell Probe - Investopedia
+- A banker wants to trade his $4.8 million California estate for shares in Anthropic. He's already gotten offers. - Business Insider
+- Apple Wallet’s new Digital ID feature just added more ways to use it - 9to5Mac
 - Fitbit 4.68 rolling out sleep editing, motivational Coach messages, more personalization - 9to5Google
-- iPhone 18 rumored to get at least one new Pro-tier upgrade - 9to5Mac
