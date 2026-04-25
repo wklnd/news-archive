@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-26 00:05_
+_Updated: 2026-04-26 01:21_
 
 - Live updates: Trump says US team won’t visit Pakistan as uncertainty surrounds Iran peace talks - CNN
-- Trump to Dine With Reporters He’s Been Roasting All Week - The New York Times
-- Swedish Hospital shooting today: Roseland, Chicago hospital shooting injures 2 officers at 5140 North California Avenue, ald. says - ABC7 Chicago
-- Ranking Member Lofgren Reacts to Latest Trump Scheme to Undermine Science - House.gov
+- Close watch on how Trump and journalists will get along at White House correspondents' dinner - AP News
+- 2 Police Officers Are Shot at a Chicago Hospital - The New York Times
+- Trump ousts National Science Board members - The Washington Post
 - In California, a Voter ID Proposal Is Set to Appear on the Ballot in November - The New York Times
-- Roommate charged with murder in deaths of University of South Florida doctoral students - The Guardian
-- ICE re-arrests Egyptian family after Texas judges freed them following 10 months in detention - The Texas Tribune
-- Dirk Kempthorne, former Idaho governor and U.S. Interior secretary, dies at 74 - Politico
+- In a rare interview, a leader of the world's largest right-wing group talks to NPR - NPR
+- Roommate charged with two counts of murder in death, disappearance of two USF students - NPR
+- Family longest held in US immigration detention re-arrested after release - Al Jazeera
+- President Donald J. Trump and First Lady Melania Trump to Welcome His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla for a State Visit - The White House (.gov)
 - The Poverty of the DOJ Indictment of the Southern Poverty Law Center - Just Security
-- Exclusive | The Soldier Accused of Maduro Bets: ‘Army People Don’t Get the Business Stuff’ - WSJ
 - Gunmen stage simultaneous attacks across Mali, army says - Al Jazeera
-- Spain responds to reported US plans to punish NATO allies - dw.com
-- Iran’s Araghchi Left Pakistan Meeting With US Talks in Limbo - Bloomberg.com
-- Palestinians in West Bank and some in Gaza vote in local elections - BBC
+- Argentina calls for renewed negotiations over Falkland Islands - Reuters
+- AP sees inside Chernobyl Nuclear Power Plant 40 years after disaster - AP News
+- Iran relays demands through Pakistan as it warns US over blockade - ynetnews
+- Big Tech's jobs cuts feel like an economic warning - Yahoo Finance
 - Trump’s idea to ‘just buy’ bankrupt Spirit Airlines draws GOP backlash - The Washington Post
 - 'Hoping to Fool the American People': In Dead of Night, GOP Sets Vote on Trump Fed Pick - Common Dreams
-- Trump bought at least $51 million in bonds in March, disclosure shows - Reuters
-- Apple will soon deliver billions more in cash to investors. Here’s how it stacks up to the rest of Big Tech. - MarketWatch
+- Trump hosts crypto contest winners at Mar-a-Lago as his coin languishes - Reuters
 - The next iPad could sport a new naming scheme, thanks to new interview insight - 9to5Mac
-- ‘Shutdown, Restart’—Microsoft Changes Windows To Ease PC Users’ Frustrations - Forbes
+- PS5 Exclusive Shooter Gets Stellar Reviews, Is GOTY Contender - PlayStation LifeStyle
