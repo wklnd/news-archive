@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 15:43_
+_Updated: 2026-04-25 17:08_
 
 ## Top Stories
 
-- Efter år av väntan – nu ska riksväg 40 byggas om - SVT Nyheter
-- Ahmadreza Djalali fängslad i tio år: ”Vid liv men inte mer” - Sveriges Radio
-- DN Direkt – Långa köer på Kastrup efter it-fel - Dagens Nyheter
+- Fotboll: Alexander Isak målskytt – gör första målet efter skadan - SVT Nyheter
+- Irans Araghchi på plats för samtal i Pakistan - Västerbottens-Kuriren
 - Expert om oljekrisen: Värre innan det blir bättre - GP
-- Simona Mohamssons riksmötestal 2026 - Liberalerna
-- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
-- Svensk kvinna gripen i Spanien - GP
+- Mohamsson: Kommer stå sida vid sida med Luf - GP
+- Ahmadreza Djalali fängslad i tio år: ”Vid liv men inte mer” - Sveriges Radio
+- Liberalerna vill se klasser för stökiga elever - Dagens Nyheter
+- Nu blir hela sträckan Stockholm och Göteborg obruten motorväg - Dagens Nyheter
+- Svensk kvinna gripen i Spanien - SVT Nyheter
 - Efter adoptionsutredningen – tyst från regeringen - Dagens Nyheter
 - Debatt: Vi rustar Värmlandsbanan – från flaskhals till fungerande stråk - NWT
-- Polisens varning: ”Det är fejk” - GP
-- Flera döda i Libanon efter förlängd vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Skott i Mali – armén strider mot ”terrorgrupper” - GP
-- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Flera döda i Libanon efter förlängd vapenvila - Dagens Nyheter
+- Nathan Shachar: Palestinska lokalval har stor symbolisk betydelse men liten praktisk - Dagens Nyheter
+- Ryssland extremistklassar Nobelprisade Memorial – sympatisörer i fara - Sveriges Radio
+- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
 - Amerikansk matkedja stäms – för lite koffein i kaffet - Sydsvenskan
-- Börskrasch nära – Buffett-indikatorn är nu över 200 procent - Dagens PS
 - Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
-- Oljetopp: Kriget styr världen mot förnybar energi - Aftonbladet
+- Börskrasch nära – Buffett-indikatorn är nu över 200 procent - Dagens PS
+- Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
+- Jolie och Filip om åldersgräns för smartphones: ”Skulle bli glad” - Sveriges Radio
 - Apple ville stoppa föreningens logga – fick backa - Aftonbladet
-- DN Direkt – FHM ska utreda barns innehav av smarttelefoner - Dagens Nyheter
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på inatt 01:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - Tv.nu
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
-- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på idag 07:55 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - VNV Global skriver ner värdet på Voi - DI
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- SEB Professional Family Office får ny global chef - finanswatch.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- SMARTIES™ Awards 2026 Call for Entries, Setting the Global Benchmark for Marketing Impact (PR Newswire) - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 
 ## Technology
 
@@ -80,13 +80,13 @@ _Updated: 2026-04-25 15:43_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
@@ -107,7 +107,6 @@ _Updated: 2026-04-25 15:43_
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -115,6 +114,7 @@ _Updated: 2026-04-25 15:43_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -131,14 +131,14 @@ _Updated: 2026-04-25 15:43_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-04-25 15:43_
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Lediga jobb - Land Lantbruk och Skogsbruk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
