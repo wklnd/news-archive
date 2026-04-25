@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 14:02_
+_Updated: 2026-04-25 15:43_
 
 ## Top Stories
 
+- Efter år av väntan – nu ska riksväg 40 byggas om - SVT Nyheter
+- Ahmadreza Djalali fängslad i tio år: ”Vid liv men inte mer” - Sveriges Radio
+- DN Direkt – Långa köer på Kastrup efter it-fel - Dagens Nyheter
+- Expert om oljekrisen: Värre innan det blir bättre - GP
+- Simona Mohamssons riksmötestal 2026 - Liberalerna
 - USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
+- Svensk kvinna gripen i Spanien - GP
 - Efter adoptionsutredningen – tyst från regeringen - Dagens Nyheter
-- Hamid har utvisats från Sverige två gånger – hoppas på ny chans - GP
-- Irans Araghchi på plats för samtal i Pakistan - Västerbottens-Kuriren
-- Ukraina tar nytt unikt steg i drönarteknik - Dagens PS
-- Efter bakslaget: Då kommer vårvädret tillbaka - Aftonbladet
+- Debatt: Vi rustar Värmlandsbanan – från flaskhals till fungerande stråk - NWT
 - Polisens varning: ”Det är fejk” - GP
-- Ungdom död i fyrhjulingsolycka - Västerbottens-Kuriren
-- VERONICA PALM: Året var 1986 – och något osynligt hade gjort skogen osäker - Corren
-- Pojke sprängdes till döds: ”De bryr sig inte” - Norran
-- Vittnen: Skottlossning på flera håll i Mali - SVT Nyheter
-- Två döda i rasmassor efter ryska attacker - GP
-- Lokalval i Gaza – första gången på 20 år – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Motstridiga besked från USA och Iran om samtal - Dagens Nyheter
-- Därför biter det högre oljepriset inte på börsen - Dagens Nyheter
+- Flera döda i Libanon efter förlängd vapenvila – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skott i Mali – armén strider mot ”terrorgrupper” - GP
+- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Flera döda i Libanon efter förlängd vapenvila - Dagens Nyheter
 - Amerikansk matkedja stäms – för lite koffein i kaffet - Sydsvenskan
-- Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
-- Open AI-chefens ursäkt – larmade inte om skolskytt - DI
-- Märkligt mönster: Nasa gör uppseendeväckande fynd i krater på Mars - Illustrerad Vetenskap
+- Börskrasch nära – Buffett-indikatorn är nu över 200 procent - Dagens PS
+- Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
+- Oljetopp: Kriget styr världen mot förnybar energi - Aftonbladet
 - Apple ville stoppa föreningens logga – fick backa - Aftonbladet
+- DN Direkt – FHM ska utreda barns innehav av smarttelefoner - Dagens Nyheter
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-04-25 14:02_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - VNV Global skriver ner värdet på Voi - DI
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - SEB Professional Family Office får ny global chef - finanswatch.se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- SMARTIES™ Awards 2026 Call for Entries, Setting the Global Benchmark for Marketing Impact (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -101,6 +101,7 @@ _Updated: 2026-04-25 14:02_
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
@@ -114,7 +115,6 @@ _Updated: 2026-04-25 14:02_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -123,31 +123,31 @@ _Updated: 2026-04-25 14:02_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Fyra innovationsanslag till KI från Knut och Alice Wallenbergs Stiftelse - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Aktiviteter på The Cell - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Aktiviteter på The Cell - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -156,9 +156,9 @@ _Updated: 2026-04-25 14:02_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk och Skogsbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
