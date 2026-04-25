@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-25 18:21_
+_Updated: 2026-04-25 19:22_
 
-- Live Updates: Witkoff, Kushner set to head to Pakistan for Iran peace talks today - CBS News
-- Roommate charged with murder in deaths of University of South Florida doctoral students - The Guardian
+- Trump cancels envoys' trip to Pakistan for Iran talks - Axios
+- Roommate of slain USF student is charged with two counts of murder - NBC News
 - Trump’s political headwinds pile up after a week of setbacks - The Washington Post
-- Despite Iran tensions, King Charles III will follow his mother's lead in celebrating US-UK bonds - AP News
+- Iran caused more extensive damage to U.S. military bases than publicly known - NBC News
 - Justice Department makes it easier to deport those with DACA status - NPR
-- Trump, critic of the press, attends its annual celebration after years of boycotts - Reuters
-- US military strike on alleged drug boat kills 2 in eastern Pacific - AP News
-- Wildfires Destroy Dozens of Structures in Georgia, Governor Says - The New York Times
-- Maine Gov. Janet Mills vetoes ban on data center construction - NBC News
-- Camp Mystic license imperiled, but troubled camp could still reopen - The Washington Post
+- Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create - The New York Times
+- King Charles to attend 9/11 event with New York Mayor Mamdani - Reuters
+- Trump set to attend his first White House Correspondents' Dinner as president - NBC News
+- Why a century-old naval disaster means Trump can’t take the Strait of Hormuz by force - The Independent
+- Wildfires rage in Georgia, Florida; homes burn, evacuations ordered - USA Today
 - Gunmen stage simultaneous attacks across Mali, army says - Al Jazeera
 - Palestinians in West Bank and some in Gaza vote in local elections - BBC
-- Firefighters in northern Japan struggle to contain blazes as over 3,000 people evacuated - Reuters
-- Altman apologizes after OpenAI failed to alert police before fatal Canada shooting - The Guardian
-- Meta employees face a slow-swinging axe and a tough choice: hustle or job hunt - Business Insider
+- Spain responds to reported US plans to punish NATO allies - DW.com
+- The Elite ‘Doctors’ Who Care for Mount Everest - The New York Times
+- Big Tech's jobs cuts feel like an economic warning - Yahoo Finance
 - Trump’s idea to ‘just buy’ bankrupt Spirit Airlines draws GOP backlash - The Washington Post
 - 'Hoping to Fool the American People': In Dead of Night, GOP Sets Vote on Trump Fed Pick - Common Dreams
-- SiriusXM Said to Be in Early Talks to Acquire iHeartMedia - The New York Times
-- 'It Truly Excels': Saros Is Another 'Exceptional' PS5 Pro Game, Say Tech Experts - Push Square
-- ‘Shutdown, Restart’—Microsoft Changes Windows To Ease PC Users’ Frustrations - Forbes
+- The 'spray guy' got blood cancer. Now he's fighting Roundup at the Supreme Court - USA Today
+- YouTuber has DIMM idea, builds working DRAM in backyard - theregister.com
+- PS5 Exclusive Shooter Gets Stellar Reviews, Is GOTY Contender - PlayStation LifeStyle
