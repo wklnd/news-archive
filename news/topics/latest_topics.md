@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 11:28_
+_Updated: 2026-04-25 12:11_
 
 ## Top Stories
 
-- Larmade om risker före tågolyckan i Danmark - Aftonbladet
-- DN Direkt – S öppnar för förlängning av sänkt matmoms - Dagens Nyheter
+- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
 - Brand i gatukök på Smögenbryggan - Lysekilsposten
-- Byn bevakades med drönare – efter pedofilskräcken - Aftonbladet
+- Efter bakslaget: Då kommer vårvädret tillbaka - Aftonbladet
+- Efter adoptionsutredningen – tyst från regeringen - Dagens Nyheter
 - Kerstin, 74, lever utan internet: ”Får göra på det gamla vanliga sättet” - Dagens Nyheter
-- Vattnet snart tillbaka i Upplands-Bro - Västerbottens-Kuriren
+- Larmade om risker före tågolyckan i Danmark - GP
+- Svensk kvinna gripen i Spanien - Aftonbladet
 - Pojke sprängdes till döds: ”De bryr sig inte” - Västerbottens-Kuriren
 - Ungdom död i fyrhjulingsolycka - GP
 - Polisen varnar för våg av bedrägerier: ”Radera och anmäl” - SVT Nyheter
-- VERONICA PALM: Året var 1986 – och något osynligt hade gjort skogen osäker - Corren
 - Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
-- Vem skyddar vem i EU? – ”Vore bra med en manual” - Corren
-- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
-- Efter mötet: Tog upp Israels kränkningar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vem skyddar vem i EU? – ”Vore bra med en manual” - GP
+- Vittnen: Skottlossning på flera håll i Mali - SVT Nyheter
+- USA och Iran till Pakistan för nya samtal - Dagens Nyheter
+- Matkedja stäms – för lite koffein i kaffet - GP
 - Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
 - Google planerar rekordstor AI-satsning – miljardbelopp till Anthropic - Börskollen
-- Amazon-backade kärnkraftsbolaget rusade i börsdebuten - EFN
-- Förorenade massor från SSAB deponeras i Boden - NSD
+- AI:s energisug behöver kärnkraft – IPO rusade 27 procent - Dagens PS
 - DN Direkt – FHM ska utreda barns innehav av smarttelefoner - Dagens Nyheter
 - "Saros" är ett av årets bästa och snyggaste spel - MovieZine
 
@@ -33,20 +33,20 @@ _Updated: 2026-04-25 11:28_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - VNV Global skriver ner värdet på Voi - DI
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- SEB Professional Family Office får ny global chef - finanswatch.se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
@@ -63,28 +63,28 @@ _Updated: 2026-04-25 11:28_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -98,7 +98,6 @@ _Updated: 2026-04-25 11:28_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - E-hälsa inom EU - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
@@ -108,13 +107,14 @@ _Updated: 2026-04-25 11:28_
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -123,21 +123,21 @@ _Updated: 2026-04-25 11:28_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Fyra innovationsanslag till KI från Knut och Alice Wallenbergs Stiftelse - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 
 ## Jordbruk
@@ -159,6 +159,6 @@ _Updated: 2026-04-25 11:28_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- Lammen bräker igen på Tangará Farms gård - Land Lantbruk och Skogsbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
