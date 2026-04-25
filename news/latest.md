@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-25 19:22_
+_Updated: 2026-04-25 20:26_
 
 - Trump cancels envoys' trip to Pakistan for Iran talks - Axios
-- Roommate of slain USF student is charged with two counts of murder - NBC News
+- Roommate charged with murder in deaths of University of South Florida doctoral students - The Guardian
 - Trump’s political headwinds pile up after a week of setbacks - The Washington Post
-- Iran caused more extensive damage to U.S. military bases than publicly known - NBC News
-- Justice Department makes it easier to deport those with DACA status - NPR
-- Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create - The New York Times
-- King Charles to attend 9/11 event with New York Mayor Mamdani - Reuters
-- Trump set to attend his first White House Correspondents' Dinner as president - NBC News
-- Why a century-old naval disaster means Trump can’t take the Strait of Hormuz by force - The Independent
-- Wildfires rage in Georgia, Florida; homes burn, evacuations ordered - USA Today
+- Trump, critic of the press, attends its annual celebration after years of boycotts - Reuters
+- Trump and Congress cut funding for Planned Parenthood. Can Botox keep it afloat? - NPR
+- Seven dead in major Russian attack on Ukraine - BBC
+- 2 massive Georgia wildfires destroy more than 100 homes, scorch over 38,000 acres - CBS News
+- King's 'high stakes' visit with Trump will be toughest test yet of his reign - BBC
+- Exclusive | The Soldier Accused of Maduro Bets: ‘Army People Don’t Get the Business Stuff’ - WSJ
+- Texas finds Camp Mystic's flood emergency plan deficient for reopening - Reuters
 - Gunmen stage simultaneous attacks across Mali, army says - Al Jazeera
+- Spain responds to reported US plans to punish NATO allies - dw.com
+- Iran War News Live Updates: Iran’s Foreign Minister Leaves Pakistan for Oman - WSJ
 - Palestinians in West Bank and some in Gaza vote in local elections - BBC
-- Spain responds to reported US plans to punish NATO allies - DW.com
-- The Elite ‘Doctors’ Who Care for Mount Everest - The New York Times
-- Big Tech's jobs cuts feel like an economic warning - Yahoo Finance
+- Meta employees face a slow-swinging axe and a tough choice: hustle or job hunt - Business Insider
 - Trump’s idea to ‘just buy’ bankrupt Spirit Airlines draws GOP backlash - The Washington Post
 - 'Hoping to Fool the American People': In Dead of Night, GOP Sets Vote on Trump Fed Pick - Common Dreams
-- The 'spray guy' got blood cancer. Now he's fighting Roundup at the Supreme Court - USA Today
-- YouTuber has DIMM idea, builds working DRAM in backyard - theregister.com
-- PS5 Exclusive Shooter Gets Stellar Reviews, Is GOTY Contender - PlayStation LifeStyle
+- Trump Reports Flurry of March Bond Purchases in New Disclosure - Bloomberg.com
+- Spelling Bee Forum - The New York Times
+- Pokémon Scarlet & Violet Free Download Officially Available Until April 30 - ScreenRant
