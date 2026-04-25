@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 21:26_
+_Updated: 2026-04-25 22:02_
 
 ## Top Stories
 
-- Expert: Risk att både USA och Iran höjer temperaturen - Dagens Nyheter
+- Trump ställer in USA:s resa till Pakistan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - En till sjukhus efter grovt brott i Norrköping - Aftonbladet
 - Netanyahu utlovar hårt slag mot Hizbollah - Västerbottens-Kuriren
 - Ledde skämten till Trumps beslut? - Svenska Dagbladet
-- Barn allvarligt skadat efter drunkningslarm i Hyllie - Sveriges Radio
 - Sandras pappa fick hjärtinfarkt– då började människor filma honom - GP
+- Barn allvarligt skadat efter drunkningslarm i Hyllie - Sveriges Radio
 - Liberalerna: Inför hjälpklasser för stökiga elever - Liberalerna
 - 18-åring omhändertagen – Säpo larmade om radikalisering - Omni
-- Nu blir hela sträckan Stockholm och Göteborg obruten motorväg - Dagens Nyheter
 - Svensk kvinna gripen i Spanien - SVT Nyheter
+- Tjernobyls kamp mot klockan – i 100 år till - Västerbottens-Kuriren
 - Ryssland extremistklassar Nobelprisade Memorial – sympatisörer i fara - Sveriges Radio
+- Ryska talmannen i Nordkorea – hyllar insats i Ukraina - Dagens Nyheter
 - Två döda i rasmassor efter ryska attacker - GP
-- Lokalval i Gaza – första gången på 20 år – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Skott i Mali – armén strider mot ”terrorgrupper” - GP
 - Stäms – för lite koffein i kaffet - Folkbladet
-- Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
 - Rekord i kryptostölder – Nordkorea bakom nästan allt - Dagens PS
+- Ännu billigare för norrmän i Sverige: ”Kaka på kaka” - Aftonbladet
 - Förorenade massor från SSAB deponeras i Boden - NSD
 - Flytta dig då, för h-vete: Arga bilister gör trafiken farlig - Illustrerad Vetenskap
-- "Saros" är ett av årets bästa och snyggaste spel - moviezine.se
+- "Saros" är ett av årets bästa och snyggaste spel - MovieZine
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - Tv.nu
-- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
+- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på idag 07:55 - Tv.nu
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- UNDP lanserar läromedel om global utveckling - UNDP
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- SMARTIES™ Awards 2026 Call for Entries, Setting the Global Benchmark for Marketing Impact (PR Newswire) - Aktiellt
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- New Secretary General appointed - Olof Palme International Center
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- UNDP lanserar läromedel om global utveckling - UNDP
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- VNV Global skriver ner värdet på Voi - DI
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -97,23 +97,23 @@ _Updated: 2026-04-25 21:26_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- E-hälsa inom EU - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Förvärv av RMS Medical Devices - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
@@ -123,6 +123,7 @@ _Updated: 2026-04-25 21:26_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -130,15 +131,14 @@ _Updated: 2026-04-25 21:26_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 
 ## Jordbruk
 
@@ -155,7 +155,7 @@ _Updated: 2026-04-25 21:26_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
 - Lediga jobb - Land Lantbruk och Skogsbruk
