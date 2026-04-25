@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 09:51_
+_Updated: 2026-04-25 11:28_
 
 ## Top Stories
 
-- Byn bevakades med drönare – efter pedofilskräcken - Aftonbladet
-- Varnar för ett ryskt angrepp inom månader - Expressen
+- Larmade om risker före tågolyckan i Danmark - Aftonbladet
+- DN Direkt – S öppnar för förlängning av sänkt matmoms - Dagens Nyheter
 - Brand i gatukök på Smögenbryggan - Lysekilsposten
+- Byn bevakades med drönare – efter pedofilskräcken - Aftonbladet
 - Kerstin, 74, lever utan internet: ”Får göra på det gamla vanliga sättet” - Dagens Nyheter
-- Så vill politikerna lösa skolans problem i Göteborg - GP
-- Irans Araghchi på plats för samtal i Pakistan - Västerbottens-Kuriren
-- Ungdom död i fyrhjulingsolycka - Västerbottens-Kuriren
-- Pojke sprängdes till döds: ”De bryr sig inte” - GP
+- Vattnet snart tillbaka i Upplands-Bro - Västerbottens-Kuriren
+- Pojke sprängdes till döds: ”De bryr sig inte” - Västerbottens-Kuriren
+- Ungdom död i fyrhjulingsolycka - GP
+- Polisen varnar för våg av bedrägerier: ”Radera och anmäl” - SVT Nyheter
 - VERONICA PALM: Året var 1986 – och något osynligt hade gjort skogen osäker - Corren
-- Stor vattenläcka i Upplands-Bro – hela kommunen drabbad - SVT Nyheter
+- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
 - Vem skyddar vem i EU? – ”Vore bra med en manual” - Corren
-- Två döda i rasmassor efter ryska attacker - GP
-- Lokalval i Gaza – första gången på 20 år - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Tolv uppges dödade i israeliska attacker mot Gaza - Dagens Nyheter
-- Hushållen som tjänat mest på regeringens politik - Aftonbladet
-- Open AI-chefens ursäkt – larmade inte om skolskytt - DI
+- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
+- Efter mötet: Tog upp Israels kränkningar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
+- Google planerar rekordstor AI-satsning – miljardbelopp till Anthropic - Börskollen
 - Amazon-backade kärnkraftsbolaget rusade i börsdebuten - EFN
 - Förorenade massor från SSAB deponeras i Boden - NSD
 - DN Direkt – FHM ska utreda barns innehav av smarttelefoner - Dagens Nyheter
@@ -31,9 +31,11 @@ _Updated: 2026-04-25 09:51_
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - VNV Global skriver ner värdet på Voi - DI
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
@@ -41,12 +43,10 @@ _Updated: 2026-04-25 09:51_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - SEB Professional Family Office får ny global chef - finanswatch.se
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- 1 426 potential victims identified in global operation against human trafficking - Europol
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-04-25 09:51_
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Advantech Brings AI to QSR at National Restaurant Show 2026, Booth #6470 (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-04-25 09:51_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - E-hälsa inom EU - Läkartidningen
-- Förvärv av RMS Medical Devices - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,6 @@ _Updated: 2026-04-25 09:51_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -134,20 +133,21 @@ _Updated: 2026-04-25 09:51_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
