@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 12:11_
+_Updated: 2026-04-25 13:11_
 
 ## Top Stories
 
 - USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
-- Brand i gatukök på Smögenbryggan - Lysekilsposten
 - Efter bakslaget: Då kommer vårvädret tillbaka - Aftonbladet
 - Efter adoptionsutredningen – tyst från regeringen - Dagens Nyheter
-- Kerstin, 74, lever utan internet: ”Får göra på det gamla vanliga sättet” - Dagens Nyheter
-- Larmade om risker före tågolyckan i Danmark - GP
-- Svensk kvinna gripen i Spanien - Aftonbladet
-- Pojke sprängdes till döds: ”De bryr sig inte” - Västerbottens-Kuriren
-- Ungdom död i fyrhjulingsolycka - GP
+- Hamid har utvisats från Sverige två gånger – hoppas på ny chans - GP
+- Stor vattenläcka i Upplands-Bro – hela kommunen drabbad - SVT Nyheter
+- Irans Araghchi på plats för samtal i Pakistan - Västerbottens-Kuriren
+- Ungdom död i fyrhjulingsolycka - Västerbottens-Kuriren
 - Polisen varnar för våg av bedrägerier: ”Radera och anmäl” - SVT Nyheter
-- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
+- Pojke sprängdes till döds: ”De bryr sig inte” - GP
+- VERONICA PALM: Året var 1986 – och något osynligt hade gjort skogen osäker - Corren
+- Vittnen: Skottlossning på flera håll i Mali - Västerbottens-Kuriren
 - Vem skyddar vem i EU? – ”Vore bra med en manual” - GP
-- Vittnen: Skottlossning på flera håll i Mali - SVT Nyheter
-- USA och Iran till Pakistan för nya samtal - Dagens Nyheter
-- Matkedja stäms – för lite koffein i kaffet - GP
+- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
+- Över 30 vanvårdade sengångare döda i USA - Västerbottens-Kuriren
+- Därför biter det högre oljepriset inte på börsen - Dagens Nyheter
+- Amerikansk matkedja stäms – för lite koffein i kaffet - Sydsvenskan
 - Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
-- Google planerar rekordstor AI-satsning – miljardbelopp till Anthropic - Börskollen
-- AI:s energisug behöver kärnkraft – IPO rusade 27 procent - Dagens PS
+- Google planerar 400-miljarderssatsning på AI-rival - EFN
+- Märkligt mönster: Nasa gör uppseendeväckande fynd i krater på Mars - Illustrerad Vetenskap
 - DN Direkt – FHM ska utreda barns innehav av smarttelefoner - Dagens Nyheter
-- "Saros" är ett av årets bästa och snyggaste spel - MovieZine
 
 ## World News
 
@@ -35,7 +35,6 @@ _Updated: 2026-04-25 12:11_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- New Secretary General appointed - Olof Palme International Center
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -44,9 +43,10 @@ _Updated: 2026-04-25 12:11_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Encare tilldelas Swecare Export Award 2026 för internationell tillväxt och global närvaro - Cision News
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -63,28 +63,28 @@ _Updated: 2026-04-25 12:11_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilken framtid arbetar du för? - EY
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -105,17 +105,17 @@ _Updated: 2026-04-25 12:11_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -123,22 +123,22 @@ _Updated: 2026-04-25 12:11_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Aktiviteter på The Cell - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Aktiviteter på The Cell - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2026-04-25 12:11_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2025-02-05 Filmpremiär: Lånad jord - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Lammen bräker igen på Tangará Farms gård - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
