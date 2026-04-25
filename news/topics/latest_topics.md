@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-25 17:08_
+_Updated: 2026-04-25 18:05_
 
 ## Top Stories
 
 - Fotboll: Alexander Isak målskytt – gör första målet efter skadan - SVT Nyheter
 - Irans Araghchi på plats för samtal i Pakistan - Västerbottens-Kuriren
-- Expert om oljekrisen: Värre innan det blir bättre - GP
-- Mohamsson: Kommer stå sida vid sida med Luf - GP
 - Ahmadreza Djalali fängslad i tio år: ”Vid liv men inte mer” - Sveriges Radio
-- Liberalerna vill se klasser för stökiga elever - Dagens Nyheter
+- Explosion vid villa i Eslöv - Aftonbladet
 - Nu blir hela sträckan Stockholm och Göteborg obruten motorväg - Dagens Nyheter
+- Klartecken för dubbelspår mellan Karlstad och Kil: ”Äntligen” - NWT
+- Liberalerna vill se klasser för stökiga elever - Dagens Nyheter
 - Svensk kvinna gripen i Spanien - SVT Nyheter
-- Efter adoptionsutredningen – tyst från regeringen - Dagens Nyheter
-- Debatt: Vi rustar Värmlandsbanan – från flaskhals till fungerande stråk - NWT
+- Tjernobyls kamp mot klockan – i 100 år till - Västerbottens-Kuriren
+- Polisens varning: ”Det är fejk” - GP
 - Skott i Mali – armén strider mot ”terrorgrupper” - GP
-- Nathan Shachar: Palestinska lokalval har stor symbolisk betydelse men liten praktisk - Dagens Nyheter
 - Ryssland extremistklassar Nobelprisade Memorial – sympatisörer i fara - Sveriges Radio
-- USA: Fortsatt neutralt om Falklandsöarna - Hufvudstadsbladet – HBL
+- Döda hämtade ur rasmassor efter ryska attacker - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Flera döda i Libanon efter förlängd vapenvila - Dagens Nyheter
 - Amerikansk matkedja stäms – för lite koffein i kaffet - Sydsvenskan
 - Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
-- Börskrasch nära – Buffett-indikatorn är nu över 200 procent - Dagens PS
 - Sänkt skatt äts upp av högre priser: ”Fortsatt tufft” - Omni
-- Jolie och Filip om åldersgräns för smartphones: ”Skulle bli glad” - Sveriges Radio
+- Open AI-chefens ursäkt – larmade inte om skolskytt - DI
 - Apple ville stoppa föreningens logga – fick backa - Aftonbladet
+- "Saros" är ett av årets bästa och snyggaste spel - moviezine.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - Tv.nu
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på idag 07:55 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - VNV Global skriver ner värdet på Voi - DI
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Cameron – smittad av skandalen - Aftonbladet
 
 ## Technology
 
@@ -74,15 +74,16 @@ _Updated: 2026-04-25 17:08_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-04-25 17:08_
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -101,12 +101,12 @@ _Updated: 2026-04-25 17:08_
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -114,7 +114,7 @@ _Updated: 2026-04-25 17:08_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -136,9 +136,9 @@ _Updated: 2026-04-25 17:08_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Aktiviteter på The Cell - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Aktiviteter på The Cell - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
