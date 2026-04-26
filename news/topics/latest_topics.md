@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 02:03_
+_Updated: 2026-04-26 06:02_
 
 ## Top Stories
 
+- Trump evakuerad från middag efter larm om skottlossning - GP
 - Forsmarklarmet avslöjade olyckan i Tjernobyl - UNT
-- Tv-stjärnan Gabrielle Carrington åtalas för mord på influencern Klaudiaglam - Expressen
 - Trump: Iran har förbättrat erbjudandet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Gatuköket på Smögenbryggan totalförstört – vittnet: ”Vaknade av knaster” - Bohusläningen
-- DN Direkt – Meloni om vårdnotan efter branden: ”Skamligt” - Dagens Nyheter
-- Netanyahu utlovar hårt slag mot Hizbollah - Västerbottens-Kuriren
-- Liberalerna: Inför hjälpklasser för stökiga elever - Liberalerna
-- Flera i bråk i Norrköping – en till sjukhus - Folkbladet
+- Två döda efter rysk drönarattack - Västerbottens-Kuriren
+- Netanyahu utlovar hårt slag mot Hizbollah - Corren
+- Influencer dödad efter storbråket - Expressen
 - Polisens varning: ”Det är fejk” - GP
+- Nätläkare granskas – så påverkas du som patient - Dagens.se
+- Att en 86-åring försvinner spårlöst är inget misstag - Kvartal
 - Utbyggnation av Markarydsbanan får grönt ljus av regeringen - SVT Nyheter
-- Flera döda i nytt bombdåd i Colombia - SVT Nyheter
-- Två döda i rasmassor efter ryska attacker - GP
-- Direkt – Krisen i Mellanöstern – Israel har bombat mål i Libanon - Dagens Nyheter
-- Skott i Mali – armén strider mot ”terrorgrupper” - Västerbottens-Kuriren
-- Norska förvåningen i Sverige: ”Pinsamt” - Svenska Dagbladet
-- Stäms – för lite koffein i kaffet - Folkbladet
+- Dödssiffran stiger efter bombdåd - Västerbottens-Kuriren
+- Orbán lämnar parlamentet efter valförlusten - Västerbottens-Kuriren
+- Nathan Shachar: Palestinska lokalval har stor symbolisk betydelse men liten praktisk - Dagens Nyheter
+- Mysteriet i USA: ”Var är Rubio?” - Expressen
 - Höga halter vanadin i slaggmassor på SSAB:s bygge ligger troligen bakom sjukdomsfallen bland arbetarna - RiktpunKt.nu
-- LEDARE: Hotet om ransonering av bränsle avslöjar vårt beroende - Ystads Allehanda
-- "Saros" är ett av årets bästa och snyggaste spel - MovieZine
-- Jolie och Filip om åldersgräns för smartphones: ”Skulle bli glad” - Sveriges Radio
+- Norska förvåningen i Sverige: ”Pinsamt” - Svenska Dagbladet
+- Selecta har inte sänkt priserna i alla automater: ”Ska skärpa sig” - Sveriges Radio
+- Intensiv jakt på sommarvikarier till omsorgen – fortfarande hundratals platser att fylla - NLT
+- ”Bara en gång till” – Finska ”Saros” är ett av årets bästa spel - MovieZine
+- Kan bli gräns för barn – regeringen utreder mobiler - Dagens.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på inatt 01:50 - Tv.nu
-- Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
-- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - Tv.nu
+- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på idag 07:55 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
@@ -74,17 +74,17 @@ _Updated: 2026-04-26 02:03_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -97,48 +97,48 @@ _Updated: 2026-04-26 02:03_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Tannock Gerald W, ed. Medical importance of the normal microflora - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Aktiviteter på The Cell - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
+- Aktiviteter på The Cell - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
