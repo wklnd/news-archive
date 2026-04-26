@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 13:11_
+_Updated: 2026-04-26 14:04_
 
 ## Top Stories
 
-- Trump: Skjutning avskräcker inte från Irankriget - Västerbottens-Kuriren
+- Sawe sprängde magisk maratongräns - Västerbottens-Kuriren
+- DN Direkt – Fler av världens ledare fördömer skottlossningen - Dagens Nyheter
 - Västlänken finansieras utan förlängning av trängselskatten - SVT Nyheter
-- Man beskjuten på Limhamn – 30-åring greps med pistol på sig - Sydsvenskan
+- Nazistkopplade tröjor dyker upp på Mallorca - Expressen
+- Israel beordrar evakuering norr om Litanifloden - GP
 - ”Vi stod på taket och beundrade skenet från reaktorn” - Dagens Nyheter
-- Välbevarad 70-talsvilla i Tingsryd får hedersutmärkelse: ”Vi är väldigt nöjda” - Smålandsposten
-- Villa nedbrunnen på skärgårdsö - SVT Nyheter
-- KRÖNIKA: Utan samarbeten och uppköp hade medierna aldrig överlevt - Sydsvenskan
 - Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
+- 84-åring frös ihjäl – hemtjänsten slog inte larm - News55
 - Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
-- Stopp i tågtrafiken i Hallsberg: ”Vagnen skakade” - Aftonbladet
-- Två döda efter rysk drönarattack - Västerbottens-Kuriren
+- KRÖNIKA: Utan samarbeten och uppköp hade medierna aldrig överlevt - Sydsvenskan
 - Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Netanyahu utlovar hårt slag mot Hizbollah - Corren
+- Två döda efter rysk drönarattack - Västerbottens-Kuriren
 - Schumacher om bröllopsplanerna och vinproduktionen - Expressen
+- Flera döda i israeliska attacker i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Momssänkning drar norrmän över gränsen: ”Pinsamt” - Omni
+- Mobiltelefonen för dig som vill ta bäst bilder - Expressen
+- Utmanar Porsche 911 – nya Morgan Supersport 400 överraskar - Dagens PS
 - Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
-- Höga halter vanadin i slaggmassor på SSAB:s bygge ligger troligen bakom sjukdomsfallen bland arbetarna - RiktpunKt.nu
-- Oligarken förlorade allt, centralbank varnar för börskrasch och stöld av laddkablar - Dagens PS
 - Techjätten backar efter äppelbråk på Österlen: ”Lite tramsigt” - DI
 - Spelmedier tycker till om Saros. Mycket pang-pang. - feber.se
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Chefen för Scotland Yard avgår - Sveriges Radio
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- SEB Professional Family Office får ny global chef - finanswatch.se
-- i4E launched as new global technology platform (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -74,17 +74,17 @@ _Updated: 2026-04-26 13:11_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilken framtid arbetar du för? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -104,18 +104,18 @@ _Updated: 2026-04-26 13:11_
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -128,8 +128,8 @@ _Updated: 2026-04-26 13:11_
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
@@ -138,7 +138,7 @@ _Updated: 2026-04-26 13:11_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 
 ## Jordbruk
 
@@ -158,7 +158,7 @@ _Updated: 2026-04-26 13:11_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
