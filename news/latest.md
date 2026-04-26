@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-26 21:33_
+_Updated: 2026-04-26 22:21_
 
-- Trump and his officials 'likely' targets of suspected gunman, acting attorney general says - follow live - BBC
+- What we know about Cole Allen, suspected White House Correspondents' dinner shooter - NPR
 - Islamabad Reopens After U.S.-Iran Talks Fail to Materialize - The New York Times
+- King Charles to proceed with US trip despite security concerns - politico.eu
 - Chicago Police Officer Killed In Swedish Hospital Shooting Identified As John Bartholomew - Block Club Chicago
-- King Charles U.S. visit comes at tense moment in transatlantic relationship - NPR
 - Benjamin Netanyahu’s biggest rivals merge Israeli political parties - Financial Times
-- Mali rattled by ongoing armed attacks: What to know - Al Jazeera
+- Surviving in a poisoned land: Chernobyl's wildlife is different, but not in the ways you might think - BBC
 - 4 deadlines that could shape Trump’s next 5 weeks - Politico
-- 40 years after Chernobyl, war brings new rounds of disaster and displacement - The Washington Post
-- Colombia highway bomb attack kills 19 - dw.com
+- LIVE UPDATES: 5 wounded by gunfire in stable condition after Kirkwood shooting; no suspects in custody - Indiana Daily Student
+- Colombia highway bomb attack kills at least 19 - dw.com
+- Malian defense minister killed in attack that saw jihadis and rebels seize towns, military bases - AP News
+- Northern Ireland homes evacuated after reports of car bomb explosion - CBS News
 - Israel issues evacuation warning for seven Lebanese towns beyond 'buffer zone' after soldier killed - Reuters
-- Car bomb explodes outside Northern Ireland police station - AP News
-- Tillis clears path for Warsh confirmation as new Federal Reserve chief - The Washington Post
-- Big Tech’s $16 Trillion Earnings Week Is Make-Or-Break for Rally - Bloomberg
-- I went to the Beijing Auto Show and it’s a glimpse at the future of the auto industry - Electrek
-- Supreme Court to Hear Arguments in Landmark Roundup Weedkiller Case - The New York Times
-- Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg
+- Tillis says he's ready to move ahead with confirming Warsh as Trump's pick as Fed chair - WRAL
+- Are You Reinvesting Your RMD in 2026? Here Are Your Best Options - Yahoo Finance
+- Big Tech’s $16 Trillion Earnings Week Is Make-Or-Break for Rally - Bloomberg.com
+- Apple under Ternus: what comes next for the tech giant’s hardware strategy - TechCrunch
 - SpeakOn’s dictation device is a good idea marred by platform limitations - TechCrunch
-- Google's new gradient icons for Gmail, Calendar, Drive, and other apps are radical redesigns - 9to5Google
-- Foldable iPhone Ultra confidential docs leak: 9.2mm design, Android-style selfie cameras, color options - Notebookcheck
-- Weekend Box Office: MICHAEL Moonwalks to $97M Domestic Debut, Crushing Music Biopic Record - Boxoffice Pro
+- Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg.com
+- Google’s new gradient icon design is coming to more apps - The Verge
+- 5 Reasons I Chose Android Over iPhone As A Power User - bgr.com
