@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 15:46_
+_Updated: 2026-04-26 17:09_
 
 ## Top Stories
 
-- DN Direkt – USA:s justitieminister: Trump var troligen måltavlan - Dagens Nyheter
-- Nu är det de som drabbas hårdast - UNT
-- SD tvingas skaffa larm efter attack mot valarbetare - Sydsvenskan
-- Man beskjuten i Malmö – en gripen - Aftonbladet
-- Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nordirland: Bilbomb utanför polisstation - Västerbottens-Kuriren
-- Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
+- SVT-profilen och Lödöse-bon Pelle Nyström är död - Sveriges Radio
+- DN Direkt – Trump: Jag behöver ett skyddsrum - Dagens Nyheter
 - Miljarder till fyrspår mellan Göteborg till Alingsås - GP
+- Nu är det de som drabbas hårdast - UNT
 - Regeringen rustar Södra stambanan och satsar på två nya spår mellan Hässleholm och Lund i den nya nationella infrastrukturplanen - Regeringen.se
+- Nya strider i Mali – separatister hävdar kontroll - Västerbottens-Kuriren
+- Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
+- DN Direkt – Man beskjuten i Limhamn – en gripen - Dagens Nyheter
 - 26 april 14.00, Trafikkontroll, Norrbottens län - polisen.se
-- Uppgifter: Stöd till civila motståndsrörelser i Ukraina gick till höga konsultarvoden - Dagens Nyheter
+- Västlänken finansieras utan förlängning av trängselskatten - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran: Kriget har förändrat Hormuzsundet för alltid - Dagens Nyheter
 - Libanon: Israel inleder attacker i södra delarna - Västerbottens-Kuriren
+- Uppgifter: Stöd till civila motståndsrörelser i Ukraina gick till höga konsultarvoden - Dagens Nyheter
 - Två döda i rasmassor efter ryska attacker - GP
-- Uppgifter: Nya strider har brutit ut i Mali - GP
 - Rusning till H&M:s godisväska – Tradera tar tredubbelt - Omni
-- Utmanar Porsche 911 – nya Morgan Supersport 400 överraskar - Dagens PS
-- Mobiltelefonen för dig som vill ta bäst bilder - Expressen
+- Senator släpper blockering av ny Fed-chef - Aftonbladet
 - 38 935 miljarder dollar – skulden pressar USA mot stupet - Realtid
+- Höga halter vanadin i slaggmassor på SSAB:s bygge ligger troligen bakom sjukdomsfallen bland arbetarna - RiktpunKt.nu
 - Techjätten backar efter äppelbråk på Österlen: ”Lite tramsigt” - DI
-- Gatunamnen blir större i Google Maps på Android Auto - m3.se
+- Regeringen vill utreda åldersgräns för smartphones - Teknikveckan
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
-- How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-04-26 15:46_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
-- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -97,7 +97,6 @@ _Updated: 2026-04-26 15:46_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
@@ -106,35 +105,36 @@ _Updated: 2026-04-26 15:46_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
@@ -158,7 +158,7 @@ _Updated: 2026-04-26 15:46_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
