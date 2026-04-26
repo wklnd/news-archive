@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 12:24_
+_Updated: 2026-04-26 13:11_
 
 ## Top Stories
 
-- Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Staten pumpar in 7 nya miljarder i Västlänken i Göteborg - Dagens Nyheter
-- Man beskjuten i Malmö – en gripen - Aftonbladet
-- Forsmarklarmet avslöjade olyckan i Tjernobyl - UNT
-- Sommarstuga på skärgårdsö helt nedbrunnen - Sveriges Radio
-- För Sandra, 31, är taxen viktigare än sambon - Svenska Dagbladet
+- Trump: Skjutning avskräcker inte från Irankriget - Västerbottens-Kuriren
+- Västlänken finansieras utan förlängning av trängselskatten - SVT Nyheter
+- Man beskjuten på Limhamn – 30-åring greps med pistol på sig - Sydsvenskan
+- ”Vi stod på taket och beundrade skenet från reaktorn” - Dagens Nyheter
+- Välbevarad 70-talsvilla i Tingsryd får hedersutmärkelse: ”Vi är väldigt nöjda” - Smålandsposten
+- Villa nedbrunnen på skärgårdsö - SVT Nyheter
 - KRÖNIKA: Utan samarbeten och uppköp hade medierna aldrig överlevt - Sydsvenskan
 - Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
-- Norskt jordskalv kändes på flera håll i Värmland - SVT Nyheter
-- 26 april 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
+- Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
+- Stopp i tågtrafiken i Hallsberg: ”Vagnen skakade” - Aftonbladet
 - Två döda efter rysk drönarattack - Västerbottens-Kuriren
-- Trump: Iran har förbättrat erbjudandet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Zelenskyj: Ryssland hotar med kärnkraftsterror - Aftonbladet
+- Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Netanyahu utlovar hårt slag mot Hizbollah - Corren
+- Schumacher om bröllopsplanerna och vinproduktionen - Expressen
 - Momssänkning drar norrmän över gränsen: ”Pinsamt” - Omni
-- SBAB har tekniska problem – pengar syns inte - Aftonbladet
-- Oligarken förlorade allt, centralbank varnar för börskrasch och stöld av laddkablar - Dagens PS
 - Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
+- Höga halter vanadin i slaggmassor på SSAB:s bygge ligger troligen bakom sjukdomsfallen bland arbetarna - RiktpunKt.nu
+- Oligarken förlorade allt, centralbank varnar för börskrasch och stöld av laddkablar - Dagens PS
 - Techjätten backar efter äppelbråk på Österlen: ”Lite tramsigt” - DI
 - Spelmedier tycker till om Saros. Mycket pang-pang. - feber.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - TV.nu
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- New Secretary General appointed - Olof Palme International Center
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- New Secretary General appointed - Olof Palme International Center
+- UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- SEB Professional Family Office får ny global chef - finanswatch.se
+- i4E launched as new global technology platform (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -119,25 +119,25 @@ _Updated: 2026-04-26 12:24_
 
 ## Science
 
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 
 ## Jordbruk
