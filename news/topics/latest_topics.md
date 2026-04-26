@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 01:05_
+_Updated: 2026-04-26 02:03_
 
 ## Top Stories
 
-- Netanyahu utlovar hårt slag mot Hizbollah - Västerbottens-Kuriren
 - Forsmarklarmet avslöjade olyckan i Tjernobyl - UNT
-- Trump: Iran har förbättrat erbjudandet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Tv-stjärnan Gabrielle Carrington åtalas för mord på influencern Klaudiaglam - Expressen
-- Brand bröt ut i gatukökr på Smögenbryggan - Sveriges Radio
+- Trump: Iran har förbättrat erbjudandet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Gatuköket på Smögenbryggan totalförstört – vittnet: ”Vaknade av knaster” - Bohusläningen
 - DN Direkt – Meloni om vårdnotan efter branden: ”Skamligt” - Dagens Nyheter
+- Netanyahu utlovar hårt slag mot Hizbollah - Västerbottens-Kuriren
 - Liberalerna: Inför hjälpklasser för stökiga elever - Liberalerna
+- Flera i bråk i Norrköping – en till sjukhus - Folkbladet
 - Polisens varning: ”Det är fejk” - GP
-- Flera i bråk i Norrköping – en till sjukhus - GP
 - Utbyggnation av Markarydsbanan får grönt ljus av regeringen - SVT Nyheter
-- Sju döda i nytt bombdåd i Colombia - SVT Nyheter
+- Flera döda i nytt bombdåd i Colombia - SVT Nyheter
 - Två döda i rasmassor efter ryska attacker - GP
-- Ryska talmannen i Nordkorea – hyllar insats i Ukraina - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Araghchi kan återvända till Pakistan - Dagens Nyheter
-- Ännu billigare för norrmän i Sverige: ”Kaka på kaka” - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Israel har bombat mål i Libanon - Dagens Nyheter
+- Skott i Mali – armén strider mot ”terrorgrupper” - Västerbottens-Kuriren
+- Norska förvåningen i Sverige: ”Pinsamt” - Svenska Dagbladet
 - Stäms – för lite koffein i kaffet - Folkbladet
-- Förorenade massor från SSAB deponeras i Boden - NSD
-- Rekord i kryptostölder – Nordkorea bakom nästan allt - Dagens PS
+- Höga halter vanadin i slaggmassor på SSAB:s bygge ligger troligen bakom sjukdomsfallen bland arbetarna - RiktpunKt.nu
+- LEDARE: Hotet om ransonering av bränsle avslöjar vårt beroende - Ystads Allehanda
 - "Saros" är ett av årets bästa och snyggaste spel - MovieZine
 - Jolie och Filip om åldersgräns för smartphones: ”Skulle bli glad” - Sveriges Radio
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på inatt 01:50 - Tv.nu
 - Andraplatsen Khanh Nhu är redo för sin resa i Miss International 2026. - Vietnam.vn
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på idag 07:55 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- New Secretary General appointed - Olof Palme International Center
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Chefen för Scotland Yard avgår - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
