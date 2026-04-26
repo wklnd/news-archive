@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 10:02_
+_Updated: 2026-04-26 11:31_
 
 ## Top Stories
 
-- Attentatsförsök vid middag – Trump oskadd - Västerbottens-Kuriren
-- Staten pumpar in 7 nya miljarder i Västlänken i Göteborg - Dagens Nyheter
-- Forsmarklarmet avslöjade olyckan i Tjernobyl - UNT
-- Sju döda i ryska attacker - Hufvudstadsbladet – HBL
-- Trump ställer in USA:s resa till Pakistan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
+- Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- ”Vi stod på taket och beundrade skenet från reaktorn” - Dagens Nyheter
+- Efter bråket – mer statliga pengar till Västlänken - Västerbottens-Kuriren
+- Man beskjuten i Malmö – en gripen - Aftonbladet
+- Två döda efter rysk drönarattack - Västerbottens-Kuriren
+- För Sandra, 31, är taxen viktigare än sambon - Svenska Dagbladet
 - KRÖNIKA: Utan samarbeten och uppköp hade medierna aldrig överlevt - Sydsvenskan
+- Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
+- Kungen kvar på tronen: ”Så länge jag orkar” - Folkbladet
 - Mohamsson efter grundlagsmissen: ”Ska spara quizandet till pubrundor” - Sveriges Radio
-- 26 april 07.00, Sammanfattning kväll och natt, Hallands län - polisen.se
-- 25 april 08.00, Sammanfattning natt, Jönköpings län - polisen.se
+- Expert: Risk att både USA och Iran höjer temperaturen - Dagens Nyheter
 - Netanyahu utlovar hårt slag mot Hizbollah - Corren
-- Dödssiffran stiger efter bombdåd - Hufvudstadsbladet – HBL
-- Kraftig villabrand i Skärgården - SVT Nyheter
+- Uppgifter: Nya strider har brutit ut i Mali - GP
 - Schumacher om bröllopsplanerna och vinproduktionen - Expressen
-- Oligarken förlorade allt, centralbank varnar för börskrasch och stöld av laddkablar - Dagens PS
-- “Software-defined vehicle” – bilen har blivit en dator på hjul - Dagens PS
-- 127 miljarder stoppas – slår mot 900 000 pensionssparare - EFN
 - Momssänkning drar norrmän över gränsen: ”Pinsamt” - Omni
+- Mobiltelefonen för dig som vill ta bäst bilder - Expressen
+- SBAB har tekniska problem – pengar syns inte - Aftonbladet
+- Oligarken förlorade allt, centralbank varnar för börskrasch och stöld av laddkablar - Dagens PS
 - Spelmedier tycker till om Saros. Mycket pang-pang. - feber.se
-- Regeringen vill utreda åldersgräns för smartphones - Teknikveckan
+- Techjätten backar efter äppelbråk på Österlen: ”Lite tramsigt” - DI
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - TV.nu
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
@@ -97,25 +97,25 @@ _Updated: 2026-04-26 10:02_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Förvärv av RMS Medical Devices - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- E-hälsa inom EU - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Svar på cyberincidenter: Playbook for Medical Product Makers - Health-ISAC
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
@@ -138,7 +138,7 @@ _Updated: 2026-04-26 10:02_
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Aktiviteter på The Cell - Karolinska Institutet
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-04-26 10:02_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
+- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
