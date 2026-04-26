@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-26 14:04_
+_Updated: 2026-04-26 15:46_
 
 ## Top Stories
 
-- Sawe sprängde magisk maratongräns - Västerbottens-Kuriren
-- DN Direkt – Fler av världens ledare fördömer skottlossningen - Dagens Nyheter
-- Västlänken finansieras utan förlängning av trängselskatten - SVT Nyheter
-- Nazistkopplade tröjor dyker upp på Mallorca - Expressen
-- Israel beordrar evakuering norr om Litanifloden - GP
-- ”Vi stod på taket och beundrade skenet från reaktorn” - Dagens Nyheter
-- Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
-- 84-åring frös ihjäl – hemtjänsten slog inte larm - News55
-- Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
-- KRÖNIKA: Utan samarbeten och uppköp hade medierna aldrig överlevt - Sydsvenskan
+- DN Direkt – USA:s justitieminister: Trump var troligen måltavlan - Dagens Nyheter
+- Nu är det de som drabbas hårdast - UNT
+- SD tvingas skaffa larm efter attack mot valarbetare - Sydsvenskan
+- Man beskjuten i Malmö – en gripen - Aftonbladet
 - Trump: Skjutning avskräcker inte från Irankriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Två döda efter rysk drönarattack - Västerbottens-Kuriren
-- Schumacher om bröllopsplanerna och vinproduktionen - Expressen
-- Flera döda i israeliska attacker i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
-- Momssänkning drar norrmän över gränsen: ”Pinsamt” - Omni
-- Mobiltelefonen för dig som vill ta bäst bilder - Expressen
+- Nordirland: Bilbomb utanför polisstation - Västerbottens-Kuriren
+- Norskt jordskalv kändes i Värmland: ”Trodde värmepumpen exploderade” - NWT
+- Miljarder till fyrspår mellan Göteborg till Alingsås - GP
+- Regeringen rustar Södra stambanan och satsar på två nya spår mellan Hässleholm och Lund i den nya nationella infrastrukturplanen - Regeringen.se
+- 26 april 14.00, Trafikkontroll, Norrbottens län - polisen.se
+- Uppgifter: Stöd till civila motståndsrörelser i Ukraina gick till höga konsultarvoden - Dagens Nyheter
+- Libanon: Israel inleder attacker i södra delarna - Västerbottens-Kuriren
+- Två döda i rasmassor efter ryska attacker - GP
+- Uppgifter: Nya strider har brutit ut i Mali - GP
+- Rusning till H&M:s godisväska – Tradera tar tredubbelt - Omni
 - Utmanar Porsche 911 – nya Morgan Supersport 400 överraskar - Dagens PS
-- Dåliga kundtjänster riskerar böter – reglerna ska skärpas - Dagens Nyheter
+- Mobiltelefonen för dig som vill ta bäst bilder - Expressen
+- 38 935 miljarder dollar – skulden pressar USA mot stupet - Realtid
 - Techjätten backar efter äppelbråk på Österlen: ”Lite tramsigt” - DI
-- Spelmedier tycker till om Saros. Mycket pang-pang. - feber.se
+- Gatunamnen blir större i Google Maps på Android Auto - m3.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-26 14:04_
 - How to follow the Orienteering World Cup Round 1 in Locarno - International Orienteering Federation
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - New Secretary General appointed - Olof Palme International Center
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Chefen för Scotland Yard avgår - Sveriges Radio
 
 ## Technology
 
@@ -121,6 +121,7 @@ _Updated: 2026-04-26 14:04_
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -128,7 +129,6 @@ _Updated: 2026-04-26 14:04_
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -158,7 +158,7 @@ _Updated: 2026-04-26 14:04_
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
 - Lediga jobb - Land Lantbruk och Skogsbruk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
 - Här är tio megagårdar att drömma om - Land Lantbruk och Skogsbruk
