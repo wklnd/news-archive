@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-27 23:38_
+_Updated: 2026-04-28 00:31_
 
-- WHCD shooting suspect faces assassination attempt, firearms charges - Politico
-- President and First Lady Demand ABC Fire Jimmy Kimmel Over ‘Widow’ Joke - The New York Times
-- King Charles’s rare state visit offers U.K. a chance to mend ties with Trump - The Washington Post
-- Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News
-- Florida's DeSantis unveils a voting map that could add to Trump's GOP redistricting - NPR
-- Supreme Court Wrangles With Police Use of Cell Location Data to Find Suspects - The New York Times
-- Human Remains Found in Tampa Bay in Search for Missing Student - The New York Times
-- California Billionaires Tax Scores Enough Signatures For Ballot, Organizers Say - Forbes
-- Donald Trump Lashes Out At Norah O’Donnell For Reading From Suspect’s Manifesto During ‘60 Minutes’ Interview - Deadline
-- ‘It’s going to be a circus’: Inside Mike Johnson’s grueling week - Politico
+- Suspected correspondents' dinner gunman is charged with trying to assassinate Trump - NPR
+- Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke - BBC
+- Rubio rejects new Iranian proposal to reopen Strait of Hormuz, with future of talks in limbo - The Times of Israel
+- King Charles to meet Trump off camera over fears of Zelenskyy-style clash - The Guardian
+- DeSantis unveils new GOP-friendly congressional map on eve of special session - Politico
+- Feds Charge Indiana Woman Who Bought Gun Used In Swedish Hospital Shooting - Block Club Chicago
+- USF student complained of roommate’s ‘psychopathic’ behavior before murders, brother says - WFLA
+- Republican implosion warning issued as insiders brace for 'week from hell' - AlterNet
+- Ingenious? Orwellian? Or both? Supreme Court considers constitutionality of 'geofence' warrants - NPR
+- When and where severe weather is expected in St. Louis - FOX 2
+- NPT summit: Can nuclear pact survive US-Israel war on Iran? - Al Jazeera
 - Mali attacks: Russia's Africa Corps confirms withdrawal from Kidal - BBC
-- At least 16 dead in strikes across Ukraine and Russia on Chernobyl anniversary - CBS News
-- Military spending surges in Europe and Asia, pushing world to levels not seen in 16 years, report says - CNN
-- US is being ‘humiliated’ by Iran’s leadership, says Friedrich Merz - The Guardian
+- Strikes in Ukraine and Russia kill at least 16 on Chernobyl anniversary - AP News
+- Europe’s rearmament push drives global military spending to record $2.9 trillion despite U.S. pullback - CNBC
+- Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge
+- China says it will reverse major AI acquisition by Meta - The Washington Post
+- Budget Airlines Pitch Trump Administration on $2.5 Billion Relief Plan - WSJ
 - Supreme Court Appears Divided Over Roundup Weedkiller Case - The New York Times
-- United Airlines CEO Makes Weird Public Confession About Trying To Buy American — And He’s Still Pitching Washington - View from the Wing
-- Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI - AP News
-- China orders Meta to unwind $2 billion purchase of AI startup Manus - Reuters
-- Valve Confirms Steam Controller Price and Release Date, Promises More News on Steam Machine Soon - IGN
-- Microsoft Outlook's Outage Is Fixed, but You May Have to Log Back In - CNET
+- Valve launches the Steam Controller without the Steam Machine - The Verge
+- iPhone Ultra and MacBook Ultra are coming this year, per report - 9to5Mac
