@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-27 03:13_
+_Updated: 2026-04-27 06:54_
 
-- ‘I don’t expect forgiveness’: Authorities review writings of California teacher suspected of shooting - CNN
-- Mali rattled by ongoing armed attacks: What to know - Al Jazeera
-- Chicago Police Officer Killed In Swedish Hospital Shooting Identified As John Bartholomew - Block Club Chicago
-- Tillis says he will vote to confirm Kevin Warsh as Fed chair - Politico
+- Washington in shock after White House press dinner shooting: ‘an angry, polarized nation’ - The Guardian
+- WGN EXCLUSIVE: Cop Killer Suspect’s Previous Victim: “I’m So Mad!” - WGN-TV
+- Prosecutors reveal details surrounding killing of University of South Florida student Zamil Limon - CNN
 - Iran's foreign minister returns to Pakistan as Islamabad races to save U.S. ceasefire talks - Fortune
-- Powerful Storm Sweeps Across Texas and Kills 2, Displacing Dozens - The New York Times
-- 5 injured in shooting near Indiana University following Little 500 races - CBS News
-- A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible - NPR
+- Former Sen. Ben Sasse, dying of cancer, reflects on family, faith and the future of America - CBS News
+- Israeli strikes kill 14 in Lebanon amid ongoing ceasefire - BBC
+- Tornadoes in northern Texas leave at least 2 dead and destroy multiple homes - AP News
 - Virginia court declines to block Democrats from using new voter-approved congressional map - Democracy Docket
-- 40 years after Chernobyl, war brings new rounds of disaster and displacement - The Washington Post
-- Naftali Bennett and Yair Lapid announce united run under Bennett in 2026 elections - The Times of Israel
-- Colombia highway bomb attack kills at least 19 - DW.com
+- A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible - NPR
+- At least 16 dead in strikes across Ukraine and Russia on Chernobyl anniversary - CBS News
+- Malian defense chief is killed as jihadis and rebels seize towns and military bases - AP News
 - Palestinian leader's loyalists win local elections, including some seats in Gaza - Reuters
+- Colombia highway bomb attack kills 14 - DW.com
+- Oil rises as US-Iran peace talks stall - BBC
 - Apple Is Setting Its New CEO Up to Be Synonymous with the $2,000 Foldable iPhone, Report Says - Gizmodo
-- Chinese EV giant sends a bold message straight to the US - thestreet.com
-- U.S. stock futures fall, oil rises ahead of a busy week for Wall Street - MarketWatch
-- Anta: The Chinese sports brand taking on Nike and Adidas - BBC
+- Chips carry stocks higher; Oil jumps on stalled peace talks - Reuters
+- Our principles - OpenAI
+- New Valve Hardware Given Pricing Update, Steam Machine Hopes Crushed - GAMINGbible
+- SpeakOn’s dictation device is a good idea marred by platform limitations - TechCrunch
 - Google’s new gradient icon design is coming to more apps - The Verge
-- 'This Feels Like Nothing Else Out There': Saros Devs on Making Another Standout PS5 Exclusive - Push Square
-- Square Enix’s Koji Fox Criticized For Using AI Art During Final Fantasy 14 Fan Fest Panel - Kotaku
