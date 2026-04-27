@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-27 21:53_
+_Updated: 2026-04-27 23:34_
 
 ## Top Stories
 
-- DN Direkt – Leavitt: Demoniseringen av Trump ledde till skotten - Dagens Nyheter
-- Regeringen satsar en miljard på Östlig förbindelse - Dagens Nyheter
+- Skytten åtalas för mordförsök på presidenten efter Trump-middagen - SVT Nyheter
+- Kung Charles träffar Trump i Vita huset - GP
 - Skadad man hittad utomhus i Vellinge – polisen förtegen - TV4 Nyheterna
-- Ordkrig mellan Hizbollah och presidenten - GP
-- Lastbil väjde för älg – riksväg 27 åter öppen - SVT Nyheter
+- Ordkrig mellan Hizbollah och presidenten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skytten på Limhamn hade ”dödslista” – hade nyligen släppts från fängelset - Sydsvenskan
 - Från fronten i Ukraina till Aurora 26 - Försvarsmakten
 - Larmet: Bohus fästning förfaller - GP
 - Polisen sätter ned foten efter stökig helg i Linghem - Corren
-- SJ stoppar snabbtåg – stor påverkan - NWT
-- Pressinbjudan: Regeringen presenterar ny nationell infrastrukturplan - Regeringen.se
-- Kung Charles och drottning Camilla har landat i USA - SVT Nyheter
-- Källor: Iran har gett USA nytt förslag - GP
-- Ryssland avfärdar uppgifter om oro i Iran - Dagens.se
+- Regeringen satsar på Östlig förbindelse i den nya nationella planen för infrastruktur och Tvärförbindelse Södertörn får byggstartsbeslut - Regeringen.se
+- Regeringen satsar 400 miljoner på Malmbanan - Västerbottens-Kuriren
 - Kina bygger konstgjord ö i omstritt hav - Dagens Nyheter
-- Oljekrisen slår mot svenskt inrikesflyg - Dagens Nyheter
-- Dags att deklarera – tips för dig som är ute i sista minuten - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Minst 14 skadade i rysk attack mot Odessa - Dagens Nyheter
+- Ordkrig mellan Hizbollah och presidenten - Västerbottens-Kuriren
+- KRÖNIKA: Brasiliens kvinnor sexsvälter i brist på män - Sydsvenskan
+- Oljekrisen slår mot svenskt inrikesflyg - Svenska Dagbladet
 - Misstankarna mot Mårder: Här är Raysearch mest volatila dagar - Affärsvärlden
+- Linus Larsson: Musk har en poäng – Open AI skulle bli något annat - Dagens Nyheter
 - Kina varnar EU: Rösta inte igenom lagen - Realtid
-- Heroes of Might and Magic: Olden Era - FZ.se
+- Steam Controller-läckor – släpps nästa vecka, kostar 99 dollar sägs det - FZ.se
 - Nya gamingmusen från Turtle Beach har en inbyggd pekskärm - PC för Alla
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:25 - TV.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på torsdag 01:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- IMG Recognized by U.S. News & World Report as a 2026 Best Travel Insurance Company (PR Newswire) - Aktiellt
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Nytt stödpaket till global hälsa presenteras - Örebronyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -61,26 +61,26 @@ _Updated: 2026-04-27 21:53_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
 - Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -123,22 +123,22 @@ _Updated: 2026-04-27 21:53_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -160,5 +160,5 @@ _Updated: 2026-04-27 21:53_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
