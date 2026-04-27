@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-27 16:36_
+_Updated: 2026-04-27 18:12_
 
 - White House press dinner shooting raises questions over security at event - The Guardian
 - Supreme Court Reviews Police Use of Cell Location Data to Find Criminals - The New York Times
-- Photos show British royal visits to the U.S. through history as King Charles III makes a state visit - CBS News
-- Iran’s flurry of diplomacy, as Trump insists U.S. has ‘the cards’ - NPR
-- Trump lashes out at ‘60 Minutes’ anchor for reading alleged gunman’s manifesto - Politico
-- How Trump is moving to control U.S. elections, one state at a time - Reuters
-- Human remains found in search for missing University of South Florida doctoral student - CBS News
-- At least 2 dead after tornadoes destroy homes in northern Texas - PBS
-- Virginia Supreme Court considers whether to block voter-approved US House map favoring Democrats - AP News
-- California Billionaire Tax Has Signatures Needed for Ballot, Backers Say - The New York Times
-- Middle East crisis live: Iran ‘offers to end chokehold on strait of Hormuz’ - The Guardian
+- Iran offers U.S. deal to reopen strait but postpone nuclear talks - Axios
+- Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke - BBC
+- Iran's flurry of diplomacy continues in Russia, as Trump insists U.S. has 'the cards' - NPR
+- Trump lashes out at "60 Minutes" for asking about gunman manifesto allegations - Axios
+- Body found near the Florida bridge where body of 1 of 2 missing students was found days earlier - AP News
+- ‘It’s going to be a circus’: Inside Mike Johnson’s grueling week - Politico
+- King Charles’s rare state visit offers U.K. a chance to mend ties with Trump - The Washington Post
+- Billionaire-tax backers say they have enough signatures — times two — to qualify for ballot - Los Angeles Times
 - Mali attacks: Russia's Africa Corps confirms withdrawal from Kidal - BBC
-- Eisenkot welcomes Bennett-Lapid union but says: To win, we need to bring in more votes - The Times of Israel
-- North Korea opens museum to honour soldiers killed fighting for Russia - Financial Times
-- China orders Meta to unwind $2 billion purchase of AI startup Manus - Reuters
-- United chief hits out at American Airlines for refusing merger talks - Financial Times
-- S&P 500 futures edge lower as Iran peace talks stall, oil rises: Live updates - CNBC
-- Fed likely to hold rates steady as Powell prepares for possible swan song - Reuters
-- Meet the players who lost big money on Peter Molyneux’s failed Legacy - Ars Technica
-- iPhone 18 Pro Max Is Proof That Apple No Longer Believes Thicker Devices Are Aesthetically Unattractive, As Long As There Are Benefits - Wccftech
+- North Korea opens museum commemorating troops killed fighting for Russia - Al Jazeera
+- 60 Countries to Meet on Phasing Out Fossil Fuels but Are Excluding the U.S. - The New York Times
+- Archbishop praises Pope's anti-war comments during Vatican visit - BBC
+- China says it will reverse major AI acquisition by Meta - The Washington Post
+- Elon Musk and Sam Altman face off in court over OpenAI’s founding mission - The Guardian
+- United Airlines Says It Pitched American on Merger but Was Rebuffed - The New York Times
+- The next phase of the Microsoft OpenAI partnership - OpenAI
+- Here's our first look at Galaxy Z Fold 8 Wide, Fold 8, Flip 8 dummy units - SamMobile
+- This touchscreen mouse is my over-engineering nightmare - The Verge
