@@ -1,40 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-27 14:07_
+_Updated: 2026-04-27 16:33_
 
 ## Top Stories
 
-- Lena Maria Gårdenäs död – spelade Bea i ”Repmånad” - Sveriges Radio
-- Sommarväder till långledigheten: ”Kan bli 25 grader” - Dagens Nyheter
-- X2000-tåg akutstoppade av SJ - Expressen
-- Polisens skarpa varning efter kaoshelgen i Linghem - Aftonbladet
-- Två farliga föremål hittade vid Nordstan - GP
-- Villa nedbrunnen – rökmoln över Stockholm - Västerbottens-Kuriren
-- Nu börjar Aurora – så märks det på Gotland - Försvarsmakten
-- Hemtjänstanställd misstänks igen – ska ha fotograferat 90-åring i badrummet - NWT
-- Polisen kraftsamlar ”på ett helt annat sätt” inför valborgskaos - Dagens Nyheter
-- Långa väntetider på hörapparater - Västerbottens-Kuriren
-- Efter skotten: Trump i intervjubråk om manifest - Västerbottens-Kuriren
-- Kung Charles till USA – trots attentatet - GP
+- Sommarvärme över Västerviks kommun på fredag - Västerviks-Tidningen
 - Irans utrikesminister ska träffa Putin – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Netanyahus största rivaler bildar nytt parti inför val - Dagens Nyheter
-- Tre elbolag fälls för vilseledande marknadsföring - Konsumentverket
-- ”Långa pengar kan göra klipp nu” - Affärsvärlden
-- Investerarna kanske bortser från stora marknadsstörningar. Finns det en risk för en motreaktion? - Morningstar Canada
-- Krisen håller i sig – även vid en fred - Expressen
-- Apple täcker igen säkerhetslucka – ”Dina Iphone-notiser kan röja dig” - nyteknik
-- Därför presterar AI-modeller bättre av beröm och lugnande ord - Voister
+- SJ: Inställda X2000 efter hjulskada - Aftonbladet
+- Alkoholregler under Valborg i Uppsala - Polisen.se
+- Polisen ökar närvaron efter flera bränder på kort tid - Omni
+- Skånskt företag erbjuder ”magiska tryfflar” utomlands – forskare ser flera risker - HD – Nyheter Dygnet Runt
+- Så påverkas Kalmar och Kronoberg av Sveriges största militärövning 2026 – börjar idag - SVT Nyheter
+- Hemtjänstanställd misstänks igen – ska ha fotograferat 90-åring i badrummet - NWT
+- Långa väntetider på hörapparater - Västerbottens-Kuriren
+- Regeringen satsar på Östlig förbindelse i den nya nationella planen för infrastruktur och Tvärförbindelse Södertörn får byggstartsbeslut - Regeringen.se
+- Efter skotten: Trump i intervjubråk om manifest - Hufvudstadsbladet – HBL
+- Bi-(di)plomati när kung Charles möter Trump - Västerbottens-Kuriren
+- DN Direkt – Rekordtidig öppning för världsberömd norsk väg - Dagens Nyheter
+- Flera skadade i ryska drönarattacker - GP
+- Linus Larsson: Musk har en poäng – Open AI skulle bli något annat - Dagens Nyheter
+- Elbolag fällda för vilseledande marknadsföring - Resume.se
+- Varnar: Då rusar matpriserna igen - Expressen
+- Misstankarna mot Mårder: Här är Raysearch mest volatila dagar - Affärsvärlden
+- Snart kan du pausa Windows-uppdateringar så länge du vill - Computer Sweden
+- Apple täpper igen säkerhetslucka – ”Dina Iphone-notiser kan röja dig” - nyteknik
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på torsdag 01:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - TV.nu
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - TV.nu
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -44,8 +43,9 @@ _Updated: 2026-04-27 14:07_
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Fler sport- och hd-kanaler när de nya sändningstillstånden för marknätet meddelas - Via TT
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 
 ## Technology
@@ -62,14 +62,14 @@ _Updated: 2026-04-27 14:07_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -89,10 +89,10 @@ _Updated: 2026-04-27 14:07_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -104,18 +104,18 @@ _Updated: 2026-04-27 14:07_
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -123,7 +123,6 @@ _Updated: 2026-04-27 14:07_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -132,12 +131,13 @@ _Updated: 2026-04-27 14:07_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
@@ -155,10 +155,10 @@ _Updated: 2026-04-27 14:07_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
