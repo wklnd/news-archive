@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-27 09:14_
+_Updated: 2026-04-27 11:37_
 
 ## Top Stories
 
+- Trumps ilska: ”Jag är ingen pedofil” - GP
 - SJ: Inställda X2000 efter hjulskada - Aftonbladet
-- Märkliga manifestet: ”Vänlige federala mördaren” - Västerbottens-Kuriren
-- Libanon: Många dödade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Två flygplan nödlandar på Arlanda - Dagens Nyheter
+- Prognosen: Kan bli 25 grader varmt på första maj - Omni
 - Sandra Stiskalo: Kan kung Charles släcka Trumps vrede? - Dagens Nyheter
-- Här lär de bästa drönarkrigarna upp svenskarna - Dagens Nyheter
+- Två farliga föremål hittade vid Nordstan - GP
+- Skånskt företag erbjuder ”magiska tryfflar” utomlands – forskare ser flera risker - Sydsvenskan
+- Nu börjar Aurora – så märks det på Gotland - Försvarsmakten
 - Missade cancertumörer vanligast vid lex Maria - Västerbottens-Kuriren
-- Kraftfulla satsningar på infrastrukturen i Göteborgsregionen i den nya nationella planen för transportinfrastruktur - Regeringen.se
-- Nu är det de som drabbas hårdast - UNT
-- ”Bra förslag från KD om rennäringen” - Västerbottens-Kuriren
-- 22 buddistiska munkar greps med 110 kilo cannabis - Sveriges Radio
-- Flera skadade i ryska drönarattacker - Västerbottens-Kuriren
-- Irans utrikesminister tillbaka i Pakistan - GP
-- Putins problem växer: ”Vi har förlorat allt” - Expressen
-- Priset på olja lyfter efter låsta fredssamtal - Omni
-- Notan för ett barn rusar – upp en miljon - SVT Nyheter
+- Många kan stoppas från att köpa bostadsrätt - Marcus Oscarsson
+- Värna urfolksrättens principer - Kyrkans Tidning
+- Libanon: Många dödade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rivaler går ihop för att störta Netanyahus regering - Omni
+- 22 buddhistiska munkar greps med 110 kilo cannabis - Sveriges Radio
+- Malmström kan bli rektor för EU-universitet - GP
+- Notan för ett barn rusar – upp en miljon - Dagens Nyheter
 - Sverige skadas av fega storbanker med noll i kreditförlust - Affärsvärlden
-- Tesla höjer priset igen – populär modell blir dyrare - Dagens PS
-- Miljonsmäll för Åfa - Sundsvalls Tidning
-- BMW:s skiftande färg kan göra elbilar mer effektiva - Allt om Elbil
+- Günther Mårder kan släppas – men misstankarna stärks - Expressen
+- Parkeringen blev dyrare än maten: "Helt vansinnigt" - Dagens PS
+- Expertlista: AI-forskare vid Lunds universitet - Cision News
+- Utlovade förbättringar för Windows Update testas nu - PC för Alla
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på torsdag 13:50 - TV.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på torsdag 01:25 - TV.nu
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på idag 07:50 - TV.nu
+- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- Scientology Network World Health Day Marathon Spotlights a Global Movement for Drug-Free Living (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -55,36 +55,36 @@ _Updated: 2026-04-27 09:14_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
-- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
+- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
@@ -104,18 +104,18 @@ _Updated: 2026-04-27 09:14_
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Vi presenterar HealthBench - OpenAI
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-04-27 09:14_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk och Skogsbruk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk och Skogsbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk och Skogsbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
-- Lediga jobb - Land Lantbruk och Skogsbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk och Skogsbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
