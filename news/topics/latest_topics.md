@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-27 19:48_
+_Updated: 2026-04-27 21:53_
 
 ## Top Stories
 
-- Här är männen som haft Donald Trump som måltavla - GP
+- DN Direkt – Leavitt: Demoniseringen av Trump ledde till skotten - Dagens Nyheter
 - Regeringen satsar en miljard på Östlig förbindelse - Dagens Nyheter
-- Man anträffad skadad utomhus i Vellinge – stort polispådrag - SVT Nyheter
-- Skytten på Limhamn hade ”dödslista” – gammalt skolbråk kan ligga bakom helgens mordförsök - Sydsvenskan
-- Så blir vädret på valborg - Borås Tidning
-- Kina bygger konstgjord ö i omstritt hav - Dagens Nyheter
+- Skadad man hittad utomhus i Vellinge – polisen förtegen - TV4 Nyheterna
+- Ordkrig mellan Hizbollah och presidenten - GP
+- Lastbil väjde för älg – riksväg 27 åter öppen - SVT Nyheter
+- Från fronten i Ukraina till Aurora 26 - Försvarsmakten
 - Larmet: Bohus fästning förfaller - GP
-- Gabriel Segerstark, 19 år: ”Ser positivt på framtiden” - Sveriges Radio
-- Försvunna flickorna i Söderåkra hittade välbehållna - Dagens Vimmerby
-- Så påverkas Kalmar och Kronoberg av Sveriges största militärövning 2026 – börjar idag - SVT Nyheter
+- Polisen sätter ned foten efter stökig helg i Linghem - Corren
+- SJ stoppar snabbtåg – stor påverkan - NWT
+- Pressinbjudan: Regeringen presenterar ny nationell infrastrukturplan - Regeringen.se
+- Kung Charles och drottning Camilla har landat i USA - SVT Nyheter
+- Källor: Iran har gett USA nytt förslag - GP
 - Ryssland avfärdar uppgifter om oro i Iran - Dagens.se
-- KRÖNIKA: Brasiliens kvinnor sexsvälter i brist på män - Sydsvenskan
-- Uppgifter: Iran har lagt fram förslag om Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Direkt – Kriget i Ukraina – Minst 14 skadade i rysk attack mot Odessa - Dagens Nyheter
-- Varnar: Då rusar matpriserna igen - Expressen
-- Kina varnar EU: Rösta inte igenom lagen - Realtid
+- Kina bygger konstgjord ö i omstritt hav - Dagens Nyheter
+- Oljekrisen slår mot svenskt inrikesflyg - Dagens Nyheter
 - Dags att deklarera – tips för dig som är ute i sista minuten - Dagens Nyheter
-- Mäklare ser tydlig återhämtning – men små effekter av nya bolåneregler - Bostadspolitik
-- Snart kan du pausa Windows-uppdateringar så länge du vill - Computer Sweden
+- Misstankarna mot Mårder: Här är Raysearch mest volatila dagar - Affärsvärlden
+- Kina varnar EU: Rösta inte igenom lagen - Realtid
+- Heroes of Might and Magic: Olden Era - FZ.se
 - Nya gamingmusen från Turtle Beach har en inbyggd pekskärm - PC för Alla
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på torsdag 01:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- IMG Recognized by U.S. News & World Report as a 2026 Best Travel Insurance Company (PR Newswire) - Aktiellt
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Nytt stödpaket till global hälsa presenteras - Örebronyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- Cameron – smittad av skandalen - Aftonbladet
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2026-04-27 19:48_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -109,13 +109,13 @@ _Updated: 2026-04-27 19:48_
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2026-04-27 19:48_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
