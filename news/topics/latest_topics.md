@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-28 01:50_
+_Updated: 2026-04-28 02:12_
 
 ## Top Stories
 
 - Skytten åtalas för mordförsök på presidenten efter Trump-middagen - SVT Nyheter
 - Turist dog – blev biten av kobra under hotellshow - Expressen
-- Libanon: Fyra dödade och 50 skadade - Västerbottens-Kuriren
+- Rubio säger att USA inte kommer acceptera att Iran behåller kontrollen över Hormuz - Investing.com Sverige
 - Skadad man hittad utomhus i Vellinge – polisen förtegen - TV4 Nyheterna
-- Direkt – Krisen i Mellanöstern – Araghchi tackar Putin för stöd - Dagens Nyheter
 - SJ: Inställda X2000 efter hjulskada - Aftonbladet
-- Så påverkas Kalmar och Kronoberg av Sveriges största militärövning 2026 – börjar idag - SVT Nyheter
+- Från fronten i Ukraina till Aurora 26 - Försvarsmakten
 - Regeringen satsar på Östlig förbindelse i den nya nationella planen för infrastruktur och Tvärförbindelse Södertörn får byggstartsbeslut - Regeringen.se
 - Ännu oklart om det blir pengar till E18 i Västvärmland – då ger regeringen besked - NWT
 - Flera fortkörare stoppade under kvällen – här stod polisen - NSD
+- (+) Så slog Tjernobylolyckan mot Jämtland - Jämtlands Tidning
 - Kung Charles träffar Trump i Vita huset - Dagens Nyheter
 - Flera skadade i ryska drönarattacker - Västerbottens-Kuriren
 - Irans utrikesminister tillbaka i Pakistan - GP
-- Japan: Kan inte göra saker som skulle provocera USA - Omni
+- Direkt – Krisen i Mellanöstern – Kriget växer – israeliska attacker i östra Libanon - Dagens Nyheter
 - Oljekrisen slår mot svenskt inrikesflyg - Svenska Dagbladet
 - Kina varnar EU: Rösta inte igenom lagen - Realtid
 - Absolut Vodka kan få tillbaka miljoner i Trump-tullar - Sydsvenskan
@@ -27,13 +27,12 @@ _Updated: 2026-04-28 01:50_
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på torsdag 01:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på onsdag 19:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -41,12 +40,13 @@ _Updated: 2026-04-28 01:50_
 - Nytt stödpaket till global hälsa presenteras - Örebronyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-04-28 01:50_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 
 ## Business
 
