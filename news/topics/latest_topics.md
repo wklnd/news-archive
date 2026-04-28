@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-28 06:12_
+_Updated: 2026-04-28 09:13_
 
 ## Top Stories
 
-- Cole Tomas Allen åtalas för mordförsök på Trump – efter galamiddagen - GP
-- Bygget av nya badet på Hisingen är kraftigt försenat - GP
-- Rubio: Iran är skickliga förhandlare - Västerbottens-Kuriren
-- Tiotals dödade i attack i Nigeria - SVT Nyheter
-- Turist dog – blev biten av kobra under hotellshow - Expressen
-- DN Direkt – 14 döda i tågolycka i Indonesien - Dagens Nyheter
-- DN Direkt – Misstänkt mord i Vellinge – man hittades skadad - Dagens Nyheter
+- DN Direkt – Leavitt: Demoniseringen av Trump ledde till skotten - Dagens Nyheter
+- ”En svår balansgång som allierad till Iran” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tiotusentals svenskar reste för att få vård: Jätteskandal - Omni
 - Äldrevården har gjort sig beroende av flyktingar - Dagens Nyheter
-- Så påverkas Kalmar och Kronoberg av Sveriges största militärövning 2026 – börjar idag - SVT Nyheter
-- Flera fortkörare stoppade under kvällen – här stod polisen - NSD
-- Tröttnade på motstånd – 60 länder i nytt klimatmöte - Västerbottens-Kuriren
-- Kung Charles träffar Trump i Vita huset - GP
-- Direkt – Kriget i Ukraina – Minst 14 skadade i rysk attack mot Odessa - Dagens Nyheter
-- JD Vances oro – tror att Hegseth mörkar om Iran - Expressen
-- Startup driver världens första helt autonoma gruvsystem - Dagens PS
-- Frågetecknen kvar – SSAB:s provsvar visar inget - Aftonbladet
-- CBOT-sojabönor når enmånadshögsta på stigande oljepriser av Investing.com - Investing.com Sverige
-- Linus Larsson: Musk har en poäng – Open AI skulle bli något annat - Dagens Nyheter
+- Bygget av nya badet på Hisingen är kraftigt försenat - GP
+- DN Direkt – Kungen pratar minnen i radio på 80-årsdagen - Dagens Nyheter
+- DN Direkt – Misstänkt mord i Vellinge – man hittades skadad - Dagens Nyheter
+- 28 april 07.43, Sammanfattning natt, Jönköpings län - polisen.se
+- Tidöledarna röstar nej om Andersson prövas – Senaste nytt om valet 2026 - SVT Nyheter
+- Pressbriefing om lägesbilden för svensk energiförsörjning - Regeringen.se
+- Sämre snötäcke i Himalaya – 30 procent mindre än normalt - Sveriges Radio
+- DN Direkt – 14 döda i tågolycka i Indonesien - Dagens Nyheter
+- Kung Charles träffar Trump i Vita huset - Västerbottens-Kuriren
+- Ny omröstning om Starmer – kan bli utredning - GP
+- Svag vårflod höjer elpriserna - Dagens Nyheter
+- Oljepriset stiger: ”Ju längre konflikt, desto högre pris” - Omni
+- Handelsbanken: Kriget i Mellanöstern bromsar världsekonomin - men Sverige tar fart när väl osäkerheten minskar - Aktiellt
+- Ägde 10 procent av Apple – sålde och missade 400 miljarder - Dagens PS
 - Köpa nytt eller laga? Nya EU-regler ändrar spelplanen - tidningensyre.se
-- Steam Controller-läckor – släpps nästa vecka, kostar 99 dollar sägs det - FZ.se
+- Steam Controller släpps före Steam Machine därför att "den här har inget RAM i sig" - FZ.se
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:25 - TV.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:25 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Nytt stödpaket till global hälsa presenteras - Örebronyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -61,11 +61,11 @@ _Updated: 2026-04-28 06:12_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
@@ -98,24 +98,24 @@ _Updated: 2026-04-28 06:12_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Förvärv av RMS Medical Devices - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -152,13 +152,13 @@ _Updated: 2026-04-28 06:12_
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk och landsbygdsutveckling - European Commission
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar Canada
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
