@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-28 17:03_
+_Updated: 2026-04-28 19:11_
 
 ## Top Stories
 
 - Trump på sociala medier: Iran säger att de kollapsar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trumps ord till kung Charles – enligt läppläsaren - GP
+- 89-åring gripen efter skottdrama i Aten - Västerbottens-Kuriren
+- Jättesmäll för Astrid Lindgrens Värld – får inga pengar - Corren
 - Oro på ön efter bränderna: ”Detta är otäckt” - Omni
-- Många patienter måste resa långt för att få vård - Sveriges Radio
-- Zelenskyj fördömer Israel över ”stulet” spannmål - Västerbottens-Kuriren
-- Gunnar Strömmer i Tunisien – ska få hjälp i jakten på gängkriminella - SVT Nyheter
-- V-politiker döms – stal pengar avsedda för utsatta barn - GP
+- Lyxhotell rear ut sina sviter för att locka tillbaka turisterna - Dagens Nyheter
+- Stora satsningar på underhåll såväl som nya projekt när regeringen beslutar om ny nationell plan för Sveriges transportinfrastruktur - Regeringen.se
 - V vill höja barnbidraget med 500 kronor - Västerbottens-Kuriren
-- ”Det är bortförklaringarna som är missvisande” - Vi Lärare
+- Polis avslöjade bordell i radhusområde – 77-åring åtalas - Dagens Nyheter
 - Västra Skåne stärks – kapacitetssatsningar som gör skillnad för pendlare och näringsliv - Via TT
-- DN Direkt – Man slog ihjäl sin vän – får 18 års fängelse - Dagens Nyheter
-- Skadade barn från Gaza får vård i Jordanien - GP
-- Kraftig brand efter attack mot rysk oljeanläggning - Dagens Nyheter
+- Zelenskyj rasar: Israel köper stulet ukrainskt spannmål - SVT Nyheter
+- Ny attack mot oljehamn i ryska turiststaden - Västerbottens-Kuriren
 - Förenade arabemiraten lämnar Opec - Hufvudstadsbladet – HBL
-- Ordkrig mellan Hizbollah och presidenten - Västerbottens-Kuriren
+- Upptäckten i Stilla havet kan tyda på ”super-El Niño” - Dagens Nyheter
 - Oljepriset fortsätter uppåt - pt.se
-- Regeringen beredd att stötta lantbruket - ATL.nu
-- Kristerssons och Buschs råd i krisen: ”Ha marginal för dina resor” - Omni
-- Svag vårflod höjer elpriserna - Tidningen Näringslivet
+- Börjar producera mer flygbränsle i Göteborg - GP
+- Hemnet Group delårsrapport Q1 2026 (MFN) - Aktiellt
+- Prognosmiss sänker Spotify – AI-satsning minskar vinsten - DI
 - Snart kommer AI till Ubuntu Linux - Computer Sweden
-- Uppgifter: Apple kan lansera fler Ultra-prylar - Macworld.se
+- Valve jobbar för fullt på Steam Deck 2 - Nordichardware
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-04-28 17:03_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -74,17 +74,18 @@ _Updated: 2026-04-28 17:03_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Vilken framtid arbetar du för? - EY
+- Two Swedish investment funds bought shares in Israeli arms company Elbit - Sveriges Radio
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-04-28 17:03_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -121,33 +121,33 @@ _Updated: 2026-04-28 17:03_
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -160,5 +160,5 @@ _Updated: 2026-04-28 17:03_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
