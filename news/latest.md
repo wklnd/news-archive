@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-28 12:34_
+_Updated: 2026-04-28 14:15_
 
-- Congressional Republicans are split on using taxpayer funds to build Trump's ballroom - NBC News
-- Kimmel Pushes Back Against White House And FLOTUS Criticism Of ‘Expectant Widow’ Joke - Forbes
+- Column | I cannot stop thinking about Cheryl Hines at the correspondents’ dinner - The Washington Post
+- Jimmy Kimmel defends himself after Donald and Melania Trump call for him to be fired - CBS News
+- One Person Appears to Be Missing From King Charles’s U.S. Itinerary: Prince Harry - The New York Times
 - Trump Skeptical of Iran’s Strait of Hormuz Proposal - WSJ
-- In pictures: King Charles and Queen Camilla begin US state visit - BBC
-- Supporters of billionaire tax submit signatures to place measure on California's ballot - NBC News
-- "DeSantis Dummymander": Democrats heap ridicule on Florida's proposed House maps - Axios
+- Late Night Downloads the White House Correspondents’ Dinner - The New York Times
+- Stuck in limbo: millions of professionals risk losing legal status under Trump pause - NPR
+- Texas Lawmakers to Question Camp Mystic’s Owners Over Deadly Flood - The New York Times
+- Trump keeps trying to reassure the oil markets. Some analysts think he may be making it worse. - Politico
+- Florida’s redistricting fight puts Ron DeSantis back in the Republican spotlight - AP News
 - Virginia Supreme Court considers GOP challenge to voter-approved redistricting plan favoring Democrats - PBS
-- Becerra's surge in California governor race draws fresh scrutiny to candidacy, long government record - Los Angeles Times
-- Camp Mystic counselors lacked training, Texas lawmakers told - The Texas Tribune
-- Trump administration fires entire National Science Board - Reuters
 - Violence escalates in Colombia with dozens of attacks before presidential vote - AP News
 - Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption - NPR
-- IDF strikes Lebanon’s Beqaa Valley for first time in 3 weeks as some towns in north cancel school - The Times of Israel
-- Kim Jong Un Confirms Soldier ‘Self-Blasting’ Policy in Ukraine - Bloomberg.com
-- Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News
-- Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge
-- Nasdaq Set to Open Down Amid Iran Peace Fears - Barron's
-- OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO - WSJ
+- The Small U.K. Agency That’s a 911 for Ships in the Strait of Hormuz - The New York Times
+- Israeli strikes hit east Lebanon, expanding scope despite ceasefire - Reuters
+- Jury selection in Musk v. Altman: ‘People don’t like him’ - The Verge
+- Oil Prices Jump Again as U.S.-Iran Talks Appear Deadlocked - The New York Times
+- GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street's earnings expectations - CNBC
+- Meta prepares to undo Manus acquisition after China ban, WSJ reports - Reuters
 - Qualcomm stock draws attention after major OpenAI news - thestreet.com
-- Valve Remains “Hard at Work” on Steam Deck 2 Four Years After Gabe Newell First Teased the Handheld Successor - wccftech.com
+- Here's your first look at Google's upcoming 'Proactive Assistance' feature for Gemini - Android Authority
