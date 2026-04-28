@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-28 19:11_
+_Updated: 2026-04-28 21:07_
 
 ## Top Stories
 
-- Trump på sociala medier: Iran säger att de kollapsar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trumps ord till kung Charles – enligt läppläsaren - GP
+- Liverapport: Stor risk för skogsbränder i Dalarna - SVT Nyheter
+- Sandra Stiskalo: Bara kungen får Trump att skratta är britterna nöjda - Dagens Nyheter
+- Trump: Merz vet inte vad han pratar om – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - 89-åring gripen efter skottdrama i Aten - Västerbottens-Kuriren
-- Jättesmäll för Astrid Lindgrens Värld – får inga pengar - Corren
-- Oro på ön efter bränderna: ”Detta är otäckt” - Omni
-- Lyxhotell rear ut sina sviter för att locka tillbaka turisterna - Dagens Nyheter
-- Stora satsningar på underhåll såväl som nya projekt när regeringen beslutar om ny nationell plan för Sveriges transportinfrastruktur - Regeringen.se
-- V vill höja barnbidraget med 500 kronor - Västerbottens-Kuriren
-- Polis avslöjade bordell i radhusområde – 77-åring åtalas - Dagens Nyheter
-- Västra Skåne stärks – kapacitetssatsningar som gör skillnad för pendlare och näringsliv - Via TT
-- Zelenskyj rasar: Israel köper stulet ukrainskt spannmål - SVT Nyheter
-- Ny attack mot oljehamn i ryska turiststaden - Västerbottens-Kuriren
-- Förenade arabemiraten lämnar Opec - Hufvudstadsbladet – HBL
-- Upptäckten i Stilla havet kan tyda på ”super-El Niño” - Dagens Nyheter
+- Vädervändning i Skaraborg – så ser vädret ut på valborg - Mariestads-Tidningen
+- Nytt bygge invigs vid Sahlgrenska – DM med i tidskapsel - Dagens Medicin
+- Fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2026–2037 - Regeringen.se
+- Från fronten i Ukraina till Aurora 26 - Försvarsmakten
+- DN/Ipsos: Miljöpartiet får högsta stöd sedan flyktingkrisen - Dagens Nyheter
+- Mamma mördades utomhus – pappan åtalas - Västerbottens-Kuriren
+- Ungerns nya ledare vill möta Zelenskyj - Västerbottens-Kuriren
+- Kobra i ormshow smet in under byxor – turist dog - Dagens Nyheter
+- Efter omröstningen: Starmer slipper utredning - Corren
+- Zelenskyj fördömer Israel över ”stulet” spannmål - Hufvudstadsbladet – HBL
+- Förenade arabemiraten lämnar Opec - SVT Nyheter
 - Oljepriset fortsätter uppåt - pt.se
-- Börjar producera mer flygbränsle i Göteborg - GP
-- Hemnet Group delårsrapport Q1 2026 (MFN) - Aktiellt
-- Prognosmiss sänker Spotify – AI-satsning minskar vinsten - DI
-- Snart kommer AI till Ubuntu Linux - Computer Sweden
+- Juristen: Det har du rätt till om flyget ställs in - Sveriges Radio
+- ”Struntar vi i Garpenberg är det ett jäkla bra kvartal” - EFN
+- Uppgifter: Apple kan lansera fler Ultra-prylar - Macworld.se
 - Valve jobbar för fullt på Steam Deck 2 - Nordichardware
 
 ## World News
@@ -32,20 +32,20 @@ _Updated: 2026-04-28 19:11_
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
@@ -101,53 +101,53 @@ _Updated: 2026-04-28 19:11_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Lyckad start för nytt forskningsbaserat ledarprogram - it-halsa.se
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Professor Jan Lundberg ny medlem i SmartCellas Scientific Advisory Board - Cision News
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Arena för vetenskap och samhällsgärningar – ny satsning på universitet - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
+- ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningsprojekt inom SCAPA - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -157,8 +157,8 @@ _Updated: 2026-04-28 19:11_
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
+- 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
