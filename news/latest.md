@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-28 07:02_
+_Updated: 2026-04-28 09:55_
 
-- DOJ unveils charges against White House Correspondents' Association Dinner shooting suspect Cole Allen - Fox News
-- Disney CEO faces his first big Trump test as Jimmy Kimmel prepares to address controversy - CNN
-- Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz - The New York Times
-- Iranian foreign minister meets with Putin as U.S.-Iran talks falter - The Washington Post
+- Trump wants a correspondents’ dinner redo. Critics aren’t convinced. - The Washington Post
+- Kimmel Pushes Back Against White House And FLOTUS Criticism Of ‘Expectant Widow’ Joke - Forbes
+- Trump Skeptical of Iran’s Strait of Hormuz Proposal - WSJ
 - In pictures: King Charles and Queen Camilla begin US state visit - BBC
-- Supporters of billionaire tax submit signatures to place measure on California's ballot - NBC News
-- Brother of suspect in deaths of 2 Tampa doctoral students: "We tried to warn police in the past" - CBS News
-- Virginia High Court Weighs Legality of Congressional Map Approved Last Week - The New York Times
+- Mexico’s Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident - Politico
 - DeSantis unveils gerrymandered Florida map as redistricting war rages - Axios
+- Virginia Supreme Court considers GOP challenge to voter-approved redistricting plan favoring Democrats - PBS
+- Brother of suspect in deaths of 2 Tampa doctoral students: "We tried to warn police in the past" - CBS News
 - Becerra's surge in California governor race draws fresh scrutiny to candidacy, long government record - Los Angeles Times
-- Chernobyl’s Wolf Population Is Now 7 Times Higher Than Before the Disaster - Gizmodo
-- Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says - The Guardian
-- Early Setbacks for Russian Mercenaries as Conflict Flares in Mali, MT Analysis Shows - The Moscow Times
-- US, Iran clash at UN after Tehran gets nuclear non-proliferation role - Reuters
-- Some Musk v. Altman Jurors Don't Like Elon Musk - WIRED
-- Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ
+- Judge Delays Order to Force Penn to Turn Over List of Jews to Trump Administration - The New York Times
+- Violence escalates in Colombia with dozens of attacks before presidential vote - AP News
+- Archaeologists at Pompeii use AI to reveal the face of a victim trying to flee the Mount Vesuvius eruption - CBS News
+- Israeli strikes hit east Lebanon, expanding scope despite ceasefire - Reuters
+- Iranian foreign minister meets with Putin as U.S.-Iran talks falter - The Washington Post
+- Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News
+- Jury selection in Musk v. Altman: ‘People don’t like him’ - The Verge
 - Trump administration pays wind developer to walk away from California offshore lease - Los Angeles Times
 - Supreme Court considers blocking lawsuits alleging weed killer causes cancer - The Washington Post
-- Valve launches the Steam Controller without the Steam Machine - The Verge
 - Qualcomm stock draws attention after major OpenAI news - thestreet.com
+- Xbox boss warns "memory costs will impact pricing, will impact availability" when it comes to Project Helix - GamesIndustry.biz
