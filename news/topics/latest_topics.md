@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-29 20:55_
+_Updated: 2026-04-29 22:40_
 
 ## Top Stories
 
-- MP anklagar SD för manipulation i riksdagsomröstning - Västerbottens-Kuriren
-- Här går Apache-helikoptrarna till attack i Skåne - Sydsvenskan
-- Analys: Därför hyllades kung Charles med stående ovationer i USA - GP
-- Direkt – Kriget i Ukraina – Tre döda i ukrainsk attack - Dagens Nyheter
-- Joakim Medin: ”Med lite otur hade jag inte alls varit med i bilden” - Dagens Nyheter
-- Bordade fartyget i Trelleborg taget i beslag - Västerbottens-Kuriren
+- Kvinna hittad död i Karlskrona kommun – misstänkt mord - SVT Nyheter
+- MP anklagar SD för fulspel i riksdagsomröstning - Västerbottens-Kuriren
+- Ukrainas skugga över militärens jätteövning - gp.se
+- Analys: Därför hyllades kung Charles med stående ovationer i USA - gp.se
 - Niklas Ekdal: Kungen firar 80 år av ensamhet – och succé - Dagens Nyheter
+- Efter jätteparad – inga stridsvagnar i Moskva i år - Aftonbladet
 - Vi stoppar gängens rekrytering av barn och unga på nätet - Moderaterna
 - VALBORG: Det ska du inte slänga på brasan: ”Explosion” - Arvika Nyheter
-- SD kräver krismöte om journalsystemet Cosmic i Stockholm - SVT Nyheter
+- Bordade fartyget i Trelleborg taget i beslag - Västerbottens-Kuriren
+- Partiledarna nobbar omtalade intervjun - Expressen
 - Ny deadline närmar sig för Trump i kriget i Iran: ”Politiskt pris” - Dagens Nyheter
-- Minst 30 personer saknas när kanalbåt sjönk - Folkbladet
-- Polen: ”Överoptimistisk” Putin farlig för Nato - Dagens Nyheter
-- Källor: Trump vill förlänga blockaden mot Iran - Västerbottens-Kuriren
+- Oljeanläggning brinner djupt inne i Ryssland - gp.se
+- Kravlistan på klimatmötet i Colombia: ”Politikerna måste stoppa greenwashing av fossilt” - SVT Nyheter
+- Libanon: Soldat dödad i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ny Fed-chef får grönt ljus i USA - Sydsvenskan
-- Stockholmsbörsen föll för åttonde dagen i rad - GP
+- Oenigt när USA:s styrränta lämnades oförändrad - Dagens Nyheter
 - Åklagarens besked: Günther Mårder släppt på fri fot - EFN
-- Swedbanks VD duckar frågor om Bonnesen: "Kommer tolkas" - Affärsvärlden
+- Stockholmsbörsen föll för åttonde dagen i rad - gp.se
 - Kartläggning av igelkottshälsa - sva.se
 - Ny bok lär ut hur du agerar i en osäker framtid - Notified
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - Tv.nu
+- FIFA introduces an extra yellow-card amnesty in upcoming World Cup - The Athletic - The New York Times
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 
 ## Technology
 
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
+- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
@@ -75,24 +75,24 @@ _Updated: 2026-04-29 20:55_
 
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansiera energilagring för att säkra förnybar framtid - Siemens
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finansiera energilagring för att säkra förnybar framtid - Siemens
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Truist expands open banking capabilities with Plaid (PR Newswire) - Aktiellt
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Streamline Auto Solutions' Make it Work® Integrates with RouteOne to Streamline Deal Refresh for Dealers - Aktiellt
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- 4dev.com Releases Contractor Market Report 2025 on the Growth of the Global Contractor Economy (PR Newswire) - Aktiellt
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -143,13 +143,13 @@ _Updated: 2026-04-29 20:55_
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
+- Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
