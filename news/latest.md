@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-29 12:30_
+_Updated: 2026-04-29 14:06_
 
 - King Charles urges checks on executive power as Trump hosts royal visit - The Washington Post
 - James Comey indicted again as DOJ probe deepens into ex-FBI chief - Fox News
-- FCC orders review of ABC's broadcast licenses - Axios
-- Trump Tells Aides to Prepare for Extended Blockade of Iran - WSJ
-- Takeaways From the California Governor Debate at Pomona College - The New York Times
+- Trump Tells Aides to Prep for Lengthy Hormuz Blockade, Report Says - Bloomberg.com
 - With no radical footprint, what drove suspect to try and assassinate Trump? - NPR
+- Supreme Court weighs Trump's effort to end Temporary Protected Status for Haitians, Syrians - NPR
+- Brendan Carr takes on Disney — and escalates Trump’s media war - Politico
+- 5 Takeaways From the Latest Debate in the California Governor’s Race - The New York Times
 - Judge tosses out Trump administration lawsuit seeking access to Arizona voter data - CBS News
 - U.S. to issue commemorative passports with Trump’s picture for America's 250th birthday - NPR
-- Supreme Court will hear Trump’s bid to end legal protection for up to 1.3 million immigrants - Los Angeles Times
-- Trump snubbed by gathering of global leaders in Colombia - Euronews.com
+- Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!' - CNBC
+- ‘Suicidal’ model of capitalism leading to war and fascism, climate summit told - The Guardian
+- Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’ - The New York Times
+- Ukraine accuses Israel of importing grain ‘stolen’ by Russia as Zelenskyy warns of sanctions - AP News
 - Mali attacks: What next for the junta after shock of rebel offensive? - BBC
-- Ukraine war briefing: More woe for Russian oil as Tuapse refinery hit again - The Guardian
-- Last year was hot. Next year will be even hotter. - politico.eu
 - 'Take the money and run': Johns Hopkins economist Steve Hanke on why the UAE quit OPEC - Fortune
-- Morning Bid: Fed sails into unchartered waters as Powell bows out - Reuters
 - S&P 500 futures edge higher as Wall Street looks ahead to ‘Mag 7’ earnings and Fed decision: Live updates - CNBC
-- Elon Musk takes stand in trial vs. Sam Altman that could reshape AI’s future - AP News
+- Meta Accused of Failing to Keep Children Off Instagram and Facebook in Europe - The New York Times
+- It's set to be Jerome Powell's last meeting as Fed chair — as a big change looms - NPR
 - DJI’s new Mic Mini 2 adds colorful covers to help them blend in - The Verge
-- Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push - The Hacker News
-- Lovable launches its vibe-coding app on iOS and Android - TechCrunch
+- PS5 30-Day DRM “Confirmed” by PlayStation Support – But Sony Denies It - VICE
