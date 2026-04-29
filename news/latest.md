@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-29 14:06_
+_Updated: 2026-04-29 16:56_
 
-- King Charles urges checks on executive power as Trump hosts royal visit - The Washington Post
-- James Comey indicted again as DOJ probe deepens into ex-FBI chief - Fox News
-- Trump Tells Aides to Prep for Lengthy Hormuz Blockade, Report Says - Bloomberg.com
-- With no radical footprint, what drove suspect to try and assassinate Trump? - NPR
-- Supreme Court weighs Trump's effort to end Temporary Protected Status for Haitians, Syrians - NPR
-- Brendan Carr takes on Disney — and escalates Trump’s media war - Politico
-- 5 Takeaways From the Latest Debate in the California Governor’s Race - The New York Times
-- Judge tosses out Trump administration lawsuit seeking access to Arizona voter data - CBS News
-- U.S. to issue commemorative passports with Trump’s picture for America's 250th birthday - NPR
-- Trump threatens Iran with AI picture of himself with a gun: 'No more Mr. Nice guy!' - CNBC
-- ‘Suicidal’ model of capitalism leading to war and fascism, climate summit told - The Guardian
-- Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’ - The New York Times
+- US supreme court rules Louisiana must redraw its congressional map in landmark case - The Guardian
+- At State Dinner, King Charles Charms the Court of Trump - The New York Times
+- Supreme Court weighs Trump's effort to end temporary protected status for Haitians, Syrians - NPR
+- Video shows moment Secret Service officer fired at correspondents’ dinner suspect - The Washington Post
+- Trump warns Iran 'better get smart soon' as he weighs military options over Strait of Hormuz - NBC News
+- Oil price jumps to $115 after reports of 'extended' Iran blockade - BBC
+- At least 2 injured as storms tear through Texas and damage homes - NBC News
+- Candidates for governor scrap in fiery debate that may grab voter attention, finally - Los Angeles Times
+- White House blames assassination attempt on anti-Trump rhetoric; Dems push back - USA Today
+- Supreme Court sides with crisis pregnancy centers in subpoena battle - Politico
+- Russia says it's scaling down WW2 victory parade due to Ukrainian threat - Reuters
+- Court sentences former world leader to 7 years in prison for resisting arrest, other charges - Fox News
 - Ukraine accuses Israel of importing grain ‘stolen’ by Russia as Zelenskyy warns of sanctions - AP News
-- Mali attacks: What next for the junta after shock of rebel offensive? - BBC
-- 'Take the money and run': Johns Hopkins economist Steve Hanke on why the UAE quit OPEC - Fortune
-- S&P 500 futures edge higher as Wall Street looks ahead to ‘Mag 7’ earnings and Fed decision: Live updates - CNBC
-- Meta Accused of Failing to Keep Children Off Instagram and Facebook in Europe - The New York Times
-- It's set to be Jerome Powell's last meeting as Fed chair — as a big change looms - NPR
+- What role has Russia played in Mali’s security and the Sahel region? - Al Jazeera
+- Wall St mixed at open ahead of Big Tech earnings, Fed meeting - Reuters
+- Fed expected to stand pat on interest rates amid ongoing uncertainty from Iran conflict - Yahoo Finance
+- Live Q&A: What’s Next for Oil and OPEC after the UAE’s Shock Exit? - Bloomberg.com
+- EU says Meta is failing to keep underage users off Facebook and Instagram - NPR
+- John Ternus faces critical decisions on iPhone pricing and US manufacturing – FT - 9to5Mac
 - DJI’s new Mic Mini 2 adds colorful covers to help them blend in - The Verge
-- PS5 30-Day DRM “Confirmed” by PlayStation Support – But Sony Denies It - VICE
