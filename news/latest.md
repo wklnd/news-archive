@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-29 01:36_
+_Updated: 2026-04-29 03:22_
 
-- James Comey indicted in probe over online post officials say constituted Trump threat - PBS
-- Watch Live: King Charles addresses Congress after Trump meeting - CBS News
+- Beneath King Charles’s Jokes and Decorum, a Subtle Rebuttal to Trump - The New York Times
+- James Comey indicted over 2025 social media post allegedly threatening Trump - The Washington Post
 - FCC orders early license renewal for ABC stations following Kimmel's first lady joke - NPR
-- Former Fauci aide charged with concealing Covid records - The Guardian
-- State Department to release limited edition ‘America250’ passports with Trump’s face - Politico
-- Trump claims Iran told U.S. it wants Strait of Hormuz open ASAP - Axios
-- John Hinckley Jr calls Trump press gala shooting at same hotel he shot Reagan ‘spooky’ - The Guardian
-- US agents raid 22 Minnesota sites in social-welfare fraud probe - Reuters
-- A Supreme Court justice’s personal ties to Haiti highlight stakes in asylum case - The Washington Post
+- Did the suspected WHCD shooter hit a Secret Service officer? DOJ says it’s not sure yet. - Politico
+- Exclusive: Trump approval sinks to new low as war with Iran drives cost-of-living concerns - Reuters
+- Months after Operation Metro Surge, federal agents return to Minneapolis to target daycares for suspected fraud - CBS News
+- Supreme Court to weigh Trump's bid to end deportation shield for Haiti and Syria as thousands brace for ruling - CBS News
+- Mike Johnson's "hell week" collides with GOP infighting - Axios
+- Soldier who placed Polymarket bet on Maduro operation pleads not guilty - Politico
 - Barney Frank, entering hospice care, embarks on a final act: Taking on the left - Politico
-- Ukraine Hits Russia’s Oil Machine, but Struggles to Dent Its Economy - WSJ
-- Ukraine accuses Israel of importing grain ‘stolen’ by Russia as Zelenskyy warns of sanctions - AP News
-- UAE to leave OPEC amid Hormuz oil crisis, a blow to Saudi Arabia - The Washington Post
+- The United Arab Emirates is quitting OPEC oil cartel after nearly 60 years - NPR
 - South Korean court extends prison sentence for wife of ousted president - NPR
+- Live Updates: Iran war and Strait of Hormuz stuck in limbo as Trump mulls latest Iranian offer - CBS News
+- Ukraine Hits Russia’s Oil Machine, but Struggles to Dent Its Economy - WSJ
 - Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI - The Verge
-- US gas prices surge to highest level in four years, averaging $4.18 a gallon - The Guardian
-- SFO and Oakland settle trademark dispute — ‘Oakland San Francisco Bay’ name stays - San Francisco Chronicle
+- U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran - The New York Times
 - Pernod Ricard and Brown-Forman End Deal Talks - WSJ
-- Apple Readies Photo-Editing Overhaul With New AI Tools in iOS 27 - Bloomberg.com
+- SFO and Oakland settle trademark dispute — ‘Oakland San Francisco Bay’ name stays - San Francisco Chronicle
 - NVIDIA starts offering a 12GB version of the 5070 for laptops - Engadget
+- Samsung is already adding Galaxy Glasses support to One UI ahead of launch - 9to5Google
