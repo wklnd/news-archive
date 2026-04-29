@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 00:38_
+_Updated: 2026-04-30 01:55_
 
 - Live Updates: Supreme Court Strikes Down Louisiana Map in Voting Rights Case - The New York Times
 - Comey appears in court on charges of threatening Trump - The Washington Post
-- Live Updates: Hegseth questioned over Iran war as Pentagon official says costs estimated at $25 billion so far - CBS News
+- Hegseth denies Iran war is ‘quagmire’ as cost to US hits estimated $25bn - The Guardian
 - Oil price briefly hits $120 after reports of 'extended' Iran blockade - BBC
-- Supreme Court mulls Trump administration push to end protections for migrants from Haiti and Syria - AP News
-- King Charles US visit live: NYC mayor chats with royal at 9/11 memorial after saying he’d urge return of crown jewel - The Independent
-- Man charged with trying to kill Trump took hotel room selfie before rushing gala, investigators say - 5 EYEWITNESS NEWS
+- Man charged with trying to kill Trump at dinner took photo with knife in hotel, investigators say - AP News
+- Immigrants with temporary legal status could score slim win at Supreme Court - Politico
+- Johnson puts down GOP revolt that left House agenda in limbo - Axios
+- All Six Conservative Justices Attended Trump’s State Dinner - The New York Times
 - Florida passes DeSantis’ redistricting map that could net the GOP 4 seats - Politico
-- Johnson quells House GOP revolt to advance controversial surveillance bill - The Washington Post
 - Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos - The New York Times
-- Whale carried by barge out of German waters after weeks stranded on coast - BBC
 - U.K. investigates attacks on Jewish targets for possible links to Iran - The Washington Post
-- Palestinian Reports: 16-year-old Killed by IDF Fire in West Bank's Hebron - Haaretz
-- Powell Says He Will Stay On as Fed Governor After Term as Chair Ends - The New York Times
+- How Ukraine's demining robots could help U.S. open the Strait of Hormuz - CBS News
+- Whale carried by barge out of German waters after weeks stranded on coast - BBC
+- Four key takeaways from Jerome Powell's last rate decision as Fed chair - BBC
+- Elon Musk Takes The Stand In OpenAI Trial—Says ‘I Was A Fool’ To Give Firm $38 Million - Forbes
 - Meta earnings updates: Revenue beats estimate but stock drops as company expects capex spending increase - Business Insider
-- Google Stock Climbs On Q1 Earnings As Cloud Revenue, 'Backlog' Booms - Investor's Business Daily
-- Amazon Stock Bounces Back Following Positive Chip Demand Comments - Barron's
-- Motorola just revealed the Razr Fold’s price and hoo boy - The Verge
-- Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27 - Bloomberg.com
+- Big Tech AI Capex Tops $650 Billion as Q1 Earnings Beats Pressure Bitcoin Risk Trade - Yahoo Finance
+- Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27 - Bloomberg
 - Gemini app can now generate Google Docs, PDF, Word, and other files - 9to5Google
+- Microsoft sets its sights on the past with 86-DOS and PC-DOS - theregister.com
