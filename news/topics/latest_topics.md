@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-29 01:31_
+_Updated: 2026-04-29 03:16_
 
 ## Top Stories
 
 - Kung Charles försvarade Nato inför kongressen - Dagens Nyheter
+- Tidigare FBI-chefen inför rätta: Hot med snäckor - GP
 - Ny attack mot oljehamn i ryska turiststaden - Västerbottens-Kuriren
-- Trump: Merz vet inte vad han pratar om – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Källor: Orbáns oligarker flyger ut rikedomar i privatplan - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – USA inspekterade fartyg nära Hormuz - Dagens Nyheter
-- Tre försök på knappt två år – männen som försökt mörda Trump - Dagens Nyheter
+- Trump: Merz vet inte vad han pratar om – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Jimmy Kimmel försvarar skämt om paret Trump - Dagens Nyheter
 - Gunnar Strömmer i Tunisien – ska få hjälp i jakten på gängkriminella - SVT Nyheter
-- DN/Ipsos: Miljöpartiet får högsta stöd sedan flyktingkrisen - Dagens Nyheter
-- Från fronten i Ukraina till Aurora 26 - Försvarsmakten
 - Fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2026–2037 - Regeringen.se
-- Tidigare FBI-chef åtalas – ska ha hotat Trump på Instagram - SVT Nyheter
+- Från fronten i Ukraina till Aurora 26 - Försvarsmakten
+- 63-åring misstänks ha dödat sin fru – sonen överlevde - Dagens Nyheter
 - Ungerns nya ledare vill möta Zelenskyj - Västerbottens-Kuriren
-- Klart ja till samtyckeslag i EU - GP
+- Direkt – Krisen i Mellanöstern – USA inspekterade fartyg nära Hormuz - Dagens Nyheter
+- Klart ja till samtyckeslag i EU - Västerbottens-Kuriren
 - Ny omröstning om Starmer – kan bli utredning - GP
 - Börjar producera mer flygbränsle i Göteborg - GP
 - Wall Street ned i AI-orons spår – Spotify rasade - Aftonbladet
 - Prognosmiss sänker Spotify – AI-satsning minskar vinsten - DI
-- Shells vd: Energikrisen kan sträcka sig in i nästa år - EFN
-- Chockpriset: Vikbara Iphone Fold kan kosta mer än 30 000 - nyteknik
-- Dags att du klarar Resident Evil Requiem, tycker producent – DLC är i antågande - FZ.se
+- Förenade arabemiraten lämnar oljekartellen Opec - Dagens Nyheter
+- Mask från damm i Malmö kan påskynda sårläkning - Aftonbladet
+- Jonna Bornemark: ”Samhället behöver bli mer autistiskt” - Special Nest
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på torsdag 13:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på inatt 01:45 - TV.nu
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -62,14 +62,14 @@ _Updated: 2026-04-29 01:31_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
+- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
 - Mit KI und semantische Suche die Zukunft und neue Welten entdecken – Künstliche Intelligenz im Online Marketing, SEA und SEO - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Call for Global Entries: Globee® Awards for Technology Invites Tech Startups Worldwide to Nominate Their Achievements (PR Newswire) - Aktiellt
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -143,22 +143,22 @@ _Updated: 2026-04-29 01:31_
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Lediga jobb - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Lediga jobb - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-06-01 Seminarium: Solceller på jordbruksmark – beständig intressekonflikt eller möjlig symbios? - Mynewsdesk
