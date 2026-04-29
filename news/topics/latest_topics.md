@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-29 12:25_
+_Updated: 2026-04-29 14:03_
 
 ## Top Stories
 
-- Lärarvikarie döms för flera barnvåldtäkter - Västerbottens-Kuriren
+- Regeringen: Plattformar ska tvingas ta bort gängens annonser - SVT Nyheter
 - Södertälje tingsrätt dömer fem personer för brott som begåtts i kriminell nätverksmiljö - Sveriges Domstolar
-- Kung Charles försvarade Nato inför kongressen - Dagens Nyheter
-- Delade meningar om synen på vårdresor - Omni
-- Trump vill förlänga blockad – ska pressa Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Strömmer i Tunisien – vill komma åt svenskt gäng - GP
-- Ytterligare dödsfall kopplade till journalsystemet Cosmic - Dagens Nyheter
-- Totalstopp för nya privata tandvårdskliniker efter lagändring - Dagens Nyheter
-- Närmare 300 gripna i svenskledd polisinsats - Corren
-- Högerprofilen: Kan inte längre rösta på M - Västerbottens-Kuriren
+- Trump har bestämt sig – fortsätter att blockera - Expressen
+- Ebba Busch nobbar DN-intervju med poddprofil - GP
+- Uppgifter: Flickor pratade högt på tåget – greps med bomber av ordningsvakter - GP
+- DN Direkt – Duplantis flyttar till Monaco – sålt lägenheten - Dagens Nyheter
+- Valborg i Halland 2026 – här kan du fira i din kommun - SVT Nyheter
+- Sju dödsfall kopplas till Cosmic - Västerbottens-Kuriren
+- Lärarvikarie döms för flera barnvåldtäkter - GP
+- Gunnar Strömmer i Tunisien – ska få hjälp i jakten på gängkriminella - SVT Nyheter
 - Sanna Torén Björling: Ukraina vill byta expertis mot en plats i gänget - Dagens Nyheter
-- Indisk miljardärsson: Jag tar Escobars flodhästar - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – EU överväger striktare villkor för jättelån - Dagens Nyheter
-- Källor: Trump vill förlänga blockaden mot Iran - Västerbottens-Kuriren
-- Rusning till banken efter nya bolåneregler - Västerbottens-Kuriren
-- Oljekrisen ger ny möjlighet för Volvo Cars - GP
+- Baltikum och Finland har flest mord i EU - Västerbottens-Kuriren
+- Michael Winiarski: Därför flyr Orbáns förtrogna Ungern inför regeringsskiftet - Dagens Nyheter
+- Libanon: Soldat dödad i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sparprofilen Günther Mårder släpps ur häktet - Västerbottens-Kuriren
 - Hyresgästföreningen: Ockerhyror i forna bordellhuset - Dagens Nyheter
-- Spotifys rapport: Förväntade kostnadsökningar skrämmer marknaden, men verksamheten ser mycket sund ut - Morningstar Canada
-- Lovable släpper vibe coding-app till Iphone och Android - nyteknik
-- Herman Lindqvist tar klivet in i deckarvärlden – skriver spänningsserie tillsammans med Per E Åsberg - NewsMachine AB
+- BYD:s rapport: Förväntningarna infriades inte på grund av svag försäljning och valutakursförändringar; bilpriserna blev en positiv överraskning - Morningstar Canada
+- Rusning till banken efter nya bolåneregler - GP
+- Ny bok lär ut hur du agerar i en osäker framtid - Notified
+- Ännu en ponny tagen av vargen: ”Förkrossade” - Sydsvenskan
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på onsdag 19:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- FIFA set to introduce an extra yellow-card amnesty in upcoming World Cup - The Athletic - The New York Times
+- Winners Revealed: The Nandagang International Photo Competition Highlights UNESCO World Natural Heritage Site in Cangzhou (PR Newswire) - Aktiellt
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -58,8 +58,8 @@ _Updated: 2026-04-29 12:25_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
