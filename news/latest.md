@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-29 19:09_
+_Updated: 2026-04-29 20:59_
 
-- Supreme Court calls Louisiana's House map an 'unconstitutional racial gerrymander' - NPR
-- Pentagon official: Iran war has cost $25B - Politico
-- Read the complete transcript of King Charles III’s speech to Congress - AP News
-- Supreme Court Considers Trump’s Plan to Revoke Deportation Protections - The New York Times
-- Oil price jumps to $115 after reports of 'extended' Iran blockade - BBC
-- Kimmel Calls Out Trump’s Joke About His Own Death - Deadline
-- At least 2 injured as storms tear through Texas and damage homes - NBC News
-- Cole Allen took selfie before Trump assassination attempt at WHCD, prosecutors say - CNBC
-- Supreme Court sides with crisis pregnancy centers in subpoena battle - Politico
-- Prosecutions of Trump’s foes add to GOP’s headaches in midterms - The Washington Post
-- London police say stabbing of 2 Jewish men is an act of terrorism - AP News
+- Fed Meeting Live Updates: Rate Decision Will Be Announced at Powell's Likely Last Meeting as Chair - The New York Times
+- Supreme Court limits key provision of the landmark Voting Rights Act - The Washington Post
+- Pete Hegseth denies Iran war is a ‘quagmire’ as cost to US hits estimated $25bn - The Guardian
+- Ex-FBI director James Comey surrenders over charge of threatening Trump's life in Instagram post - BBC
+- Trump’s Billionaire Friends Were Among The Guests At Royal State Dinner: See The List - Forbes
+- Candidates for governor scrap in fiery debate that may grab voter attention, finally - Los Angeles Times
+- Cole Allen took selfie before Trump assassination attempt at WHCA dinner, prosecutors say - CNBC
+- Supreme Court sides with anti-abortion center raising 1st Amendment fears about state investigation - PBS
+- Florida lawmakers approve redistricting plan intended to give GOP four more seats - The Washington Post
+- A wave of attacks on Jewish targets in U.K. is being probed for possible links to Iran - The Washington Post
+- Attempts to rescue Timmy the stranded whale ‘inadvisable’, experts say - The Guardian
 - South Korean court sentences ex-President Yoon to 7 years in prison - NPR
-- Kyiv vows response as Russia ships stolen grain to multiple countries - Euronews.com
-- Tourist dies after being bitten at snake-charming show while on family vacation in Egypt - CBS News
-- Fed Meeting Live Updates: Warsh Nomination for Fed Chair Advances Ahead of Powell's Presser - The New York Times
-- S&P 500 is little changed as oil rises, traders brace for Fed decision and Big Tech earnings: Live updates - CNBC
-- EU says Meta is failing to keep underage users off Facebook and Instagram - NPR
+- Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’ - The New York Times
+- OpenAI trial live updates: Musk clashes with Altman's lawyer in cross-examination - CNBC
+- UAE’s Opec exit will drive down oil prices in future, warns Moscow - Financial Times
 - Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters
-- The new Razr Ultra is still the best-looking phone out there - The Verge
-- Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it - Ars Technica
+- Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe - The New York Times
+- Motorola reveals 2026 Razr lineup with modest upgrades and higher prices - Ars Technica
+- Google Translate now lets you practice pronunciation - TechCrunch
+- 5 ways your Windows updates are about to get a lot less painful - ZDNET
