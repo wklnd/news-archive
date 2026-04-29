@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-29 20:59_
+_Updated: 2026-04-29 22:43_
 
-- Fed Meeting Live Updates: Rate Decision Will Be Announced at Powell's Likely Last Meeting as Chair - The New York Times
-- Supreme Court limits key provision of the landmark Voting Rights Act - The Washington Post
-- Pete Hegseth denies Iran war is a ‘quagmire’ as cost to US hits estimated $25bn - The Guardian
+- Live Updates: Supreme Court Strikes Down Louisiana Map in Voting Rights Case - The New York Times
+- Live Updates: Hegseth questioned over Iran war as Pentagon official says costs estimated at $25 billion so far - CBS News
 - Ex-FBI director James Comey surrenders over charge of threatening Trump's life in Instagram post - BBC
-- Trump’s Billionaire Friends Were Among The Guests At Royal State Dinner: See The List - Forbes
-- Candidates for governor scrap in fiery debate that may grab voter attention, finally - Los Angeles Times
+- Florida Legislature passes DeSantis’ redrawn congressional map - Politico
+- Takeaways: Supreme Court signals it will side with Trump on Haitian and Syrian migrants - CNN
+- President Trump and the First Lady Welcome King Charles III and Queen Camilla for State Visit Honoring 250 Years of Shared Heritage - The White House (.gov)
 - Cole Allen took selfie before Trump assassination attempt at WHCA dinner, prosecutors say - CNBC
-- Supreme Court sides with anti-abortion center raising 1st Amendment fears about state investigation - PBS
-- Florida lawmakers approve redistricting plan intended to give GOP four more seats - The Washington Post
-- A wave of attacks on Jewish targets in U.K. is being probed for possible links to Iran - The Washington Post
-- Attempts to rescue Timmy the stranded whale ‘inadvisable’, experts say - The Guardian
+- Texas town under siege as powerful storms leave heavy damage - Chron
+- Johnson puts down GOP revolt that left House agenda in limbo - Axios
+- 'Worse than my teenagers': California governor debate devolves into chaos - CalMatters
+- Stabbing in Jewish Area in North London Treated as a Terrorist Incident, Police Say - The New York Times
+- Indian billionaire’s son offers to house Pablo Escobar’s hippos at his private zoo - The Guardian
+- Whale carried by barge out of German waters after weeks stranded on coast - BBC
 - South Korean court sentences ex-President Yoon to 7 years in prison - NPR
-- Epstein Obtained Objects From Islam’s Holiest Site for His Island ‘Mosque’ - The New York Times
+- Fed holds rates steady amid sharp divide over policy easing bias - Reuters
 - OpenAI trial live updates: Musk clashes with Altman's lawyer in cross-examination - CNBC
-- UAE’s Opec exit will drive down oil prices in future, warns Moscow - Financial Times
-- Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters
-- Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe - The New York Times
+- Amazon beats quarterly cloud growth estimates - Yahoo Finance
+- Google Reports 81% Jump in Profits, Beating Wall Street Expectations - WSJ
 - Motorola reveals 2026 Razr lineup with modest upgrades and higher prices - Ars Technica
 - Google Translate now lets you practice pronunciation - TechCrunch
-- 5 ways your Windows updates are about to get a lot less painful - ZDNET
