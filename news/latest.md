@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 22:00_
+_Updated: 2026-04-30 23:39_
 
-- Congress votes to end record shutdown, sending DHS funding bill to Trump's desk - NBC News
-- Trump Withdraws Nomination of Casey Means for Surgeon General - The New York Times
-- Louisiana plans to delay House primaries after Supreme Court redistricting ruling - Politico
-- Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act - NPR
-- Camp Mystic Says It Will Not Reopen This Summer After Fatal Texas Floods - The New York Times
-- It's a miracle I survived, Golders Green victim tells BBC - BBC
+- Louisiana suspends House primaries after Supreme Court redistricting ruling - Politico
+- Record-long Department of Homeland Security shutdown ends - NBC News
+- Trump Picks Nicole Saphier for Surgeon General After Withdrawing Casey Means Nomination - The New York Times
+- Camp Mystic says it’s halting plans to reopen after mounting pressure from parents of campers who died in floods - CNN
+- What to Know About the Stabbing Attack Against 2 Jewish Men in London - The New York Times
+- Hegseth ‘dangerously exaggerated’ US military triumph in Iran, Senate hears - The Guardian
+- Iran supreme leader issues defiant statement on strait of Hormuz - The Guardian
+- Trump’s threat to pull troops out of Germany crashes into reality - politico.eu
 - Man accused in Trump assassination attempt agrees to remain in custody - Reuters
-- Trump tells Merz to ‘fix his broken country’ in new attack on German chancellor - The Guardian
-- Live Updates: Iran war pushes oil prices to 4-year high as Hegseth faces fresh round of questioning - CBS News
 - New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates - NBC News
 - Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says - BBC
-- Activists say Israeli forces intercepted Gaza aid flotilla near Crete, detaining crews - AP News
-- Attacks on Jewish Targets in Europe Suggest Hybrid Warfare - The New York Times
-- Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire - BBC
+- Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece - AP News
+- Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon - NPR
+- World Art Show's Jury Resigns Before Opening - Newser
 - Elon Musk testifies that xAI trained Grok on OpenAI models - TechCrunch
-- Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022 - CBS News
-- AI-related investment, rebound in government spending drive US economy in first quarter - Reuters
-- European Central Bank keeps rates on hold in the face of inflation threat - CNBC
-- Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire
-- OpenAI talks about not talking about goblins - The Verge
+- $6 Gas in California Signals New Phase of the Global Energy Crunch - Crude Oil Prices Today | OilPrice.com
+- BofA resets Google stock price target after earnings smasher - thestreet.com
+- Apple tops Q2 earnings estimates on strong iPhone, China sales - Yahoo Finance
+- 'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control - Gizmodo
+- The most severe Linux threat to surface in years catches the world flatfooted - Ars Technica
