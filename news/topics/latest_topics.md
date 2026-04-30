@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-30 12:24_
+_Updated: 2026-04-30 13:58_
 
 ## Top Stories
 
+- Strömmer efter ilskan mot SD-kuppen: ”Klart det kan påverka” - Dagens Nyheter
 - ”Avskaffa monarkin i demokratins namn” - Västerbottens-Kuriren
-- SD slår ifrån sig: Inget fulspel i riksdagen - GP
-- DN Direkt – Norsk polis i räddningsaktion efter larm om försvunnen skolklass - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Båtar på väg till Gaza stoppade – svenskar ombord - Dagens Nyheter
-- Källor: Trump ska få se nya attackplaner - Västerbottens-Kuriren
-- Aftonbladet/Demoskop: Blockskillnaden ökar – oppositionen drar ifrån: ”Ser värre ut” - Aftonbladet
+- Trump ska få se attackplaner – Khamenei varnar - Hufvudstadsbladet – HBL
+- DN Direkt – Trump: USA utreder minskning av styrkor i Tyskland - Dagens Nyheter
+- Gazakonvoj stoppad av Israel – svenskar ombord - GP
+- Sverige ett av länderna bakom nytt klimatmöte – kyrkor backar initiativet - Dagen
+- Systembolagets tips till föräldrar inför valborg: ”Ha en öppen dialog” - SVT Nyheter
 - Buss kolliderade med skåpbil på Södermalm – orsakade långa köer - Dagens Nyheter
 - Beroendevård lockar missbrukare från hela landet – nu skrotas systemet - Dagens Nyheter
 - Valborgsbrasor förbereds – trots extrem brandrisk i helgen: ”Är snustorrt” - NWT
-- Systembolagets tips till föräldrar inför valborg: ”Ha en öppen dialog” - SVT Nyheter
-- USA efterlyser Hormuzhjälp – vill bilda allians – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Pressfriheten hotad – majoritet av länderna röda - Västerbottens-Kuriren
 - Sanna Torén Björling: Ukraina skulle behöva en annan fredsmäklare än USA - Dagens Nyheter
-- Kravlistan på klimatmötet i Colombia: ”Politikerna måste stoppa greenwashing av fossilt” - SVT Nyheter
-- Oljepriset rusar – toppnotering under kriget i Iran - Sveriges Radio
-- Morgan Stanley slopar prognos om räntesänkningar från Fed - Placera.se
+- Putin föreslår vapenvila på segerdagen - Västerbottens-Kuriren
+- USA efterlyser Hormuzhjälp – vill bilda allians – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Storbanken: Fed sänker inte räntan i år - Västerbottens-Kuriren
 - Northvolts vd talar ut: ”Frågan var elakt menad” - Omni
-- Solkraften pressar elpriserna dagtid - ENERGInyheter.se
-- Kritisk sårbarhet i cPanel - CERT-SE
-- Utryckning i Vännäs - Västerbottens-Kuriren
+- Solkraften pressar elpriserna dagtid - Solenerginyheter
+- Prischock på flygbränsle – jätten flaggar för miljardsmäll - DI
+- Nadellas stora löfte: Windows ska fungera som det ska - nyteknik
+- BM26-001 Kritisk sårbarhet i cPanel - CERT-SE
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- UNDP lanserar läromedel om global utveckling - UNDP
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- UNDP lanserar läromedel om global utveckling - UNDP
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
-- Murdoch ber om ursäkt för avlyssning - Blekinge Läns Tidning
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Fixing driver shortages: new global plan launched by employers and unions - IRU | World Road Transport Organisation
 
 ## Technology
 
@@ -54,8 +54,10 @@ _Updated: 2026-04-30 12:24_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -63,28 +65,26 @@ _Updated: 2026-04-30 12:24_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 
 ## Business
 
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -100,22 +100,22 @@ _Updated: 2026-04-30 12:24_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Anestesi – hörnsten i global hälsa - Läkartidningen
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -126,8 +126,8 @@ _Updated: 2026-04-30 12:24_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -137,8 +137,8 @@ _Updated: 2026-04-30 12:24_
 - Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-04-30 12:24_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
