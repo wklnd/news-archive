@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 16:37_
+_Updated: 2026-04-30 18:08_
 
-- What a weakened Voting Rights Act means in today's America - Axios
-- Trump Live Updates: Hegseth to Testify Again After Hearing Dominated By Iran War - The New York Times
-- Mills drops out of Maine Senate race, setting up Platner to face Collins - Politico
-- President Trump and the First Lady Welcome King Charles III and Queen Camilla for State Visit Honoring 250 Years of Shared Heritage - The White House (.gov)
-- Israel intercepts Gaza flotilla near Crete and detains 175 activists - BBC
-- Iran’s supreme leader says Tehran will protect its nuclear and missile capabilities - AP News
+- Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises - The New York Times
+- Louisiana governor prepares to suspend House primaries after court ruling - The Washington Post
+- Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act - NPR
+- Activists say Israeli forces intercepted their Gaza aid flotilla near Crete, detaining crews - AP News
+- Iran's Supreme Leader Mojtaba Khamenei says new management of Strait of Hormuz 'will bring calm' - Reuters
 - New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates - NBC News
-- Trump threatens US troop cuts in Germany - DW.com
+- Cole Allen agrees to stay in jail before his Trump assassination attempt trial - CNBC
 - Coast Guard operating in "crisis" as DHS shutdown halts pay in May, cuts power, strains missions overseas - CBS News
-- Divers find wreck of US’ largest naval loss of World War I - CNN
-- ‘If you are visibly Jewish, you’re not safe’ in Britain, says chief rabbi as community reels from stabbing attack - CNN
+- House passes GOP-led farm bill - Politico
+- Transgender Idaho Residents Sue After State Criminalizes Use of Bathrooms - The New York Times
+- What to Know About the Stabbing Attack Against 2 Jewish Men in London - The New York Times
 - Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon - NPR
 - Attacks on Jewish Targets in Europe Suggest Hybrid Warfare - The New York Times
-- Trump promised nomination as some 287 on Nobel Peace Prize list for 2026 - The Independent
+- Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - Reuters
 - U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices - The New York Times
-- Bessent Says Powell Staying On Is ‘Violation’ of All Fed Norms - Bloomberg.com
-- Live Updates: Iran war pushes oil prices to 4-year high as Hegseth set to face fresh round of questioning - CBS News
 - European Central Bank keeps rates on hold in the face of inflation threat - CNBC
+- Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022 - CBS News
+- Warren Buffett has stepped aside. Berkshire is now Greg Abel's show. - Reuters
+- Motorola Razr Fold price and availability announced ahead of iPhone Ultra - 9to5Mac
 - The hidden cost of Google’s AI defaults and the illusion of choice - Ars Technica
-- Motorola Razr Fold officially costs $1,899 in the US, available in May - 9to5Google
