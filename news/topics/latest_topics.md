@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-30 18:05_
+_Updated: 2026-04-30 19:50_
 
 ## Top Stories
 
-- Vildarna slår tillbaka mot SD: ”Vem är det som är vilde egentligen?” - Dagens Nyheter
-- De hyllade ”Tjabo” med unika T-shirts - GP
+- Patrik Lundberg: I småpåvarnas tid är kungen vår sista samlande kraft - Dagens Nyheter
+- Lina Lund: Merz visste att han skulle dra på sig Trumps raseri - Dagens Nyheter
 - Nya regler: Kunskaperna som krävs för att bli svensk - Dagens Nyheter
-- Här blir det varmast: ”27 grader inte omöjligt” - Aftonbladet
-- DN Direkt – Trump: USA utreder minskning av styrkor i Tyskland - Dagens Nyheter
-- Nya terrorhinder sätts upp – för att skydda Cortègen - GP
-- Ung kvinna gav termosbomber till 14-åring – får långt straff i Foxtrotmål - SVT Nyheter
+- Värmen drar in över Halland – här laddar kafét i Torup med glass - SVT Nyheter
+- DN Direkt – Regeringen öppnar för tillverkning av hormonläkemedel i Sverige - Dagens Nyheter
+- Cortègen 2026 – följ med i festen - GP
+- Systembolagets tips till föräldrar inför valborg: ”Ha en öppen dialog” - SVT Nyheter
+- Förbud mot uppfödning av djur för pälsproduktion - Regeringen.se
+- Kvinna döms för termosbomber vid Uppsala maraton - UNT
 - Lilla Edet: Man hittad död i älv - TV4 Nyheterna
-- Anklagelser om våldtäkter inom Livgardet - Dagens Nyheter
-- Polisens uppmaning till vuxna under valborg i Göteborg - GP
-- Medier kräver rätten att rapportera från Gaza - Västerbottens-Kuriren
-- Kvinna bet dejt i Sollentuna - Expressen
-- Vändningen: Stulet spannmål nekas av Israel - GP
+- Gazakonvoj stoppad av Israel – förs till Grekland - GP
+- Aung San Suu Kyi flyttas till husarrest - Västerbottens-Kuriren
+- Situationen i Gaza - När världens blickar riktas åt andra håll - Sveriges Radio
 - Trump ska få se attackplaner – Khamenei varnar - Hufvudstadsbladet – HBL
 - SAS-ägaren flaggar för prischock på bränsle - Tidningen Näringslivet
 - Northvolts vd talar ut: ”Frågan var elakt menad” - Omni
-- Börsens högsta VD-lön dubblades när aktien halverades - Affärsvärlden
 - Nu sänks bensinskatten – äts upp av ny höjning - Mariestads-Tidningen
+- Enity och Itab faller med börsen - Affärsvärlden
 - BM26-001 Kritisk sårbarhet i cPanel - CERT-SE
 - Sony: PlayStation-spel kräver inte månatlig licenskontroll - Teknikveckan
 
@@ -50,7 +50,6 @@ _Updated: 2026-04-30 18:05_
 
 ## Technology
 
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
@@ -60,45 +59,45 @@ _Updated: 2026-04-30 18:05_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 
 ## Business
 
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Streamline Auto Solutions' Make it Work® Integrates with RouteOne to Streamline Deal Refresh for Dealers - Aktiellt
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
+- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Streamline Auto Solutions' Make it Work® Integrates with RouteOne to Streamline Deal Refresh for Dealers - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
-- 4dev.com Releases Contractor Market Report 2025 on the Growth of the Global Contractor Economy (PR Newswire) - Aktiellt
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
@@ -108,6 +107,7 @@ _Updated: 2026-04-30 18:05_
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -121,24 +121,24 @@ _Updated: 2026-04-30 18:05_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
+- The 4th Malmö Work Science Meeting - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Förtroendet för vetenskapen i gungning - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-04-30 18:05_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
