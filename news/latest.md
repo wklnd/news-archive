@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 01:55_
+_Updated: 2026-04-30 03:21_
 
-- Live Updates: Supreme Court Strikes Down Louisiana Map in Voting Rights Case - The New York Times
-- Comey appears in court on charges of threatening Trump - The Washington Post
-- Hegseth denies Iran war is ‘quagmire’ as cost to US hits estimated $25bn - The Guardian
-- Oil price briefly hits $120 after reports of 'extended' Iran blockade - BBC
-- Man charged with trying to kill Trump at dinner took photo with knife in hotel, investigators say - AP News
-- Immigrants with temporary legal status could score slim win at Supreme Court - Politico
-- Johnson puts down GOP revolt that left House agenda in limbo - Axios
-- All Six Conservative Justices Attended Trump’s State Dinner - The New York Times
-- Florida passes DeSantis’ redistricting map that could net the GOP 4 seats - Politico
+- Supreme Court Strikes Down Louisiana Map, Another Blow to Voting Rights Act - The New York Times
+- Comey’s lawyers say they will challenge threat charges as vindictive - The Washington Post
+- As Iran war drags on, Hegseth labels Dems obstacle to peace - Politico
+- Oil price rises above $120 after reports of 'extended' Iran blockade - BBC
+- Supreme Court appears to lean toward ending TPS for some migrants - NPR
+- Florida legislature approves new congressional map intended to boost Republicans in midterms - AP News
+- Secret Service officer shot at White House Correspondents' Dinner was not hit by friendly fire, sources say - CBS News
+- U.S. Indictment Accuses Mexican Governor of Conspiring With Sinaloa Cartel - The New York Times
+- House vote hits 2-hour mark amid revolts - Politico
+- King Charles III and Queen Camilla honor 9/11 victims on visit to New York - AP News
 - Indian Tycoon Offers Refuge to Pablo Escobar’s Condemned Hippos - The New York Times
+- Timmy the whale rescue attempt begins off coast of Germany – in pictures - The Guardian
 - U.K. investigates attacks on Jewish targets for possible links to Iran - The Washington Post
-- How Ukraine's demining robots could help U.S. open the Strait of Hormuz - CBS News
-- Whale carried by barge out of German waters after weeks stranded on coast - BBC
-- Four key takeaways from Jerome Powell's last rate decision as Fed chair - BBC
-- Elon Musk Takes The Stand In OpenAI Trial—Says ‘I Was A Fool’ To Give Firm $38 Million - Forbes
-- Meta earnings updates: Revenue beats estimate but stock drops as company expects capex spending increase - Business Insider
+- The Austrian nuns who fled their care home are now in Rome and visited the Vatican - NPR
+- Powell Says He Will Stay On as Fed Governor After Term as Chair Ends - The New York Times
+- Meta earnings recap: Revenue beat estimates but stock tumbles as capex expected to reach up to $145B - Business Insider
 - Big Tech AI Capex Tops $650 Billion as Q1 Earnings Beats Pressure Bitcoin Risk Trade - Yahoo Finance
-- Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27 - Bloomberg
-- Gemini app can now generate Google Docs, PDF, Word, and other files - 9to5Google
-- Microsoft sets its sights on the past with 86-DOS and PC-DOS - theregister.com
+- Elon Musk Takes The Stand In OpenAI Trial—Says ‘I Was A Fool’ To Give Firm $38 Million - Forbes
+- YouTube starts rolling out free picture-in-picture (PiP) globally on Android, iOS - 9to5Google
+- Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27 - Bloomberg.com
