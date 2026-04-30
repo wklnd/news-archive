@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 14:03_
+_Updated: 2026-04-30 16:37_
 
 - What a weakened Voting Rights Act means in today's America - Axios
-- King Charles US visit live: Macron responds to ‘speaking French’ jibe at Trump ahead of final day of tour - The Independent
-- Hegseth spars with lawmakers as Iran war’s price tag hits $25 billion - The Washington Post
-- Trump weighs pulling US troops from Germany amid clash with chancellor over Iran war - Fox News
-- Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs - Al Jazeera
-- White House meets with Chevron, oil traders amid Iran standoff - Politico
+- Trump Live Updates: Hegseth to Testify Again After Hearing Dominated By Iran War - The New York Times
+- Mills drops out of Maine Senate race, setting up Platner to face Collins - Politico
+- President Trump and the First Lady Welcome King Charles III and Queen Camilla for State Visit Honoring 250 Years of Shared Heritage - The White House (.gov)
+- Israel intercepts Gaza flotilla near Crete and detains 175 activists - BBC
+- Iran’s supreme leader says Tehran will protect its nuclear and missile capabilities - AP News
+- New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates - NBC News
+- Trump threatens US troop cuts in Germany - DW.com
 - Coast Guard operating in "crisis" as DHS shutdown halts pay in May, cuts power, strains missions overseas - CBS News
-- Thom Tillis doubles down on his latest Trump personnel ultimatum - Politico
-- Justice Department indicts Mexican governor on drug charges - The Washington Post
 - Divers find wreck of US’ largest naval loss of World War I - CNN
-- Antisemitism 'a national security emergency', government's terror adviser says - BBC
-- IDF chief says there’s ‘no ceasefire’ in south Lebanon amid continued fighting with Hezbollah - The Times of Israel
+- ‘If you are visibly Jewish, you’re not safe’ in Britain, says chief rabbi as community reels from stabbing attack - CNN
+- Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon - NPR
 - Attacks on Jewish Targets in Europe Suggest Hybrid Warfare - The New York Times
-- Environmental disaster fears grip Russia as Ukraine targets oil refineries - Al Jazeera
-- Powell to remain as Fed governor, denying Trump a key vacancy - Axios
-- Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion - Yahoo Finance
-- Alphabet revenue tops expectations on record quarter for cloud unit - Reuters
-- Eli Lilly will report first quarter earnings before the bell. Here's what Wall Street expects - CNBC
-- YouTube Bringing Free Picture-in-Picture to iPhone Users Outside the U.S. - MacRumors
-- More Gemini features are coming to Google TV - TechCrunch
+- Trump promised nomination as some 287 on Nobel Peace Prize list for 2026 - The Independent
+- U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices - The New York Times
+- Bessent Says Powell Staying On Is ‘Violation’ of All Fed Norms - Bloomberg.com
+- Live Updates: Iran war pushes oil prices to 4-year high as Hegseth set to face fresh round of questioning - CBS News
+- European Central Bank keeps rates on hold in the face of inflation threat - CNBC
+- The hidden cost of Google’s AI defaults and the illusion of choice - Ars Technica
+- Motorola Razr Fold officially costs $1,899 in the US, available in May - 9to5Google
