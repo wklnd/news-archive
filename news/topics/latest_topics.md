@@ -1,37 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-30 01:55_
+_Updated: 2026-04-30 03:15_
 
 ## Top Stories
 
 - Expert om SD:s röstkupp: ”Allvarligt brott mot praxis” - Dagens Nyheter
 - Trump: Utreder färre soldater i Tyskland - gp.se
-- LEDARE: Kung Charles tal visar vad det innebär att bilda sig, bete sig och bry sig - Kristianstadsbladet
-- Efter jätteparad – inga stridsvagnar i Moskva i år - gp.se
-- Kvinna hittad död i Karlskrona kommun – misstänkt mord - SVT Nyheter
-- Ukrainas skugga över militärens jätteövning - gp.se
-- Vi stoppar gängens rekrytering av barn och unga på nätet - Moderaterna
 - Niklas Ekdal: Kungen firar 80 år av ensamhet – och succé - Dagens Nyheter
+- Klimatmötet över: ”Lite besvikelse” - SVT Nyheter
+- Efter jätteparad – inga stridsvagnar i Moskva i år - gp.se
+- Kvinna hittad död – utreds som mord - TV4 Nyheterna
+- Regeringen: Inför böter för mordannonser på Tiktok - Västerbottens-Kuriren
+- Team Ungdom laddar för valborg – vill stoppa fyllan - Strengnäs Tidning
+- Guide: Så maxar du valborg i Strängnäs – brasor, korv och körsång - Ekuriren
 - VALBORG: Det ska du inte slänga på brasan: ”Explosion” - Arvika Nyheter
-- Polisens oro inför valborg: ”Förödande konsekvenser” - Aftonbladet
 - Ny deadline närmar sig för Trump i kriget i Iran: ”Politiskt pris” - Dagens Nyheter
+- Analys: Därför hyllades kung Charles med stående ovationer i USA - gp.se
 - Direkt – Kriget i Ukraina – Tre döda i ukrainsk attack - Dagens Nyheter
-- Kravlistan på klimatmötet i Colombia: ”Politikerna måste stoppa greenwashing av fossilt” - SVT Nyheter
-- Trump välkomnar månfarare efter Putinsamtal - Västerbottens-Kuriren
+- Trump välkomnar månfarare efter Putinsamtal - Corren
 - Ny Fed-chef får grönt ljus i USA - Sydsvenskan
 - Oenigt när USA:s styrränta lämnades oförändrad - Dagens Nyheter
-- Meta lever inte upp till förväntningarna - Aftonbladet
-- Stockholmsbörsen föll för åttonde dagen i rad - gp.se
-- Kartläggning av igelkottshälsa - sva.se
+- Wall Street smådeppigt av stigande oljepris - Aftonbladet
+- Vågar man boka flygresa nu – så säger experterna - gp.se
 - Motorola lanserar razr 70-serien och edge 70 pro - dopest.se
+- Drömmen för fotbollsfans – Playstation bjuder på “EA Sports FC 26” - MovieZine
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på inatt 01:45 - Tv.nu
 - Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på onsdag 19:50 - Tv.nu
+- IMG Recognized by U.S. News & World Report as a 2026 Best Travel Insurance Company (PR Newswire) - Aktiellt
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -40,11 +42,9 @@ _Updated: 2026-04-30 01:55_
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på torsdag 13:50 - Tv.nu
-- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
@@ -53,23 +53,23 @@ _Updated: 2026-04-30 01:55_
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- At WMF a new edition of AI Global Summit, an international reference point on Artificial Intelligence (PR Newswire) - Aktiellt
-- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
-- Quantiphi Acquires Candyspace to Create an AI-Native Digital Experience Powerhouse (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
+- Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -83,22 +83,23 @@ _Updated: 2026-04-30 01:55_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
-- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -107,12 +108,11 @@ _Updated: 2026-04-30 01:55_
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
