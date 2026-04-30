@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-01 00:30_
+_Updated: 2026-05-01 01:34_
 
 ## Top Stories
 
 - Stökigt på Sibbarp – polisen uppmanar föräldrar att hämta berusade barn - Sydsvenskan
+- Trump ska få se attackplaner – Khamenei varnar - Västerbottens-Kuriren
 - Statsminister Ulf Kristerssons tal vid galamiddagen under H.M. Konungens 80-årsdag - Regeringen.se
-- Misstänkt grovt brott i Norrköping – person skadad - Aftonbladet
-- Regeringen vill säkra tillgången till östrogenläkemedel - TV4 Nyheterna
-- Rekordmånga vildar i riksdagen – orsakar kris och debatt - Dagens Nyheter
-- Cortègen 2026 – följ med i festen - GP
+- Tyskland redo för minskad amerikansk Natonärvaro - GP
+- Polisen utreder grovt brott – en skadad - Västerbottens-Kuriren
+- Blött Valborgsfirande i Uppsala: ”Bara att köra på” - Aftonbladet
 - Nya regler: Kunskaperna som krävs för att bli svensk - Dagens Nyheter
-- Garage brinner i Haninge – byggnaden har till viss del kollapsat - SVT Nyheter
-- Ung kvinna gav termosbomber till 14-åring – får långt straff i Foxtrotmål - SVT Nyheter
+- Garagebrand i Haninge – byggnaden har till viss del kollapsat - SVT Nyheter
+- Rekordmånga vildar i riksdagen – orsakar kris och debatt - Dagens Nyheter
 - Åkesson om röstningsbråket: ”Sanslösa reaktioner” - Västerbottens-Kuriren
-- Lina Lund: Merz visste att han skulle dra på sig Trumps raseri - Dagens Nyheter
-- Storbritannien höjer terrorhotnivån efter knivdåd - SVT Nyheter
+- Terrorhotnivå i Storbritannien höjs efter knivdåd - Corren
 - Första världskriget-fartyg återfunnet – efter över 100 år - Dagens Nyheter
 - Valhajens hemliga hem hittat - Västerbottens-Kuriren
+- Gazakonvoj stoppad av Israel – förs till Grekland - GP
 - SAS-ägaren flaggar för prischock på bränsle - Tidningen Näringslivet
-- Alphabet rusade på Wall Street – Meta rasade - Västerbottens-Kuriren
+- Meta Platforms'Increasing Investments Fuel Concerns Over Returns, BofA Says - Placera.se
 - Felicia Åkerman: Orosmolnen hopar sig över Europas ekonomi - Dagens Nyheter
-- Northvolts vd talar ut: ”Frågan var elakt menad” - Omni
+- Peter Carlsson om regeringens uteblivna stöd för Northvolt: "Kan göra mig rätt bitter" - Impact Loop
 - Oneplus Pad 4 presenteras med stor skärm och stort batteri - Swedroid
 - Gemini kan nu skapa färdiga filer direkt i chatten - Teknikveckan
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på inatt 01:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Future of safe consumption uncertain in Regina amid overdoses, deaths - Global News
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2026-05-01 00:30_
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -96,9 +96,9 @@ _Updated: 2026-05-01 00:30_
 
 ## Health
 
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -106,7 +106,7 @@ _Updated: 2026-05-01 00:30_
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -115,7 +115,7 @@ _Updated: 2026-05-01 00:30_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-01 00:30_
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Jordbruk och landsbygdsutveckling - European Commission
+- Lediga jobb - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
-- 26 January, 2023 Webinar: The challenge of making science-based policy recommendations for a global food system - Mynewsdesk
 - 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - 2022-10-26 Bertebos Seminar: Plant Breeding – The key to food security and improved foods - Mynewsdesk
-- 2023-03-30 Webbinarium: Det undflyende kolet – att mäta kolinlagring i mark - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Mjau Kattunge multibox - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
