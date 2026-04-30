@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-04-30 18:08_
+_Updated: 2026-04-30 19:55_
 
-- Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises - The New York Times
-- Louisiana governor prepares to suspend House primaries after court ruling - The Washington Post
+- Congress ends record-shattering DHS shutdown - Politico
 - Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act - NPR
-- Activists say Israeli forces intercepted their Gaza aid flotilla near Crete, detaining crews - AP News
-- Iran's Supreme Leader Mojtaba Khamenei says new management of Strait of Hormuz 'will bring calm' - Reuters
-- New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates - NBC News
-- Cole Allen agrees to stay in jail before his Trump assassination attempt trial - CNBC
-- Coast Guard operating in "crisis" as DHS shutdown halts pay in May, cuts power, strains missions overseas - CBS News
-- House passes GOP-led farm bill - Politico
-- Transgender Idaho Residents Sue After State Criminalizes Use of Bathrooms - The New York Times
 - What to Know About the Stabbing Attack Against 2 Jewish Men in London - The New York Times
-- Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon - NPR
+- Maine Gov. Mills drops Democratic US Senate bid against Platner, lamenting a lack of campaign funds - AP News
+- Louisiana governor prepares to suspend House primaries after court ruling - The Washington Post
+- Iran's Supreme Leader Mojtaba Khamenei says new management of Strait of Hormuz 'will bring calm' - Reuters
+- Trump Withdraws Nomination of Casey Means for Surgeon General - The New York Times
+- Cole Allen agrees to stay in jail before Trump assassination attempt trial - CNBC
+- Trump criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
+- New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates - NBC News
+- Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says - BBC
+- Activists say Israeli forces intercepted Gaza aid flotilla near Crete, detaining crews - AP News
 - Attacks on Jewish Targets in Europe Suggest Hybrid Warfare - The New York Times
-- Some 287 nominated for 2026 Nobel Peace Prize, Trump likely among them - Reuters
-- U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices - The New York Times
+- Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon - NPR
+- Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion - Reuters
+- US economic growth rebounds 2% as consumer spending slows amid Iran war - The Guardian
 - European Central Bank keeps rates on hold in the face of inflation threat - CNBC
 - Oil prices hit wartime peak, pushing U.S. gas costs to highest since level July 2022 - CBS News
-- Warren Buffett has stepped aside. Berkshire is now Greg Abel's show. - Reuters
+- OpenAI Explains Its Goblin and Gremlin Infestation - Business Insider
 - Motorola Razr Fold price and availability announced ahead of iPhone Ultra - 9to5Mac
-- The hidden cost of Google’s AI defaults and the illusion of choice - Ars Technica
