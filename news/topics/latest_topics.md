@@ -1,57 +1,57 @@
 # Latest News - All Topics
 
-_Updated: 2026-04-30 03:15_
+_Updated: 2026-04-30 06:56_
 
 ## Top Stories
 
+- Ulf Karl Olov Nilsson Kungen 80 år: Allt började med en pojke som inte fick sörja - gp.se
 - Expert om SD:s röstkupp: ”Allvarligt brott mot praxis” - Dagens Nyheter
-- Trump: Utreder färre soldater i Tyskland - gp.se
-- Niklas Ekdal: Kungen firar 80 år av ensamhet – och succé - Dagens Nyheter
-- Klimatmötet över: ”Lite besvikelse” - SVT Nyheter
-- Efter jätteparad – inga stridsvagnar i Moskva i år - gp.se
-- Kvinna hittad död – utreds som mord - TV4 Nyheterna
-- Regeringen: Inför böter för mordannonser på Tiktok - Västerbottens-Kuriren
-- Team Ungdom laddar för valborg – vill stoppa fyllan - Strengnäs Tidning
-- Guide: Så maxar du valborg i Strängnäs – brasor, korv och körsång - Ekuriren
+- Aftonbladet/Demoskop: Blockskillnaden ökar – oppositionen drar ifrån: ”Ser värre ut” - Aftonbladet
+- Valborg är här – snart börjar festen! - UNT
+- DN Direkt – Trump: USA utreder minskning av styrkor i Tyskland - Dagens Nyheter
+- Misstänkt farligt föremål i Högsbo - SVT Nyheter
+- Kvinna hittad död i Karlskrona kommun – misstänkt mord - SVT Nyheter
+- Systembolagets tips till föräldrar inför valborg: ”Ha en öppen dialog” - SVT Nyheter
+- Linköpingstoppen: Blåsta, ja visst – men handen fortsatt utsträckt - Altinget.se
 - VALBORG: Det ska du inte slänga på brasan: ”Explosion” - Arvika Nyheter
-- Ny deadline närmar sig för Trump i kriget i Iran: ”Politiskt pris” - Dagens Nyheter
-- Analys: Därför hyllades kung Charles med stående ovationer i USA - gp.se
-- Direkt – Kriget i Ukraina – Tre döda i ukrainsk attack - Dagens Nyheter
-- Trump välkomnar månfarare efter Putinsamtal - Corren
-- Ny Fed-chef får grönt ljus i USA - Sydsvenskan
-- Oenigt när USA:s styrränta lämnades oförändrad - Dagens Nyheter
-- Wall Street smådeppigt av stigande oljepris - Aftonbladet
-- Vågar man boka flygresa nu – så säger experterna - gp.se
+- Putins svåra sits – tre tecken på krisen - Västerbottens-Kuriren
+- Efter jätteparad – inga stridsvagnar i Moskva i år - gp.se
+- Libanon kräver att Israel följer vapenvilan - Västerbottens-Kuriren
+- Klimatmötet över: ”Lite besvikelse” - SVT Nyheter
+- Federal Reserve lämnade styrräntan oförändrad - största oenigheten sedan 1992 - Börsvärlden
+- Avgående Fed-chefen: Blir kvar tills utredningen är klar - Omni Ekonomi
+- Vd:n efter Northvoltkraschen: ”Vi kanske blev lite för kaxiga” - Dagens Nyheter
+- Musks misslyckande kring självkörning – Teslaägare känner sig lurade - Dagens PS
+- Generalsekreterarens oväntade tullchock – nekades 100: ”Men va?” - NWT
 - Motorola lanserar razr 70-serien och edge 70 pro - dopest.se
-- Drömmen för fotbollsfans – Playstation bjuder på “EA Sports FC 26” - MovieZine
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - Tv.nu
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på ikväll 19:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på inatt 01:45 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Fanatec GT World Challenge Asia, Chang International Circuit, Thailand på onsdag 19:50 - Tv.nu
-- IMG Recognized by U.S. News & World Report as a 2026 Best Travel Insurance Company (PR Newswire) - Aktiellt
-- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- Fanatec GT World Challenge Asia, Sepang International Circuit, Malaysia på onsdag 13:25 - Tv.nu
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Automotive News Joins NY Auto Show for First Global Outlook Panel (PR Newswire) - Aktiellt
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
+- SCIENTOLOGY NETWORK CELEBRATES INTERNATIONAL DAY OF HAPPINESS WITH GLOBAL MARATHON - Aktiellt
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
-- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Advita Ortho Showcases New AI-Driven Research Advancing Personalized Joint Replacement (PR Newswire) - Aktiellt
@@ -60,15 +60,15 @@ _Updated: 2026-04-30 03:15_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Chinese AI Brand Andun Takes Center Stage in New York's Times Square (PR Newswire) - Aktiellt
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- ChiroTouch Earns 2026 Pinnacle Award for Digital Health AI Innovation (PR Newswire) - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 
 ## Business
@@ -83,39 +83,39 @@ _Updated: 2026-04-30 03:15_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
+- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Fast Company Honors QuickFi as Most Innovative Business Services Company for 2026 (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- amaNordic flyttar till Göteborg – Nordens ledande Amazon-event växlar upp på World of Volvo - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Executive Medical Management stärker samarbetet mellan offentlig vård och life science-sektorn - it-halsa.se
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Anestesi – hörnsten i global hälsa - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
@@ -128,17 +128,17 @@ _Updated: 2026-04-30 03:15_
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Olika slutsatser från samma data - Läkartidningen
 - ”Klassisk studie av köns­diskriminering håller inte för granskning” - Forskning & Framsteg
-- The 4th Malmö Work Science Meeting - Malmö universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-04-30 03:15_
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-02-06 Hybridseminarium: Hur får vi mer hållbar svensk mat? Inspel till Svensk Livsmedelsstrategi - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
