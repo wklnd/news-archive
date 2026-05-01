@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 09:51_
+_Updated: 2026-05-01 12:10_
 
-- Takeaways From Hegseth’s Second Day of Testimony on the Iran War - The New York Times
-- What to know after House passes Homeland Security funding and ends historic shutdown - PBS
-- UK raises terror threat level following antisemitic attack - DW.com
+- House passes DHS funding bill that would end shutdown for most of agency - The Washington Post
+- Republicans say they will defer to Trump on Iran war despite arrival of deadline - NPR
+- Jewish Londoners describe "utter horror" and living in fear after latest attack, demand government action - CBS News
+- Schumer and Platner Talk After Mills Suspends Her Campaign - The New York Times
+- "You are not right for this job": Senator Mark Kelly grills Secretary Pete Hegseth in SASC hearing - KGUN 9
 - Video shows moment shooter tried to storm White House dinner, officials say - The Guardian
-- Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News
-- Democrats coalesce around Platner as Mills exits Maine Senate race - The Hill
-- Hegseth argues Iran ceasefire ‘pauses’ deadline for Congress’s approval - The Washington Post
-- Trump's New Surgeon General Pick Is a Fox News Contributor Who Tried to Trademark MAHA - Rolling Stone
-- 5 students, security guard injured after stabbing at Tacoma's Foss High School - KOMO
-- Iran’s supreme leader vows to protect nuclear and missile capabilities - AP News
+- Trump drops MAHA favorite for surgeon general pick who has critiqued RFK Jr. - The Washington Post
+- Kimmel Highlights Trump’s Record Low Approval After President Calls For His Firing Again - Forbes
+- Six injured in Washington state school stabbing - BBC
+- Iran’s supreme leader vows to protect nuclear and missile capabilities - Politico
+- Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says - CNN
 - Venice Biennale jury resigns days before start of top art exhibition - BBC
-- Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine - NBC News
 - Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
 - Violence Erupts in Australian Town After Arrest of Suspect in Girl’s Killing - The New York Times
-- Apple shares rise as iPhone 17 and MacBook Neo drive forecast - Reuters
-- The craziest part of Musk v. Altman happened while the jury was out of the room - The Verge
+- Stock futures edge higher after the S&P 500 hits a record to wrap April's trading: Live updates - CNBC
+- Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says - Forbes
+- Apple Earnings Become Sideshow With New CEO Ready to Grab Reins - Yahoo Finance
 - Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR
-- Rivian downsizes DOE loan to $4.5B for Georgia factory - TechCrunch
 - Good Luck Getting a Mac Mini for the Next ‘Several Months’ - WIRED
-- Samsung's smartglasses face a serious problem, and it'll make the Ray-Ban Meta a better choice - Android Police
+- Made in Germany: Volla Phone Plinius launches for €598 with modular battery - Notebookcheck
