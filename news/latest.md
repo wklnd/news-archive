@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 20:45_
+_Updated: 2026-05-01 21:53_
 
-- A deadline for the Iran war is here. What does the War Powers Act say? - The Washington Post
-- Trump says he will hike tariffs on EU cars to 25% - BBC
+- Trump tells Congress the Iran war has ‘terminated’ as legal deadline hits - Politico
+- Trump Says US to Raise Tariff Rate on EU Cars, Trucks to 25% - Bloomberg.com
 - Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
 - Several states — and the LA public schools — are setting limits on screen time - NPR
-- Authorities Release Video of Suspect in Correspondents’ Dinner Attack - The New York Times
-- Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke - The Guardian
-- Body found near St. Petersburg shoreline is missing USF student - Tampa Bay Times
+- Iran hands over new proposal for talks with US to end war - Reuters
+- Trump said he would end her political career, but Democrats did her in - The Washington Post
 - Jury Convicts Florida Ex-Rep. David Rivera in Conspiracy Trial - The New York Times
+- Florida sheriff identifies body found in Tampa Bay as 2nd missing student from Bangladesh - SFGATE
 - Pro-Trump commentator snaps and drops F-bomb on CNN when asked to justify Iran war - The Guardian
-- Republicans Want Tennessee’s Last Democratic House District - The New York Times
+- Friends of late NASCAR star Greg Biffle looted funds shortly after driver's death, investigators say - NBC News
+- What to know about May Day demonstrations as workers face rising energy costs due to Iran war - AP News
 - Man appears in court charged with attempted murder over knife attacks on three men - BBC
 - As Israel Entrenches, Frustration With Hezbollah Turns to Support - The New York Times
-- Myanmar attempts to rehabilitate image with Suu Kyi move - NPR
 - Germany needs no tips from Donald Trump, says Merz's deputy - dw.com
 - Trump Says Spirit Airlines May Get An ‘America First’ Rescue - Forbes
-- Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool
-- Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big - Seeking Alpha
+- Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 - Yahoo Finance
 - Top AI companies agree to work with Pentagon on secret data - The Washington Post
+- Elon Musk’s Tesla Pay Package Valued at $158 Billion for 2025 - WSJ
 - Apple may take "several months" to catch up to Mac mini and Studio demand - Ars Technica
 - Here's How Apple's Folding iPhone Could Stand Apart - CNET
