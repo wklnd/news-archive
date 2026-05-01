@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 03:26_
+_Updated: 2026-05-01 07:27_
 
+- House passes DHS funding bill that would end shutdown for most of agency - The Washington Post
+- Takeaways From Hegseth’s Second Day of Testimony on the Iran War - The New York Times
 - Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News
-- Record-long Department of Homeland Security shutdown ends - NBC News
-- Hegseth ‘dangerously exaggerated’ US military triumph in Iran, Senate hears - The Guardian
-- Trump drops MAHA favorite for surgeon general pick who has critiqued RFK Jr. - The Washington Post
-- What to Know About the Stabbing Attack Against 2 Jewish Men in London - The New York Times
-- Camp Mystic abandons bid to reopen this summer - The Texas Tribune
+- Pentagon calls timeout on War Powers - Axios
+- Video shows moment shooter tried to storm White House dinner, officials say - The Guardian
+- Casey Means: Murkowski sank my nomination - Politico
+- Iran’s supreme leader vows to protect nuclear and missile capabilities - AP News
 - 5 wounded in possible stabbing attack at Washington state high school, police say - CBS News
-- Man accused in Trump assassination attempt agrees to remain in custody - Reuters
-- Iran supreme leader issues defiant statement on strait of Hormuz - The Guardian
-- GOP unity cracks with latest Iran war vote - Politico
-- Trump criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
-- Myanmar’s former leader Aung San Suu Kyi to be moved to house arrest, state media says - The Guardian
-- Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece - AP News
-- Venice Biennale jury quits amid row over participation of Russia - The Guardian
+- How Janet Mills’ Maine Senate bid fell apart - NBC News
+- California Police Can Start Ticketing Driverless Cars - The New York Times
+- UK raises terror threat level following antisemitic attack - DW.com
+- Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
+- Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says - CNN
+- Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine - NBC News
 - Apple shares rise as iPhone 17 and MacBook Neo drive forecast - Reuters
-- Elon Musk’s 7 biggest stumbles on the stand at OpenAI trial - Ars Technica
-- Stock Market Today: Nasdaq, S&P 500 Close at Records; Apple Reports Earnings — Live Updates - WSJ
+- The craziest part of Musk v. Altman happened while the jury was out of the room - The Verge
+- Stock Market News, April 30, 2026: Nasdaq, S&P Close at Records, Finishing Best Month Since 2020 - WSJ
 - Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR
+- Good Luck Getting a Mac Mini for the Next ‘Several Months’ - WIRED
 - I Played the New 007 James Bond Game. It's Hitman With a Heart - CNET
-- Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch
