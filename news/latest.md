@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 14:41_
+_Updated: 2026-05-01 16:04_
 
-- Nationwide May Day protests expected to pick up mantle of 'No Kings' - NPR
+- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
 - Oil rises as White House says Iran ceasefire halts 60-day war deadline - CNBC
-- US prosecutors release new footage of Trump shooting suspect - DW.com
-- House passes DHS funding bill that would end shutdown for most of agency - The Washington Post
-- Schumer faces renewed scrutiny after Mills meltdown - Politico
-- It's Day 1 of Medicaid work requirements in Nebraska. People are worried - NPR
-- Kimmel Highlights Trump’s Record Low Approval After President Calls For His Firing Again - Forbes
+- Iran gives the U.S. new response on draft peace deal - Axios
+- Trump signs bill funding the Department of Homeland Security, ending record shutdown - AP News
+- Trump said he would end her political career, but Democrats did her in - The Washington Post
+- Americans are increasingly bleak about their own finances, most say using the US military against Iran was a mistake: ABC News/Washington Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos
 - ‘Divided us with a smile’: GOP groaning over Mike Johnson reaches a fever pitch - Politico
+- Iran war's true cost closer to $50 billion, not $25 billion, U.S. officials say - CBS News
 - Republicans Want Tennessee’s Last Democratic House District - The New York Times
-- Definition of ‘86’ at the Heart of Comey Indictment - FactCheck.org
-- London assailant charged with attempted murder over terror stabbing of two Jews - The Times of Israel
-- Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says - CNN
-- After OPEC exit, UAE deepens US, Israel ties and warns against Iran’s role in Hormuz - ynetnews
-- Trump threatens to withdraw US troops from Italy and Spain – Europe live - The Guardian
+- Iranian supreme leader says only place Americans belong in the Gulf is 'at the bottom of its waters' - Fortune
+- Man appears in court over attempted murders of three people in London knife attacks - The Guardian
+- Legal team plans to meet with detained Myanmar ex-leader Suu Kyi this weekend - Reuters
+- Antigua and Barbuda prime minister set to win fourth term in election - The Guardian
+- As Israel Entrenches, Frustration With Hezbollah Turns to Support - The New York Times
+- Chevron Blows Away Estimates on War-Driven Surge in Oil Prices - Bloomberg.com
+- Dow futures jump 150 points to start May trading as oil falls, Apple shares jump: Live updates - CNBC
 - How well can EVs handle the heat — and the cold? AAA put them to the test - NPR
-- Elon Musk’s Tesla Compensation Last Year Surpassed $158 Billion - WSJ
-- Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says - Forbes
-- Apple Delivers Strong Forecast in Sign It’s Weathering Shortages - Bloomberg.com
-- Good Luck Getting a Mac Mini for the Next ‘Several Months’ - WIRED
-- Samsung's smartglasses face a serious problem, and it'll make the Ray-Ban Meta a better choice - Android Police
+- Private credit group Ares draws nearly $20bn from investors - Financial Times
+- iPhone Ultra Leak: Why Apple’s 4.5mm Foldable Design Changes Everything - Geeky Gadgets
+- The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds - The Verge
