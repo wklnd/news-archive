@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 01:34_
+_Updated: 2026-05-01 03:26_
 
 - Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News
 - Record-long Department of Homeland Security shutdown ends - NBC News
+- Hegseth ‘dangerously exaggerated’ US military triumph in Iran, Senate hears - The Guardian
 - Trump drops MAHA favorite for surgeon general pick who has critiqued RFK Jr. - The Washington Post
-- Camp Mystic says it’s halting plans to reopen after mounting pressure from parents of campers who died in floods - CNN
+- What to Know About the Stabbing Attack Against 2 Jewish Men in London - The New York Times
+- Camp Mystic abandons bid to reopen this summer - The Texas Tribune
+- 5 wounded in possible stabbing attack at Washington state high school, police say - CBS News
 - Man accused in Trump assassination attempt agrees to remain in custody - Reuters
-- Hegseth says Iran war can continue despite legal deadline - Politico
-- 5 hospitalized after reported stabbing at Foss High School in Tacoma - KOMO
-- Trump’s call to reduce US troops in Germany shocks Pentagon - Politico
-- Iran war: Khamenei pledges new Strait of Hormuz 'management' - DW.com
-- UK raises terror threat level following antisemitic attack - DW.com
-- Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says - BBC
+- Iran supreme leader issues defiant statement on strait of Hormuz - The Guardian
+- GOP unity cracks with latest Iran war vote - Politico
+- Trump criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
+- Myanmar’s former leader Aung San Suu Kyi to be moved to house arrest, state media says - The Guardian
 - Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece - AP News
 - Venice Biennale jury quits amid row over participation of Russia - The Guardian
-- Apple reports second quarter results - Apple
-- Musk testifies he did not read 'fine print' about OpenAI becoming for-profit company - Reuters
-- Two Weeks Ago I Asked If You Owned Enough Alphabet Stock. After Last Night’s Earnings, You Still Don’t. - Yahoo Finance
-- Meta just told staff in an internal meeting that it isn't ruling out further layoffs - Business Insider
-- ‘You can be any Bond you want’: the inside story of 007 First Light - The Guardian
+- Apple shares rise as iPhone 17 and MacBook Neo drive forecast - Reuters
+- Elon Musk’s 7 biggest stumbles on the stand at OpenAI trial - Ars Technica
+- Stock Market Today: Nasdaq, S&P 500 Close at Records; Apple Reports Earnings — Live Updates - WSJ
+- Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR
+- I Played the New 007 James Bond Game. It's Hitman With a Heart - CNET
 - Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch
-- Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire
