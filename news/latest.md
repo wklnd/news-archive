@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 18:37_
+_Updated: 2026-05-01 19:39_
 
-- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
 - Live updates: Trump administration says war in Iran has been 'terminated' before 60-day deadline - AP News
+- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
 - Remains recovered near Tampa Bay area bridge identified as second missing USF student, officials say - CNN
-- Takeaways From Hegseth’s Second Day of Testimony on the Iran War - The New York Times
-- Trump said he would end her political career, but Democrats did her in - The Washington Post
-- Louisiana governor postpones U.S. House primary elections after Supreme Court ruling - Louisiana Illuminator
+- Trump says he will hike tariffs on EU cars to 25% - BBC
+- Several states — and the LA public schools — are setting limits on screen time - NPR
+- Trump’s Approval Rating Plunges So Low It Breaks Pollster’s Graph - The Daily Beast
 - ‘Divided us with a smile’: GOP groaning over Mike Johnson reaches a fever pitch - Politico
-- Republicans Want Tennessee’s Last Democratic House District - The New York Times
-- Iranian supreme leader says only place Americans belong in the Gulf is 'at the bottom of its waters' - Fortune
-- King Charles III wins praise for deft handling of Trump on his US state visit - AP News
-- Man appears in court charged with attempted murder of two Jewish men - BBC
-- Antigua and Barbuda prime minister set to win fourth term in election - The Guardian
+- Jury Convicts Florida Ex-Congressman of Secretly Lobbying for Venezuela - The New York Times
+- Suspect federally charged after 2 employees fatally shot in Kentucky bank robbery - WLWT
+- Nebraska faces challenges as first state to impose Medicaid work requirements under GOP bill - The Hill
+- Man jailed after being charged with attempted murder in stabbings of Jewish men in London - AP News
 - As Israel Entrenches, Frustration With Hezbollah Turns to Support - The New York Times
-- Trump’s threat: Why cutting US troops in Europe won’t be easy - Al Jazeera
-- Spirit Airlines Prepares to Shut Down as Rescue Deal Falls Apart - WSJ
+- Antigua and Barbuda PM Browne wins fourth term promising growth - Reuters
+- Man arrested for allegedly dumping wife's body in zoo incinerator - Yahoo
+- Uncle Sam Won’t Rescue Spirit Airlines - Forbes
+- Trump fumes as Jerome Powell plots future at Federal Reserve - The Hill
 - S&P 500 rises to record to kick off May trading as oil falls, Apple shares jump: Live updates - CNBC
 - Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big - Seeking Alpha
-- Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters
 - Apple may take "several months" to catch up to Mac mini and Studio demand - Ars Technica
-- Here's How Apple's Folding iPhone Could Stand Apart - CNET
+- Apple fans slam leaked design of new iPhone Ultra: ‘The worst of both worlds’ - New York Post
