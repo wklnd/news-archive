@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 00:12_
+_Updated: 2026-05-02 01:33_
 
 ## Top Stories
 
 - Svensk man gripen av israelisk militär - Västerbottens-Kuriren
-- Trump: Höjer bil- och lastbilstullar mot EU - GP
-- Så påverkas trafiken under första maj - GP
-- Trump: ”Inte säker på att vi kommer nå ett avtal” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nya israeliska attacker i Libanon – flera döda - Västerbottens-Kuriren
-- Handgranat sprängd av bombskyddet i centrala Malmö – se bild - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – USA hotar med att dra tillbaka trupper från Italien och Spanien - Dagens Nyheter
+- Vita huset: Kriget mot Iran är slut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man gripen för misstänkt mord i villa på Ornö - Sveriges Radio
+- Trump: Höjer bil- och lastbilstullar mot EU - Corren
+- DN Direkt – Misstänkt föremål i Trelleborg var ofarligt - Dagens Nyheter
 - S-löfte inför valet: Fler lärare på lågstadiet - Corren
 - Två döda i mc-olyckor - Västerbottens-Kuriren
 - Tomas Ramberg: Bäddat för besvikelse om S vinner valet - Dagens Nyheter
 - V-löfte: Miljarder till höjda löner i välfärden - GP
 - Ukraina: Ny attack mot rysk oljeterminal - Hufvudstadsbladet – HBL
-- Ny video: Här öppnar den misstänkte Trumpskytten eld - Västerbottens-Kuriren
+- Nya israeliska attacker i Libanon – flera döda - Västerbottens-Kuriren
 - Kim Jong-Un hyllar soldaters självmord i Ukrainakriget - Dagens Nyheter
-- Massgripanden vid förstamajtåg i Istanbul - SVT Nyheter
+- Uppgifter: Trump överväger ny attackvåg mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Yngre fondsparare väljer billigt – äldre betalar nästan dubbelt - Finansinspektionen
 - Japan gör miljardinsats för att stötta yenen – varnar för fler åtgärder - EFN
 - Nya rekord på Wall Street – Apple rapportsteg - Västerbottens-Kuriren
 - Bränslebrist skulle drabba småföretag hårt - Företagarna
+- ”Kvällen bjuder på en ny nivå av ängslan” - Svenska Dagbladet
 - Spotify inför nytt märke – ska skilja människor från AI - Dagens Nyheter
-- INSÄNDARE: Människan beter sig som ett farligt skadedjur - Kristianstadsbladet
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
-- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- SUBARU ANNOUNCES GLOBAL DEBUT OF FIRST-EVER WILDERNESS HYBRID AT 2026 NEW YORK INTERNATIONAL AUTO SHOW (PR Newswire) - Aktiellt
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 
 ## Technology
 
@@ -76,23 +76,23 @@ _Updated: 2026-05-02 00:12_
 - Cambridge Wilkinson closes $100 Million Senior Line of Credit for a Small Business Finance Company (PR Newswire) - Aktiellt
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Capital Formation Is Elemental To Economic Growth (PR Newswire) - Aktiellt
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- 4dev.com Releases Contractor Market Report 2025 on the Growth of the Global Contractor Economy (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -109,13 +109,13 @@ _Updated: 2026-05-02 00:12_
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 
 ## Science
 
@@ -148,17 +148,17 @@ _Updated: 2026-05-02 00:12_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
