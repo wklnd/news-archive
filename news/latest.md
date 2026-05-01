@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 07:27_
+_Updated: 2026-05-01 09:51_
 
-- House passes DHS funding bill that would end shutdown for most of agency - The Washington Post
 - Takeaways From Hegseth’s Second Day of Testimony on the Iran War - The New York Times
-- Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News
-- Pentagon calls timeout on War Powers - Axios
-- Video shows moment shooter tried to storm White House dinner, officials say - The Guardian
-- Casey Means: Murkowski sank my nomination - Politico
-- Iran’s supreme leader vows to protect nuclear and missile capabilities - AP News
-- 5 wounded in possible stabbing attack at Washington state high school, police say - CBS News
-- How Janet Mills’ Maine Senate bid fell apart - NBC News
-- California Police Can Start Ticketing Driverless Cars - The New York Times
+- What to know after House passes Homeland Security funding and ends historic shutdown - PBS
 - UK raises terror threat level following antisemitic attack - DW.com
-- Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
-- Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says - CNN
+- Video shows moment shooter tried to storm White House dinner, officials say - The Guardian
+- Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling - AP News
+- Democrats coalesce around Platner as Mills exits Maine Senate race - The Hill
+- Hegseth argues Iran ceasefire ‘pauses’ deadline for Congress’s approval - The Washington Post
+- Trump's New Surgeon General Pick Is a Fox News Contributor Who Tried to Trademark MAHA - Rolling Stone
+- 5 students, security guard injured after stabbing at Tacoma's Foss High School - KOMO
+- Iran’s supreme leader vows to protect nuclear and missile capabilities - AP News
+- Venice Biennale jury resigns days before start of top art exhibition - BBC
 - Hezbollah adopts a new weapon: Fiber-optic drones, used widely in the war in Ukraine - NBC News
+- Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
+- Violence Erupts in Australian Town After Arrest of Suspect in Girl’s Killing - The New York Times
 - Apple shares rise as iPhone 17 and MacBook Neo drive forecast - Reuters
 - The craziest part of Musk v. Altman happened while the jury was out of the room - The Verge
-- Stock Market News, April 30, 2026: Nasdaq, S&P Close at Records, Finishing Best Month Since 2020 - WSJ
 - Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR
+- Rivian downsizes DOE loan to $4.5B for Georgia factory - TechCrunch
 - Good Luck Getting a Mac Mini for the Next ‘Several Months’ - WIRED
-- I Played the New 007 James Bond Game. It's Hitman With a Heart - CNET
+- Samsung's smartglasses face a serious problem, and it'll make the Ray-Ban Meta a better choice - Android Police
