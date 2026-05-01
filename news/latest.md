@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 21:53_
+_Updated: 2026-05-01 23:36_
 
-- Trump tells Congress the Iran war has ‘terminated’ as legal deadline hits - Politico
-- Trump Says US to Raise Tariff Rate on EU Cars, Trucks to 25% - Bloomberg.com
-- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
-- Several states — and the LA public schools — are setting limits on screen time - NPR
-- Iran hands over new proposal for talks with US to end war - Reuters
+- Trump says deadline for Congress to approve Iran war doesn't apply: Hostilities have 'terminated' - AP News
+- Thousands in US join ‘no school, no work, no shopping’ May Day protest and economic blackout - The Guardian
+- Trump says he will hike tariffs on EU cars to 25% - BBC
+- Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy - The White House (.gov)
+- Human Remains Found in Tampa Bay Are Identified as Missing Grad Student - The New York Times
 - Trump said he would end her political career, but Democrats did her in - The Washington Post
-- Jury Convicts Florida Ex-Rep. David Rivera in Conspiracy Trial - The New York Times
-- Florida sheriff identifies body found in Tampa Bay as 2nd missing student from Bangladesh - SFGATE
+- Ex-Fla. congressman and Rubio ally convicted of secretly lobbying for Venezuela - The Washington Post
 - Pro-Trump commentator snaps and drops F-bomb on CNN when asked to justify Iran war - The Guardian
-- Friends of late NASCAR star Greg Biffle looted funds shortly after driver's death, investigators say - NBC News
-- What to know about May Day demonstrations as workers face rising energy costs due to Iran war - AP News
+- Alabama Gov. Kay Ivey reverses course, calls special session in wake of Supreme Court ruling - AL.com
+- Nebraska rolls out Medicaid work requirements, putting thousands at risk of losing coverage - NBC News
+- Workers around the world demonstrate on May Day, in photos - AP News
 - Man appears in court charged with attempted murder over knife attacks on three men - BBC
-- As Israel Entrenches, Frustration With Hezbollah Turns to Support - The New York Times
 - Germany needs no tips from Donald Trump, says Merz's deputy - dw.com
-- Trump Says Spirit Airlines May Get An ‘America First’ Rescue - Forbes
-- Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 - Yahoo Finance
+- Israeli authorities taking 2 activists from a Gaza-bound flotilla to Israel for questioning - AP News
+- Trump Wants To Give Spirit Airlines An ‘America First’ Rescue - Forbes
+- S&P 500 closes at a new record to usher in May as oil prices cool and Apple rises: Live updates - CNBC
 - Top AI companies agree to work with Pentagon on secret data - The Washington Post
-- Elon Musk’s Tesla Pay Package Valued at $158 Billion for 2025 - WSJ
+- Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool
 - Apple may take "several months" to catch up to Mac mini and Studio demand - Ars Technica
-- Here's How Apple's Folding iPhone Could Stand Apart - CNET
+- Apple to Unveil macOS 27 Next Month With These New Features - MacRumors
