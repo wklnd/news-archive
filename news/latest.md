@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 12:10_
+_Updated: 2026-05-01 13:42_
 
 - House passes DHS funding bill that would end shutdown for most of agency - The Washington Post
 - Republicans say they will defer to Trump on Iran war despite arrival of deadline - NPR
 - Jewish Londoners describe "utter horror" and living in fear after latest attack, demand government action - CBS News
-- Schumer and Platner Talk After Mills Suspends Her Campaign - The New York Times
-- "You are not right for this job": Senator Mark Kelly grills Secretary Pete Hegseth in SASC hearing - KGUN 9
-- Video shows moment shooter tried to storm White House dinner, officials say - The Guardian
-- Trump drops MAHA favorite for surgeon general pick who has critiqued RFK Jr. - The Washington Post
-- Kimmel Highlights Trump’s Record Low Approval After President Calls For His Firing Again - Forbes
+- US prosecutors release new footage of Trump shooting suspect - DW.com
+- Nationwide May Day protests expected to pick up mantle of 'No Kings' - NPR
+- Schumer faces renewed scrutiny after Mills meltdown - Politico
+- Could the FCC yank ABC's TV licenses amid Trump spat with Kimmel? - CBS News
+- Republicans Want Tennessee’s Last Democratic House District - The New York Times
 - Six injured in Washington state school stabbing - BBC
-- Iran’s supreme leader vows to protect nuclear and missile capabilities - Politico
-- Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says - CNN
-- Venice Biennale jury resigns days before start of top art exhibition - BBC
-- Trump again criticizes Germany's Merz, tells him to stop interfering over Iran - Reuters
+- Definition of ‘86’ at the Heart of Comey Indictment - FactCheck.org
+- Legal team plans to meet with detained Myanmar ex-leader Suu Kyi this weekend - Reuters
+- Trump threatens Sánchez and Meloni with US troops withdrawal - politico.eu
+- Israel releases all but two activists in Greece after intercepting Gaza aid flotilla - BBC
 - Violence Erupts in Australian Town After Arrest of Suspect in Girl’s Killing - The New York Times
-- Stock futures edge higher after the S&P 500 hits a record to wrap April's trading: Live updates - CNBC
 - Mark Zuckerberg Says AI Costs Contributed To Layoffs Of 8,000 Staffers, Report Says - Forbes
-- Apple Earnings Become Sideshow With New CEO Ready to Grab Reins - Yahoo Finance
-- Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR
+- Elon Musk’s Tesla Compensation Totals $158 Billion for 2025 - Bloomberg.com
+- 4 things you missed from Day 4 of the Musk v. Altman trial, including testimony of Musk's money manager - Business Insider
+- Apple Q1 FY2026 earnings: Record revenue, EPS beat - Yahoo Finance
 - Good Luck Getting a Mac Mini for the Next ‘Several Months’ - WIRED
-- Made in Germany: Volla Phone Plinius launches for €598 with modular battery - Notebookcheck
+- Samsung's smartglasses face a serious problem, and it'll make the Ray-Ban Meta a better choice - Android Police
