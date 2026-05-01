@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-01 19:39_
+_Updated: 2026-05-01 20:45_
 
-- Live updates: Trump administration says war in Iran has been 'terminated' before 60-day deadline - AP News
-- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
-- Remains recovered near Tampa Bay area bridge identified as second missing USF student, officials say - CNN
+- A deadline for the Iran war is here. What does the War Powers Act say? - The Washington Post
 - Trump says he will hike tariffs on EU cars to 25% - BBC
+- Thousands in US to join ‘no school, no work, no shopping’ May Day protest in economic blackout - The Guardian
 - Several states — and the LA public schools — are setting limits on screen time - NPR
-- Trump’s Approval Rating Plunges So Low It Breaks Pollster’s Graph - The Daily Beast
-- ‘Divided us with a smile’: GOP groaning over Mike Johnson reaches a fever pitch - Politico
-- Jury Convicts Florida Ex-Congressman of Secretly Lobbying for Venezuela - The New York Times
-- Suspect federally charged after 2 employees fatally shot in Kentucky bank robbery - WLWT
-- Nebraska faces challenges as first state to impose Medicaid work requirements under GOP bill - The Hill
-- Man jailed after being charged with attempted murder in stabbings of Jewish men in London - AP News
+- Authorities Release Video of Suspect in Correspondents’ Dinner Attack - The New York Times
+- Charles tamed Trump while rebuking Trumpism in ego-flattering masterstroke - The Guardian
+- Body found near St. Petersburg shoreline is missing USF student - Tampa Bay Times
+- Jury Convicts Florida Ex-Rep. David Rivera in Conspiracy Trial - The New York Times
+- Pro-Trump commentator snaps and drops F-bomb on CNN when asked to justify Iran war - The Guardian
+- Republicans Want Tennessee’s Last Democratic House District - The New York Times
+- Man appears in court charged with attempted murder over knife attacks on three men - BBC
 - As Israel Entrenches, Frustration With Hezbollah Turns to Support - The New York Times
-- Antigua and Barbuda PM Browne wins fourth term promising growth - Reuters
-- Man arrested for allegedly dumping wife's body in zoo incinerator - Yahoo
-- Uncle Sam Won’t Rescue Spirit Airlines - Forbes
-- Trump fumes as Jerome Powell plots future at Federal Reserve - The Hill
-- S&P 500 rises to record to kick off May trading as oil falls, Apple shares jump: Live updates - CNBC
+- Myanmar attempts to rehabilitate image with Suu Kyi move - NPR
+- Germany needs no tips from Donald Trump, says Merz's deputy - dw.com
+- Trump Says Spirit Airlines May Get An ‘America First’ Rescue - Forbes
+- Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool
 - Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big - Seeking Alpha
+- Top AI companies agree to work with Pentagon on secret data - The Washington Post
 - Apple may take "several months" to catch up to Mac mini and Studio demand - Ars Technica
-- Apple fans slam leaked design of new iPhone Ultra: ‘The worst of both worlds’ - New York Post
+- Here's How Apple's Folding iPhone Could Stand Apart - CNET
