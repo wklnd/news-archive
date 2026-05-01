@@ -1,57 +1,56 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-01 18:33_
+_Updated: 2026-05-01 19:33_
 
 ## Top Stories
 
 - Trump: Höjer bil- och lastbilstullar mot EU - Västerbottens-Kuriren
+- Trump: ”Inte säker på att vi kommer nå ett avtal” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - S-löfte inför valet: Fler lärare på lågstadiet - GP
-- Facket har stridit mot Elon Musk i 2,5 år: ”Klart det finns en gräns” - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Höghus och hamn i Odessa träffade av ryska drönare - Dagens Nyheter
 - Handgranat sprängd av bombskyddet i centrala Malmö – se bild - Sveriges Radio
-- Flicka påkörd av bil - Nya Ludvika Tidning
-- Kvinnolönelyftet – dags att ge välfärdens kvinnor rätt lön - Vänsterpartiet
+- UPPDATERAS: Fortsatt massiva bakre ryska förluster - ukrainska motanfall vid Dobropillija - Tuapse bombat igen - Cornucopia?
+- Andersson (S) tar kampen om ”Familjen snutsyrra” - GP
 - 10 000 firade valborg i Slottsskogen – många ungdomar omhändertogs - GP
+- Tomas Ramberg: Bäddat för besvikelse om S vinner valet - Dagens Nyheter
+- Kvinnolönelyftet – dags att ge välfärdens kvinnor rätt lön - Vänsterpartiet
 - Två döda i mc-olyckor - Västerbottens-Kuriren
-- Chans för värmerekord – men snart sjunker temperaturen - Dagens Nyheter
-- Nya attacker mot södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nya israeliska attacker i Libanon – flera döda - Västerbottens-Kuriren
 - Livstidsdömde Mladic sjuk – vill släppas fri - Västerbottens-Kuriren
 - Massgripanden vid förstamajtåg i Istanbul - GP
 - Ny film visar: Forcerade säkerhetskontrollen på fyra sekunder - Dagens Nyheter
 - Yngre fondsparare väljer billigt – äldre betalar nästan dubbelt - Finansinspektionen
+- Facket har stridit mot Elon Musk i 2,5 år: ”Klart det finns en gräns” - Dagens Nyheter
 - Oljejättarna går emot Trump – trots kravet - Expressen
-- Nästan bara elbilar säljs i Danmark - Västerbottens-Kuriren
-- Bränslebrist skulle drabba småföretag hårt - Företagarna
+- Källor: Spirit Airlines förbereder sig för att lägga ner - Omni Ekonomi
 - Lion bars etablering på is: ”Inte träffat rätt” - Östersunds-Posten
-- Spelhelgen är extra lång – och extra bra! - FZ.se
+- Såg rök stiga – misstänkte gräsbrand - Östersunds-Posten
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Chefen för Scotland Yard avgår - Sveriges Radio
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- SUBARU ANNOUNCES GLOBAL DEBUT OF ALL-NEW, ALL-ELECTRIC SUV AT 2026 NEW YORK INTERNATIONAL AUTO SHOW (PR Newswire) - Aktiellt
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- i4E launched as new global technology platform (PR Newswire) - Aktiellt
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -61,15 +60,16 @@ _Updated: 2026-05-01 18:33_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -115,7 +115,7 @@ _Updated: 2026-05-01 18:33_
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-05-01 18:33_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- The 4th Malmö Work Science Meeting - Malmö universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
