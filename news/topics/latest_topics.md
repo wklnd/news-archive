@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 13:22_
+_Updated: 2026-05-02 14:07_
 
 ## Top Stories
 
 - Explosion på motorevenemang i Svartå – flera skadade - SVT Nyheter
 - KRÖNIKA: Trump lämnar Tyskland blottat - Hufvudstadsbladet – HBL
-- Donald Trumps utspel: Kriget med Iran är över - Dagens Nyheter
-- Liberalerna har störst andel partibytare - Västerbottens-Kuriren
-- Trump: Ska ta Kuba – och de kommer att tacka mig - GP
-- DN/Ipsos: Fler högerväljare tror på Tidöseger - Dagens Nyheter
+- Iran: Kriget blossar sannolikt upp igen - Västerbottens-Kuriren
+- Efter röstkaoset – total närvaroplikt i riksdagen - GP
+- Trump: Ska ta Kuba ”nästan omedelbart” - Hufvudstadsbladet – HBL
+- Liberalerna har störst andel partibytare - Aftonbladet
 - Skott mot adress i Vänersborg före explosionen - GP
+- DN/Ipsos: Fler högerväljare tror på Tidöseger - Dagens Nyheter
 - Forssell hoppas kunna utvisa 155 brottsdömda syrier - Västerbottens-Kuriren
-- S-löfte inför valet: Fler lärare på lågstadiet - Corren
 - Svenska soldater om drönarkrig: "Väldigt svårt" - Dagens PS
-- DN Direkt – Kyrkan erbjuder miljarder till övergreppsoffer - Dagens Nyheter
-- Viktor Orbans parti Fidesz förbereder politisk återkomst - Sveriges Radio
+- Gripen svensk i Israel – ”potentiellt het potatis” - Västerbottens-Kuriren
+- Kyrkan erbjuder miljarder till övergreppsoffer - GP
+- Viktor Orbáns parti Fidesz förbereder politisk återkomst - Sveriges Radio
 - Trumps sändebud Jeff Landry planerar resa till Grönland - Sveriges Radio
-- Fredsförslagen – i tre punkter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kinesisk mur av konkurrenter möter Volvo Cars - Svenska Dagbladet
+- Han köpte en elbil för priset av en utelunch - Dagens Nyheter
 - Europas dyraste bostäder rusar i pris – Sverige halkar efter - Dagens PS
-- Yngre fondsparare väljer billigt – äldre betalar nästan dubbelt - Finansinspektionen
-- Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
+- Larmet: Miljarder mål hotade av kriget i Iran - Expressen
 - Android Auto kan snart få widgets som på mobilen - Teknikveckan
-- ”Kvällen bjuder på en ny nivå av ängslan” - Svenska Dagbladet
+- Dreame kommer att börja sälja mobiltelefoner - Teknikveckan
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -43,10 +43,10 @@ _Updated: 2026-05-02 13:22_
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -55,16 +55,16 @@ _Updated: 2026-05-02 13:22_
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -82,16 +82,16 @@ _Updated: 2026-05-02 13:22_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
-- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Leaf Home Names Mike Barton Chief Accounting Officer to Advance Financial Operations for Growth (PR Newswire) - Aktiellt
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
@@ -100,22 +100,22 @@ _Updated: 2026-05-02 13:22_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Medtech Matchday visar potentialen med svensk medicinteknik - it-halsa.se
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
