@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 18:10_
+_Updated: 2026-05-02 19:24_
 
 ## Top Stories
 
-- Victor Stjernborg inför final 5:7 - Skellefteå AIK
-- Anna-Lena Laurén Trump lämnar Tyskland blottat - Hufvudstadsbladet – HBL
+- Experten efter Trumps truppbesked: Kan vara hämnd – men också långsiktig strategi - GP
+- Frontalkrock på E45 – sex ambulanser larmade - Expressen
 - Åkessons kritik – mot Trump och Andersson - GP
-- Flera skadade vid explosion på bilträff – Fredrik nära bli träffad - Sveriges Radio
-- Frontalkrock på E45 i Värmlands bro - SVT Nyheter
-- Gripen svensk i Israel – ”potentiellt het potatis” - GP
+- Malmöbo finansierade vårdnadstvist med pengar från älskarinnans prostitution - Sydsvenskan
+- Europeiska forskare: Att riva och bygga nytt ingen garanti för bättre integration - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Sju dödade i södra Libanon - Dagens Nyheter
 - Väljer bort barn – beskylls för egoism - Västerbottens-Kuriren
 - “Jag har varit utlänningen i äldreomsorgen” - Dagens Nyheter
-- Dorjan hörde explosionen i Vänersborg: ”Man blir chockad” - SVT Nyheter
-- DN/Ipsos: Fler högerväljare tror på Tidöseger - Dagens Nyheter
+- Frontalkrock på E45 i Värmlandsbro - SVT Nyheter
+- TV: Vittnet Pär: ”Många blev chockade” - NWT
 - Misstänkt inför rätta efter bombdåd i Belfast - Folkbladet
 - Hundägare tvingas tvätta bort kiss – eller böta - Västerbottens-Kuriren
-- Fredsförslagen – i tre punkter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kyrkan erbjuder miljarder till övergreppsoffer - Sydsvenskan
-- Han köpte en elbil för priset av en utelunch - Dagens Nyheter
+- Michael Winiarski: Ön var tänkt att bli ett tropiskt paradis - Dagens Nyheter
+- Gripen svensk i Israel – ”potentiellt het potatis” - GP
 - Här ser Adam sin krasch med älgen spelas upp i repris - Dagens Nyheter
-- Kinesisk mur av konkurrenter möter Volvo Cars - Svenska Dagbladet
-- Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
-- Hur tech-bolag ljuger till sina användare. Mrwhosetheboss och Marques Brownlee rantar lite. - feber.se
+- Rekordsiffror för Warren Buffetts jättebolag - Aftonbladet
+- Robin, 40, köpte elbil för hundralappen: Som en lunch - Omni
+- Saga en av alla med pollenallergi – men det går att bota - Sveriges Radio
 - Dreame kommer att börja sälja mobiltelefoner - Teknikveckan
+- Charmig 30-talsvilla lockade många på Hemnet - Söderhamns-Kuriren
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2026-05-02 18:10_
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -82,8 +82,8 @@ _Updated: 2026-05-02 18:10_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
+- Vilken framtid arbetar du för? - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -100,7 +100,7 @@ _Updated: 2026-05-02 18:10_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
@@ -148,17 +148,17 @@ _Updated: 2026-05-02 18:10_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
