@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-02 18:29_
+_Updated: 2026-05-02 19:29_
 
-- U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says - The New York Times
+- US to withdraw thousands of troops from Germany - dw.com
 - Trump says Iran conflict is ‘terminated’ as he hits congressional deadline - The Washington Post
 - 2026 Senate races to watch: From most likely to flip to Democratic long shots - NPR
 - Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
-- Trump is running out of options to contain gas price backlash - The Washington Post
-- ‘Six months to catch up’: What the shutdown cost DHS - Politico
-- Spirit Airlines goes out of business after 34 years, ending operations immediately - AP News
-- Bard College’s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times
-- Graham Platner Got Everything He Wanted. Is That Good for Democrats’ Hopes of Retaking the Senate? - Slate
-- Iran says conflict with US 'likely' to restart after Donald Trump rejects deal - The Jerusalem Post
-- Iranian Nobel laureate Narges Mohammadi hospitalized after a health crisis in prison - AP News
-- U.K. prime minister urges tougher action at some Gaza protests after antisemitic attacks - CBS News
-- Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka - Reuters
 - Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters
+- Rescuers release humpback whale that was stranded off German coast - The Guardian
+- Spirit Airlines shuts down after White House rescue deal falls through - The Washington Post
+- Trump’s Vision for D.C. ‘Garden of Heroes’ Statues Grows in Size and Cost - The New York Times
+- Iran says conflict with US 'likely' to restart after Donald Trump rejects deal - The Jerusalem Post
+- Hegseth’s and Moulton’s Parallel Lives Collide Over Iran - The New York Times
+- Iranian Nobel laureate Narges Mohammadi hospitalized after a health crisis in prison - AP News
+- New Netflix documentary reexamines Winnie Mandela's divisive legacy - NPR
+- Thirteen killed in Israeli strikes on southern Lebanon, health ministry says - BBC
+- Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka - Reuters
 - Berkshire CEO Greg Abel Takes the Stage, Talks Through Quarterly Results - WSJ
-- Berkshire Hathaway’s Cash Pile Surges to Record $397 Billion - Bloomberg.com
 - Elon Musk went to court. The judge wasn’t amused. - The Washington Post
 - The UAE Quit OPEC Because Its Sovereign Wealth Now Dwarfs Oil - Forbes
+- Nvidia, Microsoft, AWS Expanding Classified Military AI Use - Bloomberg.com
 - Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply - Bloomberg.com
-- Save $200 on 14inch M5 MacBook Pro 1TB 24GB RAM this weekend - AppleInsider
+- The things we’re building now - The Verge
