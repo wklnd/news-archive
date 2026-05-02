@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-02 13:29_
+_Updated: 2026-05-02 14:34_
 
-- US to cut troop levels in Germany by 5,000 amid Trump spat with Merz - BBC
-- Trump says Iran conflict is ‘terminated’ as he hits congressional deadline - The Washington Post
-- Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
+- How Germany May Have Misjudged Trump’s Anger on Iran - The New York Times
+- Can Trump's latest pick for surgeon general make it through confirmation? - NPR
+- Two more Southern states move toward adding Republican House seats - The Washington Post
+- Trump says deadline for Congress to approve Iran war doesn't apply, claiming hostilities have 'terminated' - PBS
 - Pirro says video shows moment gunman fired outside correspondents’ dinner - The Washington Post
-- ‘What’s a more secure place than The Villages?’: Trump finds his people again in Florida - Politico
-- Megyn Kelly Turns on Trump in Stunning Kimmel Reversal - The Daily Beast
-- Bard College’s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times
+- Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
+- Bard president Leon Botstein stepping down after inquiry into his Epstein ties - The Guardian
 - Tennessee and Alabama take steps to redraw House maps in wake of Supreme Court ruling - CBS News
-- Former U.S. Congressman and Lobbyist Convicted of Acting as Unregistered Agents of Venezuela in Connection with $50 Million Contract - Department of Justice (.gov)
-- Eric Swalwell Was Proficient in Social Media. So Were His Accusers. - The New York Times
-- Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters
+- Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro's Venezuela - AP News
+- ‘What’s a more secure place than The Villages?’: Trump finds his people again in Florida - Politico
+- Live Updates: Trump "not satisfied" with new peace deal offered by Iran as standoff's costs multiply - CBS News
 - 'A common enemy, but not a common project': A fragile jihadist-separatist alliance in Mali - France 24
 - Timmy the Stranded Whale Is Released After an Elaborate Rescue - The New York Times
-- Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News
+- Thirteen killed in Israeli strikes on southern Lebanon, health ministry says - BBC
 - What to know about Spirit Airlines as it says it is 'winding down all operations' - ABC News - Breaking News, Latest News and Videos
 - Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider
-- Nvidia, Microsoft, AWS Expanding Classified Military AI Use - Bloomberg.com
-- Big Oil Bosses Warn Energy Is Moving Closer to Cliff’s Edge - Bloomberg.com
+- Elon Musk went to court. The judge wasn’t amused. - The Washington Post
+- Major US airlines offer rescue fares to stranded Spirit passengers - The Points Guy
 - Apple Appears To Have Discontinued Its Cheapest Mac Mini - Engadget
 - The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica
