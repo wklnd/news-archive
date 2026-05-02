@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-02 14:34_
+_Updated: 2026-05-02 15:58_
 
-- How Germany May Have Misjudged Trump’s Anger on Iran - The New York Times
-- Can Trump's latest pick for surgeon general make it through confirmation? - NPR
-- Two more Southern states move toward adding Republican House seats - The Washington Post
-- Trump says deadline for Congress to approve Iran war doesn't apply, claiming hostilities have 'terminated' - PBS
-- Pirro says video shows moment gunman fired outside correspondents’ dinner - The Washington Post
+- Germany urges stronger European defence after US announces troop drawdown - Reuters
+- Trump declares hostilities with Iran "terminated" - Axios
 - Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
-- Bard president Leon Botstein stepping down after inquiry into his Epstein ties - The Guardian
+- Can Trump's latest pick for surgeon general make it through confirmation? - NPR
+- Hegseth’s and Moulton’s Parallel Lives Collide Over Iran - The New York Times
+- Pirro says video shows moment gunman fired outside correspondents’ dinner - The Washington Post
+- ‘Six months to catch up’: What the shutdown cost DHS - Politico
+- Bard College’s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times
 - Tennessee and Alabama take steps to redraw House maps in wake of Supreme Court ruling - CBS News
-- Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro's Venezuela - AP News
-- ‘What’s a more secure place than The Villages?’: Trump finds his people again in Florida - Politico
-- Live Updates: Trump "not satisfied" with new peace deal offered by Iran as standoff's costs multiply - CBS News
-- 'A common enemy, but not a common project': A fragile jihadist-separatist alliance in Mali - France 24
-- Timmy the Stranded Whale Is Released After an Elaborate Rescue - The New York Times
-- Thirteen killed in Israeli strikes on southern Lebanon, health ministry says - BBC
-- What to know about Spirit Airlines as it says it is 'winding down all operations' - ABC News - Breaking News, Latest News and Videos
-- Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider
+- DOJ to enforce SCOTUS ruling nationwide, all states with racially gerrymandered districts - KOMO
+- UK’s Starmer eyes banning some pro-Palestine protests - Al Jazeera
+- Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters
+- New Netflix documentary reexamines Winnie Mandela's divisive legacy - NPR
+- Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka - Reuters
+- Spirit Airlines is closing down. Thousands of employees and travelers are impacted. - NBC News
+- Berkshire Hathaway reports record cash pile in Greg Abel’s first quarter as CEO - CNN
+- The 'K-shaped' spending trend is real — but it's been here since 2023: New York Fed - Yahoo Finance
 - Elon Musk went to court. The judge wasn’t amused. - The Washington Post
-- Major US airlines offer rescue fares to stranded Spirit passengers - The Points Guy
-- Apple Appears To Have Discontinued Its Cheapest Mac Mini - Engadget
-- The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica
+- Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply - Bloomberg.com
+- iPhone Fold: 3 technologies Apple is reportedly using to (finally) kill the crease - Tom's Guide
