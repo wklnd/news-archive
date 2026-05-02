@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 22:06_
+_Updated: 2026-05-02 23:08_
 
 ## Top Stories
 
-- Kuba om Trumps hot: Saknar motstycke - GP
-- Ishockey: Sverige tog U18-guld efter att ha vunnit mot Slovakien i lejonets kula - SVT Nyheter
-- Räddningstjänst bekämpar flera skogsbränder - Aftonbladet
-- FRONTALKROCK PÅ E45: ”Bilarna är ganska demolerade” - NWT
-- Brand i Knipeflågsbergens naturreservat - Partille Tidning
-- Bakslaget för EU och Nato när USA drar tillbaka soldater - Dagens Nyheter
-- Väljer bort barn – beskylls för egoism - Västerbottens-Kuriren
-- Åkessons kritik – mot Trump och Andersson - GP
+- Skogsbränder runtom i hela Sverige - TV4 Nyheterna
 - En gripen efter bränderna på Stora Essingen - SVT Nyheter
-- DN Direkt – Skogsbrand i naturreservat i Partille - Dagens Nyheter
 - Ryssland överger köttkvarnstaktiken: ”Anpassar sig” - Dagens Nyheter
-- Zelenskyj: Slovakien stödjer Ukraina i EU - Västerbottens-Kuriren
+- Ilskan efter glassbilden: ”Motherf*” - Aftonbladet
+- USA flyttar 5 000 soldater från Tyskland: ”Väntat” - Västerbottens-Kuriren
+- Iransk minister: Upp till USA att välja – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Åkesson nobbar debatt med Andersson: ”Som en vägg” - Västerbottens-Kuriren
+- Väljer bort barn – beskylls för egoism - Västerbottens-Kuriren
+- Svaret från S – efter Åkessons pikar – Senaste nytt om valet 2026 - SVT Nyheter
+- Arbetsförmedlingen saknas helt i 83 kommuner - GP
+- Kuba om Trumps hot: Saknar motstycke - Västerbottens-Kuriren
+- Zelenskyj: Slovakien stödjer Ukraina i EU - GP
+- Källor: De slåss om att efterträda Pam Bondi - Dagens Nyheter
 - Hundägare tvingas tvätta bort kiss – eller böta - Västerbottens-Kuriren
-- Michael Winiarski: Ön var tänkt att bli ett tropiskt paradis - Dagens Nyheter
-- Rekordsiffror för Warren Buffetts jättebolag - Aftonbladet
+- Lågprisflyg i konkurs – hur stor är risken här? - Svenska Dagbladet
 - Saga en av alla med pollenallergi – men det går att bota - Sveriges Radio
-- Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
-- Vädjade om hjälp från Trump – flygbolag lägger ned - UNT
+- Saab är hoppfullt efter jättelån till Ukraina - Corren
+- En gripen efter bränderna på Stora Essingen - Expressen
+- Nattaktiv fågel styrs av månen - Aftonbladet
 - Dreame kommer att börja sälja mobiltelefoner - Teknikveckan
-- Android Auto kan snart få widgets som på mobilen - Teknikveckan
 
 ## World News
 
