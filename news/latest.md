@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-02 15:58_
+_Updated: 2026-05-02 17:30_
 
-- Germany urges stronger European defence after US announces troop drawdown - Reuters
-- Trump declares hostilities with Iran "terminated" - Axios
+- US to withdraw thousands of troops from Germany - dw.com
+- Trump says Iran conflict is ‘terminated’ as he hits congressional deadline - The Washington Post
+- 2026 Senate races to watch: From most likely to flip to Democratic long shots - NPR
 - Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News
-- Can Trump's latest pick for surgeon general make it through confirmation? - NPR
+- ‘What’s a more secure place than The Villages?’: Trump finds his people again in Florida - Politico
 - Hegseth’s and Moulton’s Parallel Lives Collide Over Iran - The New York Times
-- Pirro says video shows moment gunman fired outside correspondents’ dinner - The Washington Post
+- Spirit Airlines canceled all flights and is going out of business - KSL.com
+- Trump’s Vision for D.C. ‘Garden of Heroes’ Statues Grows in Size and Cost - The New York Times
 - ‘Six months to catch up’: What the shutdown cost DHS - Politico
-- Bard College’s President, Leon Botstein, Will Retire After Epstein Revelations - The New York Times
-- Tennessee and Alabama take steps to redraw House maps in wake of Supreme Court ruling - CBS News
-- DOJ to enforce SCOTUS ruling nationwide, all states with racially gerrymandered districts - KOMO
-- UK’s Starmer eyes banning some pro-Palestine protests - Al Jazeera
+- Bard president Leon Botstein stepping down after inquiry into his Epstein ties - The Guardian
+- U.K. prime minister urges tougher action at some Gaza protests after antisemitic attacks - CBS News
+- Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka - Reuters
 - Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says - Reuters
 - New Netflix documentary reexamines Winnie Mandela's divisive legacy - NPR
-- Fighting reaches outskirts of Ukraine's stronghold Kostiantynivka - Reuters
-- Spirit Airlines is closing down. Thousands of employees and travelers are impacted. - NBC News
-- Berkshire Hathaway reports record cash pile in Greg Abel’s first quarter as CEO - CNN
-- The 'K-shaped' spending trend is real — but it's been here since 2023: New York Fed - Yahoo Finance
-- Elon Musk went to court. The judge wasn’t amused. - The Washington Post
+- Berkshire shareholders head to Greg Abel's first annual meeting, with Buffett expected in audience - Reuters
+- Berkshire Hathaway’s Cash Pile Surges to Record $397 Billion - Bloomberg.com
+- Everything You Missed From Elon Musk’s Testimony in the OpenAI Trial - Gizmodo
+- The UAE Quit OPEC Because Its Sovereign Wealth Now Dwarfs Oil - Forbes
 - Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply - Bloomberg.com
-- iPhone Fold: 3 technologies Apple is reportedly using to (finally) kill the crease - Tom's Guide
+- Save $200 on 14inch M5 MacBook Pro 1TB 24GB RAM this weekend - AppleInsider
