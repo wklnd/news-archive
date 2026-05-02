@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 12:28_
+_Updated: 2026-05-02 13:22_
 
 ## Top Stories
 
 - Explosion på motorevenemang i Svartå – flera skadade - SVT Nyheter
-- Edvin Törnblom svarar Tidötopparna - Västerbottens-Kuriren
-- Donald Trumps utspel: Kriget med Iran är över - Dagens Nyheter
 - KRÖNIKA: Trump lämnar Tyskland blottat - Hufvudstadsbladet – HBL
-- Efter röstkaoset – total närvaroplikt i riksdagen - GP
-- Trump: Ska ta Kuba ”nästan omedelbart” - Hufvudstadsbladet – HBL
-- Forssell hoppas kunna utvisa 155 brottsdömda syrier - SVT Nyheter
-- Skott mot adress i Vänersborg före explosionen - GP
-- Kvinna död efter lägenhetsbrand i Bräcke - TV4 Nyheterna
+- Donald Trumps utspel: Kriget med Iran är över - Dagens Nyheter
+- Liberalerna har störst andel partibytare - Västerbottens-Kuriren
+- Trump: Ska ta Kuba – och de kommer att tacka mig - GP
 - DN/Ipsos: Fler högerväljare tror på Tidöseger - Dagens Nyheter
+- Skott mot adress i Vänersborg före explosionen - GP
+- Forssell hoppas kunna utvisa 155 brottsdömda syrier - Västerbottens-Kuriren
+- S-löfte inför valet: Fler lärare på lågstadiet - Corren
+- Svenska soldater om drönarkrig: "Väldigt svårt" - Dagens PS
 - DN Direkt – Kyrkan erbjuder miljarder till övergreppsoffer - Dagens Nyheter
-- Mychajlo, 18, lämnade ockupationen: ”De hängde upp ett kvinnolik på torget” - Dagens Nyheter
+- Viktor Orbans parti Fidesz förbereder politisk återkomst - Sveriges Radio
 - Trumps sändebud Jeff Landry planerar resa till Grönland - Sveriges Radio
 - Fredsförslagen – i tre punkter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kinesisk mur av konkurrenter möter Volvo Cars - Svenska Dagbladet
 - Europas dyraste bostäder rusar i pris – Sverige halkar efter - Dagens PS
 - Yngre fondsparare väljer billigt – äldre betalar nästan dubbelt - Finansinspektionen
-- Kinesisk mur av konkurrenter möter Volvo Cars - Svenska Dagbladet
-- Musk kunde ha fått 1 462 miljarder i lön – kammade noll - Omni
+- Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
+- Android Auto kan snart få widgets som på mobilen - Teknikveckan
 - ”Kvällen bjuder på en ny nivå av ängslan” - Svenska Dagbladet
-- Wilma bytte från restaurangchef till bilförsäljare: ”Mansdominerad bransch” - NWT
 
 ## World News
 
@@ -35,18 +35,18 @@ _Updated: 2026-05-02 12:28_
 - True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -136,8 +136,8 @@ _Updated: 2026-05-02 12:28_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -146,16 +146,16 @@ _Updated: 2026-05-02 12:28_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
