@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-02 01:36_
+_Updated: 2026-05-02 03:17_
 
-- Trump says deadline for Congress to approve Iran war doesn't apply: Hostilities have 'terminated' - AP News
-- Court restricts abortion access across the US by blocking the mailing of mifepristone - NPR
-- Trump’s threat: Why cutting US troops in Europe won’t be easy - Al Jazeera
+- Trump says Iran conflict is ‘terminated’ as he hits congressional deadline - The Washington Post
+- Germany needs no tips from Donald Trump, says Merz's deputy - DW.com
 - Thousands in US join ‘no school, no work, no shopping’ May Day protest and economic blackout - The Guardian
-- Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy - The White House (.gov)
-- Trump said he would end her political career, but Democrats did her in - The Washington Post
+- Authorities Share New Video of Suspect in White House Correspondents’ Dinner Shooting - The New York Times
+- 'CHICKEN': Gavin Newsom Fires Back After Joe Rogan Called Him A 'F**king Con Man' - HuffPost
 - Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News
-- Jury Convicts Florida Ex-Congressman of Secretly Lobbying for Venezuela - The New York Times
-- Ex-FBI Director James Comey faces charges over "86 47" post. But how far will the case get? - CBS News
-- Alabama Gov. Kay Ivey reverses course, calls special session in wake of Supreme Court ruling - AL.com
+- Federal Appeals Court Temporarily Halts Abortion Pills by Mail - The New York Times
+- Republicans Want Tennessee’s Last Democratic House District - The New York Times
+- Former Miami Congressman David Rivera is convicted of secretly lobbying for Maduro's Venezuela - AP News
+- Voting rights groups sue to block Louisiana from suspending primary elections - The Guardian
+- Live updates: Trump says he’s ‘not satisfied’ with Iran’s newest peace plan - AP News
 - What to know about May Day demonstrations as workers face rising energy costs due to Iran war - AP News
-- Israel releases all but two activists in Greece after intercepting Gaza aid flotilla - BBC
-- Suspect in UK Stabbing Attack on Jewish Men Faces Third Attempted Murder Charge - The New York Times
+- Man charged with attempted murder after stabbings of Jewish men in London - NPR
 - Ukraine says a strike hit Russian Black Sea oil terminal in Tuapse - AP News
-- Spirit Airlines prepares to shut down after Trump administration bailout falls through - Yahoo Finance
+- Spirit Airlines prepares to cease operations amid financial struggles and high oil prices - The Guardian
+- Everything You Missed From Elon Musk’s Testimony in the OpenAI Trial - Gizmodo
+- ExxonMobil and Chevron earnings fall, but bigger profits are on their way because of soaring oil prices - CNN
 - Top AI companies agree to work with Pentagon on secret data - The Washington Post
-- Stock Market Today: S&P 500, Nasdaq Rise to New Highs — Live Updates - WSJ
-- Exxon and Chevron quarterly earnings fall despite soaring oil prices - The Guardian
 - Apple Appears To Have Discontinued Its Cheapest Mac Mini - Engadget
-- Microsoft admits Windows 11 lost its way, Nadella pledges to "win back fans" - TechSpot
+- The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica
