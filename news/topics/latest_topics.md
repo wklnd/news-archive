@@ -1,58 +1,58 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 01:33_
+_Updated: 2026-05-02 03:10_
 
 ## Top Stories
 
-- Svensk man gripen av israelisk militär - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – USA hotar med att dra tillbaka trupper från Italien och Spanien - Dagens Nyheter
+- Explosion i Vänersborg - Västerbottens-Kuriren
+- USA flyttar 5 000 soldater från Tyskland - GP
+- Misstänkt mord i Haninge – äldre man gripen - SVT Nyheter
 - Vita huset: Kriget mot Iran är slut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Man gripen för misstänkt mord i villa på Ornö - Sveriges Radio
-- Trump: Höjer bil- och lastbilstullar mot EU - Corren
-- DN Direkt – Misstänkt föremål i Trelleborg var ofarligt - Dagens Nyheter
+- Svensk man gripen av israelisk militär - Västerbottens-Kuriren
+- Så påverkas trafiken under första maj - GP
 - S-löfte inför valet: Fler lärare på lågstadiet - Corren
-- Två döda i mc-olyckor - Västerbottens-Kuriren
-- Tomas Ramberg: Bäddat för besvikelse om S vinner valet - Dagens Nyheter
-- V-löfte: Miljarder till höjda löner i välfärden - GP
+- Man i 50-årsåldern död i mc-olycka i Härryda - SVT Nyheter
+- V-löfte: Miljarder till höjda löner i välfärden - Västerbottens-Kuriren
+- Knutson om S-löftet: ”Hört förr från politiker” – Senaste nytt om valet 2026 - SVT Nyheter
 - Ukraina: Ny attack mot rysk oljeterminal - Hufvudstadsbladet – HBL
 - Nya israeliska attacker i Libanon – flera döda - Västerbottens-Kuriren
-- Kim Jong-Un hyllar soldaters självmord i Ukrainakriget - Dagens Nyheter
 - Uppgifter: Trump överväger ny attackvåg mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump vill införa nya tullar mot EU: ”Oacceptabelt” - Dagens Nyheter
 - Yngre fondsparare väljer billigt – äldre betalar nästan dubbelt - Finansinspektionen
-- Japan gör miljardinsats för att stötta yenen – varnar för fler åtgärder - EFN
 - Nya rekord på Wall Street – Apple rapportsteg - Västerbottens-Kuriren
 - Bränslebrist skulle drabba småföretag hårt - Företagarna
+- Facket har stridit mot Elon Musk i 2,5 år: ”Klart det finns en gräns” - Dagens Nyheter
 - ”Kvällen bjuder på en ny nivå av ängslan” - Svenska Dagbladet
 - Spotify inför nytt märke – ska skilja människor från AI - Dagens Nyheter
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Kidney Day 2026 Marks 20 Years of Global Action (PR Newswire) - Aktiellt
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- UNDP lanserar läromedel om global utveckling - UNDP
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sunset World Group Celebrates International Women's Day by Recognizing the Strength and Leadership of its Female Employees (PR Newswire) - Aktiellt
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -60,7 +60,6 @@ _Updated: 2026-05-02 01:33_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -70,6 +69,7 @@ _Updated: 2026-05-02 01:33_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 
 ## Business
 
@@ -77,6 +77,7 @@ _Updated: 2026-05-02 01:33_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Capital Formation Is Elemental To Economic Growth (PR Newswire) - Aktiellt
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
@@ -86,13 +87,12 @@ _Updated: 2026-05-02 01:33_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 4dev.com Releases Contractor Market Report 2025 on the Growth of the Global Contractor Economy (PR Newswire) - Aktiellt
+- Cohere Health Names Finance Industry Veteran Robert Shepardson as New Chief Financial Officer (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 
 ## Health
 
@@ -102,36 +102,36 @@ _Updated: 2026-05-02 01:33_
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
-- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- The 4th Malmö Work Science Meeting - Malmö universitet
+- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Olika slutsatser från samma data - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
