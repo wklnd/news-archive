@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 19:24_
+_Updated: 2026-05-02 20:10_
 
 ## Top Stories
 
 - Experten efter Trumps truppbesked: Kan vara hämnd – men också långsiktig strategi - GP
-- Frontalkrock på E45 – sex ambulanser larmade - Expressen
+- Skogsbrand i naturreservat: ”Rejäl rökutveckling” - SVT Nyheter
 - Åkessons kritik – mot Trump och Andersson - GP
+- Iran: Krig eller diplomati – bollen hos USA - GP
 - Malmöbo finansierade vårdnadstvist med pengar från älskarinnans prostitution - Sydsvenskan
-- Europeiska forskare: Att riva och bygga nytt ingen garanti för bättre integration - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Sju dödade i södra Libanon - Dagens Nyheter
+- Flera skadade vid explosion på bilträff – Fredrik nära bli träffad - Sveriges Radio
 - Väljer bort barn – beskylls för egoism - Västerbottens-Kuriren
-- “Jag har varit utlänningen i äldreomsorgen” - Dagens Nyheter
 - Frontalkrock på E45 i Värmlandsbro - SVT Nyheter
-- TV: Vittnet Pär: ”Många blev chockade” - NWT
-- Misstänkt inför rätta efter bombdåd i Belfast - Folkbladet
+- Två explosioner i Västsverige – VMA utfärdades - Corren
+- DN Direkt – Arbetsförmedlingen saknas helt i 83 kommuner - Dagens Nyheter
 - Hundägare tvingas tvätta bort kiss – eller böta - Västerbottens-Kuriren
 - Michael Winiarski: Ön var tänkt att bli ett tropiskt paradis - Dagens Nyheter
-- Gripen svensk i Israel – ”potentiellt het potatis” - GP
-- Här ser Adam sin krasch med älgen spelas upp i repris - Dagens Nyheter
+- Fredsförslagen – i tre punkter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Misstänkt inför rätta efter bombdåd i Belfast - Folkbladet
 - Rekordsiffror för Warren Buffetts jättebolag - Aftonbladet
-- Robin, 40, köpte elbil för hundralappen: Som en lunch - Omni
-- Saga en av alla med pollenallergi – men det går att bota - Sveriges Radio
+- Här ser Adam sin krasch med älgen spelas upp i repris - Dagens Nyheter
+- Efter sommarvärmen – pollenvarning i halva landet - Sydsvenskan
+- Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
+- Nattaktiv fågel styrs av månen - Aftonbladet
 - Dreame kommer att börja sälja mobiltelefoner - Teknikveckan
-- Charmig 30-talsvilla lockade många på Hemnet - Söderhamns-Kuriren
 
 ## World News
 
@@ -50,26 +50,26 @@ _Updated: 2026-05-02 19:24_
 
 ## Technology
 
-- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -82,16 +82,16 @@ _Updated: 2026-05-02 19:24_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Vilken framtid arbetar du för? - EY
+- Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Leaf Home Names Mike Barton Chief Accounting Officer to Advance Financial Operations for Growth (PR Newswire) - Aktiellt
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
@@ -101,21 +101,21 @@ _Updated: 2026-05-02 19:24_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 
 ## Science
 
