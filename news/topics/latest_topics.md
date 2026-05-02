@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-02 20:10_
+_Updated: 2026-05-02 21:34_
 
 ## Top Stories
 
+- JUST NU: Här bombar brandhelikoptrarna - NWT
 - Experten efter Trumps truppbesked: Kan vara hämnd – men också långsiktig strategi - GP
-- Skogsbrand i naturreservat: ”Rejäl rökutveckling” - SVT Nyheter
-- Åkessons kritik – mot Trump och Andersson - GP
-- Iran: Krig eller diplomati – bollen hos USA - GP
-- Malmöbo finansierade vårdnadstvist med pengar från älskarinnans prostitution - Sydsvenskan
-- Flera skadade vid explosion på bilträff – Fredrik nära bli träffad - Sveriges Radio
+- En gripen efter bränderna på Stora Essingen - SVT Nyheter
+- Ryssland överger köttkvarnstaktiken: ”Anpassar sig” - Dagens Nyheter
+- Iransk minister: Upp till USA att välja – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- JUST NU: Större olycka på E45 – ett körfält blockerat - VF
 - Väljer bort barn – beskylls för egoism - Västerbottens-Kuriren
-- Frontalkrock på E45 i Värmlandsbro - SVT Nyheter
+- Åkessons kritik – mot Trump och Andersson - GP
 - Två explosioner i Västsverige – VMA utfärdades - Corren
-- DN Direkt – Arbetsförmedlingen saknas helt i 83 kommuner - Dagens Nyheter
+- Arbetsförmedlingen saknas helt i 83 kommuner - Västerbottens-Kuriren
+- Zelenskyj: Slovakien stödjer Ukraina i EU - Västerbottens-Kuriren
 - Hundägare tvingas tvätta bort kiss – eller böta - Västerbottens-Kuriren
 - Michael Winiarski: Ön var tänkt att bli ett tropiskt paradis - Dagens Nyheter
-- Fredsförslagen – i tre punkter – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Misstänkt inför rätta efter bombdåd i Belfast - Folkbladet
+- Gripen svensk i Israel – ”potentiellt het potatis” - GP
 - Rekordsiffror för Warren Buffetts jättebolag - Aftonbladet
-- Här ser Adam sin krasch med älgen spelas upp i repris - Dagens Nyheter
 - Efter sommarvärmen – pollenvarning i halva landet - Sydsvenskan
 - Nytt stöd till villaägare – blir lättare att energieffektivisera - oskarshamns-nytt.se
-- Nattaktiv fågel styrs av månen - Aftonbladet
+- Saab är hoppfullt efter jättelån till Ukraina - Västerbottens-Kuriren
+- DN Direkt – Skogsbrand i naturreservat i Partille - Dagens Nyheter
 - Dreame kommer att börja sälja mobiltelefoner - Teknikveckan
 
 ## World News
@@ -50,26 +50,26 @@ _Updated: 2026-05-02 20:10_
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Uniqus Consultech Signs Strategic Partnership Agreement with Numero AI (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -154,11 +154,11 @@ _Updated: 2026-05-02 20:10_
 - Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
