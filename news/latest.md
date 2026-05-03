@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-03 03:20_
+_Updated: 2026-05-03 07:02_
 
-- Germany and Europe Have Bigger Trump Problems Than U.S. Troop Withdrawal - WSJ
 - Iran submits 14-point response to U.S. proposal to end war - NPR
-- A federal court blocked a widely used abortion pill from distribution by mail. Here's what to know - AP News
+- Trump says US will reduce number of troops in Germany 'a lot further' than withdrawal of 5,000 - AP News
+- Supreme Court Asked to Restore Access to Abortion Pill by Mail - The New York Times
 - Trump says new strikes possible if Iran "misbehaves" - Axios
-- Trump is running out of options to contain gas price backlash - The Washington Post
-- New Video Analysis Suggests Suspect in Correspondents’ Dinner Attack Fired First - The New York Times
-- Spirit Airlines shuts down after rescue talks with White House fall through - Politico
-- More Than Three Million People Have Lost Federal Food Aid - WSJ
-- Police say 1 dead, explosive device found after vehicle crash into Portland’s Multnomah Athletic Club - Oregon Public Broadcasting - OPB
-- Ohio Republicans fear former ICE official could cost them a battleground House seat - Politico
-- Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance - NPR
-- Concern for jailed Iranian Nobel laureate as family say health deteriorating - BBC
-- U.K. prime minister urges tougher action at some Gaza protests after antisemitic attacks - CBS News
+- Hegseth tightens control at Pentagon, defiant and more confident than ever - The Washington Post
+- 1 person dead after vehicle crashes into an Oregon health club, police say - ABC News - Breaking News, Latest News and Videos
+- Spirit Airlines goes out of business after 34 years, ending operations immediately - TribLIVE.com
+- The new surgeon general nominee has a MAHA problem - Politico
+- Man shot by ICE in Central Valley charged with assaulting federal agents - Los Angeles Times
+- Washington mother's final moments captured on horrific 911 call: "He's got a gun!" - CBS News
+- Taiwan president defiant as begins Eswatini trip; China calls him a 'rat' - Reuters
 - Timmy the humpback whale escapes to the North Sea - Al Jazeera
-- Berkshire CEO Greg Abel Takes the Stage, Making a Case for the Post-Buffett Era - WSJ
-- I was in the room for Warren Buffett's surprise interview. The mood swung from excited to grim, then hopeful. - Business Insider
-- Berkshire Hathaway’s Cash Surges in Abel’s First Quarter as CEO - Yahoo Finance UK
-- Why eBay, in Its Latest Incarnation, Is a Takeover Target for GameStop - WSJ
+- U.K. prime minister urges tougher action at some Gaza protests after antisemitic attacks - CBS News
+- Winners, losers and a PM on the brink - what to expect in next week's elections - BBC
+- CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett world, with record cash - Reuters
+- Warren Buffett says 'we've never had people in a more gambling mood than now' - Fortune
+- Gas prices are up across the country. Here's where you'll find the most expensive -- and cheapest -- gas - ABC News - Breaking News, Latest News and Videos
+- Warren Buffett asked Tim Cook to take a bow in a surprise speech at Berkshire meeting - Business Insider
 - Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes
 - Farewell, Jeeves: Ask.com shuts down - TechCrunch
