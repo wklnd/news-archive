@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 17:10_
+_Updated: 2026-05-03 18:09_
 
 ## Top Stories
 
 - Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
-- UD: Ser allvarligt på Israels behandling av gripen svensk - SVT Nyheter
-- Man död efter skjutning på Valborg i Norrköping - TV4 Nyheterna
-- Specialisten: Så startar en skogsbrand - GP
+- Svensk aktivist hålls kvar i israeliskt fängelse - GP
 - Nu utvisas Nardine, 21: ”Kan vara sista gången jag ser Sverige” - Aftonbladet
+- Storbrand i Knipeflågsbergens naturreservat - Partille Tidning
 - JACOB SJÖLIN: Pressfriheten går inte att ta för given – inte ens här - NT
+- Man död efter skjutning på Valborg i Norrköping - TV4 Nyheterna
 - Lagrådet till regeringen: Invandring rör människor - Västerbottens-Kuriren
 - Ämnena och förändringen i kvällens partiledardebatt - Dagens Nyheter
 - Värden skulle bara renovera – nu säljs familjens hem - Dagens Nyheter
 - Rederi nekas klassning som skyddsobjekt: ”Ökad hotbild” - Sveriges Radio
-- Föremål från kriget exploderade – barn skadade - Västerbottens-Kuriren
-- Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
 - Drönare i finländskt luftrum – utreds som kränkning - SVT Nyheter
-- Kuba om Trumps hot: Saknar motstycke - GP
-- SBAB: Nya bolånereglerna gav små effekter på bopriserna - Omni
-- Amerikanskt flygbolag i konkurs efter bränslechocken - Flygtorget
+- Föremål från kriget exploderade – barn skadade - Västerbottens-Kuriren
+- Irans senaste punkter för fredsförhandlingar - GP
+- Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
 - Småspararnas misstag – att sälja USA - UNT
+- AI-roboten Mona driver kafé i Vasastan – så är hon som chef - Dagens Nyheter
 - Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
+- BP kan överge Nordsjön – vendetta med regeringen - Dagens PS
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
 
@@ -42,11 +42,11 @@ _Updated: 2026-05-03 17:10_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 
 ## Technology
 
@@ -68,7 +68,7 @@ _Updated: 2026-05-03 17:10_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -96,47 +96,47 @@ _Updated: 2026-05-03 17:10_
 
 ## Health
 
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
-- Thermo Fisher Scientific utökar i Europa - flyttar till GoCo Health Innovation City i Göteborg - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -152,6 +152,7 @@ _Updated: 2026-05-03 17:10_
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
@@ -161,4 +162,3 @@ _Updated: 2026-05-03 17:10_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
