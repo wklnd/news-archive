@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 12:31_
+_Updated: 2026-05-03 13:12_
 
 ## Top Stories
 
 - Trafiken rullar igen efter rökutveckling på tåg vid Arlanda – stora förseningar - SVT Nyheter
-- USA granskar iranskt förslag om Hormuz - GP
 - En gripen efter explosion i Malmö - Corren
-- Stor skogsbrand i Delsjön utanför Göteborg - Expressen
-- Försvarsmaktens första operativa satellit mot omloppsbana - Försvarsmakten
-- 68 personer kan få okänt arv på Styrsö - GP
+- USA granskar iranskt förslag om Hormuz - GP
+- Bil körde ner i å norr om Varberg – man allvarligt skadad - TV4 Nyheterna
+- Skarpskjutning i Stockholms skärgård under Aurora 26 - Försvarsmakten
+- Svensk satellit uppskjuten – spanar på Ryssland - Dagens Nyheter
 - Man död efter skjutning i Norrköping på valborg - SVT Nyheter
 - Socialarbetaren Namam: Det kan vara din dotter vi räddar från gängen - Dagens Nyheter
 - JUST NU: Här bombar brandhelikoptrarna - NWT
 - Ministrarnas glassbild väcker ilska: ”Historielöst” – Senaste nytt om valet 2026 - SVT Nyheter
 - Ukraina har anfallit skuggflotta vid rysk hamnstad - Dagens Nyheter
-- Trump och Merz i öppen ordväxling – USA kallar hem trupper från Tyskland - SVT Nyheter
 - Drönare i finländskt luftrum: ”Kraftiga smällar” - Västerbottens-Kuriren
+- Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
 - Skulle offra get på Tempelberget – greps - Västerbottens-Kuriren
 - SBAB: Nya bolånereglerna gav små effekter på bopriserna - Omni
 - Småspararnas misstag – att sälja USA - UNT
 - Spirit Airlines kollapsade: Irankriget sista droppen - Yle
 - Sverige i världstoppen – här rusar antalet miljardärer snabbast - Dagens PS
+- Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
-- Svensken tar över Netflixsuccé – ny stalkerserie - Västerbottens-Kuriren
 
 ## World News
 
@@ -96,7 +96,6 @@ _Updated: 2026-05-03 12:31_
 
 ## Health
 
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
@@ -116,6 +115,7 @@ _Updated: 2026-05-03 12:31_
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
@@ -123,21 +123,21 @@ _Updated: 2026-05-03 12:31_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
