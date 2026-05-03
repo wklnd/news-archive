@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-04 00:07_
+_Updated: 2026-05-04 01:22_
 
 ## Top Stories
 
 - Efter partiledardebatten: ”Märkliga härskartekniker” - Dagens Nyheter
-- Experten om debattens vinnare – och förlorare - GP
-- Fortsatt minskning av vårdköerna - Regeringen.se
 - Partiledardebatt: Rödgröna splittrade om kärnkraften - Västerbottens-Kuriren
-- 10-årig flicka påkörd av fyrhjuling i Botkyrka – förd med helikopter till sjukhus - SVT Nyheter
-- Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
+- Experten om debattens vinnare – och förlorare - GP
+- Tre personer döda på kryssningsfartyg – misstänkt virusutbrott - SVT Nyheter
+- 10-årig flicka allvarligt skadad – efter fyrhjulingsolycka - Sveriges Radio
+- Dag för dag: Så har konflikten mellan USA och Iran utvecklats - Dagens Nyheter
 - Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
-- Kristersson: Det som händer skapar osäkerhet - GP
-- 03 maj 18.00, Polisinsats/kommendering, Stockholm - polisen.se
-- FORSKNING: Därför lockas mygg till vissa personer - NWT
+- Fyra personer avlägsnade av polis från tv-huset - GP
+- Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
+- Två tonåringar misstänkta för mordet i Marielund - NT
+- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
 - Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Zelenskyj och Starmer i samtal om luftförsvar - Dagens Nyheter
-- Kriget gör den tyska lyxprimören dyrare - Hufvudstadsbladet – HBL
-- Irans senaste punkter för fredsförhandlingar - GP
-- Spirit Airlines nära färdiga med återbetalningar efter nedläggning av Investing.com - Investing.com Sverige
+- Kriget mot Iran gör den tyska lyxprimören dyrare - Dagens Nyheter
+- Tucker Carlsons misstanke: Trump hade inget val - Dagens Nyheter
 - Småspararnas misstag – att sälja USA - UNT
+- Spirit Airlines nära färdiga med återbetalningar efter nedläggning av Investing.com - Investing.com Sverige
 - Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
 - Samsung vs Iphone – hur hög är tröskeln att byta? - Dagens PS
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
@@ -43,40 +43,40 @@ _Updated: 2026-05-04 00:07_
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Global kompetens driver hållbara industrisatsningar i norr - ABB
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -92,7 +92,7 @@ _Updated: 2026-05-04 00:07_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -129,16 +129,16 @@ _Updated: 2026-05-04 00:07_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
