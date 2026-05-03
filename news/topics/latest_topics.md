@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 18:09_
+_Updated: 2026-05-03 19:24_
 
 ## Top Stories
 
-- Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
-- Svensk aktivist hålls kvar i israeliskt fängelse - GP
-- Nu utvisas Nardine, 21: ”Kan vara sista gången jag ser Sverige” - Aftonbladet
-- Storbrand i Knipeflågsbergens naturreservat - Partille Tidning
-- JACOB SJÖLIN: Pressfriheten går inte att ta för given – inte ens här - NT
-- Man död efter skjutning på Valborg i Norrköping - TV4 Nyheterna
-- Lagrådet till regeringen: Invandring rör människor - Västerbottens-Kuriren
 - Ämnena och förändringen i kvällens partiledardebatt - Dagens Nyheter
-- Värden skulle bara renovera – nu säljs familjens hem - Dagens Nyheter
-- Rederi nekas klassning som skyddsobjekt: ”Ökad hotbild” - Sveriges Radio
+- Kustbevakningen i Sverige har bordat misstänkt skuggfartyg - Hufvudstadsbladet – HBL
+- Svensk aktivist hålls kvar i israeliskt fängelse - GP
+- Baudin om Åkesson: ”Inget annat än fegt” - Bulletin
+- Storbrand i Knipeflågsbergens naturreservat - Partille Tidning
+- Tunga republikaner oroas: ”Fel signaler till Putin” - Omni
+- Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
+- Lagrådet till regeringen: Invandring rör människor - Västerbottens-Kuriren
+- Polisen varnar för falska parkeringsböter - polisen.se
+- Svenska tonåringar misstänks för mord i två länder - GP
 - Drönare i finländskt luftrum – utreds som kränkning - SVT Nyheter
+- Ukraina har anfallit skuggflotta vid rysk hamnstad - Dagens Nyheter
+- Ukraina: Har knäckt Rysslands ”ostoppbara” robot - Dagens Nyheter
 - Föremål från kriget exploderade – barn skadade - Västerbottens-Kuriren
-- Irans senaste punkter för fredsförhandlingar - GP
-- Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
-- Småspararnas misstag – att sälja USA - UNT
 - AI-roboten Mona driver kafé i Vasastan – så är hon som chef - Dagens Nyheter
 - Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
 - BP kan överge Nordsjön – vendetta med regeringen - Dagens PS
+- Hon tröttnade på slit och släng-mentaliteten – startade Airbnb för kläder - Dagens Nyheter
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
-- Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
+- Svensken tar över Netflixsuccé – ny stalkerserie - Västerbottens-Kuriren
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
 - Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- BBC hjälper mig att dosera min förtvivlan - Aftonbladet
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -68,7 +68,7 @@ _Updated: 2026-05-03 18:09_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
@@ -96,9 +96,8 @@ _Updated: 2026-05-03 18:09_
 
 ## Health
 
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
@@ -106,6 +105,7 @@ _Updated: 2026-05-03 18:09_
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
@@ -121,22 +121,22 @@ _Updated: 2026-05-03 18:09_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -152,7 +152,6 @@ _Updated: 2026-05-03 18:09_
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
@@ -162,3 +161,4 @@ _Updated: 2026-05-03 18:09_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
