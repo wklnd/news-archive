@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-03 13:25_
+_Updated: 2026-05-03 14:34_
 
 - Trump says he is reviewing Iran's new offer but doubts it is 'acceptable' - NBC News
 - Trump says cutting US troops in Germany 'a lot further' - DW.com
 - New Video Analysis Suggests Suspect in Correspondents’ Dinner Attack Fired First - The New York Times
+- ‘This is just disarray’: alarm inside Pentagon after Hegseth staff purges - The Guardian
+- Behind Voting Rights Case, a Clash Over the Reality of Racism - The New York Times
 - Drugmakers ask Supreme Court to restore abortion pill access by mail - The Washington Post
-- Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran - The New York Times
-- Trump says new strikes possible if Iran "misbehaves" - Axios
-- He spent 60 years building Black political power. He sees a wipeout coming. - The Washington Post
-- 'Godspeed my friend': Inside the final hours of Spirit Airlines - CNBC
-- Washington mother's final moments captured on horrific 911 call: "He's got a gun!" - CBS News
+- Fear and Vigilance Are Now Constant Companions for Many American Jews - The New York Times
+- Indiana Primary Election Will Test Trump’s Influence With Republicans - The New York Times
 - White House Correspondents' dinner shooting suspect is on restrictive suicide precautions, lawyers say - NBC News
+- Young New Yorkers Have a New Hot Spot: Sunday Mass - WSJ
 - How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza - The New York Times
 - Taiwan leader visits Eswatini despite China’s attempts to block trip - Al Jazeera
-- Austria: Police arrest suspect over poisoned HiPP baby food - DW.com
-- Man charged over death of Australian Indigenous girl that sparked outback riots - Reuters
-- Berkshire Meeting Highlights Tough Balancing Act for Greg Abel - Bloomberg.com
-- How algorithms wreaked havoc with these workers' schedules and cut their pay - NPR
-- I was in the courthouse when Elon Musk testified in his case against OpenAI. Here is what it was like. - Business Insider
-- Top AI companies agree to work with Pentagon on secret data - The Washington Post
+- Austrian police arrest man after discovery of rat poison in baby food - Al Jazeera
+- Ukraine hits key Russian oil-loading port and 2 ‘shadow fleet’ tankers - AP News
+- After Spirit Airlines shutdown, how passengers can get home and get refunds - PBS
+- Warren Buffett's Successor, Greg Abel, Just Perpetuated the Oracle of Omaha's $195 Billion Warning to Wall Street -- and It's Terrible News for Stocks - The Motley Fool
+- He beat Elon Musk in court once. Sam Altman hired him to do it again. - Business Insider
+- He recorded his quest for tariff refunds. It shows why billions may never get repaid - NPR
 - Google explains why Android AICore occasionally takes up more storage - 9to5Google
-- Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica
+- LG UltraGear 32GX870B-B and 45GX950B-B monitors detailed, first shipments start in June - VideoCardz.com
