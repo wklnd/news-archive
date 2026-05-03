@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 20:11_
+_Updated: 2026-05-03 21:33_
 
 ## Top Stories
 
+- Rödgröna splittrade om kärnkraften - GP
 - Ämnena och förändringen i kvällens partiledardebatt - Dagens Nyheter
-- Kustbevakningen i Sverige har bordat misstänkt skuggfartyg - Hufvudstadsbladet – HBL
 - UD: Ser allvarligt på Israels behandling av gripen svensk - SVT Nyheter
-- Experten efter Trumps truppbesked: Kan vara hämnd – men också långsiktig strategi - GP
-- Ukraina: Har knäckt Rysslands ”ostoppbara” robot - Dagens Nyheter
-- Man död efter skjutning på Valborg i Norrköping - TV4 Nyheterna
-- Fyra personer avlägsnade av polis från tv-huset - Västerbottens-Kuriren
+- Olycka med fyrhjuling – flicka allvarligt skadad - Aftonbladet
+- Omfattande attack mot ryska oljeanläggningar - TV4 Nyheterna
+- Kustbevakningen i Sverige har bordat misstänkt skuggfartyg - Hufvudstadsbladet – HBL
 - Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
 - Lagrådet till regeringen: Invandring rör människor - GP
-- Polisen varnar för falska parkeringsböter - polisen.se
-- Drönare i finländskt luftrum: ”Kraftiga smällar” - Dagens Nyheter
-- Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
+- Värden skulle bara renovera – nu säljs familjens hem - Dagens Nyheter
+- Två tonåringar misstänkta för mordet i Marielund - NT
+- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
+- Ukraina: Har knäckt Rysslands ”ostoppbara” robot - Dagens Nyheter
 - Föremål från kriget exploderade – barn skadade - Västerbottens-Kuriren
-- Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
-- AI-roboten Mona driver kafé i Vasastan – så är hon som chef - Dagens Nyheter
+- Frankrike vill skärpa straff för olagligt rejv - GP
 - Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
 - Hon tröttnade på slit och släng-mentaliteten – startade Airbnb för kläder - Dagens Nyheter
-- BP kan överge Nordsjön – vendetta med regeringen - Dagens PS
+- AI-roboten Mona driver kafé i Vasastan – så är hon som chef - Dagens Nyheter
+- Amerikanskt flygbolag i konkurs efter bränslechocken - Flygtorget
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
 
@@ -51,32 +51,32 @@ _Updated: 2026-05-03 20:11_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -92,52 +92,52 @@ _Updated: 2026-05-03 20:11_
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Vi presenterar HealthBench - OpenAI
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -147,6 +147,7 @@ _Updated: 2026-05-03 20:11_
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
@@ -161,4 +162,3 @@ _Updated: 2026-05-03 20:11_
 - 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
