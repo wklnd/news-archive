@@ -1,71 +1,71 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 22:07_
+_Updated: 2026-05-03 23:10_
 
 ## Top Stories
 
-- Rödgröna splittrade om kärnkraften - GP
 - Ämnena och förändringen i kvällens partiledardebatt - Dagens Nyheter
-- UD: Ser allvarligt på Israels behandling av gripen svensk - SVT Nyheter
-- Olycka med fyrhjuling – flicka allvarligt skadad - Aftonbladet
-- Tonåringar misstänkta för dubbla mord – tros vara beställningsjobb - Omni
-- Irans senaste punkter för fredsförhandlingar - Västerbottens-Kuriren
-- Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
-- Fyra personer avlägsnade av polis från tv-huset - GP
+- Rödgröna splittrade om kärnkraften - GP
+- MP och C: Kvittningskaos kan störa valrörelsen - Västerbottens-Kuriren
+- Dadgostar för hes för att avbryta - Svenska Dagbladet
 - Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
+- Partiledardebatt: Rödgröna splittrade om kärnkraften - Västerbottens-Kuriren
+- Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
+- Två tonåringar misstänkta för mordet i Marielund - NT
+- Fyra personer avlägsnade av polis från tv-huset - GP
 - FORSKNING: Därför lockas mygg till vissa personer - NWT
 - Direkt – Kriget i Ukraina – Zelenskyj och Starmer i samtal om luftförsvar - Dagens Nyheter
 - Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
-- Ukraina: Har knäckt Rysslands ”ostoppbara” robot - Dagens Nyheter
 - Kriget gör den tyska lyxprimören dyrare - Hufvudstadsbladet – HBL
-- Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
+- Frankrike vill skärpa straff för olagligt rejv - GP
 - Amerikanskt flygbolag i konkurs efter bränslechocken - Flygtorget
+- Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
+- Alex, 17, får inte ta mer mat i skolan: ”De blir sura” - Expressen
 - Hon tröttnade på slit och släng-mentaliteten – startade Airbnb för kläder - Dagens Nyheter
-- AI-roboten Mona driver kafé i Vasastan – så är hon som chef - Dagens Nyheter
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
+- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
@@ -121,21 +121,21 @@ _Updated: 2026-05-03 22:07_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -149,16 +149,16 @@ _Updated: 2026-05-03 22:07_
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL Nyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
