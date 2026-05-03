@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-03 17:28_
+_Updated: 2026-05-03 18:28_
 
-- Trump says he is reviewing Iran's new offer but doubts it is 'acceptable' - NBC News
-- Trump says cutting US troops in Germany 'a lot further' - DW.com
-- Search underway for 2 U.S. service members missing amid training exercise in Morocco - CBS News
-- Two-thirds of Americans say country is headed in the wrong direction: ABC News/Washington Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos
-- New Video Analysis Suggests Suspect in Correspondents’ Dinner Attack Fired First - The New York Times
-- He spent 60 years building Black political power. He sees a wipeout coming. - The Washington Post
-- Police say 1 dead, multiple explosive devices found after attack on Portland’s Multnomah Athletic Club - Oregon Public Broadcasting - OPB
+- Live updates: Trump says Iran has ‘not yet paid a big enough price’ as he reviews new peace proposal - CNN
+- Trump says cutting US troops in Germany 'a lot further' - dw.com
+- Acting attorney general says indictment against James Comey goes beyond seashell photo - NBC News
+- Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran - The New York Times
+- Young Americans have soured on Trump | Steven Greenhouse - The Guardian
+- Pirro confident armed man at WHCD targeted Trump - Politico
+- Man drives car full of explosives into building of Oregon athletic club - NBC News
+- 2 US service members missing in Morocco after multinational military exercise, search underway - Fox News
+- Behind Supreme Court Voting Rights Ruling, a Clash Over the Reality of Racism - The New York Times
 - Indiana Republicans Defied Trump. Will Voters Punish Them for It? - The New York Times
-- Young New Yorkers Have a New Hot Spot: Sunday Mass - WSJ
-- Cubans struggle to survive on pocket-size government ration books as products dwindle - Politico
-- How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza - The New York Times
-- Taiwan leader visits Eswatini despite China’s attempts to block trip - Al Jazeera
-- Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News
-- Concern for jailed Iranian Nobel laureate Narges Mohammadi as brother fears she is dying - BBC
-- Spirit Airlines shuts down after two bankruptcies and a failed rescue plan - Axios
-- Greg Abel rules out Berkshire break-up, stresses continuity with Buffett's legacy at annual meeting - CNBC
+- Israel issues new forced displacement orders in southern Lebanon - Al Jazeera
+- Taiwan president defiant as begins Eswatini trip; China calls him a 'rat' - Reuters
+- Ukraine hits key Russian oil-loading port and 3 ‘shadow fleet’ tankers - AP News
+- Gaza aid flotilla activists appear in Israeli court after abduction - Al Jazeera
+- Was the Iran war the final blow in the collapse of Spirit Airlines? - Al Jazeera
+- Berkshire investors praise Greg Abel at post-Buffett meeting - Yahoo Finance
 - He recorded his quest for tariff refunds. It shows why billions may never get repaid - NPR
-- How Google Made Peace With War - Business Insider
+- The Clearest Sign yet Google Employees Are Losing Power - Business Insider
+- This tiny, magnetic e-reader could stop you from doomscrolling - TechCrunch
 - Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes
-- How the internet’s favorite squirrel dad made the hottest camera app of 2026 - The Verge
