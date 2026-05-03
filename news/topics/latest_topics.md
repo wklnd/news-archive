@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 23:10_
+_Updated: 2026-05-04 00:07_
 
 ## Top Stories
 
-- Ämnena och förändringen i kvällens partiledardebatt - Dagens Nyheter
-- Rödgröna splittrade om kärnkraften - GP
-- MP och C: Kvittningskaos kan störa valrörelsen - Västerbottens-Kuriren
-- Dadgostar för hes för att avbryta - Svenska Dagbladet
-- Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
+- Efter partiledardebatten: ”Märkliga härskartekniker” - Dagens Nyheter
+- Experten om debattens vinnare – och förlorare - GP
+- Fortsatt minskning av vårdköerna - Regeringen.se
 - Partiledardebatt: Rödgröna splittrade om kärnkraften - Västerbottens-Kuriren
+- 10-årig flicka påkörd av fyrhjuling i Botkyrka – förd med helikopter till sjukhus - SVT Nyheter
+- Förskolan Framtiden bjöd på teater med viktiga teman - Skillingaryd
 - Kustbevakningen har bordat fartyg utanför Trelleborg - SVT Nyheter
-- Två tonåringar misstänkta för mordet i Marielund - NT
-- Fyra personer avlägsnade av polis från tv-huset - GP
+- Kristersson: Det som händer skapar osäkerhet - GP
+- 03 maj 18.00, Polisinsats/kommendering, Stockholm - polisen.se
 - FORSKNING: Därför lockas mygg till vissa personer - NWT
-- Direkt – Kriget i Ukraina – Zelenskyj och Starmer i samtal om luftförsvar - Dagens Nyheter
 - Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Zelenskyj och Starmer i samtal om luftförsvar - Dagens Nyheter
 - Kriget gör den tyska lyxprimören dyrare - Hufvudstadsbladet – HBL
-- Frankrike vill skärpa straff för olagligt rejv - GP
-- Amerikanskt flygbolag i konkurs efter bränslechocken - Flygtorget
+- Irans senaste punkter för fredsförhandlingar - GP
+- Spirit Airlines nära färdiga med återbetalningar efter nedläggning av Investing.com - Investing.com Sverige
+- Småspararnas misstag – att sälja USA - UNT
 - Plötsligt billigare – Samsung utmanar Iphone på allvar - Dagens PS
-- Alex, 17, får inte ta mer mat i skolan: ”De blir sura” - Expressen
-- Hon tröttnade på slit och släng-mentaliteten – startade Airbnb för kläder - Dagens Nyheter
+- Samsung vs Iphone – hur hög är tröskeln att byta? - Dagens PS
 - Hur hänger det oändliga universum ihop med vardagens småritualer på Jylland? - Dagens Nyheter
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
 
@@ -51,24 +51,24 @@ _Updated: 2026-05-03 23:10_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AccuQuant Secures $20 Million in Funding to Advance AI-Driven Financial Infrastructure (PR Newswire) - Aktiellt
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Grande Studios Announces Ethical AI Strategy to Guide the Future of Content Localization (PR Newswire) - Aktiellt
+- Hack the Hood Launches Build.AI Program to Expand AI Skills Access for Bay Area Youth (PR Newswire) - Aktiellt
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
@@ -121,22 +121,22 @@ _Updated: 2026-05-03 23:10_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-03 23:10_
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL Nyheter
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
