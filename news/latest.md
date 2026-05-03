@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-03 15:58_
+_Updated: 2026-05-03 17:28_
 
-- What’s Iran’s 14-point proposal to end the war? And will Trump accept it? - Al Jazeera
-- Trump says cutting US troops in Germany 'a lot further' - dw.com
-- Search and Rescue Ongoing at African Lion 2026 - africom.mil
-- Trump disapproval reaches new high, Post-ABC-Ipsos poll finds - The Washington Post
-- Fakes, slop, distortions and spin: How the media environment made this Trump assassination attempt unbelievable - NBC News
-- Democrats' chances of winning Senate control are improving, polls show - USA Today
+- Trump says he is reviewing Iran's new offer but doubts it is 'acceptable' - NBC News
+- Trump says cutting US troops in Germany 'a lot further' - DW.com
+- Search underway for 2 U.S. service members missing amid training exercise in Morocco - CBS News
+- Two-thirds of Americans say country is headed in the wrong direction: ABC News/Washington Post/Ipsos poll - ABC News - Breaking News, Latest News and Videos
+- New Video Analysis Suggests Suspect in Correspondents’ Dinner Attack Fired First - The New York Times
 - He spent 60 years building Black political power. He sees a wipeout coming. - The Washington Post
-- Fear and Vigilance Are Now Constant Companions for Many American Jews - The New York Times
-- White House Correspondents' Dinner shooting suspect is on restrictive suicide precautions, lawyers say - NBC News
+- Police say 1 dead, multiple explosive devices found after attack on Portland’s Multnomah Athletic Club - Oregon Public Broadcasting - OPB
+- Indiana Republicans Defied Trump. Will Voters Punish Them for It? - The New York Times
+- Young New Yorkers Have a New Hot Spot: Sunday Mass - WSJ
 - Cubans struggle to survive on pocket-size government ration books as products dwindle - Politico
-- Israel issues new forced displacement orders in southern Lebanon - Al Jazeera
-- Taiwan president defiant as begins Eswatini trip; China calls him a 'rat' - Reuters
-- Austrian police arrest man after discovery of rat poison in baby food - Al Jazeera
-- Man charged with murder of five-year-old Australian Indigenous girl - Al Jazeera
-- Here’s what to know about Spirit Airlines shutting down — and what to do if you had a flight with the airline - CNN
-- Warren Buffett's Successor, Greg Abel, Just Perpetuated the Oracle of Omaha's $195 Billion Warning to Wall Street -- and It's Terrible News for Stocks - The Motley Fool
-- He beat Elon Musk in court once. Sam Altman hired him to do it again. - Business Insider
+- How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza - The New York Times
+- Taiwan leader visits Eswatini despite China’s attempts to block trip - Al Jazeera
+- Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News
+- Concern for jailed Iranian Nobel laureate Narges Mohammadi as brother fears she is dying - BBC
+- Spirit Airlines shuts down after two bankruptcies and a failed rescue plan - Axios
+- Greg Abel rules out Berkshire break-up, stresses continuity with Buffett's legacy at annual meeting - CNBC
 - He recorded his quest for tariff refunds. It shows why billions may never get repaid - NPR
-- LG Japan Drops Pre-Order Pricing For Its 5K2K UltraGear OLED, Slashing 21% Off The $2,099 Flagship Before Launch - Wccftech
-- Study: AI models that consider user’s feeling are more likely to make errors - Ars Technica
+- How Google Made Peace With War - Business Insider
+- Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes
+- How the internet’s favorite squirrel dad made the hottest camera app of 2026 - The Verge
