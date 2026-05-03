@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-03 09:05_
+_Updated: 2026-05-03 11:03_
 
 ## Top Stories
 
-- En gripen efter explosion i Malmö - Corren
 - Man död efter skjutning i Norrköping på valborg - SVT Nyheter
+- En gripen efter explosion i Malmö - Corren
 - Direkt – Krisen i Mellanöstern – Källor: Iran vill dela upp frågorna i fredsavtalet - Dagens Nyheter
-- Skogsbrand i Göteborg – räddningstjänsten kommer inte fram med fordonen - GP
-- Indikator: Minskat förtroende för Magdalena Andersson - Omni
-- Oro i Trumps egna led: ”Fel signal till Putin” - Hufvudstadsbladet – HBL
-- Man anhållen efter bränderna på ön - Västerbottens-Kuriren
+- Bil av vägen och ner i å – en allvarligt skadad - GP
+- Svensk satellit uppskjuten – spanar på Ryssland - Aftonbladet
+- Ukraina har anfallit skuggflotta vid rysk hamnstad - Dagens Nyheter
 - Socialarbetaren Namam: Det kan vara din dotter vi räddar från gängen - Dagens Nyheter
-- JUST NU: Här bombar brandhelikoptrarna - NWT
-- Tidöpartiernas löfte: Mer pengar till välfärden – varje år – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Drönare upptäckt i finländskt luftrum - Dagens Nyheter
+- Man anhållen efter bränderna på ön - Västerbottens-Kuriren
+- Gör Valkompassen – se vilket parti som passar dig - GP
+- SMHI: Risk för skogsbrand i sydöstra Götaland under söndagen - SVT Nyheter
+- Trump och Merz i öppen ordväxling – USA kallar hem trupper från Tyskland - SVT Nyheter
+- Drönare i finländskt luftrum: ”Kraftiga smällar” - GP
+- Förenade arabemiraten upphäver flygrestriktioner - Västerbottens-Kuriren
 - Italien stoppar amerikanska bombplan – men MUOS-basen kvar - Sveriges Radio
-- Direkt – Kriget i Ukraina – Ryssland förlorar mark för första gången sedan 2024 - Dagens Nyheter
-- Libanon: Dödliga israeliska attacker - Västerbottens-Kuriren
-- Småspararnas misstag – att sälja USA - Sydsvenskan
-- Nya bolåneregler påverkade inte bopriserna - Dagens industri
+- Småspararnas misstag – att sälja USA - Dagens Nyheter
+- SBAB: Nya bolånereglerna gav små effekter på bopriserna - Omni
 - Spirit Airlines kollapsade: Irankriget sista droppen - Yle
-- ”Flygande bilar” och blixtsnabba batterier: Kinas nya exportvapen - Dagens Nyheter
+- Sverige i världstoppen – här rusar antalet miljardärer snabbast - Dagens PS
 - Fatmir och Jenny hittade kärleken med hjälp av AI - Dagens Nyheter
-- Nattaktiv fågel styrs av månen - Västerbottens-Kuriren
+- Svensken tar över Netflixsuccé – ny stalkerserie - Västerbottens-Kuriren
 
 ## World News
 
 - Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- True Global Ventures två stora milstolpar i portföljen inom 72 timmar i USA - PR Newswire
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Video: Kvinnor i konfliktzoner - World BEYOND War
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - C O R R E C T I O N -- Global Citizen Solutions/ (PR Newswire) - Aktiellt
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -106,7 +106,7 @@ _Updated: 2026-05-03 09:05_
 - Vi presenterar HealthBench - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -121,36 +121,37 @@ _Updated: 2026-05-03 09:05_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Effekten av Conservation Agriculture - Länsstyrelsen
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
@@ -158,7 +159,6 @@ _Updated: 2026-05-03 09:05_
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
