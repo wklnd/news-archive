@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 00:32_
+_Updated: 2026-05-05 01:32_
 
 ## Top Stories
 
-- Bil har kört in i folkmassa – två döda - GP
+- Bil körde in i folkmassa – minst två döda - Västerbottens-Kuriren
 - Zelenskyj utlyser eget dygnslångt eldupphör - Västerbottens-Kuriren
 - Frågan till experterna: Slutet på vapenvilan? – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Beväpnad man skjuten nära Vita huset - Dagens Nyheter
 - Osäkrad granat låg på gatan i Malmö i timmar - Omni
-- Två tonåringar häktade efter valborgsmordet i Norrköping - Sveriges Radio
 - Flera döda av hantavirus – så visar sig symtomen - Dagens Nyheter
 - DN Direkt – Varning för avloppsvatten i kanalen i Malmö - Dagens Nyheter
-- Man rymde från rättspsyk i Vänersborg - SVT Nyheter
-- Sofia Mirjamsdotter: Mjukare ton men lika hårda motsättningar i partiledardebatten - Västerbottens-Kuriren
+- MALIN LERNFELT: Partiledardebatten i SVT: För tyst, för snällt, för tomt - Norran
+- Tonåringar häktas för mord i Norrköping - Västerbottens-Kuriren
 - Trots turerna med Cosmic – Region Stockholm fortsätter som planerat - SVT Nyheter
 - Ryska soldater gick i hackarnas satellitfälla – avslöjade tusentals positioner - Dagens Nyheter
 - Iran: USA måste backa från sina krav - GP
-- ”Bonusprinsen” vill ha fotboja i väntan på dom - HD – Nyheter Dygnet Runt
+- ”Bonusprinsen” vill ha fotboja i väntan på dom - Västerbottens-Kuriren
 - Minst sex dödade i rysk robotattack - Hufvudstadsbladet – HBL
-- Mat har blivit billigare efter sänkt moms - Sveriges Radio
-- CNBC-profilens dödskyss mot Nokia: ”En vinnare – wow” - Omni Ekonomi
+- Matpriskollen: Sänkningen av matmomsen gav lägre priser - Dagens Nyheter
 - SAS ställer in fler avgångar – nya besked om flygbränsle väntas - EFN
-- EU-kommissionen lovar ”vägledning” till flygbolag - Omni
-- Säkerhetshål hotar miljontals sajter – används aktivt av hackare - Computer Sweden
+- CNBC-profilens dödskyss mot Nokia: ”En vinnare – wow” - Omni Ekonomi
+- Den sämsta Trump-affären – hans eget bolag - Dagens PS
 - Ivar visar unika bilder på Bryggvägen: Det finns så mycket mer man kan göra här - bättre stadsdel
+- Säkerhetshål hotar miljontals sajter – används aktivt av hackare - Computer Sweden
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2026-05-05 00:32_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -154,11 +154,11 @@ _Updated: 2026-05-05 00:32_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
