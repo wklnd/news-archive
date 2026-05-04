@@ -1,69 +1,69 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-04 14:09_
+_Updated: 2026-05-04 16:37_
 
 ## Top Stories
 
-- USA lovar att lotsa fartyg ur Hormuzsundet - Dagens Nyheter
-- Tre döda på kryssning efter utbrott av hantavirus - GP
-- Talmannen kallar gruppledarna till extramöte - Västerbottens-Kuriren
+- Tonåringar häktas för mord i Norrköping - Västerbottens-Kuriren
+- DN Direkt – Talmannen kallar till möte efter kvittningsbråk - Dagens Nyheter
+- USA: Två amerikanska fartyg har passerat Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Regeringen ger E-hälsomyndigheten nytt uppdrag om vårdinformationssystem - Regeringen.se
+- Ovanligt virusutbrott: Tre döda på kryssning - GP
+- 15 av 17 friade för klimataktion vid Bromma flygplats - tidningensyre.se
+- Man rymde från rättspsyk i Vänersborg - SVT Nyheter
+- Strul med körkortsprov – 2 000 inställda - Västerbottens-Kuriren
 - Sofia Mirjamsdotter: Mjukare ton men lika hårda motsättningar i partiledardebatten - Västerbottens-Kuriren
-- 55-åring får livstid för grova krigsbrott i Syrien - SVT Nyheter
-- Pojke gripen efter explosion i Tensta - Aftonbladet
-- Två klimataktivister döms efter rödfärg på Bromma flygplats - Dagens Nyheter
-- Strul med körkortsprov – flera ställs in - SVT Nyheter
-- Man har rymt från rättspsyk i Vänersborg - GP
-- Kustbevakningen i Sverige har bordat misstänkt skuggfartyg - Hufvudstadsbladet – HBL
+- Talmannen kallar till sig gruppledarna efter kvittningskaoset – Senaste nytt om valet 2026 - SVT Nyheter
 - Källor: Oro för mordkomplott mot Putin – höjd säkerhet - Dagens Nyheter
-- Iran: USA har svarat på vårt förhandlingsförslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Vildar skapar politisk turbulens i Danmark - Sveriges Radio
+- Iran: USA har svarat på vårt förhandlingsförslag - Västerbottens-Kuriren
+- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
 - Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
-- Matpriskollen: Sänkningen av matmomsen gav lägre priser - Dagens Nyheter
-- Så mycket aktier äger du – egentligen - Dagens Nyheter
-- Konkurserna minskade med 16 procent i april - Dagens Juridik
-- Equinor förlänger leverantörsavtal värda 1,83 miljarder USD för borrtjänster av Investing.com - Investing.com Sverige
-- Kritisk sårbarhet ger rotaccess till Linux-distributioner - Computer Sweden
-- Väntar du på en ny Mac mini? Det kan bli en lång väntan! - Ljud & Bild
+- Mat har blivit billigare efter sänkt moms - Sveriges Radio
+- EU-kommissionen lovar ”vägledning” till flygbolag - Omni
+- Nilörngruppen offentliggör styrelsens uttalande med anledning av offentligt uppköpserbjudande från Trimco Group Uppdaterad - ändring av placering av fotnot 1 i text i engelsk version (GlobeNewswire) - Aktiellt
+- Saab nära Gripen-affär till Ukraina – VD: "Det här året hoppas jag" - Affärsvärlden
+- Ny Windows-uppdatering sabbar backup-funktioner - Computer Sweden
+- Kritisk sårbarhet utgör ett hot mot Linux-användare - PC för Alla
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 19:45 - Tv.nu
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Cameron – smittad av skandalen - Aftonbladet
-- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
-- Gordon Brown avlyssnades också - Yle
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -81,10 +81,10 @@ _Updated: 2026-05-04 14:09_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
@@ -115,7 +115,7 @@ _Updated: 2026-05-04 14:09_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -124,20 +124,20 @@ _Updated: 2026-05-04 14:09_
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
