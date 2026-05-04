@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-04 14:12_
+_Updated: 2026-05-04 16:55_
 
-- Stock Market Today: Oil Jumps After Report of U.S. Navy Ship Being Struck - WSJ
-- Rudy Giuliani in critical condition in hospital - BBC
-- Iran Says Hormuz Navigation Must Coordinate With Its Forces, Warns U.S. Navy - Haaretz
-- In many states, election-denying candidates are running to control voting - NPR
-- Shooting at lake near Oklahoma City leaves at least 13 injured, police and hospital officials say - CBS News
-- Breaking down the redistricting arms race following the Supreme Court's VRA ruling - Politico
-- United jet hits truck and light pole on approach to Newark airport - Reuters
-- ‘The system failed him’: Family identifies man who drove into Multnomah Athletic Club - Oregon Public Broadcasting - OPB
+- What we know about Trump's 'Project Freedom' aimed to help stricken ships leave Strait of Hormuz - BBC
+- U.S. military denies Iran's claim it struck U.S. warship in Strait of Hormuz - CNBC
+- Iran warns US Navy against entering Strait of Hormuz - Financial Times
+- Former NYC Mayor Giuliani in Critical Condition, Trump Says - Bloomberg.com
+- At Least 10 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
 - Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says - NPR
-- The Fifth Circuit would like to run the United States - lawdork.com
-- 2 US service members missing after military exercises in Morocco - NPR
+- United jet hits truck and light pole on approach to Newark airport - Reuters
+- Investigate them or shame them? Inside the debate over how to deal with creeps in Congress - Politico
+- The Free World Is Leaving Trump Behind - The Bulwark
+- After Republicans blocked Indiana redistricting, millions poured in to defeat them - NPR
+- ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time - Al Jazeera
+- Apparent hantavirus outbreak kills 3 on cruise ship, sickens at least 3 more, health officials say - CBS News
 - Poisonous black rain falls in Russia as Ukraine strikes oil facilities - washingtonpost.com
-- Apparent hantavirus outbreak kills 3, sickens at least 3 more on cruise ship, health officials say - CBS News
-- Rubio to Visit Rome, Officials Say, After Trump’s Feud With Pope and Meloni - The New York Times
-- We'll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse - TechCrunch
-- Greg Abel earns solid scorecard from Berkshire shareholders after first annual meeting - CNBC
-- GameStop makes unsolicited $56bn offer for eBay - Financial Times
-- Stock Market Today: Dow, S&P 500 and Nasdaq set to retreat as Iran says it hit U.S. warship; Berkshire Hathaway, GameStop in view - MarketWatch
-- iPhone 18 Pro has broken a four-year curse, leaked image shows - PhoneArena
-- Samsung Galaxy Z Fold 8 Wide: The "Passport" Design That Makes Other Folds Look Ancient - Geeky Gadgets
+- 2 U.S. service members missing after military exercises in Morocco - NPR
+- Shares of eBay take off on a $56 billion buyout bid from GameStop’s Ryan Cohen - AP News
+- Fuel prices didn’t kill Spirit Airlines. Poor management did. - The Boston Globe
+- Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump - CNBC
+- Stock Market Today: Dow Opens Lower, Oil Rises on Fears of Hormuz Escalation — Live Updates - WSJ
+- Apple Held The Line On MacBook Pricing While Microsoft Hiked Surface Prices, But The iPhone 18 Is Where The Streak Reportedly Breaks - Wccftech
+- Samsung Galaxy Z Flip8 to bring crease-free display and new hinge - GSMArena.com news - GSMArena.com
