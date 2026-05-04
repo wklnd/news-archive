@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-04 11:38_
+_Updated: 2026-05-04 14:09_
 
 ## Top Stories
 
-- Efter partiledardebatten: ”Märkliga härskartekniker” - Dagens Nyheter
+- USA lovar att lotsa fartyg ur Hormuzsundet - Dagens Nyheter
 - Tre döda på kryssning efter utbrott av hantavirus - GP
 - Talmannen kallar gruppledarna till extramöte - Västerbottens-Kuriren
+- Sofia Mirjamsdotter: Mjukare ton men lika hårda motsättningar i partiledardebatten - Västerbottens-Kuriren
 - 55-åring får livstid för grova krigsbrott i Syrien - SVT Nyheter
-- Man har rymt från rättspsyk i Vänersborg - Aftonbladet
-- USA lovar att lotsa fartyg ur Hormuzsundet - Dagens Nyheter
-- Strul med körkortsprov – flera ställs in - SVT Nyheter
-- Man åtalas för mord på kvinna i Karlskrona - Västerbottens-Kuriren
+- Pojke gripen efter explosion i Tensta - Aftonbladet
 - Två klimataktivister döms efter rödfärg på Bromma flygplats - Dagens Nyheter
-- Samtalet väckte polisen: 11 år gammalt mord i rätten - GP
-- Hon är efterlyst av svensk polis – DN hittar henne i full färd med att stämma bärplockare - Dagens Nyheter
-- Kriserna följer Starmer: ”Den värsta synden” - GP
+- Strul med körkortsprov – flera ställs in - SVT Nyheter
+- Man har rymt från rättspsyk i Vänersborg - GP
+- Kustbevakningen i Sverige har bordat misstänkt skuggfartyg - Hufvudstadsbladet – HBL
+- Källor: Oro för mordkomplott mot Putin – höjd säkerhet - Dagens Nyheter
+- Iran: USA har svarat på vårt förhandlingsförslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vildar skapar politisk turbulens i Danmark - Sveriges Radio
 - Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
-- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
 - Matpriskollen: Sänkningen av matmomsen gav lägre priser - Dagens Nyheter
-- Fyra röster – samma svar: Teckna Silex IPO – men här är den stora risken - Börskollen
-- Rekordaffären som blev hans livs dyraste: ”Helt fel bedömning” - Affärsvärlden
-- Nu brådskar det – sista dagen i dag - NLT
-- EG7-spelet Far Far West sålt över halv miljon exemplar - DI
-- Novus: Stridsviljan ökar bland unga svenskar - Omni
+- Så mycket aktier äger du – egentligen - Dagens Nyheter
+- Konkurserna minskade med 16 procent i april - Dagens Juridik
+- Equinor förlänger leverantörsavtal värda 1,83 miljarder USD för borrtjänster av Investing.com - Investing.com Sverige
+- Kritisk sårbarhet ger rotaccess till Linux-distributioner - Computer Sweden
+- Väntar du på en ny Mac mini? Det kan bli en lång väntan! - Ljud & Bild
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 19:45 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Cameron – smittad av skandalen - Aftonbladet
+- Prolific invasive plant will spread further as climate changes, warns a new global study - environment.ec.europa.eu
+- Gordon Brown avlyssnades också - Yle
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -96,26 +96,26 @@ _Updated: 2026-05-04 11:38_
 
 ## Health
 
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -124,19 +124,19 @@ _Updated: 2026-05-04 11:38_
 - Olika slutsatser från samma data - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-04 11:38_
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL Nyheter
 - Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
