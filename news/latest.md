@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-04 19:15_
+_Updated: 2026-05-04 21:06_
 
+- Live Updates: U.S. sinks 6 small Iranian boats as Iran launches attacks on UAE and a ship in Strait of Hormuz - CBS News
+- Supreme Court Temporarily Restores Access to Abortion Pill by Mail - The New York Times
+- Trump's power of political retribution will be tested this week in Indiana primary - NPR
+- At least 13 hurt in shooting at Oklahoma campground party - The Guardian
 - What we know about Trump's 'Project Freedom' aimed to help stranded ships through Strait of Hormuz - BBC
-- Supreme Court temporarily restores ability to receive abortion drug mifepristone by mail - CNN
-- U.S. and Iran exchange fire in strait as U.S. attempts to open shipping lane - Axios
-- At Least 23 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
 - Former NYC Mayor Giuliani in Critical Condition, Trump Says - Bloomberg.com
-- Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says - Reuters
-- Did School Cellphone Bans Work? New Study Finds Mixed Results. - The New York Times
 - Future of East Potomac Golf Course in question after lease termination, judge denies request to halt work - WTOP
-- Alabama and Tennessee move to draw new congressional districts in wake of Supreme Court ruling - AP News
+- Man charged in Trump assassination plot told FBI he didn't think he'd survive, feds say - NBC News
+- John Oliver Nails Huge Flaw With Disastrous SCOTUS Ruling - The Daily Beast
 - Louisiana Republicans eliminate elected office won by Democratic exoneree - The Guardian
-- Two killed after car driven into crowd in German city Leipzig, mayor says - BBC
-- ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time - Al Jazeera
-- Kallas: US troop withdrawal ‘comes as a surprise’ - politico.eu
 - Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde - Reuters
-- Shares of eBay take off on a $56 billion buyout bid from GameStop’s Ryan Cohen - AP News
+- Modi’s party takes control of India’s West Bengal in key state election - AP News
+- Leipzig: Two killed after car drives into crowd - DW.com
+- Poisonous black rain falls in Russia as Ukraine strikes oil facilities - The Washington Post
 - How Spirit Airlines' demise will benefit rivals — and raise airfares even more - CNBC
-- Stock Market Today: Dow Slips, Oil Rises on Fears of Hormuz Escalation — Live Updates - WSJ
+- GameStop stock falls after company proposes $56 billion deal for eBay - Yahoo Finance UK
+- Wall Street drops from its records and oil prices jump as uncertainty rises about the Iran war - AP News
 - Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News
-- Hisense aggressively cuts the price of its RGB LED TV on release day - The Verge
-- iOS 26.5 Coming Soon With These New Features - MacRumors
+- Apple highlights 3 enhancements coming to iPhone with iOS 26.5 - 9to5Mac
+- Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Bloomberg.com
