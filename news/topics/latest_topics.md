@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-04 16:37_
+_Updated: 2026-05-04 19:11_
 
 ## Top Stories
 
-- Tonåringar häktas för mord i Norrköping - Västerbottens-Kuriren
+- Experten om Trumps plan för Hormuzsundet: Få fartyg vill vara först ut - GP
+- Körde in i folkmassa – minst två döda - Västerbottens-Kuriren
+- Två tonåringar häktade efter valborgsmordet i Norrköping - Sveriges Radio
 - DN Direkt – Talmannen kallar till möte efter kvittningsbråk - Dagens Nyheter
-- USA: Två amerikanska fartyg har passerat Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Regeringen ger E-hälsomyndigheten nytt uppdrag om vårdinformationssystem - Regeringen.se
-- Ovanligt virusutbrott: Tre döda på kryssning - GP
-- 15 av 17 friade för klimataktion vid Bromma flygplats - tidningensyre.se
-- Man rymde från rättspsyk i Vänersborg - SVT Nyheter
+- Trots turerna med Cosmic – Region Stockholm fortsätter som planerat - SVT Nyheter
+- Källor: Putin allt mer isolerad – Kreml skärper säkerheten - EFN
 - Strul med körkortsprov – 2 000 inställda - Västerbottens-Kuriren
-- Sofia Mirjamsdotter: Mjukare ton men lika hårda motsättningar i partiledardebatten - Västerbottens-Kuriren
+- Insändare. Partiledardebatten blev ett nytt haveri för SVT - Dagens Nyheter
+- Man har rymt från rättspsyk i Vänersborg - GP
 - Talmannen kallar till sig gruppledarna efter kvittningskaoset – Senaste nytt om valet 2026 - SVT Nyheter
-- Källor: Oro för mordkomplott mot Putin – höjd säkerhet - Dagens Nyheter
-- Iran: USA har svarat på vårt förhandlingsförslag - Västerbottens-Kuriren
-- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
-- Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
+- Storbritannien vill vara med på Ukrainas biljonlån - Corren
+- Anna-Lena Laurén: Hur ska Tyskland hinna rusta? - Dagens Nyheter
+- Korruptionsskandalen i Ukraina kryper närmare president Zelenskyj - Sydsvenskan
+- Ovanligt virusutbrott: Tre döda på kryssning - GP
 - Mat har blivit billigare efter sänkt moms - Sveriges Radio
 - EU-kommissionen lovar ”vägledning” till flygbolag - Omni
 - Nilörngruppen offentliggör styrelsens uttalande med anledning av offentligt uppköpserbjudande från Trimco Group Uppdaterad - ändring av placering av fotnot 1 i text i engelsk version (GlobeNewswire) - Aktiellt
-- Saab nära Gripen-affär till Ukraina – VD: "Det här året hoppas jag" - Affärsvärlden
+- Så mycket aktier äger du – egentligen - Dagens Nyheter
 - Ny Windows-uppdatering sabbar backup-funktioner - Computer Sweden
-- Kritisk sårbarhet utgör ett hot mot Linux-användare - PC för Alla
+- Hackare utnyttjar sårbarhet – miljontals sajter i fara - PC för Alla
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
+- Fanatec GT World Challenge Asia, Okayama International Circuit, Japan på ikväll 19:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Polis läckte utredningsdetaljer till News Internationals chef - journalisten.se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Murdoch överväger att sälja brittiska tidningar - journalisten.se
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Latam Insights: Global Pix och Mercado Libre avslutar sitt tokenprojekt - Bitcoin News
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
+- Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
@@ -73,23 +73,23 @@ _Updated: 2026-05-04 16:37_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -144,21 +144,21 @@ _Updated: 2026-05-04 16:37_
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL Nyheter
 - Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
