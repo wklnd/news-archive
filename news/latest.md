@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-04 16:55_
+_Updated: 2026-05-04 19:15_
 
-- What we know about Trump's 'Project Freedom' aimed to help stricken ships leave Strait of Hormuz - BBC
-- U.S. military denies Iran's claim it struck U.S. warship in Strait of Hormuz - CNBC
-- Iran warns US Navy against entering Strait of Hormuz - Financial Times
+- What we know about Trump's 'Project Freedom' aimed to help stranded ships through Strait of Hormuz - BBC
+- Supreme Court temporarily restores ability to receive abortion drug mifepristone by mail - CNN
+- U.S. and Iran exchange fire in strait as U.S. attempts to open shipping lane - Axios
+- At Least 23 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
 - Former NYC Mayor Giuliani in Critical Condition, Trump Says - Bloomberg.com
-- At Least 10 Injured in Shooting at Lakeside Party in Oklahoma - The New York Times
-- Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says - NPR
-- United jet hits truck and light pole on approach to Newark airport - Reuters
-- Investigate them or shame them? Inside the debate over how to deal with creeps in Congress - Politico
-- The Free World Is Leaving Trump Behind - The Bulwark
-- After Republicans blocked Indiana redistricting, millions poured in to defeat them - NPR
+- Iran's Revolutionary Guards unveil new map of Strait of Hormuz under their control, state media says - Reuters
+- Did School Cellphone Bans Work? New Study Finds Mixed Results. - The New York Times
+- Future of East Potomac Golf Course in question after lease termination, judge denies request to halt work - WTOP
+- Alabama and Tennessee move to draw new congressional districts in wake of Supreme Court ruling - AP News
+- Louisiana Republicans eliminate elected office won by Democratic exoneree - The Guardian
+- Two killed after car driven into crowd in German city Leipzig, mayor says - BBC
 - ‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time - Al Jazeera
-- Apparent hantavirus outbreak kills 3 on cruise ship, sickens at least 3 more, health officials say - CBS News
-- Poisonous black rain falls in Russia as Ukraine strikes oil facilities - washingtonpost.com
-- 2 U.S. service members missing after military exercises in Morocco - NPR
+- Kallas: US troop withdrawal ‘comes as a surprise’ - politico.eu
+- Evacuations planned as suspected hantavirus outbreak traps 150 on ship off Cape Verde - Reuters
 - Shares of eBay take off on a $56 billion buyout bid from GameStop’s Ryan Cohen - AP News
-- Fuel prices didn’t kill Spirit Airlines. Poor management did. - The Boston Globe
-- Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump - CNBC
-- Stock Market Today: Dow Opens Lower, Oil Rises on Fears of Hormuz Escalation — Live Updates - WSJ
-- Apple Held The Line On MacBook Pricing While Microsoft Hiked Surface Prices, But The iPhone 18 Is Where The Streak Reportedly Breaks - Wccftech
-- Samsung Galaxy Z Flip8 to bring crease-free display and new hinge - GSMArena.com news - GSMArena.com
+- How Spirit Airlines' demise will benefit rivals — and raise airfares even more - CNBC
+- Stock Market Today: Dow Slips, Oil Rises on Fears of Hormuz Escalation — Live Updates - WSJ
+- Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News
+- Hisense aggressively cuts the price of its RGB LED TV on release day - The Verge
+- iOS 26.5 Coming Soon With These New Features - MacRumors
