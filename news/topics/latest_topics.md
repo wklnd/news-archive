@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-04 09:34_
+_Updated: 2026-05-04 11:38_
 
 ## Top Stories
 
-- Tre döda på kryssning efter misstänkt virusutbrott - GP
 - Efter partiledardebatten: ”Märkliga härskartekniker” - Dagens Nyheter
-- Cecila Garme: Ebba Busch vann debatten - Fokus - Sveriges nyhetsmagasin
-- Man åtalas för misstänkta mordet på kvinna i Galgamarken - Sveriges Radio
-- Amsaterdam förbjuder reklam för kött och fossila bränslen - Dagens PS
-- Hon är efterlyst av svensk polis – DN hittar henne i full färd med att stämma bärplockare - Dagens Nyheter
-- Samtalet väckte polisen: 11 år gammalt mord i rätten - Västerbottens-Kuriren
-- DN Direkt – Explosion vid bostadshus i Södertälje - Dagens Nyheter
-- Två tonåringar misstänkta för mordet i Marielund - NT
-- Amelie, 80, är klimataktivist: ”Fler pensionärer borde” - Aftonbladet
+- Tre döda på kryssning efter utbrott av hantavirus - GP
+- Talmannen kallar gruppledarna till extramöte - Västerbottens-Kuriren
+- 55-åring får livstid för grova krigsbrott i Syrien - SVT Nyheter
+- Man har rymt från rättspsyk i Vänersborg - Aftonbladet
 - USA lovar att lotsa fartyg ur Hormuzsundet - Dagens Nyheter
-- Exborgmästaren Giuliani på sjukhus: Kritiskt läge - Västerbottens-Kuriren
-- Labour riskerar stor förlust i Wales – efter 100 år av dominans - Sveriges Radio
-- Iran: USA har svarat på vårt förhandlingsförslag - Västerbottens-Kuriren
-- Matpriserna faller – kaffet sticker ut - Tidningen Näringslivet
-- Nu brådskar det – sista dagen i dag - sla.se
-- Selins sista drag – nu släpper Balder kritiserade innehavet - EFN
+- Strul med körkortsprov – flera ställs in - SVT Nyheter
+- Man åtalas för mord på kvinna i Karlskrona - Västerbottens-Kuriren
+- Två klimataktivister döms efter rödfärg på Bromma flygplats - Dagens Nyheter
+- Samtalet väckte polisen: 11 år gammalt mord i rätten - GP
+- Hon är efterlyst av svensk polis – DN hittar henne i full färd med att stämma bärplockare - Dagens Nyheter
+- Kriserna följer Starmer: ”Den värsta synden” - GP
+- Nya ukrainska attacker mot ryska fartyg - Västerbottens-Kuriren
+- Zelenskyj föreslår drönarsamarbete med Finland - Hufvudstadsbladet – HBL
+- Matpriskollen: Sänkningen av matmomsen gav lägre priser - Dagens Nyheter
+- Fyra röster – samma svar: Teckna Silex IPO – men här är den stora risken - Börskollen
 - Rekordaffären som blev hans livs dyraste: ”Helt fel bedömning” - Affärsvärlden
-- HoMM: Olden Era säljer en kvarts miljon – hyllas på Steam - FZ.se
+- Nu brådskar det – sista dagen i dag - NLT
 - EG7-spelet Far Far West sålt över halv miljon exemplar - DI
+- Novus: Stridsviljan ökar bland unga svenskar - Omni
 
 ## World News
 
+- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Förvaltarbyte i Brobacke Global Allokering - beQuoted
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
