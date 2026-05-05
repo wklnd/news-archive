@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 19:05_
+_Updated: 2026-05-05 20:54_
 
 ## Top Stories
 
+- Karlsson efter VM-skadan: ”Nu är det kört” - Västerbottens-Kuriren
 - Expert: Skogstokiga utspel om Hormuzsundet från både USA och Iran - Dagens Nyheter
-- MP lägger fram krav: Omröstning måste tas om - Västerbottens-Kuriren
-- Poya Shafie i centrum av Sundsvalls gängkonflikt – åtalas för flera grova brott - SVT Nyheter
-- Hiss föll nio våningar: ”Monterade en dödsfälla” - Aftonbladet
-- Bokslut över Tidöavtalet - Liberalerna
-- En gripen av Säpo – hemligt ärende - Expressen
-- Nya rekommendationer om vaccination mot TBE - Folkhälsomyndigheten
-- Experten Jörgen Holmlunds oro – kring ny svensk underrättelsetjänst - GP
+- MP lägger fram krav: Omröstning måste tas om - GP
+- Gripande vittnesmål från hissolyckan: "Otroligt skakande" - Byggnadsarbetaren
+- Misstänkt farligt föremål i vattnet i Göteborg - Aftonbladet
+- Umeå universitet kan ha utsatts för dataläcka - SVT Nyheter
 - Brand på soptipp i Karlskrona - SVT Nyheter
-- Skärmflygare kraschat i Vättern – stor insats - Västerbottens-Kuriren
+- Skärmflygare som kraschlandade i Vättern har tagits upp ur vattnet - SVT Nyheter
+- Skolmat säljs till personal – Lund testar ”klimatlåda” mot matsvinn - Dagens Nyheter
+- Man begärs häktad efter brand på Essingen - Västerbottens-Kuriren
 - Spanien tar emot virusdrabbat kryssningsfartyg - GP
-- Svensk aktivist hålls kvar i fängelse - Västerbottens-Kuriren
-- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
+- Rapport: Putin i bunkern – fruktar mord och kupp - GP
 - Direkt – Krisen i Mellanöstern – Trump: Iran borde vifta med den vita flaggan - Dagens Nyheter
+- Jätteraffinaderi nära S:t Petersburg i brand - Västerbottens-Kuriren
 - Kinneviks årsstämma 2026 (MFN) - Aktiellt
-- Branschmedia: SAS ställer in nära 1 200 flygningar - Omni
-- Kryptoskandal utlöste storbråk i Polens politiska ledning - Dagens PS
-- Vinstökning i motvind för Ferrari - Västerbottens-Kuriren
+- Affärsvärlden sätter ett köpråd för VBG - Börsvärlden
+- Premium Snacks vd säger upp sig – lämnar efter stark utveckling - food-supply.se
+- Man utgav sig för att företräda finansfamilj – lurade miljardärer - Dagens PS
 - Meddelanden mellan IOS och Android får kryptering - Computer Sweden
-- Hajpad handkontroll sålde slut på 30 minuter – kraschade Steam - MovieZine
+- GTA-vd:n om hajpade släppet: ”Skrämmande” - Omni
 
 ## World News
 
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- S&P Global: USA:s kombinerade PMI lägre än preliminär siffra - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global Insights Press Release for Global - Cision News
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
-- Global uppvärmning ökar antibiotikaresistensgener i marken med 24 %. - Vietnam.vn
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- VNV Global minskade substansvärdet (uppdatering) (Finwire News) - Aktiellt
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -99,20 +99,20 @@ _Updated: 2026-05-05 19:05_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
@@ -136,9 +136,9 @@ _Updated: 2026-05-05 19:05_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
