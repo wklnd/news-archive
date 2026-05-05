@@ -1,40 +1,41 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 11:28_
+_Updated: 2026-05-05 13:01_
 
 ## Top Stories
 
-- Ikea stänger varuhus i Sverige – första gången på 40 år - EFN
-- Ny underrättelsetjänst ska vara klar 2027 - GP
-- Två bekräftade fall av hantavirus - Västerbottens-Kuriren
+- Sverige får ny underrättelsetjänst: Liknar MI6 - Västerbottens-Kuriren
+- Spanien tar emot virusdrabbat kryssningsfartyg - Västerbottens-Kuriren
+- Uppgifter: Man i 35-årsåldern misstänks för Essingebränder - Aftonbladet
+- Svensk aktivist hålls kvar i fängelse - Västerbottens-Kuriren
 - Leksaker plockas bort efter asbestlarm - SVT Nyheter
-- Sommaren har kommit till Östergötland - Corren
-- Meteorologisk sommar i stora delar av södra Sverige - Omni
-- Gängtopp åtalas för flera dåd - SVT Nyheter
-- Skolplattformen Canvas hackad – studenters uppgifter kan ha läckt - VF
-- Vill ha din hjälp med sjuka igelkottar - Västerbottens-Kuriren
-- Hiss föll nio våningar: ”Monterade en dödsfälla” - Dagens Nyheter
-- Experten om Trumps plan för Hormuzsundet: Få fartyg vill vara först ut - GP
-- Jätteraffinaderi nära S:t Petersburg i brand - Västerbottens-Kuriren
-- Zelenskyj utlyser eget dygnslångt eldupphör - Corren
-- Kreml kräver tillbaka nordkoreanska krigsfångar - Dagens Nyheter
 - Liberalerna: skattefritt ISK-sparande upp till 500.000 kronor - Liberalerna
+- Hiss föll nio våningar: ”Monterade en dödsfälla” - Corren
+- Gängtoppen Poya Shafie åtalas för flera dåd - SVT Nyheter
+- Vill ha din hjälp med sjuka igelkottar - Västerbottens-Kuriren
+- Meteorologisk sommar är här – men inte i Göteborg - GP
+- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
+- Direkt – Krisen i Mellanöstern – Fem döda när USA attackerade småbåtar i Hormuz - Dagens Nyheter
+- Kreml kräver tillbaka nordkoreanska krigsfångar - Dagens Nyheter
+- Zelenskyj utlyser eget dygnslångt eldupphör - Corren
+- Svantesson: Kommissionen sa ja till sänkt bränsleskatt - Omni
 - Kursen har kraschat – men Kinneviks petade vd Georgi Ganev fick 26 miljoner - Breakit
-- Miljardbantning väntas för Novo Nordisk - Sydsvenskan
-- Hjälp jag har köpt en skog: “Vet inte vad avkastningen är” - Affärsvärlden
-- Tidigare dömd advokat frias av hovrätten för ekobrott - Dagens Juridik
-- Stort test: Surfplattorna som ersätter din laptop - PC för Alla
+- Rusning efter ettor sedan ändrade bolåneregler - DI
+- Sluta spara till pensionen – råder Musk - Dagens PS
+- Meddelanden mellan IOS och Android får kryptering - Computer Sweden
+- Gala i ladugård när företagare firas - Ljusdals-Posten
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
@@ -46,7 +47,6 @@ _Updated: 2026-05-05 11:28_
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
 
 ## Technology
 
@@ -98,23 +98,23 @@ _Updated: 2026-05-05 11:28_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
