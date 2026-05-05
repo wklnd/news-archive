@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-05 13:04_
+_Updated: 2026-05-05 14:52_
 
-- What we know about Trump's 'Project Freedom' in Strait of Hormuz - BBC
-- Primary elections in Ohio, Indiana offer latest temperature check on Trump popularity - NPR
-- Gunfire between Secret Service and armed person briefly locks down White House - The Washington Post
-- Supreme Court lets Louisiana redistricting ruling take effect immediately, sparking angry words between Alito and Jackson - CBS News
+- U.S. attempt to open Strait of Hormuz tests fragile Iran war ceasefire - NPR
+- It's showtime for Trump's revenge tour. Will he win? - Politico
 - ‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera
-- Judge 'disturbed' over treatment of Trump gala shooting suspect - Reuters
-- Cornell’s Jewish president clashes with students following on-campus debate about Israel - The Jerusalem Post
+- Abortion pill rulings cause whiplash and confusion - Axios
+- US Secret Service shoots gunman near White House - Al Jazeera
+- Supreme Court clears path for Louisiana to redraw map in redistricting fight - The Washington Post
 - Man Accused of Starting Palisades Fire Admired Luigi Mangione, Prosecutors Say - The New York Times
-- 1,500 Beagles From Ridglan Farms in Wisconsin Are Getting New Homes - The New York Times
+- 1,500 beagles rescued from troubled Ridglan Farms after animal activists stormed Wisconsin research facility - New York Post
+- Can Ken Paxton Win a Senate Primary in Texas Without His Biggest Donors? - The New York Times
 - Education Department opens probe into Smith College for admitting trans women - Politico
-- An explosion at a fireworks plant in China kills at least 26 people and injures dozens of others - AP News
-- How Germany’s Merz torpedoed his plan to contain Trump - Financial Times
 - Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)
-- Australia hikes rates again and warns inflation will stay higher for longer - CNBC
-- JetBlue Steps in to Help Stranded Spirit Customers with $99 Rescue Fares, Announces Plans to Add 11 Destinations From Fort Lauderdale - news.jetblue.com
+- An explosion at a fireworks plant in China kills at least 26 people and injures dozens of others - AP News
+- Romanian government collapses after no-confidence vote - Reuters
+- Berlin faces missile gap after Trump’s troop cuts - politico.eu
+- Coinbase cuts headcount by 14% citing AI acceleration. The shares are gaining - CNBC
+- New frontier of AI forces Trump's heavy hand - Axios
+- HSBC Profit Misses on Charges Related to the UK, Middle East - Bloomberg.com
 - World shares mixed and oil prices retreat after the latest flare in Iran tensions - AP News
-- GameStop shares fall 10% after CEO skirts questions over eBay acquisition details - The Guardian
-- Trump considering federal AI model oversight - Mashable
-- LG Display has a 27-inch 5K OLED screen. - The Verge
-- This Company Has Figured Out a Way to Make Face ID Invisible - WIRED
+- Why Reddit blocked my daily visit to its mobile website - Ars Technica
+- Report: iPhone 17 ranked as world’s top-selling smartphone in Q1 2026 - 9to5Mac
