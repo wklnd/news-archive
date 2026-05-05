@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-05 20:56_
+_Updated: 2026-05-05 22:43_
 
-- Live updates: US affirms ceasefire with Iran is still in effect despite rising tensions in Strait of Hormuz - CNN
-- These 7 Primary Elections Will Test President Trump’s Power in Indiana - The New York Times
-- Trump ballroom project security funding included in $72B GOP enforcement bill - Politico
-- ‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera
+- Live Updates: Iran ceasefire holding for now, Hegseth says, after Iran attacks UAE, ships in Strait of Hormuz - CBS News
+- GOP offers $1B for White House security, sparking dispute over ballroom - The Washington Post
+- What to watch in Tuesday's elections: Trump seeks payback against Republicans who opposed him - NBC News
+- 2 dead, 3 injured after shooting at Carrollton Koreatown shopping center; suspect in custody, police say - CBS News
 - These cities waited for snow all winter. Now several inches will fall in May. - The Washington Post
-- ICE is giving local police big money to help with immigration enforcement - NPR
-- Trump accuses pope of ‘endangering a lot of Catholics’ with Iran stance - The Guardian
-- Prosecutors say arson suspect in Los Angeles' Palisades Fire was angry 'at the world' - NBC News
-- 16 days from momentum to meltdown in Canada-US trade talks - Politico
-- Officials in Tennessee continue search for veteran accused of shooting wife - NBC News
-- Explosion at fireworks factory in China kills 26, injures 61 - Al Jazeera
+- Damning Intel Leak Reveals How Trump Is Failing in His Main War Mission - The Daily Beast
+- Trump keeps changing his timeline for ending the Iran war - The Washington Post
+- In Lynette Hooker probe, Coast Guard seeks information about mystery sailboat - CBS News
+- If the abortion pill mifepristone can't be sent by mail, providers have a plan - NBC News
+- Texas man wounded after allegedly shooting at Secret Service near Washington Monument - WTOP
+- Cruise ship waits for help after suspected outbreak of rare hantavirus kills 3 - NewsNation
+- An explosion at a fireworks plant in China kills at least 26 people and injures dozens of others - AP News
 - Counter-terror investigation into synagogue fire - BBC
-- Alberta separatists say they have enough signatures for referendum on leaving Canada - Fox News
-- Major city bans ads for meat, fossil fuels in sweeping crackdown critics call overreach - Fox News
-- Are the Democrats Really to Blame for the Death of Spirit Airlines? - Slate
-- Trump Administration Will Test New AI Models From Google, Microsoft And XAI Before Release Under New Deal - Forbes
-- Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring - Reuters
-- Two million airline seats cut amid soaring jet fuel prices - The Guardian
+- Romanian government collapses after no-confidence vote - Reuters
+- Billionaire Ken Griffin’s Citadel and Ares Management just killed Trump’s $500 million plan to save Spirit Airlines - Yahoo Finance
+- The Iran war sent jet fuel prices sky-high. Here's what air travelers should know - NPR
+- Vornado C.E.O. Blasts Mamdani’s Tax-the-Rich Approach in Earnings Call - The New York Times
+- AMD Reports First Quarter 2026 Financial Results - AMD
 - Bose Challenges Sonos with $299 Alexa+ Speaker and $1,099 Soundbar - Bloomberg.com
-- Rockstar should raise GTA 6’s price for good of ‘the entire industry’, says Bank of America - Video Games Chronicle
+- GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN
