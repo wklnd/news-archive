@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-05 03:17_
+_Updated: 2026-05-05 06:47_
 
-- Live Updates: U.S. sinks 7 small Iranian boats as Iran launches attacks on UAE and ships in Strait of Hormuz - CBS News
-- Trump Administration Live Updates: Bystander Hit in Secret Service-Involved Shooting - The New York Times
-- White House Considers Vetting A.I. Models Before They Are Released - The New York Times
+- Attacks in Strait of Hormuz, Gulf region imperil fragile U.S.-Iran ceasefire - The Washington Post
+- Secret Service Shoots and Wounds Armed Man Near Washington Monument - The New York Times
+- Supreme Court clears way for Louisiana to redistrict ahead of midterms - Politico
 - AP, Washington Post, Reuters and Minnesota Star Tribune among Pulitzer winners for 2025 work - AP News
-- Democrats launch New York counteroffensive following flood of GOP gerrymanders - Democracy Docket
-- Supreme Court restores access to abortion pill by mail for now - The Washington Post
-- Appeals Court Blocks Ex-Prisoner From Taking Office in New Orleans - The New York Times
-- At least 13 hurt in shooting at Oklahoma campground party - The Guardian
-- ‘They’re spinning’: Republicans, grappling with midterm anxiety, go negative - Politico
-- Judge says he's "very troubled" by accused White House Correspondents' Dinner gunman's treatment in jail - CBS News
-- Trump threatens to pull troops from Germany. Why Europe isn’t panicking. - The Christian Science Monitor
-- What to know about hantavirus, the illness suspected in a cruise ship outbreak - AP News
-- Leipzig, Germany, Car Ramming Attack Kills 2 - The New York Times
+- Putin, Zelenskiy proclaim rival ceasefires around Russia's Victory day commemorations - Reuters
+- Soil at D.C. Golf Course Where East Wing Debris Was Dumped Contains Toxic Metals - The New York Times
+- 1,500 Beagles From Ridglan Farms in Wisconsin Are Getting New Homes - The New York Times
+- Supreme Court restores access to abortion pill mifepristone through telehealth, mail and pharmacies - ABC7 Los Angeles
+- Louisiana Republicans eliminate elected office won by Democratic exoneree - The Guardian
+- Mamdani had these words for former NYC Mayor Rudy Giuliani, who remains hospitalized in Fla. - SILive.com
+- What to know about the US military presence in Europe as Trump seeks drawdown of thousands of troops - AP News
+- Keir Starmer to host Downing Street summit to address antisemitism - BBC
 - 1 missing U.S. soldier jumped into water to try to save another, search continues in Morocco, officials say - CBS News
+- They boarded a luxury Antarctic cruise. Then hantavirus took a deadly toll - Los Angeles Times
+- 91 Jets Across 26 Airports: Inside Spirit Airlines’ Ferry Flights & Who’s Flying Them - Simple Flying
 - GameStop shares fall 10% after CEO skirts questions over eBay acquisition details - The Guardian
-- Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway' - CNBC
-- Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion - The New York Times
-- Doris Fisher, co-founder of iconic Gap chain, dies at 94 - ABC News - Breaking News, Latest News and Videos
-- US PlayStation players could be due payout as court agrees class-action settlement of $7.8 million - Eurogamer.net
-- Galaxy S27 Ultra could bring major camera changes - SamMobile
+- US crude eases more than 1%, traders weigh supply risks - Reuters
+- Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race - TechCrunch
+- What to Know About Sony’s $7.85 Million PlayStation Settlement - WIRED
+- Google’s new face unlock hardware reportedly not debuting in Pixel 11 after all - 9to5Google
