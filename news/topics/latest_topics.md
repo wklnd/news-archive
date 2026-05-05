@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 14:47_
+_Updated: 2026-05-05 19:05_
 
 ## Top Stories
 
-- MP lägger fram krav: Ta om omröstning - Västerbottens-Kuriren
-- DN Direkt – Man begärs häktad misstänkt för mordbrand på Stora Essingen - Dagens Nyheter
+- Expert: Skogstokiga utspel om Hormuzsundet från både USA och Iran - Dagens Nyheter
+- MP lägger fram krav: Omröstning måste tas om - Västerbottens-Kuriren
+- Poya Shafie i centrum av Sundsvalls gängkonflikt – åtalas för flera grova brott - SVT Nyheter
+- Hiss föll nio våningar: ”Monterade en dödsfälla” - Aftonbladet
+- Bokslut över Tidöavtalet - Liberalerna
+- En gripen av Säpo – hemligt ärende - Expressen
+- Nya rekommendationer om vaccination mot TBE - Folkhälsomyndigheten
 - Experten Jörgen Holmlunds oro – kring ny svensk underrättelsetjänst - GP
-- 05 maj 11.09, Mord/dråp, försök, Karlskoga - polisen.se
-- Analys: Trump riskerar allt när han försöker ta sig ur fällan i Hormuz - Omni
-- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
-- Gängtoppen Poya Shafie åtalas för flera dåd - SVT Nyheter
-- Vill ha din hjälp med sjuka igelkottar - Västerbottens-Kuriren
-- Meteorologisk sommar är här – men inte i Göteborg - GP
-- Svantesson: EU-kommissionen godkänner sänkta bränsleskatter – Senaste nytt om valet 2026 - SVT Nyheter
-- Svensk aktivist hålls kvar i fängelse - Västerbottens-Kuriren
+- Brand på soptipp i Karlskrona - SVT Nyheter
+- Skärmflygare kraschat i Vättern – stor insats - Västerbottens-Kuriren
 - Spanien tar emot virusdrabbat kryssningsfartyg - GP
-- Efter attacken på Bondi Beach – australiska judar vittnar - Sveriges Radio
-- Kreml kräver tillbaka nordkoreanska krigsfångar - Dagens Nyheter
-- Liberalerna: skattefritt ISK-sparande upp till 500.000 kronor - Liberalerna
-- Svantesson: Ja från EU om sänkt bränsleskatt - ETC.se
-- Novo Nordisk väntas redovisa 29 miljarder danska kronor i rörelseresultat - Bloomberg - Börsvärlden
-- Nya bolåneregler välkomnas brett – men flera partier vill gå längre - Bostadspolitik
-- Test: Chipolo Pop, Chipolo Loop, Chipolo Card – Spårningstaggar som kan mer - mobil.se
-- Test: Billig Android-platta för dig som ritar mycket - m3.se
+- Svensk aktivist hålls kvar i fängelse - Västerbottens-Kuriren
+- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
+- Direkt – Krisen i Mellanöstern – Trump: Iran borde vifta med den vita flaggan - Dagens Nyheter
+- Kinneviks årsstämma 2026 (MFN) - Aktiellt
+- Branschmedia: SAS ställer in nära 1 200 flygningar - Omni
+- Kryptoskandal utlöste storbråk i Polens politiska ledning - Dagens PS
+- Vinstökning i motvind för Ferrari - Västerbottens-Kuriren
+- Meddelanden mellan IOS och Android får kryptering - Computer Sweden
+- Hajpad handkontroll sålde slut på 30 minuter – kraschade Steam - MovieZine
 
 ## World News
 
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Global Insights Press Release for Global - Cision News
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
+- Global uppvärmning ökar antibiotikaresistensgener i marken med 24 %. - Vietnam.vn
 
 ## Technology
 
@@ -75,21 +75,21 @@ _Updated: 2026-05-05 14:47_
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -99,20 +99,20 @@ _Updated: 2026-05-05 14:47_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
@@ -135,10 +135,10 @@ _Updated: 2026-05-05 14:47_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2026-05-05 14:47_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
