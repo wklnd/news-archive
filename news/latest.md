@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-05 09:33_
+_Updated: 2026-05-05 11:31_
 
 - Live Updates: U.S. sinks 7 small Iranian boats as Iran launches attacks on UAE and ships in Strait of Hormuz - CBS News
-- Supreme Court clears path for Louisiana to redraw map in redistricting fight - The Washington Post
-- Man wounded after allegedly shooting at Secret Service near White House, bystander struck - WTOP
-- AP, Washington Post, Reuters and Minnesota Star Tribune among Pulitzer winners for 2025 work - Politico
+- Gunfire between Secret Service and armed person briefly locks down White House - The Washington Post
+- Supreme Court clears way for Louisiana to redistrict ahead of midterms - Politico
+- ‘Dangerous escalation’: World condemns Iran after attacks on UAE - Al Jazeera
 - Trump Tries to Downplay Economic Effects of the Iran War - The New York Times
-- Judge ‘disturbed’ over ‘legally deficient’ treatment of Trump gala shooting suspect - The Guardian
+- Here are the 2026 Pulitzer Prize winners - NPR
+- Trump’s retribution? What to watch in Tuesday’s elections in Indiana, Ohio and Michigan - AP News
+- Anti-Israel students surround car of Cornell president, claim he tried to run them over - The Times of Israel
 - 1,500 Beagles From Ridglan Farms in Wisconsin Are Getting New Homes - The New York Times
-- Department of Education opens investigation into Smith College for admitting trans women - CNN
-- Supreme Court restores access to abortion pill mifepristone through telehealth, mail and pharmacies - ABC7 Los Angeles
 - Man Accused of Starting Palisades Fire Admired Luigi Mangione, Prosecutors Say - The New York Times
-- Blast at fireworks factory in China's Hunan kills 21, Xi calls for probe, state media says - Reuters
-- What to know about hantavirus, the illness suspected in a cruise ship outbreak - AP News
-- Trump threatens to pull troops from Germany. Why Europe isn’t panicking. - The Christian Science Monitor
-- Keir Starmer to host Downing Street summit to address antisemitism - BBC
-- 91 Jets Across 26 Airports: Inside Spirit Airlines’ Ferry Flights & Who’s Flying Them - Simple Flying
+- What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship - The New York Times
+- An explosion at a fireworks plant in China kills at least 26 people and injures dozens of others - AP News
+- How Germany’s Merz torpedoed his plan to contain Trump - Financial Times
+- Leipzig: 2 killed after car drives into crowd - DW.com
+- Late Night Laments Losing Spirit Airlines as a Punchline - The New York Times
+- Asian shares slip and oil prices retreat from latest flare in Iran tensions - AP News
 - GameStop shares fall 10% after CEO skirts questions over eBay acquisition details - The Guardian
-- Shares slide, oil prices elevated as U.S.-Iran truce prospects dim - CNBC
-- Paramount Making “Great Progress” on Warner Bros. Buy, Reaffirms Deal Close Timing - The Hollywood Reporter
-- What to Know About Sony’s $7.85 Million PlayStation Settlement - WIRED
-- Sold Out? Gamers Struggle to Buy New Steam Controller, Urge Valve to Fix Its Site - PCMag
+- Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race - TechCrunch
+- "Notepad++ for Mac" release is disavowed by the creator of the original - Ars Technica
+- This Company Has Figured Out a Way to Make Face ID Invisible - WIRED
