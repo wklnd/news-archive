@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 09:31_
+_Updated: 2026-05-05 11:28_
 
 ## Top Stories
 
+- Ikea stänger varuhus i Sverige – första gången på 40 år - EFN
+- Ny underrättelsetjänst ska vara klar 2027 - GP
+- Två bekräftade fall av hantavirus - Västerbottens-Kuriren
 - Leksaker plockas bort efter asbestlarm - SVT Nyheter
-- Glädjebesked: Sommaren är här i södra Sverige - Aftonbladet
-- Länder manar till nedtrappning i Mellanöstern - Dagens Nyheter
-- Flera döda i explosion i kolgruva i Colombia - Västerbottens-Kuriren
-- Amerikansk general: Trump har målat in sig i ett hörn - Dagens Nyheter
-- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
-- Hiss föll nio våningar: ”Monterade en dödsfälla” - Västerbottens-Kuriren
-- Vill ha din hjälp med sjuka igelkottar - GP
-- Framgång för MP: ”Kanske för att vi inte synts så mycket” - Dagens Nyheter
-- Skattesänkning på investeringssparkonton gynnar rika mest - Sveriges Radio
-- DN Direkt – 20-tal döda i explosion på fyrverkerifabrik - Dagens Nyheter
-- Zelenskyj om kort eldupphör: Visar på svaghet - GP
-- Akut brist på arbetskraft i Tyskland - Sveriges Radio
-- EU-topp: Behöver mer självständigt Europa - Västerbottens-Kuriren
-- Lättade bolåneregler – rusning efter ettor - Västerbottens-Kuriren
+- Sommaren har kommit till Östergötland - Corren
+- Meteorologisk sommar i stora delar av södra Sverige - Omni
+- Gängtopp åtalas för flera dåd - SVT Nyheter
+- Skolplattformen Canvas hackad – studenters uppgifter kan ha läckt - VF
+- Vill ha din hjälp med sjuka igelkottar - Västerbottens-Kuriren
+- Hiss föll nio våningar: ”Monterade en dödsfälla” - Dagens Nyheter
+- Experten om Trumps plan för Hormuzsundet: Få fartyg vill vara först ut - GP
+- Jätteraffinaderi nära S:t Petersburg i brand - Västerbottens-Kuriren
+- Zelenskyj utlyser eget dygnslångt eldupphör - Corren
+- Kreml kräver tillbaka nordkoreanska krigsfångar - Dagens Nyheter
+- Liberalerna: skattefritt ISK-sparande upp till 500.000 kronor - Liberalerna
+- Kursen har kraschat – men Kinneviks petade vd Georgi Ganev fick 26 miljoner - Breakit
+- Miljardbantning väntas för Novo Nordisk - Sydsvenskan
 - Hjälp jag har köpt en skog: “Vet inte vad avkastningen är” - Affärsvärlden
-- Så exponerad är din plånbok mot börsen – utan att du själv valt det - Dagens PS
-- Efter Kinneviks ras på börsen – här är 6 svenska investmentbolag med liknande modell - Börskollen
-- Flera Kalmarkrogar bygger ut nattlivet: ”Hungriga efter fest” - SVT Nyheter
+- Tidigare dömd advokat frias av hovrätten för ekobrott - Dagens Juridik
 - Stort test: Surfplattorna som ersätter din laptop - PC för Alla
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -41,27 +42,26 @@ _Updated: 2026-05-05 09:31_
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- VNV Global minskade substansvärdet (uppdatering) (Finwire News) - Aktiellt
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -88,34 +88,34 @@ _Updated: 2026-05-05 09:31_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-05 09:31_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL.nu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
