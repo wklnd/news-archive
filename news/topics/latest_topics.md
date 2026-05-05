@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 06:42_
+_Updated: 2026-05-05 09:31_
 
 ## Top Stories
 
-- Temperaturen i Hormuzsundet stiger – vapenvilan kan brytas - Dagens Nyheter
-- Person skjuten av Secret Service nära Vita huset - SVT Nyheter
-- Med sex som drog: ”Jag har ju skadat min kropp” - Sydsvenskan
-- Zelenskyj utlyser eget dygnslångt eldupphör - Västerbottens-Kuriren
+- Leksaker plockas bort efter asbestlarm - SVT Nyheter
+- Glädjebesked: Sommaren är här i södra Sverige - Aftonbladet
+- Länder manar till nedtrappning i Mellanöstern - Dagens Nyheter
 - Flera döda i explosion i kolgruva i Colombia - Västerbottens-Kuriren
-- MALIN LERNFELT: Partiledardebatten i SVT: För tyst, för snällt, för tomt - Norran
-- Framgång för MP: ”Kanske för att vi inte synts så mycket” - Dagens Nyheter
-- M-politiker polisanmäls – tar timeout från alla uppdrag - Horisont magasin
-- Tonåringar häktas för mord i Norrköping - Västerbottens-Kuriren
-- Trots turerna med Cosmic – Region Stockholm fortsätter som planerat - SVT Nyheter
-- Explosion på fyrverkerifabrik i Kina – över 20 döda - SVT Nyheter
-- Akut brist på arbetskraft i Tyskland - Sveriges Radio
 - Amerikansk general: Trump har målat in sig i ett hörn - Dagens Nyheter
-- Minst sex dödade i rysk robotattack - Hufvudstadsbladet – HBL
-- Musk går med på uppgörelse: ”Mindre bot" - Aftonbladet
-- Debatt: Flygbränsle är bara början - Fryksdalsbygden
-- Liberalerna: En halv miljon ska vara skattefritt på ISK - Sveriges Radio
-- Studie: AI mer träffsäker än läkare vid akuta diagnoser - Computer Sweden
+- Jätteraffinaderi nära S:t Petersburg i brand - Hufvudstadsbladet – HBL
+- Hiss föll nio våningar: ”Monterade en dödsfälla” - Västerbottens-Kuriren
+- Vill ha din hjälp med sjuka igelkottar - GP
+- Framgång för MP: ”Kanske för att vi inte synts så mycket” - Dagens Nyheter
+- Skattesänkning på investeringssparkonton gynnar rika mest - Sveriges Radio
+- DN Direkt – 20-tal döda i explosion på fyrverkerifabrik - Dagens Nyheter
+- Zelenskyj om kort eldupphör: Visar på svaghet - GP
+- Akut brist på arbetskraft i Tyskland - Sveriges Radio
+- EU-topp: Behöver mer självständigt Europa - Västerbottens-Kuriren
+- Lättade bolåneregler – rusning efter ettor - Västerbottens-Kuriren
+- Hjälp jag har köpt en skog: “Vet inte vad avkastningen är” - Affärsvärlden
+- Så exponerad är din plånbok mot börsen – utan att du själv valt det - Dagens PS
+- Efter Kinneviks ras på börsen – här är 6 svenska investmentbolag med liknande modell - Börskollen
 - Flera Kalmarkrogar bygger ut nattlivet: ”Hungriga efter fest” - SVT Nyheter
-- Nattskärran – fågeln som styrs av månens sken - Forskning.se
+- Stort test: Surfplattorna som ersätter din laptop - PC för Alla
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -39,55 +38,56 @@ _Updated: 2026-05-05 06:42_
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Bildextra: NHL Global series med Icelandair - travelnews-se
-- VNV Global minskade substansvärdet (uppdatering) (Finwire News) - Aktiellt
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- De två bästa tävlande i Miss Universe International (Miss Cosmo) 2025 interagerade på People's Army Newspaper. - Vietnam.vn
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Larsson and Ludvik take convincing wins in Long race - International Orienteering Federation
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-05-05 06:42_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -129,7 +129,7 @@ _Updated: 2026-05-05 06:42_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
+- Invigning av The Cell där konst möter life science - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
