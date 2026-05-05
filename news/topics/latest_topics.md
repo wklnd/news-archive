@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-05 01:32_
+_Updated: 2026-05-05 03:10_
 
 ## Top Stories
 
-- Bil körde in i folkmassa – minst två döda - Västerbottens-Kuriren
 - Zelenskyj utlyser eget dygnslångt eldupphör - Västerbottens-Kuriren
 - Frågan till experterna: Slutet på vapenvilan? – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Beväpnad man skjuten nära Vita huset - Dagens Nyheter
+- Bil körde in i folkmassa – minst två döda - Hufvudstadsbladet – HBL
 - Osäkrad granat låg på gatan i Malmö i timmar - Omni
-- Flera döda av hantavirus – så visar sig symtomen - Dagens Nyheter
+- Ryska soldater gick i hackarnas satellitfälla – avslöjade tusentals positioner - Dagens Nyheter
 - DN Direkt – Varning för avloppsvatten i kanalen i Malmö - Dagens Nyheter
-- MALIN LERNFELT: Partiledardebatten i SVT: För tyst, för snällt, för tomt - Norran
 - Tonåringar häktas för mord i Norrköping - Västerbottens-Kuriren
 - Trots turerna med Cosmic – Region Stockholm fortsätter som planerat - SVT Nyheter
-- Ryska soldater gick i hackarnas satellitfälla – avslöjade tusentals positioner - Dagens Nyheter
+- MALIN LERNFELT: Partiledardebatten i SVT: För tyst, för snällt, för tomt - Norran
 - Iran: USA måste backa från sina krav - GP
 - ”Bonusprinsen” vill ha fotboja i väntan på dom - Västerbottens-Kuriren
 - Minst sex dödade i rysk robotattack - Hufvudstadsbladet – HBL
+- Flera döda av hantavirus – så visar sig symtomen - Dagens Nyheter
 - Matpriskollen: Sänkningen av matmomsen gav lägre priser - Dagens Nyheter
+- Meta inför avgörande rättegång – kan omforma hela sociala medielandskapet - Dagens PS
 - SAS ställer in fler avgångar – nya besked om flygbränsle väntas - EFN
 - CNBC-profilens dödskyss mot Nokia: ”En vinnare – wow” - Omni Ekonomi
-- Den sämsta Trump-affären – hans eget bolag - Dagens PS
+- Nattskärran – fågeln som styrs av månens sken - Forskning.se
 - Ivar visar unika bilder på Bryggvägen: Det finns så mycket mer man kan göra här - bättre stadsdel
-- Säkerhetshål hotar miljontals sajter – används aktivt av hackare - Computer Sweden
 
 ## World News
 
-- Fanatec GT World Challenge Asia, Mandalika International Circuit, Indonesia på inatt 01:50 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Förvaltarbyte i Brobacke Global Allokering - beQuoted
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -81,8 +81,8 @@ _Updated: 2026-05-05 01:32_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -96,26 +96,26 @@ _Updated: 2026-05-05 01:32_
 
 ## Health
 
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Health-ISAC Hacking Healthcare 1-10-2025 - Health-ISAC
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -154,11 +154,11 @@ _Updated: 2026-05-05 01:32_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Bättre positionering med ny gps-mottagare - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
