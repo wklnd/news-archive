@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-05 01:33_
+_Updated: 2026-05-05 03:17_
 
 - Live Updates: U.S. sinks 7 small Iranian boats as Iran launches attacks on UAE and ships in Strait of Hormuz - CBS News
-- Law enforcement shot person who fired weapon on National Mall, Secret Service says - PBS
-- Supreme Court gives abortion pill mifepristone a 1-week reprieve from a major change - NPR
+- Trump Administration Live Updates: Bystander Hit in Secret Service-Involved Shooting - The New York Times
 - White House Considers Vetting A.I. Models Before They Are Released - The New York Times
-- Washington Post wins public service Pulitzer for DOGE, federal workforce coverage - The Washington Post
-- Trump’s Revenge Push Sputters as Event Draws Crowd of Four - The Daily Beast
+- AP, Washington Post, Reuters and Minnesota Star Tribune among Pulitzer winners for 2025 work - AP News
+- Democrats launch New York counteroffensive following flood of GOP gerrymanders - Democracy Docket
+- Supreme Court restores access to abortion pill by mail for now - The Washington Post
+- Appeals Court Blocks Ex-Prisoner From Taking Office in New Orleans - The New York Times
 - At least 13 hurt in shooting at Oklahoma campground party - The Guardian
-- GOP allies warn White House its positive economic message is falling flat - Politico
-- Mamdani had these words for former NYC Mayor Rudy Giuliani, who remains hospitalized in Fla. - SILive.com
-- Judge apologizes over jail conditions to man charged in Trump assassination plot - NBC News
-- UAE reports missile and drone strikes incoming from Iran - Al Jazeera
-- Trump's Germany troop cuts show limits of NATO efforts to keep US on board - Reuters
-- At Least 3 Dead After Suspected Rat-Borne Virus Outbreak On Cruise Ship - Forbes
+- ‘They’re spinning’: Republicans, grappling with midterm anxiety, go negative - Politico
+- Judge says he's "very troubled" by accused White House Correspondents' Dinner gunman's treatment in jail - CBS News
+- Trump threatens to pull troops from Germany. Why Europe isn’t panicking. - The Christian Science Monitor
+- What to know about hantavirus, the illness suspected in a cruise ship outbreak - AP News
+- Leipzig, Germany, Car Ramming Attack Kills 2 - The New York Times
 - 1 missing U.S. soldier jumped into water to try to save another, search continues in Morocco, officials say - CBS News
-- Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway' - CNBC
 - GameStop shares fall 10% after CEO skirts questions over eBay acquisition details - The Guardian
-- Palantir Stock: Palantir Earnings Top Estimates As U.S. Government Growth Booms - Investor's Business Daily
-- Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race - TechCrunch
-- Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Bloomberg.com
-- Sold Out? Gamers Struggle to Buy New Steam Controller, Urge Valve to Fix Its Site - PCMag
+- Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway' - CNBC
+- Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion - The New York Times
+- Doris Fisher, co-founder of iconic Gap chain, dies at 94 - ABC News - Breaking News, Latest News and Videos
+- US PlayStation players could be due payout as court agrees class-action settlement of $7.8 million - Eurogamer.net
+- Galaxy S27 Ultra could bring major camera changes - SamMobile
