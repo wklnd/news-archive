@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-07 00:29_
+_Updated: 2026-05-07 01:34_
 
-- Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 - NBC News
+- Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC
+- Trump’s success at purging Republican dissenters may not help in midterm elections - AP News
+- Lutnick admits to having prolonged ties to Epstein in closed-door interview - Politico
 - Ted Turner, CNN creator who revolutionized the media industry, dies at 87 - Los Angeles Times
-- Craig Berry: Veteran accused of trying to kill his wife is found dead after dayslong manhunt in Tennessee - CNN
 - Republicans want to add $1 billion for Trump's ballroom security to ICE funding plan - NPR
-- Trump reignites feud with Pope ahead of Rubio's Vatican visit - USA Today
-- Texas Man Charged in Shooting at Secret Service Agent Near the Washington Monument on the National Mall - Department of Justice (.gov)
-- Republicans unveil proposed congressional map that carves up Memphis - The Tennessean
-- Howard Lutnick evasive during Epstein testimony, House Democrats say - NBC News
-- Katie Porter slaps governor rival Chad Bianco with bizarre new nickname in wild debate clash - New York Post
-- DC mayoral candidates contend with Trump’s shadow - Politico
+- Project Freedom was a bust. Where does that leave the 1,600 ships stuck in the Strait of Hormuz? - CNN
+- Republicans unveil proposed congressional map that carves up Tennessee's lone Democratic district - NBC News
+- The biggest obstacle to an Iran deal may be Trump’s ego - Politico
+- Where is Kristin Smart? Search warrant served at property of killer's mother after remains detected - Los Angeles Times
+- Office of Virginia State Senator Louise Lucas Searched by F.B.I. Agents - The New York Times
 - Cruise ship with hantavirus outbreak heads to Canary Islands after 3 are evacuated - AP News
-- Israel bombs Beirut’s southern suburb as it targets Hezbollah commander - Al Jazeera
-- ’Ukraine will respond in kind’, Zelenskyy says after Russia breaks Kyiv’s ceasefire - Euronews.com
+- Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post
+- 'One of the most important moments facing British politics since 1945' - Haaretz
 - France moves aircraft carrier to Red Sea with eye on Hormuz mission - Reuters
 - Why gasoline costs 52% more in the US than it did before the Iran war - AP News
-- Shivon Zilis, mother of Elon Musk’s children, testifies in lawsuit against OpenAI - The Guardian
-- White House mulls tighter controls on advanced AI - Politico
-- How you can get a slice of Apple's $250M iPhone settlement - Fox Business
-- Remarkable’s next E Ink digital notepad skips the color screen - The Verge
-- Samsung’s stable One UI 8.5 update officially lands on older Galaxy phones - Android Central
+- Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial - The Guardian
+- Higher Gas Prices Are Hitting Lower-Income Americans the Hardest - The New York Times
+- Dow surges 600 points, S&P 500 posts first close above 7,300 as traders hope for Iran deal: Live updates - CNBC
+- reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch
+- Google’s AI search summaries will now quote Reddit - The Verge
