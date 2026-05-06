@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-06 19:12_
+_Updated: 2026-05-06 21:11_
 
-- Brash CNN founder Ted Turner dies - NPR
+- Ted Turner, outspoken founder of CNN, dies at 87 - Reuters
 - Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC
-- Takeaways from Indiana, Ohio and Michigan: Trump's flex pays off and Democrats win special election - PBS
-- Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post
+- Republicans who crossed Trump lose in Indiana; Ramaswamy advances in Ohio - The Washington Post
 - Pope Leo rejects claim he supports nuclear weapons after Trump tirade - The Guardian
-- Top takeaways from fiery, at times ugly, California governor’s debate on CNN - Los Angeles Times
-- Trump Administration Live Updates: Lutnick Questioned Over Epstein Ties; National Mall Shooter Charged - The New York Times
-- FBI searches Virginia Senate leader's office as part of corruption probe, AP source says - Yahoo
-- Kash Patel, Arizona sheriff clash over handling of investigation into Nancy Guthrie disappearance - CBS News
-- Federal employment agency sues NYT for discrimination - Axios
-- 3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak - AP News
-- On Eve of Proposed Cease-Fire, Russia Launches Huge Attack on Ukraine - WSJ
-- Pussy Riot, Femen storm Russian pavilion at Venice Biennale - The Kyiv Independent
-- Japan fires missile in joint drill with US and allies in northern Philippines, facing South China Sea - Reuters
-- Dow rises 500 points as oil retreats on Iran deal progress; AMD jumps after earnings: Live updates - CNBC
-- Disney Stock Surges On Earnings Beat, Streaming Profits Boom - Investor's Business Daily
+- FBI raids office of Dem state lawmaker in Virginia who led redistricting efforts - Politico
+- The future Pope Leo XIV grew up amid a changing Chicago - National Catholic Reporter
+- California Gubernatorial Candidates Prepare for Another Crucial Debate Tonight - The New York Times
+- Howard Lutnick to answer questions from US House over Jeffrey Epstein ties - The Guardian
+- Tennessee Republicans propose gerrymandered U.S. House map - Axios
+- Sheriff Schools Keystone Kash After Nancy Guthrie Case Claim - The Daily Beast
+- Hantavirus-hit cruise ship to head to Canary Islands as Swiss confirm new case - The Washington Post
+- ‘Defending from the goal line isn’t enough’: IDF entrenches grip in southern Lebanon - The Times of Israel
+- Ukraine declares it is not bound by Russia’s Victory Day truce - politico.eu
+- Pussy Riot protest at Venice Biennale forces Russian pavilion to briefly close - The Guardian
+- Why Gasoline Prices Vary So Much by State, County and City - The New York Times
+- Apple's $250 million class-action settlement paves way for payouts to iPhone owners - ABC News - Breaking News, Latest News and Videos
+- FanDuel CEO Amy Howe is out after five years at the sportsbook - CNBC
 - Higher Gas Prices Are Hitting Lower-Income Americans the Hardest - The New York Times
-- Inside the Debate About Drastically Expanding Trump Accounts - The New York Times
 - reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch
-- Xbox announces leadership changes as it stops development of Gaming Copilot for console - GamesIndustry.biz
+- Xbox’s New CoreAI Leadership Team Surprisingly Shreds Console Copilot - Forbes
