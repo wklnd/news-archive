@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-06 22:52_
+_Updated: 2026-05-07 00:24_
 
 ## Top Stories
 
-- DN Direkt – Teorin: Fågelskådare bar med sig viruset ombord - Dagens Nyheter
+- Teorin: Fågelskådning bakom virusutbrottet - GP
 - Karl Dalén: Marco Rubio har allt som Trump saknar - Dagens Nyheter
-- Efter kvittningskaoset – flera partier öppnar för att utesluta SD - SVT Nyheter
-- Kreml hotar: Evakuera diplomater från Kiev - GP
+- Kreml hotar: Evakuera diplomater från Kiev - Västerbottens-Kuriren
+- Hizbollahbefäl uppges dödad i attack mot Beirut - GP
 - Kvinna misstänks för mordförsök på man - Omni
-- Israelisk attack i Beirut – Hizbollahbefäl dödad - Corren
+- Nathan Shachar: Förenade arabemiraten hårdast drabbat – men vägrar böja knä för Iran - Dagens Nyheter
 - DN Direkt – Bara 1 000 personer får göra prov för medborgarskap - Dagens Nyheter
 - Bajsvatten spolas rakt ut i Malmös kanal: ”Helt sjukt” - Dagens Nyheter
-- Cancersjuka riksdagsledamoten kallades in att rösta: ”Tänkte fan” - Dagens Nyheter
-- Nyberg: Jag röstade efter eget huvud – Senaste nytt om valet 2026 - SVT Nyheter
-- På plats: Attack i södra Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Filmar när Ukrainas nya supervapen träffar i Ryssland - Expressen
-- Direkt – Krisen i Mellanöstern – Källor: USA och Iran nära överens - Dagens Nyheter
+- Explosion vid villa i Södertälje - SVT Nyheter
+- HANS STIGSSON: Därför behöver Försvarsmakten vår flygplats i Norrköping - NT
+- Krigslagarna förlängs igen – demokratin sätts på prov i Ukraina - Dagens Nyheter
+- Bonusprinsen vill ha fotboja efter tiden i fängelset – nekas - Expressen
+- Franskt fartyg attackerat i Hormuzsundet - Expressen
 - Regeringen sänker Sveriges bnp-prognos - Svenska Dagbladet
 - Verisure och Boliden i täten när börsen steg – OMXS30 upp 2,8% - Placera.se
+- DN Direkt – Starkt uppåt på Wall Street – hoppas på fred - Dagens Nyheter
 - Oväntat låg inflation i Sverige i april - Riksbanken avvaktar - Morningstar
-- Börsen rusar i New York efter tecken på genombrott i Irankonflikten - Börskollen
-- Analytiker vill se höjd prisnivå med ”GTA VI” - Svenska Dagbladet
+- Nya GTA beräknas ha kostat över en miljard - GP
 - Föreningsforum om nytt verksamhetsbidrag – välkommen att delta 26 maj - Söderhamns kommun
 - ReMarkable lanserar nya Paper Pure - mobil.se
 
@@ -29,24 +29,24 @@ _Updated: 2026-05-06 22:52_
 
 - GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - S&P Global: USA:s kombinerade PMI lägre än preliminär siffra - DI
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - VNV Global minskade substansvärdet (uppdatering) (Finwire News) - Aktiellt
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Insights Press Release for Global - Cision News
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
@@ -76,13 +76,12 @@ _Updated: 2026-05-06 22:52_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sanionas nye CFO: "More deals are definitely on the horizon" - Biostock
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-05-06 22:52_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -124,41 +124,41 @@ _Updated: 2026-05-06 22:52_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Invigning av The Cell där konst möter life science - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - ATL.nu
+- Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL Nyheter
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Mjau Kattungeskolan teaser - Mynewsdesk
