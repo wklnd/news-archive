@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-06 01:53_
+_Updated: 2026-05-06 02:12_
 
 ## Top Stories
 
-- Rubio: ”Defensiv” insats i Hormuz - Västerbottens-Kuriren
-- Spanien vänder – låter virusfartyget lägga till - GP
+- Trump: Pausar insats i Hormuzsundet - gp.se
+- Tre evakueras från viruskryssare – ovisst om fartyget får ta i land - Hufvudstadsbladet – HBL
 - Cosmic-leverantörens varning – för problem med det egna journalsystemet - Dagens Nyheter
 - Soldater följer hela förloppet – attackerna dödligare - Dagens Nyheter
-- Rapport: Putin i bunkern – fruktar mord och kupp - GP
+- Rapport: Putin i bunkern – fruktar mord och kupp - gp.se
 - Över 20 dödade i ryska attacker mot Ukraina - Västerbottens-Kuriren
 - Umeå universitet kan ha utsatts för dataläcka - SVT Nyheter
 - Brand på soptipp i Karlskrona - SVT Nyheter
 - Farligt föremål i Göteborg har hanterats - Västerbottens-Kuriren
 - Poya Shafie i centrum av Sundsvalls gängkonflikt – åtalas för flera grova brott - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Iran borde vifta med den vita flaggan - Dagens Nyheter
 - Ukraina: Kan förlänga vapenvila – om den är ömsesidig - Dagens Nyheter
+- Frågan till experterna: Slutet på vapenvilan? – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Svensk aktivist hålls kvar i fängelse - Västerbottens-Kuriren
 - Ukrainska hackare lurade Ryssland – hittade många positioner - Expressen
 - Striden om ISK – sparekonom: ”Kan skapa en osäkerhet” - EFN
-- SAS-vädjan om sänkt avgift nobbas av Swedavia - Omni
+- Rapport från en dyster stämma – “Ska gå dit kapital behövs” - Breakit
 - SSAB-arbetare hade giftiga gaser i blodet - Aftonbladet
-- Svantesson: Ja från EU om sänkt bränsleskatt - Tidningen Näringslivet
+- SAS-vädjan om sänkt avgift nobbas av Swedavia - Omni
 - GTA-vd:n om hajpade släppet: ”Skrämmande” - Omni
 - Xiaomi presenterar nya A-serien samtidigt som Xiaomi 17T läcker - mobil.se
 
 ## World News
 
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -34,42 +35,41 @@ _Updated: 2026-05-06 01:53_
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - S&P Global: USA:s kombinerade PMI lägre än preliminär siffra - DI
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Insights Press Release for Global - Cision News
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- VNV Global minskade substansvärdet (uppdatering) (Finwire News) - Aktiellt
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Take the next step in AI skills building with new CompTIA AI Agent Essentials (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- XPON Technologies Group Ltd (XPN) - MSN
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -155,10 +155,10 @@ _Updated: 2026-05-06 01:53_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Bättre positionering med ny gps-mottagare - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
