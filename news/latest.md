@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-06 14:18_
+_Updated: 2026-05-06 17:14_
 
-- Trump Gets Payback on Indiana Republicans: 5 Takeaways - The New York Times
-- Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post
-- Oil Slides on Report of Peace Deal Progress - WSJ
+- Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87 - The New York Times
+- Democrats win big in US special elections, but Trump reinforces hold on GOP - The Times of Israel
+- Has the US accepted Iran’s demand to settle Hormuz first, nuclear later? - Al Jazeera
 - Commentary: Who won the California governor debate on CNN? Here's what our columnists say - Los Angeles Times
-- Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race - NPR
 - The future Pope Leo XIV grew up amid a changing Chicago - National Catholic Reporter
-- Commerce chief Lutnick to face Epstein grilling in closed-door interview – US politics live - The Guardian
-- The New York Times’s Response to the EEOC’s Lawsuit Alleging Employment Bias - The New York Times Company
-- Democrats keep control of Michigan state Senate after special election win - NBC News
-- Police say shooting at shopping center outside Dallas leaves 2 dead, 3 injured - PBS
+- Trump orders military to pause Strait of Hormuz mission to allow time for peace talks - The Washington Post
+- Pope Leo rejects claim he supports nuclear weapons after Trump tirade - The Guardian
+- Federal employment agency sues NYT for discrimination - Axios
+- Howard Lutnick to Face Questions From Congress About Epstein Ties - The New York Times
+- Trump administration axes fast-track training for new ICE recruits - Politico
+- 3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak - AP News
 - Zelenskyy slams Russia as strikes kill 22 in Ukraine before announced ceasefire - NPR
-- Sudan accuses Ethiopia and UAE of orchestrating drone attacks on airport - BBC
-- The cruise ship hantavirus outbreak is a warning sign to the U.S. - statnews.com
-- China Is Still Supplying Drone Factories in Iran, Russia Despite U.S. Sanctions - WSJ
-- New Disney CEO Gives Vision for Company as Revenue Rises - WSJ
-- Dow futures surge 500 points as oil dives on report Iran war nearing end, AMD jumps: Live updates - CNBC
-- Apple Will Pay $250M to Settle Allegations It Misled iPhone Buyers About AI - CNET
-- A trip to Europe? In this economy? Expensive flights keep vacations closer to home - NPR
-- Chrome’s AI features may be hogging 4GB of your computer storage - The Verge
-- Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police
+- School shooting in Brazil leaves 2 women dead; 13-year-old student detained - NBC News
+- Gulf States Fear an Emboldened Iran Is Taking Advantage of a Hesitant U.S. - WSJ
+- Josh D’Amaro Lays Out “Long-Term View” for Disney in First Earnings Report Since Taking Over as CEO - The Hollywood Reporter
+- Stock index futures surge on renewed hopes of U.S.-Iran deal (SPX:) - Seeking Alpha
+- Inside the Debate About Adding Stocks to Trump Accounts - The New York Times
+- Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features - WIRED
+- reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch
+- Valve releases Steam Controller CAD files under Creative Commons license - Digital Foundry
