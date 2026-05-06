@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-06 22:56_
+_Updated: 2026-05-07 00:29_
 
-- Oil prices drop and stock markets rise after reports of deal to end Iran war - BBC
+- Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 - NBC News
 - Ted Turner, CNN creator who revolutionized the media industry, dies at 87 - Los Angeles Times
-- Live Updates: Trump threatens Iran strikes, says too soon for new direct talks after reporting "great progress" - CBS News
-- 4 takeaways from the Indiana and Ohio primaries - The Washington Post
-- Howard Lutnick answers questions from US House over Jeffrey Epstein ties - The Guardian
+- Craig Berry: Veteran accused of trying to kill his wife is found dead after dayslong manhunt in Tennessee - CNN
 - Republicans want to add $1 billion for Trump's ballroom security to ICE funding plan - NPR
-- FBI searches office of Virginia lawmaker who helped lead redistricting push - NBC News
-- Republicans Unveil Map Carving Up Tennessee’s Majority-Black House District - The New York Times
-- Where is Kristin Smart? Search warrant served at killer's mother's property after remains detected - Los Angeles Times
-- Kash Patel says FBI 'kept out' out of Nancy Guthrie investigation for first 4 days - ABC News - Breaking News, Latest News and Videos
-- Two Britons self-isolating in UK after leaving hantavirus cruise ship early - BBC
-- Israel strikes Beirut for the first time since the ceasefire - Reuters
+- Trump reignites feud with Pope ahead of Rubio's Vatican visit - USA Today
+- Texas Man Charged in Shooting at Secret Service Agent Near the Washington Monument on the National Mall - Department of Justice (.gov)
+- Republicans unveil proposed congressional map that carves up Memphis - The Tennessean
+- Howard Lutnick evasive during Epstein testimony, House Democrats say - NBC News
+- Katie Porter slaps governor rival Chad Bianco with bizarre new nickname in wild debate clash - New York Post
+- DC mayoral candidates contend with Trump’s shadow - Politico
+- Cruise ship with hantavirus outbreak heads to Canary Islands after 3 are evacuated - AP News
+- Israel bombs Beirut’s southern suburb as it targets Hezbollah commander - Al Jazeera
+- ’Ukraine will respond in kind’, Zelenskyy says after Russia breaks Kyiv’s ceasefire - Euronews.com
 - France moves aircraft carrier to Red Sea with eye on Hormuz mission - Reuters
-- Russia snubs Ukraine’s unilateral ceasefire and fires dozens of drones - AP News
 - Why gasoline costs 52% more in the US than it did before the Iran war - AP News
-- How Elon Musk left OpenAI, according to Greg Brockman - TechCrunch
-- iPhone owners could get up to $95 from Apple settlement. Here's what to know. - CBS News
+- Shivon Zilis, mother of Elon Musk’s children, testifies in lawsuit against OpenAI - The Guardian
 - White House mulls tighter controls on advanced AI - Politico
+- How you can get a slice of Apple's $250M iPhone settlement - Fox Business
 - Remarkable’s next E Ink digital notepad skips the color screen - The Verge
-- Leaker: This Is Why Apple Is Delaying the iPhone 18 - MacRumors
+- Samsung’s stable One UI 8.5 update officially lands on older Galaxy phones - Android Central
