@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-08 00:35_
+_Updated: 2026-05-08 01:29_
 
 ## Top Stories
 
 - Smällar vid ö i Hormuz efter amerikansk attack - Västerbottens-Kuriren
 - DN Direkt – Widding: Åkesson kan inte räkna med min röst - Dagens Nyheter
 - Jättesiffran – så många bolag har koppling till organiserad brottslighet - Arbetet
-- Trumps nya deadline till EU: 4 juli - GP
-- Uppgifter: USA:s militär slår mot iranska hamnar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA:s militär: Vi avvärjde iranska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Nytt nederlag för Trump – domstol dömer ut global 10-procentstull - EFN
 - Flera döda i israeliska attacker i Libanon - Västerbottens-Kuriren
 - DN Direkt – Klubbat: Matkravet på krogen slopas - Dagens Nyheter
 - Övning i krigsgravtjänst under Aurora 26 - Försvarsmakten
 - Bordade fartygets kapten släpps ur häktet - Västerbottens-Kuriren
 - Sju sprängningar i Södertälje i år – kopplas till gängkonflikt - Sveriges Radio
-- Hantavirusdrabbade fartyget: "Finns inget speciellt mönster - Sveriges Radio
+- Gnagarna ska testas för hantavirus - Västerbottens-Kuriren
 - Många döda i attacker i Kongo - GP
-- Trump träffade ”dynamisk” Lula - Västerbottens-Kuriren
-- Efter Rubios möte med påven: ”Stark relation” - Västerbottens-Kuriren
+- Trump till EU: Uppfyll avtalet senast 4 juli - Corren
+- Henrik Brandão Jönsson: Varm ton mellan Trump och Lula – men USA:s terrorplaner oroar Brasilien - Dagens Nyheter
 - Ränteberäkningar för bolån förvirrar – 8 av 12 banker gör fel - EFN
 - Priset på diesel och bensin sänks ytterligare - Omni
 - Ny kung på tronen – detta är världens mest sålda läkemedel - Dagens PS
-- Nedskärningarnas nya offer: mellanchefen hos techbolagen - Svenska Dagbladet
+- Styrräntan oförändrad på 1,75 procent - riksbank.se
 - Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
 - Unga stjärnor träder fram när molnen skingras - Forskning.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-05-08 00:35_
 - GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- S&P Global: USA:s kombinerade PMI lägre än preliminär siffra - DI
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- 48 städer krokar arm i global klimatomställning - Viable Cities - Cision News
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Prestigefyllda priser för Mittmedia på INMA Global Awards - Sundsvalls Tidning
 
 ## Technology
 
@@ -98,30 +98,31 @@ _Updated: 2026-05-08 00:35_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
+- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -130,12 +131,11 @@ _Updated: 2026-05-08 00:35_
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- Olika slutsatser från samma data - Läkartidningen
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -149,16 +149,16 @@ _Updated: 2026-05-08 00:35_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
