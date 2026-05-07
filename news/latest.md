@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-07 17:54_
+_Updated: 2026-05-07 20:13_
 
+- Trump’s Strait of Hormuz reversal and elections in Britain: Morning Rundown - NBC News
 - Live updates: US awaits Iran’s response to latest proposal to end war - CNN
 - Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem - NPR
-- Judge releases note purportedly left in cell by Jeffrey Epstein - Politico
-- Trump's Iran crackdown faces its biggest test as US rival dares Washington to act and more top headlines - Fox News
-- Campaign staffers tell NPR they make 'thousands' betting on their own candidates - NPR
-- China Asks Banks to Pause New Loans to US-Sanctioned Refiners - Bloomberg.com
-- Nearly 500 homes damaged in Mississippi storms as multiple tornadoes reported - AP News
-- Ted Turner’s Mark on Atlanta Lived On, Even After He Left the Spotlight - The New York Times
-- ‘They just want to matter’: Swarming teens test community order - The Christian Science Monitor
-- Rubio visits Rome aiming to repair White House ties with Pope Leo - The Washington Post
+- New York Bars ICE Agents From Wearing Masks in Broad Immigration Deal - The New York Times
+- Mayor Brandon Johnson Seeks To Block Bears Stadium Deal In Springfield - Block Club Chicago
+- Court releases purported suicide note from Jeffrey Epstein - The Washington Post
+- Federal and State Officials Discuss Closing Florida’s ‘Alligator Alcatraz’ - The New York Times
+- Florida surgeon who removed wrong organ says he is ‘forever traumatized’ by patient’s death - NBC News
+- Ted Turner’s eerie CNN 'doomsday video' resurfaces after media mogul’s death - New York Post
+- Florida Creates a More Conservative U.S. History Course to Rival A.P. - The New York Times
 - Hantavirus latest updates: U.S. among countries searching for passengers who left Dutch cruise ship after 1st death - Yahoo
 - UK voters cast ballots in elections expected to deal blow to Starmer - Reuters
-- Trump’s tantrums over Nato are prompting European leaders to think the unthinkable | Paul Taylor - The Guardian
+- Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post
 - China gives suspended death sentences to two former defense ministers - CNN
-- Fast-Food Sales Rise Despite Higher Gas Prices - The New York Times
+- McDonald’s Presses Ahead in Fast Food’s Value-Menu Wars - WSJ
+- Stock market today: Dow slips, S&P 500 and Nasdaq rise as crude oil falls in wait for Iran-US deal update - Yahoo Finance UK
+- Used car prices fall for the first time this year and EV interest rises as gas prices spike - CNBC
 - Citi Shares Decline as Return Target Falls Short of Expectations - Bloomberg.com
-- Used car prices fall for first time this year as gas prices spike, EV interest rises - CNBC
-- How startup Propy is deploying $100 million to put real estate deals on the blockchain - CNBC
-- Google’s taking a big swing at AI health with the Fitbit Air - The Verge
-- OnePlus 16 leak reveals 200MP zoom camera, new chipset and large battery - Notebookcheck
+- Google unveils Whoop-like screenless Fitbit Air - TechCrunch
+- Google Chrome Might Have Installed an AI Model Onto Your Device Without You Knowing - CNET
