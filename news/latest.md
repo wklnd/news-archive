@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-07 20:13_
+_Updated: 2026-05-07 22:05_
 
-- Trump’s Strait of Hormuz reversal and elections in Britain: Morning Rundown - NBC News
-- Live updates: US awaits Iran’s response to latest proposal to end war - CNN
-- Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the problem - NPR
-- New York Bars ICE Agents From Wearing Masks in Broad Immigration Deal - The New York Times
+- Trump shelved ‘Project Freedom’ after Saudis refused use of bases and airspace - The Guardian
+- Tennessee Republicans pass map splitting up state’s lone majority-Black district - NBC News
+- Rebuking Trump, New York set to approve package of sweeping immigrant protections - Politico
 - Mayor Brandon Johnson Seeks To Block Bears Stadium Deal In Springfield - Block Club Chicago
-- Court releases purported suicide note from Jeffrey Epstein - The Washington Post
+- What to know about potential US-Iran agreement - ABC News - Breaking News, Latest News and Videos
+- Judge releases note that cellmate says he found after Epstein's suspected suicide attempt - PBS
+- Live Updates: Trump says Iran war will "be over quickly" as Tehran seeks to lay claim to Strait of Hormuz - CBS News
+- Kelly’s profile rises as he heads toward another likely victory over Hegseth - Politico
 - Federal and State Officials Discuss Closing Florida’s ‘Alligator Alcatraz’ - The New York Times
-- Florida surgeon who removed wrong organ says he is ‘forever traumatized’ by patient’s death - NBC News
-- Ted Turner’s eerie CNN 'doomsday video' resurfaces after media mogul’s death - New York Post
-- Florida Creates a More Conservative U.S. History Course to Rival A.P. - The New York Times
-- Hantavirus latest updates: U.S. among countries searching for passengers who left Dutch cruise ship after 1st death - Yahoo
+- Rubio visits Rome aiming to repair White House ties with Pope Leo - The Washington Post
+- People in at least 3 US states being monitored for potential hantavirus after being on Dutch cruise ship, NYT reports - Yahoo
 - UK voters cast ballots in elections expected to deal blow to Starmer - Reuters
 - Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post
-- China gives suspended death sentences to two former defense ministers - CNN
+- China hands two former defence ministers suspended death sentences - Financial Times
+- Stock Market Today: Dow falls back below 50,000, S&P 500 and Nasdaq slip after hitting record highs; investors watch oil prices in hopes of end to Iran war - MarketWatch
+- Trump’s Iran war may stymie climate gains with boost to big oil, experts say - The Guardian
 - McDonald’s Presses Ahead in Fast Food’s Value-Menu Wars - WSJ
-- Stock market today: Dow slips, S&P 500 and Nasdaq rise as crude oil falls in wait for Iran-US deal update - Yahoo Finance UK
-- Used car prices fall for the first time this year and EV interest rises as gas prices spike - CNBC
-- Citi Shares Decline as Return Target Falls Short of Expectations - Bloomberg.com
+- Planet Fitness stock plunges 30% after company slashes guidance, cancels planned price hikes - CNBC
 - Google unveils Whoop-like screenless Fitbit Air - TechCrunch
-- Google Chrome Might Have Installed an AI Model Onto Your Device Without You Knowing - CNET
+- Google preps ‘Gemini Agent’ as your ’24/7 digital partner’ - 9to5Google
