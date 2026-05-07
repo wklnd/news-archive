@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-07 07:02_
+_Updated: 2026-05-07 10:05_
 
-- Live updates: Iran reviewing US proposal as source says both sides moving toward memo to end war - CNN
+- Live updates: Iran expected to respond Thursday to US proposal for ending war, source says - CNN
 - Court releases purported suicide note from Jeffrey Epstein - The Washington Post
 - Ted Turner, CNN creator who revolutionized the media industry, dies at 87 - Los Angeles Times
-- Justice Department can keep 2020 election ballots seized from Georgia’s Fulton County, judge rules - AP News
-- Israel strikes Beirut for first time since Hezbollah ceasefire - BBC
-- Republicans want to add $1 billion for Trump's ballroom security to ICE funding plan - NPR
+- Bass, Raman and Pratt square off on Palisades fire, police hiring in bruising mayoral debate - Los Angeles Times
+- Starmer Faces a Major Test in a Set of U.K. Elections: What to Know - The New York Times
+- Rubio’s Rome challenge: Managing an ally, appealing to a pope - politico.eu
+- Live Updates: Trump threatens Iran strikes, says too soon for new direct talks after reporting "great progress" - CBS News
+- Tennessee Republicans propose gerrymandered U.S. House map - Axios
+- Judge Says F.B.I. Can Keep 2020 Election Records Seized From Georgia - The New York Times
 - F.B.I. Director Kash Patel Criticizes How Nancy Guthrie Case Was Handled - The New York Times
-- 18 arrested, 40 pounds of fentanyl seized in massive drug raid at MacArthur Park, South LA, Calabasas, San Gabriel - ABC7 Los Angeles
-- Trump news at a glance: US fires on Iranian-flagged tanker as president fires off post threatening more bombing - The Guardian
-- ‘This is a very clear warning’: After Indiana, redistricting pressure mounts in the South - Politico
-- 3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition - CBS News
-- ‘A Total Collapse’: Elections May Expose Britain’s Fraying Political System - The New York Times
-- ’Ukraine will respond in kind’, Zelenskyy says after Russia breaks Kyiv’s ceasefire - Euronews.com
-- Iran’s missiles seek to drive a wedge between Gulf states - The Economist
-- With eBay Bid, GameStop C.E.O. Baffles His Fans and Wall Street - The New York Times
-- WBD Sees $2.9 Billion Q1 Loss On M&A Charges Including Termination Fee Paramount Paid Netflix - Deadline
+- Health Authorities Monitor Hantavirus Cruise Passengers in United States - The New York Times
+- Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post
+- The idyllic island caught in Manila’s tug of war with Beijing - The Times
+- Moscow shuts down airports and mobile signals as Victory Day parade looms - The Guardian
+- Stocks, Bonds Rally on Hopes Iran War Nearing End: Markets Wrap - Bloomberg.com
+- Stocks perched on record peak, dollar defensive on peace hopes - Reuters
+- GameStop CEO Selling GameStop Stuff On Ebay To Fund Buyout Of Ebay - GameSpot
 - 'That's not how it works' - the judge crossing swords with Musk in court - BBC
-- NY Fed report finds gas price surge hitting lower incomes harder - Yahoo Finance
 - Samsung’s stable One UI 8.5 update officially lands on older Galaxy phones - Android Central
-- 'iPhone Ultra' Could Be Industry's Most Repairable Foldable - MacRumors
+- Sketchy iPhone 18 Pro Dynamic Island rumors continue with claimed CAD images - 9to5Mac
