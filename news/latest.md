@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-08 03:24_
+_Updated: 2026-05-08 06:43_
 
-- Live Updates: U.S. launches "self-defense strikes" on Iran, says warships came under fire in Strait of Hormuz - CBS News
+- Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz - BBC
 - Trade Court Rules Trump’s 10% Global Tariff Is Illegal - nytimes.com
+- CENTCOM Protects U.S. Warships Transiting Strait of Hormuz > U.S. Central Command > Press Release View - centcom.mil
 - Harvard Canvas Site Goes Down After University Listed in Instructure Breach - The Harvard Crimson
-- US military strikes Iran’s Qeshm port and Bandar Abbas, Fox News reporter says - Reuters
-- A judge unsealed Epstein's purported 2019 suicide note. More documents could follow - NPR
-- Tennessee Republicans pass map dividing up state’s lone majority-Black district - NBC News
-- Kelly’s profile rises as he heads toward another likely victory over Hegseth - Politico
-- Federal and State Officials Discuss Closing Florida’s ‘Alligator Alcatraz’ - nytimes.com
-- Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say - nytimes.com
-- A faint meow in the rubble of a Mississippi tornado leads to a stunning rescue - AP News
-- Georgia monitoring two residents who traveled on cruise ship with hantavirus outbreak - WTOC
-- 3 Australian women returning from Syria are arrested on suspicion of slavery and terrorism offenses - AP News
-- Elections 2026 live: Votes being counted in some English council elections with first results coming in - BBC
-- Letter: Why Russia’s presence at Venice Biennale is so vexed - Financial Times
-- Elon Musk's lawyers landed 3 hits on Sam Altman at their trial today - Business Insider
+- Tennessee enacts new US House map carving up majority-Black district in Memphis - AP News
+- DeSantis acknowledges Florida’s ‘Alligator Alcatraz’ may wind down operations - Politico
+- Minneapolis man pleads guilty to syringe attack against Rep. Ilhan Omar - NBC News
+- Survivors of Mississippi tornadoes crawled under furniture and held onto their kids - AP News
+- Comey seeks to cancel upcoming court appearance in North Carolina in Trump threat case - Politico
+- USPS considers allowing people to ship handguns through the mail - AP News
+- Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread - nytimes.com
+- Elections 2026 live: Election results being announced in some English councils, with other counts still to start - BBC
+- UAE reports drone and missile attack as Iran war ceasefire is challenged - AP News
+- Two ISIS-linked women facing slavery charges after return to Australia - CNN
+- Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch
 - Oil prices rise after US and Iran exchange fire in Hormuz strait - BBC
-- Stock futures are flat as traders monitor U.S.-Iran developments; April jobs report looms: Live updates - CNBC
-- Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War - nytimes.com
+- Stock futures are higher as traders monitor U.S.-Iran developments; April jobs report looms: Live updates - CNBC
+- Coinbase Swings to a Loss While Posting Another Revenue Drop - Bloomberg.com
 - Google unveils Whoop-like screenless Fitbit Air - TechCrunch
-- Apple’s AirPods with cameras for AI are apparently close to production - The Verge
+- AirPods with cameras reportedly in final testing at Apple - Mashable
