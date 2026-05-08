@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-08 18:51_
+_Updated: 2026-05-08 20:51_
 
 ## Top Stories
 
+- Trump: Vapenvila mellan Ryssland och Ukraina - GP
 - DN Direkt – Avloppsläckan fixad – Malmöbor kan spola som vanligt - Dagens Nyheter
-- 18-åring åtalas – misstänks ha varit ledande i sadistsekt - Aftonbladet
-- Mystiska ljus sågs från månen - Svenska Dagbladet
+- Regeringen pausar ny elkabel till Danmark efter EU-konflikt - SVT Nyheter
+- Just nu: 18-årige ”Chai” åtalas för 77 brott - Västerbottens-Kuriren
+- Fredsförslaget: Döp ett hörn vid Gamla Ullevi efter Ingvar Oldsberg - GP
 - INSÄNDARE: Kvittningssystemet ett hot mot demokratin - UNT
-- USA: Attackerat två iranska fartyg under dagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Gobi sushi öppnar igen – det låg bakom smittan - GP
-- Rektor döms för våldtäkter mot elev - Corren
 - Spår av kokain hittades på Leos lekland - GP
-- Man begärd häktad i Säpo-ärende – misstänks för grovt sanktionsbrott - SVT Nyheter
-- Krogbesökarna om slopade matkravet: ”Låt folket dansa och dricka” - Dagens Nyheter
-- Flygvärdinna inte smittad av hantavirus - Aftonbladet
+- Brandrisk i stora delar av Sverige - SVT Nyheter
+- Rektor döms för våldtäkter mot elev - Corren
+- Åkesson: Ökad reduktionsplikt är en röd linje för oss - Dagens Nyheter
+- Guide: Få koll på hantavirus – från symtom till spridning - SVT Nyheter
 - DN Direkt – Anna Hallberg ny ledamot av Svenska Akademien - Dagens Nyheter
+- Larm om skogsbrand nära Tjernobyl – sprids snabbt - Västerbottens-Kuriren
 - Nya bombningar i Libanon – flera dödade - Västerbottens-Kuriren
-- Avgångskrav i Labour när Farage jublar i England - Corren
-- Utbetalningarna av elstödet startar i juni - Regeringen.se
+- Då börjar elstödet betalas ut - Aftonbladet
 - Bostadspriserna stiger – nya rekord i innerstan - Mitt i
-- Rekordstor brottsvinst i kryptovaluta säkrad - Åklagarmyndigheten
-- Veckans metallbörs: Stark uppgång för silver och tenn - Metal Supply
+- Rekordbeslag av kryptovaluta i Sverige - SVT Nyheter
+- Flera frågetecken kring Intrums nyemission - finanswatch.se
 - Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
 - Valve släpper CAD-filer för Steam Controller - Nordichardware
 
@@ -37,16 +37,16 @@ _Updated: 2026-05-08 18:51_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Aalto drabbades i global hackerattack mot tusentals skolor och universitet - Yle
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global hackerattack mot universitet – data läckt - Svenska Epoch Times
 
 ## Technology
 
@@ -65,9 +65,9 @@ _Updated: 2026-05-08 18:51_
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 
@@ -90,38 +90,39 @@ _Updated: 2026-05-08 18:51_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -132,33 +133,32 @@ _Updated: 2026-05-08 18:51_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Mottagare av CIMED projektbidrag 2026-2028 - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
-- CLAAS API connects to Farm Management Information Systems - Mynewsdesk
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Mjau Kattungeskolan teaser - Mynewsdesk
