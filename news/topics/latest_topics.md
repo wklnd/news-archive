@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-08 10:55_
+_Updated: 2026-05-08 12:52_
 
 ## Top Stories
 
-- Förenade arabemiraten: Svarar på iranska robotar - Västerbottens-Kuriren
+- Emma Bouvin: Trump kallar det ”love tap” – men vem pussar vems rumpa nu? - Dagens Nyheter
 - Labour och Tories backar kraftigt i brittiska lokalval - SVT Nyheter
+- Misstänkt föremål i Göteborg – boende inryms - Aftonbladet
+- Gisslandrama – har barrikaderat sig i bankvalv - GP
+- Global hackerattack mot universitet – data läckt - Västerbottens-Kuriren
 - DN Direkt – Avloppsläckan fixad – Malmöbor kan spola som vanligt - Dagens Nyheter
-- Ytterligare en gripen i Säpoärende - GP
-- Universitetet bekräftar – data har läckt - UNT
-- Uppgifter: Polisen stoppade högerextremt våldsdåd i Malmö - Sveriges Radio
+- Tvåbarnspappan i pedofilringen döms för nya brott - Dagens Nyheter
+- Kvinnor måste dela rum på Karolinskas BB: ”Helt galet” - Dagens Nyheter
 - Ny statlig e-legitimation ska stoppa identitetsmissbruk - DagensNaringsliv.se
-- Övning i krigsgravtjänst under Aurora 26 - Försvarsmakten
-- Socialstyrelsen: Svårt uppskatta välfärdsbrottslighetens omfattning - Dagens Nyheter
-- Hetaste frågorna på Vårdförbundets kongress - Vårdfokus
-- DN Direkt – Minst en dödlig björnattack i Japan - Dagens Nyheter
+- 19-åring dog i lägenhetsbrand – man döms för dråp - Dagens Nyheter
 - Inga vapenvilor – stora anfall inför Putins parad - Västerbottens-Kuriren
-- Trump träffade ”dynamisk” Lula - Västerbottens-Kuriren
-- Förenade arabemiraten: Iran attackerar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ovanlig prisökning på bostäder i Göteborg - GP
+- Iran: Vi har bordat en oljetanker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Ytterligare en anhållen i Säpo-ärende - Dagens Nyheter
+- Trump till EU: Uppfyll avtalet senast 4 juli - Corren
+- Bostadspriserna stiger – nya rekord i innerstan - Mitt i
+- Busch i EU-bråk: Pausar kabelbygge till Danmark - Tidningen Näringslivet
 - TRR: Inga tecken på att AI tar jobben - Svenska Dagbladet
-- Saabs förstärker luftvärnssystemet RBS 70 NG med ny robot - Cision News
-- Volvo och Scania pressas av Kina och EU - Dagens Nyheter
+- Rekordstor brottsvinst i kryptovaluta säkrad - Åklagarmyndigheten
 - Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
-- Snabbast med framhjulsdrift på Nordschleife – Golf GTI Edition 50 - auto motor & sport
+- 30-åring startar nytt företag i Luleå - Kuriren
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-05-08 10:55_
 - GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Nytt nederlag för Trump – domstol dömer ut global 10-procentstull - EFN
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Nytt nederlag för Trump – domstol dömer ut global 10-procentstull - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Global Mofys aktier stiger efter urval till Nvidias program av Investing.com - Investing.com Sverige
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
@@ -56,20 +56,20 @@ _Updated: 2026-05-08 10:55_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -96,26 +96,26 @@ _Updated: 2026-05-08 10:55_
 
 ## Health
 
-- Ökat investerarintresse för kvinnohälsa – Göteborgsstartup stänger övertecknad runda - Mynewsdesk
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Vi presenterar HealthBench - OpenAI
-- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Vi presenterar HealthBench - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
@@ -125,8 +125,8 @@ _Updated: 2026-05-08 10:55_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
@@ -136,7 +136,7 @@ _Updated: 2026-05-08 10:55_
 - Ny koalition för att vidareutveckla bedömning av forskning - Umeå universitet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
