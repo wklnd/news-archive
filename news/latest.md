@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-08 19:56_
+_Updated: 2026-05-08 21:57_
 
-- Supreme Court of Virginia strikes down redistricting amendment, keeps current maps in place - Virginia Mercury
-- The U.S. fires on 2 Iranian tankers trying to evade its blockade in Gulf of Oman - NPR
-- Pentagon releases swath of UFO files - Politico
-- See How the G.O.P. Cut Up a Southern State’s Only Majority Black District - The New York Times
+- Trump says ceasefire still intact after burst of violence with Iran - The Washington Post
+- Virginia Supreme Court blocks Democratic congressional map, boosting GOP midterm hopes - NBC News
+- ‘Make up their own minds’: Pentagon releases first tranche of UFO files - Al Jazeera
+- Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue - The New York Times
 - Americans hail Pope Leo XIV as ‘breath of fresh air’ one year in, as Trump clashes linger - The Guardian
-- Supreme court’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
+- Iran and U.S. Consider One-Page Plan to End Hostilities, Iranian Officials Say - The New York Times
+- Trump’s Latest Tariff Setback Looms Over China Talks - The New York Times
 - International cyber attack disrupts swathe of universities and schools - BBC
-- Search of property linked to Kristin Smart’s 1996 disappearance hasn’t found her remains yet, sheriff says - NBC News
-- Apparent bear attack kills missing hiker in Montana's Glacier National Park - CBS News
-- Iowa Is Ruby Red. A Democrat There Is Worrying Republicans Anyway. - The New York Times
-- Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
-- UK Identifies New Suspected Hantavirus Cruise Case (Latest Updates) - Forbes
-- North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S. - WSJ
-- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade - The Guardian
-- Jobs report showed hiring slowed, but exceeded expectations - ABC News - Breaking News, Latest News and Videos
-- Stock Market Today: Dow, Nasdaq Open Higher on Better-Than-Expected Jobs Report — Live Updates - WSJ
-- Prices are up, but Mother's Day still means brunch - NPR
+- Kristin Smart case: Stockton native's remains still not found, convicted killer's mother a person of interest - KCRA
+- Supreme court’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
+- Live Updates: U.K. Local Election Results Point to Big Losses for Starmer’s Party - The New York Times
+- Hantavirus latest updates: 6 states are monitoring cruise ship passengers for potential infections - Yahoo
+- Trump announces three-day ceasefire in Russia-Ukraine war - Al Jazeera
+- Rubio charms in Rome, but he says Trump’s verbal attacks may continue - The Washington Post
+- S&P 500 rises to fresh record on strong jobs report and Iran deal hopes, heads for 6th winning week in a row: Live updates - CNBC
+- US economy posts second straight month of strong job gains, but strains remain - Reuters
 - US jet fuel could be used in Europe to ease possible shortages - BBC
-- Google Fitbit Air preorders come with a second band for free - The Verge
+- Prices are up, but Mother's Day still means brunch - NPR
 - Nintendo Switch 2 price rise takes effect from September - BBC
+- Google Fitbit Air preorders come with a second band for free - The Verge
