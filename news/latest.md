@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-08 18:01_
+_Updated: 2026-05-08 19:56_
 
-- Court rejects Virginia redistricting in a blow to Democrats' counter to Trump, GOP - NPR
-- Trump says ceasefire still intact after burst of violence with Iran - The Washington Post
-- Late Night Recaps Rubio’s Peacemaking Papal Visit - The New York Times
-- NAACP Tennessee files lawsuit challenging redrawn US House district map - Tennessee Lookout
+- Supreme Court of Virginia strikes down redistricting amendment, keeps current maps in place - Virginia Mercury
+- The U.S. fires on 2 Iranian tankers trying to evade its blockade in Gulf of Oman - NPR
 - Pentagon releases swath of UFO files - Politico
+- See How the G.O.P. Cut Up a Southern State’s Only Majority Black District - The New York Times
+- Americans hail Pope Leo XIV as ‘breath of fresh air’ one year in, as Trump clashes linger - The Guardian
 - Supreme court’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
-- Cyber attack disrupts swath of US universities and schools nationwide - BBC
-- Ohio deputy who fatally shot Black man entering his grandmother's house is convicted of reckless homicide - CBS News
-- Missing hiker found dead of suspected bear attack in Glacier National Park - NBC News
+- International cyber attack disrupts swathe of universities and schools - BBC
+- Search of property linked to Kristin Smart’s 1996 disappearance hasn’t found her remains yet, sheriff says - NBC News
+- Apparent bear attack kills missing hiker in Montana's Glacier National Park - CBS News
 - Iowa Is Ruby Red. A Democrat There Is Worrying Republicans Anyway. - The New York Times
 - Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
-- Hantavirus latest updates: New case suspected as U.S. and other countries search for passengers who left cruise ship - Yahoo
-- The U.S. awaits Iran's response as the UAE reports another missile barrage - NPR
+- UK Identifies New Suspected Hantavirus Cruise Case (Latest Updates) - Forbes
 - North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S. - WSJ
-- Jobs report shows hiring slowed as Iran war took hold - ABC News - Breaking News, Latest News and Videos
-- Dow Jones Futures Rise As Trump Says U.S.-Iran Ceasefire Holds; Akamai, Cloudflare, IREN Are Big Earnings Movers - Investor's Business Daily
-- US jet fuel could be used in Europe to ease possible shortages - BBC
+- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade - The Guardian
+- Jobs report showed hiring slowed, but exceeded expectations - ABC News - Breaking News, Latest News and Videos
+- Stock Market Today: Dow, Nasdaq Open Higher on Better-Than-Expected Jobs Report — Live Updates - WSJ
 - Prices are up, but Mother's Day still means brunch - NPR
+- US jet fuel could be used in Europe to ease possible shortages - BBC
+- Google Fitbit Air preorders come with a second band for free - The Verge
 - Nintendo Switch 2 price rise takes effect from September - BBC
-- Blackmagic Camera Hands-On: Apple Watch Compatibility Gives Vloggers Remote Control - Engadget
