@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-08 12:52_
+_Updated: 2026-05-08 14:53_
 
 ## Top Stories
 
-- Emma Bouvin: Trump kallar det ”love tap” – men vem pussar vems rumpa nu? - Dagens Nyheter
-- Labour och Tories backar kraftigt i brittiska lokalval - SVT Nyheter
-- Misstänkt föremål i Göteborg – boende inryms - Aftonbladet
-- Gisslandrama – har barrikaderat sig i bankvalv - GP
-- Global hackerattack mot universitet – data läckt - Västerbottens-Kuriren
-- DN Direkt – Avloppsläckan fixad – Malmöbor kan spola som vanligt - Dagens Nyheter
+- Tonåring ska ha uppmanat till självmord, våldtäkt och djurplågeri - Sveriges Radio
+- USA bekräftar attacker vid Hormuzsundet - GP
+- Regeringen pausar ny elkabel till Danmark efter EU-konflikt - SVT Nyheter
+- Storkris i Labour – ytterhögern jublar i England - Västerbottens-Kuriren
+- DN Direkt – Rektor döms för våldtäkter mot elev - Dagens Nyheter
+- Man begärd häktad i Säpo-ärende – misstänks för grovt sanktionsbrott - SVT Nyheter
+- Rektor döms för våldtäkter mot elev - Västerbottens-Kuriren
 - Tvåbarnspappan i pedofilringen döms för nya brott - Dagens Nyheter
 - Kvinnor måste dela rum på Karolinskas BB: ”Helt galet” - Dagens Nyheter
-- Ny statlig e-legitimation ska stoppa identitetsmissbruk - DagensNaringsliv.se
-- 19-åring dog i lägenhetsbrand – man döms för dråp - Dagens Nyheter
-- Inga vapenvilor – stora anfall inför Putins parad - Västerbottens-Kuriren
-- Iran: Vi har bordat en oljetanker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Ytterligare en anhållen i Säpo-ärende - Dagens Nyheter
-- Trump till EU: Uppfyll avtalet senast 4 juli - Corren
-- Bostadspriserna stiger – nya rekord i innerstan - Mitt i
-- Busch i EU-bråk: Pausar kabelbygge till Danmark - Tidningen Näringslivet
-- TRR: Inga tecken på att AI tar jobben - Svenska Dagbladet
+- Morgonrapporten: Invasiva arter sprider sig – 48 högriskarter har setts i Västerås - Västerås Tidning
+- Regeringen kräver inte att Israel släpper svensk - GP
+- Iran: Vi har stoppat en oljetanker - Västerbottens-Kuriren
+- USA-läcka: Iran kan hålla ut i månader - Västerbottens-Kuriren
+- Stor takbrand i Köpenhamn – 120 evakuerade - Folkbladet
+- Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
+- Stor skillnad i bolåneräntor – hushåll kan spara tusenlappar - Finansinspektionen
 - Rekordstor brottsvinst i kryptovaluta säkrad - Åklagarmyndigheten
+- Flera frågetecken kring Intrums nyemission - finanswatch.se
 - Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
-- 30-åring startar nytt företag i Luleå - Kuriren
+- Valve släpper CAD-filer för Steam Controller - Nordichardware
 
 ## World News
 
@@ -34,59 +34,59 @@ _Updated: 2026-05-08 12:52_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Nytt nederlag för Trump – domstol dömer ut global 10-procentstull - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Global Mofys aktier stiger efter urval till Nvidias program av Investing.com - Investing.com Sverige
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Användningen av artificiell intelligens (AI) i logistik: Ett sätt att effektivitet ökar och optimeringar med kostnadsbesparingar - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
-- Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Consid takes on the German market - Via TT
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -147,18 +147,18 @@ _Updated: 2026-05-08 12:52_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
