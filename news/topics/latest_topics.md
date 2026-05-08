@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 00:31_
+_Updated: 2026-05-09 01:36_
 
 ## Top Stories
 
-- Kvinna död efter frontalkrock på E4 - Västerbottens-Kuriren
-- Sandra Stiskalo: Gamla ordningen har fallit – Nigel Farage kan inte sluta le - Dagens Nyheter
-- Bajsläckan fixad – Malmöbor kan spola som vanligt - GP
-- Storbrand i Vretstorp – två personer till sjukhus - Sveriges Radio
+- DN Direkt – Avloppsläckan fixad – Malmöbor kan spola som vanligt - Dagens Nyheter
 - Rysslandsexpert: ”Putin har skapat en fälla för sig själv” - Dagens Nyheter
-- Därför blev hundratals personer i Lerum sjuka - SVT Nyheter
-- 18-åring misstänks ha styrt knivdåd över nätet – kopplas till nätsekt - Dagens Nyheter
-- Utrikesministern efter Löwengrip-kritik: Kvinnor har ont om tid - Dagens Nyheter
-- Åtta timmar fågelsång hörs i radio: ”Man kan bara njuta” - Sveriges Radio
-- Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
+- Minst två till sjukhus efter brand - Västerbottens-Kuriren
+- Kvinna i 70-årsåldern död efter frontalkrock - TV4 Nyheterna
 - Trump: Vapenvila mellan Ryssland och Ukraina - GP
+- Svenska judinnan: ”Märkbart hot nu” - Svenska Dagbladet
+- 18-åring misstänks ha styrt knivdåd över nätet – kopplas till nätsekt - Dagens Nyheter
+- Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
+- Åtta timmar fågelsång hörs i radio: ”Man kan bara njuta” - Sveriges Radio
+- Krogbesökarna om slopade matkravet: ”Låt folket dansa och dricka” - Dagens Nyheter
 - Klart: Nystart i danska regeringsförhandlingar - Västerbottens-Kuriren
+- Avgångskrav i Labour när Farage jublar i England - Corren
+- USA väntar sig svar från Iran idag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Nya bombningar i Libanon – flera dödade - Västerbottens-Kuriren
-- Larm om skogsbrand nära Tjernobyl – sprids snabbt - GP
-- Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
-- Rekordstor brottsvinst i kryptovaluta säkrad - Åklagarmyndigheten
 - Skalv i Garpenbergsgruvan – igen - Västerbottens-Kuriren
-- Knäckte koden – fann enkel väg till framgång - Svenska Dagbladet
-- Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
+- Superprognos: Så blir vädret i sommar - Expressen
+- Rekordbeslag av kryptovaluta – kopplat till en svensk man - Breakit
+- Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
 - Valve släpper CAD-filer för Steam Controller - Nordichardware
+- Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
 
 ## World News
 
@@ -100,20 +100,20 @@ _Updated: 2026-05-09 00:31_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
@@ -147,8 +147,8 @@ _Updated: 2026-05-09 00:31_
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL Nyheter
