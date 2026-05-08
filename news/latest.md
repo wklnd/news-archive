@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-08 16:25_
+_Updated: 2026-05-08 18:01_
 
+- Court rejects Virginia redistricting in a blow to Democrats' counter to Trump, GOP - NPR
 - Trump says ceasefire still intact after burst of violence with Iran - The Washington Post
-- Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)
-- Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
 - Late Night Recaps Rubio’s Peacemaking Papal Visit - The New York Times
-- Six key things we learned about Pope Leo in his first year - CNN
+- NAACP Tennessee files lawsuit challenging redrawn US House district map - Tennessee Lookout
+- Pentagon releases swath of UFO files - Politico
+- Supreme court’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
 - Cyber attack disrupts swath of US universities and schools nationwide - BBC
-- Anger mounts after Tennessee Republicans redraw maps – US politics live - The Guardian
-- Ex-deputy found guilty of reckless homicide in shooting of Black man entering grandmother's home - AP News
-- Apparent bear attack kills missing hiker in Montana's Glacier National Park - CBS News
+- Ohio deputy who fatally shot Black man entering his grandmother's house is convicted of reckless homicide - CBS News
+- Missing hiker found dead of suspected bear attack in Glacier National Park - NBC News
 - Iowa Is Ruby Red. A Democrat There Is Worrying Republicans Anyway. - The New York Times
-- Hantavirus latest updates: 5 states are monitoring cruise ship passengers for potential infections - Yahoo
+- Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
+- Hantavirus latest updates: New case suspected as U.S. and other countries search for passengers who left cruise ship - Yahoo
 - The U.S. awaits Iran's response as the UAE reports another missile barrage - NPR
-- Hostages taken in bank robbery in western Germany, police say - Euronews.com
-- Myanmar Says Giant 11,000-Carat Ruby Found in Mandalay Region - Bloomberg.com
-- U.S. payrolls increased 115,000 in April, more than expected; unemployment at 4.3% - CNBC
-- Wall Street ticks up, oil prices steady even after attacks imperil the US ceasefire with Iran - AP News
-- Sony Announces $3 Billion Buyback as Memory Prices Take Toll - Bloomberg.com
-- $2 billion tech firm pauses 401(k) contributions for staff in the latest corporate benefit rollback - Business Insider
+- North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S. - WSJ
+- Jobs report shows hiring slowed as Iran war took hold - ABC News - Breaking News, Latest News and Videos
+- Dow Jones Futures Rise As Trump Says U.S.-Iran Ceasefire Holds; Akamai, Cloudflare, IREN Are Big Earnings Movers - Investor's Business Daily
+- US jet fuel could be used in Europe to ease possible shortages - BBC
+- Prices are up, but Mother's Day still means brunch - NPR
 - Nintendo Switch 2 price rise takes effect from September - BBC
-- Apple’s $599 MacBook Neo could be at risk from rising RAM prices - The Verge
+- Blackmagic Camera Hands-On: Apple Watch Compatibility Gives Vloggers Remote Control - Engadget
