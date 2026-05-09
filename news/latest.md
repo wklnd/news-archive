@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-09 11:02_
+_Updated: 2026-05-09 12:35_
 
-- Virginia Supreme Court strikes down gerrymandered redistricting plan; Democrats appealing - WJLA
-- Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal - CBS News
-- UFO files spanning decades are released by Defense Department - NPR
-- FCC's warnings on political interviews 'chill' First Amendment, ABC says - Politico
+- Republicans gain upper hand in redistricting fight, but they still face midterm headwinds - NBC News
+- Small Georgia town rehires local police after mayor fired entire department - The Guardian
+- ABC argues Trump administration is trying to chill free speech - NPR
 - White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post
 - Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap - AP News
-- Alabama lawmakers pass plan for new US House primary if courts allow different districts - AP News
-- Samuel Alito’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
+- A US Navy Fighter Jet Hit the Smokestacks of Two Iran Blockade Runners - Business Insider
 - Judge in Charlie Kirk case won't forbid cameras from courtroom - Courthouse News
-- Jury Finds City of L.A. Not Liable in 2021 Police Shooting of Teen Girl - The New York Times
-- Trump's feuds, tensions with allies likely to outlast Iran war - Reuters
-- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade | Ukraine - The Guardian
-- Why health officials say the hantavirus cruise outbreak is not the next pandemic - The Washington Post
+- International cyber attack disrupts swathe of universities and schools - BBC
+- Virginia Supreme Court strikes down gerrymandered redistricting plan; Democrats appealing - WJLA
+- In Kristin Smart Case, Soil Suggests Human Remains Once Present in Yard - The New York Times
+- A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability - The New York Times
+- Spain readies for evacuations as a hantavirus-hit cruise ship heads for the Canary Islands - AP News
 - ‘Leader of the pack’: Reform UK makes election gains, humiliating Labour - Al Jazeera
-- Inspire Brands Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering - Business Wire
-- Former Wachtell lawyer turned banker linked to insider trading case, sources say - Reuters
-- Lumentum’s fiery stock rally earns it a spot in this hot index - MarketWatch
+- Trump's feuds, tensions with allies likely to outlast Iran war - Reuters
 - US jobs data beats expectations for second month in a row - BBC
-- Discord is back after a major outage. - The Verge
+- Atlanta-based owner of Arby’s, Dunkin’ files for IPO - AJC.com
+- Frontier Airlines jet bound for LAX strikes, kills person on runway during takeoff at Denver International Airport - ABC7 Los Angeles
+- Lumentum’s fiery stock rally earns it a spot in this hot index - MarketWatch
 - The new AirPods prove Apple is still the king of design - PhoneArena
+- iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac
