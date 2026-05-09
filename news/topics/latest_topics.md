@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 17:29_
+_Updated: 2026-05-09 18:28_
 
 ## Top Stories
 
 - Stark säkerhet i Moskva inför segerdagens Putin-tal - GP
+- M laddar för valet – med lovord från Friedrich Merz - Sveriges Radio
 - Döda ålar i kanalen efter avloppsläckan - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Iran låter USA vänta på svar på fredsplan - Dagens Nyheter
+- ”Tre veckor till utan dansk regering” - Svenska Dagbladet
 - Ny premiärminister i Ungern – Orbán lämnar efter 16 år - SVT Nyheter
-- DN Direkt – Klart: Nystart i danska regeringsförhandlingar - Dagens Nyheter
-- Person hittad i brinnande villa - Sveriges Radio
-- Bil har kört igenom busskur vid färjeläge i Göteborg - TV4 Nyheterna
+- Återigen tekniska problem med körkortsprov - SVT Nyheter
 - M lovar familjer 5 000 kronor mer i plånboken - Corren
-- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
+- Miljoner till Kristerssons svägerskas stiftelse - GP
 - Man död efter lägenhetsbrand – sängen fattade eld - NWT
-- Hemlös styrde gängens ”jobbsajt” – från Chile - Dagens Nyheter
-- Svensk på virusfartyget följs av smittskyddet: ”Det har skötts exemplariskt” - Omni Ekonomi
+- Då anländer Hondius till hamnen - Aftonbladet
 - EU-landets ledare träffade Putin i Moskva - Västerbottens-Kuriren
-- Misstänkt oljeläckage utanför iranska Kharg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
-- Rusande pris på vigselringar – leta i gömmorna - Corren
+- Ramsteinbor oroliga: ”Utan flygbasen blir vi en spökstad” - Dagens Nyheter
+- Rättegång mot misstänkta krigsförbrytare i Syrien: ”En cirkus utan legitimitet” - Dagens Nyheter
 - EU: Rätt till ersättning för inställda flyg - Aftonbladet
 - En lägenhet för 5 miljarder och motorvägar ingen kör på - Dagens PS
-- Nedcabbat och eldrivet i sommar – här är varianterna som finns ute - Dagens Nyheter
+- Aston Martin släpper nya DB12 S – pressar Ferrari och Porsche - Dagens PS
+- Bunden boränta kan sänkas – så kan du agera - Dagens Nyheter
 - Perplexity släpper sin AI-assistent till macOS - Teknikveckan
 - INSÄNDARE: 13 000 kronor för ett låsbyte – ett hån mot sunt förnuft - Norrtelje Tidning
 
@@ -33,20 +33,20 @@ _Updated: 2026-05-09 17:29_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Etraveli rusar – säljer resor för 175 miljarder och stärker global dominans - travelnews-se
-- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
 
 ## Technology
 
@@ -122,6 +122,7 @@ _Updated: 2026-05-09 17:29_
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -131,12 +132,11 @@ _Updated: 2026-05-09 17:29_
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
