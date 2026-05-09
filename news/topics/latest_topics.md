@@ -1,98 +1,98 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 21:40_
+_Updated: 2026-05-09 23:10_
 
 ## Top Stories
 
+- Putin: Kriget i Ukraina kan gå mot ett slut - GP
 - Rysslandsexpert: Sprickan är början på slutet för Putin - Dagens Nyheter
-- Sjukhus i Kristianstad i lockdown efter stök - Aftonbladet
+- Ung man död i Kristianstad – sjukhus i lockdown - Aftonbladet
+- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Iran låter USA vänta på svar på fredsplan - Dagens Nyheter
 - Marinbiologen: räkna med övergödning och syrebrist i kanalen - Sydsvenskan
-- Putin: Kriget i Ukraina kan gå mot ett slut - Corren
-- Minst sju döda efter israeliska attacker i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Två föll från balkong – förda till sjukhus - Västerbottens-Kuriren
-- M lovar familjer 5 000 kronor mer i plånboken - GP
+- M lovar familjer 5 000 kronor mer i plånboken - Corren
 - Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
-- Hemlös styrde gängens ”jobbsajt” – från Chile - Dagens Nyheter
 - Miljoner till Kristerssons svägerskas stiftelse: ”Delikatessjäv” - SVT Nyheter
-- Ny premiärminister i Ungern – Orbán lämnar efter 16 år - SVT Nyheter
-- Putin lovade Slovakien gott om energi - Västerbottens-Kuriren
-- Skottland vill bli fritt – oro för Reform - Västerbottens-Kuriren
-- Ramsteinbor oroliga: ”Utan flygbasen blir vi en spökstad” - Dagens Nyheter
+- Misstänkt skuggfartyg utanför Trelleborg kan få segla vidare - SVT Nyheter
+- Skottland vill bli fritt – oro för Reform - GP
+- Varningen: Här föds nästa generation terrorister - Corren
+- Trafikolycka i Mantorp – två till sjukhus - Expressen
+- Man föll från balkong – allvarligt skadad - Aftonbladet
 - EU: Rätt till ersättning för inställda flyg - Sydsvenskan
 - Bunden boränta kan sänkas – så kan du agera - Dagens Nyheter
 - Så får man elstödet utbetalt innan midsommar - Örebronyheter
 - Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
 - Stor tävling: Här är farkosten som ska resa till vår grannstjärna 40 000 miljarder kilometer bort - Illustrerad Vetenskap
-- Perplexity släpper sin AI-assistent till macOS - Teknikveckan
+- Har du en smart-tv från Samsung, Sony eller LG? Då kan den spionera på dig - Dagens.se
 
 ## World News
 
+- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 20:10 - Tv.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Consid takes on the German market - Via TT
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
+- MMTEC, Inc. Announces 1-for-8 Reverse Stock Split (PR Newswire) - Aktiellt
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
