@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-09 09:26_
+_Updated: 2026-05-09 11:02_
 
-- Virginia Democrats ask state Supreme Court to halt redistricting ruling - The Hill
+- Virginia Supreme Court strikes down gerrymandered redistricting plan; Democrats appealing - WJLA
 - Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal - CBS News
-- U.F.O. Files Released by U.S. Shed Light on What the Government Knows - The New York Times
+- UFO files spanning decades are released by Defense Department - NPR
 - FCC's warnings on political interviews 'chill' First Amendment, ABC says - Politico
 - White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post
-- How the Republicans pulling ahead in the redistricting war affects the midterms - CNN
-- Alabama asks Supreme Court to clear way for Republicans’ redrawn voting map - The Hill
+- Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap - AP News
+- Alabama lawmakers pass plan for new US House primary if courts allow different districts - AP News
 - Samuel Alito’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
 - Judge in Charlie Kirk case won't forbid cameras from courtroom - Courthouse News
-- 4 people convicted of conspiracy in US trial tied to 2021 assassination of Haiti’s president - AP News
+- Jury Finds City of L.A. Not Liable in 2021 Police Shooting of Teen Girl - The New York Times
+- Trump's feuds, tensions with allies likely to outlast Iran war - Reuters
 - Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade | Ukraine - The Guardian
 - Why health officials say the hantavirus cruise outbreak is not the next pandemic - The Washington Post
-- Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
-- At least 3 hikers killed by volcano eruption on Indonesian island - NBC News
+- ‘Leader of the pack’: Reform UK makes election gains, humiliating Labour - Al Jazeera
 - Inspire Brands Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering - Business Wire
-- Claude, brought to you by Elon Musk - Business Insider
+- Former Wachtell lawyer turned banker linked to insider trading case, sources say - Reuters
 - Lumentum’s fiery stock rally earns it a spot in this hot index - MarketWatch
-- S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism - Reuters
-- Is Discord down? 38,000 users report issues with platform on Friday - USA Today
+- US jobs data beats expectations for second month in a row - BBC
+- Discord is back after a major outage. - The Verge
 - The new AirPods prove Apple is still the king of design - PhoneArena
