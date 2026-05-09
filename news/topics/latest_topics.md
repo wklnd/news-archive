@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 03:15_
+_Updated: 2026-05-09 06:49_
 
 ## Top Stories
 
-- Rysslandsexpert: ”Putin har skapat en fälla för sig själv” - Dagens Nyheter
-- Sverige nämns i nyligen släppta UFO-filerna: ”Välkänt” - SVT Nyheter
 - Republikanerna kammar hem tung seger i domstol - Dagens Nyheter
-- Gobi sushi öppnar igen – det låg bakom smittan - GP
-- USA: Attackerat två iranska fartyg under dagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Bajsläckan fixad – Malmöbor kan spola som vanligt - Västerbottens-Kuriren
+- Sverige nämns i nyligen släppta UFO-filerna: ”Välkänt” - SVT Nyheter
+- Rysslandsexpert: ”Putin har skapat en fälla för sig själv” - Dagens Nyheter
+- Flykten genom världens farligaste sund - Svenska Dagbladet
+- Rektorn bytte ut hälften av lärarna i skolan – då ändrades allt - GP
+- Därför blev hundratals personer i Lerum sjuka - SVT Nyheter
 - Kvinna död efter frontalkrock på E4 - Västerbottens-Kuriren
-- 18-åring misstänks ha styrt knivdåd över nätet – kopplas till nätsekt - Dagens Nyheter
+- Beskedet: SD-toppen redo att bli utrikesminister - GP
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
-- Åtta timmar fågelsång hörs i radio: ”Man kan bara njuta” - Sveriges Radio
-- Trump: Vapenvila mellan Ryssland och Ukraina - GP
-- Klart: Nystart i danska regeringsförhandlingar - Västerbottens-Kuriren
-- Avgångskrav i Labour när Farage jublar i England - Corren
-- Nya bombningar i Libanon – flera dödade - Västerbottens-Kuriren
+- DN Direkt – Stor brand vid E20 – två skadade till sjukhus - Dagens Nyheter
+- Uppgifter: 3 000 fat olja kan ha läckt utanför ön Kharg - Omni
+- Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
+- Misstänkt oljeläckage utanför iranska Kharg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Vapenvila mellan Ryssland och Ukraina - Västerbottens-Kuriren
+- Nytt gruvskalv i Garpenberg – personal utryms - Sveriges Radio
+- Busch i bråk – pausar elkabel till Danmark: ”EU ska inte stjäla svenskarnas elpengar” - Ny Teknik
 - Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
-- Superprognos: Så blir vädret i sommar - Expressen
-- EU-bråk sätter stopp för elkabel mellan Kungsbacka och Danmark - Sveriges Radio
-- Stockholmsbörsen stängde veckan rejält i moll - Västerbottens-Kuriren
-- Valve släpper CAD-filer för Steam Controller - Nordichardware
-- Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
+- Regeringen: Elstödet börjar betalas ut i juni - Omni
+- Måste man träna kondition om man älskar sin styrketräning? - Dagens Nyheter
+- Apple och Meta protesterar mot kanadensiskt lagförslag. Vägrar öppna bakdörrar. - feber.se
 
 ## World News
 
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -54,20 +54,20 @@ _Updated: 2026-05-09 03:15_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -77,16 +77,16 @@ _Updated: 2026-05-09 03:15_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansiera energilagring för att säkra förnybar framtid - Siemens
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -99,23 +99,23 @@ _Updated: 2026-05-09 03:15_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Vi presenterar HealthBench - OpenAI
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 
 ## Science
 
@@ -157,8 +157,8 @@ _Updated: 2026-05-09 03:15_
 - Lediga jobb - Land Lantbruk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
