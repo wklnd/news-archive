@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 13:26_
+_Updated: 2026-05-09 14:10_
 
 ## Top Stories
 
 - ”Putin ber Ukraina om paus” - Västerbottens-Kuriren
 - Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
 - Skånska lantbrukare ber om efterlängtat regn: Oroliga - Omni
+- DN Direkt – Spansk minister: Israel ska släppa svensk aktivist - Dagens Nyheter
 - Linnébor tar strid mot nytt hus – vill ha en park - GP
-- Kraftig brand i villa – en person uttagen ur huset - Aftonbladet
-- Göteborg får direkttåg till Berlin - SVT Nyheter
-- Man död i brand i Kristinehamn - GP
+- Bitsk bäver gjorde tusentals strömlösa i norra Skåne - SVT Nyheter
 - M lovar familjer 5 000 kronor mer i plånboken - Västerbottens-Kuriren
+- JUST NU: Man död efter lägenhetsbrand – sängen fattade eld - NWT
 - Flickor med autism och adhd får sämre stöd i skolan - Sveriges Radio
-- Man död i olycka med fyrhjuling utanför Östersund - SVT Nyheter
+- Regeringen vill att boende nära ny vindkraft ska få pengar - Sveriges Radio
 - Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
-- Iran: Hormuz lika värdefullt som atombomb - Västerbottens-Kuriren
 - Misstänkt oljeläckage utanför iranska Kharg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Iran: Hormuz lika värdefullt som atombomb - Västerbottens-Kuriren
 - Avgångskrav i Labour när Farage jublar i England - SVT Nyheter
 - Rusande pris på vigselringar – leta i gömmorna - GP
 - Storförlust för Truth Socials ägarbolag - Aftonbladet
-- Ray Dalio varnar för finansiell hjärtattack - Dagens PS
-- Rekordbeslag av kryptovaluta – kopplat till en svensk man - Breakit
+- Busch i EU-bråk: Pausar kabelbygge till Danmark - Tidningen Näringslivet
+- Vildmarksvägen kan året runt-öppna – om gruvan blir av - Sveriges Radio
 - Måste man träna kondition om man älskar sin styrketräning? - Dagens Nyheter
 - Apple skickar ut ny mjukvara för Airpods Max 2 - Macworld.se
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 20:10 - TV.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Etraveli rusar – säljer resor för 175 miljarder och stärker global dominans - travelnews-se
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 
 ## Business
 
@@ -113,9 +113,9 @@ _Updated: 2026-05-09 13:26_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-09 13:26_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Lediga jobb - Land Lantbruk
-- Bättre positionering med ny gps-mottagare - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Självgående maskinen minskar stressen i jordbruket - Land Lantbruk
