@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-09 17:34_
+_Updated: 2026-05-09 18:34_
 
 - With GOP wins on election maps, Democrats have a steeper climb to victory - The Washington Post
 - Nebraska’s ‘blue dot’ becomes the center of a closely watched Democratic primary fight - CNN
-- UFO files spanning decades are released by Defense Department - NPR
-- FCC's warnings on political interviews 'chill' First Amendment, ABC says - Politico
-- Live Updates: U.S. awaits Iran's response on peace deal as month-long ceasefire holds - CBS News
-- ‘Super Revolutionaries’: The radical Iranian hardliners bent on sabotaging a deal with the US - CNN
-- Frontier Airlines plane hits person on runway during takeoff at Denver airport - The Guardian
+- ABC argues Trump administration is trying to chill free speech - NPR
+- They graduate to six figure salaries, and grueling work - NPR
+- Russia holds downsized Victory Day parade - Al Jazeera
+- Trump says Russia and Ukraine agree 3-day ceasefire and prisoner swap - Financial Times
+- Frontier Jet Hits Person on Runway During Takeoff at Denver Airport - The New York Times
 - Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia - NPR
+- US strikes Iranian oil tankers while awaiting Tehran response on peace plan - politico.eu
 - These are the Trump officials who may inherit their agencies - Politico
-- Canvas outage delays college finals across the country - Axios
-- Amid Ukraine’s daring assaults, Russia scales back Victory Day celebrations - Al Jazeera
-- U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections - CBS News
 - Hantavirus Cruise Passengers Will Be Evacuated Soon, Report Says (Latest Updates) - Forbes
-- Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era - The Guardian
+- U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections - CBS News
+- Hungary’s Péter Magyar sworn in as prime minister, ending Viktor Orbán’s 16-year rule - AP News
+- Gaza flotilla activists to be released from Israel detention and deported - Reuters
+- What the Musk-Altman courtroom clash reveals about two of the most powerful men in Silicon Valley - Business Insider
 - Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans' - CNBC
 - China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit - AP News
-- Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace - Bloomberg.com
-- Inspire Brands Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering - Business Wire
-- Official One UI 8.5 leaves key Galaxy S26 features missing on the S25 - Sammy Fans
-- Apple Seeds Second iOS 26.5 and iPadOS 26.5 Release Candidates to Developers - MacRumors
+- Day traders who quit their careers and gave up school to chase financial freedom tell us their biggest regrets - Business Insider
+- RGB LED TVs show color crosstalk issues in Display Week demo - The Verge
+- iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac
