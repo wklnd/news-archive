@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 01:36_
+_Updated: 2026-05-09 03:15_
 
 ## Top Stories
 
-- DN Direkt – Avloppsläckan fixad – Malmöbor kan spola som vanligt - Dagens Nyheter
 - Rysslandsexpert: ”Putin har skapat en fälla för sig själv” - Dagens Nyheter
-- Minst två till sjukhus efter brand - Västerbottens-Kuriren
-- Kvinna i 70-årsåldern död efter frontalkrock - TV4 Nyheterna
-- Trump: Vapenvila mellan Ryssland och Ukraina - GP
-- Svenska judinnan: ”Märkbart hot nu” - Svenska Dagbladet
+- Sverige nämns i nyligen släppta UFO-filerna: ”Välkänt” - SVT Nyheter
+- Republikanerna kammar hem tung seger i domstol - Dagens Nyheter
+- Gobi sushi öppnar igen – det låg bakom smittan - GP
+- USA: Attackerat två iranska fartyg under dagen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Bajsläckan fixad – Malmöbor kan spola som vanligt - Västerbottens-Kuriren
+- Kvinna död efter frontalkrock på E4 - Västerbottens-Kuriren
 - 18-åring misstänks ha styrt knivdåd över nätet – kopplas till nätsekt - Dagens Nyheter
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Åtta timmar fågelsång hörs i radio: ”Man kan bara njuta” - Sveriges Radio
-- Krogbesökarna om slopade matkravet: ”Låt folket dansa och dricka” - Dagens Nyheter
+- Trump: Vapenvila mellan Ryssland och Ukraina - GP
 - Klart: Nystart i danska regeringsförhandlingar - Västerbottens-Kuriren
 - Avgångskrav i Labour när Farage jublar i England - Corren
-- USA väntar sig svar från Iran idag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Nya bombningar i Libanon – flera dödade - Västerbottens-Kuriren
-- Skalv i Garpenbergsgruvan – igen - Västerbottens-Kuriren
-- Superprognos: Så blir vädret i sommar - Expressen
-- Rekordbeslag av kryptovaluta – kopplat till en svensk man - Breakit
 - Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
+- Superprognos: Så blir vädret i sommar - Expressen
+- EU-bråk sätter stopp för elkabel mellan Kungsbacka och Danmark - Sveriges Radio
+- Stockholmsbörsen stängde veckan rejält i moll - Västerbottens-Kuriren
 - Valve släpper CAD-filer för Steam Controller - Nordichardware
 - Taycan med Manthey-godis sätter nytt rekord på Nordslingan. Elbilar ska också få vara med i trim-familjen. - feber.se
 
@@ -33,33 +33,34 @@ _Updated: 2026-05-09 01:36_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Victor Galaz: AI and Climate Change – the Good, the Bad, the Ugly - Institutet för framtidsstudier
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-05-09 01:36_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
 
@@ -82,17 +82,17 @@ _Updated: 2026-05-09 01:36_
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
+- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -157,8 +157,8 @@ _Updated: 2026-05-09 01:36_
 - Lediga jobb - Land Lantbruk
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Lediga jobb - Land Lantbruk
 - Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
