@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-09 03:21_
+_Updated: 2026-05-09 06:55_
 
-- Virginia Supreme Court strikes down Democrats' redrawn US House maps, giving Republicans a win - AP News
+- Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win - WTOP
+- White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post
 - Live Updates: U.S. fires on 2 Iran-flagged tankers as Rubio says U.S. expects response on peace deal today - CBS News
 - UFO files spanning decades are released by Defense Department - NPR
-- Republicans gain upper hand in redistricting fight, but they still face midterm headwinds - NBC News
-- International cyber attack disrupts swathe of universities and schools - BBC
-- Trump Administration Wants to Strip 12 Immigrants of U.S. Citizenship - The New York Times
-- Robinson preliminary hearing delayed until July; cameras will be allowed in courtroom - KSL News
-- Democratic Candidates and Voters Challenge Tennessee’s New Map - The New York Times
-- Kristin Smart case: Evidence points to human remains at home linked to man convicted in San Luis Obispo County killing - ABC7 Los Angeles
+- ‘A Historic Shift’: Farage Celebrates Strong Performance in U.K. Local Elections - The New York Times
+- FCC's warnings on political interviews 'chill' First Amendment, ABC says - Politico
+- Alabama Asks Supreme Court to Allow it to Use New Voting Map - The New York Times
+- Trump news at a glance: Republicans dominating redistricting fight across several states before midterms - The Guardian
 - Samuel Alito’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
-- Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap - AP News
-- Starmer vows to fight on as PM despite heavy local election losses for Labour - The Guardian
-- Trump announces three-day of ceasefire between Ukraine and Russia - Euronews.com
+- Judge in Charlie Kirk case won't forbid cameras from courtroom - Courthouse News
+- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade - The Guardian
 - Colombia's rogue hippos could find refuge in India - NPR
+- UK Identifies New Suspected Hantavirus Cruise Case (Latest Updates) - Forbes
+- After Frederiksen Falls Short in Denmark, Right-Leaning Politician Is Asked to Form Government - The New York Times
 - US jobs data beats expectations for second month in a row - BBC
-- Trump Is Planning to Fire FDA Commissioner Marty Makary - WSJ
-- Apple, Intel reach preliminary chip-making deal, WSJ reports - Reuters
 - Claude, brought to you by Elon Musk - Business Insider
-- Google Launches $99 Fitbit Air, a Screenless Wearable for Health Tracking - eWeek
+- Inspire Brands Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering - Business Wire
+- Stock Market Today: Nasdaq, S&P 500 Score Record Closes On Iran Hopes; Nvidia Hits Highs (Live Coverage) - Investor's Business Daily
 - Discord is back after a major outage. - The Verge
+- iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac
