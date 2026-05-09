@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 15:58_
+_Updated: 2026-05-09 17:29_
 
 ## Top Stories
 
 - Stark säkerhet i Moskva inför segerdagens Putin-tal - GP
-- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
 - Döda ålar i kanalen efter avloppsläckan - Sydsvenskan
-- JUST NU: Kraftig lägenhetsbrand i centrala Karlstad – lågor slog ut från fönster - NWT
+- Ny premiärminister i Ungern – Orbán lämnar efter 16 år - SVT Nyheter
+- DN Direkt – Klart: Nystart i danska regeringsförhandlingar - Dagens Nyheter
+- Person hittad i brinnande villa - Sveriges Radio
 - Bil har kört igenom busskur vid färjeläge i Göteborg - TV4 Nyheterna
-- Skånska lantbrukare ber om efterlängtat regn: Oroliga - Omni
-- M lovar familjer 5 000 kronor mer i plånboken - GP
-- JUST NU: Man död efter lägenhetsbrand – sängen fattade eld - NWT
-- Regeringen vill att boende nära ny vindkraft ska få pengar - Sveriges Radio
-- Miljoner till Kristerssons svägerskas stiftelse - Västerbottens-Kuriren
-- Nu har Orbán lämnat över makten till Magyar - Västerbottens-Kuriren
-- Rättegång mot misstänkta krigsförbrytare i Syrien: ”En cirkus utan legitimitet” - Dagens Nyheter
+- M lovar familjer 5 000 kronor mer i plånboken - Corren
+- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
+- Man död efter lägenhetsbrand – sängen fattade eld - NWT
+- Hemlös styrde gängens ”jobbsajt” – från Chile - Dagens Nyheter
+- Svensk på virusfartyget följs av smittskyddet: ”Det har skötts exemplariskt” - Omni Ekonomi
+- EU-landets ledare träffade Putin i Moskva - Västerbottens-Kuriren
+- Misstänkt oljeläckage utanför iranska Kharg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
-- Iran: Hormuz lika värdefullt som atombomb - Västerbottens-Kuriren
-- Rusande pris på vigselringar – leta i gömmorna - GP
+- Rusande pris på vigselringar – leta i gömmorna - Corren
 - EU: Rätt till ersättning för inställda flyg - Aftonbladet
-- Ray Dalio varnar för finansiell hjärtattack - Dagens PS
-- EU-bråk sätter stopp för elkabel mellan Kungsbacka och Danmark - Sveriges Radio
-- Måste man träna kondition om man älskar sin styrketräning? - Dagens Nyheter
-- Apple skickar ut ny mjukvara för Airpods Max 2 - Macworld.se
+- En lägenhet för 5 miljarder och motorvägar ingen kör på - Dagens PS
+- Nedcabbat och eldrivet i sommar – här är varianterna som finns ute - Dagens Nyheter
+- Perplexity släpper sin AI-assistent till macOS - Teknikveckan
+- INSÄNDARE: 13 000 kronor för ett låsbyte – ett hån mot sunt förnuft - Norrtelje Tidning
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-05-09 15:58_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Högskolan utsatt för global hackerattack - Skövde Nyheter
+- Etraveli rusar – säljer resor för 175 miljarder och stärker global dominans - travelnews-se
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
 
 ## Technology
 
@@ -108,12 +108,12 @@ _Updated: 2026-05-09 15:58_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
+- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
@@ -125,18 +125,18 @@ _Updated: 2026-05-09 15:58_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Volunteer Update: Take an Active Role in Advancing FTD Science by Participating in Research - AFTD - The Association for Frontotemporal Degeneration
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
