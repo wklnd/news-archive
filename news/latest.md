@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-09 06:55_
+_Updated: 2026-05-09 09:26_
 
-- Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win - WTOP
-- White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post
-- Live Updates: U.S. fires on 2 Iran-flagged tankers as Rubio says U.S. expects response on peace deal today - CBS News
-- UFO files spanning decades are released by Defense Department - NPR
-- ‘A Historic Shift’: Farage Celebrates Strong Performance in U.K. Local Elections - The New York Times
+- Virginia Democrats ask state Supreme Court to halt redistricting ruling - The Hill
+- Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal - CBS News
+- U.F.O. Files Released by U.S. Shed Light on What the Government Knows - The New York Times
 - FCC's warnings on political interviews 'chill' First Amendment, ABC says - Politico
-- Alabama Asks Supreme Court to Allow it to Use New Voting Map - The New York Times
-- Trump news at a glance: Republicans dominating redistricting fight across several states before midterms - The Guardian
+- White House prepares to replace FDA leader Marty Makary amid agency turmoil - The Washington Post
+- How the Republicans pulling ahead in the redistricting war affects the midterms - CNN
+- Alabama asks Supreme Court to clear way for Republicans’ redrawn voting map - The Hill
 - Samuel Alito’s Voting Rights Act ruling cited misleading data from DoJ - The Guardian
 - Judge in Charlie Kirk case won't forbid cameras from courtroom - Courthouse News
-- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade - The Guardian
-- Colombia's rogue hippos could find refuge in India - NPR
-- UK Identifies New Suspected Hantavirus Cruise Case (Latest Updates) - Forbes
-- After Frederiksen Falls Short in Denmark, Right-Leaning Politician Is Asked to Form Government - The New York Times
-- US jobs data beats expectations for second month in a row - BBC
-- Claude, brought to you by Elon Musk - Business Insider
+- 4 people convicted of conspiracy in US trial tied to 2021 assassination of Haiti’s president - AP News
+- Meeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade | Ukraine - The Guardian
+- Why health officials say the hantavirus cruise outbreak is not the next pandemic - The Washington Post
+- Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK - AP News
+- At least 3 hikers killed by volcano eruption on Indonesian island - NBC News
 - Inspire Brands Announces Confidential Submission of Draft Registration Statement for Proposed Initial Public Offering - Business Wire
-- Stock Market Today: Nasdaq, S&P 500 Score Record Closes On Iran Hopes; Nvidia Hits Highs (Live Coverage) - Investor's Business Daily
-- Discord is back after a major outage. - The Verge
-- iPhone 18 Pro’s new A20 chip rumored to bring two major upgrades - 9to5Mac
+- Claude, brought to you by Elon Musk - Business Insider
+- Lumentum’s fiery stock rally earns it a spot in this hot index - MarketWatch
+- S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism - Reuters
+- Is Discord down? 38,000 users report issues with platform on Friday - USA Today
+- The new AirPods prove Apple is still the king of design - PhoneArena
