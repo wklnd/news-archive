@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-09 20:30_
+_Updated: 2026-05-09 21:40_
 
 ## Top Stories
 
 - Rysslandsexpert: Sprickan är början på slutet för Putin - Dagens Nyheter
-- Man skadad av vasst tillhygge i Kristianstad – CSK i lockdown - SVT Nyheter
+- Sjukhus i Kristianstad i lockdown efter stök - Aftonbladet
 - Marinbiologen: räkna med övergödning och syrebrist i kanalen - Sydsvenskan
-- Direkt – Krisen i Mellanöstern – Iran låter USA vänta på svar på fredsplan - Dagens Nyheter
-- Magyar tar över Ungern – vill byta ut presidenten - Hufvudstadsbladet – HBL
-- Klart: Nystart i danska regeringsförhandlingar - GP
+- Putin: Kriget i Ukraina kan gå mot ett slut - Corren
+- Minst sju döda efter israeliska attacker i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Två föll från balkong – förda till sjukhus - Västerbottens-Kuriren
 - M lovar familjer 5 000 kronor mer i plånboken - GP
 - Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
-- DN Direkt – Man död i brand i Kristinehamn - Dagens Nyheter
 - Hemlös styrde gängens ”jobbsajt” – från Chile - Dagens Nyheter
-- Då anländer Hondius till hamnen - Aftonbladet
-- Ramsteinbor oroliga: ”Utan flygbasen blir vi en spökstad” - Dagens Nyheter
+- Miljoner till Kristerssons svägerskas stiftelse: ”Delikatessjäv” - SVT Nyheter
+- Ny premiärminister i Ungern – Orbán lämnar efter 16 år - SVT Nyheter
 - Putin lovade Slovakien gott om energi - Västerbottens-Kuriren
-- Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
+- Skottland vill bli fritt – oro för Reform - Västerbottens-Kuriren
+- Ramsteinbor oroliga: ”Utan flygbasen blir vi en spökstad” - Dagens Nyheter
 - EU: Rätt till ersättning för inställda flyg - Sydsvenskan
-- En lägenhet för 5 miljarder och motorvägar ingen kör på - Dagens PS
 - Bunden boränta kan sänkas – så kan du agera - Dagens Nyheter
 - Så får man elstödet utbetalt innan midsommar - Örebronyheter
+- Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
 - Stor tävling: Här är farkosten som ska resa till vår grannstjärna 40 000 miljarder kilometer bort - Illustrerad Vetenskap
 - Perplexity släpper sin AI-assistent till macOS - Teknikveckan
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 20:10 - Tv.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -59,7 +59,6 @@ _Updated: 2026-05-09 20:30_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -70,6 +69,7 @@ _Updated: 2026-05-09 20:30_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -106,14 +106,14 @@ _Updated: 2026-05-09 20:30_
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
@@ -131,13 +131,13 @@ _Updated: 2026-05-09 20:30_
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
