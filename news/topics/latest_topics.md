@@ -1,6 +1,6 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 18:29_
+_Updated: 2026-05-10 19:28_
 
 ## Top Stories
 
@@ -9,21 +9,21 @@ _Updated: 2026-05-10 18:29_
 - Allvarlig olycka på roadracing-SM i Falkenberg - Sveriges Radio
 - Misstänkta mordet fångades på film - Aftonbladet
 - DN Direkt – Döda ålar efter utsläpp av avloppsvatten i Malmö - Dagens Nyheter
-- Hoppar fallskärm för att rädda misstänkt hantasmittad på ö - Dagens Nyheter
+- Polisen: Bara ett dominerande gäng kvar - Dagens Nyheter
+- Vårdförbundet får ny ordförande - Västerbottens-Kuriren
 - Man död efter villabrand i Ulricehamn - GP
 - De sjukaste får vänta längst på vård - Corren
-- Lördagen handlar om utskottsarbete - Vårdförbundet
-- Polisen: Bara ett dominerande gäng kvar - Dagens Nyheter
-- Bangladesh drabbat av största mässlingsutbrottet på decennier - Sveriges Radio
+- Svensk Gaza-aktivist utkastad ur Israel - Västerbottens-Kuriren
+- Evakuering inleds från virusfartyget vid Teneriffa - Västerbottens-Kuriren
 - Tusentals colombianer strider i Ukraina - Dagens Nyheter
-- Svensk aktivist utkastad ur Israel - Västerbottens-Kuriren
-- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
+- Bangladesh drabbat av största mässlingsutbrottet på decennier - Sveriges Radio
+- Striden om valdistrikt trappas upp inför valet i USA - Sveriges Radio
 - Expert: Ovanligt höga priser på el de senaste dagarna - Omni
-- Knarkhandeln där polisen hittade miljonerna - Dagens PS
+- Kronan vänder till sämst i valutajämförelse - Västerbottens-Kuriren
 - Audis vd: Europa bommar megatrenderna – ”USA och Kina driver” - Dagens Nyheter
-- Ministern om skånska arbetslösheten: Absurd - Tidningen Näringslivet
+- Knarkhandeln där polisen hittade miljonerna - Dagens PS
 - För dig som har 35 miljoner – och stormsäkert hår - Carup.se
-- Teenage Mutant Ninja Turtles 2: The Arcade Game (NES) - FZ.se
+- Teenage Mutant Ninja Turtles 2: The Arcade Game (NES) - fz.se
 
 ## World News
 
@@ -57,6 +57,8 @@ _Updated: 2026-05-10 18:29_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -65,11 +67,9 @@ _Updated: 2026-05-10 18:29_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -77,22 +77,22 @@ _Updated: 2026-05-10 18:29_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- MMTEC, Inc. Announces 1-for-8 Reverse Stock Split (PR Newswire) - Aktiellt
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -109,36 +109,36 @@ _Updated: 2026-05-10 18:29_
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
