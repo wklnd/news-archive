@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-10 14:40_
+_Updated: 2026-05-10 16:06_
 
-- Iran ceasefire tested as cargo ship catches fire after being hit off Qatar’s coast - AP News
+- Iran sends response to US proposal to end war via mediator Pakistan - Al Jazeera
+- US Awaits Iran Reply as Aramco Says Hormuz Opening No Quick Fix - Bloomberg
 - Venice Biennale opens without a jury amid strife over Russian and Israeli participation - AP News
 - May 8, 2026 - Letters from an American | Heather Cox Richardson | Substack
-- Passengers start to disembark cruise ship stricken by hantavirus - CBS News
-- Local officials aim to oust Arizona sheriff leading Nancy Guthrie investigation over perjury allegations - CBS News
-- For a Moment, It Looked as if Trump’s Efforts to Rig the Midterms Had Failed. Then Three Things Happened. - Slate
-- In the Kristin Smart case, key questions remain after 3 decades - CNN
+- Democratic Candidates Scramble in Virginia After Court Tosses Map - The New York Times
+- Hantavirus-stricken cruise ship arrives in Tenerife - NBC News
+- Kristin Smart Search Ends Without Recovery of Remains at California Property - The New York Times
+- ‘We’re going backwards’: five civil rights activists slam the supreme court’s gutting of Voting Rights Act - The Guardian
+- ‘I lost more money than anybody in the history of capitalism!’: Remembering Ted Turner - Fortune
 - A wealthy Beverly Hills widow winds up dead below a staircase in her mansion. Was it murder? - CBS News
-- Spencer Pratt talks Los Angeles mayoral campaign, debate performance: Watch the full interview - CBS News
-- At least 11 people sent to hospital after suspected boat explosion in Miami - The Guardian
-- Putin says he thinks Russia-Ukraine war is coming to an end - NBC News
-- Putin Says Ukraine Ceasefire Prompted By Kyiv Security Warnings - Bloomberg.com
-- She went from New York to a Russian prison. Will she be freed? - USA Today
-- IRGC navy threatens ‘heavy attack’ on US assets if its oil tankers come under fire - The Times of Israel
+- Putin suggests Russia’s war on Ukraine ‘coming to an end’ - Al Jazeera
+- Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain? - The New York Times
+- Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post
+- Russia accuses Ukraine of violating U.S.-brokered three-day truce - AP News
+- Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC
 - Mamdani's 'make halal $8 again' promise was a campaign hit. NYC vendors say their costs are crushing. - Business Insider
+- Person fatally struck by Frontier jet at Denver International after fence breach - NBC News
 - Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay - Kotaku
-- OpenAI trial lays bare rivalries behind start-up’s $852bn rise - Financial Times
-- Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS
-- Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video] - 9to5Google
-- Galaxy Z Fold 8 Wide: Leaked Case Images Reconfirms Shorter, Wider Design - Android Headlines
+- Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com
+- Review | I wanted to hate this weird travel accessory. Then I slept soundly in economy. - The Washington Post
