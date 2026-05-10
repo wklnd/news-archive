@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 12:45_
+_Updated: 2026-05-10 14:08_
 
 ## Top Stories
 
-- En död och flera skadade i Ukraina - trots vapenvila - Västerbottens-Kuriren
-- Kristersson som Daddy of Sweden - Svenska Dagbladet
-- Man död efter villabrand i Ulricehamn - GP
-- Polisen: Stort problem att män förföljer kvinnor med airtags - Aftonbladet
 - Mor och dotter jagades av både Foxtrot och polisen – tros ha stulit 33 kilo kokain - Dagens Nyheter
+- En död och flera skadade i Ukraina - trots vapenvila - Västerbottens-Kuriren
+- Svårt med disciplin bland M-egon | Henrik Torehammar - Svenska Dagbladet
+- Så gör din kommun reklam på Tiktok och Instagram - HD – Nyheter Dygnet Runt
 - Allt har blivit svårt – och inget funkar - Svenska Dagbladet
+- Man död efter villabrand i Ulricehamn - GP
 - Svensk aktivist deporterad av Israel - Västerbottens-Kuriren
-- Man död efter hemmafest utanför Eskilstuna – man gripen - SVT Nyheter
+- De sjukaste får vänta längst på vård - Västerbottens-Kuriren
 - Tre gripna efter misstänkt mord i Kristianstad - Corren
-- De sjukaste får vänta längst på vård - GP
+- Stefan är Iron Man – byggde dräkt med 3D-skrivare - Dagens Nyheter
 - Hantavirus-drabbat kryssningsfartyg har nått Teneriffa - Sveriges Radio
+- Rysslandsexpert: Sprickan är början på slutet för Putin - Dagens Nyheter
 - Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
 - Domar kan ha gett Republikanerna ledning inför valet - Dagens Nyheter
-- Möte med ”nyckelspelaren” Qatar i Miami – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ministern om skånska arbetslösheten: Absurd - Svenska Dagbladet
-- Peter Carlsson om Skellefteå efter kraschen: ”Jättesorgligt” - SVT Nyheter
-- Irankriget ger saudiska oljebjässen högre vinster - Västerbottens-Kuriren
 - Stockholms mest lönsamma hotell är tillbaka – i helt ny kostym - Dagens PS
-- Här är hundnamnen som trendar just nu - Nerikes Allehanda
+- Därför ska du fotografera solstolen på semestern i sommar - Dagens PS
+- Flugsvamp-grundaren utlämnad till Sverige - Omni
 - Microsoft lägger till fler funktioner i Outlook för Windows - PC för Alla
+- Experter varnar: Det här händer om du aldrig uppdaterar din Iphone - E55 – Ekonomi hela livet
 
 ## World News
 
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - BBC fyller 100 år – äldsta public service i världen - Omni
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -77,20 +77,20 @@ _Updated: 2026-05-10 12:45_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Consid takes on the German market - Via TT
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
@@ -99,6 +99,7 @@ _Updated: 2026-05-10 12:45_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
@@ -107,37 +108,36 @@ _Updated: 2026-05-10 12:45_
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -151,8 +151,8 @@ _Updated: 2026-05-10 12:45_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
