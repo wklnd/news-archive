@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 11:12_
+_Updated: 2026-05-10 12:45_
 
 ## Top Stories
 
+- En död och flera skadade i Ukraina - trots vapenvila - Västerbottens-Kuriren
+- Kristersson som Daddy of Sweden - Svenska Dagbladet
+- Man död efter villabrand i Ulricehamn - GP
+- Polisen: Stort problem att män förföljer kvinnor med airtags - Aftonbladet
+- Mor och dotter jagades av både Foxtrot och polisen – tros ha stulit 33 kilo kokain - Dagens Nyheter
 - Allt har blivit svårt – och inget funkar - Svenska Dagbladet
-- Flera skadade i Ukraina - trots vapenvila - Västerbottens-Kuriren
-- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
-- Putin: Tror att kriget går mot sitt slut – föreslår villkor för samtal med EU - Dagens Nyheter
-- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
-- Hantavirus-drabbat kryssningsfartyg har nått Teneriffa - Sveriges Radio
-- Svensk Gaza-aktivist utkastad ur Israel - Västerbottens-Kuriren
+- Svensk aktivist deporterad av Israel - Västerbottens-Kuriren
+- Man död efter hemmafest utanför Eskilstuna – man gripen - SVT Nyheter
 - Tre gripna efter misstänkt mord i Kristianstad - Corren
-- Stefan är Iron Man – byggde dräkt med 3D-skrivare - Dagens Nyheter
-- Läkare oense om nya råden – när ska barnen räddas? - Dagens Nyheter
+- De sjukaste får vänta längst på vård - GP
+- Hantavirus-drabbat kryssningsfartyg har nått Teneriffa - Sveriges Radio
+- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
+- Domar kan ha gett Republikanerna ledning inför valet - Dagens Nyheter
 - Möte med ”nyckelspelaren” Qatar i Miami – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Spionläcka väcker frågor: Bör Putin vara rädd? - Corren
-- Dansk politiker vill locka arbetslösa skåningar - Svenska Dagbladet
-- Tusentals sparkas på grund av ”AI” - Svenska Dagbladet
+- Ministern om skånska arbetslösheten: Absurd - Svenska Dagbladet
 - Peter Carlsson om Skellefteå efter kraschen: ”Jättesorgligt” - SVT Nyheter
-- Irankriget ger saudiska oljebjässen högre vinster - Aftonbladet
-- Experter varnar: Det här händer om du aldrig uppdaterar din Iphone - E55 – Ekonomi hela livet
-- Valve förklarar varför Steam-reor dominerar PC-gaming - Teknikveckan
-- Måste man träna kondition om man älskar sin styrketräning? - Dagens Nyheter
-- Sony lyfter AI och anime i strategiuppdatering – fördjupar sensorsamarbete med TSMC - Börsvärlden
+- Irankriget ger saudiska oljebjässen högre vinster - Västerbottens-Kuriren
+- Stockholms mest lönsamma hotell är tillbaka – i helt ny kostym - Dagens PS
+- Här är hundnamnen som trendar just nu - Nerikes Allehanda
+- Microsoft lägger till fler funktioner i Outlook för Windows - PC för Alla
 
 ## World News
 
@@ -88,57 +88,57 @@ _Updated: 2026-05-10 11:12_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- E-hälsa inom EU - Läkartidningen
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Medtech Matchday visar potentialen med svensk medicinteknik - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Olika slutsatser från samma data - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
