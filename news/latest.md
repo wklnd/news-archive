@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-10 18:34_
+_Updated: 2026-05-10 19:35_
 
-- Live updates: Iran says it has responded to US proposal for ending war - CNN
-- Drone Hits Ship Near Qatar as US Awaits Iran Peace Plan Response - Bloomberg.com
-- Republicans who denied 2020 election results could be governors next year - The Washington Post
-- Lawyers for the global elite aren’t buying Trump’s gold card visa - The Washington Post
-- May 8, 2026 - Letters from an American | Heather Cox Richardson | Substack
+- Iran responds to ceasefire proposal as drones target Gulf nations - AP News
 - After Virginia Redistricting Map Is Tossed, Democrats Search Desperately for a Response - The New York Times
+- Drone Hits Ship Near Qatar as US Awaits Iran Peace Plan Response - Bloomberg.com
+- Iran’s two-tier internet access fuels anger and exposes cracks in the regime - CNN
+- Iran on 'full readiness' to protect uranium at nuclear sites as US awaits response to proposal - Fox News
+- Republicans who denied 2020 election results could be governors next year - The Washington Post
 - Kristin Smart Search Ends Without Recovery of Remains at California Property - The New York Times
-- Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says - The New York Times
-- Poll: Americans disagree on what a ‘stolen’ election means - Politico
-- Trump thinks he's flying to Beijing with leverage. China spent 6 years making sure he doesn't have any - Fortune
-- Passengers on hantavirus-hit cruise ship returning to home countries for monitoring - The Washington Post
-- Putin says he thinks Russia-Ukraine war is coming to an end - NBC News
-- Keir Starmer's party lost big in U.K. local elections. Here’s what comes next. - NPR
+- Book excerpt: "Torched" by Jonathan Vigliotti - Yahoo
+- Energy Secretary Floats Pause in Federal Gas Tax - The New York Times
+- Clyburn remains confident in reelection bid, despite GOP redistricting efforts - Politico
+- Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking - The New York Times
+- Keir Starmer's party lost big in U.K. local elections. Here’s what comes next - NPR
 - Lebanese Mourn Eight Members of One Family Killed in Israeli Strike - The New York Times
+- Iran's Supreme Leader briefs military chief on 'new guiding measures', Fars agency says - Reuters
+- Saudi Aramco profits jump despite conflict in Middle East - The Guardian
 - I Was Laid Off at 55 and Built My Own AI Consultancy; What I Learned - Business Insider
-- Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS
+- Frontier Airlines jet bound for LAX hits, kills person on runway during takeoff at Denver International Airport - ABC7 Chicago
 - OpenAI trial lays bare rivalries behind start-up’s $852bn rise - Financial Times
-- Aramco CEO warns 1 billion barrels lost will slow oil market recovery - Reuters
-- Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com
-- Get more space and solid performance with this MacBook Pro for under $500 - Mashable
+- Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg.com
+- Samsung’s Desperation To Keep Galaxy S27 Component Costs Down Has Forced It To Seek A Supplier Of Inferior Quality Displays - Wccftech
