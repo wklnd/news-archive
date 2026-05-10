@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 15:59_
+_Updated: 2026-05-10 17:31_
 
 ## Top Stories
 
-- Truppen mot Djurgården - AIK Fotboll
-- Paasikivi om Putins uttalande: ”Ett tecken på svaghet” - GP
-- Tre män gripna misstänkta för mord i centrala Kristianstad - Sveriges Radio
+- Fotboll: Djurgården får en drömstart i derbyt mot AIK - SVT Nyheter
+- Iran har lämnat svar på USA:s förslag - Dagens Nyheter
+- Paasikivi om Putins uttalande om kriget i Ukraina: ”Ett tecken på svaghet” - GP
+- Misstänkta mordet fångades på film - Aftonbladet
 - Döda ålar efter utsläpp av bajsvatten i Malmö - Västerbottens-Kuriren
-- Rysslandsexpert: Sprickan är början på slutet för Putin - Dagens Nyheter
-- Stor skogsbrand utanför Gävle - Aftonbladet
-- Man död efter villabrand i Ulricehamn - GP
+- DN Direkt – Döda ålar efter utsläpp av avloppsvatten i Malmö - Dagens Nyheter
 - De sjukaste får vänta längst på vård - Corren
-- Mor och dotter jagades av både Foxtrot och polisen – tros ha stulit 33 kilo kokain - Dagens Nyheter
-- Svensk aktivist deporterad av Israel - GP
-- Iran har lämnat svar på USA:s förslag – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Evakuering inleds från virusfartyget vid Teneriffa - Västerbottens-Kuriren
-- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
-- Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
+- Svensk Gaza-aktivist utkastad ur Israel - Västerbottens-Kuriren
+- Stor skogsbrand utanför Gävle - UNT
+- Nu kommer regnet – men då är värmen tillbaka - Dagens Nyheter
+- Virusdrabbade fartyget framme vid Teneriffa – passagerare evakueras - SVT Nyheter
+- Bangladesh drabbat av största mässlingsutbrottet på decennier - Sveriges Radio
+- Tusentals colombianer strider i Ukraina - Dagens Nyheter
+- Stark säkerhet i Moskva inför segerdagens Putin-tal - Corren
+- Expert: Ovanligt höga priser på el de senaste dagarna - Omni
 - Ministern om skånska arbetslösheten: Absurd - Tidningen Näringslivet
 - Knarkhandeln där polisen hittade miljonerna - Dagens PS
 - Audis vd: Europa bommar megatrenderna – ”USA och Kina driver” - Dagens Nyheter
-- Lexus visar ny lyx-SUV med upp till 530 kilometers räckvidd - Dagens PS
+- För dig som har 35 miljoner – och stormsäkert hår - Carup.se
 - Microsoft lägger till fler funktioner i Outlook för Windows - PC för Alla
-- Experter varnar: Det här händer om du aldrig uppdaterar din Iphone - E55 – Ekonomi hela livet
 
 ## World News
 
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
@@ -63,13 +63,13 @@ _Updated: 2026-05-10 15:59_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-05-10 15:59_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
