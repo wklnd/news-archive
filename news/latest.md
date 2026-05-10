@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-10 03:25_
+_Updated: 2026-05-10 07:22_
 
-- Vladimir Putin suggests Ukraine war is ‘coming to an end’ - The Guardian
-- Iran War Live Updates: Attacks Test Fragile Cease-Fire Amid U.S-Iran Negotiations - The New York Times
-- 'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season - NPR
+- Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia - The Guardian
+- Lasting Truce Is Elusive After Week of Traded Attacks - The New York Times
+- DOJ sees fallout after push to prosecute former FBI director James Comey - The Washington Post
 - Russia holds downsized Victory Day parade - Al Jazeera
-- What to know about British elections that hammered Starmer’s Labour Party - AP News
-- UFO files spanning decades are released by Defense Department - NPR
-- At Least 13 Injured in ‘Possible Boat Explosion’ in Florida, Officials Say - The New York Times
-- Soil testing at California house turns up evidence of human remains in Kirstin Smart case - The Guardian
-- Audio captures moment Frontier plane fatally struck pedestrian - Yahoo
-- Ex-reality star turned LA mayoral candidate Spencer Pratt wants to "shake up city hall" - CBS News
-- American oncologist who became cruise ship's de-facto head doctor amid hantavirus outbreak speaks to ABC News - ABC News - Breaking News, Latest News and Videos
-- Péter Magyar sworn in as Hungary's prime minister, ending Viktor Orbán's rule - CBS News
-- Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap - AP News
-- UK deploys warship to Middle East with eye on potential Hormuz mission - Reuters
+- Kristin Smart Search Ends Without Recovery of Remains at California Property - The New York Times
+- Hantavirus outbreak: American oncologist who became cruise ship's de facto head doctor speaks to ABC News - ABC News - Breaking News, Latest News and Videos
+- Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS
+- 11 people injured, taken to hospitals after boat explosion near Miami - AP News
+- Spencer Pratt talks Los Angeles mayoral campaign, debate performance: Watch the full interview - CBS News
+- A wealthy Beverly Hills widow winds up dead below a staircase in her mansion. Was it murder? - CBS News
+- At the Venice Biennale I saw anger at Russia and Israel – and its leadership pretending everything was fine - The Guardian
+- Three Pakistani police officers killed in car bombing, more casualties feared - Reuters
+- Indonesian rescuers retrieve body from Mount Dukono as search continues - The Guardian
+- Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban - The New York Times
 - Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay - Kotaku
-- 'Bond King' Jeff Gundlach says no rate cuts are coming and investors should load up on cash, gold, and real assets - Business Insider
-- What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge - The Guardian
+- The federal government must issue more debt than it expected as cash flow weakens, and 'the bond market is shouting' - Fortune
 - Here's What's Going To Happen To The 91 Planes Abandoned By The Failure Of Spirit Airlines - The Autopian
-- Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video] - 9to5Google
-- A Personal Finance Star on What Millennials Need From Their Boomer Parents - The New York Times
+- US jobs data beats expectations for second month in a row - BBC
+- ASUS Republic of Gamers Announces Strix OLED XG34WCDMS and Strix XG129C - ASUS Pressroom
+- Samsung Finally Fixed the Fold: First Look at the Z Fold 8 Wide Design - Geeky Gadgets
