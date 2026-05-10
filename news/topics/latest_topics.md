@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 06:31_
+_Updated: 2026-05-10 09:12_
 
 ## Top Stories
 
-- Putin: Kriget i Ukraina kan gå mot ett slut - Hufvudstadsbladet – HBL
-- Möte med ”nyckelspelaren” Qatar i Miami – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
 - Svensk aktivist deporterad av Israel - Västerbottens-Kuriren
-- Flera döda i israelisk attack mot södra Libanon - GP
+- Putin: Tror att kriget går mot sitt slut – föreslår villkor för samtal med EU - Dagens Nyheter
+- LO-basen sitter i S ledning – vill inte säga hur folk ska rösta - GP
 - Äldre man i Hofors gripen misstänkt för mord - Omni
-- Ung man död efter bråk i Kristianstad - Västerbottens-Kuriren
-- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
-- Ledare: Oppositionen kan inte svara på vad den vill göra med makten - sla.se
-- Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Iran hotar med militären mot USA-blockad - Dagens Nyheter
-- Spionläcka väcker frågor: Bör Putin vara rädd? - Västerbottens-Kuriren
-- Källor: Många döda i attack i Kongo-Kinshasa - Västerbottens-Kuriren
-- Bostadspriserna i Kalmar stiger – "Betydligt bättre känsla" - Dagens Kalmar
-- Debatt: Det räcker inte att frysa hyrorna – de måste sänkas - ETC.se
-- Så får man elstödet utbetalt innan midsommar - Örebronyheter
-- Pekar ut ett ödesdigert vägval: ”Offrade för lite” - Svenska Dagbladet
-- Rezvani har byggt ett fort. En pickis för terrängen som ska klara allt. - feber.se
-- Sony lyfter AI och anime i strategiuppdatering – fördjupar sensorsamarbete med TSMC - Börsvärlden
-- Har du en smart-tv från Samsung, Sony eller LG? Då kan den spionera på dig - Dagens.se
+- Hantavirus-drabbade kryssningsfartyget har nått Teneriffa - Sveriges Radio
+- Tre gripna efter misstänkt mord i Kristianstad - Corren
+- Läkare oense om nya råden – när ska barnen räddas? - Dagens Nyheter
+- En dag där riktning sätts – och framtiden formas - Vårdförbundet
+- 10 maj 08.04, Sammanfattning natt, Västernorrlands län - Polisen.se
+- Brandmän till sjukhus efter insats - Västerbottens-Kuriren
+- Rysslandsexpert: Sprickan är början på slutet för Putin - Dagens Nyheter
+- Spionläcka väcker frågor: Bör Putin vara rädd? - Corren
+- USA: Två Iranflaggade tankfartyg stoppade - Dagens Nyheter
+- Möte med ”nyckelspelaren” Qatar i Miami – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tusentals sparkas på grund av ”AI” - Svenska Dagbladet
+- Optimismen håller i sig – nära hälften tror på stigande bostadspriser - Via TT
+- Ny innovation i Saab-fabriken: "Världsunik satsning" - Dagens PS
+- Fynda fritidshus – så ser marknaden ut på din drömort - Dagens industri
+- Experter varnar: Det här händer om du aldrig uppdaterar din Iphone - E55 – Ekonomi hela livet
+- Valve förklarar varför Steam-reor dominerar PC-gaming - Teknikveckan
 
 ## World News
 
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -58,41 +58,41 @@ _Updated: 2026-05-10 06:31_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- MMTEC, Inc. Announces 1-for-8 Reverse Stock Split (PR Newswire) - Aktiellt
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -115,16 +115,15 @@ _Updated: 2026-05-10 06:31_
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -132,10 +131,11 @@ _Updated: 2026-05-10 06:31_
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -143,22 +143,22 @@ _Updated: 2026-05-10 06:31_
 ## Jordbruk
 
 - Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Här är världens största jordbruk - atl.nu
+- De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
