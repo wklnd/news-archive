@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 17:31_
+_Updated: 2026-05-10 18:29_
 
 ## Top Stories
 
-- Fotboll: Djurgården får en drömstart i derbyt mot AIK - SVT Nyheter
-- Iran har lämnat svar på USA:s förslag - Dagens Nyheter
+- Iranska uttalanden efter förslaget: ”Vänj er” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Paasikivi om Putins uttalande om kriget i Ukraina: ”Ett tecken på svaghet” - GP
+- Allvarlig olycka på roadracing-SM i Falkenberg - Sveriges Radio
 - Misstänkta mordet fångades på film - Aftonbladet
-- Döda ålar efter utsläpp av bajsvatten i Malmö - Västerbottens-Kuriren
 - DN Direkt – Döda ålar efter utsläpp av avloppsvatten i Malmö - Dagens Nyheter
+- Hoppar fallskärm för att rädda misstänkt hantasmittad på ö - Dagens Nyheter
+- Man död efter villabrand i Ulricehamn - GP
 - De sjukaste får vänta längst på vård - Corren
-- Svensk Gaza-aktivist utkastad ur Israel - Västerbottens-Kuriren
-- Stor skogsbrand utanför Gävle - UNT
-- Nu kommer regnet – men då är värmen tillbaka - Dagens Nyheter
-- Virusdrabbade fartyget framme vid Teneriffa – passagerare evakueras - SVT Nyheter
+- Lördagen handlar om utskottsarbete - Vårdförbundet
+- Polisen: Bara ett dominerande gäng kvar - Dagens Nyheter
 - Bangladesh drabbat av största mässlingsutbrottet på decennier - Sveriges Radio
 - Tusentals colombianer strider i Ukraina - Dagens Nyheter
-- Stark säkerhet i Moskva inför segerdagens Putin-tal - Corren
+- Svensk aktivist utkastad ur Israel - Västerbottens-Kuriren
+- Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
 - Expert: Ovanligt höga priser på el de senaste dagarna - Omni
-- Ministern om skånska arbetslösheten: Absurd - Tidningen Näringslivet
 - Knarkhandeln där polisen hittade miljonerna - Dagens PS
 - Audis vd: Europa bommar megatrenderna – ”USA och Kina driver” - Dagens Nyheter
+- Ministern om skånska arbetslösheten: Absurd - Tidningen Näringslivet
 - För dig som har 35 miljoner – och stormsäkert hår - Carup.se
-- Microsoft lägger till fler funktioner i Outlook för Windows - PC för Alla
+- Teenage Mutant Ninja Turtles 2: The Arcade Game (NES) - FZ.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - TV.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Exclusive: US investigation points to likely US responsibility in Iran school strike, sources say - Reuters
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- BBC fyller 100 år – äldsta public service i världen - Omni
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Så utvecklades Skåne 2024 – en tid av global osäkerhet - Region Skåne - NewsMachine AB
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 
 ## Technology
 
@@ -143,7 +143,6 @@ _Updated: 2026-05-10 17:31_
 ## Jordbruk
 
 - Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
@@ -151,14 +150,15 @@ _Updated: 2026-05-10 17:31_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Här är världens största jordbruk - atl.nu
 - Lediga jobb - Land Lantbruk
-- Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2021-09-09 Webbinarium: Finansiering och riskkapital i svenskt jordbruk - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
