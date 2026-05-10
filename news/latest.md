@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-10 16:06_
+_Updated: 2026-05-10 17:36_
 
-- Iran sends response to US proposal to end war via mediator Pakistan - Al Jazeera
-- US Awaits Iran Reply as Aramco Says Hormuz Opening No Quick Fix - Bloomberg
+- Iran Submitted Response to US Peace Plan Proposal, IRNA Reports - Bloomberg.com
+- Iran war ceasefire tested as cargo ship catches fire and Kuwait and UAE repel drone attacks - AP News
 - Venice Biennale opens without a jury amid strife over Russian and Israeli participation - AP News
+- Republicans who denied 2020 election results could be governors next year - The Washington Post
+- Lawyers for the global elite aren’t buying Trump’s gold card visa - The Washington Post
 - May 8, 2026 - Letters from an American | Heather Cox Richardson | Substack
-- Democratic Candidates Scramble in Virginia After Court Tosses Map - The New York Times
-- Hantavirus-stricken cruise ship arrives in Tenerife - NBC News
 - Kristin Smart Search Ends Without Recovery of Remains at California Property - The New York Times
-- ‘We’re going backwards’: five civil rights activists slam the supreme court’s gutting of Voting Rights Act - The Guardian
+- Poll: Americans disagree on what a ‘stolen’ election means - Politico
+- Democrats Search Desperately for a Response After Virginia Map Is Tossed - The New York Times
 - ‘I lost more money than anybody in the history of capitalism!’: Remembering Ted Turner - Fortune
-- A wealthy Beverly Hills widow winds up dead below a staircase in her mansion. Was it murder? - CBS News
-- Putin suggests Russia’s war on Ukraine ‘coming to an end’ - Al Jazeera
-- Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain? - The New York Times
-- Live Updates: Latest from Israel, Iran, and Middle East - The Jerusalem Post
+- Passengers begin to disembark cruise ship hit by hantavirus — latest updates - CNN
+- Putin says he thinks Russia-Ukraine war is coming to an end - NBC News
+- Keir Starmer's party lost big in U.K. local elections. Here’s what comes next. - NPR
 - Russia accuses Ukraine of violating U.S.-brokered three-day truce - AP News
-- Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC
-- Mamdani's 'make halal $8 again' promise was a campaign hit. NYC vendors say their costs are crushing. - Business Insider
-- Person fatally struck by Frontier jet at Denver International after fence breach - NBC News
-- Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay - Kotaku
+- I Was Laid Off at 55 and Built My Own AI Consultancy; What I Learned - Business Insider
+- Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS
+- OpenAI trial lays bare rivalries behind start-up’s $852bn rise - Financial Times
+- Aramco CEO warns 1 billion barrels lost will slow oil market recovery - Reuters
 - Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com
-- Review | I wanted to hate this weird travel accessory. Then I slept soundly in economy. - The Washington Post
+- Get more space and solid performance with this MacBook Pro for under $500 - Mashable
