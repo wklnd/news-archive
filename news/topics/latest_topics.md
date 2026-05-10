@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-10 01:24_
+_Updated: 2026-05-10 02:11_
 
 ## Top Stories
 
 - Putin: Tror att kriget går mot sitt slut – föreslår villkor för samtal med EU - Dagens Nyheter
 - Här firar ”Hide the pain Harold” efter att Magyar svurits in i parlamentet - SVT Nyheter
 - Person död – sögs in i flygplansmotor - Expressen
+- Ung man död i Kristianstad – sjukhus i lockdown - Aftonbladet
 - Jagade fågeln – blev första offret - Aftonbladet
 - Möte med ”nyckelspelaren” Qatar i Miami – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- ”Putin ber Ukraina om paus” - Västerbottens-Kuriren
-- DN Direkt – Polisen utreder mord i Kristianstad efter dödsfall - Dagens Nyheter
 - M lovar familjer 5 000 kronor mer i plånboken - Corren
-- Miljoner till Kristerssons svägerskas stiftelse: ”Delikatessjäv” - SVT Nyheter
-- Två personer har ramlat från en balkong - Expressen
+- Tomas Ramberg: Kan Kristersson få med väljarna på resan högerut? - Dagens Nyheter
+- Merz hyllade Kristersson – och svenska ölbeslutet - GP
+- Ledare: Oppositionen kan inte svara på vad den vill göra med makten - sla.se
 - Skottland vill bli fritt – oro för Reform - Västerbottens-Kuriren
-- Løkke Rasmussen: Ny förhandlare i danska regeringsbildning - Sveriges Radio
-- Varningen: Här föds nästa generation terrorister - Corren
+- Två personer föll från balkong - Aftonbladet
+- ”Minst tre veckor till utan regering” - Svenska Dagbladet
+- Johan Ingerö Alias: Irankriget kan få oväntade vinnare och förlorare - GP
 - EU: Rätt till ersättning för inställda flyg - Sydsvenskan
 - Så får man elstödet utbetalt innan midsommar - Örebronyheter
 - Kommentar till Svensk Mäklarstatistik: Vårkänslor på bostadsmarknaden i april - kraftig ökning av antal affärer - Mynewsdesk
 - Rusande pris på vigselringar – leta i gömmorna - Corren
 - Har du en smart-tv från Samsung, Sony eller LG? Då kan den spionera på dig - Dagens.se
 - Stor tävling: Här är farkosten som ska resa till vår grannstjärna 40 000 miljarder kilometer bort - Illustrerad Vetenskap
-- Amazon testar TikTok-liknande videoflöde i Prime Video - Teknikveckan
 
 ## World News
 
-- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 20:10 - TV.nu
+- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 22:35 - Tv.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
-- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
+- GT World Challenge Asia 2026, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
@@ -38,15 +38,15 @@ _Updated: 2026-05-10 01:24_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- BBC fyller 100 år – äldsta public service i världen - Omni
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Bildextra: NHL Global series med Icelandair - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
@@ -59,60 +59,60 @@ _Updated: 2026-05-10 01:24_
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Finansiera energilagring för att säkra förnybar framtid - Siemens
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- MMTEC, Inc. Announces 1-for-8 Reverse Stock Split (PR Newswire) - Aktiellt
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Consid takes on the German market - Via TT
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- E-hälsa inom EU - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
@@ -131,9 +131,9 @@ _Updated: 2026-05-10 01:24_
 - FUTURES Thoughts: Engagerad forskning för möjliga framtider - Malmö universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Kan öppen vetenskap hjälpa till att få igång den fotovoltaiska generationen? | GRECO Project | Results in Brief | H2020 - CORDIS
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -155,10 +155,10 @@ _Updated: 2026-05-10 01:24_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
