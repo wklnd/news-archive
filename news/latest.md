@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-10 01:29_
+_Updated: 2026-05-10 03:25_
 
-- Lasting Truce Is Elusive After Week of Traded Attacks - The New York Times
-- Putin says he thinks Russia-Ukraine war is coming to an end - CNBC
-- ‘My ambition is to change the country,’ AOC says when asked about seeking higher office in 2028 - The Guardian
+- Vladimir Putin suggests Ukraine war is ‘coming to an end’ - The Guardian
+- Iran War Live Updates: Attacks Test Fragile Cease-Fire Amid U.S-Iran Negotiations - The New York Times
+- 'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season - NPR
 - Russia holds downsized Victory Day parade - Al Jazeera
-- UFO files released, with no green men but lots of new hints - Axios
-- At Least 15 Injured in ‘Potential Vessel Explosion’ in Florida, Officials Say - The New York Times
-- Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver - PBS
-- US strikes Iranian oil tankers while awaiting Tehran response on peace plan - politico.eu
-- Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia - NPR
+- What to know about British elections that hammered Starmer’s Labour Party - AP News
+- UFO files spanning decades are released by Defense Department - NPR
+- At Least 13 Injured in ‘Possible Boat Explosion’ in Florida, Officials Say - The New York Times
+- Soil testing at California house turns up evidence of human remains in Kirstin Smart case - The Guardian
+- Audio captures moment Frontier plane fatally struck pedestrian - Yahoo
 - Ex-reality star turned LA mayoral candidate Spencer Pratt wants to "shake up city hall" - CBS News
+- American oncologist who became cruise ship's de-facto head doctor amid hantavirus outbreak speaks to ABC News - ABC News - Breaking News, Latest News and Videos
 - Péter Magyar sworn in as Hungary's prime minister, ending Viktor Orbán's rule - CBS News
-- US sending charter flight to bring Americans home from hantavirus cruise ship - BBC
-- Report: Israel built secret Iraq base, struck forces that nearly exposed it - ynetnews
+- Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap - AP News
 - UK deploys warship to Middle East with eye on potential Hormuz mission - Reuters
 - Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay - Kotaku
-- What the Musk-Altman courtroom clash reveals about two of the most powerful men in Silicon Valley - Business Insider
-- Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns - CoinDesk
-- Dunkin’ Owner Inspire Brands Files for IPO - WSJ
+- 'Bond King' Jeff Gundlach says no rate cuts are coming and investors should load up on cash, gold, and real assets - Business Insider
+- What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge - The Guardian
+- Here's What's Going To Happen To The 91 Planes Abandoned By The Failure Of Spirit Airlines - The Autopian
 - Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video] - 9to5Google
-- Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app - TechCrunch
+- A Personal Finance Star on What Millennials Need From Their Boomer Parents - The New York Times
