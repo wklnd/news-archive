@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-11 20:17_
+_Updated: 2026-05-11 22:16_
 
 ## Top Stories
 
 - Katja Nyberg: ”Ser fram emot rättegången” - Polistidningen
-- DN Direkt – Uppgifter: Foxtrot-topp gripen i Tunisien - Dagens Nyheter
-- Patrik, 54, blev vittne till dödsolyckan: ”Ren otur” - Aftonbladet
-- DN Direkt – Regeringen kallar till pressträff om hantaviruset - Dagens Nyheter
+- Uppgifter: Foxtrotmannen ”Moewgli” gripen i Tunisien - TV4 Nyheterna
+- Kvinna i 50-årsåldern död efter mc-olycka - Sveriges Radio
 - Deras argument för – och emot – hårdare straff i Sverige - GP
-- Kraven i Irans svar till Washington – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- ”Föräldrar i Stockholm lever ganska pressade liv” - Dagens Nyheter
+- Sandra Stiskalo: Så talar en man som slåss för sin överlevnad - Dagens Nyheter
+- Trump: Vapenvilan med Iran är ”ofattbart svag” - Omni
+- Misstänkt blottare i Jönköping begärs häktad – försökte bryta sig in i lägenhet - SVT Nyheter
+- Leif GW Persson om styckmordsåtalet: Största rättsövergreppet - Skånska Dagbladet
 - Se vädret timme för timme från de senaste 80 åren – ny ”tidsmaskin” släppt - Sydsvenskan
-- M vill se dubbelt så många poliskameror - GP
-- Ytterligare två gripna efter mord i Kristianstad - Västerbottens-Kuriren
-- Här är läsarnas frågor till Magnus Gisslén om hantavirus - GP
+- ”Föräldrar i Stockholm lever ganska pressade liv” - Dagens Nyheter
+- Amerikansk medborgare har testat positivt för viruset - Omni
 - Uppgifter: Tiotals döda i flygattack i Nigeria - SVT Nyheter
-- Minst två döda i skottlossning i Nice - Hufvudstadsbladet – HBL
-- Riksrättsanklagelser mot Sara Duterte - Västerbottens-Kuriren
-- Uppgifter i ny bok: Ekobrottsmyndigheten utreder Northvolt - Notified
+- Trump bjuder tungt gäng med sig till Kina - Corren
+- Fordon för miljoner förlorar betydelse i kriget: ”Behöver självförsvar” - Dagens Nyheter
+- Uppgifter om ekobrott i ny grävbok om Northvolt - Folkbladet
 - Sleep Cycle budvinnare på Stockholmsbörsen - Affärsvärlden
-- Amerikanska energiaktier stiger i förhandeln när oljepriset skjuter i höjden av Investing.com - Investing.com Sverige
 - Swish lanserar funktion för att dela på notan - Omni
+- Skogsnolia växer i Umeå – lockar fler med närhet och hela värdekedjan - Notified
 - Nintendo föll i Tokyo – sänkt prognos oroar investerare - Omni
-- ”Så som Apples designteam tänkte sig från början”: Liquid Glass får en rejäl översyn i macOS 27 för att fixa sina största problem - TechRadar
+- Läcka avslöjar ny Samsung Trifold - mobil.se
 
 ## World News
 
@@ -43,7 +43,7 @@ _Updated: 2026-05-11 20:17_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
@@ -81,12 +81,12 @@ _Updated: 2026-05-11 20:17_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Årets Genomlysare blottar finansmarknadens dolda vrår - Privata Affärer
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Consid takes on the German market - Via TT
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -99,44 +99,44 @@ _Updated: 2026-05-11 20:17_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - E-hälsa inom EU - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Vi presenterar HealthBench - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
@@ -152,13 +152,13 @@ _Updated: 2026-05-11 20:17_
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
