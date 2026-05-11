@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-11 20:23_
+_Updated: 2026-05-11 22:22_
 
-- Iran War Live Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’ - The New York Times
-- Trump wants to suspend the federal gas tax as prices soar amid war with Iran - NPR
-- Starmer pledges to bring Britain closer to the EU as he faces calls to step down - AP News
-- 6 bodies found in Union Pacific boxcar in Laredo, Texas, near Mexico, police say - CBS News
-- White House Correspondents’ Dinner shooting suspect pleads not guilty in federal court - NBC News
-- The families going hungry because of Trump’s food stamp cuts - NBC News
-- Lawsuit filed to stop Trump’s blue repainting of the Lincoln Memorial Reflecting Pool - CNN
+- Iran War Live Updates: Trump Says Cease-Fire Is on 'Life Support’ - The New York Times
+- The federal gas tax is on Trump’s hit list. Data shows how much would be saved without it. - NBC News
+- Confident in China’s power, Xi is ready to host an unpredictable Trump - The Washington Post
+- Kennedy Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence - The New York Times
+- Multiple people injured, Memorial Drive closed amid emergency response - WCVB
+- Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
+- Supreme Court briefly extends telehealth and mail access for mifepristone as deliberations continue - CNN
+- Chicago teen who pushed for parents’ release from ICE custody dies of cancer - The Guardian
 - ‘Malaise’: Karl Rove Warns the GOP’s House Majority May Be Doomed Despite Gerrymander Advantage - Mediaite
-- Pentagon will review Senator Mark Kelly's comments about US weapon stockpiles, Hegseth says - BBC
-- ‘It’s Getting Unfriendlier’: International Students Race to Find Jobs - The New York Times
-- Hantavirus: How it differs from COVID - DW.com
-- Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says - NPR
-- As attacks on Europe’s Jewish communities escalate, Iran may be recruiting operatives online - CNN
-- Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues, data shows - Reuters
-- Housing Market’s Spring Is Shaping Up as a Bust After April Sales Were Flat - WSJ
+- Laredo Officials Investigating Deaths of 6 People Found in Train Boxcar - The New York Times
+- American Passengers Exposed to Hantavirus Begin Quarantine in U.S. - The New York Times
+- Britain’s Starmer fights for his job as calls for his ouster grow after local election losses - AP News
+- Iran executes man who worked in ‘satellite field’ for allegedly spying for Mossad, CIA - The Times of Israel
+- 5 Scenarios for Putin’s Ukraine War - Newsweek
+- Musk, Cook Set to Join Trump for Xi Summit, White House Says - Bloomberg.com
 - GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs - CNBC
+- Housing Market’s Spring Is Shaping Up as a Bust After April Sales Were Flat - WSJ
 - Stock Market Today: S&P 500, Nasdaq trade in record territory, Dow up as Trump says Iran cease-fire deal on 'life support' - MarketWatch
-- 'Atlanta Journal-Constitution' chief steps down as bold goals yield to tough realities - NPR
-- Apple releases iOS 26.5 with 3 key features including new wallpapers for your iPhone - 9to5Mac
-- 11 Reasons to Wait for the iPhone 18 Pro - MacRumors
+- Apple brings encrypted RCS chats to iPhone - The Verge
+- Update Hints Steam Machine Will Arrive in 512GB and 2TB Versions, Despite AI-led SSD Pricing Surge - Digital Foundry
