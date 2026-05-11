@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-11 03:22_
+_Updated: 2026-05-11 07:34_
 
 ## Top Stories
 
 - Trump avfärdar Irans svar: ”Helt oacceptabelt” - GP
-- En död och flera skadade i Ukraina - trots vapenvila - Västerbottens-Kuriren
-- Klas Granström i svåra olyckan i Falkenberg - Expressen
-- Möte för försvarsministrar om Hormuzsundet - Västerbottens-Kuriren
-- Kravet inifrån Iran: ”Bevisa att du lever” - Aftonbladet
+- Direkt – Kriget i Ukraina – Zelenskyj: Om Ryssland slutar anfalla gör vi det också - Dagens Nyheter
+- Kina bekräftar Trumps besök – ska träffa Xi - Hufvudstadsbladet – HBL
+- S-topp: ”Min dröm – alla överväger bo i Tensta” - Svenska Dagbladet
+- Flera bilbränder i Malmö under natten - Sydsvenskan
+- Wilma i Älvsbyn får 15 timmar: ”Konstigt att det är olika” - Dagens Nyheter
+- Rekordmånga diamantbröllop kan firas i år - NWT
+- Polisen: Bara ett dominerande gäng kvar - Dagens Nyheter
 - Vårdförbundet får ny ordförande - Västerbottens-Kuriren
-- Svensk Gaza-aktivist utkastad ur Israel - Västerbottens-Kuriren
-- De sjukaste får vänta längst på vård - Corren
-- Döda ålar efter utsläpp av bajsvatten i Malmö - GP
-- DN Direkt – Ebba Busch om elbråket: En tvåfrontsstrid - Dagens Nyheter
-- Zelenskyj: Ryssland bryter mot vapenvilan - Västerbottens-Kuriren
-- Sjömän fast i Hormuz – tvingas ransonera maten - Dagens Nyheter
-- Avgångskrav i Labour när Farage jublar i England - SVT Nyheter
-- Evakuering inleds från virusfartyget vid Teneriffa - Västerbottens-Kuriren
+- Svensk aktivist deporterad av Israel - GP
+- Evakuerad amerikan smittad av hantavirus - Sveriges Radio
+- Möte för försvarsministrar om Hormuzsundet - GP
+- Efter sabotagen: Polis jagar osynlig extremvänster - Västerbottens-Kuriren
+- Thailands exledare släpps i förtid - Västerbottens-Kuriren
+- 5 eller 10 procent – därför spretar arbetslösheten - Svenska Dagbladet
+- Carl Bennet efterlyser investeringspakt - DI
 - Svenska kronans ras – nu svagast bland världens största valutor - Börskollen
-- Expert: Ovanligt höga priser på el de senaste dagarna - Omni
-- Han skildrar Northvolts uppgång och fall i ny bok - Norran
-- 10 000 kWh ”i källaren” – norskt bolag vill lagra sommarens solel till vintern - Ny Teknik
+- Kan ”superappar” slå här? - Svenska Dagbladet
 - Statsepidemiologen: ”Låg risk att smittan förs vidare” - Sveriges Radio
-- ”Idrott i anslutning till skolan skapar trygghet” - Västerbottens-Kuriren
+- Google Translate får äntligen funktionen många saknat - Teknikveckan
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
 - Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,12 +41,12 @@ _Updated: 2026-05-11 03:22_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - BBC fyller 100 år – äldsta public service i världen - Omni
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -67,26 +67,26 @@ _Updated: 2026-05-11 03:22_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -100,22 +100,22 @@ _Updated: 2026-05-11 03:22_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - E-hälsa inom EU - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-11 03:22_
 
 ## Jordbruk
 
-- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
-- Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Wasa påbörjar samarbete med Indigo Ag och Svensk Kolinlagring för att lagra kol i jorden genom regenerativt jordbruk. - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lediga jobb - Land Lantbruk
+- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
