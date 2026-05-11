@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-11 07:42_
+_Updated: 2026-05-11 10:46_
 
-- Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested - The Washington Post
+- Trump to Axios: "I don't like" Iran's peace plan response - Axios
 - From Singapore to Brussels, world leaders eye Trump-Xi summit from afar - CNBC
 - Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time - CNN
 - ‘Extremely scary’: Specter of an all-GOP governor’s race spurs push to remake open primary - Los Angeles Times
-- Democratic Candidates Scramble in Virginia After Court Tosses Map - The New York Times
-- Earthquake swarm in Brawley in Imperial County begins to slow after over 350 recorded quakes, including 4.7 magnitude - ABC7 Los Angeles
-- Abraham Foxman, influential leader of Anti-Defamation League, dies at 86 - The Washington Post
-- 6 people found dead inside cargo train boxcar in Texas - NBC News
-- Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention - NBC News
-- Read the full transcript of Major Garrett's interview with Israeli Prime Minister Benjamin Netanyahu here - CBS News
-- U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive - NPR
-- Keir Starmer Says No, He Won’t Resign - The New York Times
 - Israeli settlers force Palestinian family to exhume and rebury their father - NPR
-- Thailand's former PM Thaksin Shinawatra released from prison - Reuters
-- Stock futures slide as investors monitor the latest Iran war negotiations: Live updates - CNBC
-- Saudi Aramco profits jump despite conflict in Middle East - The Guardian
+- How hotels are stopping the 'dawn dash' for sunbeds after man wins payout - BBC
+- Abraham Foxman, influential leader of Anti-Defamation League, dies at 86 - The Washington Post
+- Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention - NBC News
+- Netanyahu wants Israel "to draw down to zero the American financial support" - CBS News
+- Tennessee Rep Tim Burchett Accuses Democrats of ‘Throwing The Race Card’ After Losing Redistricting Battle - Mediaite
+- American returning to U.S. from hantavirus cruise ship tests "mildly" positive on evacuation flight, HHS says - CBS News
+- UK's Starmer launches political fightback, putting Europe ties at heart of reset - Reuters
+- Thailand’s Thaksin Shinawatra Is Out of Prison. What Will He Do Now? - The New York Times
+- Russia and Ukraine trade blame as fragile ceasefire rocked by deadly drone strikes - The Independent
+- Shares mixed, dollar gains as Iran talks teeter - Reuters
 - America's job market optimism gap is the worst in the world - Axios
-- More chocolate bars added to nationwide recall over possible contamination - Yahoo
-- Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook - Bloomberg.com
-- Sunday Preview – March out with the Cities of Sigmar - Warhammer Community
+- How a Job at OpenAI Became the Greatest Lottery Ticket of the AI Boom - WSJ
+- Saudi Aramco profits jump despite conflict in Middle East - The Guardian
+- ‘May 11 Rollout’—Samsung Confirms Free Android Upgrade - Forbes
+- Why iPhone 18 Price Report Is Good News For Apple Buyers - Forbes
