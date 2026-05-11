@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-11 03:29_
+_Updated: 2026-05-11 07:42_
 
-- Live updates: Trump calls Iranian response to US peace proposal ‘totally unacceptable’ - CNN
-- Energy Secretary Floats Pause in Federal Gas Tax - The New York Times
+- Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested - The Washington Post
 - From Singapore to Brussels, world leaders eye Trump-Xi summit from afar - CNBC
-- Fearing an All-Republican Governor’s Race, Democrats Push for New Primary Rules in California - The New York Times
-- Putin hints at ending Russia’s war in Ukraine, but why now? - Al Jazeera
-- Virginia Democrats’ $70M redistricting gamble backfires after court defeat, ignites blame game - Fox News
-- Multiple bodies found in Union Pacific cargo train at Laredo railyard - WOAI
-- Abraham Foxman, Warrior Against Antisemitism, Dies at 86 - The New York Times
-- Full transcript of "Face the Nation with Margaret Brennan," May 10, 2026 - CBS News
-- Strong to severe thunderstorms likely this evening - KXAN Austin
-- French passenger of hantavirus cruise ship starts showing symptoms on evacuation flight, prime minister says - CBS News
+- Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time - CNN
+- ‘Extremely scary’: Specter of an all-GOP governor’s race spurs push to remake open primary - Los Angeles Times
+- Democratic Candidates Scramble in Virginia After Court Tosses Map - The New York Times
+- Earthquake swarm in Brawley in Imperial County begins to slow after over 350 recorded quakes, including 4.7 magnitude - ABC7 Los Angeles
+- Abraham Foxman, influential leader of Anti-Defamation League, dies at 86 - The Washington Post
+- 6 people found dead inside cargo train boxcar in Texas - NBC News
+- Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention - NBC News
+- Read the full transcript of Major Garrett's interview with Israeli Prime Minister Benjamin Netanyahu here - CBS News
+- U.S. cruise passengers fly back for hantavirus monitoring, as one tests positive - NPR
+- Keir Starmer Says No, He Won’t Resign - The New York Times
 - Israeli settlers force Palestinian family to exhume and rebury their father - NPR
-- Russia and Ukraine accuse each other of violating US-brokered 3-day truce - AP News
-- UK's Starmer says his government is a 10-year project despite calls to quit - Reuters
-- Asia markets set to open mixed as oil jumps on Trump rejecting Iran proposal - CNBC
-- Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz - AP News
-- More chocolate bars added to nationwide recall over possible contamination - The Hill
-- Target is trying to win back busy families from Walmart, starting with the baby aisle - CNBC
+- Thailand's former PM Thaksin Shinawatra released from prison - Reuters
+- Stock futures slide as investors monitor the latest Iran war negotiations: Live updates - CNBC
+- Saudi Aramco profits jump despite conflict in Middle East - The Guardian
+- America's job market optimism gap is the worst in the world - Axios
+- More chocolate bars added to nationwide recall over possible contamination - Yahoo
+- Nintendo Shares Tumble After Lackluster Switch 2 Games Outlook - Bloomberg.com
 - Sunday Preview – March out with the Cities of Sigmar - Warhammer Community
-- Review | I wanted to hate this weird travel accessory. Then I slept soundly in economy. - The Washington Post
