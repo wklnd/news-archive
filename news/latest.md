@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-11 14:30_
+_Updated: 2026-05-11 17:47_
 
-- Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested - The Washington Post
-- What Middle Powers Fear About the Trump-Xi Summit - The New York Times
-- Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time - CNN
-- The families going hungry because of Trump’s food stamp cuts - NBC News
-- Two more cruise ship passengers test positive for hantavirus - Al Jazeera
+- Oil prices jump after Trump dismisses Iran proposal to end war - BBC
+- White House Correspondents’ Dinner shooting suspect pleads not guilty in federal court - NBC News
+- Starmer pledges to bring Britain closer to the EU as he faces calls to step down - AP News
+- Confident in China’s power, Xi is ready to host an unpredictable Trump - The Washington Post
 - Six people confirmed dead in Union Pacific cargo train at Laredo railyard - WOAI
-- Democratic Angst Could Lead California to Change Its Primary Rules - The New York Times
-- Abe Foxman, advocate for American Jews as longtime head of Anti-Defamation League, dies at 86 - CNN
-- They Were Promised New Septic Tanks. Trump Called It ‘Illegal DEI.’ - The New York Times
+- Angry Trump Lets His Real Thoughts Slip in SCOTUS Rampage - The Daily Beast
+- Republicans are about to make a huge mistake: expert - Alternet
+- Hegseth calls for Sen. Mark Kelly to be investigated by Pentagon for second time - CNN
 - Congress’ Epstein probe raises a thorny question: Who counts as a victim? - Politico
-- Starmer Promises Urgent Change as He Battles to Save Premiership - The New York Times
-- EU’s Kallas rejects Gerhard Schröder as Russia-Ukraine negotiator - politico.eu
-- Iranian Nobel winner Mohammadi moved to Tehran hospital - DW.com
-- Iran, China and AI collide in Trump's legacy-defining week - Axios
-- It's not shameful, it's savvy: The shoppers redefining how to save money on groceries - NPR
-- Stock futures are little changed as Trump rejects Iran offer, oil jumps: Live updates - CNBC
-- World shares are mixed and oil rises after Trump rejects Iran's response to ceasefire proposal - AP News
-- America's job market optimism gap is the worst in the world - Axios
-- Forza Horizon 6 has been leaked and cracked a week before its release - The Verge
-- Fitbit Air has status light & double-tap gesture, gets Whoop size comparison - 9to5Google
+- After Virginia Redistricting Map Is Tossed, Democrats Search Desperately for a Response - The New York Times
+- US and French nationals test positive for hantavirus after leaving ship - BBC
+- Putin says war may soon end, proposes ex-German chancellor as mediator - Euronews.com
+- Jailed Iranian Nobel Peace Prize Winner Is Transferred to Tehran Hospital - The New York Times
+- Iran hangs grad student accused of spying for the CIA and Israel's intel agency - CBS News
+- Housing Market’s Spring Is Shaping Up as a Bust After April Sales Were Flat - WSJ
+- Oil Prices Rise as Prospects for U.S.-Iran Peace Deal Fizzle - The New York Times
+- Dow Jones, Oil Rise; These Stocks Jump - Investor's Business Daily
+- Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times
+- The Pixel's best voicemail feature might soon expand to non-Pixel phones, 20+ markets - Android Authority
+- Apple’s 2nm Powerhouse: Why the A20 Pro Chip Makes the iPhone 18 Pro a Literal Pocket Computer - Geeky Gadgets
