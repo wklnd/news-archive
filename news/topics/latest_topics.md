@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-11 07:34_
+_Updated: 2026-05-11 10:43_
 
 ## Top Stories
 
 - Trump avfärdar Irans svar: ”Helt oacceptabelt” - GP
-- Direkt – Kriget i Ukraina – Zelenskyj: Om Ryssland slutar anfalla gör vi det också - Dagens Nyheter
-- Kina bekräftar Trumps besök – ska träffa Xi - Hufvudstadsbladet – HBL
+- Besvär förvärrades efter endometriosingreppet - Aftonbladet
 - S-topp: ”Min dröm – alla överväger bo i Tensta” - Svenska Dagbladet
-- Flera bilbränder i Malmö under natten - Sydsvenskan
+- Timmarna som splittrar Sverige - Dagens Nyheter
+- Vd misstänkt för grovt sanktionsbrott - SVT Nyheter
+- ”Ett förgiftat förslag” – starka reaktioner efter Putins Schröder-utspel - Dagens Nyheter
+- Skolans digitala slutprov kan dröja till minst 2031 - Omni
+- Mekade med bil – klämdes ihjäl - Västerbottens-Kuriren
 - Wilma i Älvsbyn får 15 timmar: ”Konstigt att det är olika” - Dagens Nyheter
-- Rekordmånga diamantbröllop kan firas i år - NWT
-- Polisen: Bara ett dominerande gäng kvar - Dagens Nyheter
-- Vårdförbundet får ny ordförande - Västerbottens-Kuriren
-- Svensk aktivist deporterad av Israel - GP
-- Evakuerad amerikan smittad av hantavirus - Sveriges Radio
-- Möte för försvarsministrar om Hormuzsundet - GP
-- Efter sabotagen: Polis jagar osynlig extremvänster - Västerbottens-Kuriren
-- Thailands exledare släpps i förtid - Västerbottens-Kuriren
-- 5 eller 10 procent – därför spretar arbetslösheten - Svenska Dagbladet
-- Carl Bennet efterlyser investeringspakt - DI
-- Svenska kronans ras – nu svagast bland världens största valutor - Börskollen
-- Kan ”superappar” slå här? - Svenska Dagbladet
-- Statsepidemiologen: ”Låg risk att smittan förs vidare” - Sveriges Radio
-- Google Translate får äntligen funktionen många saknat - Teknikveckan
+- Kollision mellan tvärbana och lastbil - SVT Nyheter
+- Sex kroppar hittade i godsvagn i Texas - Västerbottens-Kuriren
+- Tre turister döda i båtolycka i Norge - Corren
+- Paasikivi om Putins uttalande om kriget i Ukraina: ”Ett tecken på svaghet” - GP
+- Trump träffar Xi - Hufvudstadsbladet – HBL
+- 5 eller 10 procent – därför spretar arbetslösheten - Dagens Nyheter
+- Ekonomerna: Kan snart bli billigare att binda bolånet - Dagens PS
+- Varför går börsen upp trots orolig omvärld? - Dagens Arena
+- Nya funktionen i Swish – dela på notan i appen - Expressen
+- Samsung uppdaterar Galaxy Buds3 Pro och Buds4 Pro - Teknikveckan
+- Apple ska putsa på designen för ”liquid glass” - Omni
 
 ## World News
 
 - Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
-- Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Hackerattack mot universitet: ”Obehagligt” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -54,6 +54,7 @@ _Updated: 2026-05-11 07:34_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
@@ -68,7 +69,6 @@ _Updated: 2026-05-11 07:34_
 - AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
@@ -82,11 +82,11 @@ _Updated: 2026-05-11 07:34_
 - Mid-market-bolagen om framtiden 2023 - Grant Thornton Sverige
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -97,21 +97,21 @@ _Updated: 2026-05-11 07:34_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- E-hälsa inom EU - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Vad Stryker-attacken avslöjar om säkerhet för medicintekniska produkter - Health-ISAC
 - Vi presenterar HealthBench - OpenAI
+- E-hälsa inom EU - Läkartidningen
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -119,26 +119,26 @@ _Updated: 2026-05-11 07:34_
 
 ## Science
 
-- Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Water Science Lab - Malmö universitet
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Olika slutsatser från samma data - Läkartidningen
-- Internationella dagen för kvinnor och flickor inom vetenskapen - digital-strategy.ec.europa.eu
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2026-05-11 07:34_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL.nu
+- Framtidens jordbruk är här - digital-strategy.ec.europa.eu
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
 - Lediga jobb - Land Lantbruk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
