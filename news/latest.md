@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-11 22:22_
+_Updated: 2026-05-11 23:52_
 
 - Iran War Live Updates: Trump Says Cease-Fire Is on 'Life Support’ - The New York Times
-- The federal gas tax is on Trump’s hit list. Data shows how much would be saved without it. - NBC News
-- Confident in China’s power, Xi is ready to host an unpredictable Trump - The Washington Post
-- Kennedy Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence - The New York Times
-- Multiple people injured, Memorial Drive closed amid emergency response - WCVB
-- Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
-- Supreme Court briefly extends telehealth and mail access for mifepristone as deliberations continue - CNN
-- Chicago teen who pushed for parents’ release from ICE custody dies of cancer - The Guardian
-- ‘Malaise’: Karl Rove Warns the GOP’s House Majority May Be Doomed Despite Gerrymander Advantage - Mediaite
-- Laredo Officials Investigating Deaths of 6 People Found in Train Boxcar - The New York Times
-- American Passengers Exposed to Hantavirus Begin Quarantine in U.S. - The New York Times
-- Britain’s Starmer fights for his job as calls for his ouster grow after local election losses - AP News
+- Supreme Court temporarily extends full access to abortion pill while it mulls legal challenge - NBC News
+- Trump seeks to pause federal gas tax as prices soar amid Iran conflict - The Washington Post
+- Starmer pledges to prove his doubters wrong but faces a wave of resignation calls - AP News
+- Alabama AG makes Supreme Court play that could deal decisive blow in redistricting war - Fox News
+- Video shows suspect in Cambridge shooting on Memorial Drive firing gun - CBS News
+- Virginia Democrats ask US Supreme Court to let them use new congressional map - CNN
+- Teen dies hours after his parents reunited with him following immigration detention - NBC News
+- Nonprofit sues to stop Trump’s changes to Reflecting Pool, a historic site - The Washington Post
+- Heatstroke suspected after six people found dead in shipping container in Texas rail yard - The Independent
+- American passengers from Hantavirus-hit cruise ship arrive in Nebraska - CNN
 - Iran executes man who worked in ‘satellite field’ for allegedly spying for Mossad, CIA - The Times of Israel
-- 5 Scenarios for Putin’s Ukraine War - Newsweek
-- Musk, Cook Set to Join Trump for Xi Summit, White House Says - Bloomberg.com
+- Russia and Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end - AP News
+- EU sanctions Russian individuals over forced deportation of Ukrainian children - Euronews.com
+- Video shows passenger jet fatally strike person on Denver airport runway - NBC News
 - GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs - CNBC
-- Housing Market’s Spring Is Shaping Up as a Bust After April Sales Were Flat - WSJ
-- Stock Market Today: S&P 500, Nasdaq trade in record territory, Dow up as Trump says Iran cease-fire deal on 'life support' - MarketWatch
+- Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable' - Investopedia
+- BP, Shell, TotalEnergies Pocket Billions in War-Driven Trading Windfall - Crude Oil Prices Today | OilPrice.com
 - Apple brings encrypted RCS chats to iPhone - The Verge
-- Update Hints Steam Machine Will Arrive in 512GB and 2TB Versions, Despite AI-led SSD Pricing Surge - Digital Foundry
+- Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost - TechCrunch
