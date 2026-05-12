@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 18:05_
+_Updated: 2026-05-12 20:24_
 
-- Iran War Live Updates: Trump Calls Iran's Peace Proposal 'Garbage' as Cease-Fire Hangs in the Balance - The New York Times
-- Ship operators involved in Baltimore bridge collapse charged with misconduct and obstruction - NBC News
-- Trump faces uphill climb on suspending gas tax - Axios
-- DA: 2 in critical condition after daytime shooting in Cambridge, up to 60 rounds fired by suspect - Boston 25 News
-- Mayor of Californian city Eileen Wang resigns over Chinese agent charge - BBC
-- ‘My life is not affordable. No one cares’ - CNN
-- As Republicans carve up Black districts, Democrats pivot to a new midterm message - Politico
-- Deal reached with hackers to delete data stolen from the Canvas educational platform - AP News
+- Dr. Marty Makary is out as FDA commissioner - NBC News
 - Trump heads to China today for high-stakes meeting with Xi - CBS News
-- Deaths of at least six people believed to be due to heat inside shipping container in Texas - The Guardian
-- Ukraine officials say Zelenskyy’s ex-chief of staff is a suspect in a money-laundering probe - AP News
-- UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
-- WHO head tells countries to prepare for more hantavirus cases - The Guardian
-- Israeli lawmakers set up tribunal, allow for death penalty for October 2023 attackers - NPR
+- Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding - The New York Times
+- Key Republican faces Democratic calls to resign over radio interview - Axios
+- Justice Department announces criminal charges in Baltimore’s deadly Key Bridge collapse - CNN
+- Accused Memorial Drive gunman Tyler Brown tried to kill Boston police officers in 2020 - CBS News
+- Deal reached with hackers to delete data stolen from the Canvas educational platform - AP News
+- Mayor of Californian city Eileen Wang resigns over Chinese agent charge - BBC
+- Trump wants to pause the federal gas tax. Here’s what that could mean. - The Washington Post
+- Whitmire: Alabama passes the John Roberts Literacy Test - AL.com
+- Live updates: UK Prime Minister Keir Starmer faces growing calls to quit - CNN
+- EU takes aim at TikTok, Meta's 'addictive designs' for teens - Reuters
+- Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates - BBC
+- Kuwait says it foils infiltration operation by Iran’s IRGC - Al Jazeera
 - US inflation jumps to 3.8% as energy costs surge from Iran war - BBC
+- Senate confirms Warsh for seat on Fed Board - Politico
 - US CEOs seek China business gains from Trump-Xi summit - Reuters
-- S&P 500 retreats from record after high inflation reading, drop in tech stocks: Live updates - CNBC
-- EBay listed 6 short reasons it's rejecting GameStop CEO Ryan Cohen's takeover offer - Business Insider
-- AI-assisted hacking is already here, Google warns - Axios
-- Sony's New Wearable Air Conditioner Runs Even Cooler - Engadget
+- The Facts: The CLARITY Act Protects Main Street, Unleashes Responsible Innovation, and Cracks Down on Fraud and Money Laundering - Senate Committee on Banking, Housing, and Urban Affairs (.gov)
+- Google announces its Chromebook successor: the Googlebook - The Verge
+- Android is getting a big AI overhaul in 2026 - Ars Technica
