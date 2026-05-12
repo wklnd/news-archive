@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 15:24_
+_Updated: 2026-05-12 18:05_
 
-- Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more - NPR
-- Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News
-- Southern California mayor resigns, will plead guilty to acting as agent for Chinese government - CNN
-- Trump’s gas tax holiday pitch faces early Capitol Hill headwinds - Politico
-- Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
-- UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
 - Iran War Live Updates: Trump Calls Iran's Peace Proposal 'Garbage' as Cease-Fire Hangs in the Balance - The New York Times
+- Ship operators involved in Baltimore bridge collapse charged with misconduct and obstruction - NBC News
+- Trump faces uphill climb on suspending gas tax - Axios
+- DA: 2 in critical condition after daytime shooting in Cambridge, up to 60 rounds fired by suspect - Boston 25 News
+- Mayor of Californian city Eileen Wang resigns over Chinese agent charge - BBC
+- ‘My life is not affordable. No one cares’ - CNN
 - As Republicans carve up Black districts, Democrats pivot to a new midterm message - Politico
-- The Nancy Guthrie investigation could hang on a strand of DNA - CBS News
-- Archibald: Supreme Court helps Alabama erase the legacy of Selma - AL.com
-- How passengers from hantavirus-hit cruise ship are quarantining in U.S. - The Washington Post
-- In first official confirmation, US envoys say Israel sent Iron Dome to UAE - The Times of Israel
-- EU diplomats agree to sanction Hamas leaders and Israeli settlers - NPR
-- Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims - The New York Times
+- Deal reached with hackers to delete data stolen from the Canvas educational platform - AP News
+- Trump heads to China today for high-stakes meeting with Xi - CBS News
+- Deaths of at least six people believed to be due to heat inside shipping container in Texas - The Guardian
+- Ukraine officials say Zelenskyy’s ex-chief of staff is a suspect in a money-laundering probe - AP News
+- UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
+- WHO head tells countries to prepare for more hantavirus cases - The Guardian
+- Israeli lawmakers set up tribunal, allow for death penalty for October 2023 attackers - NPR
+- US inflation jumps to 3.8% as energy costs surge from Iran war - BBC
 - US CEOs seek China business gains from Trump-Xi summit - Reuters
-- eBay rejects GameStop CEO Ryan Cohen's takeover offer, and says it is 'neither credible nor attractive' - Business Insider
-- Color crunch: Japan’s Calbee chip bags go monochrome as Iran war bites - CNN
-- CPI Report Today: Dow Futures Slip, Oil Rises; Inflation Data Expected Soon — Live Updates - WSJ
+- S&P 500 retreats from record after high inflation reading, drop in tech stocks: Live updates - CNBC
+- EBay listed 6 short reasons it's rejecting GameStop CEO Ryan Cohen's takeover offer - Business Insider
 - AI-assisted hacking is already here, Google warns - Axios
-- WhatsApp beta previews Liquid Glass changes for message reactions, more - 9to5Mac
+- Sony's New Wearable Air Conditioner Runs Even Cooler - Engadget
