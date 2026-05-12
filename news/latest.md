@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 03:23_
+_Updated: 2026-05-12 07:24_
 
 - Iran War Live News Updates: Trump Says Iran Ceasefire Is on ‘Massive Life Support’ - WSJ
-- Trump seeks to pause federal gas tax as prices soar amid Iran conflict - The Washington Post
-- Supreme Court Clears Path for Alabama to Use New Voting Map - The New York Times
+- Trump's gas tax holiday pitch faces some early Capitol Hill headwinds - Politico
 - Arcadia mayor, accused of being Chinese foreign agent, strikes deal with feds and resigns - Los Angeles Times
-- Abortion pill by mail allowed for at least 3 more days, the Supreme Court says - NPR
-- What we know about alleged Memorial Drive gunman Tyler Brown - CBS News
+- Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister - The New York Times
+- Nonprofit sues to stop Trump’s changes to Reflecting Pool, a historic site - The Washington Post
+- Gunman shot by trooper and civilian after opening fire on Memorial Drive in Cambridge; 2 in critical condition - CBS News
+- Supreme Court hands Alabama major boost in redistricting fight - The Washington Post
 - Heat stroke is suspected among 6 found dead in a shipping container at a rail yard near Texas border - AP News
-- Teen dies hours after his parents reunited with him following immigration detention - NBC News
-- Senate Republicans weigh whether to swallow Trump’s $1B push for ballroom security - CNN
-- Virginia Democrats ask Supreme Court to reinstate congressional map struck down by state high court - CBS News
-- American cruise passenger tests positive for hantavirus. Live updates - USA Today
-- Pressure on Starmer Mounts as Dozens of Labour Lawmakers Call on Him to Quit - The New York Times
+- ‘A bad look’: Republicans want more details on ballroom security funding request - Politico
+- Why political gerrymandering in the South will likely continue to consider voters’ race despite Supreme Court ruling - The Conversation
+- 2 Maryland residents monitored after potential hantavirus exposure, health officials say - CBS News
+- Oct. 7 attackers could face death penalty after Israel approves war crimes tribunal - CNN
+- Macron takes the stage uninvited at Africa summit to scold crowd for 'total lack of respect' - Fox News
 - Volodymyr Zelenskyy’s former chief of staff targeted in major corruption probe - Financial Times
-- Russia and Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end - AP News
-- Byron Allen to Buy BuzzFeed In $120 Million Deal, Will Take Over As CEO - The Hollywood Reporter
+- Byron Allen strikes deal to buy controlling stake in BuzzFeed and become CEO - Axios
 - GM just laid off hundreds of IT workers to hire those with stronger AI skills - TechCrunch
-- 'Big Short' investor Michael Burry says the market has 'jumped the shark' — what he says investors are getting wrong - Yahoo Finance
+- Andrew Morse to step down, Paul Curran named AJC president and publisher - AJC.com
 - Can Chinese AI solve inequality? + How dementia comes for your bank account - NPR
-- Google stopped a zero-day hack that it says was developed with AI - The Verge
 - Finally, texts between Android and iPhone users can be end-to-end encrypted - TechCrunch
+- Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation - The Hacker News
