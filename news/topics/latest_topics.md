@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-12 18:01_
+_Updated: 2026-05-12 20:22_
 
 ## Top Stories
 
-- Här är svenska truppen till fotbolls-VM 2026 - Sveriges Radio
-- Efter trippelmordet i Uppsala – nu faller domen - Aftonbladet
-- Pentagon: Kriget kostar snart 270 miljarder kronor – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- 85 anställda lämnar SVT till följd av sparpaketet - Svenska Dagbladet
-- Person hittad död i trapphus i Västerås - Expressen
-- Gängtopp gripen i Tunisien: ”Väldigt aktiv senaste veckorna” - Dagens Nyheter
-- Fick hand avhuggen med machete – två åtalas - Västerbottens-Kuriren
-- Försvarsfajten – vilken skillnad är det egentligen mellan S och M? - Dagens Nyheter
+- Striden om Nybergs hår: ”Klipper av för att hitta gamla brott” - Dagens Nyheter
+- CNN: Trump överväger nya attacker mot Iran - Hufvudstadsbladet – HBL
+- Analys: Stor oro inför Trumps möte med Xi Jinping - GP
+- Mordet på Ramels väg: Misstänkte beställaren ”Moewgli” gripen i Tunisien - Sydsvenskan
+- Familjen splittras efter 22 år: ”Vakna, Sverige” - Aftonbladet
+- Dom i mål om dödliga skjutningar i Uppsala samt skjutningar i Eslöv i april 2025 - Sveriges Domstolar
+- Fick hand avhuggen med machete – två åtalas - GP
+- DN Direkt – Ytterligare en svensk isolerad på grund av hantavirus - Dagens Nyheter
 - Glappet: Liberalerna backade mest från sina löften om klimatet och miljön - HD – Nyheter Dygnet Runt
-- Gör deal med hackarna – stulna uppgifter förstörda - GP
-- Keir Starmer tänker inte avgå: ”Jag tar ansvar” - Dagens Nyheter
-- USA:s nota för Irankriget: 29 000 000 000 dollar - Västerbottens-Kuriren
-- Flera döda i nytt bombdåd i Pakistan - GP
+- Efter hackerattacken – Umeå universitet öppnar Canvas - SVT Nyheter
+- Sandra Stiskalo: Är det nu den drar igång igen, kaospolitiken? - Dagens Nyheter
+- Flera döda i nytt bombdåd i Pakistan - Västerbottens-Kuriren
 - Orbán-trogna byter sida: ”Går igenom sorgens stadier” - Omni
-- Svenske stjärnprogrammeraren: Mythos hittade ett enda säkerhetshål - Dagens Nyheter
-- Lyx, AI-botar och anrik trio – här är finalisterna - Svenska Dagbladet
-- Så ska hälsodata användas, delas och skyddas inom EU - Svensk Farmaci
+- USA:s nota för Irankriget: 29 000 000 000 dollar - Västerbottens-Kuriren
+- Varnar för stor krasch: ”Väldigt mycket déjà vu” - Svenska Dagbladet
+- Mätning: Allt mindre vin i glasen - Corren
+- Stekheta AI-sektorn vilar på en enda siffra – nu höjs bubbelvarningarna - Börskollen
 - Arcoma: Canonbra order i USA - Affärsvärlden
 - Färre studerande tar studielån - CSN
 - Forskningsanknuten utbildning inom datavetenskap öppnar vägar för studenter inom akademin - Umeå universitet
@@ -29,47 +29,47 @@ _Updated: 2026-05-12 18:01_
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 15:15 - TV.nu
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - TV.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
-- NTM bäst i världen på att utveckla den lokala journalistiken - ntm.se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Global hackerattack mot LTU: ”Vet inte om det skett en större attack” - SVT Nyheter
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - I serien Global Thought Leaders tittar CBS News närmare på vikten av kvalitativ inomhusluft (IAQ) och presenterar Camfil - Mynewsdesk
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
 
 ## Technology
 
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Storbritannien trappar upp kampen mot deepfake - Omni
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Ny AI-teknik kan upptäcka infektioner tidigt och rädda liv - Karolinska Institutet
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Deepseek är det nya Linux - Computer Sweden
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-05-12 18:01_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -152,7 +152,7 @@ _Updated: 2026-05-12 18:01_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
