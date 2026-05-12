@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 13:02_
+_Updated: 2026-05-12 15:24_
 
-- Live Updates: Iran vows to fight on as Trump says ceasefire is "on life support" - CBS News
-- Arcadia mayor, accused of being Chinese foreign agent, strikes deal with feds and resigns - Los Angeles Times
-- Nonprofit sues the federal government over plans to paint Lincoln Memorial Reflecting Pool blue - NPR
+- Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more - NPR
+- Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit - AP News
+- Southern California mayor resigns, will plead guilty to acting as agent for Chinese government - CNN
+- Trump’s gas tax holiday pitch faces early Capitol Hill headwinds - Politico
+- Group sues to block Trump's blue resurfacing of Reflecting Pool at Lincoln Memorial - CBS News
 - UK Prime Minister Keir Starmer Says He Will Not Resign: Live Updates - The New York Times
-- DA: 2 in critical condition after daytime shooting in Cambridge, up to 60 rounds fired by suspect - Boston 25 News
-- Supreme Court hands Alabama major boost in redistricting fight - The Washington Post
-- Heat stroke is suspected among 6 found dead in a shipping container at a rail yard near Texas border - AP News
-- It’s been 100 days since Nancy Guthrie disappeared. Her case upended Hollywood’s portrayal of solving crime - CNN
+- Iran War Live Updates: Trump Calls Iran's Peace Proposal 'Garbage' as Cease-Fire Hangs in the Balance - The New York Times
 - As Republicans carve up Black districts, Democrats pivot to a new midterm message - Politico
-- Trump and Xi dialed down the trade war, but challenges lurk at their China summit - AP News
-- They were on the trip of a lifetime. Now they’re quarantined as health officials work to contain a hantavirus outbreak - CNN
-- EU puts sanctions on Israeli settlers after Hungary drops Orban’s veto - The Washington Post
-- As ceasefire ends, Russian drone strikes residential building in Kyiv - The Kyiv Independent
-- Knesset passes law establishing military tribunal to try October 7 perpetrators - The Times of Israel
-- eBay Rejects Unsolicited Proposal from GameStop - PR Newswire
-- Netflix sued by Texas AG for alleged surveillance, addictive features - Politico
-- AI rally fizzles as Middle East ceasefire goes on 'life support' - Reuters
-- UK 30-Year Yields Jump to Highest Since 1998 on Starmer Pressure - Bloomberg.com
-- Google stopped a zero-day hack that it says was developed with AI - The Verge
-- iOS 26.5 Features: Everything New in iOS 26.5 - MacRumors
+- The Nancy Guthrie investigation could hang on a strand of DNA - CBS News
+- Archibald: Supreme Court helps Alabama erase the legacy of Selma - AL.com
+- How passengers from hantavirus-hit cruise ship are quarantining in U.S. - The Washington Post
+- In first official confirmation, US envoys say Israel sent Iron Dome to UAE - The Times of Israel
+- EU diplomats agree to sanction Hamas leaders and Israeli settlers - NPR
+- Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims - The New York Times
+- US CEOs seek China business gains from Trump-Xi summit - Reuters
+- eBay rejects GameStop CEO Ryan Cohen's takeover offer, and says it is 'neither credible nor attractive' - Business Insider
+- Color crunch: Japan’s Calbee chip bags go monochrome as Iran war bites - CNN
+- CPI Report Today: Dow Futures Slip, Oil Rises; Inflation Data Expected Soon — Live Updates - WSJ
+- AI-assisted hacking is already here, Google warns - Axios
+- WhatsApp beta previews Liquid Glass changes for message reactions, more - 9to5Mac
