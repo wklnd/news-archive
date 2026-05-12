@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 20:24_
+_Updated: 2026-05-12 22:19_
 
-- Dr. Marty Makary is out as FDA commissioner - NBC News
-- Trump heads to China today for high-stakes meeting with Xi - CBS News
-- Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding - The New York Times
+- Makary’s time atop FDA over, Diamantas named acting commissioner - Politico
+- Trump and Xi Enter China Summit Distracted by Iran War - The New York Times
+- Starmer defiant as ministers quit and demand his exit — as-it-happened - politico.eu
+- Cost Of Iran War Has Increased $4 Billion, Pentagon Says—But Some Estimates Say It’s Closer To $200 Billion - Forbes
 - Key Republican faces Democratic calls to resign over radio interview - Axios
-- Justice Department announces criminal charges in Baltimore’s deadly Key Bridge collapse - CNN
-- Accused Memorial Drive gunman Tyler Brown tried to kill Boston police officers in 2020 - CBS News
-- Deal reached with hackers to delete data stolen from the Canvas educational platform - AP News
-- Mayor of Californian city Eileen Wang resigns over Chinese agent charge - BBC
-- Trump wants to pause the federal gas tax. Here’s what that could mean. - The Washington Post
+- Governor Hochul and Mayor Mamdani Announce Additional Aid and State Actions to Stabilize New York City’s Budget - NYC.gov
+- Justice Dept. charges shipping company in deadly Key Bridge collapse - The Washington Post
+- Trump faces uphill climb on suspending gas tax - Axios
+- Trump Melts Down Over Reflecting Pool Reports in Wild Posting Spree - Rolling Stone
 - Whitmire: Alabama passes the John Roberts Literacy Test - AL.com
-- Live updates: UK Prime Minister Keir Starmer faces growing calls to quit - CNN
 - EU takes aim at TikTok, Meta's 'addictive designs' for teens - Reuters
-- Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates - BBC
-- Kuwait says it foils infiltration operation by Iran’s IRGC - Al Jazeera
+- Kyiv’s corruption scandal threatens Zelenskyy’s EU push - politico.eu
+- Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea - The Guardian
+- Kuwait Accuses Iran of Trying to Infiltrate Its Territory - The New York Times
 - US inflation jumps to 3.8% as energy costs surge from Iran war - BBC
-- Senate confirms Warsh for seat on Fed Board - Politico
-- US CEOs seek China business gains from Trump-Xi summit - Reuters
-- The Facts: The CLARITY Act Protects Main Street, Unleashes Responsible Innovation, and Cracks Down on Fraud and Money Laundering - Senate Committee on Banking, Housing, and Urban Affairs (.gov)
-- Google announces its Chromebook successor: the Googlebook - The Verge
-- Android is getting a big AI overhaul in 2026 - Ars Technica
+- Senate confirms Warsh for seat on Fed Board, clearing path to become chair - Politico
+- Stock Market Today: Dow, Nasdaq Sink on Soaring Inflation — Live Updates - WSJ
+- US household debt ticks up to new all-time high as inflation continues to rise - ABC News - Breaking News, Latest News and Videos
+- First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET
+- Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com
