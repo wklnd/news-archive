@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-13 23:08_
+_Updated: 2026-05-14 00:45_
 
 ## Top Stories
 
-- Zelenskyj: Flera dödade i ryska attacker - GP
-- Bakteriehalterna i Malmö kanal halverade efter avloppsutsläppet - SVT Nyheter
+- Kommentar från Lundsberg angående Dokument inifrån - Cision News
 - Irans brev till Sverige: Djupt bristfälligt förslag - Svenska Dagbladet
-- Experten: Xi en av få ledare som Trump respekterar - Dagens Nyheter
-- Katja Nybergs politiska uppdrag – när hon misstänks ha knarkat - Expressen
-- Vance om Iran-samtalen: ”Vi gör framsteg” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Krispaket klart – bensinskatt sänks igen i juli - GP
-- DN Direkt – S vill se extern granskning av Kristersson - Dagens Nyheter
-- Film och rapport om äldres existentiella ensamhet lanserad - NewsMachine AB
-- Polisman döms för misshandel av tonårspojke - Västerbottens-Kuriren
+- Många utan vatten i centrala Göteborg - GP
 - Ryska armén lovar Putin att ta Donbass till hösten - Dagens Nyheter
-- Ungern kallar upp Rysslands ambassadör - Corren
-- Får livstid efter sina barns krav - Expressen
-- Parlamentet öppnade – uppförsbacke för Starmer - GP
-- Matpriserna sjönk mer än på 30 år efter momssänkning - Omni
-- Var batteriköpet en täckmantel? - Svenska Dagbladet
+- Experten: Xi en av få ledare som Trump respekterar - Dagens Nyheter
+- Bil började brinna efter krock i Malmö – två till sjukhus - SVT Nyheter
+- Experten om sänkta bränsleskatten: ”Ohållbart” - Dagens Nyheter
+- S vill se extern granskning av Kristersson - GP
+- Film och rapport om äldres existentiella ensamhet lanserad - NewsMachine AB
+- Misstänks för grova våldsdåd – nu börjar rättegången mot gängtoppen - SVT Nyheter
+- Zelenskyj: Flera dödade i ryska attacker - Västerbottens-Kuriren
+- Skrev bok om makens död – döms till livstid - Aftonbladet
+- Källor: Saudiarabien attackerade Iran under kriget – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Parlamentet öppnade – uppförsbacke för Starmer - Corren
 - Världens oljelager töms i rekordfart - Sydsvenskan
 - Finansministern rasar mot bankerna: ”Helig vrede” - Expressen
+- Flera katalysatorstölder i Dalarna – polisen varnar bilägare - Dala-Demokraten
+- Matpriserna sjönk mer än på 30 år efter momssänkning - Omni
 - Uppmärksammad svensk teori om evigt liv dras tillbaka - Dagens Nyheter
 - Vinterns mätprogram av Sveriges fyra referensglaciärer vid Tarfala forskningsstation – Vintermassbalansen som förväntad - Stockholms universitet
 
@@ -50,26 +50,26 @@ _Updated: 2026-05-13 23:08_
 
 ## Technology
 
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
+- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI -plattform Nackdelar: Viktiga nackdelar med Palantir för europeiska företag och institutioner - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Deepseek är det nya Linux - Computer Sweden
 
 ## Business
 
@@ -83,6 +83,7 @@ _Updated: 2026-05-13 23:08_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -91,7 +92,6 @@ _Updated: 2026-05-13 23:08_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
@@ -100,45 +100,45 @@ _Updated: 2026-05-13 23:08_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Kan Sverige bli bättre på att förebygga än att behandla? Möte i Malmö! | Medeon Science Park - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 - Olika slutsatser från samma data - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2026-05-13 23:08_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL.nu
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Bättre positionering med ny gps-mottagare - Land Lantbruk
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
