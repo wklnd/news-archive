@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-13 23:10_
+_Updated: 2026-05-14 00:48_
 
-- Facing headwinds at home, Trump signals eagerness to make deals at China summit - The Washington Post
-- Utah grief author convicted in husband’s poisoning death to be sentenced - NBC News
+- Iran War Live News Updates: Trump Arrives in China Against Background of Unresolved Iran War - WSJ
 - Alex Murdaugh Murder Convictions Overturned by South Carolina’s Top Court - The New York Times
+- War in Iran costs $29 billion so far. And, students are finally improving in math - NPR
 - Kids are in a ‘reading recession,’ as test scores continue to decline - AP News
-- Billionaire Dem donor who turned on party after allegations against Swalwell is arrested - Fox News
-- Trump faces slew of ‘bad options’ on Iran as diplomacy falters - Al Jazeera
-- Senate defeats 7th attempt to limit Trump's Iran war powers, despite new GOP defection - CBS News
+- For the first time, Kouri Richins speaks publicly during her sentencing hearing - The Salt Lake Tribune
+- Immigrants Detained in Chicago Military-Style Raid Seek Millions in Damages - ProPublica
+- Louisiana Senate committee drops one of two majority-Black districts in advancing map - Louisiana Illuminator
 - ‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks - The Guardian
-- Trump’s plan to use his library as a hotel sparks lawsuit - The Washington Post
-- Van Hollen posts alcohol use test results after challenging Patel to take survey - The Hill
-- Gunshots fired in standoff at Philippine Senate over ICC suspect - Reuters
-- US and China seek to repair damage from tariff war that sent trade into a freefall - Yahoo Finance
+- Billionaire Rick Jackson Is Upending the Georgia Governor’s Race - The New York Times
+- ICE Detains Ex-Kansas Mayor Joe Ceballos Who Voted Illegally - The New York Times
+- Gunfire heard at Philippine Senate amid standoff with lawmaker facing arrest - The Washington Post
 - Starmer Rival Streeting Prepares to Resign and Challenge Prime Minister - Bloomberg.com
-- Trump urged to rule out ‘unlawful’ Cuba takeover and stop using Guantánamo Bay for migrant detention - The Guardian
-- Trump jets to China with gaggle of CEOs, hoping Xi will ‘open up’ to them - The Washington Post
+- From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech - BBC
+- Israel Says Netanyahu Made a Secret Trip to U.A.E., Which Says He Didn’t - The New York Times
+- Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait - The Washington Post
+- Huang, Musk, Cook Among Billionaire Delegation At Trump’s Xi Meeting - Forbes
 - A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public - The New York Times
-- Tariff Refunds Begin to Reach Businesses as Trump Lashes Out at Court - The New York Times
-- Altman forced to confront claims at OpenAI trial that he’s a prolific liar - Ars Technica
-- Meta launches Instants, a new iPhone app and Instagram feature for ephemeral sharing - 9to5Mac
-- Google on its ‘continued commitment to Chromebooks’ after Googlebooks - 9to5Google
+- Allegiant CEO makes case for low-cost airline model as Sun Country acquisition closes - CNBC
+- Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat - The Verge
+- Apple is dominating US phone sales, but it sounds like Google Pixel is holding on - 9to5Google
