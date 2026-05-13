@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-13 03:27_
+_Updated: 2026-05-13 07:33_
 
-- F.D.A. Commissioner Marty Makary Resigns After Weeks of Pressure - The New York Times
-- Kash Patel denies excessive drinking allegations as ‘total farce’ in Senate hearing - The Guardian
-- Trump Says ‘I Don’t Think About Americans’ Financial Situations’ When Negotiating Iran War - Forbes
-- U.K. Prime Minister Keir Starmer rejects mounting calls to resign, even from his own party - CBS News
-- Minneapolis grocery store owner charged in $1 million food assistance fraud - 5 EYEWITNESS NEWS
-- Trump Melts Down Over Reflecting Pool Reports in Wild Posting Spree - Rolling Stone
-- Justice Dept. charges shipping company in deadly Key Bridge collapse - The Washington Post
-- Florida Plans to Close ‘Alligator Alcatraz,’ Vendors Are Reportedly Told - The New York Times
-- Key House GOP moderate dismisses ballroom funding request - Live Updates - Politico
+- Trump due in China for high-stakes summit with Xi Jinping, as Iran war looms over talks - The Guardian
+- Day 74 of Middle East conflict — Trump says ‘I don’t think about Americans’ financial situation’ - CNN
+- Kash Patel lashes out as lawmakers question ‘excessive drinking’ - The Washington Post
 - Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls - NPR
-- Ukraine nears deal with Pentagon to test drones in US - Financial Times
-- Israel's government is expected to collapse over ultra-Orthodox military draft - NPR
-- Exclusive: Iraq, Pakistan strike energy deals with Iran as Tehran flexes Hormuz control - Reuters
-- EU takes aim at TikTok, Meta's 'addictive designs' for teens - Reuters
-- OpenAI’s Sam Altman takes the stand to fend off Elon Musk’s accusations he ‘stole a charity’ - NPR
-- Nvidia’s Huang Wants to Sell Chips to China. Trump Has Other Priorities. - Barron's
-- Rejoice, Buc-Ee's Fans: The Gas Station Chain Is Expanding To These 6 States - Daily Meal
-- US household debt ticks up to new all-time high as inflation continues to rise - ABC News - Breaking News, Latest News and Videos
-- Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com
+- Democrats pick Nebraska Senate nominee who could drop out and back independent Dan Osborn - NBC News
+- U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities - The New York Times
+- South Carolina Republicans block plan to eliminate Clyburn’s House seat - The Washington Post
+- House GOP eyes summer push for another party-line bill - Politico
+- Sons of Kouri Richins, author convicted of murdering husband, say they'd feel unsafe if she wasn't in prison - CBS News
+- Trump posts late-night social media spree as Iran war drags on - The Guardian
+- U.K. Prime Minister Keir Starmer rejects mounting calls to resign, even from his own party - CBS News
+- Trump’s tactics in Iran and the longest intentional internet blackout ever - NPR
+- Three King County residents connected to international cruise ship in public health monitoring for hantavirus - Public Health Insider
+- Saudi Arabia covertly launched strikes on Iran during war, sources say - The Times of Israel
+- Sam Altman defends OpenAI in courtroom showdown with Elon Musk - The Guardian
+- Inflation Accelerates After Weeks of War in Iran - The New York Times
+- Nvidia CEO Joins Trump’s China Trip as Last-Minute Addition - Bloomberg.com
+- Asia markets mixed as investors watch Trump-Xi meeting and Iran tensions - CNBC
 - First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET
+- Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com
