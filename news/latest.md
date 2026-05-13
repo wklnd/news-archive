@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-13 19:01_
+_Updated: 2026-05-13 21:24_
 
-- Alex Murdaugh Murder Convictions Overturned by South Carolina’s Top Court - The New York Times
 - Facing headwinds at home, Trump signals eagerness to make deals at China summit - The Washington Post
-- Kids' test scores began declining way before COVID. These schools are making gains - NPR
-- The key measures in the King's Speech - BBC
-- Is the U.S. slipping into 'Competitive Authoritarianism?' - NPR
-- Nebraska Democratic Senate primary winner says she’ll drop out to support independent in general election - The Guardian
-- 10,000 rulings: The courts’ overwhelming rebuke of Trump’s ICE policies - Politico
-- Former Democratic donor and candidate arrested in Los Angeles area - Politico
+- Court overturns Alex Murdaugh’s murder convictions and orders new trial - CNN
+- Reading, math scores are sliding nationwide. These Pa. school districts are bucking the trend - 90.5 WESA
+- From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech - BBC
+- Donald Trump’s plan to discuss Taiwan arms sales with Xi Jinping rattles Asian allies - Financial Times
+- Alleged Cambridge gunman was released from psychiatric hospital 3 days before shooting - WBUR
 - ‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks - The Guardian
 - Trump’s MAGA Makeover Project Hit by Embarrassing New Leaks - The Daily Beast
-- Bato dela Rosa: Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest - BBC
-- Princess Catherine arrives in Italy on first solo trip abroad after cancer goes into remission - AP News
-- Starmer Rival Streeting Prepares to Resign and Challenge Prime Minister - Bloomberg.com
-- Britain Has Had 5 Leaders in a Decade. Is It About to Get Another? - The New York Times
-- Nvidia’s Jensen Huang joins other US bosses on Trump trip to China - The Guardian
+- Exclusive: US freezes Medicare enrollments for new home healthcare and hospice providers - Reuters
+- Epstein abused me while under house arrest, survivor tells US lawmakers - BBC
+- Gunshots heard in Philippine Senate, where senator wanted by ICC is resisting arrest - CNN
+- Trump urged to rule out ‘unlawful’ Cuba takeover and stop using Guantánamo Bay for migrant detention - The Guardian
+- Princess Kate visits Italy in first official overseas trip since cancer treatment - CNN
+- Netanyahu made secret visit to UAE to meet with country's president - CBS News
+- Altman forced to confront claims at OpenAI trial that he's a prolific liar - Ars Technica
+- Hot inflation report throws cold water on Fed rate cuts - thestreet.com
 - Dow Falls On Hot Inflation But Nvidia, These AI Winners Rally (Live) - Investor's Business Daily
-- Warsh has big plans for the Fed, but results may take time - Reuters
-- OPEC sees slower demand growth this year as production falls more than 30% on Hormuz closure - CNBC
-- Sony's Xperia 1 VIII Has Bigger Camera Sensors And A New Look - Engadget
-- DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google
+- Read the internal memo from LinkedIn's CEO on layoffs and 'scaling back investments' - Business Insider
+- Meta launches Instants, a new iPhone app and Instagram feature for ephemeral sharing - 9to5Mac
+- Google on its ‘continued commitment to Chromebooks’ after Googlebooks - 9to5Google
