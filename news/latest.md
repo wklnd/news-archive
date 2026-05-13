@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-13 13:14_
+_Updated: 2026-05-13 15:52_
 
-- Trump heading to China for high-stakes meeting with Xi - CBS News
+- Trump-Xi Meeting Live Updates: Trump Arrives in China for High-Stakes Summit - WSJ
 - Trump faces barrage of Democratic counter-proposals on gas tax - Axios
+- ‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan - The Guardian
 - 4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia - The New York Times
-- Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls - NPR
-- South Carolina Republicans block plan to eliminate Clyburn’s House seat - The Washington Post
-- Trump says stopping Iran's nuclear program outweighs Americans' economic pain - Reuters
-- Sons of Kouri Richins, author convicted of murdering husband, say they'd feel unsafe if she wasn't in prison - CBS News
-- Trump emboldened ICE. Judges have ruled against it over 10,000 times. - Politico
-- House GOP eyes summer push for another party-line bill - Live Updates - Politico
-- FBI Director Kash Patel denies drinking allegations in heated Senate exchange - AP News
-- Streeting leaves Downing Street after 17-minute Starmer meeting ahead of King's Speech - BBC
-- Britain Has Had 5 Leaders in a Decade. Is It About to Get Another? - The New York Times
-- U.K. Prime Minister Keir Starmer rejects mounting calls to resign, even from his own party - CBS News
-- Hantavirus: How it differs from COVID - DW.com
-- Dollar near one-week high as hot U.S. inflation fans Fed hike bets, peace talks stall - Reuters
-- Nvidia’s Jensen Huang joins Trump as tech dominates China trip - The Guardian
+- Mayor Mamdani pitches more than $1 billion in education cuts, housing savings to fill budget hole - Gothamist
+- Kash Patel lashes out as lawmakers question ‘excessive drinking’ - The Washington Post
+- Kids' test scores began declining way before COVID. These schools are making gains - NPR
+- 10,000 rulings: The courts’ overwhelming rebuke of Trump’s ICE policies - Politico
+- Alabama jail staff didn’t help when she went into labor — other inmates did, lawsuit says - NBC News
+- Donald Trump greeted in Beijing with red carpet and fanfare ahead of high-stakes summit with Xi Jinping – live updates - The Guardian
+- Streeting allies tell BBC they expect him to challenge Starmer for leadership as soon as tomorrow - BBC
+- Gunshots fired as chaos erupts at Philippine Senate - Reuters
+- Starmer’s Peril Sets Up Stranger-Than-Ever UK King’s Speech - Bloomberg.com
+- Are These the Bones of the Fourth Musketeer? This Dutch Village Hopes So. - The New York Times
+- Hot inflation report throws cold water on Fed rate cuts - thestreet.com
+- Nvidia’s Jensen Huang got the last Air Force One seat to China. Why it’s so crucial for the chipmaker. - MarketWatch
 - Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says - WIRED
-- Trump’s China trip in focus; Cisco to report - what’s moving markets - Investing.com
-- Sony’s new Xperia phone gets an overdue redesign - The Verge
-- First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET
+- Congress helped Powell survive Trump. For Kevin Warsh, it could be different. - Politico
+- Amazon’s Panos Panay addresses new Fire phone rumors - The Verge
+- Sony's Xperia 1 VIII Has Bigger Camera Sensors And A New Look - Engadget
