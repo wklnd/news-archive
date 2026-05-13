@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-13 06:29_
+_Updated: 2026-05-13 09:36_
 
 ## Top Stories
 
-- Tjej i rosa mjukisbyxor köper – polisen slår till - Svenska Dagbladet
+- Regeringen tar fram krispaket för flyg och jordbruk - Västerbottens-Kuriren
+- DN Direkt – Trump: Kommer be Kina att “öppna upp” - Dagens Nyheter
+- Sluta offra Sigtuna och Sveriges ungdomar på den restriktiva migrationspolitikens altare - märsta.nu
+- Direkt – Krisen i Mellanöstern – Australien ska delta i insats i Hormuz - Dagens Nyheter
+- ”Köparen” var polis – så avslöjades vodkabilarna - Svenska Dagbladet
+- Våldsdrivande person inom Foxtrotnätverket gripen i Tunisien - Polisen.se
+- Gängkriget: Så beordrade ”Hamado” sprängningar och skjutningar i Sundsvall - SVT Nyheter
+- Fler låg avlidna i hemmet i minst en månad - Västerbottens-Kuriren
+- 12-årig flicka misstänks ha fraktat handgranater i kollektivtrafiken - Sveriges Radio
+- Sex år efter Girjasdomen – så förändrades jakten i fjällen - Dagens Nyheter
+- Trumps bild på Venezuela: ”51:a delstaten” - Corren
+- Grönland smälter – kämpar för att hinna med: ”Kör hundsläde på grenar” - Sveriges Radio
 - Direkt – Kriget i Ukraina – Flera dödade i attacker mot Zelenskyjs hemstad - Dagens Nyheter
-- Konsulter i Millennium för 1,5 miljarder – nu förlorar 170 sina uppdrag - Sydsvenskan
-- Expert om toppmötet: Då skulle Kina överge Iran - Västerbottens-Kuriren
-- Striden om Nybergs hår: ”Klipper av för att hitta gamla brott” - Dagens Nyheter
-- Brittiska fartyg och stridsflyg ska skickas till Hormuz - Omni
-- Toppfigur i Foxtrot i rätten för mordbeställningar - GP
-- DEBATT: SD: Vi försvarar trygga och välfungerande bostadsområden - Corren
-- Livstid för brutala trippelmordet i Uppsala - Västerbottens-Kuriren
-- Två platser utvalda – för kärnkraftverk i Motala - Corren
-- Pekas ut som Starmers utmanare – ska mötas - Västerbottens-Kuriren
-- CNN: Trump överväger nya attacker mot Iran - Hufvudstadsbladet – HBL
-- Direkt – Krisen i Mellanöstern – Hundratals döda under vapenvilan i Libanon - Dagens Nyheter
-- Efter vapenvilan: Ukraina under attack - Corren
-- Stora skillnader i kommunala avgifter för restauranger i Jämtlands län - Notified
-- Unionen: A-kassans fall hotar både plånboken och konjunkturen - Aktuellt i Politiken
-- Larmet: LO:s krav kan lamslå välfärden – en halv miljon medarbetare saknas - Tidningen Näringslivet
-- Inflation och oljepris pressar Wall Street - GP
-- Gemini Intelligence: nya avancerade funktioner i mobilen - mobil.se
-- Färre studerande tar studielån - CSN
+- Efter nederlaget: Starmer vägrar avgå - Hufvudstadsbladet – HBL
+- Inflationen halverad efter momssänkningen - Fastighetsnytt
+- Bolånekunder lurade av bankernas räntesiffra i åratal - Dagens PS
+- Smäll på 34 miljarder – men nu vänder det för börsjättarna: ”Blir inte värre” - EFN
+- Alecta gick svagast av jättarna i kvartalet - finanswatch.se
+- Ytterligare svensk isoleras på grund av hantavirus - Aftonbladet
+- Gemini kan snart ta större kontroll över mobilen - m3.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 15:15 - TV.nu
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - TV.nu
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 21:15 - TV.nu
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- GT World Challenge America, Sebring International Raceway på Viaplay ikväll 20:10 - TV.nu
-- S&P Global Ratins sänker utsikterna för Pandora (Finwire News) - Aktiellt
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Visual Art köper Global Agencies - Dagens Media
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -66,33 +66,33 @@ _Updated: 2026-05-13 06:29_
 - Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -125,38 +125,38 @@ _Updated: 2026-05-13 06:29_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Olika slutsatser från samma data - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
