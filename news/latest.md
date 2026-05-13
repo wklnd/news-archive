@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-13 10:21_
+_Updated: 2026-05-13 13:14_
 
-- Trump Says Americans’ Economic Pain Is Not a Consideration for the Iran War - The New York Times
-- Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls - NPR
-- Longtime ICE official David Venturella chosen to head agency - NBC News
-- Nebraska Dem who will drop out and support Dan Osborn wins Senate primary - Live Updates - Politico
-- Kash Patel lashes out as lawmakers question ‘excessive drinking’ - The Washington Post
-- South Carolina Republicans defy Trump’s demands for redistricting - The Guardian
 - Trump heading to China for high-stakes meeting with Xi - CBS News
+- Trump faces barrage of Democratic counter-proposals on gas tax - Axios
+- 4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia - The New York Times
+- Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls - NPR
+- South Carolina Republicans block plan to eliminate Clyburn’s House seat - The Washington Post
+- Trump says stopping Iran's nuclear program outweighs Americans' economic pain - Reuters
+- Sons of Kouri Richins, author convicted of murdering husband, say they'd feel unsafe if she wasn't in prison - CBS News
+- Trump emboldened ICE. Judges have ruled against it over 10,000 times. - Politico
 - House GOP eyes summer push for another party-line bill - Live Updates - Politico
-- Trump doesn't need Congress to restart Iran strikes: Hegseth - CNBC
-- Trump Melts Down Over Reflecting Pool Reports in Wild Posting Spree - Rolling Stone
-- UK’s Starmer defiant as calls for his resignation grow and several ministers quit - AP News
-- Israeli Report Finds That Sexual Violence by Hamas Was Widespread - The New York Times
-- A Shift in Ukraine - The New York Times
-- UAE’s secret attack on Iran risks drawing Gulf states into the war - The Guardian
-- Nvidia C.E.O. Hitches Ride With Trump to China After Last-Minute Invite - The New York Times
-- Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply - AP News
-- Person Fatally Struck by Frontier Airlines Jet at Denver Airport Is Identified - The New York Times
-- ‘Personal to the president’: Companies try to avoid Trump’s wrath over tariff refunds - Politico
-- The Super Hero Team-based PVP Shooter - Marvel Rivals
-- Teamfight Tactics patch 17.3 - Teamfight Tactics
+- FBI Director Kash Patel denies drinking allegations in heated Senate exchange - AP News
+- Streeting leaves Downing Street after 17-minute Starmer meeting ahead of King's Speech - BBC
+- Britain Has Had 5 Leaders in a Decade. Is It About to Get Another? - The New York Times
+- U.K. Prime Minister Keir Starmer rejects mounting calls to resign, even from his own party - CBS News
+- Hantavirus: How it differs from COVID - DW.com
+- Dollar near one-week high as hot U.S. inflation fans Fed hike bets, peace talks stall - Reuters
+- Nvidia’s Jensen Huang joins Trump as tech dominates China trip - The Guardian
+- Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says - WIRED
+- Trump’s China trip in focus; Cisco to report - what’s moving markets - Investing.com
+- Sony’s new Xperia phone gets an overdue redesign - The Verge
+- First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET
