@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-12 23:53_
+_Updated: 2026-05-13 03:27_
 
-- Trump says US FDA Commissioner Makary is out - Reuters
-- Distracted and Bogged Down, Trump and Xi Enter a Summit of Reduced Ambitions - The New York Times
-- Read all the ministers' resignation letters in full - BBC
-- Kash Patel testifies on Capitol Hill amid controversies - ABC News - Breaking News, Latest News and Videos
-- Justice Dept. charges shipping company in deadly Key Bridge collapse - The Washington Post
-- GOP Rep. Jen Kiggans faces backlash for agreeing with ‘cotton-picking’ comment about Hakeem Jeffries - NBC News
-- Live update: Cost of Iran war increases to $29 billion so far, Pentagon official says - CNN
-- Student Is Fatally Stabbed in University of Washington Housing Complex - The New York Times
+- F.D.A. Commissioner Marty Makary Resigns After Weeks of Pressure - The New York Times
+- Kash Patel denies excessive drinking allegations as ‘total farce’ in Senate hearing - The Guardian
 - Trump Says ‘I Don’t Think About Americans’ Financial Situations’ When Negotiating Iran War - Forbes
+- U.K. Prime Minister Keir Starmer rejects mounting calls to resign, even from his own party - CBS News
+- Minneapolis grocery store owner charged in $1 million food assistance fraud - 5 EYEWITNESS NEWS
 - Trump Melts Down Over Reflecting Pool Reports in Wild Posting Spree - Rolling Stone
+- Justice Dept. charges shipping company in deadly Key Bridge collapse - The Washington Post
+- Florida Plans to Close ‘Alligator Alcatraz,’ Vendors Are Reportedly Told - The New York Times
+- Key House GOP moderate dismisses ballroom funding request - Live Updates - Politico
+- Alabama splits U.S. House primaries after court ruling; S.C. redistricting stalls - NPR
 - Ukraine nears deal with Pentagon to test drones in US - Financial Times
-- Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea - The Guardian
 - Israel's government is expected to collapse over ultra-Orthodox military draft - NPR
+- Exclusive: Iraq, Pakistan strike energy deals with Iran as Tehran flexes Hormuz control - Reuters
 - EU takes aim at TikTok, Meta's 'addictive designs' for teens - Reuters
-- US inflation jumps to 3.8% as energy costs surge from Iran war - BBC
-- Senate confirms Kevin Warsh as Fed governor, clearing path to replace Powell as chair - CBS News
-- OpenAI chief Altman says Elon Musk wanted control of ChatGPT maker, denies betrayal - Reuters
-- Stock Market Today: Dow, Nasdaq Sink on Soaring Inflation — Live Updates - WSJ
+- OpenAI’s Sam Altman takes the stand to fend off Elon Musk’s accusations he ‘stole a charity’ - NPR
+- Nvidia’s Huang Wants to Sell Chips to China. Trump Has Other Priorities. - Barron's
+- Rejoice, Buc-Ee's Fans: The Gas Station Chain Is Expanding To These 6 States - Daily Meal
+- US household debt ticks up to new all-time high as inflation continues to rise - ABC News - Breaking News, Latest News and Videos
+- Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com
 - First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET
-- iOS 26.5’s Apple Maps app has two notable changes, here’s what’s new - 9to5Mac
