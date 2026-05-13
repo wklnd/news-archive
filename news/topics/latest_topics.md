@@ -1,63 +1,63 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-13 09:36_
+_Updated: 2026-05-13 13:07_
 
 ## Top Stories
 
-- Regeringen tar fram krispaket för flyg och jordbruk - Västerbottens-Kuriren
-- DN Direkt – Trump: Kommer be Kina att “öppna upp” - Dagens Nyheter
-- Sluta offra Sigtuna och Sveriges ungdomar på den restriktiva migrationspolitikens altare - märsta.nu
-- Direkt – Krisen i Mellanöstern – Australien ska delta i insats i Hormuz - Dagens Nyheter
-- ”Köparen” var polis – så avslöjades vodkabilarna - Svenska Dagbladet
-- Våldsdrivande person inom Foxtrotnätverket gripen i Tunisien - Polisen.se
-- Gängkriget: Så beordrade ”Hamado” sprängningar och skjutningar i Sundsvall - SVT Nyheter
+- Regeringen förbereder krispaket – skatten på bensin och diesel sänks - SVT Nyheter
+- Expert om toppmötet: Då skulle Kina överge Iran - Västerbottens-Kuriren
+- DN Direkt – 12-årig flicka skyldig till att ha kastat två handgranater - Dagens Nyheter
+- Skogsinferno spås under Godzilla-El Niño - Aftonbladet
+- Australien ska delta i Hormuz-insats - Svenska Dagbladet
+- Egon har väntat i sex år på upprättelse efter eldattack – rättegång ställs in - Dagens Nyheter
+- Gängkriget: Så beordrade ”Hamado” sprängningar och skjutningar - SVT Nyheter
+- Transportstyrelsens krav: Stoppa filtsjöpungen - GP
 - Fler låg avlidna i hemmet i minst en månad - Västerbottens-Kuriren
-- 12-årig flicka misstänks ha fraktat handgranater i kollektivtrafiken - Sveriges Radio
 - Sex år efter Girjasdomen – så förändrades jakten i fjällen - Dagens Nyheter
-- Trumps bild på Venezuela: ”51:a delstaten” - Corren
-- Grönland smälter – kämpar för att hinna med: ”Kör hundsläde på grenar” - Sveriges Radio
-- Direkt – Kriget i Ukraina – Flera dödade i attacker mot Zelenskyjs hemstad - Dagens Nyheter
-- Efter nederlaget: Starmer vägrar avgå - Hufvudstadsbladet – HBL
+- Pekas ut som Starmers utmanare – ska mötas - GP
+- Efter vapenvilan: Ukraina under attack - Västerbottens-Kuriren
+- Varningen: Ryssland vill rekrytera i Norge - Västerbottens-Kuriren
+- Flera dödade i attacker mot Zelenskyjs hemstad - Corren
 - Inflationen halverad efter momssänkningen - Fastighetsnytt
-- Bolånekunder lurade av bankernas räntesiffra i åratal - Dagens PS
-- Smäll på 34 miljarder – men nu vänder det för börsjättarna: ”Blir inte värre” - EFN
-- Alecta gick svagast av jättarna i kvartalet - finanswatch.se
+- Uthyrningsföretag använder FSH-hyra för att överklaga hyrestvist - Dagens Nyheter
+- Skolon: Bakläxa för börsen - Affärsvärlden
+- Inflation och oljepris pressar Wall Street - högsta inflationen sedan 2023 - Sydsvenskan
+- Från neuro­forskning till fåglarnas hemligheter - Sjukhusläkaren
 - Ytterligare svensk isoleras på grund av hantavirus - Aftonbladet
-- Gemini kan snart ta större kontroll över mobilen - m3.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Citi: Global ekonomi bättre rustad att rida ut oljechock (Finwire News) - Aktiellt
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Den generativa AI -plattformen Yandexgpt från Yandex: Progress in Artificial Intelligence and Robotics - Xpert.Digital - Konrad Wolfenstein
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -75,18 +75,18 @@ _Updated: 2026-05-13 09:36_
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -114,8 +114,8 @@ _Updated: 2026-05-13 09:36_
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -128,37 +128,37 @@ _Updated: 2026-05-13 09:36_
 - Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - En marsch för vetenskap och forskning! - Institutet för framtidsstudier
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - DI
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - atl.nu
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Lediga jobb - Land Lantbruk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Bättre positionering med ny gps-mottagare - Land Lantbruk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
