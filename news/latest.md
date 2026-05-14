@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-14 13:01_
+_Updated: 2026-05-14 15:18_
 
 - China's Xi warns Trump about "conflicts" if Taiwan isn't "handled properly" - CBS News
 - The MAHA movement is coming to school cafeterias. Here's what that means for kids - NPR
+- Wes Streeting resigns as health secretary - his letter in full - BBC
 - China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post
-- Murdaugh murder convictions overturned by South Carolina Supreme Court - The State
-- Russian missiles, drones pound Kyiv overnight; at least 4 killed, 44 injured as rescue efforts continue - The Kyiv Independent
 - Trump's killer quote exposes his bind on Iran and inflation - Axios
-- Denise Powell wins Democratic primary for Nebraska's 2nd congressional district - NPR
-- Midsize Cities Held Steady as U.S. Population Growth Declined - The New York Times
-- McMaster plans to call special session to redraw South Carolina House map - Politico
-- America's gerrymandering crisis, as explained by a reasonable person - SFGATE
+- Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31 - NPR
+- Prospect of Alex Murdaugh Retrial Puts Rural South Carolina Back in Spotlight - The New York Times
+- Poll: Democrats would give up Black voting power to beat the GOP - Politico
+- 'Miraculous': 11 plane crash survivors rescued at sea off Florida - Reuters
+- Jeffries’ job grows more difficult in race for House and speaker’s gavel - AP News
+- Cuba says oil and diesel supplies have run dry under U.S. sanctions - CNBC
 - UAE denies Netanyahu secretly visited the country during the Iran war - AP News
-- Latvian Prime Minister Silina resigns over handling of Ukraine drone incidents - Reuters
-- Gunfire heard at Philippine Senate amid standoff with lawmaker facing arrest - The Washington Post
-- Ukraine's anti-corruption court places Zelenskiy's former chief of staff under arrest - Reuters
-- Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait - The Washington Post
+- Latvian Prime Minister resigns over handling of Ukrainian drone incidents - Reuters
+- Zelenskiy's ex-top aide arrested as Ukraine graft probe widens - Reuters
 - Honda Posts First Ever Annual Loss After Pullback From E.V.s - The New York Times
-- Stock Market Today: Stock Futures Tick Up With AI Trade Top of Mind Again — Live Updates - WSJ
-- OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider
-- Apple’s design might be the reason iPhones won’t get an important display upgrade for years - PhoneArena
-- Snapdragon 8 Elite Gen 6 Pro To Be Out Of Reach For Many Of Qualcomm’s Partners, As 2nm Process Will Shoot Prices To Abnormal Levels - Wccftech
+- Kevin Warsh confirmed as Fed chair, ushering in new era for central bank - Politico
+- Asia stocks uneven as investors assess high-stakes Trump-Xi talks, AI rally - Yahoo Finance
+- Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC
+- ‘Gemini Intelligence’ reportedly launching with Galaxy Z Fold 8, Flip 8 - 9to5Google
+- Apple counters US smartphone decline as iPhone sales grow: report - 9to5Mac
