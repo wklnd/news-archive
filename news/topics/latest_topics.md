@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-14 12:56_
+_Updated: 2026-05-14 15:15_
 
 ## Top Stories
 
-- Xi tar emot Trump i Peking: ”En ära” - GP
+- Kinas Xi varnar Trump om Taiwan - GP
 - Lettlands regering faller efter premiärministers avgång - SVT Nyheter
-- Stal el för 300 000 – avslöjades genom ny teknik - Dagens Nyheter
+- Sanna Torén Björling: Ryskt regn av drönare – det är en markering - Dagens Nyheter
+- Då kommer värmen till Göteborg - GP
+- EXKLUSIVT: Frisören berättar om mardrömmen efter trippelmordet - Sveriges Radio
+- Ekoxarna behöver hjälp – av dig - Expressen
 - Civila piloter på vakt mot hot: ”Samhällets ögon från luften” - Dagens Nyheter
-- UKMTO: Fartyg har tagits av obehörig personal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Blir kanonväder – för alla hjältar - Aftonbladet
-- Skolor med obehöriga lärare straffas inte - Dagens Nyheter
 - Hon säljer sex – mammor bokar åt sina söner - GP
-- Nya avtalet: vegetariskt mat standard för Göteborgs stad - GP
+- Runt hus säljs i Johanneberg - GP
 - Dante Peykar misstänks ligga bakom mordförsöket på Irankännaren Arvin Khoshnood - SVT Nyheter
+- UKMTO: Fartyg har tagits av obehörig personal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Kubas energiminister: Vi har totalt slut på bränsle - Dagens Nyheter
-- Skrev bok om makens död för att trösta barnen – döms till livstids fängelse - sydsvenskan.se
-- Ryska armén lovar Putin att ta Donbass till hösten - Dagens Nyheter
-- Monika, 33, dog – när hon födde i badrummet - Expressen
+- Nya teorierna om döda kvinnorna - Expressen
+- Barnboksförfattare mördade sin make – döms till livstid - Dagens Nyheter
 - Ska stoppa dig från döskrollande - Expressen
+- Stal el för 300 000 – avslöjades genom ny teknik - Dagens Nyheter
 - Var batteriköpet en täckmantel? - Svenska Dagbladet
 - Bilägarna som alltid tankar för 15 kr/liter - Aftonbladet
-- RFSU nobbade Fingals snuskdosa – men släpper egen: ”Märkligt” - Aftonbladet
 - Uppmärksammad svensk teori om evigt liv dras tillbaka - Dagens Nyheter
-- Så bra är låtarna i kvällens semifinal - Aftonbladet
+- Felicia har fortsatt talförbud – två dagar innan Eurovision-finalen - Aftonbladet
 
 ## World News
 
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
-- BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC fyller 100 år – äldsta public service i världen - Omni
 - Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på imorgon 09:15 - Tv.nu
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Visual Art köper Global Agencies - Dagens Media
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-05-14 12:56_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-05-14 12:56_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Enheten för radiologi - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
