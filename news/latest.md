@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-14 03:31_
+_Updated: 2026-05-14 07:32_
 
-- Iran War Live News Updates: Trump Arrives in China Against Background of Unresolved Iran War - WSJ
-- Kouri Richins Sentenced to Life in Prison for Poisoning Her Husband - The New York Times
+- Trump-Xi summit live: US president says relationship with China will be ‘better than ever’ as key meeting begins - The Guardian
+- Denise Powell wins Democratic primary for Nebraska's 2nd congressional district - NPR
+- China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post
+- Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns - Los Angeles Times
+- Man known for racially derogatory livestreams taken into custody after a shooting in Tennessee - AP News
+- Body of second U.S. soldier who went missing amid training exercise recovered in Morocco - CBS News
 - Murdaugh murder convictions overturned by South Carolina Supreme Court - The State
-- Press Release - US Army recovers, identifies second Soldier near Cap Draa, Morocco; search - europeafrica.army.mil
-- War in Iran costs $29 billion so far. And, students are finally improving in math - NPR
-- Reading, math scores are sliding nationwide. These Pa. school districts are bucking the trend - 90.5 WESA
-- Political Organizer Wins Democratic Primary in Key Nebraska House Race - The New York Times
-- ‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks - The Guardian
-- Rep. Mike Lawler ‘accosted’ by Sen. Rand Paul’s son - Politico
-- A Billionaire’s Ad Barrage Has Upended the Georgia Governor’s Race - The New York Times
-- Starmer Rival Streeting Prepares to Resign and Challenge Prime Minister - Bloomberg.com
+- Kouri Richins sentenced to life without parole in husband's fentanyl-laced cocktail murder - CBS News
+- Kemp calls special session to redraw 2028 maps, overhaul voting process - AJC.com
+- US citizen convicted of running secret Chinese 'police station' in NYC - BBC
 - Gunfire heard at Philippine Senate amid standoff with lawmaker facing arrest - The Washington Post
-- From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech - BBC
-- "Monster wolf" robots in high demand to scare off bears in Japan after record number of attacks - CBS News
+- UK’s Starmer faces challenge as resignation calls overshadow king’s speech - Al Jazeera
+- Japan unleashes 'Monster Wolf' robots to repel record bear attacks - USA Today
+- Russia fires 800 drones at Ukraine despite recent talk by Putin and Trump of possible peace - AP News
 - Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait - The Washington Post
-- Altman forced to confront claims at OpenAI trial that he’s a prolific liar - Ars Technica
-- Allegiant CEO makes case for low-cost airline model as Sun Country acquisition closes - CNBC
-- Arm, SoftBank Tried to Buy Cerebras in 11th Hour - Bloomberg.com
-- Instagram hits the copy button again with new disappearing Instants photos - The Verge
-- Apple Releases iOS 26.5: New Update Adds Long-Awaited Feature For iPhone - Forbes
+- Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals - CNBC
+- Man sucked into jet engine at Denver airport had violent criminal past, records show - KOMO
+- Allegiant Air and Sun Country complete merger, creating larger budget airline for travelers - ABC News - Breaking News, Latest News and Videos
+- These Android devices will get AirDrop next – here’s why your phone might not - 9to5Google
+- Apple Maps is launching ads on iPhone soon, here’s what to expect - 9to5Mac
