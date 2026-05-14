@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-14 22:14_
+_Updated: 2026-05-14 23:44_
 
 ## Top Stories
 
-- DN Direkt – Banketten har börjat – Xi och Trump skålar - Dagens Nyheter
-- Hårfrisörskans dubbelliv: ”Vi var livrädda” - Aftonbladet
-- Nytt utbrott: Student död – tvåa vårdas - Aftonbladet
+- Det här vet vi om Trumps besök i Kina - GP
+- DN Direkt – En död efter utbrott av hjärnhinneinflammation - Dagens Nyheter
+- Trump stoppar utplacering av 4 000 soldater till Polen - Expressen
+- Storbråk inne på tåg – polisinsats på centralen - GP
 - Telefonen är tyst – då växer oron för familjen - Svenska Dagbladet
-- Risk för nya fuskanklagelser – Trump pressad inför mellanårsvalet - Dagens Nyheter
-- Brittiska ministern avgår – väntas utmana Starmer - GP
+- Hårfrisörskans dubbelliv: ”Vi var livrädda” - Aftonbladet
 - Stal el för 300 000 – avslöjades genom ny teknik - Dagens Nyheter
 - Försvarsmaktens satellit i gång – första bilden - GP
-- Sofia Mirjamsdotter: Jag får hjärnsläpp av bensinpopulismen - Västerbottens-Kuriren
 - Misstänkt skuggfartyg får inte segla vidare - Västerbottens-Kuriren
+- Ytterligare tillfälligt sänkt skatt på bensin och diesel - Regeringen.se
+- Barnläkare misstänks för över 100 övergrepp - Västerbottens-Kuriren
 - Labourpolitiker stiger åt sidan för att ge Andy Burnham chans att utmana Starmer - Yle
 - Israelisk polis ser på när extremister vandaliserar Gamla stan i Jerusalem - Dagens Nyheter
-- Kubas energiminister: Nu är oljan och dieseln helt slut - Omni Ekonomi
-- DN Direkt – USA: Man dömd för kinesisk ”polisstation” - Dagens Nyheter
+- Brittisk minister avgår – väntas utmana Starmer - Hufvudstadsbladet – HBL
 - Centralbankens radikala drag – väljer bort USA:s molntjänster - Dagens PS
-- Tusenlappar kan skilja när kommuner tar ut avgifter - Östersunds-Posten
-- Storbankerna sänker inte populära räntan: ”Obegripligt” - Aftonbladet
+- Världens oljelager töms i rekordfart - Sydsvenskan
+- Glatt på Wall Street – Klarna rusade - Aftonbladet
 - Ökad efterfrågan på flygresor trots oljekris - Svenska Dagbladet
 - "Forza Horizon 6" är det bästa racingspelet jag har spelat - MovieZine
 - Så många svenskar är rädda för hundar - Örebronyheter
 
 ## World News
 
+- Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC fyller 100 år – äldsta public service i världen - Omni
-- Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Chefen för Scotland Yard avgår - Sveriges Radio
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Chefen för Scotland Yard avgår - Sveriges Radio
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Förvaltarbyte i Brobacke Global Allokering - beQuoted
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
@@ -97,25 +97,25 @@ _Updated: 2026-05-14 22:14_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Vi presenterar ChatGPT Health - OpenAI
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- E-hälsa inom EU - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -142,15 +142,16 @@ _Updated: 2026-05-14 22:14_
 
 ## Jordbruk
 
+- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -158,7 +159,6 @@ _Updated: 2026-05-14 22:14_
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
