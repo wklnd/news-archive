@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-14 07:32_
+_Updated: 2026-05-14 10:16_
 
-- Trump-Xi summit live: US president says relationship with China will be ‘better than ever’ as key meeting begins - The Guardian
+- What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times
 - Denise Powell wins Democratic primary for Nebraska's 2nd congressional district - NPR
-- China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post
-- Vance says $1.3 billion in Medicaid payments to California will be deferred over fraud concerns - Los Angeles Times
-- Man known for racially derogatory livestreams taken into custody after a shooting in Tennessee - AP News
-- Body of second U.S. soldier who went missing amid training exercise recovered in Morocco - CBS News
+- Trump Administration Will Withhold $1.3 Billion in Medicaid Payments to California - The New York Times
+- 1 killed, 36 injured in mass Russian missile, drone strike on Kyiv, people trapped under partial building collapse - The Kyiv Independent
 - Murdaugh murder convictions overturned by South Carolina Supreme Court - The State
-- Kouri Richins sentenced to life without parole in husband's fentanyl-laced cocktail murder - CBS News
-- Kemp calls special session to redraw 2028 maps, overhaul voting process - AJC.com
+- Body of second U.S. soldier who went missing amid training exercise recovered in Morocco - CBS News
+- Trump China visit live: Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media reports - The Guardian
+- South Carolina Governor Plans Special Session to Redraw House Maps - The New York Times
 - US citizen convicted of running secret Chinese 'police station' in NYC - BBC
+- MAGA world is giving the House GOP cover on Trump’s housing push - Politico
+- UAE denies Netanyahu secretly visited the country during the Iran war - AP News
+- Britain Edges Closer to Bitter Fight Over Prime Minister’s Job - Bloomberg.com
+- From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech - BBC
 - Gunfire heard at Philippine Senate amid standoff with lawmaker facing arrest - The Washington Post
-- UK’s Starmer faces challenge as resignation calls overshadow king’s speech - Al Jazeera
-- Japan unleashes 'Monster Wolf' robots to repel record bear attacks - USA Today
-- Russia fires 800 drones at Ukraine despite recent talk by Putin and Trump of possible peace - AP News
+- OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider
 - Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait - The Washington Post
-- Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals - CNBC
-- Man sucked into jet engine at Denver airport had violent criminal past, records show - KOMO
-- Allegiant Air and Sun Country complete merger, creating larger budget airline for travelers - ABC News - Breaking News, Latest News and Videos
-- These Android devices will get AirDrop next – here’s why your phone might not - 9to5Google
-- Apple Maps is launching ads on iPhone soon, here’s what to expect - 9to5Mac
+- Austin law firm seeks $10M after fatal Frontier runway incident in Denver - Yahoo
+- Honda Posts First Ever Annual Loss After Pullback From E.V.s - The New York Times
+- Instagram hits the copy button again with new disappearing Instants photos - The Verge
+- Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday - The Hacker News
