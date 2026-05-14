@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-14 20:22_
+_Updated: 2026-05-14 22:18_
 
 - Xi warns Trump that mishandling Taiwan could spark ‘conflicts’ - The Washington Post
-- El Niño is coming faster than expected and chances are rising that it will be historically strong - CNN
-- With Alex Murdaugh Conviction Reversal, South Carolina Braces for Retrial and More Scrutiny - The New York Times
-- Rubio is banned from China, but Beijing may have found a way around it - The Washington Post
-- 'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full - BBC
-- US agents arrest tourist after video shows a rock hurled at endangered Hawaii monk seal’s head - CNN
-- Capitol agenda: Dems plot redistricting revenge - Politico
-- US border patrol chief resigns after claims of sex with prostitutes abroad - The Guardian
-- Trump Live Updates: Head of U.S. Central Command Testifies Before Senate and the Latest News - The New York Times
-- Suspect in murder of University of Washington student surrenders to police - KOMO
+- This coming El Niño could be a monster. Will it bring epic rain to California this winter? - Los Angeles Times
 - Live Updates: Seized ship taken toward Iran as Trump and China's Xi agree Strait of Hormuz "must remain open" - CBS News
-- Venezuela embarks on $150 billion restructuring of debt amid political turmoil - CNBC
-- My Mother Died Hiding An Enormous Secret. Years Later, A DNA Test Exposed The Truth. - HuffPost
-- Stephen Colbert Slams ‘Trump’s Fabulous Billionaire Boys Trip’ - The New York Times
+- Senators approve withholding their own pay during government shutdowns - AP News
+- US border patrol chief resigns abruptly amid string of exits by Trump immigration officials - The Guardian
+- Rubio is banned from China, but Beijing may have found a way around it - The Washington Post
+- With Alex Murdaugh Conviction Reversal, South Carolina Braces for Retrial and More Scrutiny - The New York Times
+- ‘Crush their souls’: Democrats ditch the niceties after GOP gains upper hand on redistricting - Politico
+- Strategist Tied to Becerra and Newsom Pleads Guilty in Corruption Case - The New York Times
+- Hero pilot recounts crash landing, rescue in Atlantic Ocean: "My first thought was, 'We didn't die'" - CBS News
+- ‘Absolutely no fuel’: Cuba hit by blackouts, protests amid power outages - Al Jazeera
+- Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners - The Guardian
+- A Philippine senator wanted by the International Criminal Court flees from Senate - NPR
+- Wes Streeting's resignation letter and Starmer's response in full - BBC
+- OpenAI Trial Live Updates: Closing Arguments Begin in Elon Musk vs. Sam Altman Case - The New York Times
 - Stock Market Today: Dow Hits 50,000 on AI Buzz; Cisco in Focus — Live Updates - WSJ
-- Honda Posts First-Ever Annual Loss After Pullback From E.V.s - The New York Times
-- LIVE: Senate Banking Committee advances Clarity Act to full Senate floor - CoinDesk
-- Desperate Trump taps "Tim Apple," Jensen Huang, Elon Musk to attend Xi summit - Ars Technica
-- Leaked images show Microsoft’s new Xbox Cloud Gaming controller - The Verge
-- Man Tears Up After Learning Shocking Value of Handbag He Thrifted for $1.50 - AOL.com
+- Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in - Federal Reserve (.gov)
+- Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 - TechCrunch
+- Motorola Razr Fold review: Fits neatly in your pocket but not your budget - Ars Technica
+- How to turn off Instagram’s new Instants feature and retract photos you accidentally shared - TechCrunch
