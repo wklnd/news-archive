@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-14 10:16_
+_Updated: 2026-05-14 13:01_
 
-- What Xi Jinping and Donald Trump want from their Beijing summit - Financial Times
-- Denise Powell wins Democratic primary for Nebraska's 2nd congressional district - NPR
-- Trump Administration Will Withhold $1.3 Billion in Medicaid Payments to California - The New York Times
-- 1 killed, 36 injured in mass Russian missile, drone strike on Kyiv, people trapped under partial building collapse - The Kyiv Independent
+- China's Xi warns Trump about "conflicts" if Taiwan isn't "handled properly" - CBS News
+- The MAHA movement is coming to school cafeterias. Here's what that means for kids - NPR
+- China gains major edge on U.S. amid Iran war, intelligence report finds - The Washington Post
 - Murdaugh murder convictions overturned by South Carolina Supreme Court - The State
-- Body of second U.S. soldier who went missing amid training exercise recovered in Morocco - CBS News
-- Trump China visit live: Xi Jinping warns US and China could ‘come into conflict’ if Taiwan issue mishandled, state media reports - The Guardian
-- South Carolina Governor Plans Special Session to Redraw House Maps - The New York Times
-- US citizen convicted of running secret Chinese 'police station' in NYC - BBC
-- MAGA world is giving the House GOP cover on Trump’s housing push - Politico
+- Russian missiles, drones pound Kyiv overnight; at least 4 killed, 44 injured as rescue efforts continue - The Kyiv Independent
+- Trump's killer quote exposes his bind on Iran and inflation - Axios
+- Denise Powell wins Democratic primary for Nebraska's 2nd congressional district - NPR
+- Midsize Cities Held Steady as U.S. Population Growth Declined - The New York Times
+- McMaster plans to call special session to redraw South Carolina House map - Politico
+- America's gerrymandering crisis, as explained by a reasonable person - SFGATE
 - UAE denies Netanyahu secretly visited the country during the Iran war - AP News
-- Britain Edges Closer to Bitter Fight Over Prime Minister’s Job - Bloomberg.com
-- From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech - BBC
+- Latvian Prime Minister Silina resigns over handling of Ukraine drone incidents - Reuters
 - Gunfire heard at Philippine Senate amid standoff with lawmaker facing arrest - The Washington Post
-- OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider
+- Ukraine's anti-corruption court places Zelenskiy's former chief of staff under arrest - Reuters
 - Senate confirms new Fed chair as Trump allies warn rate cuts may have to wait - The Washington Post
-- Austin law firm seeks $10M after fatal Frontier runway incident in Denver - Yahoo
 - Honda Posts First Ever Annual Loss After Pullback From E.V.s - The New York Times
-- Instagram hits the copy button again with new disappearing Instants photos - The Verge
-- Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday - The Hacker News
+- Stock Market Today: Stock Futures Tick Up With AI Trade Top of Mind Again — Live Updates - WSJ
+- OpenAI trial wraps up with testimony about Reid Hoffman, a trophy, and a Musk outburst - Business Insider
+- Apple’s design might be the reason iPhones won’t get an important display upgrade for years - PhoneArena
+- Snapdragon 8 Elite Gen 6 Pro To Be Out Of Reach For Many Of Qualcomm’s Partners, As 2nm Process Will Shoot Prices To Abnormal Levels - Wccftech
