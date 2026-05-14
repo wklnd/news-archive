@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-14 20:16_
+_Updated: 2026-05-14 22:14_
 
 ## Top Stories
 
-- Kinas Xi varnar Trump om Taiwan - GP
+- DN Direkt – Banketten har börjat – Xi och Trump skålar - Dagens Nyheter
 - Hårfrisörskans dubbelliv: ”Vi var livrädda” - Aftonbladet
-- Sea Owl 1 får inte segla vidare – flaggbytet falskt - Omni
+- Nytt utbrott: Student död – tvåa vårdas - Aftonbladet
 - Telefonen är tyst – då växer oron för familjen - Svenska Dagbladet
-- Tandläkaren Bengt, 69, fortsätter i politiken fyra år till - Smålandsposten
 - Risk för nya fuskanklagelser – Trump pressad inför mellanårsvalet - Dagens Nyheter
-- Försvarsmaktens satellit i gång – första bilden - GP
+- Brittiska ministern avgår – väntas utmana Starmer - GP
 - Stal el för 300 000 – avslöjades genom ny teknik - Dagens Nyheter
-- BESKEDET: Ny krisåtgärd – sänkt bensinskatt från 1 juli - NWT
-- Sommarvärmen på ingång – upp mot 20 grader - NT
-- Sandra Stiskalo: Forna vänner blir rivaler i striden om Downing Street - Dagens Nyheter
-- Kubas energiminister: Vi har totalt slut på bränsle - Dagens Nyheter
-- Zelenskyj: FN-fordon attackerat av ryska styrkor - Västerbottens-Kuriren
-- USA: Man dömd för kinesisk ”polisstation” - GP
-- Klarna växer snabbare än väntat – aktien lyfter - Västerbottens-Kuriren
-- Schaeffler tecknar femårigt avtal om aktuatorleveranser med Humanoid - Investing.com Sverige
-- Ska stoppa dig från döskrollande - Expressen
-- Miljardärerna vägrar sälja – här är Nibes nya arvtagare - EFN
+- Försvarsmaktens satellit i gång – första bilden - GP
+- Sofia Mirjamsdotter: Jag får hjärnsläpp av bensinpopulismen - Västerbottens-Kuriren
+- Misstänkt skuggfartyg får inte segla vidare - Västerbottens-Kuriren
+- Labourpolitiker stiger åt sidan för att ge Andy Burnham chans att utmana Starmer - Yle
+- Israelisk polis ser på när extremister vandaliserar Gamla stan i Jerusalem - Dagens Nyheter
+- Kubas energiminister: Nu är oljan och dieseln helt slut - Omni Ekonomi
+- DN Direkt – USA: Man dömd för kinesisk ”polisstation” - Dagens Nyheter
+- Centralbankens radikala drag – väljer bort USA:s molntjänster - Dagens PS
+- Tusenlappar kan skilja när kommuner tar ut avgifter - Östersunds-Posten
+- Storbankerna sänker inte populära räntan: ”Obegripligt” - Aftonbladet
+- Ökad efterfrågan på flygresor trots oljekris - Svenska Dagbladet
 - "Forza Horizon 6" är det bästa racingspelet jag har spelat - MovieZine
 - Så många svenskar är rädda för hundar - Örebronyheter
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC fyller 100 år – äldsta public service i världen - Omni
+- Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- International Day of Science, Technology, and Innovation for the South: Advancing Science, Technology, and Innovation for a Fairer Global Future - NewsMachine AB
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -97,10 +97,9 @@ _Updated: 2026-05-14 20:16_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -109,12 +108,13 @@ _Updated: 2026-05-14 20:16_
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- E-hälsa inom EU - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
@@ -136,29 +136,29 @@ _Updated: 2026-05-14 20:16_
 - Olika slutsatser från samma data - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
-- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk och landsbygdsutveckling - European Commission
-- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Här är världens största jordbruk - atl.nu
+- Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
