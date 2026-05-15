@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 07:29_
+_Updated: 2026-05-15 10:21_
 
 ## Top Stories
 
-- Möjlig drönare i Finland – flyg stoppas - Corren
-- Zelenskyj: FN-fordon attackerat av ryska styrkor - GP
-- Kina manar till Hormuzöppning - Svenska Dagbladet
-- Trump och Xi möts igen - SVT Nyheter
-- Lettland: Möjlig kränkning av luftrummet - Västerbottens-Kuriren
-- ”Hur hanterar vi vår väninnas närgångna make?” - Dagens Nyheter
-- Nu förbjuds lupiner i svenska trädgårdar - Sveriges Radio
-- Efter granskningen: Region kräver att IVO delar info - Sveriges Radio
-- 15 maj 07.04, Sammanfattning natt, Västerbottens län - polisen.se
-- Sofia Mirjamsdotter: Jag får hjärnsläpp av bensinpopulismen - Västerbottens-Kuriren
-- DN Direkt – Barnläkare misstänks för över 100 övergrepp - Dagens Nyheter
-- Brittiska ministern avgår – väntas utmana Starmer - GP
-- DN Direkt – Beslagtaget skuggfartyg kan hamna i Ukraina - Dagens Nyheter
-- Trump: Xi erbjuder hjälp om Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Oljepris stiger efter Trump-utspel - Aftonbladet
-- Trendbrott i Stockholm – mer boyta dyrare - Svenska Dagbladet
-- Lättare att hyra ut bostäder – befaras leda till fler spekulationsköp - Dagens Nyheter
-- Amazons AI-satsningar ger kraftig börsrusning - Omni
-- AstraZenecas Imfinzi förbättrar överlevnad - Biostock
+- Ukrainsk attack mot ryskt oljeraffinaderi - Västerbottens-Kuriren
+- Sista dagen för samtal mellan Donald Trump och Xi Jinping - SVT Nyheter
+- Forssell: Vill se över beslutade tonårsutvisningar - Västerbottens-Kuriren
+- Misstänktes för 13 år gammalt mord – avförd från utredningen - Sveriges Radio
+- Kritik mot lagändring: ”Marknadshyra införs bakvägen” - Dagens Nyheter
+- Hudläkaren: Det skulle jag aldrig göra med min hud - GP
+- Spädbarn testat positivt för narkotika i Malmö – föräldrar anhållna - SVT Nyheter
+- Försvarsmaktens satellit i gång – första bilden - GP
+- Liberalerna vill fördubbla antalet miljardärer – Senaste nytt om valet 2026 - SVT Nyheter
+- Sveriges första nationella förteckning, med 34 arter, ger nya verktyg mot invasiva främmande arter - NewsMachine AB
+- Varningen: Räkna med nya extremväder i år - Dagens Nyheter
+- Sandra Stiskalo: Forna vänner blir rivaler i striden om Downing Street - Dagens Nyheter
+- JUST NU: Trump backar från sitt krav: ”PR-skäl” - Expressen
+- Sea Owl 1 får inte segla vidare – flaggbytet falskt - Omni
+- Familjer i kläm – så dyrt blir ett rum till - Svenska Dagbladet
+- Lyxjätten gör sig av med Marc Jacobs - Sydsvenskan
+- Topp 20 bäst betalda yrken i Sverige och när de går i pension - Dagens PS
+- Jakten på Kinas mest mytomspunna gröna te - Dagens PS
+- De viktigaste skillnaderna mellan Samsung Galaxy S26-serien och S25 - mobil.se
 - Test: Oppo Reno 14F – snygg budgetmobil ligger steget efter - m3.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 15:15 - Tv.nu
-- Reseprofiler blir partner för Connect Worldwide - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- NTM bäst i världen på att utveckla den lokala journalistiken - ntm.se
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Chefen för Scotland Yard avgår - Sveriges Radio
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Chefen för Scotland Yard avgår - Sveriges Radio
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Spelet bakom nedläggningen av News of the World - Expressen
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -88,8 +88,8 @@ _Updated: 2026-05-15 07:29_
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -98,20 +98,20 @@ _Updated: 2026-05-15 07:29_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
+- E-hälsa inom EU - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -119,10 +119,10 @@ _Updated: 2026-05-15 07:29_
 
 ## Science
 
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -132,13 +132,13 @@ _Updated: 2026-05-15 07:29_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-15 07:29_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
