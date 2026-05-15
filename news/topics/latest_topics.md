@@ -1,52 +1,47 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 10:21_
+_Updated: 2026-05-15 12:58_
 
 ## Top Stories
 
-- Ukrainsk attack mot ryskt oljeraffinaderi - Västerbottens-Kuriren
-- Sista dagen för samtal mellan Donald Trump och Xi Jinping - SVT Nyheter
-- Forssell: Vill se över beslutade tonårsutvisningar - Västerbottens-Kuriren
-- Misstänktes för 13 år gammalt mord – avförd från utredningen - Sveriges Radio
+- Skeppsbron i Stockholm var avstängd - Expressen
+- Leo Carlssons Anaheim utslaget ur Stanley Cup - Aftonbladet
+- Alla överlevde kraschen i Atlanten – piloten hyllas som hjälte - Dagens Nyheter
+- Storbråk inne på tåg – polisinsats på centralen - GP
 - Kritik mot lagändring: ”Marknadshyra införs bakvägen” - Dagens Nyheter
-- Hudläkaren: Det skulle jag aldrig göra med min hud - GP
-- Spädbarn testat positivt för narkotika i Malmö – föräldrar anhållna - SVT Nyheter
-- Försvarsmaktens satellit i gång – första bilden - GP
-- Liberalerna vill fördubbla antalet miljardärer – Senaste nytt om valet 2026 - SVT Nyheter
-- Sveriges första nationella förteckning, med 34 arter, ger nya verktyg mot invasiva främmande arter - NewsMachine AB
-- Varningen: Räkna med nya extremväder i år - Dagens Nyheter
-- Sandra Stiskalo: Forna vänner blir rivaler i striden om Downing Street - Dagens Nyheter
-- JUST NU: Trump backar från sitt krav: ”PR-skäl” - Expressen
-- Sea Owl 1 får inte segla vidare – flaggbytet falskt - Omni
-- Familjer i kläm – så dyrt blir ett rum till - Svenska Dagbladet
-- Lyxjätten gör sig av med Marc Jacobs - Sydsvenskan
-- Topp 20 bäst betalda yrken i Sverige och när de går i pension - Dagens PS
-- Jakten på Kinas mest mytomspunna gröna te - Dagens PS
-- De viktigaste skillnaderna mellan Samsung Galaxy S26-serien och S25 - mobil.se
-- Test: Oppo Reno 14F – snygg budgetmobil ligger steget efter - m3.se
+- Pojke överfallen – flera gärningsmän jagas - Expressen
+- Tre kvinnliga kusiners misstag blev deras död - Expressen
+- Bygger pipeline – för att runda Hormuzsundet - Expressen
+- Di:s experter: Fem aktier att köpa – och tre att sälja - Dagens industri
+- Bilägarna som alltid tankar för 15 kr/liter - Aftonbladet
+- V65 Östersund | 2026-05-15 - ATG
+- Cecilia Hagens protest mot Alex Schulman: ”Skulle aldrig läsa något” - Expressen
+- Dessa personligheter blir lyckligast ihop – och här är sämsta matchen - Dagens Nyheter
+- Buffalo illa ute i Stanley Cup-slutspelet - Aftonbladet
+- Amadeus Sögaard Linderoth om nya livet i Florida - Aftonbladet
 
 ## World News
 
-- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
+- Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- NTM bäst i världen på att utveckla den lokala journalistiken - ntm.se
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Chefen för Scotland Yard avgår - Sveriges Radio
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Spelet bakom nedläggningen av News of the World - Expressen
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -98,24 +93,24 @@ _Updated: 2026-05-15 10:21_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- E-hälsa inom EU - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 
 ## Science
 
@@ -126,30 +121,30 @@ _Updated: 2026-05-15 10:21_
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
 - Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
