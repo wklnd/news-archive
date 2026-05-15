@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 20:05_
+_Updated: 2026-05-15 22:00_
 
 ## Top Stories
 
 - Britt-Marie Mattsson: Storföretagens budskap till Trump – Dags att betala tillbaka - GP
-- Ryssland och Ukraina utbyder döda soldater - Dagens Nyheter
-- Liberalerna vill sänka skatten – för miljardärer: ”Besynnerligt” - Flamman
+- Trettiotal skadade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Lann (KD) i Ukraina under våldsamma attacken - GP
 - Erbjöds skolresa – rövades bort och såldes - Svenska Dagbladet
-- Serneke kan förlora Cirkustomten – om SD inte svänger - GP
-- Få väljare redo att hjälpa Mohamsson över spärren - Dagens Nyheter
+- Pappa dödshotade Önneredskolans rektor – straffet skärps - GP
+- Trumps renovering av ikonisk vattenspegel väcker kritik - Dagens Nyheter
 - Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
-- Åtal: Smygfilmade barn på Navet - Folkbladet
 - Stal fordon för 5 miljoner – så avslöjade Erik ligan - Dagens Nyheter
-- 15 maj 13.58, Trafikkontroll, Norrbottens län - polisen.se
+- Dansk polis till Helsingborg under Natomöte - Västerbottens-Kuriren
+- 15 maj 13.58, Trafikkontroll, Norrbottens län - Polisen.se
 - Trumps Kinabesök avslutat – Kina varnar USA om Taiwan - Sveriges Radio
-- Høiby vill slippa häktet – vädjar till HD - Västerbottens-Kuriren
-- Zelenskyj varnar för rysk offensiv från Belarus - GP
+- Israelisk attack mot Hamasbefäl i Gaza - Västerbottens-Kuriren
 - ”De slutade inte förrän vi tog fram brandsläckaren” - Dagens Nyheter
-- Berner Industrier: Ökat förvärvstempo - Affärsvärlden
-- Gruvaktier faller brett – här är största förlorarna - Placera.se
-- Framtiden är förarlös – men dröjer i Europa - Svenska Dagbladet
+- Ung svensk åtalad för mordplaner i Tyskland - Västerbottens-Kuriren
+- Flat Capital lyfter på Klarna-rapport - Privata Affärer
+- Väderstad presenterar en ny generation Tempo T 6–7 - Jordbruksaktuellt
 - SAS vd: Inga statliga räddningspaket - SVT Nyheter
-- ROG Xreal R1 börjar säljas i USA - pris avslöjat - SweClockers
-- AI-bedrägerier exploderar globalt – så utnyttjar bedragare ny teknik för att lura sina offer - m3.se
+- Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
+- Metroid Prime 4: Beyond till Nintendo Switch - FZ.se
+- Google drar ned på molnlagringen för nya konton - PC för Alla
 
 ## World News
 
 - Read Tom Hollowell’s encouragement letter ahead of World Orienteering Week - International Orienteering Federation
+- AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- NTM bäst i världen på att utveckla den lokala journalistiken - ntm.se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global halvledarpress efter Trumps möte med Xi - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2026-05-15 20:05_
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2026-05-15 20:05_
 
 ## Science
 
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2026-05-15 20:05_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbrukspolitik - Naturvårdsverket
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
