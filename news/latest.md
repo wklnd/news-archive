@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-15 20:10_
+_Updated: 2026-05-15 22:06_
 
-- Lone Tennessee Democrat says he will end re-election bid after congressional map redrawing – US politics live - The Guardian
-- Trump Administration Live Updates: C.I.A. Chief Visits Cuba as Its Oil Runs Dry - The New York Times
-- Boeing Stock Hit. Its Big Jet Order From China Isn’t Big Enough. - Barron's
+- Donald Trump left with little to show for two days of talks with Xi Jinping - Financial Times
+- Trump Says He Didn’t Ask Xi to Pressure Iran on Strait of Hormuz - Yahoo Finance
 - FBI offers $200,000 reward to catch ex-Air Force specialist wanted on espionage charges in Iran - AP News
-- ‘Slap in the face': Republicans skewer Pentagon over Poland troop move - Politico
-- DOJ pushing to indict Raúl Castro over 1996 downing of civilian planes, officials say - NBC News
-- Keisha Lance Bottoms’ lead is making some Georgia Democrats uneasy - Politico
-- You’re Getting Robbed. By Trump. In Broad Daylight. - The Bulwark
-- Mass casualty response underway in Searsmont after explosion - WGME
-- Supreme Court allows abortion pill access while lawsuit proceeds - Axios
-- Trump says Xi offered help on Iran — but how far is Beijing willing to go? - CNBC
-- Live Updates: Iran says it "cannot trust the Americans at all" as Trump says "we control" the Strait of Hormuz - CBS News
-- Tensions flare near Strait of Hormuz as a ship is seized and another is sunk - NPR
-- In northern Ukraine, it was boy vs. Russian drone. The boy won. - The Washington Post
-- Starbucks to lay off 300 U.S. employees, shutter some regional support offices - CNBC
-- Bill Ackman Says Pershing Square Bought the Dip in Microsoft Stock - Barron's
-- Forget Cerebras Systems’ IPO and Focus on This Tech Giant Instead - Yahoo Finance
-- Stock Market Today: Dow Falls 400 Points Lower on Oil Price Fears — Live Updates - WSJ
-- Subnautica 2 Early Access Roadmap - Unknown Worlds
-- "There's No Way I'm Ever Going to Win': Star Wars: The Old Republic Director James Ohlen Discusses BioWare Exit After EA Killed New Republic Reboot - IGN
+- Trump waffles on Taiwan arms deal after Xi talks - Axios
+- Trump administration readying a plan to impose Colorado River water cuts on Western states - Los Angeles Times
+- EXCLUSIVE: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible - CNN
+- Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury deadlocks - AP News
+- Jeffries praises Tennessee Democrat Steve Cohen as he ends re-election bid after gerrymander – US politics live - The Guardian
+- Voting Rights Act ruling is ‘red meat’ to Republicans in south, says Black lawmaker targeted by gerrymander - The Guardian
+- Why a Retrial of the Murdaugh Case Could Look a Lot Different - The New York Times
+- Skeletal remains of new dinosaur weighing as much as 9 elephants discovered by scientists: "The last titan" - CBS News
+- Pentagon halts deployments to Poland and Germany to cut troop numbers in Europe, AP sources say - AP News
+- Russian missiles used in deadly strike were built this year with western parts, says Ukraine - Financial Times
+- Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad - ynetnews
+- Starbucks to Layoff 300 Corporate Workers - The New York Times
+- “Do You Always Tell the Truth?”: Sam Altman Rests His Case in the OpenAI Trial. - The Ringer
+- S&P 500 and Nasdaq fall, strained by tech pullback and yields spike: Live updates - CNBC
+- Bill Ackman has been quietly buying Microsoft since February, when AI fears were dragging the stock - Fortune
+- Gemini's Spark agent has leaked, and it looks like it's gunning for Claude Cowork's throne - Android Authority
+- Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google
