@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-15 03:29_
+_Updated: 2026-05-15 07:39_
 
-- Trump’s and Xi’s Body Language at the Summit Mirrored Their Styles - The New York Times
-- Supreme Court allows abortion pill access while lawsuit proceeds - Axios
+- Trump touts "fantastic trade deals" after meeting with China's Xi - CBS News
+- Supreme Court preserves access to mail distribution of widely used abortion pill - The Washington Post
 - This coming El Niño could be a monster. Will it bring epic rain to California this winter? - Los Angeles Times
-- Cuba says CIA chief visited Havana as energy crisis worsens - BBC
-- Linda McMahon defends dismantling the Education Department, shifting its work - NPR
+- Anatomy of a speech: how does a Republican leader say no to Trump? - The Guardian
+- US plans to indict Cuba's Raul Castro, US DOJ official says - Reuters
+- CIA chief visits Cuba as energy crisis worsens - BBC
+- Newsom tries to balance California’s books — and head off 2028 liabilities - Politico
+- DOJ says Yale medical school discriminated against Asian, White applicants - The Washington Post
+- Louisiana Senate passes new congressional map amid controversial redistricting push - NOLA.com
+- Seattle judge orders WA man back to Hawaiʻi, where prosecutors say he threw rock at monk seal - The Seattle Times
 - Live Updates: Seized ship taken toward Iran as Trump and China's Xi agree Strait of Hormuz "must remain open" - CBS News
-- New York Takes Two-Step Approach on Multimillion-Dollar Second-Home Tax - The New York Times
-- Alex Murdaugh’s Murder Convictions Were Just Overturned. The Reason Why Is Wild. - Slate
-- 2 dead after small plane crashes into house in Coventry Crossing - Akron Beacon Journal
-- James Talarico’s Taco Order Sparks Debate in Texas Senate Race - The New York Times
-- ‘No idea it was coming’: Pentagon officials stunned by Hegseth decision on troops in Poland - Politico
-- U.S. moving to indict Cuba's Raúl Castro, sources say - CBS News
-- Israel says it will sue New York Times over article on sexual abuse of Palestinian prisoners - The Guardian
-- Latvian government collapses amid dispute over breaches by Ukrainian drones - The Washington Post
-- OpenAI Trial Live Updates: Closing Arguments Begin in Elon Musk vs. Sam Altman Case - The New York Times
-- Boeing shares drop 4% after Trump announces China orders just 200 jets - Reuters
-- Stock Market News May 14, 2026: S&P 500 and Nasdaq notch new records, Dow ends above 50,000 with U.S. retail-sales data and Trump’s China trip in focus - MarketWatch
-- The tech job market is a bloodbath. It’s likely going to get even worse. - SFGATE
+- Pentagon abruptly cancels troop deployment to Europe amid frustrations with NATO - The Washington Post
+- Philippine senator wanted by the International Criminal Court flees from Senate - AP News
+- How stray Ukrainian drones pushed Latvia's prime minister to resign - France 24
+- Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn't take the meeting - TechCrunch
+- The Real Losers of the Musk v. Altman Trial - WIRED
+- OpenAI Considers Legal Action Against Apple in Strained Relationship - The New York Times
+- The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair - MarketWatch
 - Google accounts no longer get 15GB of free storage, only 5GB until you link a phone number - 9to5Google
-- Motorola Razr Fold review: Fits neatly in your pocket but not your budget - Ars Technica
+- Android Canary 2605 brings the blur to Pixel system UI - 9to5Google
