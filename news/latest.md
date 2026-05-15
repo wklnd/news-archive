@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-15 22:06_
+_Updated: 2026-05-15 23:40_
 
-- Donald Trump left with little to show for two days of talks with Xi Jinping - Financial Times
+- Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit - The New York Times
+- U.S. eyes indictment against Raul Castro amid pressure by Trump administration, sources tell AP - AP News
 - Trump Says He Didn’t Ask Xi to Pressure Iran on Strait of Hormuz - Yahoo Finance
-- FBI offers $200,000 reward to catch ex-Air Force specialist wanted on espionage charges in Iran - AP News
-- Trump waffles on Taiwan arms deal after Xi talks - Axios
+- FBI offers $200,000 for info on ex-Air Force officer charged with spying for Iran - CBS News
 - Trump administration readying a plan to impose Colorado River water cuts on Western states - Los Angeles Times
-- EXCLUSIVE: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible - CNN
-- Judge declares a mistrial in Harvey Weinstein’s rape retrial after jury deadlocks - AP News
-- Jeffries praises Tennessee Democrat Steve Cohen as he ends re-election bid after gerrymander – US politics live - The Guardian
-- Voting Rights Act ruling is ‘red meat’ to Republicans in south, says Black lawmaker targeted by gerrymander - The Guardian
-- Why a Retrial of the Murdaugh Case Could Look a Lot Different - The New York Times
+- Tennnesee Democrat Steve Cohen announces retirement - Politico
+- Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C. - The New York Times
+- Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials - The New York Times
+- Israel and Lebanon agree to extend ceasefire, US state department says - BBC
+- Parents of teens who break curfew in D.C. will be prosecuted, DOJ says - The Washington Post
 - Skeletal remains of new dinosaur weighing as much as 9 elephants discovered by scientists: "The last titan" - CBS News
-- Pentagon halts deployments to Poland and Germany to cut troop numbers in Europe, AP sources say - AP News
 - Russian missiles used in deadly strike were built this year with western parts, says Ukraine - Financial Times
-- Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad - ynetnews
-- Starbucks to Layoff 300 Corporate Workers - The New York Times
+- Pentagon halts deployments to Poland and Germany to cut troop numbers in Europe, AP sources say - AP News
+- IDF strikes Hamas military leader, former hostage Liri Albag's captor, say senior defense sources - The Jerusalem Post
+- Global bonds battered as flaring inflation spooks investors - Yahoo Finance
 - “Do You Always Tell the Truth?”: Sam Altman Rests His Case in the OpenAI Trial. - The Ringer
-- S&P 500 and Nasdaq fall, strained by tech pullback and yields spike: Live updates - CNBC
-- Bill Ackman has been quietly buying Microsoft since February, when AI fears were dragging the stock - Fortune
-- Gemini's Spark agent has leaked, and it looks like it's gunning for Claude Cowork's throne - Android Authority
+- Starbucks to Layoff 300 Corporate Workers - The New York Times
+- How will Jerome Powell be remembered as he exits as Fed chair? Experts weigh in. - CBS News
 - Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google
+- Fitbit 4.69 rolls out with redesign of focus stats and logging - 9to5Google
