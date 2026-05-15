@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-15 17:50_
+_Updated: 2026-05-15 20:10_
 
-- In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S. - The Washington Post
-- Poland scrambles to respond after Pentagon ditches troop deployment plan - politico.eu
-- The US and Cuba intensify negotiations as the island’s collapse deepens - EL PAÍS English
-- After redistricting, what does representation mean to Tennessee voters? - NPR
-- US seeks indictment of former Cuban leader Raul Castro - Al Jazeera
-- Trump says China to buy 200 Boeing jets, order could rise up to 750 - Reuters
-- Why a Retrial of the Murdaugh Case Could Look a Lot Different - The New York Times
-- How to watch the governor's debate hosted by CBS News California, San Francisco Examiner - CBS News
-- Justice Department accuses Yale medical school of illegally using race in admissions - AP News
-- Supreme Court Allows Abortion Pill Access by Mail to Continue - The New York Times
-- Trump says Xi offered help on Iran — But how far is Beijing willing to go? - CNBC
-- New outbreak of Ebola kills 65 in eastern DR Congo - BBC
-- 5 Italian tourists killed in Maldives cave diving accident as authorities search water for bodies - CBS News
-- Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father - The Guardian
+- Lone Tennessee Democrat says he will end re-election bid after congressional map redrawing – US politics live - The Guardian
+- Trump Administration Live Updates: C.I.A. Chief Visits Cuba as Its Oil Runs Dry - The New York Times
+- Boeing Stock Hit. Its Big Jet Order From China Isn’t Big Enough. - Barron's
+- FBI offers $200,000 reward to catch ex-Air Force specialist wanted on espionage charges in Iran - AP News
+- ‘Slap in the face': Republicans skewer Pentagon over Poland troop move - Politico
+- DOJ pushing to indict Raúl Castro over 1996 downing of civilian planes, officials say - NBC News
+- Keisha Lance Bottoms’ lead is making some Georgia Democrats uneasy - Politico
+- You’re Getting Robbed. By Trump. In Broad Daylight. - The Bulwark
+- Mass casualty response underway in Searsmont after explosion - WGME
+- Supreme Court allows abortion pill access while lawsuit proceeds - Axios
+- Trump says Xi offered help on Iran — but how far is Beijing willing to go? - CNBC
+- Live Updates: Iran says it "cannot trust the Americans at all" as Trump says "we control" the Strait of Hormuz - CBS News
+- Tensions flare near Strait of Hormuz as a ship is seized and another is sunk - NPR
+- In northern Ukraine, it was boy vs. Russian drone. The boy won. - The Washington Post
 - Starbucks to lay off 300 U.S. employees, shutter some regional support offices - CNBC
-- North America’s largest commuter rail system faces a potential shutdown - AP News
+- Bill Ackman Says Pershing Square Bought the Dip in Microsoft Stock - Barron's
 - Forget Cerebras Systems’ IPO and Focus on This Tech Giant Instead - Yahoo Finance
 - Stock Market Today: Dow Falls 400 Points Lower on Oil Price Fears — Live Updates - WSJ
-- Apple Watch: 15 Tips Every Owner Needs to Know - MacRumors
-- The perfect commuter bike? Velotric’s Discover 3 makes its case. - Ars Technica
+- Subnautica 2 Early Access Roadmap - Unknown Worlds
+- "There's No Way I'm Ever Going to Win': Star Wars: The Old Republic Director James Ohlen Discusses BioWare Exit After EA Killed New Republic Reboot - IGN
