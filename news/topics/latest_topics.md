@@ -1,47 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 12:58_
+_Updated: 2026-05-15 15:12_
 
 ## Top Stories
 
-- Skeppsbron i Stockholm var avstängd - Expressen
-- Leo Carlssons Anaheim utslaget ur Stanley Cup - Aftonbladet
-- Alla överlevde kraschen i Atlanten – piloten hyllas som hjälte - Dagens Nyheter
-- Storbråk inne på tåg – polisinsats på centralen - GP
-- Kritik mot lagändring: ”Marknadshyra införs bakvägen” - Dagens Nyheter
-- Pojke överfallen – flera gärningsmän jagas - Expressen
-- Tre kvinnliga kusiners misstag blev deras död - Expressen
-- Bygger pipeline – för att runda Hormuzsundet - Expressen
-- Di:s experter: Fem aktier att köpa – och tre att sälja - Dagens industri
-- Bilägarna som alltid tankar för 15 kr/liter - Aftonbladet
-- V65 Östersund | 2026-05-15 - ATG
-- Cecilia Hagens protest mot Alex Schulman: ”Skulle aldrig läsa något” - Expressen
-- Dessa personligheter blir lyckligast ihop – och här är sämsta matchen - Dagens Nyheter
-- Buffalo illa ute i Stanley Cup-slutspelet - Aftonbladet
-- Amadeus Sögaard Linderoth om nya livet i Florida - Aftonbladet
+- Dödstalet stiger i Ukraina: ”Allt brann” - GP
+- Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
+- Kvinna misstänkt för mord i Härjedalen – man vårdades på sjukhus en vecka - SVT Nyheter
+- Trafikstörningar i Göteborg 17–18 maj - polisen.se
+- Xi: Ska skicka rosfrön till Trump - Västerbottens-Kuriren
+- Badförbudet förlängs – trots att bakterienivåerna sjunker - Sydsvenskan
+- Mohamsson: L vill se fler miljardärer - Västerbottens-Kuriren
+- Misstänkt brott på skuggfartyg efter flaggbyte - Västerbottens-Kuriren
+- Liberalerna vill fördubbla antalet miljardärer – Senaste nytt om valet 2026 - SVT Nyheter
+- 15 maj 07.55, Sammanfattning natt, Jönköpings län - polisen.se
+- Brittisk minister avgår – väntas utmana Starmer - Hufvudstadsbladet – HBL
+- Över 60 döda i ebolautbrott – hundratals smittade - Corren
+- Iran: Hormuz öppet för vänligt sinnade - Aftonbladet
+- Fjärde misstänkt för mordet i Norrköping – kan häktas - Omni
+- Lappland Guld: "Synligt guld observerat" - Dagens PS
+- Adani förlikas för 18 miljoner dollar i amerikansk domstol - Omni Ekonomi
+- Berner Industrier: Ökat förvärvstempo - Affärsvärlden
+- Familjer i kläm – så dyrt blir ett rum till - Svenska Dagbladet
+- AI-bedrägerier exploderar globalt – så utnyttjar bedragare ny teknik för att lura sina offer - m3.se
+- Google drar ned på molnlagringen för nya konton - PC för Alla
 
 ## World News
 
+- Read Tom Hollowell’s encouragement letter ahead of World Orienteering Week - International Orienteering Federation
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Handelsbanken lanserar ny global indexfond - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -62,9 +67,9 @@ _Updated: 2026-05-15 12:58_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -95,22 +100,22 @@ _Updated: 2026-05-15 12:58_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- E-hälsa inom EU - Läkartidningen
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
