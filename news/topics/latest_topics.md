@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 17:36_
+_Updated: 2026-05-15 20:05_
 
 ## Top Stories
 
-- Trump efter skålen i Kina: Vi hjälper dem - GP
+- Britt-Marie Mattsson: Storföretagens budskap till Trump – Dags att betala tillbaka - GP
 - Ryssland och Ukraina utbyder döda soldater - Dagens Nyheter
-- Xi fick Trump att vilja ha en balsal - Aftonbladet
+- Liberalerna vill sänka skatten – för miljardärer: ”Besynnerligt” - Flamman
 - Erbjöds skolresa – rövades bort och såldes - Svenska Dagbladet
-- Trafikstörningar i Göteborg 17–18 maj - Polisen.se
-- Här sker flest bilinbrott i Malmö - Sydsvenskan
+- Serneke kan förlora Cirkustomten – om SD inte svänger - GP
+- Få väljare redo att hjälpa Mohamsson över spärren - Dagens Nyheter
 - Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
 - Åtal: Smygfilmade barn på Navet - Folkbladet
-- L vill dubbla antalet miljardärer – vill ha svenskt skatteparadis - Omni
-- Läkare i Järpen: För mycket onödig vård – ”Rädd att missa saker” - Sveriges Radio
+- Stal fordon för 5 miljoner – så avslöjade Erik ligan - Dagens Nyheter
+- 15 maj 13.58, Trafikkontroll, Norrbottens län - polisen.se
+- Trumps Kinabesök avslutat – Kina varnar USA om Taiwan - Sveriges Radio
+- Høiby vill slippa häktet – vädjar till HD - Västerbottens-Kuriren
 - Zelenskyj varnar för rysk offensiv från Belarus - GP
-- Myndighetskällor i Finland och Estland: Ryssland stör drönare ur kurs - Hufvudstadsbladet – HBL
-- Sandra Stiskalo: Forna vänner blir rivaler i striden om Downing Street - Dagens Nyheter
-- Trumps hårda Iran-diss: ”Oacceptabelt” - Expressen
-- Sparekonomen: Så gör de mest framgångsrika på börsen - Dagens PS
-- Familjer i kläm – så dyrt blir ett rum till - Svenska Dagbladet
+- ”De slutade inte förrän vi tog fram brandsläckaren” - Dagens Nyheter
 - Berner Industrier: Ökat förvärvstempo - Affärsvärlden
+- Gruvaktier faller brett – här är största förlorarna - Placera.se
 - Framtiden är förarlös – men dröjer i Europa - Svenska Dagbladet
+- SAS vd: Inga statliga räddningspaket - SVT Nyheter
+- ROG Xreal R1 börjar säljas i USA - pris avslöjat - SweClockers
 - AI-bedrägerier exploderar globalt – så utnyttjar bedragare ny teknik för att lura sina offer - m3.se
-- Google testar att sänka gratislagringen för konton till 5 GB. Har bjudit på 15 GB i över 10 år. - feber.se
 
 ## World News
 
@@ -32,43 +32,43 @@ _Updated: 2026-05-15 17:36_
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- NTM bäst i världen på att utveckla den lokala journalistiken - ntm.se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global halvledarpress efter Trumps möte med Xi - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Enad Global 7-topp tankar aktier för 700.000 - Dagens industri
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Jobb med en framtid? Framgången för ett robotprojekt beror också på samarbete mellan robotik och artificiell intelligens (AI) specialister - Xpert.Digital - Konrad Wolfenstein
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
@@ -98,24 +98,24 @@ _Updated: 2026-05-15 17:36_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
 - E-hälsa inom EU - Läkartidningen
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -135,10 +135,10 @@ _Updated: 2026-05-15 17:36_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 
 ## Jordbruk
 
