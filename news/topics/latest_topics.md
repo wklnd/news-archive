@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 23:34_
+_Updated: 2026-05-16 00:32_
 
 ## Top Stories
 
 - Lann (KD) i Ukraina under våldsamma attacken - GP
 - Xi: Ska skicka rosfrön till Trump - Västerbottens-Kuriren
-- Trettiotal skadade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Merz: Vill inte att mina barn pluggar i USA - Omni
-- MC-förare till sjukhus efter singelolycka - NT
+- Vapenvilan mellan Israel och Libanon förlängs – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tyska USA-smockan: ”Skulle inte rekommendera mina barn det” - TV4 Nyheterna
+- Deras död förbryllar – teorierna om olyckan - Expressen
 - Därför vill Lukasjenko inte ge sig in i kriget: ”Ingen framgångssaga” - Dagens Nyheter
 - Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
 - Dansk polis till Helsingborg under Natomöte - Västerbottens-Kuriren
-- Kvinna hittad död efter försvinnande - NT
-- 15 maj 13.58, Trafikkontroll, Norrbottens län - Polisen.se
+- 15 maj 13.58, Trafikkontroll, Norrbottens län - polisen.se
+- Liberalerna vill fördubbla antalet miljardärer – Senaste nytt om valet 2026 - SVT Nyheter
 - Ny jättedinosaurie identifierad - Västerbottens-Kuriren
 - Trumps renovering av ikonisk vattenspegel väcker kritik - Dagens Nyheter
 - Israelisk attack mot Hamasbefäl i Gaza - Västerbottens-Kuriren
 - ”De slutade inte förrän vi tog fram brandsläckaren” - Dagens Nyheter
 - Räntorna och oljan sänkte börsens AI-raketer: ”Behöver nog vila” - EFN
-- Montrose passerar 10 miljarder i sparkapital, siktar på breakeven vid 20 miljarder - Afv - Placera.se
+- Flat Capital lyfter på Klarna-rapport - Privata Affärer
 - LVMH säljer Marc Jacobs – amerikansk aktör tar över modeikonen - Börskollen
-- Väderstad presenterar en ny generation Tempo T 6–7 - Jordbruksaktuellt
+- Familjer i kläm – så dyrt blir ett rum till - Svenska Dagbladet
 - Det börjar bli dags att säga hejdå till ditt Marathon-loot. Snart dags för server wipe inför den andra säsongen. - feber.se
 - Metroid Prime 4: Beyond till Nintendo Switch - FZ.se
 
@@ -119,26 +119,26 @@ _Updated: 2026-05-15 23:34_
 
 ## Science
 
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-15 23:34_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
