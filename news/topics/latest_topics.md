@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-15 22:00_
+_Updated: 2026-05-15 23:34_
 
 ## Top Stories
 
-- Britt-Marie Mattsson: Storföretagens budskap till Trump – Dags att betala tillbaka - GP
-- Trettiotal skadade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Lann (KD) i Ukraina under våldsamma attacken - GP
-- Erbjöds skolresa – rövades bort och såldes - Svenska Dagbladet
-- Pappa dödshotade Önneredskolans rektor – straffet skärps - GP
-- Trumps renovering av ikonisk vattenspegel väcker kritik - Dagens Nyheter
+- Xi: Ska skicka rosfrön till Trump - Västerbottens-Kuriren
+- Trettiotal skadade i israeliska attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Merz: Vill inte att mina barn pluggar i USA - Omni
+- MC-förare till sjukhus efter singelolycka - NT
+- Därför vill Lukasjenko inte ge sig in i kriget: ”Ingen framgångssaga” - Dagens Nyheter
 - Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
-- Stal fordon för 5 miljoner – så avslöjade Erik ligan - Dagens Nyheter
 - Dansk polis till Helsingborg under Natomöte - Västerbottens-Kuriren
+- Kvinna hittad död efter försvinnande - NT
 - 15 maj 13.58, Trafikkontroll, Norrbottens län - Polisen.se
-- Trumps Kinabesök avslutat – Kina varnar USA om Taiwan - Sveriges Radio
+- Ny jättedinosaurie identifierad - Västerbottens-Kuriren
+- Trumps renovering av ikonisk vattenspegel väcker kritik - Dagens Nyheter
 - Israelisk attack mot Hamasbefäl i Gaza - Västerbottens-Kuriren
 - ”De slutade inte förrän vi tog fram brandsläckaren” - Dagens Nyheter
-- Ung svensk åtalad för mordplaner i Tyskland - Västerbottens-Kuriren
-- Flat Capital lyfter på Klarna-rapport - Privata Affärer
+- Räntorna och oljan sänkte börsens AI-raketer: ”Behöver nog vila” - EFN
+- Montrose passerar 10 miljarder i sparkapital, siktar på breakeven vid 20 miljarder - Afv - Placera.se
+- LVMH säljer Marc Jacobs – amerikansk aktör tar över modeikonen - Börskollen
 - Väderstad presenterar en ny generation Tempo T 6–7 - Jordbruksaktuellt
-- SAS vd: Inga statliga räddningspaket - SVT Nyheter
-- Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
+- Det börjar bli dags att säga hejdå till ditt Marathon-loot. Snart dags för server wipe inför den andra säsongen. - feber.se
 - Metroid Prime 4: Beyond till Nintendo Switch - FZ.se
-- Google drar ned på molnlagringen för nya konton - PC för Alla
 
 ## World News
 
 - Read Tom Hollowell’s encouragement letter ahead of World Orienteering Week - International Orienteering Federation
-- AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -36,17 +35,18 @@ _Updated: 2026-05-15 22:00_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -67,8 +67,8 @@ _Updated: 2026-05-15 22:00_
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
@@ -100,22 +100,22 @@ _Updated: 2026-05-15 22:00_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - AI Medical Technology CE-märkt – först i sitt segment i Europa och nu med första kund på plats - it-halsa.se
-- E-hälsa inom EU - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -153,12 +153,12 @@ _Updated: 2026-05-15 22:00_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
