@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 18:28_
+_Updated: 2026-05-16 19:30_
 
 ## Top Stories
 
-- Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
-- Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
-- Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
+- Bil har kört in i folkmassa i Italien - SVT Nyheter
+- Streeting redo att utmana Starmer - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
+- Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
+- SD kritiseras för flygblad – partier kräver avgång - Dagens Nyheter
 - Hennes son dog när rutinerna brast på kvinnokliniken - Sydsvenskan
-- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
-- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
-- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
-- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
 - Migrationspakten införs – flera svenska lagar saknas - Dagens Nyheter
+- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
+- Ny kapten på skuggfartyg anhållen - Corren
+- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
+- Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
+- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
 - Polisinsats mot mc-miljön – 27 gripna i Norge - GP
-- Knölvalen Timmy död – strandade vid dansk ö - Aftonbladet
 - Nya anfall mot Libanon - Västerbottens-Kuriren
-- Hemligstämplad akt om ”dödsängeln” Mengele släpps - Omni
 - Katrine Kielos: Därför kan investerarna missa AI:s riktiga vinnare - EFN
 - Nu kan vi driva gruvor med – öl - Dagens PS
+- Signe Krantz: Svenska Dagbladet fattar inte kritiken mot Palantir - ETC.se
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
-- Ny rapport: Steget från tvåa till trea slår hårdare än att köpa sin första bostad för stockholmare - Börskollen
 - SEGA visar upp läckra kontorsstolar - Teknikveckan
-- Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
+- PS5 kan äntligen få en egen version av Steam Charts - Teknikveckan
 
 ## World News
 
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -40,13 +41,12 @@ _Updated: 2026-05-16 18:28_
 - Chefen för Scotland Yard avgår - Sveriges Radio
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Murdoch överväger att sälja brittiska tidningar - Journalisten
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -66,8 +66,8 @@ _Updated: 2026-05-16 18:28_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -100,22 +100,22 @@ _Updated: 2026-05-16 18:28_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - E-hälsa inom EU - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -131,14 +131,14 @@ _Updated: 2026-05-16 18:28_
 - Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 
 ## Jordbruk
 
@@ -149,9 +149,11 @@ _Updated: 2026-05-16 18:28_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
@@ -159,6 +161,4 @@ _Updated: 2026-05-16 18:28_
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
