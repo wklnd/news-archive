@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 00:11_
+_Updated: 2026-05-17 01:28_
 
 ## Top Stories
 
-- Bil har körts in i folkmassa i Italien - SVT Nyheter
+- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
+- Folkmordsanklagade Kabuga död - Sydsvenskan
+- Hizbollah: Träffat mål i Israel - Västerbottens-Kuriren
+- Chalmers skrotar samtliga masterprogram – nya skapas - GP
 - Zelenskyj: Ryssland planerar attacker mot ukrainska ledare - Dagens Nyheter
 - Flera skadade efter bråk i Söderhamn – tre gripna - Sveriges Radio
-- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
-- Chalmers skrotar samtliga masterprogram – nya skapas - GP
-- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
 - Ny kapten på skuggfartyg anhållen - Corren
-- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Spelkortsbutik vill sälja öl och vin: ”Varit efterfrågat” - VF
 - Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- Storbrand i hönseri – 48 000 höns brann inne - Västerbottens-Kuriren
-- Här ska Trumps omstridda skulpturpark byggas - Västerbottens-Kuriren
-- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
+- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Här ska Trumps omstridda skulpturpark byggas - Aftonbladet
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
 - Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
-- Sex personer dödade i Libanon - Hufvudstadsbladet – HBL
+- Bilist har kört in i folkmassa i Italien - GP
 - Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
 - Tellusgruppen Q1-26 - Analyst Group
+- Dyra flygbiljetter väntas bli det nya normala – bränslepriserna pressar bolagen - Dagens Nyheter
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
-- Carlsson borde gjort som Kamprad – inte tiggt pengar från skatte­betalarna - Världen idag
-- Xbox är nu XBOX. CAPS på framöver. - feber.se
 - Sony WF-1000XM6 är nära perfektion i fickformat - Teknikveckan
+- Xbox är nu XBOX. CAPS på framöver. - feber.se
 
 ## World News
 
@@ -31,6 +31,7 @@ _Updated: 2026-05-17 00:11_
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
@@ -38,15 +39,14 @@ _Updated: 2026-05-17 00:11_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Chefen för Scotland Yard avgår - Sveriges Radio
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
 
 ## Technology
 
@@ -98,7 +98,7 @@ _Updated: 2026-05-17 00:11_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
@@ -106,16 +106,16 @@ _Updated: 2026-05-17 00:11_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Vi presenterar ChatGPT Health - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -133,32 +133,32 @@ _Updated: 2026-05-17 00:11_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
+- Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Här är världens största jordbruk - ATL.nu
+- Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
