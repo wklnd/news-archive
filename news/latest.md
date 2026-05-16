@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-16 20:38_
+_Updated: 2026-05-16 21:46_
 
 - Trump’s China summit shows toll of a difficult year for the president - The Washington Post
-- GOP Sen. Bill Cassidy fights to hold onto seat in Louisiana primary against Trump-backed challenger - CBS News
-- Israel kills Hamas armed wing leader Haddad in Gaza strike - Reuters
+- Cassidy defiant as Trump's revenge campaign closes in - Politico
 - Trump says Islamic State group leader was killed in a joint US-Nigerian mission - AP News
-- Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move - The New York Times
-- Trump says Iran war is worth the economic pain. These rural voters agree. - Reuters
-- BLET members on strike at Long Island Rail Road - Brotherhood of Locomotive Engineers and Trainmen
-- Rotting remains found behind Texas home belong to 6-year-old allegedly killed by abusive mother - New York Post
+- Israel kills Hamas armed wing leader Haddad in Gaza strike - Reuters
+- Colorado governor faces backlash over clemency for 2020 election denier Tina Peters - BBC
+- Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats - WTOP
+- Long Island Rail Road Strike Shuts Down Busiest U.S. Passenger Rail Service - The New York Times
+- USS Ford returns home after 11-month deployment supporting the Iran war and Maduro's capture - AP News
 - Texas children’s hospital to create first detransition clinic in win for Trump - The Guardian
-- Poll: MAGA is largely aligned with Israel as GOP divides deepen - Politico
-- Tens of thousands set to rally in London for concurrent far-right, anti-Israel protests - The Times of Israel
+- Rotting remains found behind Texas home belong to 6-year-old allegedly killed by abusive mother - New York Post
+- Rival Protests Take Place in London, With a Major Security Effort - The New York Times
 - Timmy the humpback whale found dead off Danish coast - NPR
-- China Will Host Putin, Days After Trump’s Visit - The New York Times
-- Pope Leo XIV to visit France in September this year - Vatican News
+- At least eight killed, 35 injured as train hits bus in Bangkok - Al Jazeera
+- Toddlers among more than 50 schoolchildren kidnapped in Nigeria - BBC
 - The Countries Profiting From the War Oil Shock, as Others Lose Out - The New York Times
-- SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports Bloomberg - Yahoo Finance
-- I lost my flight attendant job when Spirit shut down. I've had to manage my emotions and am hopeful I'll find new work soon. - Business Insider
+- Elon Musk Says He Isn’t Selling His SpaceX Shares as IPO Looms - Yahoo Finance
+- I used AI to help market my bagel shop. Then the one-star reviews came in. - Business Insider
 - Swatch shuts stores after crowds queue for new watch - BBC
 - Users turn to jailbreaking their older Kindles as Amazon ends support - TechCrunch
 - Fitbit Air: 24 Hours Later First Impressions - DC Rainmaker
