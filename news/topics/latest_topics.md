@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 21:39_
+_Updated: 2026-05-16 23:23_
 
 ## Top Stories
 
+- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
+- Flera skadade efter bråk i Söderhamn – tre gripna - Sveriges Radio
 - Bil har kört in i folkmassa i Italien - SVT Nyheter
-- Storbrand i hönseri – 48 000 höns brann inne - Västerbottens-Kuriren
+- Zelenskyj: Ryssland planerar attacker mot ukrainska ledare - Dagens Nyheter
 - Chalmers skrotar samtliga masterprogram – nya skapas - GP
-- DN Direkt – Propalestinsk demonstration inför Eurovisionsfinalen - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
-- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
-- Migrationspakten införs – flera svenska lagar saknas - Dagens Nyheter
-- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Folkmordsanklagade Kabuga död - Västerbottens-Kuriren
 - Ny kapten på skuggfartyg anhållen - Corren
 - Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – En person har testat positivt för hantaviruset i Kanada - Dagens Nyheter
-- Polisinsats mot mc-miljön – 27 gripna i Norge - Västerbottens-Kuriren
-- Streeting redo att utmana Starmer - GP
-- Nya anfall mot Libanon - Västerbottens-Kuriren
+- Spelkortsbutik vill sälja öl och vin: ”Varit efterfrågat” - VF
+- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Här ska Trumps omstridda skulpturpark byggas - Västerbottens-Kuriren
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
+- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
+- Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
 - Telefonbedrägerier för 10 miljarder kronor. Nu skärper Google säkerheten - Dagens PS
 - Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
 - Analyst Group publicerar analys av Tellusgruppen för första kvartalet 2026 - Mynewsdesk
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
-- Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
-- SEGA visar upp läckra kontorsstolar - Teknikveckan
+- Xbox är nu XBOX. CAPS på framöver. - feber.se
+- Sony WF-1000XM6 är nära perfektion i fickformat - Teknikveckan
 
 ## World News
 
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global halvledarpress efter Trumps möte med Xi - EFN
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Chefen för Scotland Yard avgår - Sveriges Radio
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
@@ -100,22 +100,22 @@ _Updated: 2026-05-16 21:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- E-hälsa inom EU - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -137,8 +137,8 @@ _Updated: 2026-05-16 21:39_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-16 21:39_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Lediga jobb - Land Lantbruk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
