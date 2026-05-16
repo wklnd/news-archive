@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 20:30_
+_Updated: 2026-05-16 21:39_
 
 ## Top Stories
 
 - Bil har kört in i folkmassa i Italien - SVT Nyheter
-- Streeting redo att utmana Starmer - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
-- Storbrand i hönseri – 48 000 höns brann inne - GP
-- Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
+- Storbrand i hönseri – 48 000 höns brann inne - Västerbottens-Kuriren
+- Chalmers skrotar samtliga masterprogram – nya skapas - GP
 - DN Direkt – Propalestinsk demonstration inför Eurovisionsfinalen - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
 - Migrationspakten införs – flera svenska lagar saknas - Dagens Nyheter
 - Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
 - Ny kapten på skuggfartyg anhållen - Corren
 - Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
+- DN Direkt – En person har testat positivt för hantaviruset i Kanada - Dagens Nyheter
 - Polisinsats mot mc-miljön – 27 gripna i Norge - Västerbottens-Kuriren
-- Sex personer dödade i Libanon - Hufvudstadsbladet – HBL
-- Knölvalen Timmy död – strandade vid dansk ö - Aftonbladet
-- Katrine Kielos: Därför kan investerarna missa AI:s riktiga vinnare - EFN
+- Streeting redo att utmana Starmer - GP
+- Nya anfall mot Libanon - Västerbottens-Kuriren
 - Telefonbedrägerier för 10 miljarder kronor. Nu skärper Google säkerheten - Dagens PS
-- Nu kan vi driva gruvor med – öl - Dagens PS
-- Signe Krantz: Svenska Dagbladet fattar inte kritiken mot Palantir - ETC.se
+- Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
+- Analyst Group publicerar analys av Tellusgruppen för första kvartalet 2026 - Mynewsdesk
+- Elpriset i maj högsta sedan krisåret 2022 - Omni
 - Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
 - SEGA visar upp läckra kontorsstolar - Teknikveckan
 
@@ -60,16 +60,16 @@ _Updated: 2026-05-16 20:30_
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -100,45 +100,45 @@ _Updated: 2026-05-16 20:30_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera Center for Digital Health and Precision Medicine i Indien. - Apollo Hospitals
 - E-hälsa inom EU - Läkartidningen
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-16 20:30_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
