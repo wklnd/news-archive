@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 23:23_
+_Updated: 2026-05-17 00:11_
 
 ## Top Stories
 
-- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
-- Flera skadade efter bråk i Söderhamn – tre gripna - Sveriges Radio
-- Bil har kört in i folkmassa i Italien - SVT Nyheter
+- Bil har körts in i folkmassa i Italien - SVT Nyheter
 - Zelenskyj: Ryssland planerar attacker mot ukrainska ledare - Dagens Nyheter
+- Flera skadade efter bråk i Söderhamn – tre gripna - Sveriges Radio
+- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
 - Chalmers skrotar samtliga masterprogram – nya skapas - GP
-- Folkmordsanklagade Kabuga död - Västerbottens-Kuriren
-- Ny kapten på skuggfartyg anhållen - Corren
-- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- Spelkortsbutik vill sälja öl och vin: ”Varit efterfrågat” - VF
-- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
-- Här ska Trumps omstridda skulpturpark byggas - Västerbottens-Kuriren
 - DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
+- Ny kapten på skuggfartyg anhållen - Corren
+- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
+- Storbrand i hönseri – 48 000 höns brann inne - Västerbottens-Kuriren
+- Här ska Trumps omstridda skulpturpark byggas - Västerbottens-Kuriren
 - Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
 - Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
-- Telefonbedrägerier för 10 miljarder kronor. Nu skärper Google säkerheten - Dagens PS
+- Sex personer dödade i Libanon - Hufvudstadsbladet – HBL
 - Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
-- Analyst Group publicerar analys av Tellusgruppen för första kvartalet 2026 - Mynewsdesk
+- Tellusgruppen Q1-26 - Analyst Group
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
+- Carlsson borde gjort som Kamprad – inte tiggt pengar från skatte­betalarna - Världen idag
 - Xbox är nu XBOX. CAPS på framöver. - feber.se
 - Sony WF-1000XM6 är nära perfektion i fickformat - Teknikveckan
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - TV.nu
-- AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
+- Global halvledarpress efter Trumps möte med Xi - EFN
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
+- VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
+- AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global halvledarpress efter Trumps möte med Xi - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Chefen för Scotland Yard avgår - Sveriges Radio
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Chefen för Scotland Yard avgår - Sveriges Radio
 
 ## Technology
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-16 23:23_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - EU Digital Strategy
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Här är världens största jordbruk - ATL.nu
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
