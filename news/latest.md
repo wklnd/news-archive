@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-16 00:36_
+_Updated: 2026-05-16 03:22_
 
-- Winners and Losers From Trump and Xi’s Beijing Summit Talks - Yahoo Finance
-- US Justice Department working to indict former Cuban president Raul Castro - CNN
 - Colorado's Democratic governor will let Trump ally Tina Peters out of prison early - NPR
-- Trump waffles on Taiwan arms deal after Xi talks - Axios
-- FBI offers $200,000 reward to catch ex-Air Force specialist wanted on espionage charges in Iran - AP News
-- ‘Slap in the face': Republicans skewer Pentagon over Poland move - Politico
-- Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C. - The New York Times
-- Alex Murdaugh’s lawyers to introduce shocking DNA findings that could upend murder cases at retrial - New York Post
-- Live updates: ‘There’s been a huge explosion’: At least 11 hurt at Searsmont lumber mill - The Portland Press Herald
-- Voting Rights Act ruling is ‘red meat’ to Republicans in south, says Black lawmaker targeted by gerrymander - The Guardian
-- Skeletal remains of new dinosaur weighing as much as 9 elephants discovered by scientists: "The last titan" - CBS News
-- Russian missiles used in deadly strike were built this year with western parts, says Ukraine - Financial Times
+- Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map - The New York Times
+- US-China summit exposes Trump's limits on Iran war, Taiwan - DW.com
+- Trump administration prepares to seek Raúl Castro indictment as it pressures Cuba, AP sources say - AP News
+- Exclusive: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible - CNN
+- Army leaders in hot seat over Poland deployment cancellation - Military Times
+- Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged - The Guardian
+- Justice Department Secures Landmark Resolution to End Pediatric “Gender-Affirming Care” and Create Detransition Clinic - Department of Justice (.gov)
+- Democrat Gene Wu can keep House seat, Texas Supreme Court rules - The Texas Tribune
+- Feds request ‘summer surge’ of National Guard troops in DC - Politico
 - Trump Says He Didn’t Ask Xi to Pressure Iran on Strait of Hormuz - Yahoo Finance
-- Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad - ynetnews
-- Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates - CNBC
+- Russian missiles used in deadly strike were built this year with western parts, says Ukraine - Financial Times
+- What next for Starmer? Five scenarios in Labour leadership crisis - BBC
+- Tensions flare near Strait of Hormuz as one ship is seized and another is sunk - PBS
 - As Powell Steps Down, the Fed Confronts ‘Regime Change’ - The New York Times
-- The 5 most unhinged revelations from Elon Musk’s lawsuit against OpenAI - vox.com
-- Global Bond Selloff Worsens as Rising Oil Prices Spook Investors - Bloomberg.com
+- ‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial - NBC News
+- Global bonds battered as flaring inflation spooks investors - Yahoo Finance
+- Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News
+- General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch
 - Fitbit 4.69 rolls out with redesign of focus stats and logging - 9to5Google
-- A hotel check-in system left a million passports and driver’s licenses open for anyone to see - TechCrunch
