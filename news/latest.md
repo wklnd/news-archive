@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-16 07:00_
+_Updated: 2026-05-16 09:33_
 
-- Colorado governor commutes Trump ally Tina Peters' prison sentence for voting machine tampering - CBS News
-- Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats - AP News
+- 2020 election denier Tina Peters granted clemency by Democratic governor - The Washington Post
+- Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats - WTOP
+- The Push to Indict Raúl Castro, Cuba’s Former President - The New York Times
 - Top Drug Regulator Is Fired From the F.D.A. - The New York Times
 - The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian - NPR
-- Exclusive: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible - CNN
-- US-China summit exposes Trump's limits on Iran war, Taiwan - DW.com
+- Trump waffles on Taiwan arms deal after Xi talks - Axios
 - Texas Children’s will create ‘detransition clinic’ to settle DOJ and state investigation - NBC News
-- US charges Iraqi militia commander with terrorism offences - BBC
 - Tennessee Democrat Steve Cohen announces retirement - Politico
-- Republicans revise ballroom security funding after parliamentarian meeting - Politico
-- Army leaders in hot seat over Poland deployment cancellation - Military Times
-- Donald Trump’s allies pin hopes on Xi Jinping to defuse Strait of Hormuz crisis - Financial Times
-- Huge waves of Russian drones descend on Ukraine during the day in emerging style of Shahed warfare - Business Insider
-- What next for Starmer? Five scenarios in Labour leadership crisis - BBC
-- Trump Fed nominees oppose terms of keeping Jay Powell as temporary chair - Financial Times
-- Global bonds battered as flaring inflation spooks investors - Yahoo Finance
+- Live Updates: Israel, Lebanon extend ceasefire as Iran says it "cannot trust the Americans at all" - CBS News
+- Live updates: Over 100 responders salute remains of firefighter in Augusta procession - The Portland Press Herald
+- Israel says strike targeted the last senior Hamas leader involved in Oct. 7 - The Washington Post
+- Burnham cleared to run for selection in pivotal by-election - BBC
+- Pentagon halts deployments to Poland and Germany to cut troop numbers in Europe, AP sources say - AP News
+- How Keir Starmer Imploded and Plunged Britain Into More Chaos - Bloomberg.com
+- Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News
 - Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard - Barron's
-- FDA Announces Nationwide Recall of Popular Ice Cream Due To Potential Metal Contamination - Allrecipes
+- Global Bond Selloff Worsens as Rising Oil Prices Spook Investors - Bloomberg.com
+- Long Island Rail Road Strike Shuts Down Busiest U.S. Passenger Rail Service - The New York Times
 - Intel’s NUCs Live On… as an Excessive Asus Mini Gaming PC - Gizmodo
 - Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google
