@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-16 03:22_
+_Updated: 2026-05-16 07:00_
 
-- Colorado's Democratic governor will let Trump ally Tina Peters out of prison early - NPR
-- Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map - The New York Times
-- US-China summit exposes Trump's limits on Iran war, Taiwan - DW.com
-- Trump administration prepares to seek Raúl Castro indictment as it pressures Cuba, AP sources say - AP News
+- Colorado governor commutes Trump ally Tina Peters' prison sentence for voting machine tampering - CBS News
+- Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats - AP News
+- Top Drug Regulator Is Fired From the F.D.A. - The New York Times
+- The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian - NPR
 - Exclusive: Hackers have breached tank readers at US gas stations; officials suspect Iran is responsible - CNN
+- US-China summit exposes Trump's limits on Iran war, Taiwan - DW.com
+- Texas Children’s will create ‘detransition clinic’ to settle DOJ and state investigation - NBC News
+- US charges Iraqi militia commander with terrorism offences - BBC
+- Tennessee Democrat Steve Cohen announces retirement - Politico
+- Republicans revise ballroom security funding after parliamentarian meeting - Politico
 - Army leaders in hot seat over Poland deployment cancellation - Military Times
-- Iraqi accused of terrorism attacks and plots in US and Europe arrested and charged - The Guardian
-- Justice Department Secures Landmark Resolution to End Pediatric “Gender-Affirming Care” and Create Detransition Clinic - Department of Justice (.gov)
-- Democrat Gene Wu can keep House seat, Texas Supreme Court rules - The Texas Tribune
-- Feds request ‘summer surge’ of National Guard troops in DC - Politico
-- Trump Says He Didn’t Ask Xi to Pressure Iran on Strait of Hormuz - Yahoo Finance
-- Russian missiles used in deadly strike were built this year with western parts, says Ukraine - Financial Times
+- Donald Trump’s allies pin hopes on Xi Jinping to defuse Strait of Hormuz crisis - Financial Times
+- Huge waves of Russian drones descend on Ukraine during the day in emerging style of Shahed warfare - Business Insider
 - What next for Starmer? Five scenarios in Labour leadership crisis - BBC
-- Tensions flare near Strait of Hormuz as one ship is seized and another is sunk - PBS
-- As Powell Steps Down, the Fed Confronts ‘Regime Change’ - The New York Times
-- ‘Billionaires versus billionaires’: Inside the bizarre scenes of the OpenAI trial - NBC News
+- Trump Fed nominees oppose terms of keeping Jay Powell as temporary chair - Financial Times
 - Global bonds battered as flaring inflation spooks investors - Yahoo Finance
-- Trump talks up trade deals with China, but experts see no big wins for U.S. - CBS News
-- General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch
-- Fitbit 4.69 rolls out with redesign of focus stats and logging - 9to5Google
+- Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard - Barron's
+- FDA Announces Nationwide Recall of Popular Ice Cream Due To Potential Metal Contamination - Allrecipes
+- Intel’s NUCs Live On… as an Excessive Asus Mini Gaming PC - Gizmodo
+- Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google
