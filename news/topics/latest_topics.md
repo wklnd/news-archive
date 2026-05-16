@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 14:36_
+_Updated: 2026-05-16 16:39_
 
 ## Top Stories
 
 - Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
-- Två till sjukhus – personbil körde ner i Ullån - Sveriges Radio
-- SD i Hylte delade ut flygblad med uppmaning att stoppa socialtjänsten – dras nu tillbaka - SVT Nyheter
-- Chaffisen som styr karnevalståget – på cykel - Sydsvenskan
-- Sjukvårdare dödade i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Här planeras ny cykelbro över motorvägen - GP
-- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
-- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- Kapten anhållen misstänkt för nya brott på bordat fartyg utanför Trelleborg - SVT Nyheter
-- DN/Ipsos: Ökat stöd för regeringens arbete mot skjutningar - Dagens Nyheter
-- DN Direkt – 4 000 poliser sätts in i London inför protester - Dagens Nyheter
-- Allt starkare band mellan Belarus demokratirörelse och Ukraina - Sveriges Radio
+- Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
+- SD kritiseras för flygblad – partier kräver avgång - Dagens Nyheter
 - Nya anfall mot Libanon - Västerbottens-Kuriren
-- Hemliga dokument om ”dödsängeln” Mengele offentliggörs - Dagens Nyheter
-- Här säljer och köper Buffetts kronprins aktier just nu - Dagens PS
+- Hon jagade rånare på E20 – nu drejar hon koppar i Majorna - GP
+- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
+- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
+- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
+- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
+- Flygförbud för drönare i Göteborg under helgen - Polisen.se
+- Knölvalen Timmy död – strandade vid dansk ö - Västerbottens-Kuriren
+- 4 000 poliser sätts in i London inför protester - Västerbottens-Kuriren
+- Lann (KD) i Ukraina under våldsamma attacken - GP
+- Hajattack i Australien – man död vid Rottnest island - Sveriges Radio
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
-- Stöldvåg mot bilmärke – tar lyxbilar vid villor - Carup.se
+- Katrine Kielos: Därför kan investerarna missa AI:s riktiga vinnare - EFN
+- Ny rapport: Steget från tvåa till trea slår hårdare än att köpa sin första bostad för stockholmare - Börskollen
 - Nu kan vi driva gruvor med – öl - Dagens PS
+- SEGA visar upp läckra kontorsstolar - Teknikveckan
 - Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
-- Iphone 17 Pro laddas snabbare än konkurrenterna - Macworld.se
 
 ## World News
 
+- Global halvledarpress efter Trumps möte med Xi - EFN
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global halvledarpress efter Trumps möte med Xi - EFN
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Chefen för Scotland Yard avgår - Sveriges Radio
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
@@ -100,7 +100,6 @@ _Updated: 2026-05-16 14:36_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -113,9 +112,10 @@ _Updated: 2026-05-16 14:36_
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
