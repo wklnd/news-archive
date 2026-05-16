@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 16:39_
+_Updated: 2026-05-16 18:28_
 
 ## Top Stories
 
+- Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
 - Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
 - Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
-- SD kritiseras för flygblad – partier kräver avgång - Dagens Nyheter
-- Nya anfall mot Libanon - Västerbottens-Kuriren
-- Hon jagade rånare på E20 – nu drejar hon koppar i Majorna - GP
-- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
-- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
+- Hennes son dog när rutinerna brast på kvinnokliniken - Sydsvenskan
+- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
 - Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
-- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- Flygförbud för drönare i Göteborg under helgen - Polisen.se
-- Knölvalen Timmy död – strandade vid dansk ö - Västerbottens-Kuriren
-- 4 000 poliser sätts in i London inför protester - Västerbottens-Kuriren
-- Lann (KD) i Ukraina under våldsamma attacken - GP
-- Hajattack i Australien – man död vid Rottnest island - Sveriges Radio
-- Elpriset i maj högsta sedan krisåret 2022 - Omni
+- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
+- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
+- Migrationspakten införs – flera svenska lagar saknas - Dagens Nyheter
+- Polisinsats mot mc-miljön – 27 gripna i Norge - GP
+- Knölvalen Timmy död – strandade vid dansk ö - Aftonbladet
+- Nya anfall mot Libanon - Västerbottens-Kuriren
+- Hemligstämplad akt om ”dödsängeln” Mengele släpps - Omni
 - Katrine Kielos: Därför kan investerarna missa AI:s riktiga vinnare - EFN
-- Ny rapport: Steget från tvåa till trea slår hårdare än att köpa sin första bostad för stockholmare - Börskollen
 - Nu kan vi driva gruvor med – öl - Dagens PS
+- Elpriset i maj högsta sedan krisåret 2022 - Omni
+- Ny rapport: Steget från tvåa till trea slår hårdare än att köpa sin första bostad för stockholmare - Börskollen
 - SEGA visar upp läckra kontorsstolar - Teknikveckan
 - Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
 
 ## World News
 
-- Global halvledarpress efter Trumps möte med Xi - EFN
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
+- Global halvledarpress efter Trumps möte med Xi - EFN
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Chefen för Scotland Yard avgår - Sveriges Radio
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Murdoch överväger att sälja brittiska tidningar - Journalisten
-- News of the Worlds reportrar kan få nya jobb - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- News of the Worlds reportrar kan få nya jobb - Journalisten
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -66,8 +66,8 @@ _Updated: 2026-05-16 16:39_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -100,6 +100,7 @@ _Updated: 2026-05-16 16:39_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -109,13 +110,12 @@ _Updated: 2026-05-16 16:39_
 - E-hälsa inom EU - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
@@ -131,14 +131,14 @@ _Updated: 2026-05-16 16:39_
 - Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-16 16:39_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
