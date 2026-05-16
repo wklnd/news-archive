@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 11:11_
+_Updated: 2026-05-16 12:45_
 
 ## Top Stories
 
+- Israel har dödat Hamas-ledaren i Gaza – Senaste nytt om kriget i Gaza - SVT Nyheter
 - Sjukvårdare dödade i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Hajattack i Australien – man död vid Rottnest island - Sveriges Radio
-- Göteborgs föregångare till Systembolaget lever kvar – i Skottland - GP
+- Chaffisen som styr karnevalståget – på cykel - Sydsvenskan
+- Nya anfall mot Libanon - Västerbottens-Kuriren
+- Här planeras ny cykelbro över motorvägen - GP
 - Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
-- Forskaren: ”Hemmasittarna” riskerar att fastna i speciallösningar - Sydsvenskan
-- USA: Vapenvilan i Libanon förlängs - Västerbottens-Kuriren
+- DN/Ipsos: Ökat stöd för regeringens arbete mot skjutningar - Dagens Nyheter
 - Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- 16 maj 20.54, Misshandel, Fagersta - Polisen.se
 - Hundar hölls i burar med bajs – kvinna döms för djurplågeri - SVT Nyheter
-- 16 maj 08.05, Sammanfattning natt, Västerbottens län - Polisen.se
+- Kapten anhållen misstänkt för nya brott på bordat fartyg utanför Trelleborg - SVT Nyheter
+- DN Direkt – Man död i hajattack - Dagens Nyheter
 - Lann (KD) i Ukraina under våldsamma attacken - GP
 - Hemliga dokument om ”dödsängeln” Mengele offentliggörs - Dagens Nyheter
-- Zelenskyj varnar för rysk offensiv från Belarus - Corren
-- Misstänkt mordförsök i Västervik: Kvinna förd till sjukhus - oskarshamns-nytt.se
+- Filmad fårstöld besvärar Israel - Dagens Nyheter
 - Elpriset i maj högsta sedan krisåret 2022 - Omni
-- Norsk jättemiss: Gav bort 60 licenser på kritiska mineraler till Kina - Dagens PS
+- Här säljer och köper Buffetts kronprins aktier just nu - Dagens PS
+- Stöldvåg mot bilmärke – tar lyxbilar vid villor - Carup.se
 - Räntorna och oljan sänkte börsens AI-raketer: ”Behöver nog vila” - EFN
-- Nya märket kan konkurrera ut sina närmaste släktingar - Dagens Nyheter
+- Iphone 17 Pro laddas snabbare än konkurrenterna - Macworld.se
 - Efter 16 år med Apple testar jag nu att leva i Samsungs ekosystem - Teknikveckan
-- AMD tar sin nya FSR 4.1-teknik till äldre grafikkort - PC för Alla
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-05-16 11:11_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global halvledarpress efter Trumps möte med Xi - EFN
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
@@ -54,12 +54,13 @@ _Updated: 2026-05-16 11:11_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-05-16 11:11_
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -98,24 +98,24 @@ _Updated: 2026-05-16 11:11_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Vi presenterar ChatGPT Health - OpenAI
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
-- E-hälsa inom EU - Läkartidningen
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Vi presenterar HealthBench - OpenAI
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Vi presenterar ChatGPT Health - OpenAI
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 
 ## Science
 
@@ -135,30 +135,30 @@ _Updated: 2026-05-16 11:11_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk är här - EU Digital Strategy
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL.nu
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - EU Digital Strategy
-- Lediga jobb - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
