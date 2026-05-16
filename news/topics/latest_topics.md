@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-16 19:30_
+_Updated: 2026-05-16 20:30_
 
 ## Top Stories
 
 - Bil har kört in i folkmassa i Italien - SVT Nyheter
 - Streeting redo att utmana Starmer - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Iran förhandlar med medlarlandet Pakistan - Dagens Nyheter
+- Storbrand i hönseri – 48 000 höns brann inne - GP
 - Räddningsdykare omkommen – sökte efter döda - Västerbottens-Kuriren
-- SD kritiseras för flygblad – partier kräver avgång - Dagens Nyheter
-- Hennes son dog när rutinerna brast på kvinnokliniken - Sydsvenskan
+- DN Direkt – Propalestinsk demonstration inför Eurovisionsfinalen - Dagens Nyheter
 - Migrationspakten införs – flera svenska lagar saknas - Dagens Nyheter
-- Japanska kvinnor lever längre än svenskorna - kan bero på äldreomsrog - Sveriges Radio
+- Fäll ihop paraplyerna – sommarvärmen kommer tillbaka - Dagens Nyheter
 - Ny kapten på skuggfartyg anhållen - Corren
-- Tvillingar – största skiljedelaren av alla i barnomsorgen - Dagens Nyheter
-- Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
-- Tristan da Cunha – så hamnade isolerade vulkanön i världens blickfång - Dagens Nyheter
-- Polisinsats mot mc-miljön – 27 gripna i Norge - GP
-- Nya anfall mot Libanon - Västerbottens-Kuriren
+- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
+- Polisinsats mot mc-miljön – 27 gripna i Norge - Västerbottens-Kuriren
+- Sex personer dödade i Libanon - Hufvudstadsbladet – HBL
+- Knölvalen Timmy död – strandade vid dansk ö - Aftonbladet
 - Katrine Kielos: Därför kan investerarna missa AI:s riktiga vinnare - EFN
+- Telefonbedrägerier för 10 miljarder kronor. Nu skärper Google säkerheten - Dagens PS
 - Nu kan vi driva gruvor med – öl - Dagens PS
 - Signe Krantz: Svenska Dagbladet fattar inte kritiken mot Palantir - ETC.se
-- Elpriset i maj högsta sedan krisåret 2022 - Omni
+- Efter Swishlistan – friande dom står fast - Sundsvalls Tidning
 - SEGA visar upp läckra kontorsstolar - Teknikveckan
-- PS5 kan äntligen få en egen version av Steam Charts - Teknikveckan
 
 ## World News
 
@@ -107,7 +107,7 @@ _Updated: 2026-05-16 19:30_
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
+- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera Center for Digital Health and Precision Medicine i Indien. - Apollo Hospitals
 - E-hälsa inom EU - Läkartidningen
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
@@ -120,25 +120,25 @@ _Updated: 2026-05-16 19:30_
 ## Science
 
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -159,6 +159,6 @@ _Updated: 2026-05-16 19:30_
 - Framtidens jordbruk är här - EU Digital Strategy
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
