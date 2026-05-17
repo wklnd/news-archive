@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-17 20:42_
+_Updated: 2026-05-17 21:49_
 
-- Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios
-- White House to host mass prayer event to promote Christian origins of the US - France 24
-- Trump says 'clock is ticking' for Iran - Reuters
-- Taiwan representative to U.S. says "we want peace and stability," but "we're not the ones creating all this trouble" with China - CBS News
-- Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR
-- Tornadoes, damaging winds, hail threaten Minnesota on Sunday - Bring Me The News
-- Transcript: Former Defense Secretary Robert Gates on "Face the Nation with Margaret Brennan," May 17, 2026 - CBS News
+- Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC
+- Trump warns Iran to 'get moving' or 'there won’t be anything left' - CNBC
 - Massie’s primary is the most expensive in history. Pro-Israel groups have played a huge part. - Politico
 - Senate parliamentarian nixes Trump’s ballroom fund in budget bill - NBC News
-- On the voting rights trail, bus riders to Montgomery retrace old steps while fighting a new fight - AP News
+- UAE reports drone strike at nuclear power plant as Iran war deadlock endures - Reuters
 - How worrying is the Ebola outbreak in DR Congo? - BBC
-- ICC denies new arrest warrants for Israeli officials - The Jerusalem Post
-- Dead humpback whale off Denmark is 'Timmy' - dw.com
-- Gaza Hospital Says One Killed, Two Wounded in Israeli Strike - Haaretz
-- LIVE UPDATES: LIRR strike halts service systemwide. Here's what you need to know. - News12 | Long Island
-- Is it a problem if the Fed speaks too much? - CNN
-- 18 New Watches You Missed from Audemars Piguet x Swatch, Seiko, Timex and More - Gear Patrol
-- BlackRock Weighs Multibillion-Dollar Investment in SpaceX IPO - The Information
-- ASUS Demos Its First “ROG” DDR5 Memory Running at 8800 MT/s On Its Crosshair X870E APEX Motherboard - Wccftech
-- Apple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats - Bloomberg.com
+- PG&E to cut power in parts of Bay Area in anticipation of high winds - SFGATE
+- Workers racing to turn reflecting pool blue for Trump may be at risk, union warns - The Guardian
+- Trump Tightens Grasp on G.O.P. as Cassidy Loss Shows Cost of Defiance - The New York Times
+- Lula is trying to show the left how to deal with Trump - The Washington Post
+- Trump signals unity with Xi Jinping over Iran war as Tehran fails to push new deal - Fox News
+- Iran eyes a new source of power deep beneath the Strait of Hormuz - CNN
+- Late-night blast, fireball near Beit Shemesh rattles jittery residents - The Times of Israel
+- As global crises multiply, scores of US diplomats say they have been forced out - CNN
+- LIRR strike has many worrying about Monday's commute. Here's the latest. - CBS News
+- My Unemployed Husband Landed a Job by Bringing Doughnuts to an Office - Business Insider
+- ‘Q-Day’ is almost here. It could unleash a cybersecurity crisis far worse than Y2K - CNN
+- Experts sound alarm as North America’s bees start swarm season unusually early - The Guardian
+- Adam Driver has cheeky response when asked for comment on Lena Dunham's bombshell book - Yahoo
+- Tyson Fury’s 16-year-old daughter gets married in crocs — and heavyweight boxing champ beams - New York Post
