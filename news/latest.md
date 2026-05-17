@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-17 13:43_
+_Updated: 2026-05-17 14:39_
 
-- Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe - The New York Times
-- Trump returns from China with stability and a stalemate - Reuters
-- Senate parliamentarian deals blow to $1 billion security proposal for White House - AP News
-- Louisiana rejects Gov. Jeff Landry-backed amendments again - Louisiana Illuminator
-- WHO says Ebola outbreak in DRC and Uganda is ‘emergency’ of international concern - The Guardian
+- Trump sent a message by targeting Bill Cassidy. In defeat, Cassidy delivered one back - CNN
+- From beef ribs to a ‘heavenly’ walk: Xi-Trump summit symbolism underscored American power and Chinese tradition - The Conversation
 - To Critics, Trump Remarks Reveal a Billionaire Out of Touch - The New York Times
+- Senate parliamentarian deals blow to $1 billion security proposal for White House - AP News
+- Ukraine launches more than 500 drones at Russia in deadly overnight attack, authorities say - France 24
+- A “Scheme” Against Dobbs: SCOTUS Dissent Hints at Next Phase of Abortion Rights Fight - The Intercept
 - ‘They may draw racist maps, but we are the south’: thousands rally in Alabama for Black voting rights - The Guardian
-- UW student Juniper Blessing, 19, remembered as ‘full of life’ - The Seattle Times
-- Workers racing to turn reflecting pool blue for Trump may be at risk, union warns - The Guardian
-- At Supreme Court, Virginia Democrats Pressed Legal Theory Embraced by Trump - The New York Times
+- Venezuela says it deported a close ally of Maduro to face criminal proceedings in US - Politico
+- Louisiana rejects Gov. Jeff Landry-backed amendments again - Louisiana Illuminator
+- Lamar Alexander Wants Republicans to Stand Up to Trump - The New York Times
 - Man ploughs car into crowd in Italy before trying to stab them - BBC
-- In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months - The New York Times
-- Trump says Xi agrees Iran must open strait, but no sign China will weigh in - Reuters
-- Iran’s Seizure of Chinese Security Ship Shows Its Favors for Friends Have Limits - WSJ
+- Scuba diving Maldives accident: 5 scuba divers died in Maldives underwater cave; military rescue diver dies in search for 4 bodies - ABC7 Chicago
+- WHO declares international emergency over Ebola outbreak - dw.com
+- The foreign fighters who helped topple Assad — and why China worries about them - NPR
+- Rival Airlines Are Carving Up Spirit’s Routes and Airport Slots - WSJ
 - Shoppers’ Frenzy for ‘Royal Pop’ Pocket Watches Forces Swatch to Shut Stores - The New York Times
+- Oil markets may face moment of truth in June. Brace for a 'non-linear' price spike and panic buying - Fortune
 - LIRR strike shuts down nation's busiest commuter train line, union says 'we're far apart' - Gothamist
-- What we learned from the cringey courtroom drama between Elon Musk and Sam Altman - The Guardian
-- Ice cream sold in 17 states recalled over possible metal contamination - NBC News
 - Users turn to jailbreaking their older Kindles as Amazon ends support - TechCrunch
-- Humans in The Andes Have Evolved a Strange Digestive Superpower - ScienceAlert
+- A measles outbreak crossed into Mexico from Texas. A larger tragedy followed - CNN
