@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 23:27_
+_Updated: 2026-05-18 00:26_
 
 ## Top Stories
 
-- Sverige tog emot Indiens ledare med kunglig orden och Jas-plan - Dagens Nyheter
-- Zelenskyj: Attackerna mot Ryssland ”berättigade” - Västerbottens-Kuriren
-- Trumps nya hot mot Iran: Klockan tickar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trumps beslut Trump orsakar tysk skräck. USA:s militära roll i Tyskland ifrågasätts. - Svenska Dagbladet
-- Storbrand i hönseri – 48 000 höns brann inne - ATL.nu
+- Ukrainas drönare når allt längre in i Ryssland: ”Mer precisa” - Dagens Nyheter
+- Sverige och Indien lanserar ett strategiskt partnerskap - SVT Nyheter
+- Trump hotar Iran: ”Kommer inte finnas något kvar" - Västerbottens-Kuriren
+- Lula da Silva: Trump vet att jag är bättre än Bolsonaro - Dagens Nyheter
+- Trumps sändebud har landat på Grönland - Västerbottens-Kuriren
+- Varnar om ebola – kan sprida sig utanför Afrika - Expressen
 - Sverige ska bli friare och enklare med ny alkoholpolitik - Liberalerna
 - Nattlig klockringning i Falkenberg ett mysterium - Västerbottens-Kuriren
 - Fotbollsplanen ska vara en plats där barn jagar bollar — inte där kriminella jagar barn - Västerbottens-Kuriren
 - Ras i gruva utanför Lycksele – en person fast - Västerbottens-Kuriren
-- Så firades 17 maj i Oslo – Kronprinsessan tvingades avbryta - GP
 - Direkt – Kriget i Ukraina – Misstänkt ukrainsk drönare i Litauen - Dagens Nyheter
 - Tio människor ihjälskjutna i Mexiko - Västerbottens-Kuriren
-- Lula da Silva: Trump vet att jag är bättre än Bolsonaro - Dagens Nyheter
-- Bil körde in i personer i Oakland – tre döda - Aftonbladet
+- Attack mot kärnkraftverk i Förenade arabemiraten - GP
+- Tre dödade i israelisk drönarattack mot Gaza - Corren
 - Ekonom spår rekorddyr sommarel: ”Litet plåster” - Omni
 - Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
 - EDVARD HOLLERTZ: Politiker måste sluta curla vuxna - Corren
@@ -29,44 +29,44 @@ _Updated: 2026-05-17 23:27_
 
 - Global halvledarpress efter Trumps möte med Xi - EFN
 - Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern - World Health Organization (WHO)
+- VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Global recorded music revenue hit $31.7B in 2025 as paid streaming surged - Seeking Alpha
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Storbritannien trappar upp kampen mot deepfake - Omni
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -91,8 +91,8 @@ _Updated: 2026-05-17 23:27_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 - Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -142,7 +142,6 @@ _Updated: 2026-05-17 23:27_
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
@@ -151,14 +150,15 @@ _Updated: 2026-05-17 23:27_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
