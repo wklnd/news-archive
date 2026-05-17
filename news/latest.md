@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-17 19:40_
+_Updated: 2026-05-17 20:42_
 
-- Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC
-- Trade rep tries to walk back Trump's remarks on arms for Taiwan - Politico
-- Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR
+- Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios
 - White House to host mass prayer event to promote Christian origins of the US - France 24
-- At least 3 killed when car plows into pedestrians in East Oakland - KTVU
+- Trump says 'clock is ticking' for Iran - Reuters
+- Taiwan representative to U.S. says "we want peace and stability," but "we're not the ones creating all this trouble" with China - CBS News
+- Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR
 - Tornadoes, damaging winds, hail threaten Minnesota on Sunday - Bring Me The News
-- Hundreds of millions of dollars for Trump’s ballroom ruled out of order in Senate - The Washington Post
-- Thomas Massie’s Lonely and Expensive Fight Against Trump - WSJ
-- Thousands rally in birthplace of Civil Rights Movement to defend Black political representation - PBS
-- At Supreme Court, Virginia Democrats Pressed Legal Theory Embraced by Trump - The New York Times
-- UAE reports drone strike at nuclear power plant as Iran war deadlock endures - Reuters
-- WHO Declares Congo-Uganda Ebola Outbreak Global Health Emergency - Bloomberg.com
-- ICC denies it issued new warrants against Israeli officials, calls report inaccurate - Reuters
-- How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations? - Al Jazeera
+- Transcript: Former Defense Secretary Robert Gates on "Face the Nation with Margaret Brennan," May 17, 2026 - CBS News
+- Massie’s primary is the most expensive in history. Pro-Israel groups have played a huge part. - Politico
+- Senate parliamentarian nixes Trump’s ballroom fund in budget bill - NBC News
+- On the voting rights trail, bus riders to Montgomery retrace old steps while fighting a new fight - AP News
+- How worrying is the Ebola outbreak in DR Congo? - BBC
+- ICC denies new arrest warrants for Israeli officials - The Jerusalem Post
+- Dead humpback whale off Denmark is 'Timmy' - dw.com
+- Gaza Hospital Says One Killed, Two Wounded in Israeli Strike - Haaretz
+- LIVE UPDATES: LIRR strike halts service systemwide. Here's what you need to know. - News12 | Long Island
 - Is it a problem if the Fed speaks too much? - CNN
-- Losing Spirit Airlines was a major blow for Latrobe that highlighted the risks for regional airports - Pittsburgh Post-Gazette
-- LIRR strike shuts down nation's busiest commuter train line, union says 'we're far apart' - Gothamist
-- Hundreds line up at Oak Brook Center Mall for Swatch, Audemars Piguet Royal Pop Collection pocket watch, causing store closure - ABC7 Chicago
-- Asus Enters the RAM Market with "ROG Mode" 48GB DDR5-6000 CL26 Kit - Digital Foundry
-- Bill to block publishers from killing online games advances in California - Ars Technica
+- 18 New Watches You Missed from Audemars Piguet x Swatch, Seiko, Timex and More - Gear Patrol
+- BlackRock Weighs Multibillion-Dollar Investment in SpaceX IPO - The Information
+- ASUS Demos Its First “ROG” DDR5 Memory Running at 8800 MT/s On Its Crosshair X870E APEX Motherboard - Wccftech
+- Apple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats - Bloomberg.com
