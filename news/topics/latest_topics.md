@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 17:37_
+_Updated: 2026-05-17 19:32_
 
 ## Top Stories
 
 - Indiens premiärminister till Göteborg för toppmöte - GP
-- Indier död i Ukrainas attack - Dagens Nyheter
+- Zelenskyj: Attackerna mot Ryssland ”berättigade” - Västerbottens-Kuriren
+- Stökigt 17 maj-firande – slagsmål vid Burger King - Aftonbladet
 - Nya lastbilsrutter i krigets Mellanöstern – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Experter: Krimhalvön kan vara på väg att skäras av - Dagens Nyheter
 - Storbrand i hönseri – 48 000 höns brann inne - ATL.nu
 - Lägenhetsbrand i Boden – man i 30-årsåldern död - Sveriges Radio
-- Återvinningscentral stängde efter napalmlarm - Västerbottens-Kuriren
+- Misstänkt explosivt föremål i Umeå - Västerbottens-Kuriren
 - Momikas mördare kan gå fri: ”Risken finns” - GP
-- Stor anti-NATO demonstration i Helsingborg – över 1000 deltagare! - RiktpunKt.nu
-- 17 maj 07.02, Sammanfattning natt, Västra Götalands län - Polisen.se
-- DN Direkt – Finska dykare deltar i sökinsats efter dödsolycka på Maldiverna - Dagens Nyheter
+- Nattlig klockringning i Falkenberg ett mysterium - Västerbottens-Kuriren
+- Poliser i region Nord om gängrekrytering: ”Måste göra mer” - Västerbottens-Kuriren
+- Studenter och politiker kampanjar för en klimat-resolution från FN - Sveriges Radio
 - Bil körde in i personer i Oakland – tre döda - Aftonbladet
-- Norska Equinors mångmiljardvinst – nu lyfts krav - Sveriges Radio
-- Meloni ställer in resa – hälsar på skadade i Modena - Västerbottens-Kuriren
-- Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
-- Lastbilsjättar fick hjälp efter möte med Kristersson - Omni
+- Meloni ställer in resa – hälsar på skadade i Modena - GP
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
 - Teknikrallyt utmanas när räntorna stiger - EFN
-- Mercedes svenske vd öppnar för vapentillverkning - Carup.se
+- Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
+- Ekonom spår rekorddyr sommarel: ”Litet plåster” - Omni
+- Ny robot kan både bära människor och slå genom hinder - Dagens PS
 - Mina Asp Romefors: 25 år senare – nu skapar Ipoden mani på nytt - Dagens Nyheter
 - Här är de fem bästa buden på rymdskepp som ska föra människor till andra stjärnor - Illustrerad Vetenskap
 
 ## World News
 
+- Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern - World Health Organization (WHO)
+- VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global halvledarpress efter Trumps möte med Xi - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Chefen för Scotland Yard avgår - Sveriges Radio
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Techarenan News goes English (Partly at least) - Techarenan.news
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -100,6 +100,7 @@ _Updated: 2026-05-17 17:37_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
@@ -115,30 +116,29 @@ _Updated: 2026-05-17 17:37_
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -152,8 +152,8 @@ _Updated: 2026-05-17 17:37_
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
