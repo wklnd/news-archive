@@ -1,72 +1,72 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 22:25_
+_Updated: 2026-05-17 23:27_
 
 ## Top Stories
 
-- Sverige tog emot Indiens ledare med kunglig orden och Jas Gripen i luften - Dagens Nyheter
+- Sverige tog emot Indiens ledare med kunglig orden och Jas-plan - Dagens Nyheter
 - Zelenskyj: Attackerna mot Ryssland ”berättigade” - Västerbottens-Kuriren
 - Trumps nya hot mot Iran: Klockan tickar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trumps beslut Trump orsakar tysk skräck. USA:s militära roll i Tyskland ifrågasätts. - Svenska Dagbladet
 - Storbrand i hönseri – 48 000 höns brann inne - ATL.nu
 - Sverige ska bli friare och enklare med ny alkoholpolitik - Liberalerna
 - Nattlig klockringning i Falkenberg ett mysterium - Västerbottens-Kuriren
-- Poliser i region Nord om gängrekrytering: ”Måste göra mer” - Västerbottens-Kuriren
-- Ras i Kristinebergsgruvan i Lycksele – en person fast - SVT Nyheter
+- Fotbollsplanen ska vara en plats där barn jagar bollar — inte där kriminella jagar barn - Västerbottens-Kuriren
+- Ras i gruva utanför Lycksele – en person fast - Västerbottens-Kuriren
 - Så firades 17 maj i Oslo – Kronprinsessan tvingades avbryta - GP
 - Direkt – Kriget i Ukraina – Misstänkt ukrainsk drönare i Litauen - Dagens Nyheter
-- Bil körde in i personer i Oakland – tre döda - Aftonbladet
 - Tio människor ihjälskjutna i Mexiko - Västerbottens-Kuriren
 - Lula da Silva: Trump vet att jag är bättre än Bolsonaro - Dagens Nyheter
-- Teknikrallyt utmanas när räntorna stiger - EFN
+- Bil körde in i personer i Oakland – tre döda - Aftonbladet
 - Ekonom spår rekorddyr sommarel: ”Litet plåster” - Omni
 - Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
 - EDVARD HOLLERTZ: Politiker måste sluta curla vuxna - Corren
+- Svenska kronan sämst bland de stora valutorna - Tidningen Näringslivet
 - Mina Asp Romefors: 25 år senare – nu skapar Ipoden mani på nytt - Dagens Nyheter
-- Knarkhandel styrdes från dator på Migrationsverket - Sundsvalls Tidning
+- Samsung testar internetblockering i One UI 9 - mobil.se
 
 ## World News
 
 - Global halvledarpress efter Trumps möte med Xi - EFN
 - Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern - World Health Organization (WHO)
-- VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global recorded music revenue hit $31.7B in 2025 as paid streaming surged - Seeking Alpha
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- Chefen för Scotland Yard avgår - Sveriges Radio
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -75,47 +75,47 @@ _Updated: 2026-05-17 22:25_
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Consid takes on the German market - Via TT
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Asker Healthcare Group AB: Förvärv av RMS Medical Devices (Cision) - Aktiellt
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Enheten för radiologi - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- E-hälsa inom EU - Läkartidningen
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 
 ## Science
 
@@ -156,9 +156,9 @@ _Updated: 2026-05-17 22:25_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - EU Digital Strategy
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
