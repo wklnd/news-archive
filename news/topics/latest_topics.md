@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 03:23_
+_Updated: 2026-05-17 07:11_
 
 ## Top Stories
 
 - Personer fick sjukhusvård efter gruppbråk i Söderhamn - Expressen
-- Ukraina bombar ryska mål 100 mil från fronten: ”Långdistanssanktioner” - Omni
-- Kritik mot attackerna: ”Det är inga Escobars” - Svenska Dagbladet
-- Läkarens oro efter nya ebolautbrottet - Expressen
+- Larm om nya ebolautbrottet: Mycket hög dödlighet - Sydsvenskan
+- Svenska fiaskot i Eurovision – sämsta på 16 år - Aftonbladet
 - DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
-- Hizbollah: Träffat mål i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ny kapten på skuggfartyg anhållen - Corren
-- Spelkortsbutik vill sälja öl och vin: ”Varit efterfrågat” - VF
-- Vänsterpartiet: Utred skatt på dyra villor – Senaste nytt om valet 2026 - SVT Nyheter
-- EDVARD HOLLERTZ: Politiker måste sluta curla vuxna - Corren
-- Här ska Trumps omstridda skulpturpark byggas - Västerbottens-Kuriren
-- Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
-- Bilist har kört in i folkmassa i Italien - GP
-- Sex personer dödade i Libanon - hbl.fi
-- Johan Jenny Ehrenberg: Vad ska vi göra med alla bolag som snart blir värdelösa? - ETC.se
-- Volkswagen ID. Polo GTI – så snabb är första eldrivna GTI-modellen - Elbilen
-- Palantir får nobben av underrättelsetjänst – väljer franskt - Dagens PS
-- Carlsson borde gjort som Kamprad – inte tiggt pengar från skatte­betalarna - Världen idag
-- Microsoft testar et flyttbart aktivitetsfält och en ny Startmeny för Windows 11 - Teknikveckan
-- Sony WF-1000XM6 är nära perfektion i fickformat - Teknikveckan
+- Bil har körts in i folkmassa i Italien - SVT Nyheter
+- Klart: Bulgarien vinner Eurovision song contest - Svenska Dagbladet
+- Linnea, 24, valde bort sociala medier: ”Ville ta makten över mitt liv och min tid” - Dagens Nyheter
+- Hjärnforskaren: Så får du bättre koncentrationsförmåga - Dagens Nyheter
+- Larm om smäll – bilar i brand - GP
+- Ny lag mot invasiva arter – ”Nu är det dags att se över vad man har på sin mark” - Dagens Nyheter
+- WHO utlyser nödläge efter ebolautbrott - Expressen
+- Vuxen misstänks för stryptag på mindreårig - Expressen
+- Allvarlig olycka i Åre – två till sjukhus - Aftonbladet
+- Flera döda efter att godståg kört in i buss i Bangkok - Expressen
+- Så lobbar Scania och Volvo för sänkta klimatkrav - Dagens Nyheter
+- Köp börsikonen före förvandlingen - Dagens industri
+- Bilen som kan bli en ny storfavorit - GP
+- Protest mot tävlingen i spansk public service - Omni
+- Hittades dumpad i ravin – nya fynd kan ge svar 46 år senare - Aftonbladet
+- Dagen efter premiären hörde kvinnan av sig - Svenska Dagbladet
 
 ## World News
 
 - Global halvledarpress efter Trumps möte med Xi - EFN
 - Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern - World Health Organization (WHO)
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 03:15 - Tv.nu
 - VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -46,19 +45,20 @@ _Updated: 2026-05-17 03:23_
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -102,42 +102,42 @@ _Updated: 2026-05-17 03:23_
 - Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - Vi presenterar ChatGPT Health - OpenAI
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Apollo University och Apollo Hospitals samarbetar med University of Leicester för att etablera ett centrum för digital hälsa och precisionsmedicin i Indien. - Apollo Hospitals
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
@@ -147,18 +147,18 @@ _Updated: 2026-05-17 03:23_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk är här - EU Digital Strategy
 - Jordbrukspolitik - Naturvårdsverket
+- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL.nu
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Lediga jobb - Land Lantbruk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
