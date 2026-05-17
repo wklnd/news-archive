@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-17 21:49_
+_Updated: 2026-05-17 23:37_
 
-- Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC
-- Trump warns Iran to 'get moving' or 'there won’t be anything left' - CNBC
-- Massie’s primary is the most expensive in history. Pro-Israel groups have played a huge part. - Politico
-- Senate parliamentarian nixes Trump’s ballroom fund in budget bill - NBC News
-- UAE reports drone strike at nuclear power plant as Iran war deadlock endures - Reuters
-- How worrying is the Ebola outbreak in DR Congo? - BBC
-- PG&E to cut power in parts of Bay Area in anticipation of high winds - SFGATE
-- Workers racing to turn reflecting pool blue for Trump may be at risk, union warns - The Guardian
-- Trump Tightens Grasp on G.O.P. as Cassidy Loss Shows Cost of Defiance - The New York Times
-- Lula is trying to show the left how to deal with Trump - The Washington Post
-- Trump signals unity with Xi Jinping over Iran war as Tehran fails to push new deal - Fox News
-- Iran eyes a new source of power deep beneath the Strait of Hormuz - CNN
-- Late-night blast, fireball near Beit Shemesh rattles jittery residents - The Times of Israel
-- As global crises multiply, scores of US diplomats say they have been forced out - CNN
-- LIRR strike has many worrying about Monday's commute. Here's the latest. - CBS News
-- My Unemployed Husband Landed a Job by Bringing Doughnuts to an Office - Business Insider
-- ‘Q-Day’ is almost here. It could unleash a cybersecurity crisis far worse than Y2K - CNN
-- Experts sound alarm as North America’s bees start swarm season unusually early - The Guardian
-- Adam Driver has cheeky response when asked for comment on Lena Dunham's bombshell book - Yahoo
-- Tyson Fury’s 16-year-old daughter gets married in crocs — and heavyweight boxing champ beams - New York Post
+- Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios
+- Crowds pack into Washington's National Mall for prayer rally - PBS
+- Midair jet collision forces lockdown at Idaho Air Force base show - NBC News
+- Trump warns 'clock is ticking' for Iran as peace progress stalls - BBC
+- Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry - The White House (.gov)
+- UAE reports drone strike at nuclear power plant as Iran war deadlock persists - Reuters
+- Trump attacks Massie as Republican critic describes ‘desperate’ attempts to oust him from primary - The Guardian
+- Transcript: Former Defense Secretary Robert Gates on "Face the Nation with Margaret Brennan," May 17, 2026 - CBS News
+- China to buy at least $17 billion in US agricultural products annually, White House says - Reuters
+- The Comey family vs. DOJ - Politico
+- Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR
+- Runoff in Peru Offers Two Starkly Differing Visions for the Nation - The New York Times
+- Gaza Hospital Says One Killed, Two Wounded in Israeli Strike - Haaretz
+- A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo - NPR
+- New York rail strike continues as commuters brace for Monday chaos - BBC
+- Mayhem breaks out at Swatch stores as fans rush to nab its Audemars Piguet pocket watch collab - Business Insider
+- The top foreign holders of US debt may soon dump Treasury bonds and bring their money back home - Fortune
+- These hidden forces are driving the runaway stock-market rally - MarketWatch
+- Apple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats - Bloomberg.com
+- Users turn to jailbreaking their older Kindles as Amazon ends support - TechCrunch
