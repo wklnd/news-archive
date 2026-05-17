@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 20:36_
+_Updated: 2026-05-17 22:25_
 
 ## Top Stories
 
-- Ras i Kristinebergsgruvan i Lycksele – en person har fastnat - SVT Nyheter
-- De välkomnade Modi till Göteborg: ”Vi har alla gåshud” - GP
-- Trump hotar Iran: ”Kommer inte finnas något kvar" - Västerbottens-Kuriren
-- Zelenskyj: Attackerna mot Ryssland ”berättigade” - Hufvudstadsbladet – HBL
+- Sverige tog emot Indiens ledare med kunglig orden och Jas Gripen i luften - Dagens Nyheter
+- Zelenskyj: Attackerna mot Ryssland ”berättigade” - Västerbottens-Kuriren
+- Trumps nya hot mot Iran: Klockan tickar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trumps beslut Trump orsakar tysk skräck. USA:s militära roll i Tyskland ifrågasätts. - Svenska Dagbladet
+- Storbrand i hönseri – 48 000 höns brann inne - ATL.nu
 - Sverige ska bli friare och enklare med ny alkoholpolitik - Liberalerna
 - Nattlig klockringning i Falkenberg ett mysterium - Västerbottens-Kuriren
-- Momikas mördare kan gå fri: ”Risken finns” - GP
-- Återvinningscentral stängde efter napalmlarm - Västerbottens-Kuriren
 - Poliser i region Nord om gängrekrytering: ”Måste göra mer” - Västerbottens-Kuriren
-- Studenter och politiker kampanjar för en klimat-resolution från FN - Sveriges Radio
+- Ras i Kristinebergsgruvan i Lycksele – en person fast - SVT Nyheter
+- Så firades 17 maj i Oslo – Kronprinsessan tvingades avbryta - GP
+- Direkt – Kriget i Ukraina – Misstänkt ukrainsk drönare i Litauen - Dagens Nyheter
 - Bil körde in i personer i Oakland – tre döda - Aftonbladet
 - Tio människor ihjälskjutna i Mexiko - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ryssland: Vill prata med Europa - Dagens Nyheter
+- Lula da Silva: Trump vet att jag är bättre än Bolsonaro - Dagens Nyheter
 - Teknikrallyt utmanas när räntorna stiger - EFN
 - Ekonom spår rekorddyr sommarel: ”Litet plåster” - Omni
-- Ny robot kan både bära människor och slå genom hinder - Dagens PS
 - Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
+- EDVARD HOLLERTZ: Politiker måste sluta curla vuxna - Corren
 - Mina Asp Romefors: 25 år senare – nu skapar Ipoden mani på nytt - Dagens Nyheter
-- LIVET: Så undviker du semesterstressen: ”Jämför dig inte med andra” - NWT
+- Knarkhandel styrdes från dator på Migrationsverket - Sundsvalls Tidning
 
 ## World News
 
@@ -38,27 +38,27 @@ _Updated: 2026-05-17 20:36_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Chefen för Scotland Yard avgår - Sveriges Radio
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -120,25 +120,25 @@ _Updated: 2026-05-17 20:36_
 ## Science
 
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-05-17 20:36_
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - EU Digital Strategy
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
