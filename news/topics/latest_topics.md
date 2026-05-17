@@ -1,64 +1,64 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-17 09:55_
+_Updated: 2026-05-17 12:08_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Ryssland: Fyra dödade i drönarattack i Moskva - Dagens Nyheter
-- Hizbollah: Träffat mål i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Martin Bech Holte om varför det går utför med Norge: ”Vi såg svenskarna som vårt tjänstefolk” - Dagens Nyheter
-- Saab deporterad till USA - Expressen
 - Kristersson och Modi: Utsläpp känner inga gränser - Västerbottens-Kuriren
-- Röstade för att fälla Trump - utslagen i primärval - GP
-- Linnea, 24, valde bort sociala medier: ”Ville ta makten över mitt liv och min tid” - Dagens Nyheter
-- Hjärnforskaren: Så får du bättre koncentrationsförmåga - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Ryssland: Fyra dödade i drönarattack i Moskva - Dagens Nyheter
+- Mette Marit får syrgas under 17 maj-firande - Västerbottens-Kuriren
+- Experter: Krimhalvön kan vara på väg att skäras av - Dagens Nyheter
+- Politikerna slarvar bort valfrågan - Svenska Dagbladet
+- Hizbollah: Träffat mål i Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kraftig brand i lägenhet i Boden - SVT Nyheter
+- Sverige jobbsämst i EU – dolda siffran ändrar allt - UNT
 - ”Öka tryggheten på Umeås idrottsplatser” - Västerbottens-Kuriren
-- Stökig natt efter Springmeet – ett 30-tal omhändertagna - SVT Nyheter
-- Juri von Bonsdorff Dominant Xi pressade Trump på toppmötet mellan USA och Kina - Hufvudstadsbladet – HBL
-- Streeting bekräftar: Vill utmana Starmer - SVT Nyheter
-- Polisjakt i centrala Vetlanda – A‑traktor i över 100 km/h - SVT Nyheter
-- Flera skadade efter bråk i Söderhamn – tre har anhållits - Sveriges Radio
-- Ny statistik vänder bilden: Sveriges unga bland de mest sysselsatta i EU - Börskollen
+- 17 maj 07.30, Sammanfattning natt, Värmlands län - Polisen.se
+- Norska Equinors mångmiljardvinst – nu lyfts krav - Sveriges Radio
+- Här ska Trumps omstridda skulpturpark byggas - Sydsvenskan
+- Meloni ställer in resa – hälsar på skadade i Modena - GP
+- DN Direkt – Trump varnar Taiwan: Utropa inte självständighet - Dagens Nyheter
 - Lastbilsjättar fick hjälp efter möte med Kristersson - Omni
 - Inga nya undantag för sanktioner mot rysk olja - Aftonbladet
-- Bentley avslöjar nya lyxsuven inspirerad av alpstugor - Dagens PS
-- Jennys spännande liv – hittade hem i Sjuhärad: ”Börja om” - Borås Tidning
-- Microsoft testar et flyttbart aktivitetsfält och en ny Startmeny för Windows 11 - Teknikveckan
+- Elpriset i maj: Värsta sedan krisen 2022 - Bulletin
+- Från tidigt uttag till utlandsflytt – besluten som avgör din pension - Dagens PS
+- Maria Nila lanserar Mirror Gloss – nya serien som ger glashår hemma - Metro Mode
+- Robotar lockade besökarna till Epson - Sign&Print
 
 ## World News
 
 - Global halvledarpress efter Trumps möte med Xi - EFN
+- VM 2026: Shakira samarbetar med Burna Boy för att skapa en global sensation. - Vietnam.vn
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - AJGA IPS 2026: "Talangfulla unga talanger - global status" stärker unga vietnamesiska golfare - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
 - News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan.news
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -106,13 +106,13 @@ _Updated: 2026-05-17 09:55_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
@@ -153,7 +153,7 @@ _Updated: 2026-05-17 09:55_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Lediga jobb - Land Lantbruk
