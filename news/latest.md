@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-17 03:29_
+_Updated: 2026-05-17 07:33_
 
-- Live results: Cassidy fights for political life in Louisiana Senate GOP primary - The Hill
-- Trump returns from China with stability and a stalemate - Reuters
-- Virginia’s new House map is dead. Democrats think they can still flip these seats. - The Washington Post
+- Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe - The New York Times
+- Federal funding for Trump’s $400m ballroom in jeopardy after Senate ruling - The Guardian
+- Trump says Iran war is worth the economic pain. These rural voters agree. - Reuters
 - Colorado governor faces backlash over clemency for 2020 election denier Tina Peters - BBC
-- Israel Kills Hamas’s ‘Ghost’ After Years of Failed Attempts - WSJ
-- Trump says Islamic State group leader was killed in a joint US-Nigerian mission - AP News
-- ‘Democracy is not a spectator sport’: Cory Booker at voting rights rally in Alabama - CNN
-- World's largest aircraft carrier returns from 11-month deployment, longest since Vietnam War - Fortune
-- Kansas Judge Blocks Law Banning Gender-Transition Treatments for Youths - The New York Times
+- Trump returns to the U.S. from China with pressure over rising inflation - PBS
+- ‘They may draw racist maps, but we are the south’: thousands rally in Alabama for Black voting rights - The Guardian
 - Voters in Louisiana Head to the Polls, Uncertain but Determined - The New York Times
+- Venezuela says it deported a close ally of Maduro to face criminal proceedings in US - AP News
+- Kansas Judge Blocks Law Banning Gender-Transition Treatments for Youths - The New York Times
+- Severe Storms to Bring Strong Winds and Hail to Central United States - The New York Times
+- IDF confirms Hamas Gaza chief Izz al-Din al-Haddad killed in airstrike - The Times of Israel
 - Humpback whale released after spectacular rescue effort found dead off Denmark - AP News
-- Thousands hit London streets for "Unite the Kingdom" march organized by far-right activist Tommy Robinson - CBS News
-- A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo - NPR
-- Car Plows Into Pedestrians in Northern Italian Town, Injuring at Least 8 - The New York Times
+- WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern - The Guardian
+- Iran’s Seizure of Chinese Security Ship Shows Its Favors for Friends Have Limits - WSJ
+- 6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Years to Come - The Motley Fool
+- Shoppers’ Frenzy for ‘Royal Pop’ Pocket Watches Forces Swatch to Shut Stores - The New York Times
+- SpaceX Is Reportedly Getting Ready To Go Public As Early As June - Engadget
 - Oil markets may face moment of truth in June. Brace for a 'non-linear' price spike and panic buying - Fortune
-- BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports - Reuters
-- Swatch stores shutter amid long lines for highly anticipated collaboration release - NBC News
-- LIRR Labor Strike Shuts Down Busiest U.S. Passenger Rail Service - The New York Times
-- Fitbit Air: 24 Hours Later First Impressions - DC Rainmaker
-- ArXiv will ban researchers who upload papers full of AI slop - The Verge
+- Sony's explanation for its embarrassing AI photos just leaves more questions - Android Authority
+- Google’s Android Upgrade—Why You Need A New Phone In 2026 - Forbes
