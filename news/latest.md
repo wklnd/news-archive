@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-18 16:43_
+_Updated: 2026-05-18 19:19_
 
-- Trump drops $10 billion lawsuit against IRS - CNBC
+- Justice Department announces a $1.7B fund to compensate Trump allies in a deal to drop IRS suit - AP News
 - State judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case - CNBC
-- Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects - The New York Times
-- Fighter jets crash in midair during air show at Idaho Air Force base, crew eject safely: "A lot of luck involved" - CBS News
-- Iran war live: Tehran says talks ongoing through Pakistan - Al Jazeera
-- Why the Supreme Court's voting rights ruling could play a big role at the local level - NPR
-- In Kentucky, Fidelity to Trump Is Once Again on the Ballot - The New York Times
-- Washington prayer rally draws thousands to the National Mall, in photos - AP News
-- Redistricting debate shifts to South Carolina as Republicans seek clean sweep of US House seats - AP News
-- Former school official returns to court for case of 6-year-old who shot teacher - NBC News
-- Divers find bodies of 4 Italians in Maldives sea cave - CBS News
+- Trump appears poised to restart the Iran war - Responsible Statecraft
+- 2 Americans Detained in Japan After Entering Punch the Monkey’s Zoo Enclosure - The New York Times
+- WHO to give update on hantavirus and Ebola after outbreaks - BBC
+- Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency - NPR
+- Donald Trump’s approval rating sinks to lowest point of second term - The Guardian
+- Four crew members eject safely after two Navy jets crash during air show in Idaho - The Boston Globe
+- Supreme Court puts off fight over who can sue to enforce what’s left of the Voting Rights Act - CNN
+- Over 100,000 Family Separations in Deportation Push, Report Estimates - The New York Times
+- Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East - The New York Times
+- Italy’s foreign minister says divers found bodies of 4 Italians in Maldives sea cave - AP News
 - Drone strikes UAE nuclear plant highlighting risk of renewed war - NPR
-- These are the 3 drones Ukraine used to pierce Moscow's air defense gauntlet in its biggest attack yet - Business Insider
-- WATCH: Israel begins boarding Gaza-bound Turkish flotilla boats - The Jerusalem Post
-- NextEra strikes $66.8 billion deal for Dominion in bets on AI power demand - Reuters
+- Escaped tiger shot by police after attacking man near Leipzig - BBC
+- New York commuters face rush-hour chaos in first major rail strike in 30 years - BBC
+- NextEra Energy strikes $66.8 billion deal for Dominion in bets on AI power demand - Reuters
+- Live Updates: Iran war "re-escalation risks," new Trump threat keep oil prices high as diplomacy staggers on - CBS News
 - Lululemon calls founder’s ideas ‘misguided’ in public letter - CNN
-- US Long Bond Yield Hits Highest Since 2023 on Inflation Concern - Bloomberg.com
-- Trump says he should've asked for 'more' of Intel when negotiating stake with CEO - CNBC
-- The Foldable iPhone is Finally Real: 6 Massive Upgrades Revealed - Geeky Gadgets
-- Samsung Plans To Transform Your Smartphone & Tablet Into On-Device AI Powerhouses With High-Bandwidth Memory Chips Using Complex Packaging - Wccftech
+- Gradient Google icon redesign starts rolling out - 9to5Google
+- LinkedIn Doesn't Want Your AI Slop Anymore - Engadget
