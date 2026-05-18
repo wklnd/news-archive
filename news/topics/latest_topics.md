@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-18 22:13_
+_Updated: 2026-05-18 23:46_
 
 ## Top Stories
 
 - Derbyt mellan Öis och IFK Göteborg avbryts – spelas inte klart under måndagen - GP
-- Direkt – Krisen i Mellanöstern – Trump skjuter upp attack mot Iran - Dagens Nyheter
+- Tre döda i skottlossning vid moské i USA - Västerbottens-Kuriren
 - Ukraina: Minst en död i massiv rysk attack - Västerbottens-Kuriren
-- Utredning: Inför skattelättnader för gåvor till kulturen - SVT Nyheter
-- SD öppnar för att stoppa tonårsutvisningar - GP
-- Kristersson om Natomötet: ”Inget läxförhör” - GP
-- Viktigt att tänka på inför studenten - Polisen.se
-- Het debatt om kvalificering till välfärden: "Det är ren klasspolitik" - tidningensyre.se
-- Sverige sluter avtal med Indien – EU vill följa efter - Europaportalen
-- V vill beskatta miljardärer som lämnar Sverige - Bulletin
-- WHO: Ebolautbrottet i Uganda och Kongo utgör en folkhälsokris - Unric
+- Hålet i skyskrapan sprider oro i Moskva - Svenska Dagbladet
 - Republikanen som trotsar Trump går mot sitt livs strid - Dagens Nyheter
-- Expert om stoppade amerikanska soldater: ”Nato har blivit en zombie” - Dagens Nyheter
+- Trump: ”Seriösa förhandlingar” på gång med Iran - Västerbottens-Kuriren
+- SD öppnar för att stoppa tonårsutvisningar - GP
+- Kristersson vill pressa Andersson om skatter - Västerbottens-Kuriren
+- Man häktad för anstiftan till mordvåg - Västerbottens-Kuriren
+- Viktigt att tänka på inför studenten - Polisen.se
+- Protester mot höga bränslepriser i Kenya – fyra döda - Sveriges Radio
+- WHO utlyser nödläge efter ebolautbrott - TTELA
+- Två stridsflygplan kolliderade på uppvisning - Dagens Nyheter
 - Helikoptern kan bränna gräset – omdiskuterad plattform kan finnas redan till sommaren - Dagens Nyheter
 - Elon Musk förlorar mål mot Sam Altman - Dagens industri
-- Vill bygga kärnkraft utanför Gävle: ”Kostsamt i början” - Omni
+- Han styr på elitskolan: ”Inte exklusiv” - Svenska Dagbladet
 - Aleris säljs till finsk koncern - Altinget.se
-- Afv: SBB är största vinnaren på samgåendet mellan Sveafastigheter och Klarabo - Placera.se
+- Inter Ikea skär ned med 850 tjänster globalt - Börsvärlden
 - Detta tas upp i kommunfullmäktige den 19 maj - Helsingborgs stad
 - Kliv in i månlandningarna – ett vetenskapligt tidsdokument om människans första steg bortom jorden - Notified
 
@@ -29,37 +29,37 @@ _Updated: 2026-05-18 22:13_
 
 - Kritisk punkt närmar sig för global oljekris - Dagens industri
 - Bränslekrisen går mot kritisk vändpunkt i sommar: ”Risk för global recession” - Omni
+- Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global halvledarpress efter Trumps möte med Xi - EFN
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Reseprofiler blir partner för Connect Worldwide - travelnews-se
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Storbritannien trappar upp kampen mot deepfake - Omni
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
-- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -100,22 +100,22 @@ _Updated: 2026-05-18 22:13_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Diamyd Medical erhåller Notice of Allowance för ett centralt amerikanskt patent avseende retogatein - it-halsa.se
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - E-hälsa inom EU - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Förbättrar ChatGPT för vårdpersonal - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Institutionen för lärande, informatik, management och etik i fokus - Karolinska Institutet
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-05-18 22:13_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 
 ## Jordbruk
 
@@ -150,10 +150,9 @@ _Updated: 2026-05-18 22:13_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
@@ -162,3 +161,4 @@ _Updated: 2026-05-18 22:13_
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Lediga jobb - Land Lantbruk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
