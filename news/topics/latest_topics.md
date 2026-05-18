@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-18 12:46_
+_Updated: 2026-05-18 16:41_
 
 ## Top Stories
 
-- Man död efter olycka med elsparkcykel - Aftonbladet
-- Uppsagda rebellmamman inför rättegången: ”Uppenbart maktmissbruk” - Dagens Nyheter
-- Politiker varnar: Bidragstak kan öka ungas kriminalitet - Omni
-- Son till Curt Bergfors död i trafikolycka på Mallorca - Kuriren
-- Varnar för ”polykriser”: Behöver en yttre fiende - Svenska Dagbladet
-- Hon våldtogs av en granne: ”De sa att det som hänt var mitt fel” - Dagens Nyheter
-- DN Direkt – Rekordförsäljning av majblommor i år - Dagens Nyheter
-- Tre barn omhändertogs – då startade terrorkampanj - Dagens Nyheter
-- Pekas ut som sektledare – manade till självmord - Corren
+- Direkt – Krisen i Mellanöstern – Aktivistbåtar stoppade av israelisk militär - Dagens Nyheter
 - Sverige sluter avtal med Indien – EU vill följa efter - Europaportalen
-- USA och Nigeria i nya attacker mot IS - GP
-- Tiger på rymmen skjuten av polis - Västerbottens-Kuriren
-- Trump hotar Iran: ”Kommer inte finnas något kvar" - Corren
-- Ukraina: Minst en död i massiv rysk attack - Västerbottens-Kuriren
-- Triton säljer Aleris till finsk vårdjätte - Dagens industri
-- Ryanairs vinst ökar kraftigt trots Irankriget - Omni
-- Hemnet tappar 20% – ny betalmodell spökar - Affärsvärlden
-- 850 tjänster försvinner på Ikea – runt 300 i Sverige - SVT Nyheter
-- ”15–20 miljoner i rullstol skulle ha nytta av detta” - Svenska Dagbladet
-- ”Det är lite som att gå på Harvard” - Svenska Dagbladet
+- Ledare: Sorry – Forssells krokodiltårar kommer inte heller övertyga kvinnor att rösta på M - VF
+- Fyra saknade italienska dykare hittade döda - Västerbottens-Kuriren
+- Norge kastar ut ytterligare två kriminella svenskar - Omni
+- Man i 25-årsåldern död efter olycka med elsparkcykel - Sveriges Radio
+- Utrikesministern inför Natomötet: Ett större ansvar - SVT Nyheter
+- Friluftsfrämjandet: Så kan naturen stärka folkhälsan - Altinget.se
+- Ukraina krossade Sverige med drönare: ”Bara bra” - Corren
+- Nya snusregler? EU ser över tobaksdirektiv - Vimmerby Tidning
+- Michael Winiarski: Trumps senaste besked är ett slag i ansiktet för Polen - Dagens Nyheter
+- Ukraina: Minst en död i massiv rysk attack - GP
+- Hon våldtogs av en granne: ”De sa att det som hänt var mitt fel” - Dagens Nyheter
+- Donald Trump i Kina - 8 Sidor
+- Vill bygga kärnkraft utanför Gävle: ”Kostsamt i början” - Omni
+- Nedjusterade inflationsförväntningar hos penningmarknadens aktörer - Börskollen
+- Malmö hårt drabbat av nytt Ikea-varsel - Sveriges Radio
+- Sebastian byggde egen elbil och värmer huset med frityrolja - Dagens Nyheter
+- Detta tas upp i kommunfullmäktige den 19 maj - Helsingborgs stad
+- Kliv in i månlandningarna – ett vetenskapligt tidsdokument om människans första steg bortom jorden - Notified
 
 ## World News
 
+- Kritisk punkt närmar sig för global oljekris - Dagens industri
 - Bränslekrisen går mot kritisk vändpunkt i sommar: ”Risk för global recession” - Omni
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global halvledarpress efter Trumps möte med Xi - EFN
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Kritisk punkt närmar sig för global oljekris - Dagens industri
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
+- News of the Worlds reportrar kan få nya jobb - Journalisten
 
 ## Technology
 
@@ -66,33 +66,33 @@ _Updated: 2026-05-18 12:46_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Consid takes on the German market - Via TT
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
@@ -108,14 +108,14 @@ _Updated: 2026-05-18 12:46_
 - Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Förbättrar ChatGPT för vårdpersonal - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Stor EU-satsning på utveckling av AI inom hälso- och sjukvården - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Enheten för radiologi - Karolinska Institutet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -132,8 +132,8 @@ _Updated: 2026-05-18 12:46_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- En marsch för vetenskap och forskning! - Institutet för framtidsstudier
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
@@ -152,13 +152,13 @@ _Updated: 2026-05-18 12:46_
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- De blev grönsaksodlare tack vare lokalt stöd - Tidningen Land
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Lediga jobb - Land Lantbruk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Lediga jobb - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
