@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-18 23:46_
+_Updated: 2026-05-19 01:37_
 
 ## Top Stories
 
-- Derbyt mellan Öis och IFK Göteborg avbryts – spelas inte klart under måndagen - GP
-- Tre döda i skottlossning vid moské i USA - Västerbottens-Kuriren
-- Ukraina: Minst en död i massiv rysk attack - Västerbottens-Kuriren
+- Skottlossning vid moské i USA – stor polisinsats - GP
+- Hett om skatter: ”Vänstern vill jaga rika ur landet” - Västerbottens-Kuriren
 - Hålet i skyskrapan sprider oro i Moskva - Svenska Dagbladet
 - Republikanen som trotsar Trump går mot sitt livs strid - Dagens Nyheter
+- Kristersson om Natomötet: ”Inget läxförhör” - GP
 - Trump: ”Seriösa förhandlingar” på gång med Iran - Västerbottens-Kuriren
 - SD öppnar för att stoppa tonårsutvisningar - GP
-- Kristersson vill pressa Andersson om skatter - Västerbottens-Kuriren
 - Man häktad för anstiftan till mordvåg - Västerbottens-Kuriren
-- Viktigt att tänka på inför studenten - Polisen.se
-- Protester mot höga bränslepriser i Kenya – fyra döda - Sveriges Radio
-- WHO utlyser nödläge efter ebolautbrott - TTELA
+- Sverige sluter avtal med Indien – EU vill följa efter - Europaportalen
+- Anna fick sparken för att hon var Rebellmamma – stämmer staten - Arbetet
+- Fronten i Ukraina – hur går det för Ryssland? - SVT Nyheter
 - Två stridsflygplan kolliderade på uppvisning - Dagens Nyheter
 - Helikoptern kan bränna gräset – omdiskuterad plattform kan finnas redan till sommaren - Dagens Nyheter
+- Donald Trump i Kina - 8 Sidor
 - Elon Musk förlorar mål mot Sam Altman - Dagens industri
+- 850 får gå från Ikea – men varslet gäller inte Borlänge - Sveriges Radio
 - Han styr på elitskolan: ”Inte exklusiv” - Svenska Dagbladet
-- Aleris säljs till finsk koncern - Altinget.se
-- Inter Ikea skär ned med 850 tjänster globalt - Börsvärlden
+- Han sålde mest majblommor - 8 Sidor
+- Mysteriet: Varför funkar superskorna? - GP
 - Detta tas upp i kommunfullmäktige den 19 maj - Helsingborgs stad
-- Kliv in i månlandningarna – ett vetenskapligt tidsdokument om människans första steg bortom jorden - Notified
 
 ## World News
 
@@ -36,15 +36,15 @@ _Updated: 2026-05-18 23:46_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global halvledarpress efter Trumps möte med Xi - EFN
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - News of the Worlds reportrar kan få nya jobb - Journalisten
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - BBC-ankare slipper fängelse för barnpornografibrott - Omni
 
@@ -77,22 +77,22 @@ _Updated: 2026-05-18 23:46_
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Consid takes on the German market - Via TT
+- Hur artificiell intelligens förändrade företag, finans och krypto 2025 - Traders Union
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -115,7 +115,7 @@ _Updated: 2026-05-18 23:46_
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
@@ -124,21 +124,21 @@ _Updated: 2026-05-18 23:46_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 5 myter om öppen vetenskap - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Perspektiv på vårdvetenskap - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2026-05-18 23:46_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Lediga jobb - Land Lantbruk
+- Här är världens största jordbruk - ATL.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
