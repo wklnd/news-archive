@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-18 12:48_
+_Updated: 2026-05-18 16:43_
 
-- Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’ - The Washington Post
-- Trump warns 'clock is ticking' for Iran as peace progress stalls - BBC
-- Thomas Massie unfazed by Bill Cassidy's defeat in Louisiana - Politico
-- Guns on the television and in Iran’s streets as Trump renews war threats - CNN
+- Trump drops $10 billion lawsuit against IRS - CNBC
+- State judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case - CNBC
 - Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects - The New York Times
-- Crew members safely eject after Navy jets collide during Idaho air show - PBS
+- Fighter jets crash in midair during air show at Idaho Air Force base, crew eject safely: "A lot of luck involved" - CBS News
+- Iran war live: Tehran says talks ongoing through Pakistan - Al Jazeera
+- Why the Supreme Court's voting rights ruling could play a big role at the local level - NPR
+- In Kentucky, Fidelity to Trump Is Once Again on the Ballot - The New York Times
+- Washington prayer rally draws thousands to the National Mall, in photos - AP News
 - Redistricting debate shifts to South Carolina as Republicans seek clean sweep of US House seats - AP News
-- 2 Teenagers Arrested After Drive-By Shootings in Austin Injure at Least 4 - The New York Times
-- Lai Says Taiwan Won’t Be Sacrificed as Trump Weighs Arms Deal - Bloomberg.com
-- Despite retribution, Cassidy attempted to make amends with Trump after impeachment vote - PBS
+- Former school official returns to court for case of 6-year-old who shot teacher - NBC News
+- Divers find bodies of 4 Italians in Maldives sea cave - CBS News
 - Drone strikes UAE nuclear plant highlighting risk of renewed war - NPR
-- Ukrainian drones hit Moscow and surrounding area, killing 3 - The Washington Post
-- Hantavirus-hit cruise ship arrives at Rotterdam port as final destination - Reuters
-- Executions worldwide hit 40-year high, Amnesty says - DW.com
-- LIRR strike update: National Mediation Board summons unions, MTA; New York Gov. Hochul calls for talks to resume - ABC7 New York
-- Denver police respond to Cherry Creek Shopping Center amid chaotic Swatch launch - The Denver Post
-- Stock futures fall after record-setting week for Wall Street; traders await Nvidia and retail earnings: Live updates - CNBC
+- These are the 3 drones Ukraine used to pierce Moscow's air defense gauntlet in its biggest attack yet - Business Insider
+- WATCH: Israel begins boarding Gaza-bound Turkish flotilla boats - The Jerusalem Post
+- NextEra strikes $66.8 billion deal for Dominion in bets on AI power demand - Reuters
+- Lululemon calls founder’s ideas ‘misguided’ in public letter - CNN
 - US Long Bond Yield Hits Highest Since 2023 on Inflation Concern - Bloomberg.com
-- Apple’s Siri revamp could include auto-deleting chats - TechCrunch
-- Sony Xperia 1 VIII is official, Xiaomi 17 Max is coming - week 20 in review - GSMArena.com news - GSMArena.com
+- Trump says he should've asked for 'more' of Intel when negotiating stake with CEO - CNBC
+- The Foldable iPhone is Finally Real: 6 Massive Upgrades Revealed - Geeky Gadgets
+- Samsung Plans To Transform Your Smartphone & Tablet Into On-Device AI Powerhouses With High-Bandwidth Memory Chips Using Complex Packaging - Wccftech
