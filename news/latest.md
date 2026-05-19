@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-19 12:26_
+_Updated: 2026-05-19 15:43_
 
-- Live updates: 3 killed in shooting at San Diego’s largest mosque - CNN
-- Live Updates: Trump calls off scheduled attack on Iran amid "serious negotiations" toward peace deal - CBS News
-- GOP Rep. Thomas Massie defiant as Trump seeks to oust him in primary: "I'm going to win" - CBS News
-- Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war - The Guardian
-- The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now - NPR
-- Treasury Lawyer Quits as Government Settles Trump IRS Suit - WSJ
-- Nancy Pelosi endorses fellow progressive Connie Chan in high-profile race to succeed her - NBC News
-- What to watch in Tuesday’s primaries in Kentucky, Georgia and elsewhere - CNN
+- San Diego Mosque Shooting: What to Know About the Suspects and What Happened - The New York Times
+- Trump's revenge tour comes for Massie - Axios
+- Trump halts 'major attack' on Iran, but ready to strike if Tehran won't give up nuclear weapon plans - Fox News
+- Ketanji Brown Jackson says Supreme Court risks being seen as political after voting rights decision - AP News
+- Iran's new offer is insufficient, risks war resumption: senior U.S. official - Axios
+- Tuesday is a big primary day. Here's what you need to know - NPR
 - Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
-- Deal reached to end strike at largest US commuter railroad - Yahoo News New Zealand
+- ‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico
+- Blanche will face questions from lawmakers over a nearly $1.8B fund to compensate Trump allies - AP News
+- Last-Minute Donation Could Upend G.O.P. Primary for Texas Attorney General - The New York Times
+- Ebola Outbreak Death Toll Rises To 131, WHO ‘Deeply Concerned’ About Spread (Live Updates) - Forbes
+- Mango founder’s son detained over father’s mountain death - Financial Times
 - Xi to host 'old friend' Putin as China projects stable global role after Trump visit - Reuters
-- Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says - CBS News
-- W.H.O. Chief Is ‘Deeply Concerned’ By Speed and Scale of Ebola Outbreak As Cases Rise - The New York Times
-- Belarus launches drills involving Russian nuclear weapons - DW.com
-- Musk loses blockbuster OpenAI suit as jury says too late - Yahoo Finance
-- Trump’s Fed pick to be sworn in at the White House, not the usual venue - The Washington Post
-- StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters
-- S&P 500 futures fall after index posts back-to-back losses amid tech sell-off: Live updates - CNBC
-- Alexa+ now generates podcast episodes on demand - About Amazon
-- LG will release the first 1000Hz, 1080p gaming monitor this year - The Verge
+- Russia holds massive drills of its nuclear forces - NBC News
+- In Musk v. Altman trial, the entire AI industry lost - Axios
+- Long Island Rail Road strike is over, New York Gov. Hochul says - ABC News - Breaking News, Latest News and Videos
+- US Yields Flirting With 2007 Highs Entice and Divide Investors - Bloomberg.com
+- Meta Expands Layoffs as AI Spending Climbs - Yahoo Finance
+- Gemini is in danger of going full Copilot - The Verge
+- What We’re Expecting at Google I/O 2026 - Gizmodo
