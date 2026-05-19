@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-19 10:42_
+_Updated: 2026-05-19 14:24_
 
 ## Top Stories
 
 - Klart: Sverige köper fyra fregatter från Frankrike - SVT Nyheter
-- Intagna på häkten kommunicerar genom väggarna - Västerbottens-Kuriren
-- Trump: Blåser av attack – förhandlingar på gång - GP
-- Pikar Putin om Ukraina: ”Får ångra” - Expressen
-- Pentagon utreder båtattacker i Karibien och Stilla havet - SVT Nyheter
-- Premiär för Malmös nya streetfoodpark: ”Jag vill sätta min stämpel i staden” - Sydsvenskan
+- Gift par döms för mord på mannens mamma - Aftonbladet
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Putin: Ryssland och Kina stödjer varandra - Västerbottens-Kuriren
+- Larm om misstänkt brev på kommunhuset i Tingsryd - Omni
+- Direkt – Kriget i Ukraina – Drönare nedskjuten i Estland – troligen ukrainsk - Dagens Nyheter
+- Större risk för vattenbrist än väntat – utökas till Småland - SVT Nyheter
 - Åklagaren: Stärkt bevisläge i Rönningeutredning - Västerbottens-Kuriren
-- DN Direkt – Larm om explosion i Landskrona - Dagens Nyheter
-- En till sjukhus efter villabrand - GP
-- Hett om skatter: ”Vänstern vill jaga rika ur landet” - Corren
-- Putin: Ryssland och Kina stödjer varandra - GP
+- Trots förbud kan personer som är häktade prata med varandra - Sveriges Radio
+- Tidigare försvunnen flicka hittad i Malmö - Expressen
+- ”Ett imperiums storhet tar slut där matematiken börjar”: Ukraina avslöjar Rysslands försvar av Moskva - Dagens.se
 - Tre döda efter skjutning i moské i San Diego - Dagens Nyheter
-- Trumfkortet som ger Ukraina våroptimism - Västerbottens-Kuriren
-- Hjälporganisationer varnar för sjukdomar i Gaza - Sveriges Radio
+- Ukraina: Två döda i rysk robotattack - Västerbottens-Kuriren
+- Turkiet: Över 100 gripna i ny IS-räd - GP
 - Musk förlorar målet mot Open AI - Svenska Dagbladet
-- Ny bok: Northvolt kan bli elslukande datahall - Aftonbladet
+- Ny bok om Northvolt: Batterifabriken i Skellefteå kan bli elslukande datahall - Ny Teknik
 - IKEM: Kostnadschock pressar industrin – men plast- och gummibolag ser ökad efterfrågan - Börsvärlden
-- Uppgift: Meta säger upp en av tio – storsatsar på AI - Omni
-- Torvalds: AI-buggrapporter har gjort Linux säkerhetsmejllista “nästan helt ohanterlig” - Computer Sweden
+- Profilen ryter till: "Det mest övervärderade bolaget på hela börsen" - Dagens PS
 - Mysteriet: Varför funkar superskorna? - GP
+- Sony sätter stopp för PC-versioner av sina enspelarspel. Hermen Hulst sägs ha informerat personalen. - feber.se
 
 ## World News
 
@@ -33,9 +33,8 @@ _Updated: 2026-05-19 10:42_
 - Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Vancouver business leaders seek solution to stop Whitecaps from moving - BC - Global News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -45,19 +44,20 @@ _Updated: 2026-05-19 10:42_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- News of the Worlds reportrar kan få nya jobb - Journalisten
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global inbromsning av konkurser – men fortsatt hög nivå i Sverige - Örebronyheter
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Storbritannien trappar upp kampen mot deepfake - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Storbritannien trappar upp kampen mot deepfake - Omni
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -76,9 +76,9 @@ _Updated: 2026-05-19 10:42_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
@@ -99,23 +99,23 @@ _Updated: 2026-05-19 10:42_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- Koite Health växlar upp med ny global svensk vd – ska leda nästa fas i Lumorals tillväxt och expansion - it-halsa.se
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
@@ -153,12 +153,12 @@ _Updated: 2026-05-19 10:42_
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Lediga jobb - Land Lantbruk
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
