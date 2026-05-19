@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-19 15:43_
+_Updated: 2026-05-19 18:40_
 
-- San Diego Mosque Shooting: What to Know About the Suspects and What Happened - The New York Times
-- Trump's revenge tour comes for Massie - Axios
+- Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post
 - Trump halts 'major attack' on Iran, but ready to strike if Tehran won't give up nuclear weapon plans - Fox News
-- Ketanji Brown Jackson says Supreme Court risks being seen as political after voting rights decision - AP News
-- Iran's new offer is insufficient, risks war resumption: senior U.S. official - Axios
-- Tuesday is a big primary day. Here's what you need to know - NPR
-- Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
+- Under congressional scrutiny, Blanche defends nearly $1.8 billion fund to pay Trump allies - AP News
+- What to know about today's primaries in Georgia, Kentucky, Pennsylvania and more - CBS News
+- Iran says peace proposal includes reparations for war damage, US troop withdrawal - Yahoo
+- Supreme Court sends closely watched Native American voting rights decision back to lower court - PBS
+- Simi Valley and Santa Rosa fires: Active California wildfires seen from space - BBC
+- Bill Cassidy could be Trump’s Senate nightmare. So far he’s keeping his powder dry. - Politico
 - ‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico
-- Blanche will face questions from lawmakers over a nearly $1.8B fund to compensate Trump allies - AP News
-- Last-Minute Donation Could Upend G.O.P. Primary for Texas Attorney General - The New York Times
-- Ebola Outbreak Death Toll Rises To 131, WHO ‘Deeply Concerned’ About Spread (Live Updates) - Forbes
-- Mango founder’s son detained over father’s mountain death - Financial Times
-- Xi to host 'old friend' Putin as China projects stable global role after Trump visit - Reuters
+- Trump's revenge tour comes for Massie - Axios
+- 'Ebola has tortured us': Fear as DR Congo outbreak spreads - BBC
 - Russia holds massive drills of its nuclear forces - NBC News
+- Iran stages mass weddings for couples said to have volunteered for "self-sacrifice" in war with U.S. - CBS News
+- Xi to host 'old friend' Putin as China projects stable global role after Trump visit - Reuters
 - In Musk v. Altman trial, the entire AI industry lost - Axios
-- Long Island Rail Road strike is over, New York Gov. Hochul says - ABC News - Breaking News, Latest News and Videos
-- US Yields Flirting With 2007 Highs Entice and Divide Investors - Bloomberg.com
-- Meta Expands Layoffs as AI Spending Climbs - Yahoo Finance
-- Gemini is in danger of going full Copilot - The Verge
-- What We’re Expecting at Google I/O 2026 - Gizmodo
+- The market powerful enough to sway stocks and Trump is rumbling again - The Seattle Times
+- OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team - TechCrunch
+- Meta Platforms Restructures Workforce To Prioritize AI And Test Valuation Gap - Yahoo Finance
+- How to watch Google I/O 2026 kick off live - 9to5Google
+- Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips - The Verge
