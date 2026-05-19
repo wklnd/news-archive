@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-19 07:49_
+_Updated: 2026-05-19 12:26_
 
-- Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime - Al Jazeera
-- Trump delays Iran attack as diplomatic push intensifies: Military ready at 'moment’s notice’ - Fox News
-- Trump creates $1.8B "anti-weaponization" fund after dropping IRS suit - Axios
-- The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now - NPR
-- Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
+- Live updates: 3 killed in shooting at San Diego’s largest mosque - CNN
+- Live Updates: Trump calls off scheduled attack on Iran amid "serious negotiations" toward peace deal - CBS News
 - GOP Rep. Thomas Massie defiant as Trump seeks to oust him in primary: "I'm going to win" - CBS News
-- Long Island Rail Road strike to end as MTA, unions reach tentative deal - CBS News
-- Nancy Pelosi Endorses Connie Chan to Succeed Her - The New York Times
-- Trump's economic polling is in freefall - Axios
-- The anti-war crack in MAGA's youth base - Politico
+- Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war - The Guardian
+- The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now - NPR
+- Treasury Lawyer Quits as Government Settles Trump IRS Suit - WSJ
+- Nancy Pelosi endorses fellow progressive Connie Chan in high-profile race to succeed her - NBC News
+- What to watch in Tuesday’s primaries in Kentucky, Georgia and elsewhere - CNN
+- Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles
+- Deal reached to end strike at largest US commuter railroad - Yahoo News New Zealand
+- Xi to host 'old friend' Putin as China projects stable global role after Trump visit - Reuters
 - Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says - CBS News
-- Shifting momentum in the Russia-Ukraine war - NPR
-- Ebola outbreak: WHO declares emergency, US restricts travel, American infected - Ars Technica
-- China's moment? Putin heads to Beijing after Trump courts Xi - DW.com
-- All of Musk’s claims in lawsuit against OpenAI dismissed in federal trial - The Washington Post
-- NextEra-Dominion Deal Signals Era of AI Utility Mega-Mergers - Bloomberg.com
-- Oil climbs as Trump warns the ‘clock is ticking’ on Iran, but there’s a bigger danger lurking on the horizon - MarketWatch
-- The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable - WIRED
-- Apple Readies AI Writing Help, App Shortcuts and Wallpapers for iOS 27 - Bloomberg.com
+- W.H.O. Chief Is ‘Deeply Concerned’ By Speed and Scale of Ebola Outbreak As Cases Rise - The New York Times
+- Belarus launches drills involving Russian nuclear weapons - DW.com
+- Musk loses blockbuster OpenAI suit as jury says too late - Yahoo Finance
+- Trump’s Fed pick to be sworn in at the White House, not the usual venue - The Washington Post
+- StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters
+- S&P 500 futures fall after index posts back-to-back losses amid tech sell-off: Live updates - CNBC
+- Alexa+ now generates podcast episodes on demand - About Amazon
 - LG will release the first 1000Hz, 1080p gaming monitor this year - The Verge
