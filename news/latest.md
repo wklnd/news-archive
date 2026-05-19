@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-19 18:40_
+_Updated: 2026-05-19 20:25_
 
-- Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post
+- Trump endorses Ken Paxton in Senate GOP runoff - The Texas Tribune
 - Trump halts 'major attack' on Iran, but ready to strike if Tehran won't give up nuclear weapon plans - Fox News
+- Mother’s call to police sparked urgent search before San Diego mosque shooting - The Washington Post
 - Under congressional scrutiny, Blanche defends nearly $1.8 billion fund to pay Trump allies - AP News
 - What to know about today's primaries in Georgia, Kentucky, Pennsylvania and more - CBS News
-- Iran says peace proposal includes reparations for war damage, US troop withdrawal - Yahoo
-- Supreme Court sends closely watched Native American voting rights decision back to lower court - PBS
-- Simi Valley and Santa Rosa fires: Active California wildfires seen from space - BBC
+- Vice-President JD Vance to host White House press briefing - BBC
+- NTSB opens hearings on why UPS cargo plane engine fell off, causing deadly crash - AP News
 - Bill Cassidy could be Trump’s Senate nightmare. So far he’s keeping his powder dry. - Politico
-- ‘We are facing an existential crisis’: Redistricting rocks the race for the nation’s bluest House seat - Politico
-- Trump's revenge tour comes for Massie - Axios
+- Republican fights to survive Trump’s wrath in most expensive House primary ever - The Washington Post
+- Sandy Fire latest: Brush fire erupts in Simi Valley; evacuation orders and warnings issued as flames threaten homes - ABC7 Los Angeles
 - 'Ebola has tortured us': Fear as DR Congo outbreak spreads - BBC
+- Putin Arrives in Beijing With Entourage of Ministers and CEOs - The Moscow Times
+- Iran says its new proposal demands reparations, US troop withdrawal, end to Lebanon war - The Times of Israel
 - Russia holds massive drills of its nuclear forces - NBC News
-- Iran stages mass weddings for couples said to have volunteered for "self-sacrifice" in war with U.S. - CBS News
-- Xi to host 'old friend' Putin as China projects stable global role after Trump visit - Reuters
-- In Musk v. Altman trial, the entire AI industry lost - Axios
-- The market powerful enough to sway stocks and Trump is rumbling again - The Seattle Times
+- As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead - The New York Times
+- US 30-Year Yield Hits Highest Since 2007 on Inflation Angst - Bloomberg.com
+- Lululemon calls founder's ideas 'misguided' in public letter - KSL.com
 - OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team - TechCrunch
-- Meta Platforms Restructures Workforce To Prioritize AI And Test Valuation Gap - Yahoo Finance
-- How to watch Google I/O 2026 kick off live - 9to5Google
-- Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips - The Verge
+- Google I/O 2026 live: Gemini AI, Android 17, Android XR updates and more - Yahoo Tech
+- Sony’s 1000X The Collexion are cushy and costly - The Verge
