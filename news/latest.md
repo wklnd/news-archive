@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-19 01:43_
+_Updated: 2026-05-19 03:35_
 
-- Live updates: San Diego, California mosque shooting, 3 killed, teen suspects found dead - CNN
+- Updates: Shooting reported at Islamic centre in Clairemont, San Diego - BBC
 - Trump creates $1.8B "anti-weaponization" fund after dropping IRS suit - Axios
-- Live Updates: Trump calls off scheduled attack on Iran amid "serious negotiations" toward peace deal - CBS News
-- Wind-driven fire triggers evacuations in Simi Valley; at least 1 home burned - Los Angeles Times
+- Trump Threatens Iran and Then Pulls Back, All in the Same Day - The New York Times
 - Abortion Pill Lawsuit Leaves Trump in a Political Bind Ahead of the Midterms - The New York Times
-- Donald Trump’s approval rating sinks to lowest point of second term - The Guardian
-- ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota - The New York Times
+- Sandy Fire in Southern California's Simi Valley grows to more than 830 acres, prompts mandatory evacuations - CBS News
+- Fact Sheet: President Donald J. Trump Announces Expansion of TrumpRx.gov to Bring Americans Transparency and Choice on Everyday Medicines - The White House (.gov)
+- ICE agent charged in shooting of immigrant during Operation Metro Surge - Star Tribune
+- Man crashed into Channel Islands, set off major wildfire, officials say - SFGATE
 - Nancy Pelosi endorses Connie Chan to succeed her in S.F. House race - San Francisco Chronicle
-- Alex Murdaugh files lawsuit ‘to hold Becky Hill accountable’ as AG threatens death penalty - Court TV
 - Severe Weather Outbreak Maps Tracker: Radar, Warnings, Storm Reports And More - The Weather Channel
-- Ebola strain in Congo, Uganda has no vaccine, no treatment for often deadly symptoms - CBS News
-- Ukraine’s attack on Moscow is another sign the war is not so distant anymore for Russians - AP News
-- Death toll from Israeli strikes on Lebanon passes 3,000, officials say - BBC
+- CDC announces 30-day travel restrictions in response to Ebola outbreak - Politico
+- Putin Aims to Unlock Gas Pipeline Project to China in Xi Talks - Bloomberg.com
+- Shifting momentum in the Russia-Ukraine war - NPR
 - Maldives investigates if Italian divers went too deep in fatal cave dive - Reuters
-- Elon Musk Loses Case Against Sam Altman Over OpenAI’s Overhaul - Bloomberg.com
+- All of Musk’s claims in lawsuit against OpenAI dismissed in federal trial - The Washington Post
+- NextEra Will Buy Dominion Energy in Largest-Ever Electric Utility Deal - POWER Magazine
+- Meta Reassigns 7,000 Employees to Focus on A.I. - The New York Times
 - Day 3 of LIRR strike brings no clear sign of a deal as NYC commuters cope - CBS News
-- NextEra Energy and Dominion Energy to Combine, Creating the World’s Largest Regulated Electric Utility Business and North America’s Premier Energy Infrastructure Platform Benefiting Customers - Business Wire
-- The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable - WIRED
-- PlayStation Plus to raise monthly subscription by £1 in UK - BBC
-- Report: Saros And Ghost Of Yōtei Aren't Coming To PC As PlayStation Charts A Return To Console Exclusivity - Game Informer
+- Apple Readies AI Writing Help, App Shortcuts and Wallpapers for iOS 27 - Bloomberg.com
+- Google is rolling out its redesigned Workspace app icons - The Verge
