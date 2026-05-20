@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-20 23:18_
+_Updated: 2026-05-21 00:52_
 
 ## Top Stories
 
-- Polisen går ut med varning inför Natomötet i Helsingborg - GP
 - Sprickan växer mellan Trump och Netanyahu om Iran - Dagens Nyheter
-- Dödsolyckan fångades på film: ”Råder sorg och förstämning” - Aftonbladet
-- USA åtalar Kubas Raúl Castro för fyra mord - Omni
-- Trumps plan rasade ihop första dagen - Expressen
-- Fullsmockat vid premiären för Malmös nya streetfoodpark: ”Vilken succé” - Sydsvenskan
+- Polisen går ut med varning inför Natomötet i Helsingborg - GP
+- Föreningen i sorg efter dödsolyckan – kyrkan hålls öppen - Sveriges Radio
+- Danska staten frias i fall om dödlig färjebrand - SVT Nyheter
+- Aktivister tvingades knäböja – Netanyahu kritisk - Västerbottens-Kuriren
+- Rysslands medborgarknep ska ge nya soldater - Dagens Nyheter
 - DN Direkt – Slukhål på flygplats i New York - Dagens Nyheter
 - Höga chefer satte mustasch på Jimmie Åkesson-tavla – får lämna kommunen - SVT Nyheter
 - Försvunnen man i Gnarp hittad död - Expressen
 - Medborgarskap ska kunna återkallas - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Malmer Stenergard: Oförsvarligt agerande av Ben Gvir - Dagens Nyheter
 - Han är teflonpolitikern som slår knut på sig själv för Trump - Dagens Nyheter
 - Kriget i Persiska viken är en kamp mellan dollar och kinesiska yuan - Sydsvenskan
-- Danska staten frias i fall om dödlig färjebrand - SVT Nyheter
-- Försiktigt uppåt på Wall Street inför Nvidias rapport - Affärsvärlden
-- Varningen: Här är det farligt att AI-investera – ”då är du rökt” - Dagens industri
-- Uppåt på USA-börserna – efter fredshopp - Expressen
+- Demokrater vill stoppa militär insats mot Kuba - Dagens Nyheter
+- Ukraina: Två döda i ryska attacker - GP
+- Elon Musk överklagar efter förlusten mot Open AI - ETC.se
+- Musk tar raketbolaget Space X till börsen - Svenska Dagbladet
 - Svenska kraftnät slår larm om höga elpriser i sommar - Omni
+- Försiktigt uppåt på Wall Street inför Nvidias rapport - Affärsvärlden
 - Google satsar på autonoma AI-agenter i Gemini 3.5 Flash - Computer Sweden
 - Tekniska problem med webbformuläret på solna.se - solna.se
 
@@ -29,8 +29,8 @@ _Updated: 2026-05-20 23:18_
 
 - Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
+- Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
@@ -38,15 +38,15 @@ _Updated: 2026-05-20 23:18_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Bränslekrisen går mot kritisk vändpunkt i sommar: ”Risk för global recession” - Omni
 - Kritisk punkt närmar sig för global oljekris - Dagens industri
-- Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Montrose pressar Avanza – med billigaste globalfonden - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Global inbromsning av konkurser – men fortsatt hög nivå i Sverige - Örebronyheter
 
 ## Technology
 
@@ -58,18 +58,18 @@ _Updated: 2026-05-20 23:18_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Kraftigt ökad försäljning av AI-datorer - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
 
@@ -77,6 +77,7 @@ _Updated: 2026-05-20 23:18_
 - Vilken framtid arbetar du för? - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
@@ -84,15 +85,14 @@ _Updated: 2026-05-20 23:18_
 - Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2026-05-20 23:18_
 ## Science
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 
 ## Jordbruk
 
@@ -151,14 +151,14 @@ _Updated: 2026-05-20 23:18_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Lediga jobb - Land Lantbruk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
