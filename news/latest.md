@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-20 18:36_
+_Updated: 2026-05-20 21:06_
 
-- With Trump’s Deal, a Possible $100 Million I.R.S. Penalty Melts Away - The New York Times
-- Kentucky voters deliver verdict on Thomas Massie and more top headlines - Fox News
+- Live updates: Former Cuban president Raúl Castro indicted in US over 1996 fatal downing of two planes - BBC
+- I.R.S. to Drop Audits of Trump and Family - The New York Times
 - Takeaways from primaries where Trump demonstrated power over GOP - The Washington Post
-- Spot the Difference: Putin Gets Trump Treatment From Xi in China - Bloomberg.com
-- Barney Frank: One of the first openly gay US congressmen dies aged 86 - BBC
-- January 6 police officers sue Trump over $1.8bn fund, alleging ‘presidential corruption’ - The Guardian
-- San Diego Attack Follows Alarm About Rising Islamophobia - The New York Times
-- Big wins, surprises and signals from Georgia’s primary night - AJC.com
-- Assistant principal "did nothing" when told about 6-year-old with gun, prosecutor says - CBS News
-- South Carolina House Passes New Map Aimed at Forcing Out Clyburn - The New York Times
-- More die of suspected Ebola as WHO warns that numbers will rise further - BBC
-- NATO’s Baltic flank rattled by drone incidents as VDL blames Russia - politico.eu
+- U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages - CNBC
+- Jan. 6 officers sue over $1.8B pot they call ‘slush fund’ for ‘insurrectionists’ - NBC News
+- Spot the Difference: Putin Gets Trump Treatment From Xi in China - Bloomberg
+- The San Diego Mosque Shootings Were a Crime Made for and by the Internet - The New York Times
+- Faulty Part in UPS Plane Crash Was Often Overlooked, Witnesses Say - The New York Times
+- Takeaways from Tuesday’s primaries: Massie’s loss leaves no doubt about Trump’s power over the GOP - Lehighvalleylive.com
+- Trump goes on manic early morning posting spree with a dozen posts in minutes to brag about election results - Yahoo News Canada
+- U.K. spy plane "dangerously intercepted" by Russian military jets over Black Sea, defense ministry says - CBS News
 - MKs advance bill to dissolve Knesset, potentially trigger slightly earlier elections - The Times of Israel
-- Ben Gvir posts video of himself taunting bound and detained Gaza flotilla activists, sparks global outcry - The Times of Israel
-- Media scion James Murdoch buys New York magazine, Vox.com - The Washington Post
+- WHO says risk of global spread of Ebola outbreak is low, but high at national, regional levels - AP News
+- Rutte shrugs off shrinking US military presence in Europe as ‘expected’ - politico.eu
+- Meta Begins 8,000 Global Job Cuts in AI Efficiency Push - Bloomberg
 - How soaring 30-year Treasury yields could impact your finances - Yahoo Finance
-- Target Tempers Expectations After Best Sales Gain in Years - Bloomberg.com
-- Meta begins cutting thousands of jobs in sweeping layoffs. Here's how much it's paying in severance. - Business Insider
-- Omni, Pics, and a Big Search Overhaul: Everything You Missed at Google I/O 2026 - PCMag
-- Yearslong fight over users’ right to tweak smart TV software heads to trial - Ars Technica
+- Media scion James Murdoch buys New York magazine, Vox.com - The Washington Post
+- Target Corporation Reports First Quarter Earnings - Target
+- Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC - AppleInsider
+- Google and Samsung launch AI-powered Intelligent Eyewear - Dezeen
