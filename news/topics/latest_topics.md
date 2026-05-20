@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-20 06:46_
+_Updated: 2026-05-20 10:40_
 
 ## Top Stories
 
-- DN Direkt – Xi Jinping och Vladimir Putin möts i Kina - Dagens Nyheter
-- Massie förlorade primärvalet – men kan sikta på 2028 - Dagens Nyheter
-- Oro för vart tionde barn: ”Man studsar” - Svenska Dagbladet
+- DN Direkt – Var tionde barn orosanmält till socialtjänst - Dagens Nyheter
+- Norrman åtalas för dubbelmord i Göteborg - Aftonbladet
 - EU överens om USA-tullar - GP
-- Uppgift: Trumps okända plan för Iran efter kriget - Aftonbladet
-- Guide: Lundakarnevalen 2026 - SVT Nyheter
-- Patrik Lundberg: Sveriges sista wokekrog finns i SD-land - Dagens Nyheter
+- Ett gift par döms till livstids fängelse för mord och grovt brott mot gravfriden. - Sveriges Domstolar
+- Fakta i frågan: Har vårdköerna ökat? - Dagens Nyheter
+- Äldre befolkning pressar kommunerna - Hallands Nyheter
+- Narkotikapåverkad man sände live på sociala medier – togs av polis - SVT Nyheter
+- Lilith tjänade 10 000 på att plocka invasiva arter - Dagens Nyheter
 - Ledare: Fyra franska fregatter - NWT
-- Nu är det klart: Rubio till svenska Natomötet - Västerbottens-Kuriren
-- Frågorna som glömdes under mötet med Modi - Dagens Arena
-- Boko Haram-ledaren till Ekot: ”Vi kommer kontrollera hela Nigeria” - Sveriges Radio
-- Venezuela: Ska släppa 300 fångar - GP
-- Många döda i nya israeliska attacker i Libanon - Västerbottens-Kuriren
-- USA minskar sina brigader i Europa - SVT Nyheter
-- Varningen: Risk för extra höga elpriser i sommar - GP
-- Klart: Trump deltar i G7-mötet i Frankrike - Expressen
-- Linus Larsson: Elon Musk förlorade i rätten – men Open AI tog också stryk - Dagens Nyheter
-- Tysk försäljning av Uniper kan påverka svenska kärnkraftverk - Börskollen
-- Mysteriet: Varför funkar superskorna? - GP
-- Värmländska idén gav ringar på vattnet – nu sprids satsningen över landet: ”Viktigt” - VF
+- Patrik Lundberg: Sveriges sista wokekrog finns i SD-land - Dagens Nyheter
+- Döda dykare i olyckan i Maldiverna bärgade - Västerbottens-Kuriren
+- Boko Haram-ledaren: Vi dödar alla som inte håller med oss - Sveriges Radio
+- Direkt – Kriget i Ukraina – Trumps sändebud ska till Ryssland - Dagens Nyheter
+- Xi Jinping tar emot Putin i Kina - Corren
+- Svenska kraftnät slår larm om höga elpriser i sommar - Omni
+- Elon Musk överklagar efter förlusten mot Open AI - ETC.se
+- Räntorna fortsätter upp – blickarna riktas mot Feds protokoll - Dagens industri
+- Bonusbråk utlöser storstrejk på Samsung - EFN
+- AI tar över googlandet - Svenska Dagbladet
+- Glöm kabeltrassel och krångel – här är robotgräsklipparna som ger mest för pengarna - m3.se
 
 ## World News
 
 - Kritisk punkt närmar sig för global oljekris - Dagens industri
-- Prognosen för global uppvärmning sänks – är ändå katastrofal - E55 – Ekonomi hela livet
 - Bränslekrisen går mot kritisk vändpunkt i sommar: ”Risk för global recession” - Omni
-- Reseprofiler blir partner för Connect Worldwide - travelnews-se
+- Prognosen för global uppvärmning sänks – är ändå katastrofal - E55 – Ekonomi hela livet
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Vancouver business leaders seek solution to stop Whitecaps from moving - BC - Global News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- Global recorded music revenue hit $31.7B in 2025 as paid streaming surged - Seeking Alpha
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Polis läckte utredningsdetaljer till News Internationals chef - Journalisten
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Vancouver business leaders seek solution to stop Whitecaps from moving - BC - Global News
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Montrose pressar Avanza – med billigaste globalfonden - Placera.se
 - Murdoch överväger att sälja brittiska tidningar - Journalisten
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Reseprofiler blir partner för Connect Worldwide - travelnews-se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global inbromsning av konkurser – men fortsatt hög nivå i Sverige - Örebronyheter
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -54,7 +54,7 @@ _Updated: 2026-05-20 06:46_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Storbritannien trappar upp kampen mot deepfake - Omni
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -65,57 +65,57 @@ _Updated: 2026-05-20 06:46_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Kraftigt ökad försäljning av AI-datorer - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
+- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Medley etablerar 3000 kvadratmeter för preventiv hälsa i GoCo Active - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -130,8 +130,8 @@ _Updated: 2026-05-20 06:46_
 - Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Internationella dagen för kvinnor och flickor inom vetenskapen - EU Digital Strategy
 - Olika slutsatser från samma data - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -142,23 +142,23 @@ _Updated: 2026-05-20 06:46_
 
 ## Jordbruk
 
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lediga jobb - Land Lantbruk
-- Pressinbjudan: Den brännande frågan om växtskydd lyfts på SLU - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2021-11-24 Håstadiusseminarium: Svensk sockerbetsodling – både hållbar och lönsam - Mynewsdesk
-- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
