@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-21 23:16_
+_Updated: 2026-05-22 00:50_
 
-- DOJ charges 15 in 'shocking' $90M Minnesota fraud schemes; Feeding Our Future 'ringleader' sentenced - Fox News
+- Kyle Busch, two-time NASCAR Cup Series champion, dies at age 41 - NASCAR.com
+- Republicans stall votes on partisan ICE funding amid party infighting - NPR
+- Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times
 - 'The report's so stupid': The DNC 2024 autopsy is roiling Democrats - Politico
-- Trump’s allies are already lining up to apply to his $1.8 billion fund - The Washington Post
-- Scoop: White House postpones AI EO signing ceremony - Axios
-- Republicans revolt over Trump’s $1.8 billion ‘anti-weaponization’ fund - CNN
-- Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say - Reuters
-- Tony Carruthers’ execution stopped after officials say medics couldn’t set up a backup IV line - NBC News
+- DOJ charges 15 in 'shocking' $90M Minnesota fraud schemes; Feeding Our Future 'ringleader' sentenced - Fox News
+- Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings - AP News
+- Tony Carruthers’ execution stopped after corrections couldn’t set up a backup IV line - NBC News
 - Charges dismissed against official at school where six-year-old shot teacher - BBC
-- US Senate refuses to push through ICE funding amid row over Trump’s ballroom - The Guardian
+- ‘I didn't like certain aspects’: Trump postpones AI executive order - Politico
 - Meta settles first US case over school costs tied to youth mental health, court filing shows - Reuters
 - Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post
+- DRC Ebola hospital set on fire as protesters demand access to bodies of dead relatives - africanews.com
 - Record 274 climbers summit Everest from Nepalese side in single day - The Guardian
-- Air France and Airbus guilty of corporate manslaughter for 2009 plane crash - The Guardian
-- Ukraine Wants 200 Russian Losses for Every Square Kilometer It Takes - Business Insider
-- SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading - CNBC
+- Lukashenko Outlines When Belarus Would Join Russia’s War Against Ukraine - UNITED24 Media
+- Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's
+- Nvidia Earnings May Mark A Major Turning Point For The Stock Market - Seeking Alpha
 - Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC
-- A trillion dollar question: Will SpaceX's Starship launch go well? - NPR
-- Stock Market Today: Tech-Stock Rebound Loses Steam After Nvidia Earnings — Live Updates - WSJ
-- Apple TV to air first major live pro sports event shot on iPhone 17 Pro - Apple
-- The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny - Kotaku
+- US to invest $2 billion in IBM, other quantum computing firms - Reuters
+- Samsung updates Galaxy S22 with May 2026 security patch - SamMobile
+- Google is pitching an AI agent ecosystem to consumers who may not buy it - TechCrunch
