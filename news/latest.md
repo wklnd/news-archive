@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-21 15:47_
+_Updated: 2026-05-21 19:19_
 
-- Officers who defended Capitol from rioters sue to block payouts from fund - NPR
-- How Trump's IRS settlement could block tax audits of him, his family and their businesses - BBC
-- Justice Dept. Charges Raúl Castro as Trump Escalates Pressure Campaign Against Cuba - The New York Times
+- Read the DNC’s 2024 autopsy obtained by CNN - CNN
+- Trump Live Updates: Latest News on White House Ballroom Funding, Taiwan and More - The New York Times
+- China says US should stop 'threats' against Cuba after ex-leader charged - BBC
+- Blanche to meet with senators - Politico
+- Charges dismissed against official at school where 6-year-old shot teacher - BBC
+- Live Updates: Iran says it's mulling latest U.S. peace proposal, Trump says he'll wait "a couple of days" - CBS News
+- San Diego shooting shows disturbing trend of shooters copying acts of violence - The Guardian
+- Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump - The New York Times
+- Bone Found Near Guthrie Home Predates Her Disappearance by 750 Years - The New York Times
+- Feeding Our Future fraud ringleader Aimee Bock set to be sentenced Thursday - CBS News
+- Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post
 - How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’ - Al Jazeera
-- Trump faces growing risk of losing key Iran war vote in Congress - Axios
-- Researchers say the Trump administration is finding new ways to punish science - NPR
-- The teens who attacked the Islamic Center of San Diego were latest to cite prior atrocities - AP News
-- Colorado Democrats censure Gov. Jared Polis for commuting election denier’s sentence - NBC News
-- ‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs. - The New York Times
-- First on CNN: James Talarico endorses in House runoff to try to block Democrat who made antisemitic remarks - CNN
-- Divers killed in Maldives cave may have taken wrong tunnel, recovery firm CEO says: "No way out" - CBS News
-- US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say - The Guardian
+- Record 274 climbers summit Everest from Nepalese side in single day - The Guardian
 - Ukraine says its drones hit another refinery deep inside Russia as long-range strikes escalate - AP News
-- As floods get worse, Britain tries a new solution: beavers - NPR
-- Stock Market Today: SoftBank Stock Surges on OpenAI IPO News — Live Markets - WSJ
-- Walmart Posts Steady Sales Gain While Flagging Higher Fuel Cost - Bloomberg.com
-- Retail investors get direct access to SpaceX IPO through major brokerage platforms - CNBC
-- Meta lays off thousands of employees to offset AI investments - The Verge
-- Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC - AppleInsider
+- Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's
+- Nvidia beats expectations again as AI boom drives revenue surge, but shares slip - Yahoo Finance
+- US to invest $2 billion in IBM, other quantum computing firms - Reuters
+- SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn't be higher - Space
+- Google is pitching an AI agent ecosystem to consumers who may not buy it - TechCrunch
 - The Company Behind the Flipper Zero Hacking Tool Is Making a Cyberdeck - Gizmodo
