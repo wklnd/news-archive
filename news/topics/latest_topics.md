@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-21 23:12_
+_Updated: 2026-05-22 00:49_
 
 ## Top Stories
 
 - Kristersson om Rubio-mötet: "Kommer vara tydliga" - Västerbottens-Kuriren
+- Trump: Skickar 5 000 extra soldater till Polen - GP
 - Direkt – Kriget i Ukraina – Zelenskyj i samtal med Starmer - Dagens Nyheter
-- Planerade mord på Irankännare – tonåringar döms - Folkbladet
-- Trump utesluter att inleda militärinsats mot Grönland - Omni
-- Man cyklade in i bildörr och blev påkörd av mopedist - TV4 Nyheterna
-- Experten: Åtalet mot Castro är ”en seger för Trump” - GP
-- Arbetsplatsolycka i Norrköping – en person förd till sjukhus - Corren
-- Häst död efter krock med bil - SVT Nyheter
+- Karin Eriksson: Därför fortsätter danskar och grönländare att tvivla på Trump - Dagens Nyheter
+- IDF har tusentals på dödslistan: Spårar upp alla - Aftonbladet
+- Lägenhet brann Öst på stan i Umeå – ingen skadad - SVT Nyheter
+- Man död efter arbetsplatsolycka i Norrköping - Corren
+- Ville döda Irankännare – ringde på med kniv i hand - Västerbottens-Kuriren
 - Olivia kämpar för upprättelse efter omstritt ingrepp vid förlossning - Dagens Nyheter
-- Ny generaldirektör för Statens kulturråd - GP
-- Källor: Netanyahu irriterad efter samtal med Trump - Västerbottens-Kuriren
-- Israel släpper aktivister från Gazakonvoj - Hufvudstadsbladet – HBL
-- FN röstar ja till resolution om klimatansvar - Västerbottens-Kuriren
-- Ukraina: Två döda i ryska attacker - Västerbottens-Kuriren
-- Musks planer avslöjade: Mars, asteroidbrytning och datacenter i rymden - Omni
-- Nvidias rapport: Den omfattande övergången till AI fortskrider enligt plan; aktierna är undervärderade - Morningstar Canada
-- Stenbeck goes Wallenberg - Svenska Dagbladet
-- Wallenberg: ”Europa måste karva ut sin egen roll” - Aftonbladet
+- Ny generaldirektör för Statens kulturråd - Aftonbladet
+- Uppgifter: Trump och Netanyahu oense om vägen framåt – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Experten: Åtalet mot Castro är ”en seger för Trump” - GP
+- Libanon: Sjukhus träffat i israelisk attack - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Malmer Stenergard: Oförsvarligt agerande av Ben Gvir - Dagens Nyheter
+- Fortsatt tro på Mag 7 efter Nvidia-krossen: ”Inget att ändra på” - EFN
+- Space X till börsen – värderas högre än Musks Tesla - nyteknik
+- Wallenberg: ”Europa måste karva ut sin egen roll” - Svenska Dagbladet
+- Kinnevik bekräftar: Helena Saxon är en VD-kandidat - Affärsvärlden
 - Googles nya AI-agenter kan ta tronen från Open AI - Omni
 - Stora stölden: 270 dräktiga får försvunna – värda nära en miljon - Expressen
 
 ## World News
 
 - Börstoppen: ”Det kommer att vara en global notering” - Omni
+- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
 - Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
@@ -41,7 +42,6 @@ _Updated: 2026-05-21 23:12_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 - Montrose pressar Avanza – med billigaste globalfonden - Placera.se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
@@ -58,7 +58,6 @@ _Updated: 2026-05-21 23:12_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,6 +68,7 @@ _Updated: 2026-05-21 23:12_
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
@@ -97,25 +97,25 @@ _Updated: 2026-05-21 23:12_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- E-hälsa inom EU - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
@@ -148,17 +148,17 @@ _Updated: 2026-05-21 23:12_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- De blev grönsaksodlare tack vare lokalt stöd - Land Lantbruk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
