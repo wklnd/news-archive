@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-21 21:28_
+_Updated: 2026-05-21 23:16_
 
-- Read the DOJ's memo to Republican senators on how Trump's $1.8 billion 'anti-weaponization' fund will work - PBS
-- Disputed Democratic autopsy of 2024 loss says White House failed Harris - The Washington Post
-- Blanche to meet with senators - Politico
-- China says US should stop 'threats' against Cuba after ex-leader charged - BBC
-- Supreme Court dismisses Alabama's bid to execute inmate with borderline intellectual disability - ABC News - Breaking News, Latest News and Videos
-- Mike Duggan ends independent campaign for Michigan governor - The Detroit News
-- Republicans cancel votes amid fight over Trump’s ‘anti-weaponization’ fund - NBC News
-- Key federal agency approves the design plan for Trump’s Washington arch - AP News
-- Charges dismissed against official at school where 6-year-old shot teacher - BBC
-- Tennessee stops execution after failing to find inmate's vein for lethal drugs, attorney says - CBS News
+- DOJ charges 15 in 'shocking' $90M Minnesota fraud schemes; Feeding Our Future 'ringleader' sentenced - Fox News
+- 'The report's so stupid': The DNC 2024 autopsy is roiling Democrats - Politico
+- Trump’s allies are already lining up to apply to his $1.8 billion fund - The Washington Post
+- Scoop: White House postpones AI EO signing ceremony - Axios
+- Republicans revolt over Trump’s $1.8 billion ‘anti-weaponization’ fund - CNN
+- Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say - Reuters
+- Tony Carruthers’ execution stopped after officials say medics couldn’t set up a backup IV line - NBC News
+- Charges dismissed against official at school where six-year-old shot teacher - BBC
+- US Senate refuses to push through ICE funding amid row over Trump’s ballroom - The Guardian
+- Meta settles first US case over school costs tied to youth mental health, court filing shows - Reuters
 - Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post
 - Record 274 climbers summit Everest from Nepalese side in single day - The Guardian
-- Gaza flotilla activists deported from Israel as backlash over treatment grows - BBC
-- Protesters storm Ebola hospital to retrieve victim’s body - The Telegraph
-- Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's
+- Air France and Airbus guilty of corporate manslaughter for 2009 plane crash - The Guardian
+- Ukraine Wants 200 Russian Losses for Every Square Kilometer It Takes - Business Insider
+- SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading - CNBC
 - Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC
 - A trillion dollar question: Will SpaceX's Starship launch go well? - NPR
-- Stellantis Unveils €60 Billion Strategic Plan to Accelerate Growth and Profit - Stellantis.com
-- New Flipper One Multi-Tool Computer Is Built for Tinkerers - PCMag
-- Sony’s other PS Plus plans are going up in price too. - theverge.com
+- Stock Market Today: Tech-Stock Rebound Loses Steam After Nvidia Earnings — Live Updates - WSJ
+- Apple TV to air first major live pro sports event shot on iPhone 17 Pro - Apple
+- The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny - Kotaku
