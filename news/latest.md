@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-21 07:52_
+_Updated: 2026-05-21 12:24_
 
-- Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump - The New York Times
-- Republicans squirm as Trump pursues legacy, control and revenge - Politico
-- Vanessa Trump reveals breast cancer diagnosis - NBC News
+- Trump has long kept his tax returns secret. He says that might change now, after IRS deal - AP News
 - 'I'm not greedy': January 6 rioters and Trump allies eye $1.8 billion 'weaponization' fund - Reuters
-- Bipartisan home affordability bill passes the House - NPR
-- Ex-DoJ prosecutor charged with sending sealed Jack Smith Trump report to personal email - The Guardian
-- Former Cuban president Raúl Castro indicted in U.S. on murder, conspiracy charges - The Washington Post
-- How to help children cope after shootings like the San Diego mosque killings - NPR
-- Trump could sign AI executive order as soon as Thursday - CNN
-- Colorado Governor Censured for Commuting Sentence of Election Denier - The New York Times
-- US puts pressure on Palestinian leaders to withdraw bid for UN vice-presidency role - The Guardian
-- Israeli minister draws global rebuke over treatment of flotilla activists - The Washington Post
-- Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war - AP News
+- Justice Dept. Charges Raúl Castro as Trump Escalates Pressure Campaign Against Cuba - The New York Times
+- Prosecutor charged with stealing Jack Smith’s sealed report on Trump classified-documents case - The Washington Post
+- Republicans squirm as Trump pursues legacy, control and revenge - Politico
+- Israeli security minister stirs diplomatic outrage with flotilla activist abuse video - The Guardian
+- The teens who attacked the Islamic Center of San Diego were latest to cite prior atrocities - The Seattle Times
+- Trump Set to Sign AI Cybersecurity Directive as Soon as Thursday - Bloomberg.com
+- Colorado Democrats censure Gov. Jared Polis over Tina Peters commutation - Colorado Public Radio
+- Trump faces growing risk of losing key Iran war vote in Congress - Axios
+- Live Q&A: What Putin's China Visit Means for Beijing’s Ties With Russia and the US - Bloomberg.com
+- Two Major Russian Oil Refineries Shut Down After Ukrainian Drone Attacks - Kyiv Post
 - General Assembly backs historic World Court climate crisis ruling - UN News
-- SpaceX Files IPO Paperwork; Nvidia Earnings in Focus — Live Updates - WSJ
-- Bitcoin miners tied to AI rise as Nvidia posts big earnings beat and strong outlook - CoinDesk
+- Whale to be removed from Danish island after failed German rescue - BBC
+- S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC
+- In SpaceX’s IPO, Elon Musk is a risk factor - The Verge
 - Meta cuts 8,000 jobs in sweeping global layoffs - Al Jazeera
-- Samsung strike on hold as workers push for AI bonus - BBC
+- AI turned Samsung into a $1 trillion company. Its workers want a bigger slice of the pie - CNN
 - Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC - AppleInsider
-- Xreal's Project Aura Smartglasses Are A Maximalist Take On Android XR - Engadget
+- Apple unveils new accessibility features, and updates with Apple Intelligence - Apple
