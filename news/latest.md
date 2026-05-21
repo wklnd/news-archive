@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-21 19:19_
+_Updated: 2026-05-21 21:28_
 
-- Read the DNC’s 2024 autopsy obtained by CNN - CNN
-- Trump Live Updates: Latest News on White House Ballroom Funding, Taiwan and More - The New York Times
-- China says US should stop 'threats' against Cuba after ex-leader charged - BBC
+- Read the DOJ's memo to Republican senators on how Trump's $1.8 billion 'anti-weaponization' fund will work - PBS
+- Disputed Democratic autopsy of 2024 loss says White House failed Harris - The Washington Post
 - Blanche to meet with senators - Politico
+- China says US should stop 'threats' against Cuba after ex-leader charged - BBC
+- Supreme Court dismisses Alabama's bid to execute inmate with borderline intellectual disability - ABC News - Breaking News, Latest News and Videos
+- Mike Duggan ends independent campaign for Michigan governor - The Detroit News
+- Republicans cancel votes amid fight over Trump’s ‘anti-weaponization’ fund - NBC News
+- Key federal agency approves the design plan for Trump’s Washington arch - AP News
 - Charges dismissed against official at school where 6-year-old shot teacher - BBC
-- Live Updates: Iran says it's mulling latest U.S. peace proposal, Trump says he'll wait "a couple of days" - CBS News
-- San Diego shooting shows disturbing trend of shooters copying acts of violence - The Guardian
-- Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump - The New York Times
-- Bone Found Near Guthrie Home Predates Her Disappearance by 750 Years - The New York Times
-- Feeding Our Future fraud ringleader Aimee Bock set to be sentenced Thursday - CBS News
+- Tennessee stops execution after failing to find inmate's vein for lethal drugs, attorney says - CBS News
 - Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post
-- How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’ - Al Jazeera
 - Record 274 climbers summit Everest from Nepalese side in single day - The Guardian
-- Ukraine says its drones hit another refinery deep inside Russia as long-range strikes escalate - AP News
+- Gaza flotilla activists deported from Israel as backlash over treatment grows - BBC
+- Protesters storm Ebola hospital to retrieve victim’s body - The Telegraph
 - Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's
-- Nvidia beats expectations again as AI boom drives revenue surge, but shares slip - Yahoo Finance
-- US to invest $2 billion in IBM, other quantum computing firms - Reuters
-- SpaceX will launch its 1st-ever Starship V3 megarocket today. The stakes couldn't be higher - Space
-- Google is pitching an AI agent ecosystem to consumers who may not buy it - TechCrunch
-- The Company Behind the Flipper Zero Hacking Tool Is Making a Cyberdeck - Gizmodo
+- Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC
+- A trillion dollar question: Will SpaceX's Starship launch go well? - NPR
+- Stellantis Unveils €60 Billion Strategic Plan to Accelerate Growth and Profit - Stellantis.com
+- New Flipper One Multi-Tool Computer Is Built for Tinkerers - PCMag
+- Sony’s other PS Plus plans are going up in price too. - theverge.com
