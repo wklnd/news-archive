@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-21 21:26_
+_Updated: 2026-05-21 23:12_
 
 ## Top Stories
 
-- Sveriges totalförsvar i fokus när statsministern tog emot Natos generalsekreterare Mark Rutte - Regeringen.se
+- Kristersson om Rubio-mötet: "Kommer vara tydliga" - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Zelenskyj i samtal med Starmer - Dagens Nyheter
-- Jagas för att ha beställt mord: ”Most wanted” - Aftonbladet
-- Drönarlarm i Lettland avblåst - GP
-- Luleåborna i sorg – Michael kämpar mot tårarna efter dödsolyckan - Sveriges Radio
-- Moderaterna: Skapa ett drönarvärn - Västerbottens-Kuriren
+- Planerade mord på Irankännare – tonåringar döms - Folkbladet
+- Trump utesluter att inleda militärinsats mot Grönland - Omni
+- Man cyklade in i bildörr och blev påkörd av mopedist - TV4 Nyheterna
+- Experten: Åtalet mot Castro är ”en seger för Trump” - GP
 - Arbetsplatsolycka i Norrköping – en person förd till sjukhus - Corren
 - Häst död efter krock med bil - SVT Nyheter
 - Olivia kämpar för upprättelse efter omstritt ingrepp vid förlossning - Dagens Nyheter
 - Ny generaldirektör för Statens kulturråd - GP
-- Trump utesluter att inleda militärinsats mot Grönland - Omni
-- Varnar för rysk-belarusisk offensiv – Ukraina kräver enad europeisk front - Dagens Nyheter
-- Rädda Barnen: Ingen vapenvila att tala om i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Israel utvisar aktivister från Gazakonvoj - Västerbottens-Kuriren
+- Källor: Netanyahu irriterad efter samtal med Trump - Västerbottens-Kuriren
+- Israel släpper aktivister från Gazakonvoj - Hufvudstadsbladet – HBL
+- FN röstar ja till resolution om klimatansvar - Västerbottens-Kuriren
+- Ukraina: Två döda i ryska attacker - Västerbottens-Kuriren
 - Musks planer avslöjade: Mars, asteroidbrytning och datacenter i rymden - Omni
 - Nvidias rapport: Den omfattande övergången till AI fortskrider enligt plan; aktierna är undervärderade - Morningstar Canada
-- Wallenberg: ”Europa måste karva ut sin egen roll” - Svenska Dagbladet
-- Ronneby Airport om regeringens stödpaket: ”Ökad tillgänglighet” - SVT Nyheter
+- Stenbeck goes Wallenberg - Svenska Dagbladet
+- Wallenberg: ”Europa måste karva ut sin egen roll” - Aftonbladet
 - Googles nya AI-agenter kan ta tronen från Open AI - Omni
 - Stora stölden: 270 dräktiga får försvunna – värda nära en miljon - Expressen
 
 ## World News
 
 - Börstoppen: ”Det kommer att vara en global notering” - Omni
-- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
+- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,12 +41,12 @@ _Updated: 2026-05-21 21:26_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 - Montrose pressar Avanza – med billigaste globalfonden - Placera.se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 
 ## Technology
 
@@ -74,21 +74,21 @@ _Updated: 2026-05-21 21:26_
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
@@ -97,25 +97,25 @@ _Updated: 2026-05-21 21:26_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - nyteknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- E-hälsa inom EU - Läkartidningen
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
+- E-hälsa inom EU - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
@@ -125,7 +125,7 @@ _Updated: 2026-05-21 21:26_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
