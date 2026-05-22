@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-22 20:15_
+_Updated: 2026-05-22 22:19_
 
 ## Top Stories
 
+- Buss och bil i allvarlig olycka - Aftonbladet
+- Tonårsflicka död efter trafikolycka i Malmö - Västerbottens-Kuriren
 - De ville stänga Natomötet – sedan utbröt tumult - GP
-- Flicka i 15-årsåldern död – påkörd på övergångsställe vid Södervärn - Sydsvenskan
-- Nytt system ska varna i mobilen - Västerbottens-Kuriren
+- SE-Alert: Ny kanal för Viktigt meddelande till allmänheten - Krisinformation.se
 - Stort strömavbrott i Sotenäs – nästan 12 000 utan el - GP
 - Karnespex, men inte karnebäst - Lundagard.se
-- Polisen: Två rappare bakom våldsvågen avslöjade - Dagens Nyheter
 - Arbetskraftsinvandring: 27 yrken får sänkt lönekrav - Dagens Arena
-- Region Skåne döms efter omtalat mål om yttre press under förlossning - SVT Nyheter
-- Uppgifter: Tullverket har skjutit mot bil i Stockholm - Expressen
-- Sverige och USA ingår ett bilateralt tekniksamarbete - Regeringen.se
+- Lärare i Skellefteå klämde 12-årig elev på rumpan – döms - SVT Nyheter
+- Polisen: Två rappare bakom våldsvågen avslöjade - Dagens Nyheter
+- Stor polisinsats i södra Stockholm - SVT Nyheter
 - Ebola slår hårt mot Kongo-Kinshasa – finns inga vaccin - Dagens Nyheter
-- Ilska mot Israel kan ge nya sanktioner från EU - Västerbottens-Kuriren
-- Ungerns regering vill tidsbegränsa ledare - Corren
 - Sjukvård och kvinnors situation i fokus under ministerbesök i Ukraina - Regeringen.se
+- Putin anklagar Ukraina för terror – tillbakavisas - Corren
+- Underrättelsechefen lämnar i USA - EFN
+- Uppgifter: Europeiska börsnoteringar kan skjutas upp inför Spacex-introduktion - BN - Börsvärlden
 - Nya vice riksbankschefen: Tacksam över att vi inte är USA - Dagens Nyheter
-- Spotifys vd-duo lyfte elefanten i rummet – då steg aktien kraftigt - EFN
-- Wallenberg: Direktörer, sluta att gömma er - Svenska Dagbladet
-- Investerarna struntar i oron – USA-börs på rekordnivå - Dagens PS
-- Flipper visar upp ny Linux-baserad enhet – Flipper One - Computer Sweden
-- Nintendo skruvar upp takten för Switch 2 - Västerbottens-Kuriren
+- Japan testar nytt superplan – mycket snabbare än Concorde - Dagens PS
+- Coop och Axfood stoppar varor från Vaggeryds chark efter SVT:s avslöjande - SVT Nyheter
+- 1 vecka innan Bond-spelet släpps - ny trailer visar action och bilar - MovieZine
+- Google öppnar upp för nya smarta högtalare med Gemini. Släpper ny referensdesign. - feber.se
 
 ## World News
 
@@ -38,13 +38,13 @@ _Updated: 2026-05-22 20:15_
 - Global recorded music revenue hit $31.7B in 2025 as paid streaming surged - Seeking Alpha
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Börschefen om Space X besked: ”En global notering” - Dagens industri
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global stålproduktion sjönk i april – ökning i USA - Dagens industri
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Börschefen om Space X besked: ”En global notering” - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
 
@@ -56,6 +56,7 @@ _Updated: 2026-05-22 20:15_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -63,29 +64,27 @@ _Updated: 2026-05-22 20:15_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
-- Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Four European takes on open banking - Mastercard Data and Services - Mastercard
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Consid takes on the German market - Via TT
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,72 +92,73 @@ _Updated: 2026-05-22 20:15_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Water Science Lab - Malmö universitet
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- AI och data science - Stockholms universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
