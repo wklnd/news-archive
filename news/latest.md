@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-22 18:04_
+_Updated: 2026-05-22 20:22_
 
-- Republicans call off vote on Iran war resolution that was on the verge of passing - NPR
+- Tulsi Gabbard resigns as US director of national intelligence - BBC
+- Pushed to the limit, Republicans show rare defiance to Trump’s demands - AP News
+- 'Finally we feel like we’re getting a little something': Jan. 6 rioters are hungry for Trump's $1.8 billion settlement - Yahoo Finance
 - Rutte and Polish officials cheer Trump’s U-turn on NATO troops in Europe - politico.eu
-- Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system - AP News
-- Trump's revenge politics comes back to haunt him - Axios
+- U.S. Citizenship and Immigration Services Will Grant ‘Adjustment of Status’ Only in Extraordinary Circumstances - USCIS (.gov)
 - 'We'll never know if he could have been saved.' The gaps in Trump's rural health fund - NPR
-- Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
-- ‘They Protected You Guys’: Mourners Honor Heroes in Mosque Shooting - The New York Times
-- Why Trump's AI executive order was pulled - Axios
-- All charges against Chicago protesters dropped in latest ICE case to unravel - The Guardian
-- US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says - Al Jazeera
-- Ebola Outbreak Death Toll Rises To 177: ‘Deeply Worrisome,’ WHO Chief Says (Live Updates) - Forbes
+- Trump will swear in Warsh on Friday to lead US Federal Reserve - Reuters
+- Read Trump's unsigned AI executive order - Politico
+- One of shooters in deadly attack at San Diego mosque was previously flagged by FBI - The Guardian
+- Full Transcript: Judge Discusses Prosecutors’ ‘Errors’ In Broadview Protester Case - Block Club Chicago
+- WHO chief says Ebola is spreading rapidly in Congo, upgrades risk assessment - AP News
 - Live Updates: Rubio says "slight progress" in Iran peace talks, but rejects Strait of Hormuz "tolling system" - CBS News
-- US said to fire more interceptors to protect Israel in latest Iran war than Israel did - The Times of Israel
-- Alberta to vote on whether to pursue separation referendum - Politico
-- Wall St rises, Dow hits record high with U.S.-Iran talks in focus - Reuters
-- Shein, the Face of Fast Fashion, Buys the Sustainability-Minded Everlane - The New York Times
-- Memorial Day Weekend Gas Prices Reach Four-Year Highs - AAA Gas Prices
-- Stocks climb despite Iran uncertainty, dollar near recent highs, oil up - Yahoo Finance
-- Why Google's Gemini Spark AI agent could be a game changer - CBS News
-- James Bond Finally Returns in Action-Packed Trailer for Next Week's New Release - Collider
+- Rubio tries to reassure Nato allies over US troop deployments - BBC
+- India swats cockroach movement over 'national security' - dw.com
+- Everlane Finalizes Sale to Shein, the Fast Fashion Giant - The New York Times
+- Stock Market Today: Kevin Warsh Swearing in as Fed Chair; S&P 500 on Winning Streak — Live Updates - WSJ
+- BofA’s Hartnett Warns Mega-IPOs Risk Bubble Like Roaring ‘20s - Bloomberg.com
+- SpaceX Starship Flight 12 live launch updates: Starship V3 to make 2nd launch attempt today - Space
+- Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update - The New York Times
+- You can no longer Google the word ‘disregard’ - TechCrunch
