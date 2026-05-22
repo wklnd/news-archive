@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-22 03:34_
+_Updated: 2026-05-22 07:49_
 
-- Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times
+- Trump lawyer-turned-critic Michael Cohen says he's applying for "anti-weaponization fund" claim - CBS News
 - Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
 - House Republicans scrap vote to rein in Trump's war in Iran - Axios
-- 4 takeaways from the DNC's long-awaited 2024 election autopsy report - PBS
+- Trump yanked AI order after David Sacks raised industry concerns - Politico
+- Live Updates: Iran says it's mulling latest U.S. peace proposal, Trump says he'll wait "a couple of days" - CBS News
 - Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings - AP News
-- Donald Trump abruptly postpones AI order after White House infighting - Financial Times
-- RFK Jr. announces 'the largest autism fraud bust in American history' and it’s in Minnesota - Politico
-- Over 2,000 gather in San Diego to mourn three men killed in mosque attack - Al Jazeera
-- Meta settles major social media addiction lawsuit with school district - The Guardian
-- Grand jury improprieties revealed in court as ‘Broadview Six’ case unravels - Chicago Tribune
-- Record 274 climbers scale Mount Everest in a single day from Nepali side - Reuters
-- DRC Ebola hospital set on fire as protesters demand access to bodies of dead relatives - africanews.com
+- Takeaways from the Democratic National Committee's long-awaited autopsy report on 2024 election - AP News
+- San Diego Mosque Shooter So Alarmed Police, They Seized Father’s Guns - The New York Times
+- Charges dropped against activists in Chicago immigration crackdown amid grand jury misconduct claims - CNN
+- Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him - The Guardian
+- Trump says U.S. will send 5,000 more troops to Poland - Axios
+- Record 274 climbers scale Everest via Nepal in one day - BBC
 - Ebola outbreak spirals out of control: how might it have started? - Nature
-- Gaza flotilla activists deported from Israel as backlash over treatment grows - BBC
-- SpaceX Starship Flight 12 live launch updates: 1st Starship V3 launch scrubbed, may fly May 22 - Space
-- Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera
-- US to invest $2 billion in IBM, other quantum computing firms - Reuters
+- Poland issues entry ban against Israeli security minister over treatment of Gaza activists - Notes From Poland
+- SpaceX Starship Flight 12 live launch updates: 1st Starship V3 launch scrubbed at last minute - Space
+- Is Nvidia a Buy After Its Blowout Earnings Report? History Offers a Strikingly Clear Answer. - The Motley Fool
+- Walmart plans price cuts using tariff refunds as shoppers get skittish - NPR
 - Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle - TechCrunch
-- Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI Chip - Engadget
-- Introducing Shortcuts Playground: Create Apple Shortcuts with Claude Code or Codex - MacStories
+- Anker’s new earbuds are the first with its AI chip that boosts noise reduction - theverge.com
+- Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google
