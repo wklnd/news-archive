@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-22 22:19_
+_Updated: 2026-05-22 23:42_
 
 ## Top Stories
 
-- Buss och bil i allvarlig olycka - Aftonbladet
-- Tonårsflicka död efter trafikolycka i Malmö - Västerbottens-Kuriren
-- De ville stänga Natomötet – sedan utbröt tumult - GP
-- SE-Alert: Ny kanal för Viktigt meddelande till allmänheten - Krisinformation.se
-- Stort strömavbrott i Sotenäs – nästan 12 000 utan el - GP
-- Karnespex, men inte karnebäst - Lundagard.se
+- 18-åringarna sänkte Italien: ”Kul att se dem” - GP
+- DN Direkt – Rutte avslutar Natomötet i Helsingborg - Dagens Nyheter
+- Sju personer till sjukhus – bil började brinna efter krock med buss - Sveriges Radio
+- Flicka död efter olycka i Malmö – filmer sprids - Västerbottens-Kuriren
+- Roman Badanin: ”Putin är ingen ond själ – han beter sig som vilken rysk tjänsteman som helst” - Dagens Nyheter
+- Afrikavärme drar in över Sverige - Expressen
 - Arbetskraftsinvandring: 27 yrken får sänkt lönekrav - Dagens Arena
 - Lärare i Skellefteå klämde 12-årig elev på rumpan – döms - SVT Nyheter
 - Polisen: Två rappare bakom våldsvågen avslöjade - Dagens Nyheter
-- Stor polisinsats i södra Stockholm - SVT Nyheter
+- Olivia får rätt – vårdingreppet var kränkande - Aftonbladet
 - Ebola slår hårt mot Kongo-Kinshasa – finns inga vaccin - Dagens Nyheter
+- Tulsi Gabbard avgår som USA:s underrättelsechef - Dagens Nyheter
+- Minst tio döda i israeliska attacker mot Libanon - GP
 - Sjukvård och kvinnors situation i fokus under ministerbesök i Ukraina - Regeringen.se
-- Putin anklagar Ukraina för terror – tillbakavisas - Corren
-- Underrättelsechefen lämnar i USA - EFN
 - Uppgifter: Europeiska börsnoteringar kan skjutas upp inför Spacex-introduktion - BN - Börsvärlden
 - Nya vice riksbankschefen: Tacksam över att vi inte är USA - Dagens Nyheter
 - Japan testar nytt superplan – mycket snabbare än Concorde - Dagens PS
-- Coop och Axfood stoppar varor från Vaggeryds chark efter SVT:s avslöjande - SVT Nyheter
+- Warsh insvuren som ny Fed-chef: ”Dra lärdom” - Västerbottens-Kuriren
 - 1 vecka innan Bond-spelet släpps - ny trailer visar action och bilar - MovieZine
 - Google öppnar upp för nya smarta högtalare med Gemini. Släpper ny referensdesign. - feber.se
 
@@ -35,37 +35,37 @@ _Updated: 2026-05-22 22:19_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Global recorded music revenue hit $31.7B in 2025 as paid streaming surged - Seeking Alpha
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global stålproduktion sjönk i april – ökning i USA - Dagens industri
 - Bildextra: NHL Global series med Icelandair - travelnews-se
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Aftonbladet kan vinna ”mediebranschens Oscars-gala” - Aftonbladet
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Svenska Vertiseit köper Scala för 265 miljoner kronor – stärker global techposition - Dagens PS
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -74,17 +74,18 @@ _Updated: 2026-05-22 22:19_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Consid takes on the German market - Via TT
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Four European takes on open banking - Mastercard Data and Services - Mastercard
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-05-22 22:19_
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
