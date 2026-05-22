@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-22 15:14_
+_Updated: 2026-05-22 18:04_
 
-- Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
-- Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times
-- Trump's revenge politics comes back to haunt him - Axios
-- NATO allies bewildered by Trump’s about-face on US troop moves in Europe - AP News
-- Pressure from Silicon Valley helped block Trump’s expected order on AI - The Washington Post
-- Tennessee execution called off after failed lethal injection - BBC
-- Nation’s largest public pension fund plagued by secrecy and underperformance, probe finds - NBC News
-- San Diego Mosque Shooter So Alarmed Police, They Seized Father’s Guns - The New York Times
 - Republicans call off vote on Iran war resolution that was on the verge of passing - NPR
-- Federal commission, packed with Trump allies, approves his towering triumphal arch - The Washington Post
+- Rutte and Polish officials cheer Trump’s U-turn on NATO troops in Europe - politico.eu
+- Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system - AP News
+- Trump's revenge politics comes back to haunt him - Axios
+- 'We'll never know if he could have been saved.' The gaps in Trump's rural health fund - NPR
+- Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
+- ‘They Protected You Guys’: Mourners Honor Heroes in Mosque Shooting - The New York Times
+- Why Trump's AI executive order was pulled - Axios
+- All charges against Chicago protesters dropped in latest ICE case to unravel - The Guardian
+- US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says - Al Jazeera
+- Ebola Outbreak Death Toll Rises To 177: ‘Deeply Worrisome,’ WHO Chief Says (Live Updates) - Forbes
 - Live Updates: Rubio says "slight progress" in Iran peace talks, but rejects Strait of Hormuz "tolling system" - CBS News
 - US said to fire more interceptors to protect Israel in latest Iran war than Israel did - The Times of Israel
-- In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way - The New York Times
-- New record set as 274 climbers scale Everest’s south side in single day - CNN
-- SpaceX Starship Flight 12 live launch updates: 1st Starship V3 launch scrubbed, may fly May 22 - Space
-- What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents - CNBC
-- Dow futures jump 300 points as Wall Street heads for winning week, Treasury yields ease: Live updates - CNBC
-- Oil Prices Jump on Impasse Over Reopening the Strait of Hormuz - The New York Times
-- Bungie Plans Layoffs After Ending ‘Destiny 2’ Development - Bloomberg
-- Six search engines worth trying now that Google isn’t really Google anymore - TechCrunch
+- Alberta to vote on whether to pursue separation referendum - Politico
+- Wall St rises, Dow hits record high with U.S.-Iran talks in focus - Reuters
+- Shein, the Face of Fast Fashion, Buys the Sustainability-Minded Everlane - The New York Times
+- Memorial Day Weekend Gas Prices Reach Four-Year Highs - AAA Gas Prices
+- Stocks climb despite Iran uncertainty, dollar near recent highs, oil up - Yahoo Finance
+- Why Google's Gemini Spark AI agent could be a game changer - CBS News
+- James Bond Finally Returns in Action-Packed Trailer for Next Week's New Release - Collider
