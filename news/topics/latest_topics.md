@@ -1,37 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-22 03:29_
+_Updated: 2026-05-22 07:40_
 
 ## Top Stories
 
-- Kristersson om Rubio-mötet: "Kommer vara tydliga" - Västerbottens-Kuriren
-- Trump: Skickar 5 000 extra soldater till Polen - GP
-- Karin Eriksson: Därför fortsätter danskar och grönländare att tvivla på Trump - Dagens Nyheter
-- Zelenskyj om attacken: ”Fortsätter på denna linjen” - Corren
-- IDF har tusentals på dödslistan: Spårar upp alla - Aftonbladet
-- Skräcksiffra för Trump – ”nytt rekord” - Expressen
-- Man död efter arbetsplatsolycka i Norrköping - Corren
-- Ville döda Irankännare – ringde på med kniv i hand - Västerbottens-Kuriren
-- Franska tillverkaren: Våra fregatter kan visst försvara sig mot drönare - Dagens Nyheter
-- S går till val på samarbeten över blockgränsen – Senaste nytt om valet 2026 - SVT Nyheter
+- Rubio i Sverige inför Natomöte - GP
+- USA skickar 5 000 soldater till Polen - Dagens Nyheter
+- Simona Mohamsson störtdyker i mätning: ”Oroande” - Omni
+- ”Biologisk danskhet” splittrar – Samira Nawa tar strid för att vara dansk och muslim - Dagens Nyheter
 - Libanon: Sjukhus träffat i israelisk attack – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kubas expresident Raúl Castro åtalas i USA - Västerbottens-Kuriren
-- FN röstar ja till resolution om klimatansvar - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Malmer Stenergard: Oförsvarligt agerande av Ben Gvir - Dagens Nyheter
-- Space X till börsen – värderas högre än Musks Tesla - Ny Teknik
-- Stjärnkocken reagerar på falukorvsfusket: ”Det är allvarligt” - SVT Nyheter
-- Knut Kainz Rognerud: ”Inrikesflyget har länge varit på dekis” - Sveriges Radio
-- Sverige halkar efter i konkurrensen om utländska investeringar - EY
+- Zelenskyj om attacken: ”Fortsätter på denna linjen” - Corren
+- DN Direkt – Grovt brott i Tranemo – två frihetsberövade - Dagens Nyheter
+- Man död i olycka – fick tungt föremål på sig - Västerbottens-Kuriren
+- Nu hävs badförbudet på stränderna - Malmö stad
+- S går till val på samarbeten över blockgränsen – Senaste nytt om valet 2026 - SVT Nyheter
+- Thailand halverar tiden för visumfria resor - SVT Nyheter
+- Ungerns regering vill tidsbegränsa ledare - Västerbottens-Kuriren
+- Medlarresa till Iran lagd på is - Svenska Dagbladet
+- Karin Eriksson: Därför fortsätter danskar och grönländare att tvivla på Trump - Dagens Nyheter
+- Svenska aktiesparare tvingas vänta på Space X börsresa - Omni
+- Lidls testvinnare fast i honungsrazzia - LT
+- Blixtkontroll efter SVT:s granskning – sex av tolv varor hos Vaggeryds chark underkända - SVT Nyheter
+- Muntert veckoslut på börserna i Asien - Folkbladet
+- Soundcore lanserar Liberty 5 Pro och Liberty 5 Pro Max – de två första produkterna med ANKER THUS™ AI-chip - Via TT
 - Googles nya AI-agenter kan ta tronen från Open AI - Omni
-- Xiaomi 17 Max lanseras med 8000 mAh och 200 MP - Swedroid
 
 ## World News
 
-- Börstoppen: ”Det kommer att vara en global notering” - Omni
 - PR Image - global 1 - Cision News
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
-- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
+- Russian Aviation Faces New International Route Cuts Amid Sanctions and Drone Threats - UNITED24 Media
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -44,6 +43,7 @@ _Updated: 2026-05-22 03:29_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
+- Börstoppen: ”Det kommer att vara en global notering” - Omni
 - Montrose pressar Avanza – med billigaste globalfonden - Placera.se
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -51,48 +51,48 @@ _Updated: 2026-05-22 03:29_
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
+- Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Vilken framtid arbetar du för? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
@@ -113,8 +113,8 @@ _Updated: 2026-05-22 03:29_
 - E-hälsa inom EU - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
@@ -126,19 +126,19 @@ _Updated: 2026-05-22 03:29_
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Water Science Lab - Malmö universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Klinisk forskning viktig framtidsfråga - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 
 ## Jordbruk
 
@@ -148,17 +148,17 @@ _Updated: 2026-05-22 03:29_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- ”35 miljoner fler jobb inom jordbruket till 2030” - ATL.nu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
