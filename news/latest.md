@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-22 00:50_
+_Updated: 2026-05-22 03:34_
 
-- Kyle Busch, two-time NASCAR Cup Series champion, dies at age 41 - NASCAR.com
-- Republicans stall votes on partisan ICE funding amid party infighting - NPR
 - Audit Immunity for Trump Family Puts I.R.S. in a Bind - The New York Times
-- 'The report's so stupid': The DNC 2024 autopsy is roiling Democrats - Politico
-- DOJ charges 15 in 'shocking' $90M Minnesota fraud schemes; Feeding Our Future 'ringleader' sentenced - Fox News
+- Senate GOP, frustrated with Trump’s $1.8B payout fund, delays vote on ICE money - The Washington Post
+- House Republicans scrap vote to rein in Trump's war in Iran - Axios
+- 4 takeaways from the DNC's long-awaited 2024 election autopsy report - PBS
 - Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings - AP News
-- Tony Carruthers’ execution stopped after corrections couldn’t set up a backup IV line - NBC News
-- Charges dismissed against official at school where six-year-old shot teacher - BBC
-- ‘I didn't like certain aspects’: Trump postpones AI executive order - Politico
-- Meta settles first US case over school costs tied to youth mental health, court filing shows - Reuters
-- Ebola responders say aid cuts by Western nations left them ill-equipped for outbreak - The Washington Post
+- Donald Trump abruptly postpones AI order after White House infighting - Financial Times
+- RFK Jr. announces 'the largest autism fraud bust in American history' and it’s in Minnesota - Politico
+- Over 2,000 gather in San Diego to mourn three men killed in mosque attack - Al Jazeera
+- Meta settles major social media addiction lawsuit with school district - The Guardian
+- Grand jury improprieties revealed in court as ‘Broadview Six’ case unravels - Chicago Tribune
+- Record 274 climbers scale Mount Everest in a single day from Nepali side - Reuters
 - DRC Ebola hospital set on fire as protesters demand access to bodies of dead relatives - africanews.com
-- Record 274 climbers summit Everest from Nepalese side in single day - The Guardian
-- Lukashenko Outlines When Belarus Would Join Russia’s War Against Ukraine - UNITED24 Media
-- Inside SpaceX’s IPO Filing: Musk’s Control, xAI Losses, and Anthropic’s Massive AI Deal - Barron's
-- Nvidia Earnings May Mark A Major Turning Point For The Stock Market - Seeking Alpha
-- Walmart warns US shoppers are cutting spending as higher petrol prices bite - BBC
+- Ebola outbreak spirals out of control: how might it have started? - Nature
+- Gaza flotilla activists deported from Israel as backlash over treatment grows - BBC
+- SpaceX Starship Flight 12 live launch updates: 1st Starship V3 launch scrubbed, may fly May 22 - Space
+- Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera
 - US to invest $2 billion in IBM, other quantum computing firms - Reuters
-- Samsung updates Galaxy S22 with May 2026 security patch - SamMobile
-- Google is pitching an AI agent ecosystem to consumers who may not buy it - TechCrunch
+- Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle - TechCrunch
+- Anker Debuts Soundcore Liberty 5 Pro Earbuds With Its Thus AI Chip - Engadget
+- Introducing Shortcuts Playground: Create Apple Shortcuts with Claude Code or Codex - MacStories
