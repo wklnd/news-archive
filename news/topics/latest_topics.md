@@ -1,39 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-23 09:15_
+_Updated: 2026-05-23 11:20_
 
 ## Top Stories
 
+- Regionalbuss tagen i beslag efter olyckan i Landskrona - Omni
 - SD vill ha nära hälften av ministerposterna - GP
-- JUST NU: En död och sju skadade – polisen utreder - Expressen
-- Polisen varnar: Sprid inte filmer från dödsolyckan i Malmö - Dagens Nyheter
-- 23 maj 07.57, Farligt föremål, misstänkt, Borås - Polisen.se
-- Uppgifter: USA överväger nya attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Exilryssar: ”Han borde inte kunna vara här” - Svenska Dagbladet
+- DN Direkt – Farligt föremål i Borås – koppling till skott utreds - Dagens Nyheter
 - Så blir en dag i de fängslade 13-åringarnas liv - Dagens Nyheter
+- Uppgifter: USA överväger nya attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sökes till jättefartygen: 500 sjömän - Västerbottens-Kuriren
 - DN Direkt – Man död i trafikolycka i Gällivare - Dagens Nyheter
 - De ville stänga Natomötet – sedan utbröt tumult - GP
-- Arbetskraftsinvandring: 27 yrken får sänkt lönekrav - Dagens Arena
-- Lärare i Skellefteå klämde 12-årig elev på rumpan – döms - SVT Nyheter
-- Ebola slår hårt mot Kongo-Kinshasa – finns inga vaccin - Dagens Nyheter
-- Över 90 döda efter olycka i kolgruva i norra Kina - SVT Nyheter
-- Pakistansk medlare framme i Iran - Västerbottens-Kuriren
-- Så jagar Israel alla inblandade i 7 oktober – listar tusentals namn - Dagens Nyheter
+- Ulf Kristersson (M): Valresultatet avgör – Senaste nytt om valet 2026 - SVT Nyheter
+- Tre nya fall av Ebola i Uganda - GP
+- Över 90 döda efter gruvras i Kina - Västerbottens-Kuriren
+- Tre gripna för övergrepp på franska skolor – hundratals utreds - Dagens Nyheter
+- DN Direkt – USA: Grönt kort måste sökas från hemländer - Dagens Nyheter
+- Kan Musk skapa en ny börsraket? - Svenska Dagbladet
+- Snabb och exakt styrning med Lexus steer-by-wire-teknik - Dagens Nyheter
 - Börsen tog långhelg i USA med sviten intakt: ”Vill inte missa en fred” - EFN
-- Spotify börjar reservera konsertbiljetter åt artisters mest dedikerade fans - m3.se
-- BNP Paribas höjer riktkursen för Telia till 60 kronor (58), upprepar outperform - BN - Placera.se
-- Den största Space X-raketen hittills är uppskjuten - Omni
+- Ny Space X-raket uppskjuten – störst hittills - Omni
 - Uppgifter: Apple släpper IOS 26.5.1 inom kort - Macworld.se
-- ”Vi tror att rösten är framtiden… När AI-eran kommer förändras mycket av interaktionen mellan klockan eller appen och användarna” – därför tror Coros att rösten är nyckeln till att slå Apple och Garmin - TechRadar
+- Identifiera allt du ser – med Googles nya AI-app - PC för Alla
 
 ## World News
 
 - PR Image - global 1 - Cision News
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
-- Vietnamesisk kock vinner silvermedalj för första gången vid Global Chefs Challenge 2026 - vietnam.vn
+- Vietnamesisk kock vinner silvermedalj för första gången vid Global Chefs Challenge 2026 - Vietnam.vn
 - Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - vietnam.vn
+- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
@@ -51,10 +51,10 @@ _Updated: 2026-05-23 09:15_
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - vietnam.vn
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
@@ -64,35 +64,35 @@ _Updated: 2026-05-23 09:15_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Albanien utser AI-bot till minister - Computer Sweden
+- Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Consid takes on the German market - Via TT
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Consid takes on the German market - Via TT
+- Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
@@ -121,44 +121,44 @@ _Updated: 2026-05-23 09:15_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - vietnam.vn
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- AI och data science - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 
 ## Jordbruk
 
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - vietnam.vn
-- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
