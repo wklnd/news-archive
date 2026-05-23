@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-24 00:25_
+_Updated: 2026-05-24 01:35_
 
 ## Top Stories
 
-- Tre Kronors smäll: Talangen är borta - Expressen
-- Flyglarm över Kiev efter Zelenskyjs varning - GP
+- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
 - Folkfest i Lund när karnevalen intog stan - GP
 - Trump: Ett avtal ”till stora delar klart” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Boende upprörda efter skottlossning i Älvsjö: ”Det är åt helvete” - Sveriges Radio
-- Två år av svåra olyckor i centrala Malmö - Sydsvenskan
-- Kraftig lägenhetsbrand i Göteborg - Västerbottens-Kuriren
+- Larm om skottlossning nära Vita huset - Västerbottens-Kuriren
+- Tre skjutna vid villa i Herrängen – stor polisinsats, misstänkt gripen - Mitt i
+- Vd:n sparkar hela HR – ”skapade problem” - Svenska Dagbladet
 - DN Direkt – Rutte avslutar Natomötet i Helsingborg - Dagens Nyheter
-- Sökes till jättefartygen: 500 sjömän - Dagens Nyheter
+- Sökes till jättefartygen: 500 sjömän - Corren
+- Pressträff om arbetskraftsinvandring - Regeringen.se
 - 23 maj 07.57, Farligt föremål, misstänkt, Borås - polisen.se
 - Tre nya fall av ebola i Uganda - Västerbottens-Kuriren
-- Nya våldsamma protester i Serbien - Västerbottens-Kuriren
-- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
-- Många skadade i tysk spårvagnsolycka - Västerbottens-Kuriren
+- Nya våldsamma protester i Serbien - GP
+- DN Direkt – Många skadade i tysk spårvagnsolycka - Dagens Nyheter
+- Putin lovar hämnd efter påstådd drönarattack - Västerbottens-Kuriren
 - Boomerdraget – mixar alkohol med motion - Svenska Dagbladet
 - Jakt på nyttigare järnrik mat – serverades på Nobel - Aftonbladet
 - COOP häver säljstopp på Vaggeryds Charks falukorv - Skillingaryd
 - Kan Musk skapa en ny börsraket? - Svenska Dagbladet
 - Svensk-indiskt rymdprogram ska försöka lösa Venus-mysteriet - Dagens Nyheter
-- Hyundai släpper nya bilteman med ”Peanuts” och FIFA - Teknikveckan
+- (+) Så får du nytta av nyheterna i Samsungs One UI 8.5, Del 1 - mobil.se
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-05-24 00:25_
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
 - Vietnamesisk kock vinner silvermedalj för första gången vid Global Chefs Challenge 2026 - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
+- BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
+- Russian Aviation Faces New International Route Cuts Amid Sanctions and Drone Threats - UNITED24 Media
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global stålproduktion sjönk i april – ökning i USA - Dagens industri
-- Börschefen om Space X besked: ”En global notering” - Dagens industri
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
@@ -55,8 +55,8 @@ _Updated: 2026-05-24 00:25_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
@@ -98,31 +98,30 @@ _Updated: 2026-05-24 00:25_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -132,13 +131,14 @@ _Updated: 2026-05-24 00:25_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- AI och data science - Stockholms universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 
 ## Jordbruk
 
@@ -152,13 +152,13 @@ _Updated: 2026-05-24 00:25_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land.se
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land.se
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Spännande visning av uppkomsten efter direktsådd - Land.se
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
