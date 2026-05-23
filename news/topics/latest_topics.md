@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-23 16:08_
+_Updated: 2026-05-23 17:42_
 
 ## Top Stories
 
-- Tre skottskadade vid villa i södra Stockholm - Svenska Dagbladet
+- Skjutning i södra Stockholm – tre skadade - Dagens Nyheter
 - Israelisk minister förbjuds inresa - Västerbottens-Kuriren
-- Rekordmånga volontärer i Lundakarnevalen – Sofie håller i ”maskhålet” - Sveriges Radio
-- SD vill ha nära hälften av ministerposterna - GP
-- 40 000 uppmanas till evakuering i Kalifornien - SVT Nyheter
-- DN Direkt – Mette Frederiksen får uppdraget att bilda regering – igen - Dagens Nyheter
-- Sökes till jättefartygen: 500 sjömän - GP
-- Artist häktad misstänkt för våldtäkt - SVT Nyheter
+- Över 500 barn döda i mässlingsutbrott - GP
+- Folkfest i Lund när karnevalen intog stan - GP
+- Kraftig lägenhetsbrand i Göteborg - Aftonbladet
+- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
+- Sökes till jättefartygen: 500 sjömän - Corren
+- Artist häktas för misstänkt våldtäkt - Aftonbladet
 - Högsommarvärme – men räkna med regn och åska - Dagens Nyheter
 - Ulf Kristersson (M): Valresultatet avgör – Senaste nytt om valet 2026 - SVT Nyheter
-- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
+- Han tvingades riva sitt hus – för att ge plats åt israelisk nöjespark - Dagens Nyheter
 - Uppgifter: USA överväger nya attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Drönare kraschat i Lettland - GP
-- Trump: Skickar 5 000 extra soldater till Polen - Corren
+- Roman Badanin: ”Putin är ingen ond själ – han beter sig som vilken rysk tjänsteman som helst” - Dagens Nyheter
+- Trump-vän tillbaka vid makten i Slovenien - Västerbottens-Kuriren
 - Kan Musk skapa en ny börsraket? - Svenska Dagbladet
-- Petter Stordalen shoppar köpcentrum: "Äntligen" - Dagens PS
-- Snabb och exakt styrning med Lexus steer-by-wire-teknik - Dagens Nyheter
+- Fem sätt att hjälpa ditt barn – sommarjobbet är årets viktigaste ekonomilektion | Andra Farhad - Svenska Dagbladet
 - Teslas nya drag: Prenumeration för 990 kr i Sverige - Carup.se
+- Postnord stänger kontor – Norrlandskommuner larmar - Omni
 - Svensk-indiskt rymdprogram ska försöka lösa Venus-mysteriet - Dagens Nyheter
-- Kinas flaggskepps-GPU Lisuan LX 7G100 kämpar för att komma ikapp åldrande Nvidia RTX 3060 i nytt test - notebookcheck.se
+- Hyundai släpper nya bilteman med ”Peanuts” och FIFA - Teknikveckan
 
 ## World News
 
@@ -33,20 +33,20 @@ _Updated: 2026-05-23 16:08_
 - Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Global stålproduktion sjönk i april – ökning i USA - Dagens industri
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
-- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-05-23 16:08_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 
 ## Business
 
@@ -98,33 +98,33 @@ _Updated: 2026-05-23 16:08_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
 
 ## Science
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -136,12 +136,13 @@ _Updated: 2026-05-23 16:08_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
@@ -151,8 +152,8 @@ _Updated: 2026-05-23 16:08_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
@@ -161,4 +162,3 @@ _Updated: 2026-05-23 16:08_
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
