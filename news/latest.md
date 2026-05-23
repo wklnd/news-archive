@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-23 03:27_
+_Updated: 2026-05-23 07:25_
 
 - Tulsi Gabbard resigns as director of national intelligence - The Washington Post
-- Trump administration upends green card process, potentially compelling hundreds of thousands to leave US to apply - CNN
-- Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia - The New York Times
-- 40,000 Southern Californians ordered to evacuate amid threat of chemical explosion - NBC News
-- 'Stupid on stilts' - Trump's investigation compensation fund draws ire of Republicans - BBC
+- Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says - The New York Times
+- Federal judge dismisses criminal charges against Kilmar Abrego Garcia - NPR
+- 40,000 evacuated in California chemical leak as Orange County officials warn tank "is going to fail," may explode - CBS News
+- Ukraine war briefing: Putin promises revenge after blaming Kyiv for Luhansk attack he says killed six - The Guardian
 - Trump says he will not attend son Donald Trump Jr.'s wedding - Reuters
-- DNC autopsy author was previously part of another Democratic humiliation - Politico
-- U.S. prepares for new military strikes against Iran - CBS News
-- Staten Island fire: At least 31 people injured after explosion in shipyard - ABC7 New York
+- The D.N.C. Chairman, Trump’s $1.8 Billion Fund and More Politics News - The New York Times
+- California woman dead in murder-suicide may have given thousands to a scammer claiming to be Tom Selleck - NBC News
+- Live Updates: U.S. preparing for possible strikes against Iran, sources say, as Rubio says tolls on Strait of Hormuz "not acceptable" - CBS News
+- Staten Island fire: 1 dead, dozens injured after explosion in shipyard - ABC7 New York
+- Flotilla activists describe beatings, tasers and mistreatment by Israeli forces - Politico
 - Despite ‘chaotic communication’ Polish aide says Trump is committed to troops in Europe - politico.eu
-- Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know. - The New York Times
-- Gaza flotilla activists allege sexual assault and rape in Israeli detention - The Guardian
-- Rapid rise of "Cockroach Janta Party" online protest movement appears to spook India's leaders - CBS News
+- US or Iran: Who will win the Hormuz endurance game? - DW.com
+- Ebola outbreak now third largest recorded and "spreading rapidly" - Ars Technica
+- Stock Market Today: S&P 500, Nasdaq Score Weekly Wins As Dow Logs Record High (Live Coverage) - Investor's Business Daily
+- Trump to Fed chair Warsh: "Don't look at me, don't look at anybody" - Axios
 - SpaceX Starship Flight 12 launch updates: Starship V3 Ship makes fiery splashdown in Indian Ocean as planned - Space
-- Trump wants new Fed chair to be 'totally independent' - BBC
-- Markets News, May 22, 2026: Stocks End Higher Ahead of Holiday Weekend; Dow Closes at Record High; S&P 500 Posts 8th Straight Week of Gains - Investopedia
-- Wall Street thinks IMAX is ripe for a sale. Here's who could buy it - CNBC
-- Even If You Hate AI, You Will Use Google AI Search - WIRED
+- Amazon Memorial Day sales are live— here's what to buy from brands like Apple, Ninja, Adidas and more - Yahoo
+- Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google
 - You can no longer Google the word ‘disregard’ - TechCrunch
-- GTA 6 November 19 Date Holds as Take-Two Beats Earnings, but Zelnick Stays Coy on the Inevitable PC Port - Wccftech
