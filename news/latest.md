@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-23 17:46_
+_Updated: 2026-05-23 19:41_
 
 - Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
+- Why is Orange County chemical tank crisis so hard to fix? - Los Angeles Times
 - A tough week for Trump on Capitol Hill, as Republicans deal him setbacks - The Washington Post
-- Lawsuit Argues Trump’s $1.8 Billion Fund Excludes Those He Targeted - The New York Times
-- Officials say a chemical explosion in Orange County could be catastrophic. Here’s why. - Los Angeles Times
-- Tulsi Gabbard resigns as director of national intelligence - Axios
-- One solution for Maine's struggling fishing industry? Give fillets away for free - NPR
-- The deepest fears of San Diego’s religious communities were realized in Islamic Center shooting - NBC News
-- DNC autopsy author was previously part of another Democratic humiliation - Politico
 - Live Updates: U.S. preparing for possible strikes against Iran, sources say, as Rubio says tolls on Strait of Hormuz "not acceptable" - CBS News
-- Food, Flashlights and Fans: Floridians Step Up Aid to Cuban Relatives - The New York Times
-- Deadliest coal mine explosion in China in years kills 90 people, state media say - AP News
-- U.S. and Iran report progress on talks ending war, looking to next few days - Reuters
-- Far-right Israeli minister Ben-Gvir banned from French territory, FM says - France 24
-- Chile's MAGA-inspired border control - NPR
+- Lawsuit Argues Trump’s $1.8 Billion Fund Excludes Those He Targeted - The New York Times
+- Exclusive: Trump says he's "50/50" on Iran deal or bombs, will meet envoys to decide - Axios
+- DNC autopsy author was previously part of another Democratic humiliation - Politico
+- Behavior of teen in mosque shooting led police to seize family guns a year before attack - AP News
+- Bettina Anderson floated a White House wedding to Donald Trump Jr. She’ll get an island ceremony instead - CNN
+- Some damage possible from strong to very strong shaking reported from magnitude-6.0 quake - Big Island Now
+- Deadliest coal mine explosion in China in years kills at least 82 people, local officials say - AP News
+- Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU - Al Jazeera
+- France bans Israeli security minister Ben Gvir from country - France 24
+- China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ
 - Elon Musk's SpaceX IPO filing just told us what business he's betting on for the future—and it's not rockets - Fortune
-- 'I feel stuck': Due to rising gas prices, some Americans are staying home on Memorial Day - ABC News - Breaking News, Latest News and Videos
-- Trump to Fed chair Warsh: "Don't look at me, don't look at anybody" - Axios
-- Summer electric bills sizzle as the cost of cooling climbs - NPR
+- Delivery Hero confirms takeover offer from Uber - Reuters
+- Memorial Day travel surge expected at BTR - Baton Rouge Business Report
+- Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies - Bloomberg.com
+- Myst And Riven Remakes, The Return Of Bubsy And Other New Indie Games Worth Checking Out - Engadget
 - Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google
-- iPhone 18 Pro leak reveals brand new colors that could be coming - 9to5Mac
