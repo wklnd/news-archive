@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-23 12:53_
+_Updated: 2026-05-23 14:11_
 
 ## Top Stories
 
 - Tre personer skottskadade i södra Stockholm – en gripen - SVT Nyheter
-- Regionalbuss tagen i beslag efter olyckan i Landskrona - Omni
-- SD vill ha nära hälften av ministerposterna - GP
-- Exilryssar: ”Han borde inte kunna vara här” - Svenska Dagbladet
-- Nya uppgifter i adelsfejden: Erbjöds slott och mark till värde av en miljard - Dagens Nyheter
-- Ukrainsk attack mot oljedepå i Ryssland - Västerbottens-Kuriren
-- Sökes till jättefartygen: 500 sjömän - Dagens Nyheter
-- De ville stänga Natomötet – sedan utbröt tumult - GP
-- Ulf Kristersson (M): Valresultatet avgör – Senaste nytt om valet 2026 - SVT Nyheter
 - Rekordmånga volontärer i Lundakarnevalen – Sofie håller i ”maskhålet” - Sveriges Radio
+- SD vill ha nära hälften av ministerposterna - GP
+- Nya uppgifter i adelsfejden: Erbjöds slott och mark till värde av en miljard - Dagens Nyheter
+- ”Vi är nöjda med genomförandet” - Polisen.se
+- Meddelanden väcker oro bland exilryssar - Svenska Dagbladet
+- Sökes till jättefartygen: 500 sjömän - Dagens Nyheter
+- Artist häktas för misstänkt våldtäkt - Aftonbladet
+- Handgranat i Borås – koppling till skott utreds - Västerbottens-Kuriren
+- Kristersson om utvisningarna: ”Vi är överens” - Aftonbladet
 - Fotboll: Måste isoleras efter ebolautbrottet – för att släppas in i USA – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
-- Tre gripna för övergrepp på franska skolor – hundratals utreds - Dagens Nyheter
-- Över 90 döda efter gruvras i Kina - GP
-- Amerikanska medier: USA överväger nya attacker mot Iran - Hufvudstadsbladet – HBL
+- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
+- Uppgifter: USA överväger nya attacker mot Iran - Västerbottens-Kuriren
+- Drönare kraschat i Lettland - GP
 - Kan Musk skapa en ny börsraket? - Svenska Dagbladet
 - Snabb och exakt styrning med Lexus steer-by-wire-teknik - Dagens Nyheter
 - Petter Stordalen shoppar köpcentrum: "Äntligen" - Dagens PS
-- Ny Space X-raket uppskjuten – störst hittills - Omni
-- Uppgifter: Apple släpper IOS 26.5.1 inom kort - Macworld.se
-- Nya Casio Edifice EFV-160D-klockor på väg med kristallina urtavlor - notebookcheck.se
+- LEDARE: Sänkta krav är ett dåligt svar på uselhet - Östersunds-Posten
+- Svensk-indiskt rymdprogram ska försöka lösa Venus-mysteriet - Dagens Nyheter
+- Dev säger "gå och spela Sons of the Forest" till Subnautica 2-spelare som är rasande över inga vapen - notebookcheck.se
 
 ## World News
 
@@ -54,17 +54,17 @@ _Updated: 2026-05-23 12:53_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
@@ -121,10 +121,9 @@ _Updated: 2026-05-23 12:53_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
@@ -136,17 +135,18 @@ _Updated: 2026-05-23 12:53_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Effekten av Conservation Agriculture - Länsstyrelsen
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Ökad lönsamhet med regenerativt lantbruk - Jordbruksaktuellt
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
