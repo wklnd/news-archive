@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-23 21:49_
+_Updated: 2026-05-23 23:37_
 
-- Iran and U.S. Officials Signal Progress as Cease-Fire Hangs in Balance - The New York Times
+- Iran 'getting a lot closer' to agreement with US, Trump says - BBC
 - Why is Orange County chemical tank crisis so hard to fix? - Los Angeles Times
 - Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
-- Exclusive: Trump says he's "50/50" on Iran deal or bombs, will meet envoys to decide - Axios
-- Trump met top advisers on Iran as he weighs return to war - Axios
-- Experts warn Trump immunity from IRS audit could undermine trust in tax system - PBS
-- Kyle Busch’s family reveals the cause of death for NASCAR superstar - Charlotte Observer
-- ‘It has undermined whatever credibility the DNC had left’: Dems fret over chair after autopsy - Politico
+- Trump’s $1.8 billion payout fund isn’t required to reveal how it actually works - The Washington Post
+- The Week That Broke Trump’s Control Over Congress - WSJ
+- A Private Island Wedding for Donald Trump Jr. and Bettina Anderson - The New York Times
+- Democratic chair faces calls to quit over ‘shambles’ of election autopsy release - The Guardian
+- Tulsi Gabbard resigns as director of national intelligence - Axios
+- Defense Secretary Pete Hegseth tells West Point graduates they’re “ready” for war - MS NOW
 - Behavior of teen in mosque shooting led police to seize family guns a year before attack - AP News
-- Bettina Anderson floated a White House wedding to Donald Trump Jr. She’ll get an island ceremony instead - CNN
-- Deadliest coal mine explosion in China in years kills at least 82 people, local officials say - AP News
-- France bans Ben Gvir over ‘reprehensible actions’ toward Gaza flotilla activists - The Times of Israel
-- Tens of thousands rally in Serbia against authoritarian President Vucic - Yahoo
+- France bans Israeli minister Itamar Ben-Gvir after ‘unspeakable’ flotilla detainee taunts - AP News
+- Deadliest China Coal Mine Blast Since 2009 Kills at Least 90 - Bloomberg.com
+- Tens of thousands rally in Serbia for antigovernment demonstrations - Al Jazeera
 - Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce - The New York Times
 - Elon Musk's SpaceX IPO filing just told us what business he's betting on for the future—and it's not rockets - Fortune
 - Delivery Hero confirms takeover offer from Uber - Reuters
-- Memorial Day travel surge expected at BTR - Baton Rouge Business Report
-- Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies - Bloomberg.com
-- First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google
-- Even If You Hate AI, You Will Use Google AI Search - WIRED
+- War-driven gas spike puts pressure on summer travelers — and Republicans - Politico
+- SpaceX’s Starship V3—still a work in progress—mostly successful on first flight - Ars Technica
+- We tried Google’s AI glasses and they’re almost there - TechCrunch
+- Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google
