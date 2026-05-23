@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-23 20:35_
+_Updated: 2026-05-23 22:25_
 
 ## Top Stories
 
-- Boende upprörda efter skottlossning i Älvsjö: ”Det är åt helvete” - Sveriges Radio
 - Folkfest i Lund när karnevalen intog stan - GP
-- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
-- Två år av svåra olyckor i centrala Malmö - Sydsvenskan
-- DN Direkt – Mette Frederiksen får uppdraget att bilda regering – igen - Dagens Nyheter
-- Kraftig lägenhetsbrand i Göteborg - Aftonbladet
-- Arbetskraftsinvandring: 27 yrken får sänkt lönekrav - Dagens Arena
+- Tre nya fall av ebola i Uganda - Västerbottens-Kuriren
+- Boende upprörda efter skottlossning i Älvsjö: ”Det är åt helvete” - Sveriges Radio
+- Flyglarm över Kiev efter Zelenskyjs varning - GP
+- Trump till Axios: 50/50 att det blir ett avtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Minst 20 till akutmottagning efter Göteborgsvarvet - SVT Nyheter
+- Lägenhetsbrand i Göteborg – ingen skadad - Västerbottens-Kuriren
+- Högsommarvärme – men räkna med regn och åska - Dagens Nyheter
 - Barn rekryteras av skolkompisars äldre syskon - Dagens Nyheter
 - Sökes till jättefartygen: 500 sjömän - Corren
-- Ulf Kristersson (M): Valresultatet avgör – Senaste nytt om valet 2026 - SVT Nyheter
-- Iran och USA närmare ett avtal – men inte överens - Corren
-- DN Direkt – Många skadade i tysk spårvagnsolycka - Dagens Nyheter
-- Israelisk minister förbjuds inresa - Västerbottens-Kuriren
+- DN Direkt – Våldsamma protester mot regeringen i Belgrad - Dagens Nyheter
+- Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
+- Många skadade i tysk spårvagnsolycka - Västerbottens-Kuriren
 - Ukrainas laservapen snart verklighet – slår ut drönare - Dagens Nyheter
-- Just då blir pengar konkreta - Svenska Dagbladet
+- Boomerdraget – mixar alkohol med motion - Svenska Dagbladet
 - Teslas nya drag: Prenumeration för 990 kr i Sverige - Carup.se
-- Postnord stänger kontor – Norrlandskommuner larmar - Omni
 - Jakt på nyttigare järnrik mat – serverades på Nobel - Aftonbladet
+- COOP häver säljstopp på Vaggeryds Charks falukorv - Skillingaryd
 - Svensk-indiskt rymdprogram ska försöka lösa Venus-mysteriet - Dagens Nyheter
-- Inför Hudikkalaset: ”Satsar lite hårdare i år” - Hudiksvalls Tidning
+- Hyundai släpper nya bilteman med ”Peanuts” och FIFA - Teknikveckan
 
 ## World News
 
 - PR Image - global 1 - Cision News
 - Montrose lanserar global indexfond för 0,09 procent - finanswatch.se
 - Vietnamesisk kock vinner silvermedalj för första gången vid Global Chefs Challenge 2026 - Vietnam.vn
-- Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
+- Det vietnamesiska kocklaget vann Global Chefs Challenge-finalen 2026 för första gången. - Vietnam.vn
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
@@ -53,23 +53,23 @@ _Updated: 2026-05-23 20:35_
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Microsoft utmanar Deepseek med nya resonerande AI-modeller - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -78,7 +78,6 @@ _Updated: 2026-05-23 20:35_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - tv4.se
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -90,6 +89,7 @@ _Updated: 2026-05-23 20:35_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -105,11 +105,11 @@ _Updated: 2026-05-23 20:35_
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Nil Medical tar nästa steg – växer för att nå fler patienter - it-halsa.se
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-05-23 20:35_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -131,14 +131,14 @@ _Updated: 2026-05-23 20:35_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI och data science - Stockholms universitet
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - 5 myter om öppen vetenskap - Läkartidningen
+- Karolinska CCC – världsledande vård och forskning inom cancer - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
