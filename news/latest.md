@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-23 14:43_
+_Updated: 2026-05-23 16:15_
 
 - Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
 - A tough week for Trump on Capitol Hill, as Republicans deal him setbacks - The Washington Post
-- Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia - The New York Times
+- Lawsuit Argues Trump’s $1.8 Billion Fund Excludes Those He Targeted - The New York Times
 - Evacuation orders issued in California city over chemical tank: 'It fails or it blows up' - ABC News - Breaking News, Latest News and Videos
+- US judge dismisses Kilmar Abrego indictment, finding DOJ abused power - Reuters
 - Tulsi Gabbard resigns as director of national intelligence - Axios
-- Trump critics Comey and Cohen float applying for the Anti-Weaponisation Fund - BBC
-- Police ordered guns to be removed from mosque shooter’s home in 2025 - The Washington Post
-- Live Updates: U.S. preparing for possible strikes against Iran, sources say, as Rubio says tolls on Strait of Hormuz "not acceptable" - CBS News
+- The deepest fears of San Diego’s religious communities were realized in Islamic Center shooting - NBC News
 - Food, Flashlights and Fans: Floridians Step Up Aid to Cuban Relatives - The New York Times
-- Staten Island fire: 1 dead, dozens injured after explosion in shipyard - ABC7 New York
-- Deadliest China Coal Mine Blast Since 2009 Kills at Least 90 - Bloomberg
+- DNC autopsy author was previously part of another Democratic humiliation - Politico
+- Live Updates: U.S. preparing for possible strikes against Iran, sources say, as Rubio says tolls on Strait of Hormuz "not acceptable" - CBS News
+- Coal mine explosion in China kills 90 people, state media say - AP News
 - Three months in, is Trump losing the war against Iran? - The Times of Israel
-- Their Phones Were Stolen in London. Then the Threats Started. - The New York Times
-- Italian authorities seize Maldives divers’ gear as tragic story unfolds - DIVE Magazine
-- Memorial Day travel surge expected at BTR - Baton Rouge Business Report
+- Chile's MAGA-inspired border control - NPR
+- The remains of 4 Italian divers killed in a Maldives cave dive have been repatriated - AP News
+- High fuel prices test limits of summer vacation spending - CNBC
+- Elon Musk's SpaceX IPO filing just told us what business he's betting on for the future—and it's not rockets - Fortune
 - Trump to Fed chair Warsh: "Don't look at me, don't look at anybody" - Axios
-- SpaceX Starship V3's First Test Flight Was Largely Successful - Engadget
-- Satya Nadella is reorganizing Microsoft around AI — and changing who holds power - Business Insider
-- Google’s AI Overviews break the dictionary when you use words like ‘disregard’ - 9to5Google
-- Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku
+- Summer electric bills sizzle as the cost of cooling climbs - NPR
+- I have a new go-to browser - The Verge
+- Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google
