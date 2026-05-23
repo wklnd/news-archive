@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-23 14:11_
+_Updated: 2026-05-23 16:08_
 
 ## Top Stories
 
-- Tre personer skottskadade i södra Stockholm – en gripen - SVT Nyheter
+- Tre skottskadade vid villa i södra Stockholm - Svenska Dagbladet
+- Israelisk minister förbjuds inresa - Västerbottens-Kuriren
 - Rekordmånga volontärer i Lundakarnevalen – Sofie håller i ”maskhålet” - Sveriges Radio
 - SD vill ha nära hälften av ministerposterna - GP
-- Nya uppgifter i adelsfejden: Erbjöds slott och mark till värde av en miljard - Dagens Nyheter
-- ”Vi är nöjda med genomförandet” - Polisen.se
-- Meddelanden väcker oro bland exilryssar - Svenska Dagbladet
-- Sökes till jättefartygen: 500 sjömän - Dagens Nyheter
-- Artist häktas för misstänkt våldtäkt - Aftonbladet
-- Handgranat i Borås – koppling till skott utreds - Västerbottens-Kuriren
-- Kristersson om utvisningarna: ”Vi är överens” - Aftonbladet
-- Fotboll: Måste isoleras efter ebolautbrottet – för att släppas in i USA – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
+- 40 000 uppmanas till evakuering i Kalifornien - SVT Nyheter
+- DN Direkt – Mette Frederiksen får uppdraget att bilda regering – igen - Dagens Nyheter
+- Sökes till jättefartygen: 500 sjömän - GP
+- Artist häktad misstänkt för våldtäkt - SVT Nyheter
+- Högsommarvärme – men räkna med regn och åska - Dagens Nyheter
+- Ulf Kristersson (M): Valresultatet avgör – Senaste nytt om valet 2026 - SVT Nyheter
 - Ukrainsk attack mot oljedepå i Ryssland - Hufvudstadsbladet – HBL
-- Uppgifter: USA överväger nya attacker mot Iran - Västerbottens-Kuriren
+- Uppgifter: USA överväger nya attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Drönare kraschat i Lettland - GP
+- Trump: Skickar 5 000 extra soldater till Polen - Corren
 - Kan Musk skapa en ny börsraket? - Svenska Dagbladet
-- Snabb och exakt styrning med Lexus steer-by-wire-teknik - Dagens Nyheter
 - Petter Stordalen shoppar köpcentrum: "Äntligen" - Dagens PS
-- LEDARE: Sänkta krav är ett dåligt svar på uselhet - Östersunds-Posten
+- Snabb och exakt styrning med Lexus steer-by-wire-teknik - Dagens Nyheter
+- Teslas nya drag: Prenumeration för 990 kr i Sverige - Carup.se
 - Svensk-indiskt rymdprogram ska försöka lösa Venus-mysteriet - Dagens Nyheter
-- Dev säger "gå och spela Sons of the Forest" till Subnautica 2-spelare som är rasande över inga vapen - notebookcheck.se
+- Kinas flaggskepps-GPU Lisuan LX 7G100 kämpar för att komma ikapp åldrande Nvidia RTX 3060 i nytt test - notebookcheck.se
 
 ## World News
 
@@ -33,8 +33,8 @@ _Updated: 2026-05-23 14:11_
 - Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Vietnam vinner silvermedalj vid Global Chefs Challenge 2026 - Vietnam.vn
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
@@ -46,7 +46,7 @@ _Updated: 2026-05-23 14:11_
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Global stålproduktion sjönk i april – ökning i USA - Dagens industri
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
-- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Tidigare Nordnet-vd köpt aktier för 3 miljoner i VNV Global - Dagens industri
 
 ## Technology
 
@@ -73,22 +73,22 @@ _Updated: 2026-05-23 14:11_
 
 ## Business
 
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Consid takes on the German market - Via TT
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilken framtid arbetar du för? - EY
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
@@ -121,6 +121,7 @@ _Updated: 2026-05-23 14:11_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
@@ -135,7 +136,6 @@ _Updated: 2026-05-23 14:11_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
