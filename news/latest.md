@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-24 01:40_
+_Updated: 2026-05-24 03:34_
 
-- White House on lockdown as gunshots are reported nearby - NBC News
-- Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz - BBC
-- Governor Newsom proclaims state of emergency in Orange County in response to ongoing chemical incident in Garden Grove, makes additional shelter sites available - California State Portal | CA.gov
-- Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
+- Suspected gunman dies after volley of gunshots heard near White House - The Guardian
+- U.S., Iran close to a deal to end war, official says - Axios
+- California Gov. Newsom declares state of emergency for Orange County chemical leak as officials search for solutions - CBS News
+- Iran, US Signal Progress in Peace Talks as Issues Unresolved - Yahoo! Finance Canada
 - Trump’s $1.8 billion payout fund isn’t required to reveal how it actually works - The Washington Post
-- Israeli Strikes Pummel Lebanon, Killing Medics Amid Fragile Truce - The New York Times
+- Trump administration to force foreigners in the U.S. to apply for a green card abroad - NPR
 - San Diego gunman was 'idolizing Nazis and mass shooters,' prompting gun removal from home in 2025 - Los Angeles Times
+- Trump says a deal with Iran and opening of Strait of Hormuz are 'largely negotiated' - NPR
+- Pentagon Pete Hegseth Gives Bonkers Advice to ‘Not Fat’ West Point Grads - The Daily Beast
 - Donald Trump Jr. and Bettina Anderson Were Married in the Bahamas - The New York Times
-- Defense Secretary Pete Hegseth tells West Point graduates they’re “ready” for war - MS NOW
-- Democratic chair faces calls to quit over ‘shambles’ of election autopsy release - The Guardian
-- France bans Israeli minister Itamar Ben-Gvir after ‘unspeakable’ flotilla detainee taunts - AP News
+- Deadliest coal mine explosion in China in years kills at least 82 people, local officials say - AP News
 - Tens of thousands rally in Serbia for antigovernment demonstrations - Al Jazeera
-- Deadliest China Coal Mine Blast Since 2009 Kills at Least 90 - Bloomberg.com
-- Iran, US Signal Progress in Peace Talks as Issues Unresolved - Yahoo Finance
-- Western Washington drivers are skipping out on Memorial Day travel amid high gas prices - KOMO
+- IDF says it attacked Hezbollah sites, as at least 5 reported killed in south Lebanon - The Times of Israel
+- Britain Preparing for Mission That Could Clear Strait of Hormuz - The New York Times
 - SpaceX’s Starship V3—still a work in progress—mostly successful on first flight - Ars Technica
 - Our deals experts found the 172 best Memorial Day sales live for the long weekend - CNN
-- Live markets: Bitcoin continues holding pattern near $77,000 ahead of Kevin Warsh taking over at Fed - CoinDesk
+- How Poppi's cofounders built a $2 billion business, and how they're navigating their newfound wealth - Business Insider
+- Trump wants new Fed chair to be 'totally independent' - BBC
+- Apple Preparing New 'Gen AI' Website Ahead of WWDC - MacRumors
 - Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google
-- Blue Origin completes investigation into New Glenn launch failure - SpaceNews
