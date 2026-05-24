@@ -1,25 +1,25 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-24 22:30_
+_Updated: 2026-05-24 23:30_
 
 ## Top Stories
 
+- Rosenqvist tredje svensk någonsin att vinna Indy 500 - Omni
+- Krisen total i MFF – fjärde raka förlusten: ”Nu får det räcka” - Sveriges Radio
 - Tvåårig pojke försvunnen i Nordmaling – stor sökinsats - SVT Nyheter
 - Expert: Hypersoniska roboten Rysslands sätt att hämnas - Hufvudstadsbladet – HBL
 - Direkt – Krisen i Mellanöstern – Källa: USA och Iran överens om Hormuzsundet - Dagens Nyheter
-- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
-- Båt gick på grund – i rondell - Aftonbladet
-- Farligt föremål i Norrköping säkrat - GP
+- Första nya förhandlingarna om dansk regering - GP
 - Löparen Robert räddade livet på 19-åringen efter brutal macheteattack - Dagens Nyheter
-- Frontalkrock mellan personbil och lastbil - Västerbottens-Kuriren
-- Fler sexköpare utreds i uppmärksammad kopplerihärva - GP
-- Från föreläsningssal till karnevalsgeneral - Lundagard.se
+- DEBATT: Nato gör oss inte tryggare - Dagens Vimmerby
+- Fler sexköpare utreds i uppmärksammad kopplerihärva - Västerbottens-Kuriren
+- Farligt föremål i Norrköping säkrat - GP
+- Nu märks Ukrainakriget i Ryssland: ”De varnar för robotar varje kväll” - Dagens Nyheter
+- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
 - Kina förbereder månfärd –skickar upp tre astronauter - Västerbottens-Kuriren
 - Drottning Sonja i Norge sjukskriven för hjärtproblem - SVT Nyheter
-- DN Direkt – Observatörer: 180 000 demonstrerade i Serbien - Dagens Nyheter
-- Libanon: Elva dödades i israeliska attacker - Corren
-- AI-knep ger dig koll på ekonomin: ”Fiffigt” - Sydsvenskan
-- Ringhals 4 på halv kapacitet – läckage i generator - SVT Nyheter
+- AI-knep ger dig koll på ekonomin: ”Fiffigt” - HD – Nyheter Dygnet Runt
+- Ringhals 4 på halvfart: Påverkar elpriset - Tidningen Näringslivet
 - ”Datacenter vill ha all ledig el i Sverige” - Svenska Dagbladet
 - Nu kan hackare kapa din mobil utan ett enda klick - Dagens PS
 - Ny 3D-karta över universum utmanar Einstein - Teknikveckan
@@ -43,10 +43,10 @@ _Updated: 2026-05-24 22:30_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Börschefen om Space X besked: ”En global notering” - Dagens industri
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Börschefen om Space X besked: ”En global notering” - Dagens industri
 
 ## Technology
 
@@ -58,6 +58,7 @@ _Updated: 2026-05-24 22:30_
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
@@ -65,42 +66,42 @@ _Updated: 2026-05-24 22:30_
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - Portuguese companies remain cautiously optimistic despite uncertain times - Portugal Resident
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Consid takes on the German market - Via TT
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Consid takes on the German market - Via TT
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Episurf har genomfört det första tillträdet till förvärvade fastighetstillgångar - it-halsa.se
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
@@ -109,18 +110,18 @@ _Updated: 2026-05-24 22:30_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -138,7 +139,6 @@ _Updated: 2026-05-24 22:30_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -155,8 +155,8 @@ _Updated: 2026-05-24 22:30_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Lediga jobb - Land Lantbruk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Lediga jobb - Land Lantbruk
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
