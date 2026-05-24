@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-25 00:30_
+_Updated: 2026-05-25 01:39_
 
 ## Top Stories
 
-- Tvåårig pojke försvunnen i Nyåker – stor sökinsats - SVT Nyheter
-- Expert: Hypersoniska roboten Rysslands sätt att hämnas - Hufvudstadsbladet – HBL
-- Direkt – Krisen i Mellanöstern – Källa: USA och Iran överens om Hormuzsundet - Dagens Nyheter
+- Tvåårig pojke försvunnen – försvaret sätts in - Dagens Nyheter
+- Ukraina: Ryssland använde hypersonisk robot i ny attack - Västerbottens-Kuriren
 - Nu märks Ukrainakriget i Ryssland: ”De varnar för robotar varje kväll” - Dagens Nyheter
-- Frontalkrock mellan personbil och lastbil – en allvarligt skadad - Sveriges Radio
-- Hanna sa farväl till sin man – sen träffades de inte på flera år - GP
+- EXTRA: Dödsolycka på riksväg 30 – omkom efter frontalkrock - Jönköpings-Posten
+- Trump: Ska inte stressa fram ett avtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Första nya förhandlingarna om dansk regering - GP
 - Löparen Robert räddade livet på 19-åringen efter brutal macheteattack - Dagens Nyheter
-- DEBATT: Nato gör oss inte tryggare - Dagens Vimmerby
 - Farligt föremål i Norrköping säkrat - Västerbottens-Kuriren
+- DEBATT: Nato gör oss inte tryggare - Dagens Vimmerby
 - LIVE: Lundakarnevalen 2026 - Lundagard.se
 - Kina förbereder månfärd –skickar upp tre astronauter - Västerbottens-Kuriren
-- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
-- Drottning Sonja drabbad av hjärtsvikt - Folkbladet
+- Drottning Sonja drabbad av hjärtsvikt - Västerbottens-Kuriren
 - Libanon: Elva dödades i israeliska attacker - Corren
+- Nya långtidsprognosen: Då blir det som varmast - Aftonbladet
 - Ringhals 4 på halvfart: Påverkar elpriset - Tidningen Näringslivet
-- AI-knep ger dig koll på ekonomin: ”Fiffigt” - HD – Nyheter Dygnet Runt
 - Inkassokrav pressar bostadsrättsföreningar - Fastighetsnytt
 - Efter falukorvsskandalen – hälften av Vaggeryds charks produkter underkända i blixtkontroll - Metro Mode
+- EDVARD HOLLERTZ: Prisad företagare i Linköping: "Viktigt att tänka på skönheten" - Corren
 - Ny 3D-karta över universum utmanar Einstein - Teknikveckan
 - Gmail-strul för Samsung - mobil.se
 
@@ -32,21 +32,21 @@ _Updated: 2026-05-25 00:30_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
-- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 
 ## Technology
 
@@ -74,17 +74,16 @@ _Updated: 2026-05-25 00:30_
 ## Business
 
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Portuguese companies remain cautiously optimistic despite uncertain times - Portugal Resident
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-05-25 00:30_
 - Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
@@ -121,6 +121,7 @@ _Updated: 2026-05-25 00:30_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -138,7 +139,6 @@ _Updated: 2026-05-25 00:30_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -150,15 +150,15 @@ _Updated: 2026-05-25 00:30_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
 - Jordbruk och landsbygdsutveckling - European Commission
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Här är världens största jordbruk - ATL.nu
 - Lediga jobb - Land Lantbruk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
+- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
