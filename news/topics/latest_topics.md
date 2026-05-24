@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-24 18:32_
+_Updated: 2026-05-24 19:32_
 
 ## Top Stories
 
-- 2-årig pojke försvunnen i Nordmaling - Sveriges Radio
 - Trump: Ska inte stressa fram ett avtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- 2-årig pojke försvunnen i Nordmaling - Sveriges Radio
 - Ukraina: Ryssland använde hypersonisk robot i ny attack - Västerbottens-Kuriren
-- Tåg har krockat med bil - Aftonbladet
+- LIVE: Lundakarnevalen 2026 - Lundagard.se
+- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
 - 16-åringens höga puls avslöjade honom – greps i taxi - GP
-- Starmers vän: ”Keir är vegetarianen som är chef för ett slakteri” - Dagens Nyheter
-- Ett inlägg i ”Direktrapport: Lundakarnevalen 2026” - SVT Nyheter
+- Adelsfamilj nobbade förlikning värd över en miljard – fejden fortsätter - Sydsvenskan
 - Fler sexköpare utreds i uppmärksammad kopplerihärva - GP
 - DEBATT: Nato gör oss inte tryggare - Dagens Vimmerby
-- Nya uppgifter i adelsfejden: Erbjöds slott och mark till värde av en miljard - Dagens Nyheter
-- Över 200 dödsfall av ebola i Kongo-Kinshasa - Corren
+- Nya gruvor kan hota dricksvatten - Dagens Nyheter
+- Över 200 dödsfall av ebola i Kongo-Kinshasa - Västerbottens-Kuriren
 - DN Direkt – Observatörer: 180 000 demonstrerade i Serbien - Dagens Nyheter
+- DN Direkt – Båt fastnade i rondell - Dagens Nyheter
 - Drottning Sonja drabbad av hjärtsvikt - Västerbottens-Kuriren
-- RCHR: Ryssland försöker ta kontroll över Ukrainas kulturarv - Sveriges Radio
+- AI-knep ger dig koll på ekonomin: ”Fiffigt” - HD – Nyheter Dygnet Runt
+- Ringhals 4 på halvfart: Påverkar elpriset - Tidningen Näringslivet
 - Nu kan hackare kapa din mobil utan ett enda klick - Dagens PS
 - Räckviddsångest när elbilen agerar dragbil - Dagens Nyheter
-- Efter falukorvsskandalen – hälften av Vaggeryds charks produkter underkända i blixtkontroll - Metro Mode
-- Kärnkraftverket Ringhals 4 drivs på halv kapacitet - Omni
 - Ny 3D-karta över universum utmanar Einstein - Teknikveckan
-- Pocket BLOCK är ett Game Boy i miniatyr som kan spela det mesta - Teknikveckan
+- Windows 11 testar ny skärmfunktion för bättre läsbarhet - Teknikveckan
 
 ## World News
 
+- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på ikväll 23:10 - Tv.nu
 - PR Image - global 1 - Cision News
-- Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
-- BIS varnar för risker med stablecoins och kräver global samordning - Trijo News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
@@ -75,28 +75,27 @@ _Updated: 2026-05-24 18:32_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
@@ -116,29 +115,30 @@ _Updated: 2026-05-24 18:32_
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Sweden & Rwanda to foster cooperation in healthcare - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-05-24 18:32_
 - Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
@@ -155,8 +155,8 @@ _Updated: 2026-05-24 18:32_
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
-- Lediga jobb - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Lediga jobb - Land.se
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land.se
