@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-24 23:30_
+_Updated: 2026-05-25 00:30_
 
 ## Top Stories
 
-- Rosenqvist tredje svensk någonsin att vinna Indy 500 - Omni
-- Krisen total i MFF – fjärde raka förlusten: ”Nu får det räcka” - Sveriges Radio
-- Tvåårig pojke försvunnen i Nordmaling – stor sökinsats - SVT Nyheter
+- Tvåårig pojke försvunnen i Nyåker – stor sökinsats - SVT Nyheter
 - Expert: Hypersoniska roboten Rysslands sätt att hämnas - Hufvudstadsbladet – HBL
 - Direkt – Krisen i Mellanöstern – Källa: USA och Iran överens om Hormuzsundet - Dagens Nyheter
-- Första nya förhandlingarna om dansk regering - GP
+- Nu märks Ukrainakriget i Ryssland: ”De varnar för robotar varje kväll” - Dagens Nyheter
+- Frontalkrock mellan personbil och lastbil – en allvarligt skadad - Sveriges Radio
+- Hanna sa farväl till sin man – sen träffades de inte på flera år - GP
 - Löparen Robert räddade livet på 19-åringen efter brutal macheteattack - Dagens Nyheter
 - DEBATT: Nato gör oss inte tryggare - Dagens Vimmerby
-- Fler sexköpare utreds i uppmärksammad kopplerihärva - Västerbottens-Kuriren
-- Farligt föremål i Norrköping säkrat - GP
-- Nu märks Ukrainakriget i Ryssland: ”De varnar för robotar varje kväll” - Dagens Nyheter
-- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
+- Farligt föremål i Norrköping säkrat - Västerbottens-Kuriren
+- LIVE: Lundakarnevalen 2026 - Lundagard.se
 - Kina förbereder månfärd –skickar upp tre astronauter - Västerbottens-Kuriren
-- Drottning Sonja i Norge sjukskriven för hjärtproblem - SVT Nyheter
-- AI-knep ger dig koll på ekonomin: ”Fiffigt” - HD – Nyheter Dygnet Runt
+- Michael Winiarski: Putin är pressad – men vad betyder signalerna från Moskva? - Dagens Nyheter
+- Drottning Sonja drabbad av hjärtsvikt - Folkbladet
+- Libanon: Elva dödades i israeliska attacker - Corren
 - Ringhals 4 på halvfart: Påverkar elpriset - Tidningen Näringslivet
-- ”Datacenter vill ha all ledig el i Sverige” - Svenska Dagbladet
-- Nu kan hackare kapa din mobil utan ett enda klick - Dagens PS
+- AI-knep ger dig koll på ekonomin: ”Fiffigt” - HD – Nyheter Dygnet Runt
+- Inkassokrav pressar bostadsrättsföreningar - Fastighetsnytt
+- Efter falukorvsskandalen – hälften av Vaggeryds charks produkter underkända i blixtkontroll - Metro Mode
 - Ny 3D-karta över universum utmanar Einstein - Teknikveckan
 - Gmail-strul för Samsung - mobil.se
 
 ## World News
 
-- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
 - PR Image - global 1 - Cision News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -39,14 +38,15 @@ _Updated: 2026-05-24 23:30_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Börschefen om Space X besked: ”En global notering” - Dagens industri
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 
 ## Technology
 
@@ -121,7 +121,6 @@ _Updated: 2026-05-24 23:30_
 
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -139,6 +138,7 @@ _Updated: 2026-05-24 23:30_
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 
 ## Jordbruk
 
@@ -155,8 +155,8 @@ _Updated: 2026-05-24 23:30_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Lediga jobb - Land Lantbruk
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
