@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-25 18:52_
+_Updated: 2026-05-25 21:06_
 
-- Pope elevates AI ethics to a religious imperative with first encyclical - The Washington Post
-- U.S.-Iran peace deal emerging, while war threats still loom - NPR
-- Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov
-- Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends - Axios
-- Attorney general files request to resume ballroom construction, citing latest White House shooting - CBS News
+- U.S. and Iran work toward deal to extend ceasefire and reopen Strait of Hormuz - The Washington Post
+- Pope Leo says AI must be 'disarmed' in first major teaching - BBC
+- Trump links Abraham Accords to any Iran deal - Reuters
+- Live Updates: Risk of massive explosion "eliminated" for California chemical leak in Orange County, officials say - CBS News
 - This big university system is embracing AI. Students and faculty aren't all on board - NPR
-- For a group of Vietnam vets, opposing Trump's arch is about being "loyal to the country" - CBS News
-- Abortion pill case widens anti-abortion activists’ rift with Trump - Politico
-- Memorial Day celebrations kick off across US, Trump to honor fallen American heroes - Fox News
-- Fake ICE agents terrorize immigrants amid Trump’s crackdown - NBC News
-- Russia strikes Kyiv with drones and hypersonic missile, in photos - AP News
-- US, Iran Edge Closer to Deal But Still Need to Negotiate Points - Bloomberg.com
-- Oil Plummets Below $100 As Rubio Says Iran Deal Could Happen ‘Maybe Today’ - Forbes
+- Trump to visit Walter Reed for the third check-up of his second term - NBC News
+- Amid Iran War, Remembering the Losses From Another Middle East Conflict - The New York Times
+- Trump honors fallen American heroes at Arlington National Cemetery to keynote Memorial Day events - Fox News
+- A Terrible Winter for Snow Heads Into a Bleak Summer of Drought - The New York Times
+- Netanyahu admits to aides he has little influence over Trump on Iran — sources - The Times of Israel
 - Iran’s top negotiators travel to Qatar amid intensified efforts to secure deal - Financial Times
+- Russia threatens more Kyiv strikes and tells foreign nationals to leave - BBC
+- Adnoc’s Tankers Are Slipping Oil, Gas and Fuel Through Hormuz - Bloomberg.com
+- Estranged husband of former Scottish leader admits $540K embezzlement of party funds - AP News
 - What's open and closed for Memorial Day 2026? See which stores are operating this holiday. - CBS News
-- Toshifumi Suzuki, Japan’s ‘God’ of Convenience Stores Dies at 93 - The New York Times
-- Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ
-- The pig in the python: Baby Boomers are strangling the economy they built by refusing to move or retire - Fortune
+- Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceX - Fortune
+- Oil Prices Fall Sharply on News of Possible Iran Deal - The New York Times
+- Toshifumi Suzuki, the Japanese behind the ‘conbini’ empire, has died. He was 93. - AP News
 - I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake - Ars Technica
 - FBI warns of Kali365 phishing service targeting Microsoft 365 accounts - BleepingComputer
