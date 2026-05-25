@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-25 16:21_
+_Updated: 2026-05-25 18:52_
 
-- U.S. and Iran work toward deal to extend ceasefire and reopen Strait of Hormuz - The Washington Post
+- Pope elevates AI ethics to a religious imperative with first encyclical - The Washington Post
+- U.S.-Iran peace deal emerging, while war threats still loom - NPR
 - Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov
-- Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical - The New York Times
-- Trump faces health questions ahead of another Walter Reed trip - The Washington Post
-- Marco Rubio Brutally Undercuts Nonsensical Trump Boast - The Daily Beast
-- Trump blasts critics as UK readies Hormuz mine-clearing mission amid Iran deal talks - Fox News
-- Trump’s emerging plan to end Iran war draws criticism from hard-line Republicans - PBS
+- Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends - Axios
+- Attorney general files request to resume ballroom construction, citing latest White House shooting - CBS News
+- This big university system is embracing AI. Students and faculty aren't all on board - NPR
 - For a group of Vietnam vets, opposing Trump's arch is about being "loyal to the country" - CBS News
-- Anti-abortion activists' frustrations escalate after abortion pill ruling - Politico
+- Abortion pill case widens anti-abortion activists’ rift with Trump - Politico
+- Memorial Day celebrations kick off across US, Trump to honor fallen American heroes - Fox News
 - Fake ICE agents terrorize immigrants amid Trump’s crackdown - NBC News
 - Russia strikes Kyiv with drones and hypersonic missile, in photos - AP News
-- Three killed in Uganda after crashing into elephant - BBC
-- China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay - NPR
-- Photos show the aftermath of a building collapse in the Philippines - AP News
-- Oil Prices Fall Sharply on News of Possible Iran Deal - The New York Times
-- The pig in the python: Baby Boomers are strangling the economy they built by refusing to move or retire - Yahoo Finance
-- Toshifumi Suzuki, the Japanese behind the ‘conbini’ empire, has died. He was 93. - AP News
-- One Job That Is Growing in the A.I. Era? Cybersecurity Experts. - The New York Times
-- Microsoft Copilot Returns as a Sidebar in Windows 11 - TechPowerUp
+- US, Iran Edge Closer to Deal But Still Need to Negotiate Points - Bloomberg.com
+- Oil Plummets Below $100 As Rubio Says Iran Deal Could Happen ‘Maybe Today’ - Forbes
+- Iran’s top negotiators travel to Qatar amid intensified efforts to secure deal - Financial Times
+- What's open and closed for Memorial Day 2026? See which stores are operating this holiday. - CBS News
+- Toshifumi Suzuki, Japan’s ‘God’ of Convenience Stores Dies at 93 - The New York Times
+- Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ
+- The pig in the python: Baby Boomers are strangling the economy they built by refusing to move or retire - Fortune
 - I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake - Ars Technica
+- FBI warns of Kali365 phishing service targeting Microsoft 365 accounts - BleepingComputer
