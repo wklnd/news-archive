@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-25 22:51_
+_Updated: 2026-05-26 00:39_
 
-- As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words - The New York Times
-- Live Updates: Iran and U.S. agree deal to end war taking shape, but Iran says obstacles remain - CBS News
-- Trump to get "routine annual" medical exam 7 months after last visit to Walter Reed - NPR
-- Russia threatens more Kyiv strikes and tells foreign nationals to leave - BBC
-- Live Updates: Trump approves emergency declaration for California chemical leak in Orange County, Newsom says - CBS News
+- 5 ways Pope Leo says AI could warp humanity - Axios
 - Trump links Abraham Accords to any Iran deal - Reuters
+- Russia threatens more Kyiv strikes and tells foreign nationals to leave - BBC
 - Trump honors fallen American heroes at Arlington National Cemetery to keynote Memorial Day events - Fox News
-- Amid Iran War, Remembering Those Lost in Another Middle East Conflict - The New York Times
-- New Jersey Gov. Sherrill denied access to North Jersey immigration detention center as hunger strike enters fourth day - WHYY
-- Terrified Seattle neighborhood builds massive barricade across streets amid horrific crime wave - Yahoo
+- Trump to get 'routine annual' medical exam 7 months after last visit to Walter Reed - NPR
+- Exclusive: Trump admin policy shutting US disease researchers out of WHO virus response talks - CNN
+- Live Updates: Trump approves emergency declaration for California chemical leak in Orange County, Newsom says - CBS News
+- ‘Rabbit holes all over the place’: How hard it would be for Trump to rebuild Cuba - Politico
+- Gov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens - The New York Times
+- A World War II veteran had no one left to bury him. Then 1,500 strangers showed up. - CBS News
+- Live Updates: Iran and U.S. agree deal to end war taking shape, but Iran says obstacles remain - CBS News
 - Estranged husband of former Scottish leader admits $540K embezzlement of party funds - AP News
-- Oil Slides as Ships Move Toward Hormuz - WSJ
-- Daughter of Bondi Hero Faces Torrent of Online Hate - COLlive
-- China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay - NPR
-- Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ
-- Oil Prices Fall Sharply on News of Possible Iran Deal - The New York Times
-- Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceX - Fortune
-- Where veterans can eat for free this Memorial Day - NewsNation
-- Apple registers new ‘gen AI’ subdomain ahead of next month’s WWDC keynote - 9to5Mac
-- I spent years forcing myself to finish The Witcher 3 —don’t repeat my mistake - Ars Technica
+- Adnoc’s Tankers Are Slipping Oil, Gas and Fuel Through Hormuz - Bloomberg.com
+- Iran’s top negotiators travel to Qatar amid intensified efforts to secure deal - Financial Times
+- Toshifumi Suzuki, Who Made 7-Eleven a Giant in Japan, Dies at 93 - The New York Times
+- Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ
+- Ferrari Luce Unveiled: Here's The First Car From Jony Ive's Design House - Engadget
+- Social Security Benefits: Payments of up to $5,181 Arriving This Week - Newsweek
+- Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch
+- FBI Warns Microsoft Users—New Attack Gains Access To Accounts - Forbes
