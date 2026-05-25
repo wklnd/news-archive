@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-25 12:56_
+_Updated: 2026-05-25 16:20_
 
 ## Top Stories
 
-- ”Jag har själv barn, bara att pallra sig iväg” – Försvunne tvååringen i Nyåker hittad vid liv - SVT Nyheter
-- Rubio: Avtal med Iran inom räckhåll - GP
-- Lägesrapport i ärende där en flicka blev påkörd i Malmö - Åklagarmyndigheten
-- DN Direkt – Självkörande buss i krock – en timme efter debuten - Dagens Nyheter
-- Ny attack med hypersonisk robot – experten: Rysslands sätt att hämnas - Ny Teknik
-- ”Pappa sköts när han skulle skydda byn” - Dagens Nyheter
-- DN Direkt – Man död efter frontalkrock med tankbil - Dagens Nyheter
+- Hemvärnssoldaten Anders hittade tvååringen i Nyåker - GP
+- Direkt – Kriget i Ukraina – Varnar för nya attacker – utländska medborgare uppmanas lämna Kiev - Dagens Nyheter
+- Experten om avtalet: ”Hänger på inrikespolitiken” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man begärs häktad efter dödsolyckan i Malmö - Expressen
+- Nytt brittiskt värmerekord - Västerbottens-Kuriren
+- Självkörande buss i krock – strax efter premiär - Aftonbladet
+- Presenter till lärare förbjuds: ”Gått överstyr” - Corren
+- Forskare: Smarttelefoner hjälper populister att komma till makten - Dagens Nyheter
 - Man begärs häktad efter skjutning - Västerbottens-Kuriren
-- Mc-förare tränas upp att agera som kurirer vid kris eller krig - Sveriges Radio
-- 25 maj 10.47, Trafikkontroll, Västerbottens län - Polisen.se
-- Påven: AI får inte kontrolleras av bara några få - GP
-- Misstänkt sprejattack i Tokyo – många skadade - Aftonbladet
-- Fiskare dödad av haj inför sina vänner - Expressen
-- Libanon: Elva dödades i israeliska attacker - Corren
+- Hur viktigt är djur och natur för svenska folket? - NewsMachine AB
+- Irans svar: Vi är inte nära ett avtal med USA - Sveriges Radio
+- Sovjetisk ammunition hittad i skog i Berlin - Västerbottens-Kuriren
+- Ukraina tar fram egen glidbomb – ska flyga längre - Dagens Nyheter
+- DN Direkt – Misstänkt sprejattack i Tokyo – många skadade - Dagens Nyheter
 - Vasakronan och Corem om Ericsson-flytten: ”Mycket stor utmaning” - Fastighetsnytt
-- Kraftigt börslyft – Kinnevik upp på ny vd - EFN
-- Delivery Hero stiger drygt 10 procent på uppgifter om att Uber överväger nytt bud - Börsvärlden
-- Budrusning på Saabs sista bilar: ”Ingen kan gissa slutpriset” - Affärsvärlden
-- Forskare upptäcker helt ny art under havsytan – och den liknar ikonisk tv-figur på pricken - Illustrerad Vetenskap
+- Studsvik ansöker om att bygga ny kärnkraft utanför Nyköping - EFN
+- Kinnevik utser Helena Saxon till ny vd (MFN) - Aktiellt
+- Ringhals 4 på halvfart efter läcka – så påverkas elpriset - Sveriges Radio
 - Forza Horizon 6: Silent Hill-skaparen ansluter sig till japanska spelare för att berömma dess realism - notebookcheck.se
+- Visar upp nya Unreal Engine 6 – under Rocket League-majorn - Expressen
 
 ## World News
 
-- PR Image - global 1 - Cision News
-- Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Dicot | Global Forum 2026 - Biostock
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Revolut Unveils Global HQ, Setting out Global Vision and Ambitious Timeline for 100 Million Customers - Revolut
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global stålproduktion sjönk i april – ökning i USA - Dagens industri
+- PR Image - global 1 - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
@@ -99,21 +99,21 @@ _Updated: 2026-05-25 12:56_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Mot en grön och hållbar hälso- och sjukvård: Erfarenheter från forskning och praktik - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
@@ -122,22 +122,22 @@ _Updated: 2026-05-25 12:56_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
@@ -151,14 +151,14 @@ _Updated: 2026-05-25 12:56_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
 - Lediga jobb - Land Lantbruk
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- Hellre plöjningsfri odling än ekologisk - Land Lantbruk
