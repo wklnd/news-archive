@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-25 16:20_
+_Updated: 2026-05-25 18:37_
 
 ## Top Stories
 
-- Hemvärnssoldaten Anders hittade tvååringen i Nyåker - GP
 - Direkt – Kriget i Ukraina – Varnar för nya attacker – utländska medborgare uppmanas lämna Kiev - Dagens Nyheter
-- Experten om avtalet: ”Hänger på inrikespolitiken” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Hemvärnssoldaten Anders hittade tvååringen i Nyåker - GP
 - Man begärs häktad efter dödsolyckan i Malmö - Expressen
-- Nytt brittiskt värmerekord - Västerbottens-Kuriren
-- Självkörande buss i krock – strax efter premiär - Aftonbladet
+- ARON LUND: Många skäl att hoppas kriget är över - UNT
+- Europa ovanligt varmt – luft från Afrika - GP
+- Serhii blev utvisad efter myndigheternas förväxling - Dagens Nyheter
+- Självkörande buss i krock – på premiärdagen - Västerbottens-Kuriren
 - Presenter till lärare förbjuds: ”Gått överstyr” - Corren
 - Forskare: Smarttelefoner hjälper populister att komma till makten - Dagens Nyheter
-- Man begärs häktad efter skjutning - Västerbottens-Kuriren
-- Hur viktigt är djur och natur för svenska folket? - NewsMachine AB
-- Irans svar: Vi är inte nära ett avtal med USA - Sveriges Radio
+- Man död efter frontalkrock med tankbil – avspärrningarna hävda - Sveriges Radio
+- Ryssar om kriget: ”De varnar för robotar varje kväll” - Hufvudstadsbladet – HBL
 - Sovjetisk ammunition hittad i skog i Berlin - Västerbottens-Kuriren
+- DN Direkt – Polis i Västsverige döms för dataintrång - Dagens Nyheter
 - Ukraina tar fram egen glidbomb – ska flyga längre - Dagens Nyheter
-- DN Direkt – Misstänkt sprejattack i Tokyo – många skadade - Dagens Nyheter
+- Studsvik vill bygga ny kärnkraft utanför Nyköping - SVT Nyheter
 - Vasakronan och Corem om Ericsson-flytten: ”Mycket stor utmaning” - Fastighetsnytt
-- Studsvik ansöker om att bygga ny kärnkraft utanför Nyköping - EFN
 - Kinnevik utser Helena Saxon till ny vd (MFN) - Aktiellt
-- Ringhals 4 på halvfart efter läcka – så påverkas elpriset - Sveriges Radio
+- Ringhals 4 på halvfart – elpriset rusar: ”Kan bli en perfekt storm” - Ny Teknik
+- Spela Tetris kan minska PTSD-symptom - GP
 - Forza Horizon 6: Silent Hill-skaparen ansluter sig till japanska spelare för att berömma dess realism - notebookcheck.se
-- Visar upp nya Unreal Engine 6 – under Rocket League-majorn - Expressen
 
 ## World News
 
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -37,36 +36,37 @@ _Updated: 2026-05-25 16:20_
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Dicot | Global Forum 2026 - Biostock
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global stålproduktion sjönk i april – ökning i USA - Dagens industri
-- PR Image - global 1 - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- Global stålproduktion sjönk i april – ökning i USA - Dagens industri
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -119,23 +119,23 @@ _Updated: 2026-05-25 16:20_
 
 ## Science
 
+- Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- AI och data science - Stockholms universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
@@ -148,17 +148,17 @@ _Updated: 2026-05-25 16:20_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land Lantbruk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- De blev grönsaksodlare tack vare lokalt stöd - Land Lantbruk
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
-- Lediga jobb - Land Lantbruk
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Spännande visning av uppkomsten efter direktsådd - Land Lantbruk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land Lantbruk
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Hellre plöjningsfri odling än ekologisk - Land Lantbruk
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
