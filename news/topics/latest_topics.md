@@ -1,48 +1,48 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-25 22:49_
+_Updated: 2026-05-26 00:34_
 
 ## Top Stories
 
-- Zeus var försvunnen i 19 timmar – nya fallet väcker minnen - Helagotland
-- Ryssland varnar för nya attacker mot Kiev – utlänningar uppmanas lämna - Dagens Nyheter
+- Uppgifter: Föraren i Malmö körde mot rött - Omni
 - Uppgifter: Regeringen halverar priset i kollektivtrafiken - GP
-- Man begärs häktad efter dödsolyckan i Malmö - Expressen
-- Estlands spionchef: Förändrad stämning i Kreml - Dagens Nyheter
-- Putin såg hans video – gav bort dyr present - Svenska Dagbladet
+- Hetta i London – nytt brittiskt värmerekord - Västerbottens-Kuriren
+- Ryssland varnar för nya attacker mot Kiev – utlänningar uppmanas lämna - Dagens Nyheter
+- Zeus var försvunnen i 19 timmar – nya fallet väcker minnen - Helagotland
+- Uppgifter: Tullverket sköt mot bil där ett litet barn satt - Aftonbladet
 - Kumlaanstalten låser in intagna två timmar längre - Sveriges Radio
 - Man död i mc-olycka utanför Oskarshamn - Västerbottens-Kuriren
-- Totalstopp på E4 efter olycka i Nyköping - Expressen
 - Uppgifter: Priset på kollektivtrafik halveras i hela landet – Senaste nytt om valet 2026 - SVT Nyheter
-- Hetta i London – nytt brittiskt värmerekord - Västerbottens-Kuriren
+- Succé för Helsingborg: ”Positivt överraskade” - EFN
 - Netanyahu: Vi ska krossa Hizbollah - Västerbottens-Kuriren
+- Estlands spionchef: Förändrad stämning i Kreml - Dagens Nyheter
 - Presidenten vill koppla upp Iran igen - Västerbottens-Kuriren
-- Se fartygen kring Hormuzsundet från ovan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Irans president: Återställ internetuppkopplingen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- De vill bygga kärnkraft i Valdemarsvik – och i Nyköping - NT
 - Vasakronan och Corem om Ericsson-flytten: ”Mycket stor utmaning” - Fastighetsnytt
 - Kinnevik utser Helena Saxon till ny vd (MFN) - Aktiellt
-- Chipbonanza: Samsunganställda får 3,5 miljon kronor i bonus – per person - Börskollen
 - Enkla verktyg tar bort chattbotarnas restriktioner – på några minuter - Dagens PS
-- Mystisk fruktfluga lärde sig äta kött - Sydsvenskan
+- Mystisk fruktfluga lärde sig äta kött - Svenska Dagbladet
 - Spela Tetris kan minska PTSD-symptom - GP
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
-- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- Om humanitärismens roll i en förändrad global kontext - Karolinska Institutet
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
+- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNI kräver att deltagarna i Global Sumud-flottiljen friges och fördömer den dåliga behandlingen de utsätts för - UNI Global Union
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Dicot | Global Forum 2026 - Biostock
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
@@ -51,25 +51,25 @@ _Updated: 2026-05-25 22:49_
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -101,21 +101,21 @@ _Updated: 2026-05-25 22:49_
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Mot en grön och hållbar hälso- och sjukvård: Erfarenheter från forskning och praktik - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-25 22:49_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jordbruk och landsbygdsutveckling - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - atl.nu
 - Lediga jobb - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Spännande visning av uppkomsten efter direktsådd - Land.se
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
