@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-25 03:51_
+_Updated: 2026-05-25 08:55_
 
-- What to Know About the Potential U.S.-Iran Peace Deal - The New York Times
-- Efforts to stop California chemical leak in Orange County on new trajectory, officials say, as 50,000 remain evacuated - CBS News
-- 19 injured in crowd stampede at South Carolina motorcycle festival - ABC News - Breaking News, Latest News and Videos
-- Shooter killed near the White House was previously charged with trespassing - The Washington Post
-- Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack - The Guardian
+- Trump tells US negotiators 'not to rush' into deal with Iran - BBC
+- Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov
+- Bystander in serious condition after fatal shooting near White House checkpoint - AP News
+- Kyiv, Ukraine, Hit in Russian Missile Attack - The New York Times
 - Khanna expresses disappointment about Massie's defeat - Politico
+- Aurora Avenue residents fed up with shootings, bullets hitting homes; call on city to act - KOMO
 - Trump’s emerging plan to end Iran war draws criticism from hard-line Republicans - PBS
-- Full transcript of "Face the Nation with Margaret Brennan," May 24, 2026 - CBS News
+- 19 injured in crowd stampede at South Carolina motorcycle festival - Yahoo
+- Florida emergency chief hopes FEMA funding delays in past heading into hurricane season - Politico
 - Trump's $1.776B fund gets bipartisan pushback from LI delegation - Newsday
-- Confusion and Worry After Trump Administration’s Abrupt Green Card Changes - The New York Times
-- China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay - AP News
-- Shark kills spearfisher in front of friends in Australia: "Terrifying thing to see" - CBS News
-- Philippines Races to Rescue People Trapped in Building Collapse - Bloomberg.com
-- Blast hits train in Pakistan’s Balochistan, killing at least 24 people - Al Jazeera
-- Oil Futures Edge Down as Ships Move Toward Hormuz - WSJ
-- Gas and airfare prices have jumped. Americans are traveling this weekend anyway - CNN
-- Memorial Day 2026: What’s open, what’s closed on Monday? - Syracuse.com
-- Investors drop bold Fed rate-cut signal to Warsh - Yahoo Finance
-- Xreal, Google's smartglasses partner, thinks it has finally mastered this notoriously tricky industry - TechCrunch
-- Apple Is Reportedly Making AirPods Less Frustrating to Control - Gizmodo
+- China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) - Space
+- Rubio says 'good news' likely on Hormuz as Iran talks go on - Yahoo Finance
+- These German Politicians Agree With Trump: It’s Time for U.S. Troops to Get Out - WSJ
+- Spearfisher mauled on Great Barrier Reef in Australia's second fatal shark attack in a week - ABC News - Breaking News, Latest News and Videos
+- Oil prices fall amid mixed signals on US-Iran peace deal - Al Jazeera
+- Reopening of Strait of Hormuz Still a Question Mark - The New York Times
+- Is Target, Costco, Walmart & Aldi Open on Memorial Day 2026? Full List of What’s Open and Closed - Nbsla.ca
+- Stocks rise sharply, oil and dollar slip on Middle East peace hopes - Yahoo Finance
+- Epic Games Tips Unreal Engine 6 Timeline With Rocket League Reveal, Targeting UE5’s Multithreading Wall - Wccftech
+- Report: iOS 27 to revamp the AirPods settings UI - 9to5Mac
