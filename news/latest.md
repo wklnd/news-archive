@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-26 03:30_
+_Updated: 2026-05-26 07:49_
 
 - US military says it has launched new strikes on southern Iran - BBC
-- As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words - The New York Times
-- Trump, 79, Gears Up to Honor Fallen Heroes on Memorial Day by Relentlessly Truth Social Rage-Posting - The Daily Beast
-- Russia Tells US to Evacuate Its Diplomats and Citizens From Kyiv - Bloomberg.com
+- Rubio says Iran deal could take days as US launches fresh strikes - Reuters
+- 5 ways Pope Leo says AI could warp humanity - Axios
+- Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv - The Guardian
+- As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords - The Washington Post
 - Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon - The New York Times
-- Trump Touts Iran Progress While Hormuz Strike Reports Show Risk - Bloomberg.com
-- Live Updates: Trump approves emergency declaration for California chemical leak in Orange County, Newsom says - CBS News
-- Netanyahu admits to aides he has little influence over Trump on Iran — sources - The Times of Israel
+- Live Updates: Massive blast ruled out at California chemical leak in Orange County as officials say crisis is "not over" - CBS News
+- Israeli opposition leader pushes back on reported US-Iran peace framework - The Hill
+- Vance to host state AGs at White House for fraud task force meeting - Politico
 - Gov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens - The New York Times
-- Terrified Seattle neighborhood builds massive barricade across streets amid horrific crime wave - Yahoo
-- Live Updates: Iran and U.S. agree deal to end war taking shape, but Iran says obstacles remain - CBS News
 - Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns - PBS
+- China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay - NPR
 - Daughter of Bondi Hero Faces Torrent of Online Hate - COLlive
-- Carney warns Alberta not to pull a ‘Brexit’ - Politico
-- Oil Prices Fall Sharply on News of Possible Iran Deal - The New York Times
-- Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceX - Fortune
-- Custard apples: The crop that thrives in the toughest conditions - BBC
-- When will I get my Social Security check? Payment schedule for May. - Yahoo Finance
+- Iran is beating Trump at the art of the deal - Financial Times
+- Let There Be Luce: The Electric Ferrari Is Finally Here - WIRED
+- The SpaceX IPO Is Coming. These Are the 3 Most Important Numbers From Its S-1 Filing - Yahoo Finance
+- Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects - CNBC
+- Winning Powerball numbers for Saturday, May 23: See how many Ohioans won prizes - 10TV
 - Sennheiser's Momentum 5 Headphones Are All About The Audio And ANC Upgrades - Engadget
-- 007 First Light: James Bond game redefines iconic British spy - BBC
+- iPhone 18 Pro: Leaked video, case images reveal new color variants of Apple's 2026 flagships - Notebookcheck
