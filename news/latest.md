@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-26 12:36_
+_Updated: 2026-05-26 15:38_
 
-- U.S. renews strikes on Iran, citing threats posed to American troops - The Washington Post
-- 5 ways Pope Leo says AI could warp humanity - Axios
-- Cornyn and Paxton flood Texas airwaves in final day of GOP Senate runoff - AP News
-- Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response - California State Portal | CA.gov
+- U.S. strikes targets in Iran, citing threats posed to American troops - The Washington Post
+- Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say - The New York Times
+- Republicans worry the Cornyn-Paxton fight is tearing their party apart - Politico
+- Trump’s advanced age and threats to his life serve as reminders of his own mortality - CNN
+- Pope Leo calls for "disarming" of AI in technology-focused encyclical - CBS News
 - Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv - The Guardian
-- Trump to get 'routine annual' medical exam 7 months after last visit to Walter Reed - NPR
-- Middle East live: US will no longer have safe haven in region, warns Iran's Khamenei after strikes - France 24
-- Overview and Live Results: Texas Primary Runoff Elections - 270toWin.com
-- Israeli opposition leader pushes back on reported US-Iran peace framework - The Hill
-- Gov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens - The New York Times
-- Trump demands more countries sign Abraham Accords as part of Iran deal - France 24
+- Texas’ raucous primary runoffs end today. Here’s what to watch. - The Texas Tribune
+- An Election Denier Might Be Georgia’s Next Governor - The New York Times
+- Vance to host state AGs at White House for fraud task force meeting - Politico
+- Iran's president orders reopening of international internet access, state media reports - Reuters
+- Rubio says US-Iran peace deal could take ‘a few more days’ - politico.eu
+- North Korea launches ballistic missile and other weapons over the sea in latest show of force - AP News
 - Attacks from residents complicate the fight against a rare type of Ebola - NPR
-- Canadian PM slams Ben Gvir video of Gaza flotilla activists - Israel National News
-- What an America-Iran deal might look like - The Economist
-- Ferrari Launches $640,000, Jony Ive-Designed, Glass-Clad Electric Speedster - WSJ
-- Global oil price gains 3% as US military strikes on Iran add to peace deal uncertainty - Reuters
-- Elon Musk’s best friend could make more than $100 billion from SpaceX’s IPO. His firm is also owed billions by SpaceX - Fortune
-- Winning Powerball numbers for Saturday, May 23: See how many Ohioans won prizes - 10TV
+- Philippines ends rescue efforts for 16 missing after building collapse - Al Jazeera
+- Eli Lilly stock edges higher as company plans nearly $4 billion in vaccine deals - CNBC
+- BP ousts Chair Albert Manifold in surprise move, citing unnamed governance issues - Reuters
+- The bond market is telling us the free lunch is over - Axios
+- Stock Market Today: Oil Prices Strengthen After Fresh Attacks on Iran — Live Updates - WSJ
+- Memorial Day Apple deals: M5 MacBook Air, AirPods Pro on sale - Mashable
 - Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery - The Verge
-- Intel Nova Lake Edge reportedly planned with 8 E-cores and 12 Xe graphics cores - VideoCardz.com
