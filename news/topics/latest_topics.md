@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-26 18:24_
+_Updated: 2026-05-26 20:42_
 
 ## Top Stories
 
+- Kaos i Uppsala – efter plötsliga busvädret - UNT
 - Regeringen halverar priset på månadskort i kollektivtrafiken - Regeringen.se
-- Värmebölja över Europa – över 350 nya rekord - GP
-- Skolbuss påkörd av tåg – fyra döda - Hufvudstadsbladet – HBL
-- DN Direkt – Norska kronprinsen: Mette-Marits hälsa har blivit sämre - Dagens Nyheter
-- Fördömanden av Ryssland i FN - Västerbottens-Kuriren
-- DN Direkt – M:s vallöfte: Satsa på landets skjutbanor - Dagens Nyheter
-- Fräcka tjuvarna – bjuder äldre på bullar och tar sig in - SVT Nyheter
-- Totalstopp i tågtrafiken mellan Stockholm och Uppsala - UNT
-- Nu förbjuds kusinäktenskap - Aftonbladet
+- Israel tränger längre in i Libanon - GP
+- By i chock efter olyckan: ”Måste känt till vägen” - Svenska Dagbladet
+- Direkt – Kriget i Ukraina – Fördömanden av Ryssland i FN - Dagens Nyheter
+- Totalt tågstopp norr om Stockholm - SVT Nyheter
+- Nu förbjuds kusinäktenskap - Västerbottens-Kuriren
+- Trenden som kan göra Ulf Kristersson till vinnare - Dagens Nyheter
+- 26 maj 14.16, Bedrägeri, Jönköpings län - Polisen.se
 - Tre döms efter att pojke sprängde sig själv till döds - Aftonbladet
+- Värmebölja över Europa – över 400 nya rekord - Västerbottens-Kuriren
+- Uppgifter: USA planerar dra ner Nato-hjälp - Corren
 - Netblocks: Irans internet används igen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Krigets drönare får längre kablar – går inte att störa ut - Dagens Nyheter
-- Putins baktanke: ”Vill ge positivt budskap” - Västerbottens-Kuriren
-- DN Direkt – Guvernör vädjar om ebolahjälp – brist på mat - Dagens Nyheter
+- Elektroniskt luftförsvar allt viktigare för Ukraina - Dagens Nyheter
 - Ferrari backar på börsen – nya elbilen kritiseras - Omni
-- Ekonomer sågar regeringens elstöd: ”Det är vansinnig politik” - Ny Teknik
-- Elnätsavgifterna på 3 år ökade 500 procent mer än inflationen - Elinstallatören
-- PER-OLA OLSSON: Farligt när Google försvårar källkritik - Kuriren
+- Ekonomer sågar elstöd: ”Vansinnig politik” - Corren
+- Bensinen är billigare än du tror - Svenska Dagbladet
+- ”Bioarctic ska vara ägt och styrt från Sverige” - Svenska Dagbladet
+- Forskarnas nya hopp – planeten kan vara beboelig - Aftonbladet
 - Svaret: Därför hade T-rex så korta framben - Omni
-- Unge Bond har skapats i Malmö: ”Kul att jobba med något som har en sådan historik” - Sydsvenskan
 
 ## World News
 
 - Dicot | Global Forum 2026 - Biostock
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
-- Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
-- Bildextra: NHL Global series med Icelandair - travelnews-se
 - Global kommission ska bana väg för jämlik precisionshälsa - Karolinska Institutet
-- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -45,8 +45,8 @@ _Updated: 2026-05-26 18:24_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
 
@@ -55,17 +55,17 @@ _Updated: 2026-05-26 18:24_
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Bästa AI-aktierna att köpa nu | Morningstar Sverige - Morningstar Canada
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -75,10 +75,10 @@ _Updated: 2026-05-26 18:24_
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Consid takes on the German market - Via TT
 - Portuguese companies remain cautiously optimistic despite uncertain times - Portugal Resident
@@ -132,10 +132,10 @@ _Updated: 2026-05-26 18:24_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Med fokus på åldrandet i unikt Art & Science-projekt - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -145,20 +145,20 @@ _Updated: 2026-05-26 18:24_
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
 - Spännande visning av uppkomsten efter direktsådd - Land.se
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Agri Venture slår ett slag för innovationer inom lantbruk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
