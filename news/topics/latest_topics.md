@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-26 06:44_
+_Updated: 2026-05-26 10:48_
 
 ## Top Stories
 
-- WTI-olja dyker trots nya attacker - Västerbottens-Kuriren
-- Uppgifter: Regeringen halverar priset i kollektivtrafiken - GP
-- Hetta i London – nytt brittiskt värmerekord - GP
-- Malmö i sorg efter dödsolycka – man häktad - Dagens Nyheter
-- USA attackerar södra Iran – ”i självförsvar” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Wangens första meddelande till offren: Hej, vill du dö? - Aftonbladet
-- Hemvärnssoldaten Anders hittade tvååringen i Nyåker - GP
-- Nya råd om energidryck - Corren
-- Uppgifter: Priset på kollektivtrafik halveras i hela landet – Senaste nytt om valet 2026 - SVT Nyheter
-- Succé för Helsingborg: ”Positivt överraskade” - EFN
-- Ryssland varnar för nya attacker mot Kiev – utlänningar uppmanas lämna - Dagens Nyheter
-- Netanyahu: Vi ska krossa Hizbollah - Västerbottens-Kuriren
-- WHO: 900 misstänkta ebolafall i Kongo-Kinshasa - GP
-- Villabrand i Bollebygd utreds som mordbrand - Aftonbladet
-- Elnätsavgiften rusar – ”ingen rimlig förklaring” - Svenska Dagbladet
-- Ferraris första elbil kostar sex miljoner - Omni
-- Efter avslöjandet – Vaggeryds chark stoppar produktionen - SVT Nyheter
+- Bilens svarta låda kan ha avgörande svar – nu kartläggs millisekunder - Sydsvenskan
+- Så mycket energidryck bör unga dricka - Sveriges Radio
+- Skolbuss påkörd av tåg – flera uppges döda - Västerbottens-Kuriren
+- Åtalas för grova assistansbedrägerier - Expressen
+- USA attackerat mål i södra Iran: ”Självförsvar” - Dagens Nyheter
+- Bemanningsföretag brister i kontroll av hyrläkare - GP
+- SSAB öppnar bygget – pekar ut damm och virus - Dagens Nyheter
+- Assistenter åtalas för grova brott mot funktionsnedsatt - UNT
+- Raket med tolv experiment skjuts upp - Västerbottens-Kuriren
+- Uppgifter: Tullverket sköt mot bil där ett litet barn satt - Aftonbladet
+- Värmebölja över Europa – nya rekord väntas - Västerbottens-Kuriren
+- Flera döda i israelisk attack mot Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Uttalande med anledning av uppkallande av Rysslands ambassadör - Regeringen.se
+- Nordkorea har avfyrat ”oidentifierbar projektil” - Omni
+- Så mycket skiljer elnätsavgifterna i Sydnärke – Laxå billigast - Sydnärkenytt
+- Ferrari släpper första elbilen – för sex miljoner - Sydsvenskan
+- Pareto sänker Corem efter Ericssons flyttbesked - Fastighetsnytt
 - De vill bygga kärnkraft i Valdemarsvik – och i Nyköping - NT
 - Om en månad uppdateras Windows Secure Boot. Är du förberedd? - Computer Sweden
-- ”Harry Potter”-bok såld för rekordsumma - Västerbottens-Kuriren
+- Museifynd ger ledtrådar på hur bananfluga började äta kött - Sveriges Radio
 
 ## World News
 
-- Hamlet BioPharma | Global Forum 2026 - Biostock
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Chelsea make world-record bid to sign Hacken’s Felicia Schroder - The New York Times
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Bildextra: NHL Global series med Icelandair - travelnews-se
-- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - Global Task Force for public media om Kinas beslut att stänga ned BBC World News - SVT Om oss
 - Om humanitärismens roll i en förändrad global kontext - Karolinska Institutet
 - Ontario city considers $300 fines when pets are left in hot vehicles - Global News
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Hamlet BioPharma | Global Forum 2026 - Biostock
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- One Month to Go: Judo is Peace, Unity and Friendship - IJF
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Dicot | Global Forum 2026 - Biostock
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Circio | Global Forum 2026 - Biostock
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Avlyssningsskandalen växer - Journalisten
 
 ## Technology
 
@@ -56,8 +56,8 @@ _Updated: 2026-05-26 06:44_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI och blockkedjeteknik driver innovation inom utbildning av personal inom digital finans. - Vietnam.vn
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
@@ -67,8 +67,8 @@ _Updated: 2026-05-26 06:44_
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Debatt - utmaningar kring artificiell intelligens (AI) och den digitala omvandlingen av sjukvården - Karolinska Institutet
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
@@ -90,16 +90,16 @@ _Updated: 2026-05-26 06:44_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
+- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Mot en grön och hållbar hälso- och sjukvård: Erfarenheter från forskning och praktik - Karolinska Institutet
@@ -107,7 +107,6 @@ _Updated: 2026-05-26 06:44_
 - Vi presenterar HealthBench - OpenAI
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -116,6 +115,7 @@ _Updated: 2026-05-26 06:44_
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -132,13 +132,13 @@ _Updated: 2026-05-26 06:44_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- AI och data science - Stockholms universitet
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-05-26 06:44_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jordbruk och landsbygdsutveckling - European Commission
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
 - Spännande visning av uppkomsten efter direktsådd - Land.se
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Agri Venture slår ett slag för innovationer inom lantbruk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture slår ett slag för innovationer inom lantbruk - Land.se
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
