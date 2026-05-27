@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-27 08:47_
+_Updated: 2026-05-27 13:05_
 
-- MAGA candidate Paxton defeats Senate stalwart Cornyn in Texas primary - The Washington Post
-- Nippon Dynawave Packaging Company chemical tank implosion: At least 1 dead, 9 others missing in Longview, Washington - ABC7 Chicago
-- Iran Threatens to Renew Strikes Against U.S. Amid Push for Diplomatic Deal - The New York Times
+- Texas GOP voters oust Cornyn in Paxton upset - Axios
+- Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture - Oregon Public Broadcasting - OPB
+- Live Updates: Iran accuses U.S. of "grave violation" of ceasefire as Trump seeks "good deal or no deal" - CBS News
 - Evacuation Orders Lifted as Southern California Chemical Tank Cools - The New York Times
-- South Carolina Senate rejects Trump’s call to redraw congressional map for midterm elections - AP News
-- Christian Menefee beats Al Green in Democratic primary runoff in new TX-18, according to AP - Houston Public Media
-- Florida congressional map survives first court test - Axios
-- Biden sues Justice Department to stop release of audio from interviews - NBC News
-- A hunger strike, protests and a pepper-sprayed U.S. senator: Inside a violent holiday weekend at N.J.’s priva - NJ.com
-- Live: Police Chief Brian O’Hara resigns from Minneapolis department - Star Tribune
-- Dozens killed in Lebanon as Israel intensifies strikes - BBC
-- Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive - CBS News
-- Panama encourages dialogue at UN as canal tensions with China simmer - South China Morning Post
-- UK's ex-PM Blair calls on Labour to focus on policy, not personality - Reuters
-- Controversial electric Ferrari outrages transport minister (and the rest of Italy) - politico.eu
+- Texas general election matchups are finally set. Here's what you need to know - NPR
+- South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition - NBC News
+- Minneapolis Police Chief Brian O'Hara resigns after allegations he interfered with investigation - MPR News
+- Biden sues DOJ to stop release of audio and transcripts tied to special counsel probe - NPR
+- Skydiver killed after midair collision with another jumper - NBC News
+- Judge Allows Florida House Map That Could Add 4 Republican Seats - The New York Times
+- Five of seven people trapped in Laos cave found alive, rescuers say - CNN
+- Trump moves Camp David cabinet meeting to White House as Iran talks continue - The Guardian
+- Israel says it killed Hamas' new armed wing chief in Gaza - Reuters
+- North Korea launches ballistic missile and other weapons over the sea in latest show of force - AP News
 - Memory Chip Frenzy Sends SK Hynix, Micron Into $1 Trillion Club - Bloomberg.com
-- BP removes chair Albert Manifold over ‘serious concerns’ about his conduct - Financial Times
-- Space Stocks Soar After SpaceX Files for Record-Breaking IPO - Yahoo Finance
-- Google Health is here, but a lot of people want their Fitbit app back instead - The Verge
-- Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers - MacRumors
+- Controversial electric Ferrari outrages transport minister (and the rest of Italy) - politico.eu
+- Nvidia CEO Jensen Huang delivers sharp message to major customer - Yahoo Finance Australia
+- Asia stocks: Japan, S.Korea hit records on Wall St tech rally; Iran fears persist - Investing.com
+- Google Health Premium joins AI Pro as weekly email redesigned - 9to5Google
+- Apple working on iPhone anti-snatching feature that locks the device automatically - 9to5Mac
