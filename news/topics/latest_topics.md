@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-28 00:18_
+_Updated: 2026-05-28 01:44_
 
 ## Top Stories
 
-- Sveriges Radio om Agnes Wolds transuttalanden: ”Hon är ångerfull” - SVT Nyheter
-- Uppgifter: Sverige ska ge Gripenplan till Ukraina - Västerbottens-Kuriren
-- DN Direkt – Norges drottning inlagd på sjukhus - Dagens Nyheter
-- Värmen stänger in Cillas familj: ”Ingen tycker att detta är normalt” - Sveriges Radio
-- DN Direkt – Chockförlust för världstvåan i Paris - Dagens Nyheter
-- Jill Biden: Trodde Joe hade fått en stroke - GP
+- Uppgifter: Sverige ska ge Gripenplan till Ukraina - GP
+- Norges drottning Sonja inlagd på sjukhus - Västerbottens-Kuriren
+- Polisinsats i Malmö – utreder misstänkt grovt brott - Sveriges Radio
+- DN Direkt – Jill Biden: Trodde Joe hade fått en stroke - Dagens Nyheter
+- Israel flygbombar mål i Tyre i södra Libanon - Västerbottens-Kuriren
+- Femte attacken mot familj i Torslanda – och tre dömda - GP
 - Tidigare S-ministern Mats Hellström är död - Corren
 - Medellivslängden högst i Stockholms län - Statistikmyndigheten SCB
-- Maj-Britt om uranvattnet: "Inte kul precis" - UNT
-- Utredning föreslår styrmedel för att fasa ut fossila bränslen - Regeringen.se
+- SKR: Så ska vården för patienter med obesitas förbättras - Sveriges Radio
+- Lundsberg: SVT är kraftigt partiska och orättvisa - Omni
 - DN Direkt – Norge och Frankrike ingår försvarssamarbete - Dagens Nyheter
 - Brittisk säkerhetstjänst: Halv miljon ryssar döda - Corren
-- Koalor blir sjuka och dör av värmestress - GP
-- Trump: Ingen ska kontrollera Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- HD-domen som kan kasta USA:s svarta 60 år tillbaka i tiden - Dagens Nyheter
+- USA: Nya attacker mot iranskt militärt mål – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni
+- Svagt uppåt på New York-börsen - Aftonbladet
+- Börsen vänder till minus – ABB och Ericsson i botten - EFN
 - Tänk på detta när börslarmet går - Svenska Dagbladet
-- Tången: Så värderas börsens nya serieförvärvare - Affärsvärlden
-- FORTSATT SMÅ RÖRELSER, APPLOVIN UPP, S&P 500 -0,1% - Placera.se
 - Googles Fitbit-app har ersatts av Google Health – och folk är inte så glada - Omni
 - Ny expansion till ”The Witcher 3” – efter tolv år - Västerbottens-Kuriren
 
@@ -32,21 +32,21 @@ _Updated: 2026-05-28 00:18_
 - Zelluna | Global Forum 2026 - Biostock
 - Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
-- Dicot | Global Forum 2026 - Biostock
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global kommission ska bana väg för jämlik precisionshälsa - Karolinska Institutet
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Om humanitärismens roll i en förändrad global kontext - Karolinska Institutet
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Bildextra: NHL Global series med Icelandair - travelnews-se
+- Dicot | Global Forum 2026 - Biostock
 - BioInvent International | Global Forum 2026 - Biostock
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Nadmed | Global Forum 2026 - Biostock
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
@@ -100,65 +100,65 @@ _Updated: 2026-05-28 00:18_
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Mot en grön och hållbar hälso- och sjukvård: Erfarenheter från forskning och praktik - Karolinska Institutet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- 5 myter om öppen vetenskap - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
-- Jordbrukspolitik - Naturvårdsverket
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Spännande visning av uppkomsten efter direktsådd - Land.se
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Han tar maskarna till hjälp vid de häftiga regnen - Sveriges Radio
