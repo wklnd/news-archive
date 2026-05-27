@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-28 00:21_
+_Updated: 2026-05-28 01:46_
 
 - Live Updates: Iran "negotiating on fumes," Trump says, as Israel ramps up war in Lebanon - CBS News
-- Why some Republicans are worried about Ken Paxton as a Senate nominee - The Washington Post
+- John Thune breaks the ice with Ken Paxton - Axios
+- Longview paper mill disaster could be ‘deadliest industrial tragedy in modern Washington state history’ - Oregon Public Broadcasting - OPB
 - Biden Sues Justice Dept. to Block Release of Tapes - The New York Times
-- Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade - Reuters
-- ‘60 Minutes’ journalist says CBS contract ended after furor over delayed segment - NBC News
-- Confirmed death toll climbs to 2 from Longview paper mill disaster - Oregon Public Broadcasting - OPB
-- Matthew Perry's assistant sentenced to 41 months for role in the actor's death - BBC
+- Former Judges Urge Inquiry Into Deal Trump Struck With I.R.S. - The New York Times
+- Months after feud with Bari Weiss, Sharyn Alfonsi is out at ‘60 Minutes’ - The Washington Post
+- Matthew Perry’s Assistant Sentenced to More Than 3 Years in Prison - The New York Times
 - ‘We are not criminals’: protests erupt as hunger strike rocks New Jersey ICE jail - The Guardian
-- Vote on Trans Athlete Ban Is Canceled Over Suspect Signatures - The New York Times
-- Alabama asks Supreme Court to allow use of congressional map helping GOP, despite racial bias ruling - AP News
+- Trump administration ‘drawing up plans’ to stop processing international flights in sanctuary cities - The Guardian
+- Trump appears to threaten Oman with bombing over Strait of Hormuz impasse - Al Jazeera
+- Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah - AP News
 - Hamas confirms death of military chief Mohammed Odeh; defiant funeral held in Gaza City - The Times of Israel
-- For Pakistan, joining Abraham Accords is a tricky choice - dw.com
-- Muslims around the world celebrate Eid al-Adha, in photos - AP News
-- Senior Ukrainian commander sees imminent ‘turning point’ in war - Defense News
+- Uganda Closes Border With Congo as Ebola Fears Rise - The New York Times
+- Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade - Reuters
+- Angry Ferrari fans say the Italian company’s new EV is too Californian - Los Angeles Times
+- Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth - The New York Times
 - Dow rises nearly 200 points to new record close as oil retreats on Iran truce optimism: Live updates - CNBC
-- Global Supply Shortages Deepen, Threatening Jobs and Growth - The New York Times
-- Ferrari’s First Electric Car Runs Into Backlash in Italy and Beyond - The New York Times
-- Jamie Dimon says JPMorgan could spend up to $20bn on a new acquisition - Financial Times
-- Valve raises Steam Deck prices by more than $200 - The Verge
-- Roku Unveils Biggest Home Screen Overhaul in More Than a Decade - Variety
+- SK Hynix Surges 1,000% As AI Memory Stocks Hit $1 Trillion - Yahoo Finance
+- Valve Jacks Up Steam Deck Prices By As Much As $300 - Engadget
+- Roku OS’s home screen now features a large, permanent ad - Ars Technica
