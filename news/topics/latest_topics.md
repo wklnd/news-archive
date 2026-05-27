@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-27 22:33_
+_Updated: 2026-05-28 00:18_
 
 ## Top Stories
 
 - Sveriges Radio om Agnes Wolds transuttalanden: ”Hon är ångerfull” - SVT Nyheter
-- Extremväder i Europa – men här blir det mildare - GP
-- Misstänkt misshandel med vasst tillhygge i Växjö - Sveriges Radio
-- USA: Iran ger falsk bild av utkast till avtal - Hufvudstadsbladet – HBL
-- Brittisk säkerhetstjänst: Halv miljon ryssar döda - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Fyra uppges dödade i attack mot Gaza - Dagens Nyheter
-- Uppsala Vatten varnar: Förhöjda halter av uran i vattnet i Vänge - SVT Nyheter
-- Tidigare S-ministern Mats Hellström är död - Västerbottens-Kuriren
+- Uppgifter: Sverige ska ge Gripenplan till Ukraina - Västerbottens-Kuriren
+- DN Direkt – Norges drottning inlagd på sjukhus - Dagens Nyheter
+- Värmen stänger in Cillas familj: ”Ingen tycker att detta är normalt” - Sveriges Radio
+- DN Direkt – Chockförlust för världstvåan i Paris - Dagens Nyheter
+- Jill Biden: Trodde Joe hade fått en stroke - GP
+- Tidigare S-ministern Mats Hellström är död - Corren
 - Medellivslängden högst i Stockholms län - Statistikmyndigheten SCB
-- Hundratusentals med obesitas får inte vård - GP
-- DN Direkt – Uganda stänger gränsen till Kongo - Dagens Nyheter
-- Ryssland ger klartecken för privata luftvärn - Dagens Nyheter
+- Maj-Britt om uranvattnet: "Inte kul precis" - UNT
+- Utredning föreslår styrmedel för att fasa ut fossila bränslen - Regeringen.se
 - DN Direkt – Norge och Frankrike ingår försvarssamarbete - Dagens Nyheter
-- Koalor blir sjuka och dör av värmestress - Västerbottens-Kuriren
+- Brittisk säkerhetstjänst: Halv miljon ryssar döda - Corren
+- Koalor blir sjuka och dör av värmestress - GP
+- Trump: Ingen ska kontrollera Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Saabs vd: ”Har ett rejält intresse för Global Eye nu” - Omni
-- Tången: Så värderas börsens nya serieförvärvare - Affärsvärlden
 - Tänk på detta när börslarmet går - Svenska Dagbladet
-- X-Fab Silicon Foundries aktie rusar efter inlägg i sociala medier - Investing.com Sverige
+- Tången: Så värderas börsens nya serieförvärvare - Affärsvärlden
+- FORTSATT SMÅ RÖRELSER, APPLOVIN UPP, S&P 500 -0,1% - Placera.se
 - Googles Fitbit-app har ersatts av Google Health – och folk är inte så glada - Omni
 - Ny expansion till ”The Witcher 3” – efter tolv år - Västerbottens-Kuriren
 
@@ -30,9 +30,9 @@ _Updated: 2026-05-27 22:33_
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Kristersson välkomnar flygaffär med Kanada - SVT Nyheter
 - Zelluna | Global Forum 2026 - Biostock
+- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Dicot | Global Forum 2026 - Biostock
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
@@ -43,33 +43,33 @@ _Updated: 2026-05-27 22:33_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Om humanitärismens roll i en förändrad global kontext - Karolinska Institutet
-- BioInvent International | Global Forum 2026 - Biostock
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- BioInvent International | Global Forum 2026 - Biostock
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Nadmed | Global Forum 2026 - Biostock
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -121,19 +121,19 @@ _Updated: 2026-05-27 22:33_
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - AI och data science - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
@@ -142,13 +142,11 @@ _Updated: 2026-05-27 22:33_
 
 ## Jordbruk
 
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Spännande visning av uppkomsten efter direktsådd - Land.se
@@ -160,5 +158,7 @@ _Updated: 2026-05-27 22:33_
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - FN och SLU i nytt samarbete för att utveckla matproduktion och bekämpa svält - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
