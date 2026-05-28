@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-28 14:48_
+_Updated: 2026-05-28 19:06_
 
 ## Top Stories
 
-- EDVARD HOLLERTZ: Gripen till Ukraina? Hade aldrig hänt om staten ägt Saab - Corren
-- Vänsterpartiet: Stäng Lundsberg - GP
-- Kulturkrönika: Det här är vad Agnes Wold försvarar - GP
+- Ukraina köper 20 JAS Gripen-plan av Sverige - SVT Nyheter
+- USA och Iran anklagar varandra efter nya attacker - GP
+- Utredaren: Utredningen skulle överlämnas på pressträff – planerna ställdes in - Dagens Nyheter
+- Vänsterpartiet: Stäng Lundsberg - Västerbottens-Kuriren
+- WILHELM NYSTRÖM: Garplind mobbar Agnes Wold – häpnadsväckande - Corren
+- Svensk man gripen utomlands för grova våldsbrott - Polisen.se
 - DANIEL PERSSON: Regeringens stöd till kollektivtrafiken är obegripligt - Corren
-- Kung Harald: Mette-Marit är allvarligt sjuk - Västerbottens-Kuriren
-- Teslataxi brakade rätt in i sophus: ”Fruktansvärd fart” - Aftonbladet
-- Regeringen ger adopterade resurscentrum – ingen ursäkt än - Dagens Nyheter
-- SD-topp: Blev spottad i ansiktet – har polisanmält - GP
-- Ny bro vid Slussen möter kritik: ”En ikonisk Stockholmsvy har förvanskats” - Dagens Nyheter
-- Rävattacker utanför Norrköping – katt dödades - Aftonbladet
-- Livräddarna varnar: Dyk inte ner i vattnet under värmebölja - SVT Nyheter
-- Draget mot Trumps ”svarta fond”: 100 procent skatt - Dagens Nyheter
-- Källor: Nattliga attacker från Iran och USA - GP
-- Israel anfaller södra Libanon – flera döda - Västerbottens-Kuriren
-- Svensk Handel välkomnar böter för Temu – ”inte en dag för tidigt” - Svensk Handel
+- Stora problem i tunnelbanan - SVT Nyheter
+- Svår olycka utanför Gränna – bil började brinna - GP
+- Insändare. Svar: Bygg nya skyddsrum som inte monteras ner igen - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – FN svartlistar Israel för sexuellt våld i konflikt - Dagens Nyheter
+- DN Direkt – Uganda stänger gränsen till Kongo - Dagens Nyheter
+- Emma Bouvin: Vad är egentligen en vapenvila? - Dagens Nyheter
+- Attacker mot Beirut och södra Libanon – flera döda - GP
 - Nota i miljardklass när Lundin-rättegång avslutas - Västerbottens-Kuriren
-- EU granskar kinesiska köpet av stora butikskedjorna - Dagens industri
-- Google-anställd åtalas för insiderhandel på Polymarket - Börsvärlden
+- Svensk Handel välkomnar böter för Temu – ”inte en dag för tidigt” - Svensk Handel
+- Alectas VD avgår – lämnar efter sig miljardsänke - Affärsvärlden
+- Skellefteåborna om Lyten: ”Försiktigt optimistisk” - Dagens Nyheter
 - Oura Ring 5: 40 procent mindre – men de bästa funktionerna stannar i USA - Ny Teknik
 - Steam Deck ser sin prislapp chockhöjas - Nordichardware
 
 ## World News
 
-- Zelluna | Global Forum 2026 - Biostock
-- Kristersson välkomnar flygaffär med Kanada - SVT Nyheter
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
-- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - TV.nu
+- Zelluna | Global Forum 2026 - Biostock
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
-- AI is fueling war, ‘culture of power’, Pope says in theological document - National - Global News
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global kommission ska bana väg för jämlik precisionshälsa - Karolinska Institutet
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
+- Global kommission ska bana väg för jämlik precisionshälsa - Karolinska Institutet
+- AI is fueling war, ‘culture of power’, Pope says in theological document - National - Global News
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BioInvent International | Global Forum 2026 - Biostock
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Dicot | Global Forum 2026 - Biostock
 - Hamlet BioPharma | Global Forum 2026 - Biostock
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -66,10 +66,10 @@ _Updated: 2026-05-28 14:48_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -80,61 +80,61 @@ _Updated: 2026-05-28 14:48_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- / Reproduktiv hälsa/Reproduktionsmedicin – Kristina Gemzell Danielssons forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Digitala tvillingar ger hälsosvar - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- AI och data science - Stockholms universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -142,23 +142,23 @@ _Updated: 2026-05-28 14:48_
 
 ## Jordbruk
 
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruk och landsbygdsutveckling - European Commission
 - Spännande visning av uppkomsten efter direktsådd - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Hellre plöjningsfri odling än ekologisk - Land.se
