@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-28 11:03_
+_Updated: 2026-05-28 14:53_
 
-- US strikes Iran military site as Tehran says it has targeted American base - BBC
+- Oil prices jump after US launches new attacks on Iran - BBC
+- A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR
+- Trump wants a gas tax holiday. There’s a much bigger problem looming - NPR
 - Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll Over Trump Lawsuits - The New York Times
-- Longview paper mill disaster could be ‘deadliest industrial tragedy in modern Washington state history,’ governor says - Oregon Public Broadcasting - OPB
-- Ex-federal judges ask court to reopen Trump’s IRS lawsuit, probe payout fund - The Washington Post
-- Ex-CIA official charged with stealing millions of dollars in gold bars - NPR
-- The Texas Senate candidates have two radically different visions of Christianity - vox.com
-- Poll shows Becerra opening lead in California governor’s race - Politico
-- Trump Files Revised Defamation Lawsuit Against WSJ Publisher - WSJ
-- Pentagon puts building blocks in place for Cuba invasion - Politico
-- 'Like a prisoner being released' - Relief for Iranians as internet shutdown ends - BBC
-- Chinese dissident found at sea detained in South Korea - dw.com
-- Trump says he can outwait Iran, dismisses midterm election pressure - Reuters
-- Israel begins strikes on southern Lebanon after evacuation orders - BBC
-- What Iranian State Media Says Is in Outline of ‘Unofficial’ Deal With U.S. - The New York Times
-- Google engineer made $1.2M by placing bets on Polymarket using confidential info, prosecutors allege - NBC News
-- Rocket Lab and AST Short Squeeze: Space Stocks Mirror EV Bubble as SpaceX IPO Looms - Barron's
-- Trump Administration Wants to Give Cold War-Era Plutonium to Nuclear Energy Start Ups - Gizmodo
-- Silicon Valley is spending billions on AI tokens and nobody can agree if it's working - Business Insider
-- Sony Announces True RGB Bravia TV Lineup - Engadget
-- Why Google’s AI can’t spell Google (or anything else) - TechCrunch
+- Ex-CIA officer charged with stealing gold from government - dw.com
+- Becerra, Hilton Lead in California Governor’s Race Poll Ahead of June Primary - KQED
+- Paxton win sparks GOP money panic - Politico
+- Longview explosion ‘deadliest industrial tragedy in modern Washington state history’ as death toll climbs, Go - OregonLive.com
+- Iranians back online after months-long shutdown, but still face heavy restrictions - The Times of Israel
+- ‘It isn’t canceled’: Inside the White House divisions on AI - Politico
+- The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords - The New York Times
+- Global temperatures to reach near-record highs in next five years, report finds - Reuters
+- Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime "negotiating on fumes" - CBS News
+- "Vast fortune" belonging to legendary Mafia boss seized by police in Italy - CBS News
+- Chinese online retailer Temu hit with $232 million fine over illegal products - AP News
+- Fertitta-owned firm to buy Caesars Entertainment in nearly $18 billion leisure push - CNBC
+- A Google engineer made $1.2 million by insider trading on Polymarket under the name 'AlphaRaccoon': DOJ - Business Insider
+- Ferrari Asked Its F1 Drivers About The Luce EV. Here’s What They Said - Motor1.com
+- Oura Ring 5 leak suggests week-long battery life, the same old subscription story [Gallery] - 9to5Google
+- Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch
