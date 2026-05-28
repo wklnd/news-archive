@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-28 21:53_
+_Updated: 2026-05-29 00:16_
 
 ## Top Stories
 
+- DN Direkt – Kraftig brand i lagerlokal i Stockholm - Dagens Nyheter
+- Håkan Boström: Wold utövar inget psykiskt våld - GP
 - USA och Iran anklagar varandra efter nya attacker - Västerbottens-Kuriren
-- Kvinna påkörd av spårvagn vid Aschebergsgatan - GP
-- WILHELM NYSTRÖM: Garplind mobbar Agnes Wold – häpnadsväckande - Corren
+- Putins ex-propagandist: Enda som kan fälla regimen - Dagens Nyheter
 - Skarp kritik: ”Förstår inte hur Dousa kan sova om natten” - Dagens Nyheter
-- Halverat pris på bussbiljetten i Sverige – men hur gör andra länder? - Dagens Nyheter
 - Sverige säljer Gripen E/F stridsflyg till Ukraina - Regeringen.se
-- Utredning föreslår styrmedel för att fasa ut fossila bränslen - Regeringen.se
-- Svår olycka utanför Gränna – bil började brinna - GP
-- Man allvarligt skadad i trafikolycka i Kalmar - SVT Nyheter
-- Nystartade partiet tar strid för traditionell arkitektur: ”Gert Wingårdh är fienden” - Dagens Nyheter
-- Israel bryter med FN:s generalsekreterare - Corren
-- Kung Harald: Mette-Marit är allvarligt sjuk - Västerbottens-Kuriren
+- Kvinna påkörd av spårvagn vid Aschebergsgatan - GP
+- Allvarligt skadad i olycka – vårdas på intensiven - Västerbottens-Kuriren
+- Ukrainske Serhij utvisades efter identitetsmiss - Omni
+- Prissänkning bara på en del av Danmarksresan - GP
+- WHO: Ebola kan stoppas - Västerbottens-Kuriren
 - Attacker mot Beirut och södra Libanon – flera döda - GP
-- DN Direkt – Uganda stänger gränsen till Kongo - Dagens Nyheter
+- Israel bryter med FN:s generalsekreterare - Corren
+- Trump vill ha sitt ansikte på ny dollarsedel - Aftonbladet
 - Grönt ljus för Arlas fusion med tysk mejerijätte – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- Svensk Handel välkomnar böter för Temu – ”inte en dag för tidigt” - Svensk Handel
-- Nota i miljardklass när Lundin-rättegång avslutas - Västerbottens-Kuriren
+- Giftiga bebisvaror – miljardböter för Temu - Aktuell Hållbarhet
 - Alectas VD avgår – lämnar efter sig miljardsänke - Affärsvärlden
-- Steam Deck ser sin prislapp chockhöjas - Nordichardware
+- Höganäs har Sveriges bästa företagsklimat – historiskt ras för Malmö - Skåne Plus
 - Årets "Call of Duty" är “Modern Warfare 4” – skildrar krig med Nordkorea - MovieZine
+- Steam Deck ser sin prislapp chockhöjas - Nordichardware
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Zelluna | Global Forum 2026 - Biostock
+- Kristersson välkomnar flygaffär med Kanada - SVT Nyheter
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
+- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- At least 131 dead in Ebola outbreak in DR Congo, official says - BBC
 - AI is fueling war, ‘culture of power’, Pope says in theological document - National - Global News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global kommission ska bana väg för jämlik precisionshälsa - Karolinska Institutet
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
-- BioInvent International | Global Forum 2026 - Biostock
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Dicot | Global Forum 2026 - Biostock
-- Hamlet BioPharma | Global Forum 2026 - Biostock
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Dicot | Global Forum 2026 - Biostock
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
@@ -56,6 +56,7 @@ _Updated: 2026-05-28 21:53_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -65,34 +66,33 @@ _Updated: 2026-05-28 21:53_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
 
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilken framtid arbetar du för? - EY
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Cormac Barry utsedd till ny styrelseordförande för Sambla Group - Mynewsdesk
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
-- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Stor efterfrågan på professionell Amazon utbildning - Amazonexperten Carl Helgesson i nytt nordiskt bolag - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
 
@@ -131,22 +131,22 @@ _Updated: 2026-05-28 21:53_
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Spännande visning av uppkomsten efter direktsådd - Land.se
