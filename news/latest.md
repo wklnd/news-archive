@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-28 19:27_
+_Updated: 2026-05-28 21:55_
 
-- U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal - The Washington Post
-- US Judge declines to block Trump's mail-in voting executive order - Reuters
-- Justice Department opens criminal probe into E. Jean Carroll - nbcnews.com
-- Deadly paper mill implosion illustrates industry’s risks - The Seattle Times
-- Xavier Becerra and Steve Hilton lead the pack in the race for California governor, new poll shows - ABC7 Los Angeles
+- Donald Trump shares draft Iran peace agreement with Israel and other allies - The Guardian
+- Justice Department opens criminal probe involving E. Jean Carroll testimony in Trump sexual abuse lawsuit - NBC News
+- US says Iran launched ‘egregious ceasefire violation,’ testing fragile truce - Politico
+- US judge won't block Trump's mail-in voting executive order for now - Reuters
 - Trump appointees push $250 banknote with his portrait - The Washington Post
+- California Democrats shrug at their choices in packed race to replace Newsom - AP News
+- Supreme Court sides with Black death row inmate who alleged racial discrimination in jury selection - CBS News
 - Paxton win sparks GOP money panic - Politico
-- Supreme Court sides with Mississippi man on death row in racial bias case - The Washington Post
-- Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’ - The Guardian
-- Michigan Governor Gretchen Whitmer Will Not Run for President in 2028 - The New York Times
-- Australia charges alleged ISIL-linked woman after return from Syria - Al Jazeera
+- Newsom vows to levy 100% tax on California recipients of Trump’s $1.8-billion ‘slush fund’ - Los Angeles Times
+- First Thing: Trump threatens to ‘blow up’ US ally Oman if it does not ‘behave’ over strait of Hormuz - The Guardian
+- Australian woman held in custody on charges of traveling to Syria to join Islamic State group - AP News
 - The US will keep embassy in Kyiv open despite Russian threats - politico.eu
-- On the ground with Ukraine's drone forces targeting Russia's battlefield rear - Reuters
+- Sweden Hands Ukraine 16 Gripen Jets Armed With 200-km Missiles, Opens Deal for 22 More - Kyiv Post
 - Will Tony Blair's intervention change the Labour debate? - BBC
-- Stock Market Today: Dow Slips, Oil Pares Gains as Investors Cling to Hope of Mideast Deal — Live Updates - WSJ
-- Charles Leclerc's hilarious reaction to Lewis Hamilton driving Ferrari's new EV goes viral - Motorsport.com
 - CVS brings back coverage for Lilly's obesity drug Zepbound - Reuters
-- Treasury Announces the Launch of the Trump Accounts App and Next Steps for Trump Accounts - U.S. Department of the Treasury (.gov)
+- Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up - The New York Times
+- Charles Leclerc's hilarious reaction to Lewis Hamilton driving Ferrari's new EV goes viral - Motorsport.com
+- Inflation hits highest level in nearly 3 years, Fed's preferred gauge shows - ABC News - Breaking News, Latest News and Videos
 - Oura Ring 5 Is 40% Smaller, Detects Blood Pressure Changes and Sleep Disturbances - Bloomberg.com
-- Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch
+- Intel makes a bid for handheld gaming PCs with new Arc G3 processors - Ars Technica
