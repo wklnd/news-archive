@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-28 14:53_
+_Updated: 2026-05-28 19:27_
 
-- Oil prices jump after US launches new attacks on Iran - BBC
-- A federal judge in D.C. declines to block Trump's executive order on voting by mail - NPR
-- Trump wants a gas tax holiday. There’s a much bigger problem looming - NPR
-- Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll Over Trump Lawsuits - The New York Times
-- Ex-CIA officer charged with stealing gold from government - dw.com
-- Becerra, Hilton Lead in California Governor’s Race Poll Ahead of June Primary - KQED
+- U.S. and Iran trade strikes as Trump says he feels no pressure for peace deal - The Washington Post
+- US Judge declines to block Trump's mail-in voting executive order - Reuters
+- Justice Department opens criminal probe into E. Jean Carroll - nbcnews.com
+- Deadly paper mill implosion illustrates industry’s risks - The Seattle Times
+- Xavier Becerra and Steve Hilton lead the pack in the race for California governor, new poll shows - ABC7 Los Angeles
+- Trump appointees push $250 banknote with his portrait - The Washington Post
 - Paxton win sparks GOP money panic - Politico
-- Longview explosion ‘deadliest industrial tragedy in modern Washington state history’ as death toll climbs, Go - OregonLive.com
-- Iranians back online after months-long shutdown, but still face heavy restrictions - The Times of Israel
-- ‘It isn’t canceled’: Inside the White House divisions on AI - Politico
-- The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords - The New York Times
-- Global temperatures to reach near-record highs in next five years, report finds - Reuters
-- Live Updates: Iran fires missile at Kuwait after U.S. strikes, as Trump says regime "negotiating on fumes" - CBS News
-- "Vast fortune" belonging to legendary Mafia boss seized by police in Italy - CBS News
-- Chinese online retailer Temu hit with $232 million fine over illegal products - AP News
-- Fertitta-owned firm to buy Caesars Entertainment in nearly $18 billion leisure push - CNBC
-- A Google engineer made $1.2 million by insider trading on Polymarket under the name 'AlphaRaccoon': DOJ - Business Insider
-- Ferrari Asked Its F1 Drivers About The Luce EV. Here’s What They Said - Motor1.com
-- Oura Ring 5 leak suggests week-long battery life, the same old subscription story [Gallery] - 9to5Google
-- Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch
+- Supreme Court sides with Mississippi man on death row in racial bias case - The Washington Post
+- Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’ - The Guardian
+- Michigan Governor Gretchen Whitmer Will Not Run for President in 2028 - The New York Times
+- Australia charges alleged ISIL-linked woman after return from Syria - Al Jazeera
+- The US will keep embassy in Kyiv open despite Russian threats - politico.eu
+- On the ground with Ukraine's drone forces targeting Russia's battlefield rear - Reuters
+- Will Tony Blair's intervention change the Labour debate? - BBC
+- Stock Market Today: Dow Slips, Oil Pares Gains as Investors Cling to Hope of Mideast Deal — Live Updates - WSJ
+- Charles Leclerc's hilarious reaction to Lewis Hamilton driving Ferrari's new EV goes viral - Motorsport.com
+- CVS brings back coverage for Lilly's obesity drug Zepbound - Reuters
+- Treasury Announces the Launch of the Trump Accounts App and Next Steps for Trump Accounts - U.S. Department of the Treasury (.gov)
+- Oura Ring 5 Is 40% Smaller, Detects Blood Pressure Changes and Sleep Disturbances - Bloomberg.com
+- Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch
