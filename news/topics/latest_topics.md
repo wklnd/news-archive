@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-28 10:58_
+_Updated: 2026-05-28 14:48_
 
 ## Top Stories
 
-- Uppgifter: Sverige skänker Gripenplan till Ukraina - Corren
-- LEDARE: Billiga busskort vinner inga val - Nya Wermlands-Tidningen
-- JOHANNA SCHREIBER: Vem vill ha en Lundsbergare som chef? - Norran
-- DN Direkt – Miljardnota när historisk Lundin-rättegång avslutas - Dagens Nyheter
-- Sveriges Radio om Agnes Wolds transuttalanden: ”Hon är ångerfull” - SVT Nyheter
+- EDVARD HOLLERTZ: Gripen till Ukraina? Hade aldrig hänt om staten ägt Saab - Corren
+- Vänsterpartiet: Stäng Lundsberg - GP
+- Kulturkrönika: Det här är vad Agnes Wold försvarar - GP
+- DANIEL PERSSON: Regeringens stöd till kollektivtrafiken är obegripligt - Corren
+- Kung Harald: Mette-Marit är allvarligt sjuk - Västerbottens-Kuriren
+- Teslataxi brakade rätt in i sophus: ”Fruktansvärd fart” - Aftonbladet
+- Regeringen ger adopterade resurscentrum – ingen ursäkt än - Dagens Nyheter
+- SD-topp: Blev spottad i ansiktet – har polisanmält - GP
+- Ny bro vid Slussen möter kritik: ”En ikonisk Stockholmsvy har förvanskats” - Dagens Nyheter
+- Rävattacker utanför Norrköping – katt dödades - Aftonbladet
+- Livräddarna varnar: Dyk inte ner i vattnet under värmebölja - SVT Nyheter
 - Draget mot Trumps ”svarta fond”: 100 procent skatt - Dagens Nyheter
-- DN Direkt – Hormonstörande ämnen i många jordgubbar - Dagens Nyheter
-- Ministern dissar utredarens åtgärder: ”Vore dåligt för Sverige” - GP
-- Man gripen för våldtäkt i Halmstad - Expressen
-- Rävattacker utanför Norrköping – katt dödades - Västerbottens-Kuriren
-- Minst 15 döda i brand på flickskola i Kenya - SVT Nyheter
+- Källor: Nattliga attacker från Iran och USA - GP
 - Israel anfaller södra Libanon – flera döda - Västerbottens-Kuriren
-- ”Halv miljon ryska soldater döda” - Hufvudstadsbladet – HBL
-- Nya allvarliga attacker mellan USA och Iran - GP
-- Skellefteåborna om Lyten: ”Försiktigt optimistisk” - Dagens Nyheter
-- Musk riskerar bli del av din pension - Svenska Dagbladet
-- Asiatiska börser faller – oljepriset påverkas av oro kring Hormuzsundet - Börskollen
-- Nu kan du prenumera på Facebook – och få superreaktioner - Breakit
-- Steam Deck OLED får en ny saftig prislapp. Valves maskin är äntligen tillbaka i lager, men den kostar mer. - feber.se
-- CD Projekt Red släpper expansion till 10 år gamla The Witcher 3 - m3.se
+- Svensk Handel välkomnar böter för Temu – ”inte en dag för tidigt” - Svensk Handel
+- Nota i miljardklass när Lundin-rättegång avslutas - Västerbottens-Kuriren
+- EU granskar kinesiska köpet av stora butikskedjorna - Dagens industri
+- Google-anställd åtalas för insiderhandel på Polymarket - Börsvärlden
+- Oura Ring 5: 40 procent mindre – men de bästa funktionerna stannar i USA - Ny Teknik
+- Steam Deck ser sin prislapp chockhöjas - Nordichardware
 
 ## World News
 
-- Kanada diskuterar Global Eye-köp med Saab - Dagens industri
-- Kristersson välkomnar flygaffär med Kanada - SVT Nyheter
 - Zelluna | Global Forum 2026 - Biostock
+- Kristersson välkomnar flygaffär med Kanada - SVT Nyheter
+- Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - TV.nu
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
@@ -42,34 +42,34 @@ _Updated: 2026-05-28 10:58_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Dicot | Global Forum 2026 - Biostock
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Hamlet BioPharma | Global Forum 2026 - Biostock
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- BioInvent International | Global Forum 2026 - Biostock
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Dicot | Global Forum 2026 - Biostock
+- Hamlet BioPharma | Global Forum 2026 - Biostock
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -80,7 +80,7 @@ _Updated: 2026-05-28 10:58_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
@@ -97,24 +97,24 @@ _Updated: 2026-05-28 10:58_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Vi presenterar ChatGPT Health - OpenAI
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Använder AI för att förbättra diagnostik och behandling - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
@@ -122,19 +122,19 @@ _Updated: 2026-05-28 10:58_
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Över 2 200 studenter fick väcka sin kreativitet vid den 43:e studentkonferensen för vetenskaplig forskning. - Vietnam.vn
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- AI och data science - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Forskningen ska vara fri - European Commission
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -153,11 +153,11 @@ _Updated: 2026-05-28 10:58_
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Här är världens största jordbruk - ATL.nu
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
