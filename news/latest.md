@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-29 21:15_
+_Updated: 2026-05-29 23:26_
 
-- Trump holding meeting to make 'final determination' on Iran deal - BBC
+- President Trump's name must come off of the Kennedy Center, judge rules - NPR
+- Trump says will soon decide on Iran deal, says Hormuz Strait must open - Reuters
 - Pam Bondi tells lawmakers ‘redaction errors’ were made in Epstein files release - NBC News
 - Judge temporarily blocks payouts from Trump's $1.776 billion 'anti-weaponization' settlement fund - AP News
-- Russian drone launched against Ukraine crashes in Romania, injuring 2 - NPR
-- New Calif. governor's race poll shows Becerra growing lead with days to go - SFGATE
-- Mullin plan to punish sanctuary jurisdictions by targeting their airports faces fierce headwinds - CNN
-- Louisiana Republicans pass gerrymandered map that eliminates majority-Black district - Politico
-- ICE Agent Wanted in Minneapolis Shooting Is Captured in Texas - The New York Times
-- 5 dead, 34 injured after bus strikes several vehicles on I-95 in Stafford County - WJLA
+- Romania: Russian drone strikes Galati apartment building - DW.com
 - A court in Kenya blocks U.S. plan to keep American Ebola patients in Africa - The Washington Post
-- 1 miner rescued after more than a week trapped in flooded Laos cave - CBS News
+- Louisiana Republicans pass gerrymandered map that eliminates majority-Black district - Politico
+- ICE officer wanted in the shooting of a man during the Minneapolis crackdown is arrested in Texas - AP News
+- 5 dead, dozens injured in crash on I-95 southbound in Stafford Co. - WTOP
+- Ex-Iowa School Leader Who Was in the U.S. Illegally Sentenced to 2 Years - The New York Times
+- Live updates: Survivor rescued from flooded Laos cave but remaining group faces another night underground - CNN
 - Israeli forces cross key Lebanon river in expanded ground offensive - Reuters
-- Asia’s defense summit opens with China and doubts about US priorities topping concerns - AP News
-- China's Shenzhou 21 astronauts returns to Earth after nearly 7 months in space - Yahoo
+- Pentagon Pete Drags His Wife Into PT Stunt With Marines - The Daily Beast
+- Zelenskyy says Ukraine bracing for "big attacks" by Russia in next 24 hours - CBS News
+- Music giant Universal rejects billionaire Bill Ackman's takeover bid - BBC
 - Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com
-- Dell shares soar 30% as AI server demand, price hikes power stellar quarter - Reuters
-- Stock Market Today: Major Indexes Hit New All-Time Highs as Dell Leads Tech Gains; S&P 500 on Pace for 9th Straight Weekly Rise; Oil Prices Pull Back - Investopedia
-- Replimune Gets Third Try at FDA Approval After Makary Departure - WSJ
-- Acer announces Predator and Nitro monitors with up to 1000Hz refresh rate - VideoCardz.com
-- First Look at iPhone 18 Pro Color Options Revealed by Dummy Models - MacRumors
+- SEC Proposes Rescission of Climate-Related Disclosure Rules - SEC.gov
+- Dell, Rocket Lab, Palantir, and More Stocks That Explain the Market Today - Barron's
+- MSI unveils world’s first QD-OLED Triple-Mode monitor: 4K 360Hz / 2K 520Hz / FHD 680Hz - VideoCardz.com
+- Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch
