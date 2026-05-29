@@ -1,36 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-29 18:24_
+_Updated: 2026-05-29 21:09_
 
 ## Top Stories
 
-- Direkt – Krisen i Mellanöstern – Trump i möte om ”slutgiltigt beslut” om Iran - Dagens Nyheter
-- Katja Nyberg får sparken från polisen - SVT Nyheter
+- Direkt – Kriget i Ukraina – Ryska framgångar bakom Putins uttalande om krigsslut - Dagens Nyheter
+- Trump: Ska fatta ett slutgiltigt beslut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ministern gjorde fel igen - 8 Sidor
-- Uppgifter: Svensk kvinna kidnappades – fördes till ”bedrägerifabrik” - Omni
-- Lena Hallengren: ”Svårt att se varför man inte vill ge drabbade en ursäkt” - Dagens Nyheter
-- Zelenskyj erbjuder Rumänien hjälp efter drönarattack - GP
-- Åkesson: Statliga kreditgarantier för jordbruket - GP
-- Kristerssons besked om Lundsberg: Ingen ny granskning - SVT Nyheter
-- Centern släpper kravet på marknadshyror - Västerbottens-Kuriren
-- Storbritannien välkomnar Ukrainas Gripen-affär - Corren
+- Libanon varnar: Israels attacker kan skada världsarv - Omni
+- Fast vid kaj när ryska skuggflottan växer - Svenska Dagbladet
+- Fler olyckor med elsparkcyklar bland barn i Dalarna - Sveriges Radio
+- Mc-olycka i Falkenberg – två skadade. Byggnad brann. - GP
+- SD: Undanta svenskt lantbruk från EU:s utsläppshandel - Dagens Nyheter
+- Flicka hittad i Västerås – förd till sjukhus - Expressen
+- Experten: därför går mannen fri – trots att han våldtagit Elsa - UNT
+- ”Västvärlden borde sluta hoppas att Ryssland kollapsar av sanktioner” - Dagens Nyheter
 - Zelenskyj: Ryssland förbereder ny storattack - Hufvudstadsbladet – HBL
-- Mette-Marit sämre: Kronprinsens resa kortas - Västerbottens-Kuriren
 - WHO: s utmaningar: ”En förtroendefråga” – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
-- Sandra Stiskalo: Som en besviken far läxar Tony Blair upp sina arvingar - Dagens Nyheter
-- IF Metall mot Tesla: Konflikten i tre siffror - Affärsvärlden
+- Lagad plastpåse från Nordkorea flöt i land på ö - Dagens Nyheter
 - Storbank sänker bolåneräntorna - Västerbottens-Kuriren
+- Nytt orosmoln pressar Putin: ”Alternativen börjar ta slut” - EFN
 - Bezos månraket exploderade: ”Ledsen” - Svenska Dagbladet
-- Världens nya förmögenheter – 130 000 miljarder kronor till 2030 - Dagens PS
-- Utvecklare gömde fälla för AI-agenter i öppen källkod - Computer Sweden
-- Gigantisk reptil var havets T-rex - Dagens Nyheter
+- Så dyr sommarstuga tål din plånbok - Dagens Nyheter
+- Årets "Call of Duty" är “Modern Warfare 4” – skildrar krig med Nordkorea - MovieZine
+- Steam Deck ser sin prislapp chockhöjas - Nordichardware
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
+- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
@@ -40,13 +42,11 @@ _Updated: 2026-05-29 18:24_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Saab nära kanadensisk Global Eye-affär - Privata Affärer
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -67,9 +67,9 @@ _Updated: 2026-05-29 18:24_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -84,6 +84,7 @@ _Updated: 2026-05-29 18:24_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vilken framtid arbetar du för? - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,30 +93,29 @@ _Updated: 2026-05-29 18:24_
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Digitala tvillingar ger hälsosvar - Karolinska Institutet
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Använder AI för att förbättra diagnostik och behandling - Karolinska Institutet
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -123,8 +123,8 @@ _Updated: 2026-05-29 18:24_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -133,10 +133,10 @@ _Updated: 2026-05-29 18:24_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- AI och data science - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
@@ -147,18 +147,18 @@ _Updated: 2026-05-29 18:24_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- ”35 miljoner fler jobb inom jordbruket till 2030” - atl.nu
-- Tillväxten för jordbruksprodukter går ned - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Jordbruk och landsbygdsutveckling - European Commission
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Spännande visning av uppkomsten efter direktsådd - Land.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - atl.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Continental Farmers Group - jätten inom ukrainskt jordbruk - trotsar kriget - atl.nu
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
