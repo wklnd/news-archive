@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-29 14:34_
+_Updated: 2026-05-29 18:28_
 
-- Live Updates: Vance says it's "still TBD" whether Trump will sign a U.S.-Iran deal, as both sides try to extend truce - CBS News
+- Trump lays out Iran deal demands, says he's about to make 'final determination' - CNBC
+- Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues - NBC News
 - Russian drone launched against Ukraine crashes in Romania, injuring 2 - NPR
-- Pam Bondi is set for another Hill grilling — but not the one some lawmakers hoped for - Politico
-- In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump - The New York Times
-- Becerra leads governor’s race, with Hilton and Steyer in tight contest for second spot - Los Angeles Times
-- California’s ‘Los Gatos party mom’ sentenced to 35 years in prison - The Guardian
-- Michigan Gov. Whitmer says she won’t run for president in 2028 then backtracks hours later - AP News
-- 'This was enormous': At least 3 dead in Dallas apartment fire as search continues - Dallas News
-- Blue Origin rocket explodes during test at Cape Canaveral - ABC News - Breaking News, Latest News and Videos
-- Makeshift hospital for Americans exposed to Ebola will open in Kenya on Friday - The Washington Post
-- Live Updates: Vance says U.S. and Iran close but "not there yet" on initial deal to reopen Strait of Hormuz - CBS News
-- France’s Far Right Has 2 Leaders. They Don’t Always Have One Voice. - The New York Times
+- Former US attorney general Pam Bondi testifies in congressional Epstein probe - BBC
+- Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit - The New York Times
+- Justice Dept. investigating outside funding E. Jean Carroll received for civil lawsuits against Trump, sources say - CBS News
+- California House Primary in Sacramento Displays Democrats’ Fierce Generational Battle - The New York Times
+- Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News
+- Mullin plan to punish sanctuary jurisdictions by targeting their airports faces fierce headwinds - CNN
+- Frederica Wilson is leaving Congress. She explains why in an exclusive interview - Miami Herald
+- Rescuers free one of seven trapped in Laos cave - Bangkok Post
+- Civilians in Lebanon hit hardest as Israel targets Hezbollah - DW.com
 - Asia’s defense summit opens with China and doubts about US priorities topping concerns - AP News
-- Canadian warship transits Taiwan Strait despite China’s warning - The Globe and Mail
-- Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters
-- ASTS, RKLB, RDW, LUNR Slip Overnight: SpaceX IPO Hype Loses Orbit After Valuation Target Reportedly Falls Below $2 Trillion - Yahoo Finance
-- Dow Jones Futures: Stock Market Hits Highs On U.S.-Iran Deal; Dell Surges On Earnings - Investor's Business Daily
-- This strategist is using prediction-market shifts to calculate what happens when an Iran deal is announced - MarketWatch
-- Samsung’s wider Galaxy Z Fold 8 hardware leaks in hands-on [Gallery] - 9to5Google
-- iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac
+- Canadian man admits sending ‘suicide packets’ to hundreds of people around world - The Guardian
+- Dell shares soar 33% as AI server demand, price hikes power stellar quarter - Reuters
+- Replimune Gets Third Try at FDA Approval After Makary Departure - WSJ
+- Stock Market Today: Dow Rises As Iran Deal Hopes Persist; Dell Soars On Earnings (Live Coverage) - Investor's Business Daily
+- Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site - Ars Technica
+- Sennheiser Momentum 5 Wireless Review: Worth The Wait - Engadget
+- Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge
