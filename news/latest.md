@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-29 18:28_
+_Updated: 2026-05-29 21:15_
 
-- Trump lays out Iran deal demands, says he's about to make 'final determination' - CNBC
-- Judge halts Trump ‘anti-weaponization’ fund after Jan. 6 prosecutor sues - NBC News
+- Trump holding meeting to make 'final determination' on Iran deal - BBC
+- Pam Bondi tells lawmakers ‘redaction errors’ were made in Epstein files release - NBC News
+- Judge temporarily blocks payouts from Trump's $1.776 billion 'anti-weaponization' settlement fund - AP News
 - Russian drone launched against Ukraine crashes in Romania, injuring 2 - NPR
-- Former US attorney general Pam Bondi testifies in congressional Epstein probe - BBC
-- Court in Kenya Suspends Plans for U.S. Ebola Quarantine Unit - The New York Times
-- Justice Dept. investigating outside funding E. Jean Carroll received for civil lawsuits against Trump, sources say - CBS News
-- California House Primary in Sacramento Displays Democrats’ Fierce Generational Battle - The New York Times
-- Bus hits cars in Virginia, killing 5 people and injuring 34, state police say - AP News
+- New Calif. governor's race poll shows Becerra growing lead with days to go - SFGATE
 - Mullin plan to punish sanctuary jurisdictions by targeting their airports faces fierce headwinds - CNN
-- Frederica Wilson is leaving Congress. She explains why in an exclusive interview - Miami Herald
-- Rescuers free one of seven trapped in Laos cave - Bangkok Post
-- Civilians in Lebanon hit hardest as Israel targets Hezbollah - DW.com
+- Louisiana Republicans pass gerrymandered map that eliminates majority-Black district - Politico
+- ICE Agent Wanted in Minneapolis Shooting Is Captured in Texas - The New York Times
+- 5 dead, 34 injured after bus strikes several vehicles on I-95 in Stafford County - WJLA
+- A court in Kenya blocks U.S. plan to keep American Ebola patients in Africa - The Washington Post
+- 1 miner rescued after more than a week trapped in flooded Laos cave - CBS News
+- Israeli forces cross key Lebanon river in expanded ground offensive - Reuters
 - Asia’s defense summit opens with China and doubts about US priorities topping concerns - AP News
-- Canadian man admits sending ‘suicide packets’ to hundreds of people around world - The Guardian
-- Dell shares soar 33% as AI server demand, price hikes power stellar quarter - Reuters
+- China's Shenzhou 21 astronauts returns to Earth after nearly 7 months in space - Yahoo
+- Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com
+- Dell shares soar 30% as AI server demand, price hikes power stellar quarter - Reuters
+- Stock Market Today: Major Indexes Hit New All-Time Highs as Dell Leads Tech Gains; S&P 500 on Pace for 9th Straight Weekly Rise; Oil Prices Pull Back - Investopedia
 - Replimune Gets Third Try at FDA Approval After Makary Departure - WSJ
-- Stock Market Today: Dow Rises As Iran Deal Hopes Persist; Dell Soars On Earnings (Live Coverage) - Investor's Business Daily
-- Rocket Report: A dark day for Blue Origin; Pentagon eyes new launch site - Ars Technica
-- Sennheiser Momentum 5 Wireless Review: Worth The Wait - Engadget
-- Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge
+- Acer announces Predator and Nitro monitors with up to 1000Hz refresh rate - VideoCardz.com
+- First Look at iPhone 18 Pro Color Options Revealed by Dummy Models - MacRumors
