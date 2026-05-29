@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-29 06:59_
+_Updated: 2026-05-29 10:57_
 
-- Vance says U.S. and Iran are "very close" to a deal - Axios
-- California mom sentenced to 35 years for throwing alcohol-fueled underage parties - NBC News
-- Judge Declines, for Now, to Block Mail-In Voting Changes Ordered by Trump - nytimes.com
-- Mayor Mamdani Announces Commission on Government Efficiency to Make Government Work Better for New Yorkers - NYC.gov
-- U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post
-- Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal - The Guardian
-- At least 3 dead, 5 hurt after large explosion destroys Dallas apartment building, officials say - CBS News
-- Blue Origin Rocket Blows Up on Florida Launchpad During Test - nytimes.com
-- Gretchen Whitmer wavers on a run for president in 2028 - Politico
+- Live Updates: Vance says it's "still TBD" whether Trump will sign a U.S.-Iran deal, as both sides try to extend truce - CBS News
+- California’s ‘Los Gatos party mom’ sentenced to 35 years in prison - The Guardian
+- In California's packed race to replace Newsom, Democrats are shrugging at their choices - PBS
+- Judge Declines, for Now, to Block Mail-In Voting Changes Ordered by Trump - The New York Times
+- At least 3 dead and more victims could be found after explosion levels Oak Cliff apartment complex - KERA News
 - Confirmed death toll climbs to 8 in Longview paper mill disaster - Oregon Public Broadcasting - OPB
-- Russian drone hits apartment building in Romania near Ukraine border - France 24
+- Michigan Gov. Whitmer says she won’t run for president in 2028 then backtracks hours later - AP News
+- Blue Origin rocket explodes during test at Cape Canaveral - ABC News - Breaking News, Latest News and Videos
+- Mamdani endorses Espaillat challenger - Politico
+- Treasury Department prepares $250 bill with Trump's face on it - NPR
+- Russian Drone Hits Romanian Apartment Building - The New York Times
+- Spain distances itself from call for EU to get tougher on China - politico.eu
 - Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group - The Times of Israel
-- AI facial recognition to check age of asylum seekers from next year - BBC
-- Iran, Gas Prices, the Ballroom: Trump Professes Indifference Over Fallout - nytimes.com
-- Anthropic raises $65 billion, nears $1T valuation ahead of IPO - TechCrunch
-- With Caesars Deal, Tilman Fertitta Doubles Down on Vegas Comeback - WSJ
-- Oil falls over 1% on reports of potential US-Iran ceasefire deal - Reuters
-- SpaceX Lowers IPO Valuation Target to at Least $1.8 Trillion - Bloomberg.com
+- Canadian warship transits Taiwan Strait despite China’s warning - The Globe and Mail
+- Oil falls more than 1% on reports of possible US-Iran ceasefire deal - Reuters
+- 9 ‘Hidden’ Space Stocks Haven’t Joined SpaceX IPO Bubble Yet - Barron's
+- Caesars Entertainment, a Las Vegas Strip icon, is sold for nearly $6 billion - KOB.com
+- Futures: Dell Surges, Leads Earnings Movers - Investor's Business Daily
 - Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch
-- Intel Arc G3 CPU Family Officially Released for Handheld Gaming PCs - TechPowerUp
+- Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More - MacRumors
