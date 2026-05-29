@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-29 23:22_
+_Updated: 2026-05-30 00:51_
 
 ## Top Stories
 
-- Motorcyklist allvarligt skadad efter olycka i Falkenberg - Sveriges Radio
-- Trump: Ska fatta ett slutgiltigt beslut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nya värmerekord i Europa: ”Sticker ut jättemycket” - Aftonbladet
-- Natochefens svar efter ryska drönaren: ”En fara för oss alla” - GP
-- Källa: Kustbevakningen har inte råd att tanka fartygen - Omni
-- Netanyahu: Israel har gått över floden Litani - Folkbladet
+- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
 - Flicka död i drunkningsolycka i Västerås - SVT Nyheter
-- Elsa efter domen: "Oj så skönt!" - UNT
-- Kristerssons besked om Lundsberg: Ingen ny granskning - GP
+- Direkt – Kriget i Ukraina – Zelenskyj: Förberedda på stor rysk attack - Dagens Nyheter
+- Trots flera timmar sena tåg: ”En härlig fredagskväll” - GP
+- Försvarsexperten: Det Nato Sverige gick med i är redan dött - Dagens Nyheter
+- Dominika Peczynski (L): ”En falang inom partiet vill inte att jag ska få platsen” - Aftonbladet
+- Tingsrätten: Rätt att avskeda våldtäktsanklagad man - Västerbottens-Kuriren
+- SD: Undanta svenskt lantbruk från EU:s utsläppshandel - Dagens Nyheter
+- Grova filmerna från Lundsberg: ”Förfärligt” – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
 - David Lindh: Mamma sade ”Lova att du aldrig blir politiker” - Dagens Nyheter
-- ”Västvärlden borde sluta hoppas att Ryssland kollapsar av sanktioner” - Dagens Nyheter
-- Mette-Marit sämre: Kronprinsens resa kortas - Västerbottens-Kuriren
+- Direkt – Krisen i Mellanöstern – Bessent: Fryst iransk krypto för 10 miljarder - Dagens Nyheter
+- Tre klättrare döda – föll på USA:s högsta berg - Västerbottens-Kuriren
+- Netanyahu: Israel har gått över floden Litani - Dagens Nyheter
 - Zelenskyj: Ryssland förbereder ny storattack - Hufvudstadsbladet – HBL
-- WHO: s utmaningar: ”En förtroendefråga” – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
 - Finansministern: Svenska experter underskattar krisen - Dagens Nyheter
-- Storbank sänker bolåneräntorna - Västerbottens-Kuriren
-- Nytt orosmoln pressar Putin: ”Alternativen börjar ta slut” - EFN
-- AST SpaceMobiles aktie faller efter Blue Origin-raketexplosion - Investing.com Sverige
+- Lundin Oil-rättegången avslutad - Expressen
+- Stockholmsbörsen steg på fredsförhoppningar - GP
+- Så rankas Gnosjö kommun i årets företagsklimatet - Skillingaryd
 - Årets "Call of Duty" är “Modern Warfare 4” – skildrar krig med Nordkorea - MovieZine
 - Valve höjer priset på Steam Deck med upp till 300 dollar - Swedroid
 
@@ -56,6 +56,7 @@ _Updated: 2026-05-29 23:22_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -67,9 +68,8 @@ _Updated: 2026-05-29 23:22_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-05-29 23:22_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Digitala tvillingar ger hälsosvar - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Använder AI för att förbättra diagnostik och behandling - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
