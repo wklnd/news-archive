@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-29 02:16_
+_Updated: 2026-05-29 06:59_
 
-- Live Updates: Tentative 60-day agreement reached on Iran, pending Trump's approval - CBS News
-- Treasury Department prepares $250 bill with Trump's face on it - NPR
-- Judge Declines, for Now, to Block Mail-In Voting Changes Ordered by Trump - The New York Times
-- Los Gatos party mom: Shannon O'Connor, sentenced to nearly 36 years for hosting drunken teen sex parties - ABC7 Bay Area
+- Vance says U.S. and Iran are "very close" to a deal - Axios
+- California mom sentenced to 35 years for throwing alcohol-fueled underage parties - NBC News
+- Judge Declines, for Now, to Block Mail-In Voting Changes Ordered by Trump - nytimes.com
 - Mayor Mamdani Announces Commission on Government Efficiency to Make Government Work Better for New Yorkers - NYC.gov
-- DOJ probes Democratic-allied nonprofit that helped pay E. Jean Carroll’s legal bills - The Washington Post
-- 6 of 9 missing in Nippon mill blast in Longview recovered, bringing confirmed dead to 8 - KATU
-- Michigan Governor Gretchen Whitmer Will Not Run for President in 2028 - The New York Times
-- At least 4 hurt after large explosion destroys Dallas apartment building, officials say - CBS News
-- Supreme Court rules for Black death row prisoner from Mississippi over racial bias in makeup of jury - PBS
-- Australian woman charged over travel to Syria to join Islamic State - NPR
-- On the ground with Ukraine's drone forces targeting Russia's battlefield rear - Reuters
-- Iran, Gas Prices, the Ballroom: Trump Professes Indifference Over Fallout - The New York Times
-- Israel carries out strike on Beirut suburbs, first near capital in weeks - Reuters
-- Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters
-- ABC accuses Trump’s FCC of ‘unconstitutional retaliation’ in station license fight - CNN
-- Dow Jones Futures: Stock Market Hits Highs On U.S.-Iran Deal; Dell Surges On Earnings - Investor's Business Daily
-- CVS Returns Zepbound to Drug Plans After Lilly Slashes Price - Bloomberg.com
+- U.S., Iran nearing deal to end war and reopen Strait of Hormuz - The Washington Post
+- Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal - The Guardian
+- At least 3 dead, 5 hurt after large explosion destroys Dallas apartment building, officials say - CBS News
+- Blue Origin Rocket Blows Up on Florida Launchpad During Test - nytimes.com
+- Gretchen Whitmer wavers on a run for president in 2028 - Politico
+- Confirmed death toll climbs to 8 in Longview paper mill disaster - Oregon Public Broadcasting - OPB
+- Russian drone hits apartment building in Romania near Ukraine border - France 24
+- Soldier killed in Hezbollah drone attack as Israel widens strikes on terror group - The Times of Israel
+- AI facial recognition to check age of asylum seekers from next year - BBC
+- Iran, Gas Prices, the Ballroom: Trump Professes Indifference Over Fallout - nytimes.com
+- Anthropic raises $65 billion, nears $1T valuation ahead of IPO - TechCrunch
+- With Caesars Deal, Tilman Fertitta Doubles Down on Vegas Comeback - WSJ
+- Oil falls over 1% on reports of potential US-Iran ceasefire deal - Reuters
+- SpaceX Lowers IPO Valuation Target to at Least $1.8 Trillion - Bloomberg.com
 - Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more - TechCrunch
-- Call of Duty: Modern Warfare 4 will be the first to ship day-and-date on Switch 2 - alongside PS5, Xbox Series X/S and PC - Digital Foundry
+- Intel Arc G3 CPU Family Officially Released for Handheld Gaming PCs - TechPowerUp
