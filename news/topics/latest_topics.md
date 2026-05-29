@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-29 21:09_
+_Updated: 2026-05-29 23:22_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Ryska framgångar bakom Putins uttalande om krigsslut - Dagens Nyheter
+- Motorcyklist allvarligt skadad efter olycka i Falkenberg - Sveriges Radio
 - Trump: Ska fatta ett slutgiltigt beslut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ministern gjorde fel igen - 8 Sidor
-- Libanon varnar: Israels attacker kan skada världsarv - Omni
-- Fast vid kaj när ryska skuggflottan växer - Svenska Dagbladet
-- Fler olyckor med elsparkcyklar bland barn i Dalarna - Sveriges Radio
-- Mc-olycka i Falkenberg – två skadade. Byggnad brann. - GP
-- SD: Undanta svenskt lantbruk från EU:s utsläppshandel - Dagens Nyheter
-- Flicka hittad i Västerås – förd till sjukhus - Expressen
-- Experten: därför går mannen fri – trots att han våldtagit Elsa - UNT
+- Nya värmerekord i Europa: ”Sticker ut jättemycket” - Aftonbladet
+- Natochefens svar efter ryska drönaren: ”En fara för oss alla” - GP
+- Källa: Kustbevakningen har inte råd att tanka fartygen - Omni
+- Netanyahu: Israel har gått över floden Litani - Folkbladet
+- Flicka död i drunkningsolycka i Västerås - SVT Nyheter
+- Elsa efter domen: "Oj så skönt!" - UNT
+- Kristerssons besked om Lundsberg: Ingen ny granskning - GP
+- David Lindh: Mamma sade ”Lova att du aldrig blir politiker” - Dagens Nyheter
 - ”Västvärlden borde sluta hoppas att Ryssland kollapsar av sanktioner” - Dagens Nyheter
+- Mette-Marit sämre: Kronprinsens resa kortas - Västerbottens-Kuriren
 - Zelenskyj: Ryssland förbereder ny storattack - Hufvudstadsbladet – HBL
 - WHO: s utmaningar: ”En förtroendefråga” – Senaste nytt om ebolautbrottet i Kongo-Kinshasa - SVT Nyheter
-- Lagad plastpåse från Nordkorea flöt i land på ö - Dagens Nyheter
+- Finansministern: Svenska experter underskattar krisen - Dagens Nyheter
 - Storbank sänker bolåneräntorna - Västerbottens-Kuriren
 - Nytt orosmoln pressar Putin: ”Alternativen börjar ta slut” - EFN
-- Bezos månraket exploderade: ”Ledsen” - Svenska Dagbladet
-- Så dyr sommarstuga tål din plånbok - Dagens Nyheter
+- AST SpaceMobiles aktie faller efter Blue Origin-raketexplosion - Investing.com Sverige
 - Årets "Call of Duty" är “Modern Warfare 4” – skildrar krig med Nordkorea - MovieZine
-- Steam Deck ser sin prislapp chockhöjas - Nordichardware
+- Valve höjer priset på Steam Deck med upp till 300 dollar - Swedroid
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
-- Rapport: Polymarket kräver KYC av kryptovalutahandlare när brister i geoblockeringen väcker global uppmärksamhet - Bitcoin News
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Saab nära kanadensisk Global Eye-affär - Privata Affärer
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -56,7 +56,6 @@ _Updated: 2026-05-29 21:09_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-05-29 21:09_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -105,10 +105,10 @@ _Updated: 2026-05-29 21:09_
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
@@ -123,8 +123,8 @@ _Updated: 2026-05-29 21:09_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -132,33 +132,33 @@ _Updated: 2026-05-29 21:09_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Spännande visning av uppkomsten efter direktsådd - Land.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
