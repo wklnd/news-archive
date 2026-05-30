@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 19:35_
+_Updated: 2026-05-30 21:48_
 
 ## Top Stories
 
+- Stora störningar i kollektivtrafiken under Stockholm Marathon - Sveriges Radio
 - Sorg i dragracing-Sverige efter dödsolyckan: ”En ikon” - Aftonbladet
-- DN Direkt – Stopp på tunnelbanans röda linje – passagerare evakueras - Dagens Nyheter
-- Uppgifter: Ryssland ökar sina försök att sno västerländsk information - Sveriges Radio
+- Ukrainsk attack mot rysk oljeanläggning - Corren
+- Person föll ur bil i farten i Trollhättan – bilförare gripen - SVT Nyheter
 - Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
-- Uppgifter: Ukrainsk attack mot rysk infrastruktur - Västerbottens-Kuriren
-- Bilal bodde i Malmö – nu lever han på en p-plats i Beirut - Sydsvenskan
+- Ny misstänkt i uppmärksammade Hagenfallet - GP
 - Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
 - Huggormen är vaken – här är rådet om du blir biten - NT
-- Fler äldre kameraövervakas i hemmet – dygnet runt: "Nödvändigt" - News55
 - En fast för rattfylla och två för fortkörning – här stod polisen - NSD
-- USA: Produktiva samtal mellan Libanon och Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Vinner Stockholm Marathon i debuten - Dagens Nyheter
-- Krig, kris och ebola – barnen drabbas värst - gp.se
-- Kanadensaren sålde ”självmordspaket” runt om i världen - Dagens Nyheter
-- Teslas självkörande bilar i kinesisk rättstvist - Aftonbladet
+- Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
+- USA: Produktiva samtal mellan Israel och Libanon - GP
+- Hundratals miljarder euro i förluster hotar världsekonomin - Dagens PS
+- Krig, kris och ebola – barnen drabbas värst - Västerbottens-Kuriren
+- DN Direkt – Gyökeres startar på bänken i finalen - Dagens Nyheter
+- Ägg återkallas – risk för salmonella - Aftonbladet
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
 - Chevrons vd varnar för oljeprislyft: ”Trycket uppåt blir högre än väntat” - EFN
 - Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
@@ -30,23 +30,23 @@ _Updated: 2026-05-30 19:35_
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- AlixLabs vinner KPMG:s Global Tech Innovator 2026 i Sverige - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
 
 ## Technology
 
@@ -98,22 +98,22 @@ _Updated: 2026-05-30 19:35_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-30 19:35_
 
 ## Jordbruk
 
-- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Tillväxten för jordbruksprodukter går ned - Land.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - atl.nu
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
