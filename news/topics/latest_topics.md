@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 10:02_
+_Updated: 2026-05-30 12:23_
 
 ## Top Stories
 
-- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
+- Man död – hittades skadad i trapphus i Ronneby - SVT Nyheter
+- Ytterligare fyra räddade från översvämmad grotta - Västerbottens-Kuriren
+- Man till sjukhus efter skottskada i Essunga - Omni
+- DN Direkt – Flera i slagsmål på Södermalm - Dagens Nyheter
 - Trumps krav: Iranavtal ska uppfylla alla villkor - GP
-- Hegseths varning om Kina - SVT Nyheter
-- C-ledaren: Orealistiskt att stötta Kristersson - Västerbottens-Kuriren
-- ALS-sjuka Heléne får inte Tofersen – nytt besked väntas - Sveriges Radio
-- Johannes har aldrig känt hur det är att vara mätt - GP
-- Stort beslag av dödsdrog: ”Räcker med ett korn” - Corren
-- Flicka död i drunkningsolycka i Västerås - SVT Nyheter
+- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
+- DN Direkt – Stort beslag av dödsdrog: ”Räcker med ett korn” - Dagens Nyheter
+- Nazister hyr bygdegårdar – låtsas ha dopkalas - Dagens Nyheter
 - Därför hittar så många indier ett hem i Göteborg - Dagens Nyheter
-- Trots flera timmar sena tåg: ”En härlig fredagskväll” - GP
+- LEDARE: Gripen visar att svensk försvarsindustri gör Europa säkrare - Nya Wermlands-Tidningen
 - Krig, kris och ebola – barnen drabbas värst - GP
-- Flera barn döda i trafikolycka i Afghanistan - SVT Nyheter
-- Läkare: Trumps hälsa utmärkt – men behöver banta - Folkbladet
-- USA: Produktiva samtal mellan Israel och Libanon - GP
-- Swedavia: Bättre tillgång till flygbränsle än väntat - Sveriges Radio
+- Direkt – Kriget i Ukraina – Zelenskyj: Förberedda på stor rysk attack - Dagens Nyheter
+- Många barn döda i lastbilsolycka i Afghanistan - Västerbottens-Kuriren
+- 3D-utskrivna drönare och AI – här är Ukrainas svar i drönarkriget - Dagens Nyheter
+- IF Metall avbryter Tesla-strejk i Malmö och Uppsala - Sveriges Radio
+- Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
 - Begagnad Volvo populärast för elbilspremie - Dagens Nyheter
-- Uppgifter: IF Metall stoppar delar av Teslastrejken - Arbetaren
-- Har följt Lundin-processen närmare än någon annan - Dagens Juridik
-- Efter en lång juridisk strid får Unknown Worlds nu sin utlovade bonus - feber.se
-- Qualcomm lanserar ny systemkrets för billigare Arm-datorer - PC för Alla
+- Creades-vd:n: Börsen är svårare än folk tror - Svenska Dagbladet
+- TP-Link visar upp sin första router med stöd för Wi-Fi 8 - Teknikveckan
+- Spotify testar nya verktyg för profilsidor - Teknikveckan
 
 ## World News
 
@@ -65,11 +65,11 @@ _Updated: 2026-05-30 10:02_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Karin Dembrower får 2025 års AI@KI Award - Karolinska Institutet
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -90,75 +90,75 @@ _Updated: 2026-05-30 10:02_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- / Reproduktiv hälsa/Reproduktionsmedicin – Kristina Gemzell Danielssons forskargrupp - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Digitala tvillingar ger hälsosvar - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 
 ## Science
 
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- AI och data science - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
-- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk och landsbygdsutveckling - European Commission
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Spännande visning av uppkomsten efter direktsådd - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Det våras för ”carbon farming” – men biokol döms ut av professor - tidningensyre.se
