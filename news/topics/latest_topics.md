@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 17:47_
+_Updated: 2026-05-30 19:35_
 
 ## Top Stories
 
+- Sorg i dragracing-Sverige efter dödsolyckan: ”En ikon” - Aftonbladet
 - DN Direkt – Stopp på tunnelbanans röda linje – passagerare evakueras - Dagens Nyheter
-- Ytterligare fyra räddade från översvämmad grotta - Västerbottens-Kuriren
-- Khameneis rådgivare: Trump ”sviker diplomati” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Man i Essunga skottskadad – avförd med ambulanshelikopter - Mariestads-Tidningen
-- Ryska spioner försöker stjäla västerländsk teknik - Västerbottens-Kuriren
-- DN Direkt – E4 avstängd norr om Ljungby - Dagens Nyheter
+- Uppgifter: Ryssland ökar sina försök att sno västerländsk information - Sveriges Radio
+- Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
+- Uppgifter: Ukrainsk attack mot rysk infrastruktur - Västerbottens-Kuriren
+- Bilal bodde i Malmö – nu lever han på en p-plats i Beirut - Sydsvenskan
 - Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
+- Huggormen är vaken – här är rådet om du blir biten - NT
 - Fler äldre kameraövervakas i hemmet – dygnet runt: "Nödvändigt" - News55
-- Polisen efterlyser försvunnen pojke – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- LEDARE: Kroglivets nyvunna frihet hotas av den kommunala byråkratin - Kristianstadsbladet
+- En fast för rattfylla och två för fortkörning – här stod polisen - NSD
+- USA: Produktiva samtal mellan Libanon och Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Vinner Stockholm Marathon i debuten - Dagens Nyheter
+- Krig, kris och ebola – barnen drabbas värst - gp.se
 - Kanadensaren sålde ”självmordspaket” runt om i världen - Dagens Nyheter
-- DN Direkt – Fyra personer räddade ut grottan i Laos - Dagens Nyheter
-- Många barn döda i lastbilsolycka i Afghanistan - Västerbottens-Kuriren
-- Högerstrid kan gynna vänstern i Colombia - Dagens Nyheter
-- Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- Teslas självkörande bilar i kinesisk rättstvist - GP
+- Teslas självkörande bilar i kinesisk rättstvist - Aftonbladet
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
 - Chevrons vd varnar för oljeprislyft: ”Trycket uppåt blir högre än väntat” - EFN
-- Microsoft frestar oss med nya Surface-enheter inför Build - Teknikveckan
+- Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
+- Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
 - Efter massuppsägningen: Rockstar får fackklubb - Aftonbladet
 
 ## World News
@@ -41,8 +41,8 @@ _Updated: 2026-05-30 17:47_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -51,25 +51,25 @@ _Updated: 2026-05-30 17:47_
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -121,23 +121,23 @@ _Updated: 2026-05-30 17:47_
 
 - Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
