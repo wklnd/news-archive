@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-30 13:57_
+_Updated: 2026-05-30 16:17_
 
+- Kennedy Center Must Remove Trump’s Name From Building, Judge Orders - The New York Times
 - Live Updates: Trump holds key White House meeting on Iran deal to reopen Strait of Hormuz, destroy uranium - CBS News
-- Trump's name must be removed from Kennedy Center, judge orders - Axios
-- Trump in excellent health after annual checkup, doctor says - BBC
-- Judge probes whether deal creating Trump’s $1.8 billion fund constitutes fraud - The Washington Post
-- Bus crashes into cars on Virginia interstate, killing 5 people, state police say - PBS
-- New poll in California governor's race shows a top three - but only two candidates will move on - ABC7 Los Angeles
-- Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - Politico
+- White House releases memo describing results of Trump’s health checkup - The Guardian
+- Exclusive | Trump’s $1.8 Billion Settlement Fund Sparks Alarm Inside White House - WSJ
+- Americans Injured in Iranian Missile Strike on Kuwaiti Air Base - Bloomberg.com
+- 1 miner rescued in dangerous operation after over a week trapped in flooded Laos cave: "He's healthy and he's alive" - CBS News
+- DHS says it's 'drawing up plans' to ban international arrivals at SFO - SFGATE
 - Pentagon chief says U.S. ready to restart strikes on Iran if no deal - Reuters
-- ICE Protesters Convicted in a Spokane Case That Tested a Trump Strategy - The New York Times
-- Judge temporarily blocks payouts from Trump's $1.776 billion 'anti-weaponization' settlement fund - AP News
-- Four more men freed from flooded Laos cave - BBC
-- Pete Hegseth lauds better US ties with China - Financial Times
-- Russian official warns Europe to brace for more drone incidents after Romania episode - Reuters
-- Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict - The New York Times
-- Blue Origin rocket explosion rattles NASA’s mission to put humans back on the Moon - Nature
+- ICE Agents to Leave Site of Volatile Protests at Detention Center - The New York Times
+- Former AG Pam Bondi distances herself from Epstein files to lawmakers - The Washington Post
+- Hegseth Hails US Allies in Asia, Hits Out at European Nations - Bloomberg.com
+- The Russian Drone That Hit Romania Also Hit European Confidence - The New York Times
+- Colombia's untapped wonder: The Mavecure Mountains - NPR
+- Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters
+- Why Dell Stock Skyrocketed to a New All-Time High Today - Yahoo Finance
 - Exclusive | How Replimune’s Drug Got Third Chance After White House Intervention - WSJ
-- Anthropic drops new Claude model as OpenAI IPO race heats up - Yahoo Finance Singapore
-- Dell shares soar 30% as AI server demand, price hikes power stellar quarter - Reuters
-- DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors
-- Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch
+- Anthropic Co-Founders Worth $8 Billion Each After Funding Round - Bloomberg.com
+- We did the math on Ken Griffin's pied-à-terre tax bill - Business Insider
+- Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios
+- Acer’s launching a Linux handheld for streaming your PC games - The Verge
