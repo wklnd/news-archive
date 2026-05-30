@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-30 17:50_
+_Updated: 2026-05-30 19:44_
 
-- 5 Takeaways From a Kennedy Center Ruling That Angered Trump - The New York Times
+- GOP lawmakers want to rein in Trump’s $1.8 billion payout fund. Here’s what they can do. - The Washington Post
 - 5 Are Freed in Laos Cave Rescue After More Than a Week - The New York Times
+- Trump's name must be removed from Kennedy Center, judge orders - Axios
+- US says it is capable to resume war with Iran as deal remains elusive - Euronews.com
 - White House releases memo describing results of Trump’s health checkup - The Guardian
-- Judge pauses Trump administration’s ‘anti-weaponization’ fund - Politico
-- Middle East on Edge as Trump Mulls Decision About Iran Deal - The New York Times
-- Trump ordered to address "grievous allegations" in IRS case - Axios
+- Hegseth tempers China criticism at Asia forum - Politico
 - Trump jumps into Republican primaries for governor in South Carolina, Iowa and Oklahoma - Politico
-- ICE Agents to Leave Site of Volatile Protests at Detention Center - The New York Times
-- DHS says it's 'drawing up plans' to ban international arrivals at SFO - SFGATE
 - Steyer Campaigns on Affordability. Does His Own Mansion Portfolio Matter? - The New York Times
-- Hegseth Hails US Allies in Asia, Hits Out at European Nations - Bloomberg.com
-- The Russian Drone That Hit Romania Also Hit European Confidence - The New York Times
+- Live Updates: Trump decision yet to come on Iran deal as Hegseth talks negotiations - CBS News
+- New poll shows California governor race down to 3 frontrunners - KTLA
+- Putin Rejects Blame for Drone Crash in Romania, Demands Evidence It Came From Russia - The Moscow Times
 - Carcass of Timmy the humpback whale brought to shore in Denmark - NPR
 - Exclusive: Better China ties can help regional peace, security, Vietnam's top leader says - Reuters
-- United flight diverted to Wisconsin after ‘unruly passenger’ sparks security concern, airline says - CNN
-- Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon - Yahoo Finance
-- We did the math on Ken Griffin's pied-à-terre tax bill - Business Insider
-- Blue Origin rocket explosion rattles NASA’s mission to put humans back on the Moon - Nature
-- Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios
-- I Don't Care About iOS 27's AI Tricks. Give Me These 3 Useful iPhone Features Instead - CNET
+- Americans Hurt in Kuwait as Trump Sends Mixed Signals on War - Bloomberg.com
+- Blue Origin faces months of delays after rocket explosion damages launch pad - Reuters
+- Cockpit breach attempt prompts plane to divert to Madison, recordings indicate - WISN
+- Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt - Yahoo Finance
+- The SpaceX IPO is great for Elon Musk and terrible for you - The Verge
+- The groupthink boom: what three top VCs really think about the AI frenzy - TechCrunch
+- Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch
