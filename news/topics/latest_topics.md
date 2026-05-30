@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 00:51_
+_Updated: 2026-05-30 03:27_
 
 ## Top Stories
 
-- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
-- Flicka död i drunkningsolycka i Västerås - SVT Nyheter
+- WHO-chef på plats i svårt eboladrabbade Kongo - GP
 - Direkt – Kriget i Ukraina – Zelenskyj: Förberedda på stor rysk attack - Dagens Nyheter
-- Trots flera timmar sena tåg: ”En härlig fredagskväll” - GP
-- Försvarsexperten: Det Nato Sverige gick med i är redan dött - Dagens Nyheter
-- Dominika Peczynski (L): ”En falang inom partiet vill inte att jag ska få platsen” - Aftonbladet
-- Tingsrätten: Rätt att avskeda våldtäktsanklagad man - Västerbottens-Kuriren
+- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
+- Flicka i död i Västerås – hittades av dykare - Expressen
+- Flera dödade i attacker i Libanon - Västerbottens-Kuriren
+- Två bränder vid järnvägen under eftermiddagen - Sydnärkenytt
 - SD: Undanta svenskt lantbruk från EU:s utsläppshandel - Dagens Nyheter
-- Grova filmerna från Lundsberg: ”Förfärligt” – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- David Lindh: Mamma sade ”Lova att du aldrig blir politiker” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Bessent: Fryst iransk krypto för 10 miljarder - Dagens Nyheter
-- Tre klättrare döda – föll på USA:s högsta berg - Västerbottens-Kuriren
-- Netanyahu: Israel har gått över floden Litani - Dagens Nyheter
-- Zelenskyj: Ryssland förbereder ny storattack - Hufvudstadsbladet – HBL
-- Finansministern: Svenska experter underskattar krisen - Dagens Nyheter
-- Lundin Oil-rättegången avslutad - Expressen
-- Stockholmsbörsen steg på fredsförhoppningar - GP
+- Anna Lindhs son: ”Fanns mörka krafter i mig” - GP
+- Tingsrätten: Rätt att avskeda våldtäktsanklagad man - GP
+- Kristerssons besked om Lundsberg: Ingen ny granskning - Västerbottens-Kuriren
+- Trumps avgörande möte om Iran över – inget beslut - GP
+- DN Direkt – Tre klättrare döda – föll på USA:s högsta berg - Dagens Nyheter
+- Försvarsexperten: Det Nato Sverige gick med i är redan dött - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Uppgift: Två döda i ukrainsk drönarattack - Dagens Nyheter
+- Mellqvist: ”Dåligt på alla punkter i det som är verkliga siffror” - EFN
+- DN Direkt – Stockholmsbörsen steg på fredsförhoppningar - Dagens Nyheter
 - Så rankas Gnosjö kommun i årets företagsklimatet - Skillingaryd
+- Uppgifter: IF Metall stoppar delar av Teslastrejken - Arbetaren
 - Årets "Call of Duty" är “Modern Warfare 4” – skildrar krig med Nordkorea - MovieZine
-- Valve höjer priset på Steam Deck med upp till 300 dollar - Swedroid
+- Steam Deck ser sin prislapp chockhöjas - Nordichardware
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Saab nära kanadensisk Global Eye-affär - Privata Affärer
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
+- S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
+- AlixLabs vinner KPMG:s Global Tech Innovator 2026 i Sverige - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -119,6 +119,7 @@ _Updated: 2026-05-30 00:51_
 
 ## Science
 
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
@@ -131,34 +132,33 @@ _Updated: 2026-05-30 00:51_
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- AI och data science - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Spännande visning av uppkomsten efter direktsådd - Land.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - Shaping Europe’s digital future
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- 2025-06-03 Seminarium: Vilka förändringar leder AI-utvecklingen till inom de areella näringarna? - Mynewsdesk
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
