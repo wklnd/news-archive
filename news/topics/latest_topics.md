@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 07:11_
+_Updated: 2026-05-30 10:02_
 
 ## Top Stories
 
+- Motorcyklist körde in i publiken – en till sjukhus med ambulanshelikopter - Hallands Nyheter
+- Trumps krav: Iranavtal ska uppfylla alla villkor - GP
+- Hegseths varning om Kina - SVT Nyheter
 - C-ledaren: Orealistiskt att stötta Kristersson - Västerbottens-Kuriren
-- Hegseth till Kina: ”Respektera USA i Stilla Havsområdet” - Sveriges Radio
-- Socialtjänsten ringde – då började en mardröm - Svenska Dagbladet
+- ALS-sjuka Heléne får inte Tofersen – nytt besked väntas - Sveriges Radio
 - Johannes har aldrig känt hur det är att vara mätt - GP
-- Ny båtattack i Stilla havet – dödssiffran närmar sig 200 - Omni
-- Flera dödade i attacker i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stort beslag av dödsdrog: ”Räcker med ett korn” - Corren
 - Flicka död i drunkningsolycka i Västerås - SVT Nyheter
-- Mc-förare död – körde in i publiken - Västerbottens-Kuriren
-- ”Mina vänner, mycket står på spel i valet i höst” - Nyhetsbyrån Järva
-- ADAM BÄCKSTRÖM: Priset är Skellefteå Buss minsta problem - Norran
-- Tre klättrare döda – föll på USA:s högsta berg - Västerbottens-Kuriren
-- USA: Produktiva samtal mellan Israel och Libanon - GP
+- Därför hittar så många indier ett hem i Göteborg - Dagens Nyheter
+- Trots flera timmar sena tåg: ”En härlig fredagskväll” - GP
 - Krig, kris och ebola – barnen drabbas värst - GP
-- Direkt – Kriget i Ukraina – Zelenskyj: Förberedda på stor rysk attack - Dagens Nyheter
-- IF Metall avbryter Tesla-strejk i Malmö och Uppsala - Sveriges Radio
-- Mellqvist: ”Dåligt på alla punkter i det som är verkliga siffror” - EFN
-- Setune säljer för 300 mkr till Episurf - Fastighetsvärlden
-- Så rankas Gnosjö kommun i årets företagsklimatet - Skillingaryd
-- Fans av Xbox-exklusiva titlar får ångra sig när Games Showcase behåller plattformsoberoende PS5-titlar - notebookcheck.se
-- Vivo lanserar ny prisvärd smartphone med stort batteri på 7.200 mAh - notebookcheck.se
+- Flera barn döda i trafikolycka i Afghanistan - SVT Nyheter
+- Läkare: Trumps hälsa utmärkt – men behöver banta - Folkbladet
+- USA: Produktiva samtal mellan Israel och Libanon - GP
+- Swedavia: Bättre tillgång till flygbränsle än väntat - Sveriges Radio
+- Begagnad Volvo populärast för elbilspremie - Dagens Nyheter
+- Uppgifter: IF Metall stoppar delar av Teslastrejken - Arbetaren
+- Har följt Lundin-processen närmare än någon annan - Dagens Juridik
+- Efter en lång juridisk strid får Unknown Worlds nu sin utlovade bonus - feber.se
+- Qualcomm lanserar ny systemkrets för billigare Arm-datorer - PC för Alla
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
+- World Cup intensifies with sprint races in Sweden - International Orienteering Federation
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -41,9 +42,8 @@ _Updated: 2026-05-30 07:11_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
@@ -56,8 +56,8 @@ _Updated: 2026-05-30 07:11_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
@@ -101,40 +101,40 @@ _Updated: 2026-05-30 07:11_
 - Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar ChatGPT Health - OpenAI
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- 45 projekt har nått finalen i tävlingen "Student Scientific Research" vid Dong A-universitetet. - Vietnam.vn
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Psykedelisk psykiatri – det finns anledning att vara optimistisk - Läkartidningen
 - 5 myter om öppen vetenskap - Läkartidningen
@@ -150,12 +150,12 @@ _Updated: 2026-05-30 07:11_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Spännande visning av uppkomsten efter direktsådd - Land.se
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Här är världens största jordbruk - ATL.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
