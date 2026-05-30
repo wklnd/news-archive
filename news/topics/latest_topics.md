@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 16:13_
+_Updated: 2026-05-30 17:47_
 
 ## Top Stories
 
-- DN Direkt – Stopp på tunnelbanans röda linje - Dagens Nyheter
-- Khameneis rådgivare: Trump ”sviker diplomati” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
-- Olena var rysk fånge: ”Som ett spel för dem” - Svenska Dagbladet
-- Man skottskadad i axeln i Essunga – trolig rikoschett - Omni
+- DN Direkt – Stopp på tunnelbanans röda linje – passagerare evakueras - Dagens Nyheter
 - Ytterligare fyra räddade från översvämmad grotta - Västerbottens-Kuriren
+- Khameneis rådgivare: Trump ”sviker diplomati” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man i Essunga skottskadad – avförd med ambulanshelikopter - Mariestads-Tidningen
+- Ryska spioner försöker stjäla västerländsk teknik - Västerbottens-Kuriren
+- DN Direkt – E4 avstängd norr om Ljungby - Dagens Nyheter
+- Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
+- Fler äldre kameraövervakas i hemmet – dygnet runt: "Nödvändigt" - News55
 - Polisen efterlyser försvunnen pojke – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- ADAM BÄCKSTRÖM: Priset är Skellefteå Buss minsta problem - Norran
-- Carl Bildt stoppades – frågades ut - UNT
-- V: Miljardärerna måste betala mer i skatt - Dagens Nyheter
-- Knölvalen Timmy har bärgats - UNT
-- Krig, kris och ebola – barnen drabbas värst - GP
-- Misstänks ha läckt statshemligheter – forsätter jobba för Netanyahu - Dagens Nyheter
+- LEDARE: Kroglivets nyvunna frihet hotas av den kommunala byråkratin - Kristianstadsbladet
+- Kanadensaren sålde ”självmordspaket” runt om i världen - Dagens Nyheter
+- DN Direkt – Fyra personer räddade ut grottan i Laos - Dagens Nyheter
+- Många barn döda i lastbilsolycka i Afghanistan - Västerbottens-Kuriren
 - Högerstrid kan gynna vänstern i Colombia - Dagens Nyheter
-- Begagnad Volvo populärast för elbilspremie - Svenska Dagbladet
+- Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
+- Teslas självkörande bilar i kinesisk rättstvist - GP
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
-- IF Metall avbryter Tesla-strejk i Malmö och Uppsala - Sveriges Radio
 - Chevrons vd varnar för oljeprislyft: ”Trycket uppåt blir högre än väntat” - EFN
+- Microsoft frestar oss med nya Surface-enheter inför Build - Teknikveckan
 - Efter massuppsägningen: Rockstar får fackklubb - Aftonbladet
-- Reddit: Dold Steam Deck-funktion - många användare kände inte till detta Bluetooth-trick - notebookcheck.se
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- World Cup intensifies with sprint races in Sweden - International Orienteering Federation
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Regierung & KI: Palantirs beeindruckender Erfolg in den USA und seine internationale Schwäche - Xpert.Digital - Konrad Wolfenstein
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -98,22 +98,22 @@ _Updated: 2026-05-30 16:13_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Vi presenterar HealthBench - OpenAI
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
+- Rapport om externa effekter hos närstående vid beslut om subvention av läkemedel - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
@@ -142,23 +142,23 @@ _Updated: 2026-05-30 16:13_
 
 ## Jordbruk
 
+- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk och landsbygdsutveckling - European Commission
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Spännande visning av uppkomsten efter direktsådd - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Duong No Ward samarbetar i utvecklingen av högteknologiskt jordbruk. - Vietnam.vn
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
+- Här är världens största jordbruk - atl.nu
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
