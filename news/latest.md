@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-30 10:07_
+_Updated: 2026-05-30 12:27_
 
-- Trump's name must be removed from Kennedy Center, judge orders - Axios
 - Live Updates: Trump holds key White House meeting on Iran deal to reopen Strait of Hormuz, destroy uranium - CBS News
-- 13-year-old, 7-year-old among 5 killed in massive crash on I-95 in Virginia: Police - ABC News - Breaking News, Latest News and Videos
+- Trump's name must be removed from Kennedy Center, judge orders - Axios
+- Bus crashes into cars on Virginia interstate, killing 5 people, state police say - PBS
 - Judge probes whether deal creating Trump’s $1.8 billion fund constitutes fraud - The Washington Post
 - New poll in California governor's race shows a top three - but only two candidates will move on - ABC7 Los Angeles
-- Judge temporarily blocks payouts from Trump's $1.776 billion 'anti-weaponization' settlement fund - AP News
-- Fears of travel chaos flare as Mullin weighs pulling customs officers from Newark airport - Politico
-- Trump’s doctor recommends he lose weight and exercise more but says he is in ‘excellent health’ - CNN
+- Trump’s ‘anti-weaponization fund’ is stalled, and some allies are urging him to scrap it entirely - CNN
+- White House Releases Results of Trump’s Latest Physical Exam - The New York Times
+- Airlines and business groups warn of chaos if US restricts international flights - Reuters
 - ICE Protesters Convicted in a Spokane Case That Tested a Trump Strategy - The New York Times
-- Reid Hoffman says reported DOJ investigation into his nonprofit that funded E. Jean Carroll's case is 'retaliation' - Business Insider
+- Trump Backs Nancy Mace Opponent in South Carolina Race: Where Polls Stand - Newsweek
 - Russian official warns Europe to brace for more drone incidents after Romania episode - Reuters
-- Hegseth tempers China criticism at Asia forum - Politico
+- Pete Hegseth lauds better US ties with China - Financial Times
+- Vietnam’s Leader Warns Asia About the Risks of Superpower Conflict - The New York Times
 - 1 miner rescued in dangerous operation after over a week trapped in flooded Laos cave: "He's healthy and he's alive" - CBS News
-- Ships Are Sailing ‘Dark’ to Sneak Out of Strait of Hormuz - WSJ
 - Massive Blue Origin rocket explosion gives edge to Elon Musk in space race - The Washington Post
-- Anthropic leapfrogs OpenAI with a record $965 billion valuation and says its ‘Mythos’ AI model is coming soon - Yahoo Finance
-- Dell shares soar 30% as AI server demand, price hikes power stellar quarter - Reuters
-- Music giant Universal rejects billionaire Bill Ackman's takeover bid - BBC
-- Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge
-- Acer’s launching a Linux handheld for streaming your PC games - The Verge
+- Exclusive | How Replimune’s Drug Got Third Chance After White House Intervention - WSJ
+- Anthropic drops new Claude model as OpenAI IPO race heats up - Yahoo Finance Singapore
+- Dell stock surges on deal with Pentagon, making CEO $31B richer overnight - New York Post
+- DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors
+- Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch
