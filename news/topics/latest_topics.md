@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 23:33_
+_Updated: 2026-05-31 00:32_
 
 ## Top Stories
 
 - Sorg i dragracing-Sverige efter dödsolyckan: ”En ikon” - Aftonbladet
-- Ukrainsk attack mot rysk oljeanläggning - Västerbottens-Kuriren
-- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Stora störningar i kollektivtrafiken under Stockholm Marathon - Sveriges Radio
+- Ukrainsk attack mot rysk oljeanläggning - Västerbottens-Kuriren
 - M vill förenkla ombildning av hyresrätter - GP
-- DN Direkt – Person föll ur bil i farten – man gripen - Dagens Nyheter
-- Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
+- Man gripen för mordförsök i Östersund - SVT Nyheter
+- Är det här Kristerssons arv? - Svenska Dagbladet
 - Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
 - Bakslag för hundsmugglare – svenska hundar toppar - Västerbottens-Kuriren
 - En fast för rattfylla och två för fortkörning – här stod polisen - NSD
+- Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
 - Direkt – Krisen i Mellanöstern – Oman varnar för misstänkt mina i Hormuzsundet - Dagens Nyheter
-- Ny misstänkt i uppmärksammade Hagenfallet - GP
-- USA: Produktiva samtal mellan Israel och Libanon - Västerbottens-Kuriren
-- Krig, kris och ebola – barnen drabbas värst - GP
+- USA: Produktiva samtal mellan Israel och Libanon - GP
+- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man med koppling till Sverige misstänkt i Hagen-fallet - Sveriges Radio
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
 - Svensk BNP faller oväntat - Dagens industri
 - Ägg återkallas – risk för salmonella - Corren
@@ -30,23 +30,23 @@ _Updated: 2026-05-30 23:33_
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Why the West no longer speaks for the world | Hindustan Times - Hindustan Times
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - TV.nu
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- AlixLabs vinner KPMG:s Global Tech Innovator 2026 i Sverige - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-05-30 23:33_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
+- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
