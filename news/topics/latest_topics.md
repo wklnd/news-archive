@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-30 21:48_
+_Updated: 2026-05-30 23:33_
 
 ## Top Stories
 
-- Stora störningar i kollektivtrafiken under Stockholm Marathon - Sveriges Radio
 - Sorg i dragracing-Sverige efter dödsolyckan: ”En ikon” - Aftonbladet
-- Ukrainsk attack mot rysk oljeanläggning - Corren
-- Person föll ur bil i farten i Trollhättan – bilförare gripen - SVT Nyheter
-- Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
-- Ny misstänkt i uppmärksammade Hagenfallet - GP
+- Ukrainsk attack mot rysk oljeanläggning - Västerbottens-Kuriren
+- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Stora störningar i kollektivtrafiken under Stockholm Marathon - Sveriges Radio
+- M vill förenkla ombildning av hyresrätter - GP
+- DN Direkt – Person föll ur bil i farten – man gripen - Dagens Nyheter
 - Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
-- Huggormen är vaken – här är rådet om du blir biten - NT
+- Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
+- Bakslag för hundsmugglare – svenska hundar toppar - Västerbottens-Kuriren
 - En fast för rattfylla och två för fortkörning – här stod polisen - NSD
-- Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
-- USA: Produktiva samtal mellan Israel och Libanon - GP
-- Hundratals miljarder euro i förluster hotar världsekonomin - Dagens PS
-- Krig, kris och ebola – barnen drabbas värst - Västerbottens-Kuriren
-- DN Direkt – Gyökeres startar på bänken i finalen - Dagens Nyheter
-- Ägg återkallas – risk för salmonella - Aftonbladet
+- Direkt – Krisen i Mellanöstern – Oman varnar för misstänkt mina i Hormuzsundet - Dagens Nyheter
+- Ny misstänkt i uppmärksammade Hagenfallet - GP
+- USA: Produktiva samtal mellan Israel och Libanon - Västerbottens-Kuriren
+- Krig, kris och ebola – barnen drabbas värst - GP
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
-- Chevrons vd varnar för oljeprislyft: ”Trycket uppåt blir högre än väntat” - EFN
+- Svensk BNP faller oväntat - Dagens industri
+- Ägg återkallas – risk för salmonella - Corren
 - Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
 - Efter massuppsägningen: Rockstar får fackklubb - Aftonbladet
@@ -32,7 +32,6 @@ _Updated: 2026-05-30 21:48_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
@@ -41,12 +40,13 @@ _Updated: 2026-05-30 21:48_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - TV.nu
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - AlixLabs vinner KPMG:s Global Tech Innovator 2026 i Sverige - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 05:15 - Tv.nu
+- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
 
 ## Technology
 
@@ -61,6 +61,7 @@ _Updated: 2026-05-30 21:48_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -69,7 +70,6 @@ _Updated: 2026-05-30 21:48_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -133,11 +133,11 @@ _Updated: 2026-05-30 21:48_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- AI och data science - Stockholms universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
@@ -148,17 +148,17 @@ _Updated: 2026-05-30 21:48_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Tillväxten för jordbruksprodukter går ned - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - atl.nu
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
