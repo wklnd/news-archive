@@ -1,121 +1,121 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-31 03:35_
+_Updated: 2026-05-31 08:39_
 
 ## Top Stories
 
-- Varningen: Ebola ”djupt oroande” - Västerbottens-Kuriren
-- Människor fast i över tre timmar i Stockholms tunnelbana - Yle
-- Direkt – Kriget i Ukraina – IAEA: Drönare orsakade hål i Zaporizjzja - Dagens Nyheter
+- Ny misstänkt i Hagenfallet bodde i Sverige - Västerbottens-Kuriren
+- ”Kokain har fått ett grepp om Oslo” - Dagens Nyheter
+- Källor: Trump skärper kraven på Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Öckeröbor hör ingen Hesa Fredrik: ”Vi blir sårbara” - GP
+- Ukrainsk attack mot rysk oljeanläggning - Dagens industri
+- Valpchocken – så dyrt är det att skaffa hund - Svenska Dagbladet
 - Erfaren dragracingförare dog i mc-olycka i Falkenberg - GP
-- M vill förenkla ombildning av hyresrätter - GP
-- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
-- Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
-- En fast för rattfylla och två för fortkörning – här stod polisen - NSD
-- Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Oman varnar för misstänkt mina i Hormuzsundet - Dagens Nyheter
-- USA: Produktiva samtal mellan Israel och Libanon - Västerbottens-Kuriren
-- Man gripen för mordförsök i Östersund - Aftonbladet
-- Oppositionsprofil vill se presidentval i Venezuela - GP
-- Regeringen beviljar brytningskoncession för koppargruva i Nautanen - METALLERochGRUVOR.se
-- Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
+- Adam Cwejman: Vi kan Lundsberg utantill men inte det nya Sverige - GP
+- Marius, 21: "Mamma viktigaste personen i livet" - UNT
+- Ordern: Birgitta Ed ska ha höns - Expressen
+- Krig, kris och ebola – barnen drabbas värst - GP
+- ”Djungelval” i Kalifornien – vem efterträder Newsom? - Västerbottens-Kuriren
+- USA stoppade fartyg – sköt robot in i maskinrum - GP
+- DN Direkt – Misstänkt mordförsök i Östersund – man allvarligt skadad - Dagens Nyheter
+- Färre bostadsköpare planerar att renovera - Svenska Dagbladet
+- Skelett av T-rex till salu – för 270 miljoner - Aftonbladet
 - Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
-- Uppgifter: IF Metall stoppar delar av Teslastrejken - Arbetaren
+- Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
-- GTA 6-utvecklare startar fackförening mot Rockstar Games - teknikveckan.se
+- Här är Oves värstinghusbil – på 18 meter - Gefle Dagblad
 
 ## World News
 
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Handelsbanken lanserar ny global indexfond - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
+- Den högst rankade kvinnliga AI-studenten kommer från en självlärd bakgrund. - Vietnam.vn
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vilken framtid arbetar du för? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
-- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
 
 ## Science
 
