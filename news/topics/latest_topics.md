@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-31 12:00_
+_Updated: 2026-05-31 13:57_
 
 ## Top Stories
 
 - Ny ukrainska drönarattacker mot rysk infrastruktur - Omni
-- Michael Winiarski: Trumps avtal med Iran kan bli ”sämre” än Obamas - Dagens Nyheter
-- Ed krävde hönsgård på Harpsund - Svenska Dagbladet
-- Sex personer i trafikolycka i Björklinge – bil hamnade på taket - SVT Nyheter
-- Israel intar medeltida borg i Libanonoffensiv - GP
+- Syrliga passningen från Japan: ”Att vi anklagas för militärism” - Sveriges Radio
 - Kidnappad i Johanneberg efter jobbet: "Var livrädd" - GP
+- Kathrine, 26: ”Min mamma är den starkaste personen jag känner” - Sydsvenskan
+- Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
+- Michael Winiarski: Trumps avtal med Iran kan bli ”sämre” än Obamas - Dagens Nyheter
 - Papegoja fick följa med till polisstationen - Corren
 - Älgarna har flyttat in i byn – kommunen vill att de ska skjutas - Dagens Nyheter
-- David Lindh: Mamma sade ”Lova att du aldrig blir politiker” - Hufvudstadsbladet – HBL
+- Ed krävde hönsgård på Harpsund – nu betalas fakturan - Västerbottens-Kuriren
 - SL efter lördagens totalstopp på röda linjen: ”Vi kan bara beklaga” - SVT Nyheter
 - Elva omkomna i olycka på pappersbruk i USA - Corren
-- Osäker valutgång i Colombia - Global Bar Magazine
 - Bebis bland flera döda i busskrasch i Turkiet - Västerbottens-Kuriren
-- Syrliga passningen från Japan: ”Att vi anklagas för militärism” - Sveriges Radio
+- Debatt om Colombias vänster inför presidentvalet: "Att kalla återuppståndelsen för reformism är verkligen respektlöst och historielöst" - internationalen.se
+- Zelenskyj: Tusentals bomber och drönare mot Ukraina - Dagens Nyheter
+- Coop, Garant och Stjärnägg återkallar ägg – risk för salmonella - Expressen
 - Hotade resor och stigande kostnader – Asiens turistländer pressas av Iran-kriget - Börskollen
-- Experterna: Studielånet har nått toppen - Dagens Nyheter
 - Därför fick Scania tillstånd att bygga egen fabrik i Kina - Dagens Nyheter
-- Även Axfood återkallar ägg – risk för salmonella - Aftonbladet
+- Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
-- Acer visar upp en prisvärd konkurrent till MacBook Neo med ny Snapdragon-processor - notebookcheck.se
+- GTA 6-utvecklare startar fackförening mot Rockstar Games - Teknikveckan
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:30 - TV.nu
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:30 - Tv.nu
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
@@ -45,13 +45,13 @@ _Updated: 2026-05-31 12:00_
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Techarenan News goes English (Partly at least) - Techarenan News
 
 ## Technology
 
-- Den högst rankade kvinnliga AI-studenten kommer från en självlärd bakgrund. - Vietnam.vn
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Den högst rankade kvinnliga AI-studenten kommer från en självlärd bakgrund. - Vietnam.vn
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -63,13 +63,13 @@ _Updated: 2026-05-31 12:00_
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
+- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -81,8 +81,8 @@ _Updated: 2026-05-31 12:00_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
@@ -98,24 +98,24 @@ _Updated: 2026-05-31 12:00_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -124,6 +124,7 @@ _Updated: 2026-05-31 12:00_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -132,12 +133,11 @@ _Updated: 2026-05-31 12:00_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
-- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- AI och data science - Stockholms universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
