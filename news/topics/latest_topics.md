@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-01 00:34_
+_Updated: 2026-06-01 01:40_
 
 ## Top Stories
 
-- Stor polisinsats i Kungälv – flera skadade - Aftonbladet
+- Stor polisinsats i Kungälv – minst två skadade - GP
 - DN Direkt – Tungt för Kamga – sist i Marocko - Dagens Nyheter
-- Marius, 21: "Mamma viktigaste personen i livet" - UNT
-- ”Ingen i SD kan göra mitt jobb bättre” - Svenska Dagbladet
 - Direkt – Kriget i Ukraina – Rysk brigad från Butja-ockupationen attackerad - Dagens Nyheter
 - Israel intar medeltida borg i Libanonoffensiv - Västerbottens-Kuriren
+- Svantesson om krispaketet: ”Har inget med valåret att göra” - Omni
+- Marius, 21: "Mamma viktigaste personen i livet" - UNT
 - Livshotande skadad efter krock mellan bil och tåg - Västerbottens-Kuriren
 - Drabbade berättar: Det låg bakom förgiftningarna på Akademiska - SVT Nyheter
 - Sidas toppchef om Dousas krav: ”Går det att vara hundra procent säker på någonting?” - Dagens Nyheter
 - USA-familjens kulturkrock i Boden: ”Gurka i tacos?” - Dagens Nyheter
-- Michael Winiarski: Trumps avtal med Iran kan bli ”sämre” än Obamas - Dagens Nyheter
 - Över 50 döda i explosion i Myanmar - SVT Nyheter
-- ”Här i Teheran har hela bostadskvarter ödelagts” - Dagens Nyheter
 - Drönarattacker orsakar höga dödstal i Sudan - Corren
+- DN Direkt – Folkhälsomyndighet: 43 bekräftade dödsfall i ebola - Dagens Nyheter
+- ”Här i Teheran har hela bostadskvarter ödelagts” - Dagens Nyheter
 - Wall Street tror på fortsatta uppgångar: ”Inte en bubbla” - EFN
-- Vattenfall i miljardsatsning på vattenkraft - Västerbottens-Kuriren
-- Fler ägg återkallas efter salmonellalarm - Aftonbladet
+- Vattenfall i miljardsatsning på vattenkraft - Aftonbladet
+- Även Axfood återkallar ägg – risk för salmonella – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
 - Tekniken förändrar våra hjärnor – nu växer jakten på livets mening - Dagens PS
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
 - Lokala naturupplevelsen – BT utforskar ”lilla Amazonas” - Borås Tidning
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på ikväll 19:30 - TV.nu
-- Kanada diskuterar Global Eye-köp med Saab - Dagens industri
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Kanada diskuterar Global Eye-köp med Saab - Dagens industri
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - samsung.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- NTM prisades i årets INMA Global Media Awards - ntm.se
 - Samsung Electronics är global TV-marknadsledare för 18:e året i rad - samsung.com
+- NTM prisades i årets INMA Global Media Awards - ntm.se
 
 ## Technology
 
@@ -59,10 +59,10 @@ _Updated: 2026-06-01 00:34_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- 'AI workshop' to help smaller Swedish municipalities get better digital tools - Sveriges Radio
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -98,24 +98,24 @@ _Updated: 2026-06-01 00:34_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
-- Vi presenterar HealthBench - OpenAI
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Vi presenterar HealthBench - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -146,19 +146,19 @@ _Updated: 2026-06-01 00:34_
 - Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Jordbruk och landsbygdsutveckling - European Commission
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Kämpigt för jordbruk i öst - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Kämpigt för jordbruk i öst - Land.se
+- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
