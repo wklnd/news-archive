@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-31 01:37_
+_Updated: 2026-05-31 03:35_
 
 ## Top Stories
 
-- Sorg i dragracing-Sverige efter dödsolyckan: ”En ikon” - Aftonbladet
-- Stora störningar i kollektivtrafiken under Stockholm Marathon - Sveriges Radio
+- Varningen: Ebola ”djupt oroande” - Västerbottens-Kuriren
+- Människor fast i över tre timmar i Stockholms tunnelbana - Yle
 - Direkt – Kriget i Ukraina – IAEA: Drönare orsakade hål i Zaporizjzja - Dagens Nyheter
+- Erfaren dragracingförare dog i mc-olycka i Falkenberg - GP
 - M vill förenkla ombildning av hyresrätter - GP
-- Person föll ur bil i farten i Trollhättan – bilförare gripen - SVT Nyheter
-- Är det här Kristerssons arv? - Svenska Dagbladet
+- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Putin får ekonomisk chock om Nato stänger Östersjön - Dagens Nyheter
-- En fast för rattfylla och två för fortkörning – här stod polisen - NSD
 - Agns Wold efter stormen: ”Påverkas inte särskilt mycket” - GP
+- En fast för rattfylla och två för fortkörning – här stod polisen - NSD
 - Man död i Ronneby – en gripen misstänkt för mord - Västerbottens-Kuriren
 - Direkt – Krisen i Mellanöstern – Oman varnar för misstänkt mina i Hormuzsundet - Dagens Nyheter
-- USA: Produktiva samtal mellan Israel och Libanon - GP
-- USA har skjutit mot lastfartyg i Omanbukten – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Krig, kris och ebola – barnen drabbas värst - GP
+- USA: Produktiva samtal mellan Israel och Libanon - Västerbottens-Kuriren
+- Man gripen för mordförsök i Östersund - Aftonbladet
+- Oppositionsprofil vill se presidentval i Venezuela - GP
 - Regeringen beviljar brytningskoncession för koppargruva i Nautanen - METALLERochGRUVOR.se
 - Fortsatt i rikstopp när elavgifter rankas - Västgöta-Bladet
-- Ägg återkallas – risk för salmonella - Corren
 - Ingen brist på flygbränsle ännu – men högre priser – Nya Wermlands-Tidningen - Nya Wermlands-Tidningen
+- Uppgifter: IF Metall stoppar delar av Teslastrejken - Arbetaren
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
 - GTA 6-utvecklare startar fackförening mot Rockstar Games - teknikveckan.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-05-31 01:37_
 - Kanada diskuterar Global Eye-köp med Saab - Dagens industri
 - Saabs plan: ”Vi ska minst dubblera produktionen” - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- SVP Worldwide Announces Global Launch of Three New PFAFF® Sewing Machines: creative expression™ 750, quilt expression™ 725, and expression™ 715 - Via TT
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Kristersson välkomnar flygaffär med Kanada - Svenska Dagbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- S&P Global höjer RTX-utsikterna på stark efterfrågan inom flyg - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -98,24 +98,24 @@ _Updated: 2026-05-31 01:37_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
-- Microsoft och Harvard i AI-samarbete kopplat till hälsa och vård - Ny Teknik
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
 - Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Vi presenterar ChatGPT Health - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
@@ -133,7 +133,7 @@ _Updated: 2026-05-31 01:37_
 - Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
-- AI och data science - Stockholms universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
