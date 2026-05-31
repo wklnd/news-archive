@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-31 03:50_
+_Updated: 2026-05-31 08:42_
 
-- Judge agrees to review Trump’s $1.8 billion ‘anti-weaponization’ fund - NPR
-- Trump vents about judge who blocked the Kennedy Center renovation and fumes over his legal setbacks - AP News
-- Meteor explodes off coast of Massachusetts, causing loud boom - CBS News
-- Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began - The New York Times
-- Becerra, Steyer lead in new CA governor's race poll, Hilton in close 3rd place - NBC Los Angeles
-- What Congress can and can’t do to rein in Trump’s $1.8 billion payout fund - The Washington Post
+- Graham Platner’s wife says she’s ‘deeply hurt’ by public revelations of her husband’s extramarital sexts - CNN
 - Hunger strike at New Jersey ICE facility enters ninth day as protesters face off with Trump supporters - The Guardian
+- Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit - The New York Times
+- Trump’s Kennedy Center plans were blocked by a judge. What happens next? - The Washington Post
 - Crash kills 5 in Virginia including family of 4 traveling to wedding. Bus driver charged - AP News
-- What to Know About the ICE Agent Arrested in Texas for a Shooting in Minnesota - The New York Times
-- Billionaire supporter of E Jean Carroll says inquiry meant to ‘silence’ Trump critics - The Guardian
+- Japan rejects 'new militarism', accuses China of rapidly arming - Reuters
+- Trump in excellent health with leg swelling and hand bruising, doctor says - The Times of Israel
+- Eleven confirmed dead in Washington state chemical accident, all bodies recovered - Reuters
+- Becerra gains support in latest poll with Steyer and Hilton not far behind - Los Angeles Times
+- Loud noise heard throughout Southern New England - WJAR
+- WHO chief visits Ebola outbreak epicenter in eastern Congo as cases outpace response - CBS News
+- Colombians head to the polls, with 2 pro-Israel candidates challenging anti-Israel leftist - The Times of Israel
 - Four more men freed from flooded Laos cave in hazardous rescue mission - The Guardian
-- Hegseth urges Asian leaders to boost military spending against China - NPR
-- Colombians, weary of violence, prepare to vote in polarizing election - CBS News
-- Dead humpback whale brought to shore in Denmark with autopsy set next week - AP News
+- Dozens arrested in Paris clashes on PSG victory night: police - France 24
 - Blue Origin gets national security launch task order hours before New Glenn explosion - SpaceNews
+- China Factory Activity Worsens in Warning Sign for Economy - Bloomberg.com
 - Ferrari’s new EV sparks Italian angst over Agnelli legacy - Financial Times
-- United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News
-- Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age - Fortune
-- I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch
+- Universal Music Group Rejects $65 Billion Buyout Offer From Bill Ackman - WSJ
 - First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters
+- Kuo: Apple’s iPhone camera roadmap includes a costly upgrade - 9to5Mac
