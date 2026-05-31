@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-31 23:38_
+_Updated: 2026-06-01 00:39_
 
 - Israel seizes medieval castle as it expands major offensive in southern Lebanon - NPR
 - Cory Booker Has ‘Concerns’ About Platner Revelations in Maine Senate Race - The New York Times
 - Could Democrats be shut out of the California governor’s race? - Al Jazeera
-- Bus driver charged in Virginia crash that killed five people - The Guardian
-- Trump Makes Bizarre U-Turn On Iran Claims: ‘We've Actually Left Their Military Alone’ - HuffPost
+- After weeks of boasting that he’s destroyed Iran’s armed forces, Trump now says ‘we actually left their military alone’ - Yahoo
+- Trump Hits the Stalemate Phase of His International Interventions, and It Stings - The New York Times
 - Iran ready to fire missiles across Middle East after digging out bombed tunnels - The Jerusalem Post
-- Sherrill, Newark mayor back partial curfew in New Jersey’s largest city - Politico
+- Family visitation partly restored at New Jersey ICE facility after week of protests - The Guardian
 - Man charged with murder in killings of 3 on Hawaii’s Big Island - CNN
-- Trump sent back Iran deal text with changes - CNN
+- Russia Can No Longer Take More Land Than Ukraine Liberates, Zelenskyy Says - UNITED24 Media
 - Pence calls Trump's 'anti-weaponisation' fund 'deeply offensive' and says it should be dropped - BBC
-- Myanmar: Huge blast kills dozens in village in rebel-held region - BBC
-- Heavy rain threatens search for 2 gold miners still missing in Laos cave after 5 others rescued - CBS News
 - Polls close in Colombia presidential election that may reshape relations with US - BBC
-- India’s Hindu Right Has a New Hero: A 17th-Century Warrior King - The New York Times
+- Heavy rain threatens search for 2 gold miners still missing in Laos cave after 5 others rescued - CBS News
+- Zelenskyy alleges Russia is abducting Ukrainian kids and training them to fight - CBS News
+- Second batch of Mandelson files to be published on Monday - BBC
 - United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name - NPR
+- Berkshire Hathaway to Acquire Taylor Morrison Home Corporation for $8.5 Billion - Business Wire
 - Market concentration is creating 'fragility': Only 60% of S&P 500 stocks are above their 200-day average - Yahoo Finance
-- I wrote that Boomers were choking America’s economy. Their responses to me were revealing - Fortune
-- China’s factory activity slows in May, raising questions over its economy - AP News
-- First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters
+- 'Rockets are hard': Elon Musk responds to Jeff Bezos' rocket explosion as his own SpaceX glides to a $1.8T IPO - Yahoo Finance
+- Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios
 - Apple Glasses Reportedly Launching in 'Late 2027' With These Features - MacRumors
