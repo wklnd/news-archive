@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-05-31 01:41_
+_Updated: 2026-05-31 03:50_
 
-- After judge orders Trump's name scrubbed from Kennedy Center, president says it's 'probably never to open again' - Fortune
 - Judge agrees to review Trump’s $1.8 billion ‘anti-weaponization’ fund - NPR
-- Loud Boom in Boston Area Puzzles Residents - The New York Times
-- Graham Platner’s Wife Flagged Sexually Explicit Texts to His Senate Campaign - WSJ
-- Medical or a PR exercise? Why presidents get annual check-ups - BBC
-- US says it is capable to resume war with Iran as deal remains elusive - Euronews.com
-- Dueling protests face off at New Jersey ICE detention center over detainee conditions - NBC News
+- Trump vents about judge who blocked the Kennedy Center renovation and fumes over his legal setbacks - AP News
+- Meteor explodes off coast of Massachusetts, causing loud boom - CBS News
+- Platner’s Wife Flagged His Sexual Texts With Other Women as Maine Senate Race Began - The New York Times
+- Becerra, Steyer lead in new CA governor's race poll, Hilton in close 3rd place - NBC Los Angeles
+- What Congress can and can’t do to rein in Trump’s $1.8 billion payout fund - The Washington Post
+- Hunger strike at New Jersey ICE facility enters ninth day as protesters face off with Trump supporters - The Guardian
 - Crash kills 5 in Virginia including family of 4 traveling to wedding. Bus driver charged - AP News
 - What to Know About the ICE Agent Arrested in Texas for a Shooting in Minnesota - The New York Times
-- U.S. says it stopped a merchant ship trying to breach blockade and reach Iran - PBS
+- Billionaire supporter of E Jean Carroll says inquiry meant to ‘silence’ Trump critics - The Guardian
 - Four more men freed from flooded Laos cave in hazardous rescue mission - The Guardian
-- Pete Hegseth pulls his punches on China - The Economist
+- Hegseth urges Asian leaders to boost military spending against China - NPR
+- Colombians, weary of violence, prepare to vote in polarizing election - CBS News
 - Dead humpback whale brought to shore in Denmark with autopsy set next week - AP News
-- The Russian Drone That Hit Romania Also Hit European Confidence - The New York Times
-- After Blue Origin rocket explosion, NASA's entire moon exploration program depends on SpaceX for now - Fortune
+- Blue Origin gets national security launch task order hours before New Glenn explosion - SpaceNews
 - Ferrari’s new EV sparks Italian angst over Agnelli legacy - Financial Times
-- Flight diverted to Madison after unruly passenger detained; no charges expected - Channel 3000
-- Maybe the light rail system we’ve got is good enough - The Seattle Times
+- United Airlines flight bound for Minneapolis is diverted because of an unruly passenger - AP News
+- Snowflake CEO says monster quarter shows why software firms need new pricing models to thrive in AI age - Fortune
 - I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch
-- ‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs - TechCrunch
+- First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters
