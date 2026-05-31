@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-05-31 21:49_
+_Updated: 2026-05-31 23:32_
 
 ## Top Stories
 
+- Stor polisinsats i Kungälv – flera skadade - Aftonbladet
 - Inställda avgångar på gröna linjen – ingen prognos: ”Beklagligt” - Sveriges Radio
 - Hylla din mamma på mors dag - SVT Nyheter
-- Fullt utvecklad brand i radhus i Sundsvall - SVT Nyheter
-- Iransk misstro: Allt som sägs är spekulationer - GP
-- Familjebråk på parkeringsplats – stor insats - Expressen
-- Israel intar medeltida borg i Libanonoffensiv - Västerbottens-Kuriren
+- Trump: Iran har gått med på att avstå kärnvapen - Hufvudstadsbladet – HBL
+- ”Ingen i SD kan göra mitt jobb bättre” - Svenska Dagbladet
+- Direkt – Krisen i Mellanöstern – Minst två döda i attack mot kafé i Gaza - Dagens Nyheter
+- Drabbade berättar: Det låg bakom förgiftningarna på Akademiska - SVT Nyheter
 - Livshotande skadad efter krock mellan bil och tåg - Västerbottens-Kuriren
-- Sjuksköterskornas egna ord – efter förgiftningarna på Ackis - UNT
 - Sidas toppchef om Dousas krav: ”Går det att vara hundra procent säker på någonting?” - Dagens Nyheter
 - USA-familjens kulturkrock i Boden: ”Gurka i tacos?” - Dagens Nyheter
-- Över 50 döda i Explosion i Myanmar - SVT Nyheter
-- IAEA: Kärnkraftverk träffat av drönare - Hufvudstadsbladet – HBL
+- Över 50 döda i explosion i Myanmar - SVT Nyheter
+- Direkt – Kriget i Ukraina – Rysk brigad från Butja-ockupationen attackerad - Dagens Nyheter
 - DN Direkt – Folkhälsomyndighet: 43 bekräftade dödsfall i ebola - Dagens Nyheter
-- Frankrike kräver akutmöte i FN:s säkerhetsråd - Västerbottens-Kuriren
-- Axfood återkallar Garant-ägg efter salmonellalarm - Sveriges Radio
+- ”Här i Teheran har hela bostadskvarter ödelagts” - Dagens Nyheter
+- Fler ägg återkallas efter salmonellalarm - Aftonbladet
+- Wall Street tror på fortsatta uppgångar: ”Inte en bubbla” - EFN
 - Arlandas plan – snabbare bagage efter landning - Dagens Nyheter
 - Ny rapport: De har dyrast elnätsavgifter i Norrbotten – lista - NSD
-- Tungviktare: Riv upp bankskatten – tiotals miljarder på spel - EFN
 - Uppgifter: Nvidia-chip i Windows-datorer nästa vecka - EFN
 - Läckta kopior av Samsungs superbreda Fold 8 och nya Ultra-modeller avslöjar stor designskillnad - notebookcheck.se
 
@@ -81,13 +81,13 @@ _Updated: 2026-05-31 21:49_
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- En fjärdedel av de som använder GenAI på jobbet betalar för det själva - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -98,24 +98,24 @@ _Updated: 2026-05-31 21:49_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Albufeira donates €62,000-worth of medical equipment to public health services - Portugal Resident
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
+- Så bygger Ukraina framtidens vård mitt under krig – delegation till Vitalis - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
@@ -149,8 +149,8 @@ _Updated: 2026-05-31 21:49_
 - Jordbruk och landsbygdsutveckling - European Commission
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
