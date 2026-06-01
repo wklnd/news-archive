@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-01 04:01_
+_Updated: 2026-06-01 09:31_
 
-- Cory Booker Has ‘Concerns’ About Platner Revelations in Maine Senate Race - The New York Times
-- Israel seizes medieval castle as it expands major offensive in southern Lebanon - NPR
+- US says it struck Iranian military sites, Tehran responds with air base attack - Reuters
+- European leaders condemn Israel’s deepening incursion into Lebanon - The Guardian
+- Colombia Presidential Election Heads to a Runoff - The New York Times
+- The Platner sexting controversy and what it could mean for Democrats - The Washington Post
 - A populist will win the Texas Senate race. The question is, which one? - CNN
-- Trump Hits the Stalemate Phase of His Interventions in Gaza, Ukraine and Now Iran - The New York Times
-- How aid cuts are hampering the frontline response to the Ebola crisis - NPR
-- Trying to be ‘strategic,’ California Democrats wait to vote amid fears of governor’s lockout - Los Angeles Times
-- Newark mayor imposes curfew at Delaney Hall immigration detention centre - Al Jazeera
+- Trump Wants Arab States to Recognize Israel. The War Has Made That Harder. - WSJ
 - Trump health readout leaves key blanks unfilled - Axios
-- Ukraine's Zelenskiy seeks progress on peace talks before winter - Reuters
-- Man charged with murder in killings of 3 on Hawaii’s Big Island - CNN
-- Polls close in Colombia presidential election that may reshape relations with US - BBC
+- Remains found in New Mexico national forest ID’d as those of Melissa Casias, who vanished last year - NBC News
+- Man charged with murder in deaths of 3 men on Hawaii’s Big Island - USA Today
+- Newark mayor imposes curfew at Delaney Hall immigration detention centre - Al Jazeera
 - How the Laos cave survivors found the courage to rescue themselves - CNN
-- The great Indo-Pacific hedge - deeper defence ties as US doubts grow and China ascends - Reuters
-- Blast at building storing explosives in Myanmar kills more than 45 people - AP News
-- United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name - NPR
+- Hegseth seeks to convince allies U.S. should stay quiet on Taiwan - Fortune
+- Zelenskyy alleges Russia is abducting Ukrainian kids and training them to fight - CBS News
+- How Trump’s Ukraine aid cuts undermine justice for Russian war crimes - Reuters
 - Berkshire Hathaway to Buy Taylor Morrison for $6.8 Billion - Bloomberg.com
-- Oil Climbs as US-Iran Ceasefire Remains Elusive: Markets Wrap - Bloomberg.com
-- TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce - TechCrunch
-- First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters
-- Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599 - The Verge
+- UAW to Strike at Key General Motors Truck Supplier Plant - WSJ
+- Stock futures rise in overnight trading as June trading begins near record highs: Live updates - CNBC
+- United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name - NPR
+- NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk - NVIDIA Newsroom
+- This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark - The Verge
