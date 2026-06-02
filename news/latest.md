@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-02 02:25_
+_Updated: 2026-06-02 07:15_
 
 - Trump administration retreats on 'Anti-Weaponization Fund' - Politico
-- Live Updates: Trump says Iran talks continuing at "rapid pace" after regime threatens "other fronts" in war - CBS News
+- Iran says it is breaking off ceasefire talks over Israeli attacks on Lebanon - The Washington Post
+- Kyiv hit by deadly Russian strikes, people feared trapped in apartment building rubble - CNN
 - The mystery behind Becerra leapfrogging over his rivals in California’s governor’s race - Los Angeles Times
-- U.S. strikes Iranian military sites. And, Trump's $1.8 billion fund faces scrutiny - NPR
+- Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel - BBC
 - Scoop: Platner heads to D.C. for senator meetings and fundraisers - Axios
-- Former Mesa County Clerk Tina Peters released from prison - Colorado Public Radio
-- North Carolina police officer seen punching woman during arrest faces assault charge - WLOS
-- Bus driver in Stafford Co. crash indicted on charges tied to all 5 deaths - WTOP
-- Police investigate videos of men mysteriously emerging from New York City sewers - NBC News
-- Minnesota Republicans Hold Moment of Silence for Ex-Officer Convicted of Murder - The New York Times
-- Mandelson documents cast light on government work, appointment of US ambassador - Reuters
-- Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa - Yahoo
-- Right-wing candidate pulls ahead in first round of Colombia's presidential vote - NPR
-- Rescuers search for alternative route to reach 2 missing in a flooded Laos cave - AP News
+- South Carolina jury finds store owner not guilty of murder in killing of Black teen - CNN
+- Former North Carolina officer seen in video repeatedly punching woman during arrest charged with assault - ABC News - Breaking News, Latest News and Videos
+- Takeaways from Jill Biden’s new memoir - CNN
+- Appeals court panel rules that transgender troops were illegally barred from U.S. military service - PBS
+- Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera
+- More Mandelson files released in U.K. bring bad news for Starmer, but many questions remain unanswered - NBC News
+- Ebola outbreak spreading in Africa is 'likely far worse' than official figures suggest: IRC - ABC News - Breaking News, Latest News and Videos
+- ‘A shock to all Lebanese’: Israel sends a message as it takes ancient fort - The Guardian
 - AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - NPR
-- Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders - Ars Technica
-- Berkshire Hathaway buys homebuilder Taylor Morrison in first deal under new CEO - AP News
-- Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts - The New York Times
-- Nvidia launches ‘superchip’ putting AI power into laptops and PCs - The Guardian
-- Sony’s new fight stick and gaming monitor launch in August - The Verge
+- Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents - TechCrunch
+- Asia stocks slide as Middle East anxiety offsets AI optimism - Reuters
+- Andrew Left Found Guilty in Case That Spooked Short Sellers - Yahoo Finance
+- Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch
+- The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands - The Verge
