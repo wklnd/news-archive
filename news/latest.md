@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-02 20:23_
+_Updated: 2026-06-02 23:35_
 
-- Trump names Bill Pulte acting director of national intelligence - Politico
-- California's primary for governor, LA mayor's race and more primaries to watch today - CBS News
+- DOJ 'not moving forward' with Trump anti-weaponization fund, Blanche says - CNBC
+- Trump picks mortgage chief Bill Pulte to lead on national intelligence - The Washington Post
+- Polls in California Show a Crowded Governor’s Race With a Clear Top 3 - The New York Times
 - Rubio details U.S. demands as Iran peace talks falter - The Washington Post
-- PROMOTING ADVANCED ARTIFICIAL INTELLIGENCE INNOVATION AND SECURITY - The White House (.gov)
-- Live Results: California midterm primaries - PBS
-- California votes in primary to pick new governor, and maybe tip balance in Congress - Reuters
+- Trump signs AI safety order seeking voluntary review of new models - NPR
+- Five things to watch in Tuesday’s primaries - Politico
+- Curfew to Be Lifted Near NJ’s Delaney Hall ICE Facility Where Protests Have Raged - The New York Times
 - Police in Iowa say they think man shot and killed 6 relatives, then himself - CBS News
-- Trump to Get Audit Immunity as $1.8 Billion Fund in Doubt - Bloomberg.com
-- White House Correspondents' Dinner rescheduled for July 24 after shooting disrupted initial event - CBS News
-- Capitol agenda: Trump officials try to calm ‘ slush’ fund fury - Politico
-- Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week - The New York Times
-- EU strikes migration deal for more deportations and detention centers abroad - NPR
+- Trump, Rubio say talks with Tehran ongoing despite Iranian media claims otherwise - CNBC
+- Schumer shares few details on meeting with Platner - Politico
+- Russian attack on Ukraine kills 22 people, officials say, as Moscow escalates fighting - NPR
+- UK police under pressure after dying student was handcuffed - Reuters
+- EU agrees deal for deporting migrants to third-country 'return hubs' - France 24
 - American soldier and British soldier die in training accident in Iraq - CBS News
-- Ultra-Orthodox protesters block roads and trains across Israel over military draft - NPR
-- Anthropic faces AI spending backlash before IPO - Axios
-- Short seller Andrew Left convicted of securities fraud - AP News
-- Bra Sales Power Victoria’s Secret Turnaround and Shares Soar - WSJ
-- Stock Market News June 1, 2026: Dow, S&P 500 log longest winning streaks of 2026, joining Nasdaq at record highs, as Trump says Iran talks are back on - MarketWatch
-- Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch
-- What’s new in Android’s June 2026 Google System Updates - 9to5Google
+- Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say - Reuters
+- Goldman’s David Solomon sees ‘more greed than there is fear’ on Wall Street - Financial Times
+- Victoria's Secret Climbs to Record High as Chain Outperforms - Yahoo Finance
+- Bitcoin Traders Flip Bearish as BTC Falls to Lowest Price in Months - Decrypt
+- Microsoft's Surface RTX Spark Dev Box Will Handle Tougher AI Workloads - Engadget
+- Microsoft Build 2026: The 7 biggest announcements - The Verge
