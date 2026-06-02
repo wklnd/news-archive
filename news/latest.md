@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-02 11:50_
+_Updated: 2026-06-02 16:38_
 
-- US justice department halts 'anti-weaponisation' fund after court ruling - BBC
-- Russia Launches Deadly Strikes on Ukraine - The New York Times
-- Trump reins in Netanyahu over Lebanon after Iran threatens to quit talks - Axios
-- Democrats fret Graham Platner could cost them — and not just in Maine - Politico
-- The mystery behind Becerra leapfrogging over his rivals in California’s governor’s race - Los Angeles Times
-- Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera
-- South Carolina store owner acquitted of murder in 2023 killing of Black teen wrongly suspected of shoplifting - CBS News
-- Hurricane season begins, with the first below-average forecast in a decade - NBC News
-- Former North Carolina officer seen in video repeatedly punching woman during arrest charged with assault - ABC News - Breaking News, Latest News and Videos
-- Trump Administration Announces Stricter Rules for Medicaid Work Requirement - The New York Times
-- Minister due to speak after Mandelson messages reveal criticism of Starmer government - BBC
-- EU approves strictest-ever migration law, including return hubs - Euronews.com
-- IDF doctor killed, 7 hurt by Hezbollah drone attack in southern Lebanon - The Times of Israel
+- Trump names William Pulte as acting director of national intelligence - NBC News
+- Russia launches 'horrific' drone, missile strikes on Ukraine, killing 17: Officials - ABC News - Breaking News, Latest News and Videos
+- Tuesday is a big primary day. Here are key races to watch - NPR
+- Trump Backs Off Plan for $1.8 Billion Fund That Drew Political Backlash - The New York Times
+- California votes in primary to pick new governor, and maybe tip balance in Congress - Reuters
+- Massive Russian air attack on Ukraine kills at least 12 people - politico.eu
+- California Election Live Updates: Governor's Race to Succeed Newsom Headlines Primary Battles - The New York Times
+- Police in Iowa say they think man shot and killed 6 relatives, then himself - CBS News
+- The Former AOC Staffer Gunning For Nancy Pelosi's Seat - HuffPost
+- Capitol agenda: Trump officials try to calm ‘ slush’ fund fury - Politico
+- Released Mandelson messages 'embarrassing', says minister, but defends government record - BBC
+- EU strikes migration deal for more deportations and detention centers abroad - NPR
+- A bear injures 4 people in a residential area of Japan as the annual number of attacks rises - ABC News - Breaking News, Latest News and Videos
 - ‘A shock to all Lebanese’: Israel sends a message as it takes ancient fort - The Guardian
-- AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork - NPR
-- Alphabet to Issue $80 Billion of Equity for AI Buildout. Berkshire to Buy $10 Billion. - Barron's
-- Global shares mostly gain as Trump claims Israel and Hezbollah agree to tone down fighting - AP News
-- Andrew Left Found Guilty in Case That Spooked Short Sellers - Yahoo Finance
+- Anthropic faces AI spending backlash before IPO - Axios
+- ‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - The Conversation
+- S&P 500 is little changed Tuesday as Alphabet slides: Live updates - CNBC
+- Berkshire, under new CEO Greg Abel, invests $16.8 billion in two days - Reuters
 - Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch
-- New iPhone 18 Pro battery leak just changed the story for non-US buyers - Notebookcheck
+- Gemini Spark is the most impressive and terrifying AI experience I’ve had yet - The Verge
