@@ -1,59 +1,60 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-02 19:02_
+_Updated: 2026-06-02 22:25_
 
 ## Top Stories
 
-- SD-ledamot utreds för barnpornografibrott – lämnar uppdrag - SVT Nyheter
-- Minst elva döda efter ryska attacker mot Ukraina - GP
-- Han blir först i Västerås att sälja öl – utan varm mat - VLT
-- Källor: USA vill placera kärnvapen på fler håll i Europa - Dagens Nyheter
-- ”Personlighetstesterna fungerar dåligt” - Aftonbladet
-- Bil och lastbil i frontalkrock - Expressen
+- SD-ledamot stängs av – uppgift om brottsmisstankar - GP
+- Natalya om dödliga ryska attacken: ”Kände tryckvågen” - Hufvudstadsbladet – HBL
+- Man död efter frontalkrock med lastbil utanför Lidköping - SVT Nyheter
+- Rådgivarna varnar Putin – föreslår kapade försvarsutgifter - EFN
+- DN Direkt – Förslaget: 15-årsgräns för sociala medier - Dagens Nyheter
+- ”4+2” i Danmarks nya styre - Västerbottens-Kuriren
 - Liberalerna presenterar valmanifest 2026: ”För din frihet” - Liberalerna
-- DN Direkt – 21-åring överklagar dom efter trippelmordet i Uppsala - Dagens Nyheter
-- Lurade Umeå kommun på assistans – åtta personer döms - SVT Nyheter
-- JUST NU: Pojke försvunnen – polisen går ut med bild - Marcus Oscarsson
-- Plötsligt flygstopp i Belgien - Aftonbladet
-- Frederiksen: Klart för ny regering - Västerbottens-Kuriren
+- Kvinna död – polisen utreder mord i Örebro - SVT Nyheter
+- Stockholm ska jaga p-syndare med hjälp av AI - Dagens Nyheter
+- Remiss av utkast till lagrådsremiss Tillfälligt utökade möjligheter för vissa anhöriginvandrare att ansöka om uppehållstillstånd inifrån Sverige - Regeringen.se
+- Norska prinsessan på väg hem till sjuka Mette-Marit - Hufvudstadsbladet – HBL
+- Shanghai först i Kina med resor till Taiwan på egen hand - Sveriges Radio
 - Rubio: Mojtaba Khamenei lever – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Politico: Ukraina får börja EU-förhandla 15 juni - Corren
+- Zelenskyj varnar för nya attacker: ”Kan ske i natt” - Omni
 - Miljontals svenskar blir delägare i Musks Space X - Omni
 - Kraftig höjning av dieselpriset - Aftonbladet
-- Affärsvärlden ger ett neutralt råd för Hexagon - Affärsvärlden
-- Accelerationskontoret föreslår åtgärder för att stärka kommuners förutsättningar att ta emot stora företagsetableringar - Regeringen.se
+- Källa: Folksam väntas få Alecta-liknande sanktion - Affärsvärlden
+- "Inte över än": Spelet bakom Saabs Kanada-affär - Dagens PS
 - Nvidia: Intåg på PC-marknaden tillkännagavs på Computex; aktierna är undervärderade - Morningstar
-- Butiksägare i bråk med personal – döms igen - Nya Wermlands-Tidningen
+- Kosmiska kastvindar avslöjar mystiska magnetfält - Forskning.se
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:20 - TV.nu
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Naver Cloud, Nvidia to join hands to build global AI factory: CEO - Yonhap News Agency
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:20 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Naver Cloud, Nvidia to join hands to build global AI factory: CEO - Yonhap News Agency
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Sivers i nytt samarbete med amerikanskt bolag - Dagens industri
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Sivers ska samarbeta med Global Foundries - Privata Affärer
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Euron får status som säker hamn mitt i global osäkerhet - Investing.com Sverige
 
 ## Technology
 
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Den högst rankade kvinnliga AI-studenten kommer från en självlärd bakgrund. - Vietnam.vn
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -64,12 +65,11 @@ _Updated: 2026-06-02 19:02_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -81,13 +81,13 @@ _Updated: 2026-06-02 19:02_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - En fjärdedel av de som använder GenAI på jobbet betalar för det själva - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -98,44 +98,44 @@ _Updated: 2026-06-02 19:02_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
-- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
 - Vi presenterar HealthBench - OpenAI
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar ChatGPT Health - OpenAI
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Vetenskaplig workshop om ämnet "Forskning om provplantering och utvärdering av anpassningsförmågan hos vissa macadamiasorter/stammar i Son La-provinsen" - Vietnam.vn
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- 5 myter om öppen vetenskap - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
