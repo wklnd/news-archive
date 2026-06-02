@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-02 16:38_
+_Updated: 2026-06-02 20:23_
 
-- Trump names William Pulte as acting director of national intelligence - NBC News
-- Russia launches 'horrific' drone, missile strikes on Ukraine, killing 17: Officials - ABC News - Breaking News, Latest News and Videos
-- Tuesday is a big primary day. Here are key races to watch - NPR
-- Trump Backs Off Plan for $1.8 Billion Fund That Drew Political Backlash - The New York Times
+- Trump names Bill Pulte acting director of national intelligence - Politico
+- California's primary for governor, LA mayor's race and more primaries to watch today - CBS News
+- Rubio details U.S. demands as Iran peace talks falter - The Washington Post
+- PROMOTING ADVANCED ARTIFICIAL INTELLIGENCE INNOVATION AND SECURITY - The White House (.gov)
+- Live Results: California midterm primaries - PBS
 - California votes in primary to pick new governor, and maybe tip balance in Congress - Reuters
-- Massive Russian air attack on Ukraine kills at least 12 people - politico.eu
-- California Election Live Updates: Governor's Race to Succeed Newsom Headlines Primary Battles - The New York Times
 - Police in Iowa say they think man shot and killed 6 relatives, then himself - CBS News
-- The Former AOC Staffer Gunning For Nancy Pelosi's Seat - HuffPost
+- Trump to Get Audit Immunity as $1.8 Billion Fund in Doubt - Bloomberg.com
+- White House Correspondents' Dinner rescheduled for July 24 after shooting disrupted initial event - CBS News
 - Capitol agenda: Trump officials try to calm ‘ slush’ fund fury - Politico
-- Released Mandelson messages 'embarrassing', says minister, but defends government record - BBC
+- Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week - The New York Times
 - EU strikes migration deal for more deportations and detention centers abroad - NPR
-- A bear injures 4 people in a residential area of Japan as the annual number of attacks rises - ABC News - Breaking News, Latest News and Videos
-- ‘A shock to all Lebanese’: Israel sends a message as it takes ancient fort - The Guardian
+- American soldier and British soldier die in training accident in Iraq - CBS News
+- Ultra-Orthodox protesters block roads and trains across Israel over military draft - NPR
 - Anthropic faces AI spending backlash before IPO - Axios
-- ‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety - The Conversation
-- S&P 500 is little changed Tuesday as Alphabet slides: Live updates - CNBC
-- Berkshire, under new CEO Greg Abel, invests $16.8 billion in two days - Reuters
+- Short seller Andrew Left convicted of securities fraud - AP News
+- Bra Sales Power Victoria’s Secret Turnaround and Shares Soar - WSJ
+- Stock Market News June 1, 2026: Dow, S&P 500 log longest winning streaks of 2026, joining Nasdaq at record highs, as Trump says Iran talks are back on - MarketWatch
 - Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP - TechCrunch
-- Gemini Spark is the most impressive and terrifying AI experience I’ve had yet - The Verge
+- What’s new in Android’s June 2026 Google System Updates - 9to5Google
