@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-03 01:20_
+_Updated: 2026-06-03 04:12_
 
 - Trump’s $1.8bn ‘anti-weaponization’ fund scrapped, acting attorney general Todd Blanche confirms – as it happened - The Guardian
-- Trump picks mortgage chief Bill Pulte to lead on national intelligence - The Washington Post
-- Trump, Rubio say talks with Tehran ongoing despite Iranian media claims otherwise - CNBC
-- 5 things to watch in Tuesday’s primaries - Politico
-- UK police under pressure after dying student was handcuffed - Reuters
-- California Governor Primary Election 2026 Live Results - NBC News
-- New Jersey governor’s attempt to ‘lower the temperature’ is drawing heat instead - Politico
-- Florida lawmakers approve property tax cut proposal, measure heads to November ballot - WPTV
-- Trump endorses mysteriously missing congressman Tom Kean Jr - BBC
-- New York police investigate mysterious cases of people coming out of manholes - The Guardian
-- Kyiv picks up the pieces after another attack by Russia – photo essay - The Guardian
+- Polls start to close as voters across U.S. pick candidates for governor, Congress - NPR
+- Rubio details U.S. demands as Iran peace talks falter - The Washington Post
+- New Jersey Rep. Tom Kean Jr. says he's 'energized' but appears to push back timeline for return - Politico
+- US says it fired missile at Iran-bound oil tanker - BBC
+- Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK - The New York Times
+- Polls of California Governor’s Race Show a Clear Top 3 - The New York Times
+- Man takes hostages at California bank as bomb threat prompts evacuations - NBC News
+- Supreme Court allows Alabama to use congressional map that dilutes Black vote - CNBC
+- Florida Property Tax Cut Raises Questions Over Who Pays the Bill - Newsweek
+- Russian attack on Ukraine kills 22 people, officials say, as Moscow escalates fighting - NPR
+- Australia must engage with Solomon Islands with mutual respect. It’s about so much more than keeping Beijing at bay - The Guardian
 - Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera
 - American soldier and British soldier die in training accident in Iraq - CBS News
-- EU strikes migration deal for more deportations and detention centers abroad - NPR
-- Exclusive: SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say - Reuters
-- Goldman’s David Solomon sees ‘more greed than there is fear’ on Wall Street - Financial Times
-- Bra Sales Power Victoria’s Secret Turnaround and Shares Soar - WSJ
-- Economic Fury Targets Iran’s Largest Digital Asset Exchange for Terror Finance and Sanctions Evasion - U.S. Department of the Treasury (.gov)
+- Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author - CNBC
+- US sanctions Iran's largest crypto exchange over IRGC links - Reuters
+- Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook - CNBC
+- Paramount Lawyer Claims Warner Bros. Deal Opponents Have 'Antisemitic Views' - Variety
 - Microsoft's Surface RTX Spark Dev Box Will Handle Tougher AI Workloads - Engadget
-- Microsoft Build 2026: The 7 biggest announcements - The Verge
+- Microsoft testing wearable AI gadget aimed at office workers - BBC
