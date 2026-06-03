@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-03 04:12_
+_Updated: 2026-06-03 09:25_
 
-- Trump’s $1.8bn ‘anti-weaponization’ fund scrapped, acting attorney general Todd Blanche confirms – as it happened - The Guardian
-- Polls start to close as voters across U.S. pick candidates for governor, Congress - NPR
-- Rubio details U.S. demands as Iran peace talks falter - The Washington Post
-- New Jersey Rep. Tom Kean Jr. says he's 'energized' but appears to push back timeline for return - Politico
-- US says it fired missile at Iran-bound oil tanker - BBC
+- California primary election results: Becerra, Hilton neck and neck in early results; Bass advances - ABC7 Los Angeles
+- Trump-backed Rep. Randy Feenstra loses Iowa governor primary - Politico
+- Why Trump’s payout fund was too much for Republicans - The Washington Post
+- Live updates: Iran targets Kuwait and Bahrain as US conducts new strikes in latest test of peace talks - CNN
+- Voters select candidates in key House districts that could decide the majority - NBC News
+- Scott Wiener Advances in House Race to Succeed Nancy Pelosi - The New York Times
+- Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots - The Guardian
+- 2 hostages released after man barricaded himself inside California bank with others, police say - ABC7 Los Angeles
+- Tom Kean Jr: Missing congressman wins primary after Trump endorsement - BBC
+- Schumer shares few details on meeting with Platner - Live Updates - Politico
 - Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK - The New York Times
-- Polls of California Governor’s Race Show a Clear Top 3 - The New York Times
-- Man takes hostages at California bank as bomb threat prompts evacuations - NBC News
-- Supreme Court allows Alabama to use congressional map that dilutes Black vote - CNBC
-- Florida Property Tax Cut Raises Questions Over Who Pays the Bill - Newsweek
-- Russian attack on Ukraine kills 22 people, officials say, as Moscow escalates fighting - NPR
-- Australia must engage with Solomon Islands with mutual respect. It’s about so much more than keeping Beijing at bay - The Guardian
+- What to Know About South Korea’s Elections - The New York Times
 - Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera
-- American soldier and British soldier die in training accident in Iraq - CBS News
-- Fed Chair Warsh makes first hires at central bank, including ‘Project 2025’ author - CNBC
-- US sanctions Iran's largest crypto exchange over IRGC links - Reuters
-- Ulta shares pop as beauty retailer beats Wall Street expectations and hikes earnings outlook - CNBC
-- Paramount Lawyer Claims Warner Bros. Deal Opponents Have 'Antisemitic Views' - Variety
-- Microsoft's Surface RTX Spark Dev Box Will Handle Tougher AI Workloads - Engadget
+- Scenes from the aftermath of Russia's latest massive attack on Kyiv - NPR
+- SpaceX Seeks $75 Billion in IPO at $135 Per Share, Reuters Says - Bloomberg.com
+- Japan's Nikkei hits record high as Asia markets rise amid Middle East concerns - CNBC
+- America has six years to fix its disappearing Social Security trust fund - The Economist
+- Exclusive | Warsh Names Two Conservative Policy Veterans as Interim Fed Advisers - WSJ
 - Microsoft testing wearable AI gadget aimed at office workers - BBC
+- Microsoft's Surface RTX Spark Dev Box Will Handle Tougher AI Workloads - Engadget
