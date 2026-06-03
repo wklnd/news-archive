@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-03 19:32_
+_Updated: 2026-06-03 22:41_
 
 - Steve Hilton and Xavier Becerra lead California governor primary vote count - BBC
 - Nine takeaways from a big primary night in Iowa, California and more - The Washington Post
-- Live Updates: Iran launches deadly attack on Kuwait airport after U.S. strikes, as Trump says talks ongoing - CBS News
-- FBI agents fatally shoot alleged hostage-taker in California - Al Jazeera
+- L.A. Mayor Bass will face either Spencer Pratt or Nithya Raman in Nov. 3 runoff - Los Angeles Times
+- Iran War Live Updates: Kuwait Says One Killed and Dozens Injured in Iranian Attack on Airport - The New York Times
 - Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban - Yahoo Finance
-- MAHA candidate beats Trump’s choice in Republican primary for Iowa governor - AP News
-- Big Tech’s big flop on primary night - Politico
-- President Trump seeks control of science funding - NPR
+- Ukraine drones hit Saint Petersburg as economic forum starts - DW.com
 - Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran - AP News
-- New Intelligence Role Puts Bill Pulte’s Housing Agenda in Doubt - The New York Times
-- Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum - AP News
-- EU slams Trump’s forced labor tariff as ‘unjustified’ - politico.eu
-- U.K. government condemns violence at protest over teen’s stabbing death - NBC News
-- A bear injures 4 people in a residential area of Japan as attacks rise - Boston.com
+- FBI agents fatally shoot alleged hostage-taker in California - Al Jazeera
+- Big Tech’s big flop on primary night - Politico
+- Rubio Says Trump Was Aware of Iran War Economic Fallout Risks - Bloomberg.com
+- UK government condemns violence at protest over teen’s stabbing death - AP News
+- Trump to impose tariffs on dozens of nations, citing claims of forced labor - The Washington Post
+- 8 bodies found in plastic bags with note left at scene in narco-trafficking hotspot in Ecuador - CBS News
+- Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border - BBC
 - EU plots long game against US digital supremacy - politico.eu
-- Dow falls 400 points as oil prices and bond yields creep higher: Live updates - CNBC
 - Sellers are pulling homes off the market at the fastest pace since 2020 - CNBC
-- Exclusive | Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round - WSJ
+- Stock market today: Dow falls over 425 points, Nasdaq trades lower and S&P 500’s 9-day win streak under threat as tech sells off - MarketWatch
+- New forecasts lay out 2 rocky paths for global economy - Axios
 - A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box - The Verge
-- Supernatural isn’t dead after all - The Verge
+- Buzz For A June Nintendo Direct Is Building As Switch 2 Turns One - Kotaku
