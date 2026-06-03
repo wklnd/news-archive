@@ -36,7 +36,7 @@ class NewsAnalyzer:
             "confirm", "confirmed", "confirms",
             "claim", "claims", "claimed",
             "update", "updated", "updates",
-            "warn", "warning", "warned",
+            "warn", "warning", "warned", "his",
             "reveal", "reveals", "revealed",
             "urge", "urges", "urged",
             "allege", "alleged", "alleges",
