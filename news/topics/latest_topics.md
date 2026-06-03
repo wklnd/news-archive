@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-03 02:13_
+_Updated: 2026-06-03 07:26_
 
 ## Top Stories
 
-- Biljakt efter misstänkt grovt brott i Nynäshamn – två skadade - SVT Nyheter
-- SD-ledamot stängs av – uppgift om brottsmisstankar - Västerbottens-Kuriren
-- Oligarkpanik: Gör uppror mot Putin - Aftonbladet
-- Så tar sig ryska robotar förbi luftvärnet: ”Kostar mycket” - Dagens Nyheter
-- Skottlossning mot bostad i Hässelby - Sveriges Radio
-- Michael Winiarski: Armeniens svåra val mellan Ryssland och Europa - Dagens Nyheter
+- Polis har skjutit ihjäl misstänkt efter biljakt - GP
+- Skott mot bostad i Stockholm – två gripna - Västerbottens-Kuriren
+- SD-ledamot utreds för barnpornografibrott – lämnar riksdagen - Altinget.se
+- Attackerna beskrivs som mest intensiva på länge – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Barn dödat i israeliska attacker - GP
+- Nattliga attacker mellan USA och Iran - GP
+- Liberalerna presenterar valmanifest 2026: ”För din frihet” - Liberalerna
 - Kvinna död – polisen utreder mord i Örebro - SVT Nyheter
-- Liberalernas valmanifest 2026 - Liberalerna
-- Förslaget: 15-årsgräns för sociala medier - Dagens Nyheter
-- Pressträff för att presentera lagförslag för anhöriginvandring - Regeringen.se
-- Norska prinsessan på väg hem till sjuka Mette-Marit - Hufvudstadsbladet – HBL
-- Ungerns vändning: Kan öppna för att släppa in Ukraina i EU - GP
-- Barn dödat i israeliska attacker - Västerbottens-Kuriren
-- Ryssland tappade mark trots rekordmånga anfall - Omni
-- Källor: Gripen-affären med Kanada kan redan vara klar - Realtid
-- Stockholmsbörsen återhämtade sig - Folkbladet
-- Miljontals svenskar blir delägare i Musks Space X - Omni
-- Trump uppger att samtal pågår – oljan stiger: ”Det är dags” - EFN
-- Nvidias AI-superdator för skrivbordet kan köra modeller med en biljon parametrar - Computer Sweden
-- ”Ena barnet gjorde vinst – hur gör vi med andra?” - Svenska Dagbladet
+- Insändare. Förstärk strandskyddet för att tygla vår egoism - Dagens Nyheter
+- Remiss av utkast till lagrådsremiss Tillfälligt utökade möjligheter för vissa anhöriginvandrare att ansöka om uppehållstillstånd inifrån Sverige - Regeringen.se
+- Familjer i ovisshet i Sri Lanka - Sveriges Radio
+- Gisslandrama på bank i Bakersfield i USA - SVT Nyheter
+- Bill Pulte jagade fiender åt Trump – blir chef för underrättelsetjänsten - Dagens Nyheter
+- Politico: Ukraina får börja EU-förhandla 15 juni - Västerbottens-Kuriren
+- SpaceX IPO-villkor väntas onsdag – siktar på värdering av 1 800 miljarder USD - Investing.com Sverige
+- Efter Trumps hot: EU ska minska USA-beroende i molnet - Aftonbladet
+- Uppåt i Japan – Nikkei 225 sätter rekord - Västerbottens-Kuriren
+- Börsen tog revansch med verkstad i topp - Privata Affärer
+- Nvidia: Intåg på PC-marknaden tillkännagavs på Computex; aktierna är undervärderade - Morningstar
+- Var med i MoDo Hockeys Midsommarlotteri! - MoDo Hockey
 
 ## World News
 
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:20 - Tv.nu
-- Sivers i nytt samarbete med amerikanskt bolag - Dagens industri
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GT World Challenge Asia, Sepang International Circuit, Malaysia på idag 13:20 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Naver Cloud, Nvidia to join hands to build global AI factory: CEO - Yonhap News Agency
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Sivers i nytt samarbete med amerikanskt bolag - Dagens industri
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Euron får status som säker hamn mitt i global osäkerhet - Investing.com Sverige
 
 ## Technology
 
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Öppning av den specialiserade Techmart-butiken för "Applikationsprodukter för artificiell intelligens" - Vietnam.vn
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Tech Tuesday på temat ”Edge intelligence: from theory to practice” - Stockholms universitet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Bästa AI-aktierna att köpa nu - Morningstar
-- Abozar Nasirahmadi, professor i digitalisering med inriktning mot jordbrukets teknologi - Sveriges lantbruksuniversitet (SLU)
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Är chattbotar verkligen avgörande för Sveriges framtid? - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Långa meningar och dålig grammatik räcker för att lura LLM:er - Computer Sweden
 
 ## Business
 
@@ -80,14 +80,14 @@ _Updated: 2026-06-03 02:13_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- En fjärdedel av de som använder GenAI på jobbet betalar för det själva - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- En fjärdedel av de som använder GenAI på jobbet betalar för det själva - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -97,48 +97,48 @@ _Updated: 2026-06-03 02:13_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Centrum för katastrofmedicin flyttar till innovationsmiljön på Medicinareberget - Mynewsdesk
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Forskare: Farliga missar med Chat GPT:s nya hälsoverktyg - Dagens Medicin
 - E-hälsa inom EU - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Centre for Health Governance får finansiering för flera nya forskningsprojekt om framtidens vård - Göteborgs universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Patientrapporterade utfallsmått bör användas mer i vården - Läkartidningen
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Life science-profil ansluter nu till Diamyd Medical i Umeå - it-halsa.se
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Digital workshop: Informationsdriven vård med AI - Göteborgs universitet
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 
 ## Science
 
 - Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Vetenskaplig workshop om ämnet "Forskning om provplantering och utvärdering av anpassningsförmågan hos vissa macadamiasorter/stammar i Son La-provinsen" - Vietnam.vn
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Olika slutsatser från samma data - Läkartidningen
-- Internationella dagen för kvinnor och flickor inom vetenskapen - Shaping Europe’s digital future
+- Forskningen ska vara fri - European Commission
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -149,16 +149,16 @@ _Updated: 2026-06-03 02:13_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk är här - Shaping Europe’s digital future
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Jordbruk – EU-politik | Europeiska unionen - european-union.europa.eu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
