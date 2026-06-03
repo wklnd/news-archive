@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-03 14:24_
+_Updated: 2026-06-03 19:32_
 
-- California primary election results: Becerra, Hilton neck and neck in early results - ABC7 Los Angeles
-- US primary voters choose midterm candidates as Democrats look to flip key seats - The Guardian
-- Live Updates: Iran attack on Kuwait kills 1 after latest U.S. strikes, and as Trump says talks ongoing - CBS News
-- Trump-backed Rep. Randy Feenstra loses Iowa governor primary - Politico
-- US announces new tariffs over forced labour concerns - BBC
-- Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit - NPR
-- 2 hostages released after man barricaded himself inside California bank with others, police say - ABC7 Los Angeles
-- How Trump’s new acting intel chief Bill Pulte won him over - Politico
+- Steve Hilton and Xavier Becerra lead California governor primary vote count - BBC
+- Nine takeaways from a big primary night in Iowa, California and more - The Washington Post
+- Live Updates: Iran launches deadly attack on Kuwait airport after U.S. strikes, as Trump says talks ongoing - CBS News
+- FBI agents fatally shoot alleged hostage-taker in California - Al Jazeera
 - Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban - Yahoo Finance
-- Ashley Hinson Wins the Republican Senate Primary in Iowa - The New York Times
-- UK protests after Henry Nowak murder; Starmer hits out at Farage - Euronews
-- Thousands protest in Albania against Jared Kushner-linked resort project - The Times of Israel
-- Lebanon's World Heritage Sites Endangered Amid Ongoing War - ArchDaily
-- Scenes from the aftermath of Russia's latest massive attack on Kyiv - NPR
-- Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries - CNBC
-- Investors would be crazy to turn bearish on stocks now, says veteran strategist. Maybe not, in six months. - MarketWatch
-- Meta Will Reportedly Let Employees Take 30-Minute Breaks From Its Tracking Program - Engadget
-- Google will let websites opt-out of AI Mode & Overviews in Search - 9to5Google
-- Microsoft testing wearable AI gadget aimed at office workers - BBC
-- Google releases Fitbit Air blueprints to let anyone make bands, accessories - 9to5Google
+- MAHA candidate beats Trump’s choice in Republican primary for Iowa governor - AP News
+- Big Tech’s big flop on primary night - Politico
+- President Trump seeks control of science funding - NPR
+- Trump acknowledges calling Netanyahu 'crazy' and says Israel is complicating peace talks with Iran - AP News
+- New Intelligence Role Puts Bill Pulte’s Housing Agenda in Doubt - The New York Times
+- Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum - AP News
+- EU slams Trump’s forced labor tariff as ‘unjustified’ - politico.eu
+- U.K. government condemns violence at protest over teen’s stabbing death - NBC News
+- A bear injures 4 people in a residential area of Japan as attacks rise - Boston.com
+- EU plots long game against US digital supremacy - politico.eu
+- Dow falls 400 points as oil prices and bond yields creep higher: Live updates - CNBC
+- Sellers are pulling homes off the market at the fastest pace since 2020 - CNBC
+- Exclusive | Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round - WSJ
+- A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box - The Verge
+- Supernatural isn’t dead after all - The Verge
