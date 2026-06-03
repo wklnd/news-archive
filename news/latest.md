@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-03 09:25_
+_Updated: 2026-06-03 14:24_
 
-- California primary election results: Becerra, Hilton neck and neck in early results; Bass advances - ABC7 Los Angeles
+- California primary election results: Becerra, Hilton neck and neck in early results - ABC7 Los Angeles
+- US primary voters choose midterm candidates as Democrats look to flip key seats - The Guardian
+- Live Updates: Iran attack on Kuwait kills 1 after latest U.S. strikes, and as Trump says talks ongoing - CBS News
 - Trump-backed Rep. Randy Feenstra loses Iowa governor primary - Politico
-- Why Trump’s payout fund was too much for Republicans - The Washington Post
-- Live updates: Iran targets Kuwait and Bahrain as US conducts new strikes in latest test of peace talks - CNN
-- Voters select candidates in key House districts that could decide the majority - NBC News
-- Scott Wiener Advances in House Race to Succeed Nancy Pelosi - The New York Times
-- Midterm primaries 2026 live: results and reaction as six states including California and Iowa cast ballots - The Guardian
+- US announces new tariffs over forced labour concerns - BBC
+- Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit - NPR
 - 2 hostages released after man barricaded himself inside California bank with others, police say - ABC7 Los Angeles
-- Tom Kean Jr: Missing congressman wins primary after Trump endorsement - BBC
-- Schumer shares few details on meeting with Platner - Live Updates - Politico
-- Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK - The New York Times
-- What to Know About South Korea’s Elections - The New York Times
-- Celebration, shock and scepticism follow Colombia’s presidential election - Al Jazeera
+- How Trump’s new acting intel chief Bill Pulte won him over - Politico
+- Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban - Yahoo Finance
+- Ashley Hinson Wins the Republican Senate Primary in Iowa - The New York Times
+- UK protests after Henry Nowak murder; Starmer hits out at Farage - Euronews
+- Thousands protest in Albania against Jared Kushner-linked resort project - The Times of Israel
+- Lebanon's World Heritage Sites Endangered Amid Ongoing War - ArchDaily
 - Scenes from the aftermath of Russia's latest massive attack on Kyiv - NPR
-- SpaceX Seeks $75 Billion in IPO at $135 Per Share, Reuters Says - Bloomberg.com
-- Japan's Nikkei hits record high as Asia markets rise amid Middle East concerns - CNBC
-- America has six years to fix its disappearing Social Security trust fund - The Economist
-- Exclusive | Warsh Names Two Conservative Policy Veterans as Interim Fed Advisers - WSJ
+- Macy's posts strongest Q1 growth in four years, raises guidance despite consumer worries - CNBC
+- Investors would be crazy to turn bearish on stocks now, says veteran strategist. Maybe not, in six months. - MarketWatch
+- Meta Will Reportedly Let Employees Take 30-Minute Breaks From Its Tracking Program - Engadget
+- Google will let websites opt-out of AI Mode & Overviews in Search - 9to5Google
 - Microsoft testing wearable AI gadget aimed at office workers - BBC
-- Microsoft's Surface RTX Spark Dev Box Will Handle Tougher AI Workloads - Engadget
+- Google releases Fitbit Air blueprints to let anyone make bands, accessories - 9to5Google
