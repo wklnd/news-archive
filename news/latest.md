@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-04 00:52_
+_Updated: 2026-06-04 04:09_
 
-- House votes to rebuke Trump over war with Iran - NBC News
-- Steve Hilton and Xavier Becerra lead California governor primary vote count - BBC
-- L.A. Mayor Bass will face either Spencer Pratt or Nithya Raman in Nov. 3 runoff - Los Angeles Times
-- Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city - The Guardian
-- Rubio Says Trump Was Aware of Iran War Economic Fallout Risks - Bloomberg.com
+- US House passes Iran war powers resolution in rare pushback against Trump - Al Jazeera
+- Live Updates: California primary election results for key 2026 races including governor, LA mayor and more - CBS News
 - Iran War Live Updates: Kuwait Says One Killed and Dozens Injured in Iranian Attack on Airport - The New York Times
-- FBI agents fatally shoot alleged hostage-taker in California - Al Jazeera
-- Middle East crisis live: Trump claims peace deal with Iran could be reached ‘over the weekend’ as Iran claims it struck US ship - The Guardian
-- G.O.P. Revives Immigration Bill, Weighing Ban on Trump’s Fund - The New York Times
-- Trump confirms he called Netanyahu crazy in phone call - Reuters
-- Trump to impose tariffs on dozens of nations, citing claims of forced labor - The Washington Post
-- UK government condemns violence at protest over teen’s stabbing death - AP News
+- Ukraine hits oil refinery as Russia opens St. Petersburg economic forum - The Washington Post
+- Senate begins voting on funding immigration enforcement after Trump's settlement fund is dropped - AP News
+- MAHA candidate beats Trump’s choice in Republican primary for Iowa governor - AP News
+- FBI fatally shoots suspect after 10 hostages held in hours-long California standoff - KOMO
+- Ohio State University reaches $100 million settlement in sex abuse lawsuits - NBC News
+- Sonia Sotomayor Bluntly Exposed the Supreme Court’s Latest Voting Rights Lie - Slate
+- ‘I Love It’: Trump Is Still in Favor of $1.8 Billion Payout Fund - The New York Times
 - Germany fails to win UN Security Council seat in major diplomatic setback for Merz - politico.eu
-- 8 bodies found in plastic bags with note left at scene in narco-trafficking hotspot in Ecuador - CBS News
-- SpaceX Targets IPO Price of $135, Raising $75 Billion - Barron's
-- Broadcom Stock Slides Despite AI-Fueled Beat-And-Raise Report - Investor's Business Daily
-- EU plots long game against US digital supremacy - politico.eu
-- Google pushes water standards amid data center backlash - Axios
-- A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box - The Verge
-- Buzz For A June Nintendo Direct Is Building As Switch 2 Turns One - Kotaku
+- Cruise ship passenger found dead on Caribbean island after vanishing during hike - CBS News
+- Trump to impose tariffs on dozens of nations, citing claims of forced labor - The Washington Post
+- Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border - BBC
+- SpaceX IPO to Be Largest Ever at $135 Share Price - The New York Times
+- Google says it will replenish more water than it uses at data centers amid public pushback - 9to5Google
+- From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries - BBC
+- S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates - CNBC
+- Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch
+- Apple Says macOS 27 Won't Be Compatible With These Macs - MacRumors
