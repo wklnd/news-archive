@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-04 17:59_
+_Updated: 2026-06-04 20:34_
 
 ## Top Stories
 
-- DN Direkt – Lokala M-toppen: Bryt med Liberalerna - Dagens Nyheter
-- Man misstänkt för delaktighet i mord gripen i Irak - Polisen.se
+- Håkan Boström: Stirra er inte helt blinda på Magdamoderaterna - GP
+- Skottskadad man träffades av rikoschett på skjutbana - Omni
 - Dadgostar om V-kandidaterna: Bra att de lämnar - Västerbottens-Kuriren
-- Gänglexikon avslöjar våldet bakom vanliga emojier - Dagens Nyheter
-- Mette-Marit på sjukhus - SVT Nyheter
-- Man skottskadad på skjutbana – förd till sjukhus - GP
-- Wangen inför rätta – kallar sig ”massmördare” i mejl - Dagens Nyheter
-- Person påkörd av spårvagn vid Sahlgrenska – förd till sjukhus - Sveriges Radio
-- 15 kandidater har strukits från V-listor – Senaste nytt om valet 2026 - SVT Nyheter
-- DEBATT: M: Nu stoppar vi tonårsutvisningarna - Norran
-- Stora protester mot Trumps svärsons lyxprojekt i Europa - GP
-- Baltiska varningen: Då kan Ryssland anfalla - Hufvudstadsbladet – HBL
-- Representanthuset röstar mot Trump om Iran - Västerbottens-Kuriren
+- DN Direkt – Mette-Marit på sjukhus - Dagens Nyheter
+- Ulf Kristersson om Magdalena Anderssons invit: Löjligt - Aftonbladet
+- Putin: Vill se full demilitarisering av Ukraina - Aftonbladet
+- Man misstänkt för delaktighet i mord gripen i Irak - Polisen.se
+- Foxtrot-topp efterlyst i Norge för flera våldsbrott - GP
+- Kriminalvårdare festade med vapen: ”Guns and violence” - Dagens Nyheter
+- Kritik mot M-löfte om 18-årsgräns på Systembolaget - Dagens Nyheter
 - Sherpa antogs död – ”kröp” nedför Mount Everest - Västerbottens-Kuriren
+- EU ger nytt stödpaket till Libanons militär - GP
+- ”Vansinnigt” – svenska ilskan mot ryska turister - Västerbottens-Kuriren
+- Fyra bärplockare brändes ihjäl i Italien – misstänks vara offer för gängkriminalitet - Dagens Nyheter
+- Spacex fastställer teckningskurs till 175 dollar inför IPO - första handelsdag 12 juni - Börsvärlden
+- Dåligt förhandlat av Intrums styrelse - Affärsvärlden
 - Kainz Rognerud om inflationen: De kommer behöva höja priserna - Sveriges Radio
-- IPO-guiden hissar en flagga inför Nordtechs notering - Affärsvärlden
-- Intrum fastställer teckningskurs för kapitalanskaffning - massiv utspädning - Placera.se
-- Huspriserna rusar i vissa kommuner - faller i andra - Byggahus.se
+- Oregelbundet på Stockholmsbörsen - Placera.se
 - Nintendo gör om Switch 2 i Europa – nytt krav på enkelt batteribyte - dopest.se
-- Din laptop blir en personlig AI-assistent – Nvidia är redo, men är marknaden? - Dagens PS
+- Varför Nvidia-aktien faller omkring 3% i dag - Invezz
 
 ## World News
 
 - Ytterligare 15 gripna i global knarkhärva - Aftonbladet
-- GT World Challenge America, Sebring International Raceway på inatt 05:20 - TV.nu
 - GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:35 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - OECD befarar global recession – men Sverige växer - Svenska Dagbladet
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Sivers i nytt samarbete med amerikanskt bolag - Dagens industri
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Visual Art köper Global Agencies - Dagens Media
-- Global Thought Leaders are heading the charge into a transformed world - PR Newswire
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- WPP samlar produktion i ny global enhet - Dagens Media
 
 ## Technology
 
@@ -74,7 +74,6 @@ _Updated: 2026-06-04 17:59_
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
@@ -82,17 +81,18 @@ _Updated: 2026-06-04 17:59_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - En fjärdedel av de som använder GenAI på jobbet betalar för det själva - Deloitte
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Isabella Lövin ny krönikör för Dagens Industri - Stockholm Environment Institute
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Rankona Mazon and ICROSS® Partner Up to Boost Global Fishing Industry - Mynewsdesk
 
 ## Health
 
@@ -119,26 +119,26 @@ _Updated: 2026-06-04 17:59_
 
 ## Science
 
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Rapporter hos andra – Högre utbildning och forskning som studieobjekt (HERO) - Uppsala universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Olika slutsatser från samma data - Läkartidningen
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Sverige siktar mot världstoppen - 45 projekt inleder satsning på framtidens teknik - Vinnova
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Klinisk forskning viktig framtidsfråga - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Vetenskaplig workshop om ämnet "Forskning om provplantering och utvärdering av anpassningsförmågan hos vissa macadamiasorter/stammar i Son La-provinsen" - Vietnam.vn
+- Forskningen ska vara fri - European Commission
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
