@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-04 19:33_
+_Updated: 2026-06-04 21:46_
 
 - House votes to block Trump from ordering more strikes on Iran - The Washington Post
 - Former Trump adviser John Bolton to plead guilty to retaining national security information - NBC News
 - Joint Statement of the United States of America, Republic of Lebanon, and State of Israel on the Latest High-Level Trilateral Meeting - U.S. Department of State (.gov)
-- Justice Department Eyes Alternative ‘Weaponization’ Payouts After Fund Pushback - WSJ
-- Capitol agenda: Trump fund drama comes to vote-a-rama - Politico
-- President Trump says he will nominate Todd Blanche to serve as attorney general - NPR
-- First US screwworm case in 60 years: Should America be worried? - Al Jazeera
+- Trump’s Plan for Towering Arch Faces Scrutiny Over Flight Patterns, Aesthetics - The New York Times
+- Karen Read lawsuit alleges history of disturbing texts between Michael Proctor, Sean Goode - CBS News
+- Gun control group sues ATF over records release - NPR
+- Trump to nominate Todd Blanche as attorney general - Axios
 - Luxury cars seized after alleged $30 million fraud ring involving children's health services busted, officials say - CBS News
-- Track meet stabbing trial day 3: Opening statements done, testimony begins in Karmelo Anthony case | Live updates - WFAA
-- Drivers Are Found Liable for $176 Million in Crash That Killed 2 Boys - The New York Times
+- Deadly Screwworm Parasite Found in US Threatens Cattle Herd - Bloomberg.com
+- California Democrats play it safe with Becerra, defying national trends - The Washington Post
 - Guide missing for a week on Mount Everest found crawling to base camp: "Nothing short of a miracle" - CBS News
-- President Trump places new tariff threat on 60 trade partners - Yahoo Finance
-- Kushner-backed Albania resort sparks protests, EU concerns - DW
-- Israel and Lebanon’s Renewed Ceasefire Is Already Under Strain - WSJ
-- SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week - Yahoo! Finance Canada
-- Dow jumps 900 points, Nasdaq slides as investors rotate out of chip stocks for banks, retail: Live updates - CNBC
-- Supreme Court sides with Trump administration on federal regulation of telecom companies - AP News
-- US Supreme Court backs SEC in fight over 'disgorgement' power - Reuters
+- Jared Kushner's Albania resort sparks protests, EU concerns - DW
+- Henry Nowak inquest to probe actions of police, coroner says - BBC
+- Starmer says Musk is trying to create 'division' over Henry Nowak case - Euronews.com
+- SpaceX IPO shows Musk’s genius is in mythmaking - Financial Times
+- Dow jumps 800 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates - CNBC
+- Supreme Court sides with Trump administration on federal regulation of telecom companies - ABC News - Breaking News, Latest News and Videos
+- Honeywell's Quantinuum set to open higher in Nasdaq debut after upsized IPO - Reuters
 - Windows is back on the Microsoft menu - The Verge
-- Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac
+- Oura Ring 5 review: Thinner, lighter, better - TechCrunch
