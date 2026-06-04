@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-04 09:09_
+_Updated: 2026-06-04 12:49_
 
-- In a first, House votes to block Trump from ordering more strikes on Iran - The Washington Post
-- Trump expected to nominate Todd Blanche to be attorney general - Politico
-- Israel and Lebanon agree to full ceasefire, conditioned on steps by Hezbollah - Axios
-- Senate advances funding bill after Republicans cut $1bn for White House ballroom - BBC
-- Hilton and Becerra lead California’s unsettled governor’s race; Steyer faces elimination - Los Angeles Times
+- House votes to block Trump from ordering more strikes on Iran - The Washington Post
+- President Trump says he will nominate Todd Blanche to serve as attorney general - NPR
 - Live Updates: Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport - CBS News
-- Ohio State reaches $100 million settlement with hundreds of victims of school doctor accused of sexual abuse - CBS News
 - Flesh-eating screwworm arrives in US with first case in Texas - BBC
-- New York Democrats give preliminary approval to redistricting amendment - Politico
-- Jury awards $176M to Iskander family after Rebecca Grossman, Scott Erickson found negligent in deaths of 2 brothers - ABC7 Los Angeles
-- Protests continue for third day over controversial Trump family-linked resort in Albania - Euronews
+- Senate begins voting on funding immigration enforcement after Trump's settlement fund is dropped - AP News
+- Hilton and Becerra lead California’s unsettled governor’s race; Steyer faces elimination - Los Angeles Times
+- Inside the Obama Presidential Center - WSJ
+- Ohio State reaches $100 million settlement with hundreds of victims of school doctor accused of sexual abuse - CBS News
+- Live: The Latest: Karen Bass advances to runoff election for Los Angeles mayor - The Seattle Times
+- US strike on alleged drug boat kills two people in eastern Pacific Ocean - The Guardian
+- Albania’s growing ‘flamingo revolution’ targets Jared Kushner resort - politico.eu
+- China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn - WSJ
 - Ukraine hits oil refinery as Russia opens St. Petersburg economic forum - The Washington Post
-- Trump Admin Plans New Tariffs on Dozens of Trading Partners - Yahoo Finance
-- South Korea Lee's ruling party sweeps local elections but loses Seoul mayor race - Reuters
-- SpaceX says it’s worth $1.75tn as it nears stock market debut - BBC
-- Asia-Pacific markets open lower on renewed Middle East tensions - CNBC
-- Stock Market News, June 3, 2026: Dow Falls More Than 600 Points Amid Mideast Clashes - WSJ
-- Jamie Dimon to Pitch JPMorgan’s Ultra-Rich Clients on SpaceX IPO - Bloomberg.com
-- Google may have surprising new colors for the Pixel 11 series phones - PhoneArena
-- Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac
+- Attacks on Kuwait and Bahrain Add Further Strain to U.S.-Iran Cease-Fire - The New York Times
+- SpaceX Sets IPO Price Target. Nasdaq Debut Next Week. - Investor's Business Daily
+- S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates - CNBC
+- Bill Ackman’s Pershing Square is selling its remaining Universal Music Group stake, days after UMG rejected its $64B takeover bid - Music Business Worldwide
+- Broadcom Stock Dives 13% After Earnings. 2 Things Spooking Investors. - Barron's
+- Nintendo Will Launch A Switch 2 With Replaceable Batteries In The EU - Engadget
+- Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com
