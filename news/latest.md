@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-04 12:49_
+_Updated: 2026-06-04 16:16_
 
-- House votes to block Trump from ordering more strikes on Iran - The Washington Post
-- President Trump says he will nominate Todd Blanche to serve as attorney general - NPR
-- Live Updates: Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport - CBS News
-- Flesh-eating screwworm arrives in US with first case in Texas - BBC
-- Senate begins voting on funding immigration enforcement after Trump's settlement fund is dropped - AP News
-- Hilton and Becerra lead California’s unsettled governor’s race; Steyer faces elimination - Los Angeles Times
-- Inside the Obama Presidential Center - WSJ
-- Ohio State reaches $100 million settlement with hundreds of victims of school doctor accused of sexual abuse - CBS News
+- Donald Trump attacks his own party members as ‘unpatriotic’ after war powers resolution vote in House – US politics live - The Guardian
+- US secures Israel-Lebanon ceasefire as House votes to curb Trump war powers - Fox News
+- In photos: a preview of the Obama Presidential Center : The Picture Show - NPR
+- Teen killed, 3 wounded in shooting at California high school graduation ceremony - CNN
+- Trump to nominate Todd Blanche to be attorney general - NBC News
+- Henry Nowak inquest to probe actions of police, coroner says - BBC
+- Capitol agenda: Trump fund drama comes to vote-a-rama - Politico
 - Live: The Latest: Karen Bass advances to runoff election for Los Angeles mayor - The Seattle Times
-- US strike on alleged drug boat kills two people in eastern Pacific Ocean - The Guardian
-- Albania’s growing ‘flamingo revolution’ targets Jared Kushner resort - politico.eu
+- U.S. military posts video of another alleged drug boat being destroyed in Pacific, killing 2 more people - CBS News
+- Justice Department Eyes Alternative ‘Weaponization’ Payouts After Fund Pushback - WSJ
+- Plans for a Trump family-linked resort spark protests in Albania - NPR
+- Sherpa guide missing for a week on Mount Everest rescued while crawling to base camp - AP News
 - China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn - WSJ
-- Ukraine hits oil refinery as Russia opens St. Petersburg economic forum - The Washington Post
-- Attacks on Kuwait and Bahrain Add Further Strain to U.S.-Iran Cease-Fire - The New York Times
-- SpaceX Sets IPO Price Target. Nasdaq Debut Next Week. - Investor's Business Daily
-- S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates - CNBC
-- Bill Ackman’s Pershing Square is selling its remaining Universal Music Group stake, days after UMG rejected its $64B takeover bid - Music Business Worldwide
-- Broadcom Stock Dives 13% After Earnings. 2 Things Spooking Investors. - Barron's
-- Nintendo Will Launch A Switch 2 With Replaceable Batteries In The EU - Engadget
-- Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com
+- ‘Utterly absurd’: China and EU push back on US forced labour tariff claims - South China Morning Post
+- SpaceX plans biggest stock market debut ever — and it could make Elon Musk world's first trillionaire - CBS News
+- S&P 500 futures fall as Broadcom leads chip stocks lower: Live updates - CNBC
+- Bill Ackman’s Pershing Square Set to Make $600 Million on Universal Stake - WSJ
+- Soaring stocks created 2 million new millionaires around the world last year - CNBC
+- Nvidia takes AI battle from the data centre to the laptop - Financial Times
+- Shokz upgraded its open earbuds with better sound and a lighter design - The Verge
