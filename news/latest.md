@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-04 16:16_
+_Updated: 2026-06-04 19:33_
 
-- Donald Trump attacks his own party members as ‘unpatriotic’ after war powers resolution vote in House – US politics live - The Guardian
-- US secures Israel-Lebanon ceasefire as House votes to curb Trump war powers - Fox News
-- In photos: a preview of the Obama Presidential Center : The Picture Show - NPR
-- Teen killed, 3 wounded in shooting at California high school graduation ceremony - CNN
-- Trump to nominate Todd Blanche to be attorney general - NBC News
-- Henry Nowak inquest to probe actions of police, coroner says - BBC
-- Capitol agenda: Trump fund drama comes to vote-a-rama - Politico
-- Live: The Latest: Karen Bass advances to runoff election for Los Angeles mayor - The Seattle Times
-- U.S. military posts video of another alleged drug boat being destroyed in Pacific, killing 2 more people - CBS News
+- House votes to block Trump from ordering more strikes on Iran - The Washington Post
+- Former Trump adviser John Bolton to plead guilty to retaining national security information - NBC News
+- Joint Statement of the United States of America, Republic of Lebanon, and State of Israel on the Latest High-Level Trilateral Meeting - U.S. Department of State (.gov)
 - Justice Department Eyes Alternative ‘Weaponization’ Payouts After Fund Pushback - WSJ
-- Plans for a Trump family-linked resort spark protests in Albania - NPR
-- Sherpa guide missing for a week on Mount Everest rescued while crawling to base camp - AP News
-- China Uses LinkedIn to Lure Spy Recruits in West, U.S. and Allies Warn - WSJ
-- ‘Utterly absurd’: China and EU push back on US forced labour tariff claims - South China Morning Post
-- SpaceX plans biggest stock market debut ever — and it could make Elon Musk world's first trillionaire - CBS News
-- S&P 500 futures fall as Broadcom leads chip stocks lower: Live updates - CNBC
-- Bill Ackman’s Pershing Square Set to Make $600 Million on Universal Stake - WSJ
-- Soaring stocks created 2 million new millionaires around the world last year - CNBC
-- Nvidia takes AI battle from the data centre to the laptop - Financial Times
-- Shokz upgraded its open earbuds with better sound and a lighter design - The Verge
+- Capitol agenda: Trump fund drama comes to vote-a-rama - Politico
+- President Trump says he will nominate Todd Blanche to serve as attorney general - NPR
+- First US screwworm case in 60 years: Should America be worried? - Al Jazeera
+- Luxury cars seized after alleged $30 million fraud ring involving children's health services busted, officials say - CBS News
+- Track meet stabbing trial day 3: Opening statements done, testimony begins in Karmelo Anthony case | Live updates - WFAA
+- Drivers Are Found Liable for $176 Million in Crash That Killed 2 Boys - The New York Times
+- Guide missing for a week on Mount Everest found crawling to base camp: "Nothing short of a miracle" - CBS News
+- President Trump places new tariff threat on 60 trade partners - Yahoo Finance
+- Kushner-backed Albania resort sparks protests, EU concerns - DW
+- Israel and Lebanon’s Renewed Ceasefire Is Already Under Strain - WSJ
+- SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week - Yahoo! Finance Canada
+- Dow jumps 900 points, Nasdaq slides as investors rotate out of chip stocks for banks, retail: Live updates - CNBC
+- Supreme Court sides with Trump administration on federal regulation of telecom companies - AP News
+- US Supreme Court backs SEC in fight over 'disgorgement' power - Reuters
+- Windows is back on the Microsoft menu - The Verge
+- Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac
