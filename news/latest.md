@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-05 21:22_
+_Updated: 2026-06-05 23:10_
 
-- Senate OKs $70B immigration bill after rejecting efforts to permanently ban Trump's settlement fund - AP News
-- A federal judge strikes down Trump administration immigration policy affecting 39 countries - AP News
+- Putin says there is 'no point' meeting Zelensky over ending Ukraine war - BBC
+- Senate Passes $70 Billion G.O.P. Immigration Bill - The New York Times
 - Graham Platner accuser calls NYT article 'a gift' to his Senate campaign - WMTW
-- Trump Keeps Immunity from I.R.S., a Victory in a Long-Running Feud - The New York Times
-- Millions of ballots still need to be counted in California: What we know - Los Angeles Times
-- Most K-12 teachers say AI's impact on education will eclipse the internet or computers - NPR
-- Trump reportedly tells Bill Pulte to fire intelligence community employees – live - The Guardian
-- Man Who Schemed With Au Pair to Kill His Wife Is Sentenced to Life - The New York Times
-- US Senate blocks debate on FISA surveillance law days before program 'goes dark' - Reuters
-- Pritzker hits pause on data center subsidies in Illinois - Politico
-- Putin Rejects Zelenskyy Call for Peace Talks, Tells Army to Work - Bloomberg.com
-- Israel-Hezbollah ceasefire remains elusive, leaving Lebanon in the crossfire - The Washington Post
-- Chinese leader Xi Jinping visit to North Korea confirmed for next week - South China Morning Post
-- Russia Floods Armenia With Disinformation Ahead of Election - The New York Times
-- US job report strikes a hawkish note as Fed's Warsh takes the baton - Reuters
+- Trump officials planned to mark 2.7 million living people as dead, whistleblower claims - The Washington Post
+- Newly released bigoted police texts are ‘significant problem for the whole commonwealth’ - MassLive
+- Live Updates: Karmelo Anthony murder trial in fatal stabbing of Austin Metcalf at Frisco ISD track meet - CBS News
+- Virginia man sentenced to life in prison for double murder scheme in affair with au pair - CBS News
+- Trump wants Bill Pulte to fire big chunk of national intelligence office staff: WSJ - CNBC
+- Feds pursuing ‘multiple’ election fraud investigations, top prosecutor says - Los Angeles Times
+- Trump could also tear down the Statue of Liberty, DOJ argues in defense of White House ballroom - Politico
+- Xi to Visit North Korea June 8-9, for First Time Since 2019 - Bloomberg.com
+- Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On - The New York Times
+- At least 49 die of thirst in Niger desert after truck breaks down - Euronews
+- Israel reportedly deployed elite forces in Azerbaijan, operated Somaliland base, during Iran war - The Times of Israel
+- Stock Market Today: Dow down more than 550 points after U.S. jobs report, S&P 500 and Nasdaq fall sharply as semiconductor stocks head for worst day of 2026; Treasury yields jump - MarketWatch
+- U.S. Job Market Pushes Past Shocks and Strains - The New York Times
 - Anthropic says the world should have option to ‘pause’ on AI - The Guardian
-- Stock Market Today: Dow retreats after U.S. jobs report, S&P 500 and Nasdaq fall sharply as semiconductor stocks head for worst day of 2026; Treasury yields jump - MarketWatch
-- Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto - CoinDesk
+- Bitcoin Falls Below $60,000 for First Time Since 2024 Trump Win - Bloomberg.com
 - What to Expect From Apple’s AI, Siri and iOS 27 Launch at WWDC - Bloomberg.com
-- Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity - Eurogamer
+- The Top 10 Nintendo Switch 2 Games - Game Informer
