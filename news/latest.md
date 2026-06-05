@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-05 10:56_
+_Updated: 2026-06-05 14:26_
 
-- House Republicans break with Trump again to approve Ukraine aid - BBC
-- Republicans Defeat Move to Bar Trump’s Payout Fund - The New York Times
+- Senate OKs $70B immigration bill after rejecting efforts to permanently ban Trump's settlement fund - AP News
+- House passes Ukraine security aid bill over objections of GOP leaders - The Washington Post
+- Most K-12 teachers say AI's impact on education will eclipse the internet or computers - NPR
 - Democrats are furious after latest Platner revelations - Politico
-- In public letter, Ukraine’s Zelenskyy calls on Putin for direct negotiations in a neutral country - AP News
-- John Bolton reaches plea deal over mishandling classified documents - The Guardian
 - Here's how every California county voted for governor, per current tallies - SFGATE
-- Judge dismisses murder charge against Arkansas sheriff nominee who killed daughter's alleged abuser - CBS News
+- Exclusive: Israel sent troops to Azerbaijan during Iran war as part of secret network across region, sources say - CNN
+- DOJ could still pay Jan. 6 rioters even without ‘anti-weaponization’ fund - NBC News
+- Murder Charge Dropped for County Sheriff Nominee in Arkansas - The New York Times
+- Auburn student’s family appeals for help a week after he went missing in Japan - NBC News
 - Donald Trump unveils $700m 'beautiful, clean coal' investment - BBC
-- Live Updates: Karmelo Anthony murder trial in fatal stabbing of Austin Metcalf at Frisco ISD track meet - CBS News
-- Mayoral candidate Nithya Raman narrows gap with Spencer Pratt in the race for second - Los Angeles Times
-- Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019 - AP News
-- Henry Nowak inquest to probe actions of police, coroner says - BBC
-- Soldier killed in anti-tank missile attack as Hezbollah rejects Lebanon ceasefire proposal - The Times of Israel
 - Ivanka Trump and Jared Kushner’s Albanian resort plan sets off days of protests - The Washington Post
-- Elon Musk’s SpaceX lines up retail investors for record IPO allocation - Financial Times
-- South Korea stocks fall 5% as tech heavyweights follow plunge in Wall Street's AI-linked names - CNBC
-- Lululemon Cuts Outlook as Headwinds Mount - WSJ
-- Google is quietly laying off staff in its cloud division - Business Insider
-- Samsung Galaxy Z Flip8 to have both Exynos and Snapdragon chips - GSMArena.com news - GSMArena.com
-- Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app - TechCrunch
+- US criticises 'two-tiered policing' over UK murder case - Reuters
+- Xi to Visit North Korea June 8-9, for First Time Since 2019 - Bloomberg
+- Ukraine's Zelenskyy proposes Putin meeting on ending war - DW
+- There’s More to Space Stocks Than SpaceX - WSJ
+- Anthropic Proposes A Global Slowdown Of AI Development - Engadget
+- Wall Street Sees SpaceX’s AI Revenue 100 Times Higher by 2030 - Yahoo Finance
+- Senior U.S. Officials Eye Government Shares in AI Giants - News of the United States - NOTUS
+- What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch
+- The price of Nvidia RTX Spark PCs is going to hurt - PCWorld
