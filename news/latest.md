@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-05 02:07_
+_Updated: 2026-06-05 07:02_
 
-- Senate Republicans narrowly block bid to bar Trump’s $1.8bn fund to pay allies - The Guardian
+- Trump Administration Live Updates: Republicans Defeat First Attempt to Block President’s $1.8 Billion Payout Fund - The New York Times
 - John Bolton expected to plead guilty in classified-documents case - The Washington Post
-- Trump eyes his next DC renovation: The Lincoln Memorial - Politico
+- Republicans' sweeping election overhaul fails in the Senate - NPR
 - Here's how every California county voted for governor, per current tallies - SFGATE
-- Trump’s Plan for Towering Arch Faces Scrutiny Over Flight Patterns, Aesthetics - The New York Times
-- Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files - The Guardian
-- Trump says Bill Pulte won't be director of national intelligence permanently - CBS News
-- Kennedy Center memo directs staffers to remove Trump’s name from the arts center - Politico
-- Republicans urge investigation into two men accused of abuse by Epstein assistant - The Guardian
-- Video shows Pentagon counterterrorism hire clambering into Capitol on Jan. 6 - The Washington Post
+- ‘Everyone is apoplectic’: Inside Democrats’ blame game over Graham Platner - Politico
+- What to know about the New World screwworm fly and its reappearance in the US - AP News
+- House Republicans break with Trump again to approve Ukraine aid - BBC
+- Todd Blanche won over his key audience of one. Now come the 100. - Politico
+- Judge dismisses murder charge against Arkansas sheriff nominee who killed daughter's alleged abuser - CBS News
+- Another day passes with Auburn student still missing in Japan, parents say - NBC News
 - Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin - The Guardian
-- Kushner-backed Albania resort sparks protests, EU concerns - DW
+- Ivanka Trump and Jared Kushner’s Albanian resort plan sets off days of protests - The Washington Post
 - Live updates: Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks - CNN
-- Five Eyes security alliance warns of Chinese spy threat on job sites - NBC News
+- Missing Sherpa guide found alive on Everest after funeral rites had begun - The Guardian
 - How Much Do I Need to Buy the SpaceX IPO? Fidelity Just Lowered the Bar. - Barron's
-- Blackstone BCRED Joins Private Credit Funds Limiting Redemptions - Bloomberg.com
-- Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches - CNBC
-- Anthropic warns AI could soon help build its own successors - Axios
-- Apple approves Poke as the first AI agent on its Messages for Business platform - TechCrunch
-- Google Health 5.01 rolling out with 16 nutrition, fitness, & sleep fixes - 9to5Google
+- Lululemon Cuts Outlook as Headwinds Mount - WSJ
+- 2nd Buc-ee's location coming to Ohio - abc6onyourside.com
+- S&P will not change the rules to allow SpaceX into its benchmark index early - Axios
+- Wired Found Code For An Unreleased Facial Recognition Feature In Meta's AI App - Engadget
+- Meta rolls out a new AI creator assistant on Facebook - TechCrunch
