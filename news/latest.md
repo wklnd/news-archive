@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-05 00:10_
+_Updated: 2026-06-05 02:07_
 
 - Senate Republicans narrowly block bid to bar Trump’s $1.8bn fund to pay allies - The Guardian
 - John Bolton expected to plead guilty in classified-documents case - The Washington Post
-- 'Stop this madness!': Trump's arch draws deluge of negative comments - USA Today
-- Shark Tank Star Shrinks Data Center Footprint After Backlash - Bloomberg.com
+- Trump eyes his next DC renovation: The Lincoln Memorial - Politico
 - Here's how every California county voted for governor, per current tallies - SFGATE
-- Karen Read lawsuit alleges history of disturbing texts between Michael Proctor, Sean Goode - CBS News
-- Trump says Pulte won't be permanent national intelligence director - CNBC
+- Trump’s Plan for Towering Arch Faces Scrutiny Over Flight Patterns, Aesthetics - The New York Times
+- Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files - The Guardian
+- Trump says Bill Pulte won't be director of national intelligence permanently - CBS News
 - Kennedy Center memo directs staffers to remove Trump’s name from the arts center - Politico
-- What to know about the New World screwworm fly and its reappearance in the US - AP News
-- Trump announces plan to add 'promenade' to Lincoln Memorial - ABC News - Breaking News, Latest News and Videos
-- Zelensky in open letter to Putin proposes face-to-face meeting and 'full ceasefire' - France 24
-- Sherpa guide missing for a week on Mount Everest rescued while crawling to base camp - The Seattle Times
+- Republicans urge investigation into two men accused of abuse by Epstein assistant - The Guardian
+- Video shows Pentagon counterterrorism hire clambering into Capitol on Jan. 6 - The Washington Post
+- Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin - The Guardian
 - Kushner-backed Albania resort sparks protests, EU concerns - DW
-- Henry Nowak deserves legacy that goes beyond tragedy, says PM - BBC
-- SpaceX IPO shows Musk’s genius is in mythmaking - Financial Times
-- Oil drops, stocks mostly higher despite AI concerns - Yahoo Finance
+- Live updates: Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks - CNN
+- Five Eyes security alliance warns of Chinese spy threat on job sites - NBC News
+- How Much Do I Need to Buy the SpaceX IPO? Fidelity Just Lowered the Bar. - Barron's
 - Blackstone BCRED Joins Private Credit Funds Limiting Redemptions - Bloomberg.com
 - Lululemon cuts annual outlook, citing 'negative' media commentary and disappointing product launches - CNBC
-- Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones - WIRED
+- Anthropic warns AI could soon help build its own successors - Axios
 - Apple approves Poke as the first AI agent on its Messages for Business platform - TechCrunch
+- Google Health 5.01 rolling out with 16 nutrition, fitness, & sleep fixes - 9to5Google
