@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-06 17:55_
+_Updated: 2026-06-06 19:47_
 
+- Missing American student found dead in Japan after dayslong search - CNN
 - Graham Platner Says His Past Was ‘Weaponized’ In Latest Public Appearance Amid Mounting Allegations - Forbes
 - Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters
 - More Republicans are breaking with Trump. Is it conscience or politics? - The Guardian
+- US intercepts Iranian drones fired at Bahrain, Kuwait, retaliates by striking radar sites - Fox News
 - Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented' - BBC
-- Live Updates: U.S. and Iran trade another round of fire as Iranian official says talks are at a "deadlock" - CBS News
 - Democrat Xavier Becerra advances to general election in race for California governor - AP News
+- Jurors see knife at center of Karmelo Anthony murder trial - Dallas News
 - Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups - The New York Times
-- California clashes with Trump DOJ over election fraud probe - Politico
 - Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV - The New York Times
-- Justice Department tells court $1.8 billion payout fund is ‘not going forward’ - The Washington Post
 - Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post
+- Hegseth invokes immigration and ‘invasion’ in D-Day speech in France - AP News
 - Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal - NPR
-- Palestinian baby shot dead by Israeli troops in occupied West Bank - The Guardian
-- Spearfisher killed in Australia’s third fatal shark attack in 4 weeks - ABC News - Breaking News, Latest News and Videos
+- IDF soldier fires at vehicle in Hebron, killing 7-month-old baby and wounding his parents - The Times of Israel
 - Prediction: The SpaceX IPO Will Be the Greatest Fleecing of Retail Investors We've Ever Witnessed - Yahoo Finance
-- Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI - AP News
+- Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
 - America’s crude inventories are getting perilously low. But that’s not the full story. - MarketWatch
-- Chips sector bloodbath drags Nasdaq down 4.2% - Axios
+- Paramount Open to Selling Kids Channels to Quell EU Fears Over $110 Billion Warner Deal - Bloomberg.com
 - What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors
 - I used the Motorola Razr Ultra (2026) and the Galaxy Z Flip 7, and I only want one in my pocket - Android Authority
