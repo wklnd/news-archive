@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-06 12:32_
+_Updated: 2026-06-06 14:00_
 
+- Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says - The New York Times
+- Meet Genevieve McDonald, the former Graham Platner staffer who keeps criticizing him - Portland Press Herald - Maine Sunday Telegram
 - Democrat Xavier Becerra advances to general election in race for California governor - AP News
-- U.S. military says it shot down Iranian drones launched toward Gulf allies - NPR
-- Amid Mounting Democratic Concern, Platner Says His Past Is Being ‘Weaponized’ - The New York Times
-- Putin to Zelenskyy: No peace talks — and don’t call me old - politico.eu
-- DOJ confirms in court papers the "anti-weaponization fund" isn't going forward, asks judges to reject lawsuits - CBS News
+- The Forest Service says it's closing offices to cut costs. But the math doesn't add up - NPR
+- Putin sees "no point" in meeting with Zelenskyy to discuss ending war - CBS News
+- CIA officer who had millions in gold bars accused of creating fake spy program - The Washington Post
+- First U.S. Screwworm Case Since 1960s Prompts Texas Emergency Response - The New York Times
+- DOJ sends prosecutor to observe LA ballot counting amid Trump’s baseless ‘cheating’ claims - CNN
 - Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV - The New York Times
-- Feds pursuing ‘multiple’ election fraud investigations, top prosecutor says - Los Angeles Times
 - National Park mountain guide dies in fall on Mount McKinley - NBC News
-- Second screwworm case in Texas confirmed, as Abbott expands state disaster declaration - The Texas Tribune
-- Courts can’t stop Trump’s White House ballroom, Justice Department argues - The Washington Post
-- Ukraine targets St. Petersburg again after Putin rejects Zelenskyy’s offer for direct talks - AP News
-- Fujimori vs Sanchez: What to know about Peru’s presidential run-off election - Al Jazeera
-- Pope to find a secularized, polarized Spain where the Catholic Church has a complex legacy - AP News
-- Israel strikes southern Lebanon after ordering evacuations of nine villages - The Guardian
+- Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post
+- An Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire - AP News
+- Mass Ukrainian Drone Strikes Target Russian Military Facilities in St. Petersburg - WSJ
+- Palestinian baby shot dead by Israeli troops in occupied West Bank - The Guardian
 - Trump says he’s considering government stake in top AI companies - The Washington Post
-- SpaceX IPO running at two times oversubscribed, sources say - Reuters
 - Chips sector bloodbath drags Nasdaq down 4.2% - Axios
+- SpaceX IPO running at two times oversubscribed, sources say - Reuters
 - U.S. Job Market Pushes Past Shocks and Strains - The New York Times
 - What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors
-- Here's Everything Announced During The Summer Game Fest 2026 Showcase - Game Informer
+- Every Xbox and PC game announced during Summer Game Fest 2026 - Windows Central
