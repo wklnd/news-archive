@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-07 03:57_
+_Updated: 2026-06-07 08:49_
 
-- Multiple people have been shot near a festival in Toledo, Ohio, authorities say - CNN
-- Bernie Sanders Backs Graham Platner After Allegations Of ‘Toxic’ Relationships - Forbes
-- Europe being invaded by ‘dangerous ideologies,’ Hegseth warns in D-Day speech - politico.eu
-- More Republicans are breaking with Trump. Is it conscience or politics? - The Guardian
-- Missing Alabama hiker found dead in Japan - WBMA
-- Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it? - NPR
-- Democrat Xavier Becerra advances to general election in race for California governor - AP News
-- Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters
-- U.S. attorney’s office in California announces probe into elections - The Washington Post
-- Trump says he wants his new acting director of national intelligence to cut the office - NBC4 Washington
-- Ukraine Strikes St. Petersburg in Long-Range Drone Attack - The New York Times
-- D-Day 82nd anniversary honoured in France - Euronews.com
-- Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal - AP News
+- Multiple people shot near street festival in Toledo, Ohio, authorities say - The Guardian
 - Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones - Fortune
+- Missing 20-year-old college student from Alabama found dead in Japan, family says - komonews.com
+- Treasury Department plans to use Iranian assets to help U.S. Gulf allies recover, source says - CBS News
+- US raises threat level for Israeli espionage to highest ever - The Jerusalem Post
+- Trump says Reflecting Pool shows his plan for D.C., disturbing critics - The Washington Post
+- Deluged With Mail Ballots, California Takes Its Time Counting Votes Again - The New York Times
+- Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters
+- What to know about the ongoing protests and arrests outside a New Jersey detention center - AP News
+- How Tom Homan became Trump’s go-to negotiator in immigration battles - Politico
+- Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town - The New York Times
+- Pope begins Spain visit with praise for country's opposition to war and support for migrants - BBC
+- Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting - The Guardian
+- A President, His Prime Minister and the Bitter Rift Dividing Senegal - The New York Times
 - Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
-- Baby wipes recalled for contamination that could lead to sepsis - MLive.com
-- Nonfarm payrolls soar past consensus in May; unemployment rate holds at 4.3% - Seeking Alpha
-- Exclusive | The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. - WSJ
-- What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch
-- Gemini app adding new Google Contacts integration - 9to5Google
+- US job report strikes a hawkish note as Fed's Warsh takes the baton - Reuters
+- The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. - WSJ
+- Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: “It’s the Death of a Great American Industry” - The Hollywood Reporter
+- iOS 27: Seven new iPhone features are coming soon - 9to5Mac
+- Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November - pushsquare.com
