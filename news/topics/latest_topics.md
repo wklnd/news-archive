@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-07 01:43_
+_Updated: 2026-06-07 07:07_
 
 ## Top Stories
 
-- Ukraina attackerar mål i Sankt Petersburg - Sveriges Radio
+- Flera skjutna vid festival i Ohio, USA på lördagen - GP
+- Ny medicin mot äggstockscancer kan inte användas i Sverige - Sveriges Radio
+- Över 200 har sagt upp sig från kulturförvaltningen i Göteborg - GP
+- Mette-Marits sjukdom har utlöst donatorrusning - SVT Nyheter
+- USA: Sköt ned iranska drönare - Västerbottens-Kuriren
 - Statsministern: ”De rödgröna måste granskas mer” - GP
-- DN Direkt – Fler norrmän vill donera organ efter Mette-Marits sjukdom - Dagens Nyheter
-- Meteorologens mardröm: ”Skymtar land i dimman” - Aftonbladet
-- 11-åringens död skakar Frankrike – kompisens pappa misstänks för mord - GP
-- Nya krav för svenskt medborgarskap träder i kraft - Regeringen.se
-- Kungafamiljen firar nationaldagen på Skansen - Corren
 - Man inlagd på IVA efter oljebrand i lägenhet i Kalmar - SVT Nyheter
+- Kristersson: ”Medborgarskap kvitto på lojalitet” - Västerbottens-Kuriren
 - Polisen efter studentnatten: ”Det var lugnt överlag” - Helagotland
 - DN Direkt – Cyberattack mot biblioteken i Stockholm – störningar i tjänster - Dagens Nyheter
-- DN Direkt – Demonstranter och polis drabbade samman i Bolivia - Dagens Nyheter
 - Michael Winiarski: Putin gör allt för att Armenien inte ska vända honom ryggen - Dagens Nyheter
-- Jokrarna i USA-politiken: ”Sug efter något nytt” - Dagens Nyheter
+- USA kan ge frysta tillgångar till allierade i Gulfen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Flera döda i israeliska attacker i Gaza - GP
-- Källor: SAS nära storbeställning av nya flygplan - SVT Nyheter
+- DN Direkt – Demonstranter och polis drabbade samman i Bolivia - Dagens Nyheter
+- Nu kostar vissa kontantuttag pengar: ”Många negativa” - Omni
 - Svenska småsparare får teckna aktier i Space X - Västerbottens-Kuriren
 - Jobbsiffror och AI-frossa: Mörk börsdag i USA - GP
-- AI-jätten varnar: Dags att bromsa utvecklingen - Skövde Nyheter
+- Guldets värde rasar efter nya signaler om räntehöjning i USA - Börskollen
 - Äldre dam lurad på 50 000 kronor med Apple cards - Nya Wermlands-Tidningen
-- Tittarsiffrorna för State of Play 2026 slår rekord, med God of War Laufey som ledande PS5-spel - notebookcheck.se
+- Xiaomi 18 Pro ryktas få betydligt större skärm på baksidan - Teknikveckan
 
 ## World News
 
 - Anthropic vill se en global paus för AI-utvecklingen - Computer Sweden
-- GT World Challenge America, Sebring International Raceway på inatt 05:20 - TV.nu
-- GT World Challenge Asia, Sepang International Circuit, Malaysia på inatt 01:35 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Global mangrove forests rebound, offering hopeful sign for climate and coastal resilience - Tulane University News
 - Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Ytterligare 15 gripna i global knarkhärva - Aftonbladet
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Aebersold and Heikkilä hold on to World Cup leads after races in Sweden - International Orienteering Federation
+- NTM prisades i INMA Global Media Awards - ntm.se
+- CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 
 ## Technology
 
@@ -68,8 +68,8 @@ _Updated: 2026-06-07 01:43_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -105,17 +105,17 @@ _Updated: 2026-06-07 01:43_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 
 ## Science
 
@@ -126,15 +126,15 @@ _Updated: 2026-06-07 01:43_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
 - 5 myter om öppen vetenskap - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
@@ -144,15 +144,14 @@ _Updated: 2026-06-07 01:43_
 
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
-- Seminar 2026-10-20: Wheat and Related Crops: Closing the yield gap – bridging science, breeding, and societal impact - Mynewsdesk
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
@@ -162,3 +161,4 @@ _Updated: 2026-06-07 01:43_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
