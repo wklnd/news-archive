@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-07 08:49_
+_Updated: 2026-06-07 12:16_
 
 - Multiple people shot near street festival in Toledo, Ohio, authorities say - The Guardian
-- Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones - Fortune
+- US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times
+- Trump’s Defense Department Sees Growing Espionage Threat From Israel - The New York Times
 - Missing 20-year-old college student from Alabama found dead in Japan, family says - komonews.com
-- Treasury Department plans to use Iranian assets to help U.S. Gulf allies recover, source says - CBS News
-- US raises threat level for Israeli espionage to highest ever - The Jerusalem Post
-- Trump says Reflecting Pool shows his plan for D.C., disturbing critics - The Washington Post
-- Deluged With Mail Ballots, California Takes Its Time Counting Votes Again - The New York Times
+- Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it? - NPR
+- Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post
 - Screwworm border closure fuels beef boom in Mexico, gloom in Texas - Reuters
+- Day 3 of the Karmelo Anthony trial brings emotional testimony and graphic autopsy details - CBS News
+- Becerra Advances in California Governor Race as Hilton, Steyer Battle for Second Spot - KQED
 - What to know about the ongoing protests and arrests outside a New Jersey detention center - AP News
-- How Tom Homan became Trump’s go-to negotiator in immigration battles - Politico
-- Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town - The New York Times
-- Pope begins Spain visit with praise for country's opposition to war and support for migrants - BBC
+- Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post
 - Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting - The Guardian
-- A President, His Prime Minister and the Bitter Rift Dividing Senegal - The New York Times
-- Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
-- US job report strikes a hawkish note as Fed's Warsh takes the baton - Reuters
-- The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. - WSJ
+- Member of Neo-Nazi Party Reaches Mayoral Runoff in German Town - The New York Times
+- Why is Chinese President Xi Jinping visiting North Korea now? - Al Jazeera
 - Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: “It’s the Death of a Great American Industry” - The Hollywood Reporter
-- iOS 27: Seven new iPhone features are coming soon - 9to5Mac
-- Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November - pushsquare.com
+- Amazon, Microsoft fare better than most in tech stock sell-off spree - The Seattle Times
+- Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
+- Job Growth Comes in Strong for Third Straight Month - Yahoo Finance
+- What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch
+- HP announces the most powerful Windows AI PC ever built — Nvidia GB300 workstation can handle one trillion parameters thanks to its 784GB unified memory, but it won't be cheap - TechRadar
