@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-07 17:57_
+_Updated: 2026-06-07 19:51_
 
-- UK Deputy PM Says He Told Vance ‘You’re Wrong’ Over Nowak Case - Bloomberg.com
-- Hundred days of the US-Israel war on Iran - Al Jazeera
+- Trump Cuts Off Interview With 'Meet The Press' Host Kristen Welker - Deadline
+- Israel strikes Beirut after Hezbollah attack, risking Iran response - Axios
+- U.K. deputy prime minister: JD Vance was wrong to blame teen's murder on immigration - NPR
+- US, Iran Appear Far From Peace Deal 100 Days Since War Began - Yahoo Finance
 - Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’ - The Guardian
-- At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say - NPR
-- Kennedy Shows Minimal Engagement With Vast Health Portfolio - The New York Times
+- At Least 12 People Shot Near Street Festival in Toledo, Ohio, Police Say - The New York Times
 - Trump doesn’t rule out giving Jan. 6 rioters who attacked police payouts from the ‘anti-weaponization’ fund - NBC News
-- The U.S. fought the flesh-eating screwworm for decades. Now it must begin again. - NBC News
+- Trump wants lower beef prices. Flesh-eating maggots in Texas have other plans. - Politico
+- Trump says U.S. and Iran are 'very close' to a deal — days after Iran said it was breaking off talks - Yahoo
 - Warner: Pulte a ‘national security risk’ - Politico
-- They Vied for Trump’s Endorsement. Will It Matter? - The New York Times
-- A New Governor Faces Her First Crisis Amid Tear Gas and Tough Decisions - The New York Times
 - Peru votes in tight presidential run-off in test of Latin America's rightward shift - Reuters
-- More than a million people join Pope Leo for outdoor mass in Madrid - The Guardian
 - Armenia Votes in Test of PM’s Pivot Away From Russia - The Moscow Times
-- US retaliates with airstrikes after Iran launches missiles and drones in weekend attacks - Fox News
-- How can retail investors buy shares in SpaceX's IPO? - Reuters
-- Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC
+- 1 million people flood Madrid streets to see the pope's flower-carpeted procession - NPR
+- Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post
+- Trump Says Fed Rate Increase Would Be Wrong Ahead of Warsh Debut - Yahoo Finance
+- Italian bank BPM proposes €50bn merger with Monte dei Paschi - Financial Times
+- ‘The golden years are not golden’: Boomers are hoarding most of America’s wealth and power because they’re terrified of outliving their money - Yahoo Finance
 - The AI boom is gobbling up power faster than ever - Business Insider
-- OPEC Plus to Boost Oil Production as Ceasefire in Iran Remains Elusive - The New York Times
-- What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch
 - Xbox Games Showcase 2026 live report - all the news and announcements as Asha Sharma presents for the first time - Eurogamer
+- Benn Jordan longs for the days of tech that didn’t spy on you - The Verge
