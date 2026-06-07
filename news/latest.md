@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-07 14:11_
+_Updated: 2026-06-07 16:31_
 
 - At least 12 people shot at an Ohio festival and a search for suspects is still ongoing, police say - NPR
-- US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times
-- Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones - Fortune
-- Missing 20-year-old college student from Alabama found dead in Japan, family says - komonews.com
-- Pope Leo visits a polarized Spain where conservatives are turning on the church - The Washington Post
-- Trump faces new Republican resistance in Congress as midterm pressures build - Yahoo
+- David Lammy: I told JD Vance he was wrong about Henry Nowak murder - The Guardian
+- Pete Hegseth’s D-day speech on immigration condemned as ‘grotesque stupidity’ - The Guardian
+- Ukraine hits St. Petersburg again after Putin rejects talks - DW
+- RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines - The New York Times
+- Trump doesn’t rule out giving Jan. 6 rioters who attacked police ‘anti-weaponization’ fund payouts - NBC News
 - The U.S. fought the flesh-eating screwworm for decades. Now it must begin again. - NBC News
 - They Vied for Trump’s Endorsement. Will It Matter? - The New York Times
+- Trump says he wants his new acting director of national intelligence to cut the office - NBC4 Washington
 - What to know about the ongoing protests and arrests outside a New Jersey detention center - AP News
-- Day 3 of the Karmelo Anthony trial brings emotional testimony and graphic autopsy details - CBS News
 - She was a first lady at 19. Now she’s making her fourth attempt to win Peru’s presidency - CNN
-- Two IDF soldiers killed in southern Lebanon as fighting against Hezbollah continues - The Times of Israel
-- Residents of French village say US Defense Secretary Hegseth not welcome for D-Day visit - France 24
-- Ukraine war briefing: Kyiv unleashes hundreds of drones on Russia after Putin rejected Zelenskyy meeting - The Guardian
-- Elon Musk’s $1.8 Trillion SpaceX IPO: Is It a Good Investment? - Barron's
-- Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: “It’s the Death of a Great American Industry” - The Hollywood Reporter
+- More than a million people join Pope Leo for outdoor mass in Madrid - The Guardian
+- US retaliates with airstrikes after Iran launches missiles and drones in weekend attacks - Fox News
+- One killed, five wounded in shooting attack in Israel: Medics - Al Jazeera
+- How can retail investors buy shares in SpaceX's IPO? - Reuters
+- Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC
 - Trump: U.S. stake in AI giants "could be a beautiful thing" - Axios
-- Hot jobs report puts Fed cuts further out of reach as Chair Warsh faces policy tests - CNBC
+- In 2025, Data Centers Used More Power Than Most Nations - Newser
 - The Wearable Showdown: Oura Ring 5 vs. Fitbit Air vs. Whoop MG vs. Apple Watch - WSJ
-- Apple’s iPhone Ultra Hinge Will Double As A Heatsink, With Its Liquidmetal Construction Stronger Than Titanium - Wccftech
+- What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates - TechCrunch
