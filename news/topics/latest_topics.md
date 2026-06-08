@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-08 23:21_
+_Updated: 2026-06-09 00:56_
 
 ## Top Stories
 
 - DN Direkt – Tingsrätten vill släppa bonusprinsen ur häktet - Dagens Nyheter
-- Misstänkt mord – en gripen efter att man hittats död - Sveriges Radio
-- Skånska L-toppar sågar utspel om att ”vaska” Liberalerna - HD – Nyheter Dygnet Runt
-- DN Direkt – Ingen prognos när röda linjen är återställd - Dagens Nyheter
-- Krigsdepartementet inblandade: ”Toppen av prioritetslistan” - Expressen
-- Tusentals israeliska attacker under vapenvilan - Västerbottens-Kuriren
-- DN Direkt – Misstänkt vapenhot mot skärgårdsbåt - Dagens Nyheter
-- Äckliga soprum ökar risken för sopslarv - GP
-- Vårdcentral stängs – lurade till sig pengar - SVT Nyheter
-- DANIEL ÅKERMAN, SVENSKA NYHETSBYRÅN: Vänsterns extremister finns till och med i Norrköping - NT
+- Trump varnade Netanyahu: ”Annars blir du ensam” - GP
 - Trump till Israel och Iran: Sluta skjuta - Västerbottens-Kuriren
-- Europeiskt stridsflygprojekt läggs på is - Västerbottens-Kuriren
-- Karl Dalén: Avbrutna intervjun visar hur pressad Trump är - Dagens Nyheter
+- Misstänkt mord – en gripen efter att man hittats död - Sveriges Radio
+- Björn på vift stänger 100 skolor i Japan - Västerbottens-Kuriren
+- Forskare varnar för ökat kärnvapenhot - GP
+- DN Direkt – Misstänkt vapenhot mot skärgårdsbåt - Dagens Nyheter
+- Äckliga soprum ökar risken för sopslarv - Västerbottens-Kuriren
+- DANIEL ÅKERMAN, SVENSKA NYHETSBYRÅN: Vänsterns extremister finns till och med i Norrköping - NT
+- Just nu: Stopp i ett körfält på grund av en stillastående fordon på E18 - UNT
 - Expert: Putins framgångsbild stämmer inte – Ukraina har vind i seglen - Dagens Nyheter
-- Börsens båge har sällan varit så hårt spänd - Aftonbladet
-- Börsens fall mattas av efter Trumps utspel - GP
-- Blandad börs i USA när uppgången tappade fart: ”Väger risker” - EFN
+- Beslut om att släppa Høiby överklagas - Aftonbladet
+- Karl Dalén: Avbrutna intervjun visar hur pressad Trump är - Dagens Nyheter
+- Rysk oljeanläggning träffad i ukrainsk attack - Västerbottens-Kuriren
 - Varningen: Oljepriset riskerar att dubbleras - Svenska Dagbladet
-- Apple visar upp Siri AI – efter år av förseningar - Omni
-- Undersökte hjärtrytm hemifrån – med mobilkameran - Sydsvenskan
+- Hattricket fullbordat: Open AI ansöker om börsnotering - Omni
+- Blandad börs i USA när uppgången tappade fart: ”Väger risker” - EFN
+- DN Direkt – Tre åtalas för marknadsmanipulation - Dagens Nyheter
+- Apples nya Siri ska ta upp kampen med Chat GPT - Omni
+- Undersökte hjärtrytm hemifrån – med mobilkameran - Västerbottens-Kuriren
 
 ## World News
 
 - Ny mardrömsmånad – förvaltare lämnar Colosseum Global Alpha - EFN
 - Di:s krönikör: Kinas mål: Global makt till varje pris - Dagens industri
+- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 - Global mangrove forests rebound, offering hopeful sign for climate and coastal resilience - Tulane University News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Actor Anthony Head, known for 'Buffy the Vampire Slayer,' has died at 72 - ABC7 Chicago
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -60,7 +60,6 @@ _Updated: 2026-06-08 23:21_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -70,11 +69,11 @@ _Updated: 2026-06-08 23:21_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -82,17 +81,18 @@ _Updated: 2026-06-08 23:21_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
@@ -111,8 +111,8 @@ _Updated: 2026-06-08 23:21_
 - Vi presenterar HealthBench - OpenAI
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -120,25 +120,25 @@ _Updated: 2026-06-08 23:21_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
-- Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
+- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
+- Forskningen ska vara fri - European Commission
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 
 ## Jordbruk
 
@@ -148,8 +148,8 @@ _Updated: 2026-06-08 23:21_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Framtidens jordbruk är här - Shaping Europe’s digital future
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
+- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
