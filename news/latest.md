@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-08 02:02_
+_Updated: 2026-06-08 04:00_
 
-- Middle East crisis live: Iran launches missiles towards Israel after Lebanon airstrikes - The Guardian
+- Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire - The New York Times
 - Trump walks out of ‘Meet the Press’ interview when challenged over false claims - The Washington Post
+- 5 stabbed at New York City's Penn Station, suspect in custody: Sources - ABC News - Breaking News, Latest News and Videos
+- Raman overtakes Pratt for 2nd in LA mayoral race, results show - NBC Los Angeles
+- Israel strikes Beirut after Hezbollah attack, risking Iran response - Axios
+- 7.8 magnitude earthquake hits southern Philippines - CNN
+- Search continues for gunmen in Ohio festival shooting that wounded 12 - NBC News
 - Democrats in Congress Grapple With Concerns Over Platner Allegations - The New York Times
-- Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks - The New York Times
-- At least 12 shot near Ohio festival, gunmen still at large - NBC News
-- Ukraine hits St. Petersburg again after Putin rejects talks - DW
 - A flesh-eating pest threatens Trump’s beef price hopes - Politico
-- Teen dies after showing symptoms of heat-related illness on strenuous hike through Grand Canyon - CBS News
 - 3 U.S. men arrested on charges of plotting to support ISIS - NBC News
-- Trump says U.S. and Iran are 'very close' to a deal — days after Iran said it was breaking off talks - Yahoo
-- IDF reveals key Hezbollah command tunnel network near south Lebanon’s Beaufort - The Times of Israel
-- Iran rejects idea of using its assets to pay damages to US allies - Reuters
-- After Months of War, Iranians Sink Into Disillusionment and Despair - The New York Times
+- US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times
+- Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation - The New York Times
 - Peru's presidential election runoff is too close to call, exit poll shows - Reuters
-- Stock futures fall as Iran attack on Israel shakes fragile ceasefire: Live updates - CNBC
-- Donald Trump piles pressure on Kevin Warsh with call for rate cut - Financial Times
-- Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant - CNBC
-- Inside This SpaceX Billionaire’s Mission To Build A Fleet Of Outer Space Taxis - Forbes
+- Pro-EU ruling party leads Armenia parliamentary election, exit polls show - politico.eu
+- U.S. stock futures fall as Iran attacks Israel; South Korea's Kospi plunges 8%: Live updates - CNBC
+- NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom
+- Trump stunned as stocks fall on great jobs report. Barclays explains why ‘we are entering the warning zone - Fortune
+- Yuba City McDonald’s boss rushed to ICU with horrific injuries after colleague threw scorching hot oil over him - Yahoo
 - How to Watch Apple’s WWDC 2026 Keynote—and What to Expect - WIRED
 - Microsoft’s Xbox 25th anniversary console comes in translucent green - The Verge
