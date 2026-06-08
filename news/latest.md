@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-08 04:00_
+_Updated: 2026-06-08 09:15_
 
-- Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire - The New York Times
-- Trump walks out of ‘Meet the Press’ interview when challenged over false claims - The Washington Post
-- 5 stabbed at New York City's Penn Station, suspect in custody: Sources - ABC News - Breaking News, Latest News and Videos
-- Raman overtakes Pratt for 2nd in LA mayoral race, results show - NBC Los Angeles
-- Israel strikes Beirut after Hezbollah attack, risking Iran response - Axios
-- 7.8 magnitude earthquake hits southern Philippines - CNN
-- Search continues for gunmen in Ohio festival shooting that wounded 12 - NBC News
-- Democrats in Congress Grapple With Concerns Over Platner Allegations - The New York Times
-- A flesh-eating pest threatens Trump’s beef price hopes - Politico
-- 3 U.S. men arrested on charges of plotting to support ISIS - NBC News
-- US weighs using Iranian assets to compensate Gulf allies for war damage - Financial Times
+- Israel launches strikes on Iran after Tehran fires barrage of missiles - The Washington Post
+- 6 injured in stabbing at New York’s Penn Station - CNN
+- China's Xi Jinping lands in North Korea to meet Kim Jong Un in rare visit - follow live - BBC
+- Powerful earthquake hits Philippines, triggering tsunami alerts across Asia - Al Jazeera
+- Trump walks out of interview with NBC’s Meet the Press after clash over election claims - The Guardian
+- Progressive Challenger Overtakes Spencer Pratt in Race for L.A. Mayor - The New York Times
+- Search Continues for Gunmen Who Opened Fire at Ohio Festival - The New York Times
+- Graham Platner gets a lift from friendly Maine crowd after week of damage control in Senate campaign - AP News
+- Teen dies after showing symptoms of heat-related illness on strenuous hike through Grand Canyon - CBS News
+- President Christofferson dedicates the Yorba Linda California Temple as a testament of the Lord’s work - Church News
 - Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation - The New York Times
-- Peru's presidential election runoff is too close to call, exit poll shows - Reuters
-- Pro-EU ruling party leads Armenia parliamentary election, exit polls show - politico.eu
-- U.S. stock futures fall as Iran attacks Israel; South Korea's Kospi plunges 8%: Live updates - CNBC
-- NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom
-- Trump stunned as stocks fall on great jobs report. Barclays explains why ‘we are entering the warning zone - Fortune
-- Yuba City McDonald’s boss rushed to ICU with horrific injuries after colleague threw scorching hot oil over him - Yahoo
-- How to Watch Apple’s WWDC 2026 Keynote—and What to Expect - WIRED
-- Microsoft’s Xbox 25th anniversary console comes in translucent green - The Verge
+- Photos of Peru’s presidential election runoff - AP News
+- Israel strikes Beirut after Hezbollah attack, risking Iran response - Axios
+- 1 million people flood Madrid streets to see the pope's flower-carpeted procession - NPR
+- Oil Surges, Asian Stocks Sink After Iran Strikes Israel - The New York Times
+- Tech sell-off widens as South Korea index plunges - Financial Times
+- Nvidia clinches deals with South Korean giants including SK Group to advance AI boom - Reuters
+- Nvidia Takes the Top Spot in the 2026 List of Best Companies for the Future - WSJ
+- Saving Siri: After two years of stumbles, is Apple's AI moment here? - Reuters
+- Next Hellblade Game Launches in 2027 - Kotaku
