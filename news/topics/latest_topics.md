@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-08 18:34_
+_Updated: 2026-06-08 21:03_
 
 ## Top Stories
 
-- DN Direkt – Volontär i Birgitta Eds stiftelse fick statligt toppjobb - Dagens Nyheter
-- Høiby: ”Jag vill ut och finnas där för min mamma” - Västerbottens-Kuriren
-- Åtal väckt för grovt vållande till annans död och olaga frihetsberövande i Göteborg - Åklagarmyndigheten
-- Netanyahu: Slår tillbaka ”med styrka” om Iran attackerar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- KU spricker – oenighet mellan partierna - GP
-- Tsunamivarningar efter skalv – över 200 skadade - Hufvudstadsbladet – HBL
-- Regeringen stärker tryggheten och säkerheten för äldre - Regeringen.se
+- DN Direkt – Tingsrätten vill släppa bonusprinsen ur häktet - Dagens Nyheter
+- Flicka inlåst av mamma 41 gånger – dog i brand i Göteborg - Aftonbladet
+- Lovas ”bra nätverk” – jobbar gratis hos Ed - Expressen
+- Skånska L-toppar sågar utspel om att ”vaska” Liberalerna - HD – Nyheter Dygnet Runt
+- Dödligt skalv nära Filippinerna: Hus föll samman - Västerbottens-Kuriren
+- Uppgifter: KU kan inte enas – ställer in pressträff - Omni
 - Vårdcentral stängs – lurade till sig pengar - SVT Nyheter
-- En ny utredning för att kunna avbryta fastighetsinnehav som hotar Sveriges säkerhet - Regeringen.se
+- Ekot 17:45 Spricka i KU - partierna oense om vilka ministrar som ska klandras - Sveriges Radio
+- Lotta kraschade med elsparkcykeln och krossade käken – vill se hårdare lagar - Dagens Nyheter
 - Man våldtog 13-årig flicka under villkorlig frigivning - Dagens Nyheter
+- Europeiskt stridsflygprojekt läggs på is - Västerbottens-Kuriren
+- Netanyahu: Slår tillbaka ”med styrka” om Iran attackerar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Michael Winiarski: Valet i Armenien nytt bakslag för Putin - Dagens Nyheter
 - Nato sköt ned drönare över Lettland - Hufvudstadsbladet – HBL
-- Europeiska ledare: fem villkor för fred i Ukraina - Europaportalen
-- Påkostat välkomnande för Xi i Nordkorea - Västerbottens-Kuriren
+- AI-boom och sjunkande oljepriser lyfter Wall Street efter nedgången - Börskollen
 - Börsens fall mattas av efter Trumps utspel - Västerbottens-Kuriren
-- Wall Street rycker upp sig med halvledare i täten - EFN
+- Damodaran: Spacex värdering i börsnoteringen är för hög - Börsvärlden
 - Varningen: Oljepriset riskerar att dubbleras - Svenska Dagbladet
-- SpaceX prislapp sågas: "Kräver semesterresor till Mars" - Affärsvärlden
-- Alla rykten inför kvällens WWDC – Finder Guy, Liquid Glass och massor av Siri - Macworld.se
-- ”Som ett universalgeni i fickan på varje forskare” - Svenska Dagbladet
+- Så blir Apples nya AI - Dagens industri
+- Undersökte hjärtrytm hemifrån – med mobilkameran - Svenska Dagbladet
 
 ## World News
 
 - Ny mardrömsmånad – förvaltare lämnar Colosseum Global Alpha - EFN
 - Di:s krönikör: Kinas mål: Global makt till varje pris - Dagens industri
-- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 - Global mangrove forests rebound, offering hopeful sign for climate and coastal resilience - Tulane University News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Crypto World News International(@Square-Creator-2667a4bdc8927)s statistik - Binance
+- Actor Anthony Head, known for 'Buffy the Vampire Slayer,' has died at 72 - ABC7 Chicago
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -45,8 +44,9 @@ _Updated: 2026-06-08 18:34_
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- NTM prisades i INMA Global Media Awards - ntm.se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 
 ## Technology
 
@@ -74,7 +74,6 @@ _Updated: 2026-06-08 18:34_
 ## Business
 
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -82,17 +81,18 @@ _Updated: 2026-06-08 18:34_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Sharon Lavie blir Lendos sparekonom - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
@@ -120,36 +120,39 @@ _Updated: 2026-06-08 18:34_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
+- 5 myter om öppen vetenskap - Läkartidningen
+- Forskningen ska vara fri - European Commission
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
+- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Jordbruk och landsbygdsutveckling - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - Shaping Europe’s digital future
+- Hanoi Farmers' Association och Agribank samarbetar med jordbrukare för att främja digital omvandling och produktionsutveckling. - Vietnam.vn
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
@@ -157,8 +160,5 @@ _Updated: 2026-06-08 18:34_
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Kämpigt för jordbruk i öst - Land.se
-- Trögt för jordbruk på börsen - Land.se
-- Analys: Köp Black Earth Farming - Land.se
