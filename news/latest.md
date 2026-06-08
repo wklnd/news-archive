@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-08 21:07_
+_Updated: 2026-06-08 23:26_
 
-- After escalating strikes, Israel and Iran signal end to attacks - The Washington Post
-- Judge blocks Trump's $100,000 H-1B visa fee - CNBC
-- Fact check: Trump told NBC that he never promised not to start a new war. He did, repeatedly - CNN
-- The Kennedy Center drops 'Trump' branding as Bill Maher’s Twain Award guests are revealed - AP News
-- In Maine, Graham Platner looks to move on from a week of controversy - Politico
-- Philippines lifts tsunami alert after deadly 7.8 earthquake - DW.com
-- Trump walks out of interview with NBC while being pressed on election fraud claims - CBS News
-- Spencer Pratt’s L.A. Mayor Hopes Fade as He Slips Into Third Place - WSJ
-- Justice Department moves to strip citizenship from 17 people in unprecedented denaturalization push - CNN
-- Netanyahu May Find His Way Back From Trump's Humiliation, but Back to What? - Haaretz
-- China’s Xi Jinping arrives in North Korea on rare state visit - Al Jazeera
+- Trump Struggled to Rein In Netanyahu’s Strikes on Iran - WSJ
+- Trump's $100,000 H-1B visa fee is unlawful, US judge rules - Reuters
+- Trump claims he ‘didn’t guarantee’ no US wars. Here’s what he’s actually said - The Guardian
+- Florida earthquake LIVE: Orlando hit by 6.1 quake off Cuba coast as Miami buildings shake - Daily Express
+- Savannah Guthrie makes new plea for missing mother as search surpasses four months - The Guardian
+- Spencer Pratt Is Doing Totally Fine, Okay? - The Cut
+- Pentagon revises religious classification list after Utah lawmakers push for change - KUTV
+- Trump nominates Todd Blanche for attorney general amid controversy over DOJ fund - CNBC
+- Trump DOJ to denaturalize 17 US citizens in rare move - DW
+- Trump Border Chief Vows New York ICE Surge, Says ‘It’s Coming’ - Bloomberg.com
+- A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and triggers tsunami - PBS
+- Xi and Kim express hopes for greater ties between China and North Korea - NPR
+- Ukraine recaptures more territory than it loses along front line in May, Syrskyi says - The Kyiv Independent
 - David Maraga: Kenya's ex-chief justice arrested at protest against building on national park - BBC
-- Starmer tells Apple and Google to ban nude images on children's phones - BBC
-- In speech to Spanish parliament, pope demands respect for the dignity of all people - NPR
-- Stocks gain as chipmakers rebound from rout, Iran halts Israel attacks: Live updates - CNBC
-- Novo Nordisk Weight-Loss Pill Prescriptions Hit Three Million Since Launch - WSJ
+- S&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel: Live updates - CNBC
+- SpaceX IPO Is Well Oversubscribed With Orders Closing Wednesday - Bloomberg.com
+- US carriers spent $6.5B on fuel in April; global profit forecast is cut nearly in half - AP News
 - Exclusive | Once on the Brink, U.S. Steel’s Oldest Plant Is Getting a Big Renovation - WSJ
-- SpaceX IPO Is Said to Be Well Oversubscribed, Orders Close Wednesday - Bloomberg.com
-- Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple
-- Here's Everything Announced During The 2026 Summer Xbox Games Showcase - Game Informer
+- WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more - TechCrunch
+- Apple Releases First iOS 27, iPadOS 27, and macOS 27 Betas to Developers - MacRumors
