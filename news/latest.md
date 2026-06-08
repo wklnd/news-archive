@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-08 18:38_
+_Updated: 2026-06-08 21:07_
 
-- Iran and Israel Halt Exchanges of Fire - WSJ
-- Philippines lifts tsunami alert after deadly 7.8 earthquake - DW
-- Trump walks out of interview after being pressed on election fraud claims - NPR
-- Screwworm Is Back In Texas—And Could Raise Beef Prices - Forbes
-- Trump administration launches largest-ever effort to denaturalize U.S. citizens accused of fraud or other crimes - CBS News
-- Armenian PM Nikol Pashinyan claims victory in election seen as test of Russia’s influence - AP News
+- After escalating strikes, Israel and Iran signal end to attacks - The Washington Post
+- Judge blocks Trump's $100,000 H-1B visa fee - CNBC
+- Fact check: Trump told NBC that he never promised not to start a new war. He did, repeatedly - CNN
+- The Kennedy Center drops 'Trump' branding as Bill Maher’s Twain Award guests are revealed - AP News
+- In Maine, Graham Platner looks to move on from a week of controversy - Politico
+- Philippines lifts tsunami alert after deadly 7.8 earthquake - DW.com
+- Trump walks out of interview with NBC while being pressed on election fraud claims - CBS News
 - Spencer Pratt’s L.A. Mayor Hopes Fade as He Slips Into Third Place - WSJ
-- Capitol agenda: Five days to save FISA - Politico
-- Last-minute lawsuit looks to halt UFC White House event - WTOP
-- At least 5 people stabbed at Penn Station. Here's what we know. - CBS News
+- Justice Department moves to strip citizenship from 17 people in unprecedented denaturalization push - CNN
+- Netanyahu May Find His Way Back From Trump's Humiliation, but Back to What? - Haaretz
 - China’s Xi Jinping arrives in North Korea on rare state visit - Al Jazeera
-- Pope Leo denounces what he calls "scourge" of sexual abuse by Catholic clergy - CBS News
+- David Maraga: Kenya's ex-chief justice arrested at protest against building on national park - BBC
 - Starmer tells Apple and Google to ban nude images on children's phones - BBC
-- Ukrainian strikes hit oil sites in Russia and Crimea - AP News
-- Stock Market Today: Nasdaq Opens Higher; Oil Rallies After Iran-Israel Trade Strikes — Live Update - WSJ
-- Oil market calm masks a host of unknowns - Reuters
-- Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage - CNBC
-- Buy or stand by? What investing pros are saying about investing in SpaceX's IPO. - Business Insider
-- WWDC 2026 Live: Siri Updates, iOS 27, Tim Cook and More From Today's Event - CNET
+- In speech to Spanish parliament, pope demands respect for the dignity of all people - NPR
+- Stocks gain as chipmakers rebound from rout, Iran halts Israel attacks: Live updates - CNBC
+- Novo Nordisk Weight-Loss Pill Prescriptions Hit Three Million Since Launch - WSJ
+- Exclusive | Once on the Brink, U.S. Steel’s Oldest Plant Is Getting a Big Renovation - WSJ
+- SpaceX IPO Is Said to Be Well Oversubscribed, Orders Close Wednesday - Bloomberg.com
+- Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple
 - Here's Everything Announced During The 2026 Summer Xbox Games Showcase - Game Informer
