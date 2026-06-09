@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-09 03:27_
+_Updated: 2026-06-09 07:44_
 
 ## Top Stories
 
-- DN Direkt – Tingsrätten vill släppa bonusprinsen ur häktet - Dagens Nyheter
-- Trump varnade Netanyahu: ”Annars blir du ensam” - Västerbottens-Kuriren
+- Lovas ”bra nätverk” – jobbar gratis hos Ed - Expressen
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trumps varning till Netanyahu: Du blir lämnad ensam - Dagens Nyheter
+- Putins panik – tvingades stänga av övervakningskamera - Realtid
+- Israel: Stoppat föremål från Jemen - Västerbottens-Kuriren
 - Rysk oljeanläggning träffad i ukrainsk attack - GP
-- Misstänkt mord – en gripen efter att man hittats död - Sveriges Radio
-- Iran och Israel: Vi slutar om ni slutar - GP
-- Forskare varnar för ökat kärnvapenhot - GP
-- Larm om vapenhot på skärgårdsö – ska ha siktat mot färja - Sveriges Radio
 - Äckliga soprum ökar risken för sopslarv - Västerbottens-Kuriren
 - DANIEL ÅKERMAN, SVENSKA NYHETSBYRÅN: Vänsterns extremister finns till och med i Norrköping - NT
-- Stopp i ett körfält på grund av en stillastående fordon på E18 - UNT
-- Fördubbling av för tidigt födda barn i Ukraina - Dagens Nyheter
-- Björn på vift stänger 100 skolor i Japan - HD – Nyheter Dygnet Runt
-- Ukraina: Döda och skadade i ryska attacker - Västerbottens-Kuriren
-- Minimal marginal i Peruval - GP
+- Just nu: Stopp i ett körfält på grund av en stillastående fordon på E18 - UNT
+- Varnar för rådjur på vägen på E4 - Corren
+- Rekordsummor spenderas på kärnvapen - GP
+- Påkostat välkomnande för Xi i Nordkorea - Västerbottens-Kuriren
+- KRÖNIKA: Det finns många jag tycker mer synd om än kronprinsessan - Värmlands Folkblad
+- Ukraina: Döda och skadade i ryska attacker - Dagens Nyheter
 - Hattricket fullbordat: Open AI ansöker om börsnotering - Omni
-- Lannebo Sustainable Corporate Bond ökade 0,4 procent i maj - köpt obligationer från Mowi och Genova - Placera.se
-- Varningen: Ransonering kryper närmare - Svenska Dagbladet
-- Börsens fall mattas av efter Trumps utspel - GP
-- Apples nya Siri ska ta upp kampen med Chat GPT - Omni
-- Apple släpper betaversioner av sina nya operativsystem - Macworld.se
+- Kraftig ökning för begagnade elbilar i maj - Carlas elbilsindex - Börsvärlden
+- Stockholmsbörsen mot försiktig öppning: ”Håller riskaptiten vid liv” - EFN
+- Asiens börser pressas av AI-oro och oroande händelser i Mellanöstern - Börskollen
+- Apple lanserar Siri AI, ingår partnerskap med Nvidia och Google kring avancerade AI-modeller - Börsvärlden
+- Golden Gate, ”liquid glass” och Siri – det här visade Apple upp på årets WWDC - Omni
 
 ## World News
 
 - Ny mardrömsmånad – förvaltare lämnar Colosseum Global Alpha - EFN
 - Di:s krönikör: Kinas mål: Global makt till varje pris - Dagens industri
-- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 - Global mangrove forests rebound, offering hopeful sign for climate and coastal resilience - Tulane University News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -40,13 +39,37 @@ _Updated: 2026-06-09 03:27_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Scientists create the first global map of rare, deep-mantle earthquakes - The Brighter Side of News
 - CNN International | Kanalinfo | Kanalpaket - Bredbandsval.se
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Visual Art köper Global Agencies - Dagens Media
+
+## Technology
+
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Kina utökar övervakning i realtid av invånarna - Omni
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -75,47 +98,35 @@ _Updated: 2026-06-09 03:27_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Förbättringskunskap behöver fortsatt tillämpas i sjukvården - Läkartidningen
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
+- 5 myter om öppen vetenskap - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
-- Olika slutsatser från samma data - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Priser delades ut till många framstående studentforskningsprojekt vid Student Scientific Research Conference för läsåret 2025-2026. - Vietnam.vn
+- Forskningen ska vara fri - European Commission
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- AI och data science - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
@@ -130,12 +141,12 @@ _Updated: 2026-06-09 03:27_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Jordbrukspolitik - Naturvårdsverket
-- Här är världens största jordbruk - ATL.nu
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
