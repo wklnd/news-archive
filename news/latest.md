@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-09 07:51_
+_Updated: 2026-06-09 12:23_
 
-- Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run - The New York Times
-- A timeline of the escalating tensions between Iran and Israel over Lebanon - AP News
-- Musk Joins Trump In Boosting Unsubstantiated Claims About LA Mayor Election As Pratt Drops To Third - Forbes
-- Trump’s $100,000 fee on H-1B visas for highly skilled workers is struck down - The Washington Post
-- USDA Secretary Rollins calls Texas ag chief 'unserious' amid screwworm threat - CNBC
+- How Nithya Raman went from last-minute candidate to the L.A. mayor runoff - Los Angeles Times
+- Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud - The New York Times
 - Behind the scenes: How Israel and Iran nearly pulled Trump back to war - Axios
-- NYPD closing a swath of Midtown around MSG for Trump visit to Knicks game Monday - Gothamist
-- Republicans hope Trump retreats on Pulte to save spy law - Politico
+- Conflicts on rise globally, highest level since WWII, data shows - NPR
+- Trump says pilots are fine after U.S. helicopter crashes near Strait of Hormuz - NPR
+- Live Results: Maine midterm primaries - PBS
 - Karmelo Anthony trial updates: Defense rests case after Anthony not called to testify - Dallas News
-- Trump DOJ to denaturalize 17 US citizens in rare move - DW.com
+- In Maine, Graham Platner looks to move on from a week of controversy - Politico
+- Trump’s $100,000 fee on H-1B visas for highly skilled workers is struck down - The Washington Post
+- How many times has Trump claimed an Iran deal is around the corner? - Yahoo
 - Some of the deadly earthquakes in the Philippines - AP News
-- ICC chief prosecutor suspended pending decision by oversight body on sexual misconduct allegations - AP News
-- Pope uses Spain speech to warn of global ‘spiritual and cultural crisis’ - The Guardian
-- NATO jets shoot down drone over Latvia, extending Ukraine spillover fears - Al Jazeera
-- OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St. - The New York Times
-- SpaceX IPO Forces Investors to Bet on Musk’s Entangled AI Empire - Bloomberg
-- Stock futures rise as chip rebound lifts S&P 500 to winning day; South Korea stocks jump 7%: Live updates - CNBC
-- Asia stocks bounce on dip buying, bonds lag behind - Reuters
+- ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct - The Times of Israel
+- The 15-Hour Fight With Iran Showed the Bind Israel Is In - The New York Times
+- Kremlin tells Russian media to portray Pashinyan’s election win with under 50% as a ‘loss’ - Meduza
+- OpenAI plans stock market debut, setting up new race with Anthropic - BBC
+- U.S. stock futures rise as chip rebound lifts S&P 500; South Korea's Kospi jumps 8%: Live updates - CNBC
+- Asia stocks rise gingerly on AI recovery, Israel-Iran deescalation - Investing.com
+- SpaceX IPO Is Well Oversubscribed With Orders Closing Wednesday - Bloomberg
 - Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple
-- iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More - MacRumors
+- 5 things I already love from the iOS 27 beta - The Verge
