@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-09 03:30_
+_Updated: 2026-06-09 07:51_
 
 - Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run - The New York Times
-- After escalating strikes, Israel and Iran signal end to attacks - The Washington Post
-- Trump's $100,000 H-1B visa fee is unlawful, US judge rules - Reuters
-- Justice Department moves to strip citizenship from 17 people in unprecedented denaturalization push - CNN
-- After Mormon lawmakers object, Pentagon revises Christian religious categories - The Washington Post
+- A timeline of the escalating tensions between Iran and Israel over Lebanon - AP News
+- Musk Joins Trump In Boosting Unsubstantiated Claims About LA Mayor Election As Pratt Drops To Third - Forbes
+- Trump’s $100,000 fee on H-1B visas for highly skilled workers is struck down - The Washington Post
+- USDA Secretary Rollins calls Texas ag chief 'unserious' amid screwworm threat - CNBC
 - Behind the scenes: How Israel and Iran nearly pulled Trump back to war - Axios
-- Trump nominates Todd Blanche for attorney general amid controversy over DOJ fund - CNBC
-- Ken Paxton’s attorney in his impeachment trial endorses James Talarico in US Senate race - AP News
-- Karmelo Anthony Murder Trial Detective Says Knife in Stabbing Was Legal in Texas - TMZ
-- Strongest earthquake in nearly 150 years hits off Cuba, shakes Mexico, Florida - Reuters
-- China Reasserts Itself, to Contain North Korea’s Tilt Toward Russia - The New York Times
-- Germany and France drop joint fighter jet project - Reuters
+- NYPD closing a swath of Midtown around MSG for Trump visit to Knicks game Monday - Gothamist
+- Republicans hope Trump retreats on Pulte to save spy law - Politico
+- Karmelo Anthony trial updates: Defense rests case after Anthony not called to testify - Dallas News
+- Trump DOJ to denaturalize 17 US citizens in rare move - DW.com
+- Some of the deadly earthquakes in the Philippines - AP News
 - ICC chief prosecutor suspended pending decision by oversight body on sexual misconduct allegations - AP News
-- Ukraine recaptures more than 600 square km of territory in 2026, military chief says - Reuters
-- OpenAI confidentially files for initial public offering on US stock market - The Guardian
-- SpaceX IPO Is Well Oversubscribed With Orders Closing Wednesday - Bloomberg.com
-- US says BYD, Baidu, Alibaba and other tech giants are aiding China's military - Reuters
-- Stock Market Today: Nasdaq Opens Higher; Oil Rallies After Iran-Israel Trade Strikes — Live Update - WSJ
-- Apple plays catch-up at WWDC - TechCrunch
+- Pope uses Spain speech to warn of global ‘spiritual and cultural crisis’ - The Guardian
+- NATO jets shoot down drone over Latvia, extending Ukraine spillover fears - Al Jazeera
+- OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St. - The New York Times
+- SpaceX IPO Forces Investors to Bet on Musk’s Entangled AI Empire - Bloomberg
+- Stock futures rise as chip rebound lifts S&P 500 to winning day; South Korea stocks jump 7%: Live updates - CNBC
+- Asia stocks bounce on dip buying, bonds lag behind - Reuters
+- Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple
 - iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More - MacRumors
