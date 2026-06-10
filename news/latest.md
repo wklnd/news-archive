@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-10 07:05_
+_Updated: 2026-06-10 11:05_
 
-- U.S. strikes Iran in response to downed helicopter - NPR
-- Graham Platner wins Dem nomination in key Maine Senate race - Axios
+- Live Updates: U.S. conducts retaliatory strikes after Trump says Iran shot down Apache helicopter - CBS News
+- The Democratic establishment begrudgingly moves to embrace Graham Platner - Politico
 - Steve Hilton edges out Tom Steyer in California governor race - BBC
-- Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter - The Guardian
-- Sen. Lindsey Graham wins primary over ‘America First’ challenger - Politico
-- Karmelo Anthony sentenced to 35 years in Texas track meet murder of Austin Metcalf - CBS News
-- Nancy Mace loses GOP primary for South Carolina governor - Politico
-- Live Results: Nevada midterm primaries - PBS
+- U.K. leaders call for calm as protests break out after Belfast street stabbing - NPR
+- Karmelo Anthony Sentenced to 35 Years for Murder of Teen at Texas Track Meet - The New York Times
+- Lindsey Graham Wins GOP Senate Primary in South Carolina, DDHQ Projects - Bloomberg.com
+- Nevada Attorney General Wins Democratic Nomination for Governor - The New York Times
 - House passes $70B bill to fund immigration enforcement for 3 years, sending to Trump - AP News
-- White House will be closed to reporters during UFC fight — unless UFC lets them in - The Washington Post
+- Evette, backed by Trump, and Wilson, a Trump supporter, head to S.C. governor runoff - NPR
+- Trump argues lawsuit seeking to halt White House UFC fight was brought too ‘late’ - CNN
+- Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ
+- Russian-held Crimea grapples with fuel shortages amid Ukrainian drone attacks - Reuters
 - China's Xi says he reached important consensus with Kim in North Korea visit, KCNA reports - Reuters
-- Air Canada Pilot Accused of Flying for 17 Years Without Proper License - The New York Times
-- Israeli attack on Tyre in Lebanon kills eight as evacuation ordered for Christian quarter - The Guardian
-- Brutal stabbing attack in Belfast sparks calls for anti-immigration protests in Northern Ireland - CBS News
-- Social Security retirement trust fund will run dry in 2032 unless Congress acts - 6abc Philadelphia
-- Exclusive-SpaceX IPO demand is approaching four times oversubscribed, source says - Yahoo Finance
-- Anthropic releases ‘safe’ version of Claude Mythos AI model to public - The Guardian
+- Russia’s Energy Ministry Admits Drone Attacks Behind Gasoline Shortages - The Moscow Times
+- How SpaceX’s IPO ambitions ride on Starship’s path to Mars - Financial Times
+- Asian stocks slide, oil rises as Iran and US launch strikes - Reuters
 - G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag - The New York Times
+- As Salesforce begins layoffs, here's the standard severance package the company offers employees - Business Insider
 - I tried Siri AI, and so far it actually works - The Verge
-- Google just fired a warning shot in the AI subscription price wars - TechCrunch
+- The Top New Features in Apple’s iOS 27 and iPadOS 27 - WIRED
