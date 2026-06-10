@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-10 14:43_
+_Updated: 2026-06-10 18:46_
 
 ## Top Stories
 
-- Fem byggarbetare dog i hissolyckan i Sundbyberg – samtliga åtalade frikänns - SVT Nyheter
-- DN Direkt – Kristersson om Fållöknastiftelsen: ”Har inget engagemang” - Dagens Nyheter
-- Satellitbilder visar rysk upprustning - GP
-- Drönarskräck i Ryssland: ”Rycker till för minsta lilla” - Hufvudstadsbladet – HBL
-- Regeringen satsar på kollektivtrafiken men glömmer färdtjänstresenärerna - Altinget.se
-- Marius Borg Høiby släpps inte ur häktet - SVT Nyheter
+- Domen i dödliga hissolyckan: Alla frias - Arbetet
+- Ryssland kan tvingas överge viktiga udden - Dagens Nyheter
+- Brända hus och bilar i Belfast efter knivattack - GP
+- Flera döda i israeliska attacker mot Libanon - Västerbottens-Kuriren
+- SD växer hos medlemmar i TCO:s förbund - Arbetsvärlden
+- Andersson kör över V och MP om migrationen: Ska vara stram - Aftonbladet
+- Första prognosen: Så blir vädret på midsommar - GP
+- Mamman sov borta när barnrummet fattade eld - Dagens Nyheter
+- Tågstopp vid Stockholm – påverkar Arlanda - GP
 - Tomas Ramberg: Kristersson har gått i opposition - Dagens Nyheter
-- DN Direkt – Älgkalv siktad på Södermalm - Dagens Nyheter
-- Skjuten pojke filmades – flicka misstänkt - Västerbottens-Kuriren
-- Man åtalas – försökte spionera för Ryssland - Corren
-- Sandra Stiskalo: Belfast brinner och så vill Elon Musk ha det - Dagens Nyheter
-- Attacker mellan USA och Iran kring Hormuzsundet - Corren
-- Många döda i skjutning i Johannesburg - Västerbottens-Kuriren
-- Trump: ”Får betala priset” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- SVT:s reporter om Rysslands upprustning: Ett hot som Nato måste hantera - SVT Nyheter
+- Trump: ”Vi kommer att attackera väldigt hårt” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Kommer att anfalla Iran - Corren
+- Hopp om avtal trots Trumps ord: ”Relativt nära” - GP
 - Elon Musks SpaceX börsnoteras: "Extremt högt värderat" - TV4 Nyheterna
 - Brommaflyg annullerar Almedalsbiljetter - Företagarna
-- Analys: Skyhöga krav när AI-jättarna går till börsen - Omni
-- Trippelsmäll hotar efter tvärvändning om räntan: ”Inga tvivel” - EFN
+- Nu har handeln i Einride startat – här är de största ägarna - Breakit
+- Altman: Open AI går till börsen inom ett år - Omni
 - Apple: Hej Siri, låt oss få Apples AI-strategi på rätt spår igen - Morningstar
 - Nintendo gör nyversion av älskat Zelda-spel - Sydsvenskan
 
@@ -34,17 +34,17 @@ _Updated: 2026-06-10 14:43_
 - Claudia Hanson ny professor i global hälsosystemforskning - Karolinska Institutet
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Di:s krönikör: Kinas mål: Global makt till varje pris - Dagens industri
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Di:s krönikör: Kinas mål: Global makt till varje pris - Dagens industri
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- EIA sänker prognoserna för global oljeefterfrågan och oljeproduktion - Börsvärlden
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- EIA sänker prognoserna för global oljeefterfrågan och oljeproduktion - Börsvärlden
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - ⚖️ Global ojämlikhet minskar både mellan och inom länder - Warp News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
@@ -73,39 +73,39 @@ _Updated: 2026-06-10 14:43_
 
 ## Business
 
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
-- Att förbättra den regionala hälso- och sjukvården och föra specialiserade tjänster närmare människorna. - Vietnam.vn
-- Svenaeus Fredrik. The hermeneutics of medicine and the phenomenology of health. Steps towards a philosophy of medical practice - Läkartidningen
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Vi presenterar ChatGPT Health - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Att förbättra den regionala hälso- och sjukvården och föra specialiserade tjänster närmare människorna. - Vietnam.vn
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -114,8 +114,8 @@ _Updated: 2026-06-10 14:43_
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
@@ -128,37 +128,37 @@ _Updated: 2026-06-10 14:43_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Jordbrukspolitik - Naturvårdsverket
 - Effekten av Conservation Agriculture - Länsstyrelsen
+- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Tio jordbruksaktier för depån - Placera.se
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Kämpigt för jordbruk i öst - Land.se
-- Analys: Köp Black Earth Farming - Land.se
