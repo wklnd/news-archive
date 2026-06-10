@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-10 11:05_
+_Updated: 2026-06-10 14:45_
 
-- Live Updates: U.S. conducts retaliatory strikes after Trump says Iran shot down Apache helicopter - CBS News
-- The Democratic establishment begrudgingly moves to embrace Graham Platner - Politico
+- Trump invokes ‘The West Wing’ in apparent justification of latest Iran strikes - The Washington Post
+- Graham Platner wins Maine primary election: Results and key takeaways - Al Jazeera
+- Maine’s race for governor heads to ranked choice tallies in both primaries - NBC News
+- US Launches Strikes Against Iran After Helicopter Shot Down - Bloomberg.com
+- Night of Violence Grips Northern Ireland After Stabbing Attack - The New York Times
 - Steve Hilton edges out Tom Steyer in California governor race - BBC
-- U.K. leaders call for calm as protests break out after Belfast street stabbing - NPR
-- Karmelo Anthony Sentenced to 35 Years for Murder of Teen at Texas Track Meet - The New York Times
-- Lindsey Graham Wins GOP Senate Primary in South Carolina, DDHQ Projects - Bloomberg.com
 - Nevada Attorney General Wins Democratic Nomination for Governor - The New York Times
-- House passes $70B bill to fund immigration enforcement for 3 years, sending to Trump - AP News
-- Evette, backed by Trump, and Wilson, a Trump supporter, head to S.C. governor runoff - NPR
-- Trump argues lawsuit seeking to halt White House UFC fight was brought too ‘late’ - CNN
-- Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ
-- Russian-held Crimea grapples with fuel shortages amid Ukrainian drone attacks - Reuters
+- Karmelo Anthony found guilty of murder in fatal stabbing of Frisco student Austin Metcalf - CBS News
+- Republicans just took ICE spending fights off the table. It won’t end shutdown threats. - Politico
+- Once a rising star, Nancy Mace suffers resounding defeat in governor’s race - The Washington Post
+- Air Canada pilot flew passengers for years with a fake pilot’s license, police say - CNN
 - China's Xi says he reached important consensus with Kim in North Korea visit, KCNA reports - Reuters
-- Russia’s Energy Ministry Admits Drone Attacks Behind Gasoline Shortages - The Moscow Times
-- How SpaceX’s IPO ambitions ride on Starship’s path to Mars - Financial Times
-- Asian stocks slide, oil rises as Iran and US launch strikes - Reuters
-- G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag - The New York Times
-- As Salesforce begins layoffs, here's the standard severance package the company offers employees - Business Insider
-- I tried Siri AI, and so far it actually works - The Verge
-- The Top New Features in Apple’s iOS 27 and iPadOS 27 - WIRED
+- Russian Offensive Campaign Assessment, June 9, 2026 - Institute for the Study of War
+- At Least 12 Dead After Shooting by Multiple Attackers in Johannesburg - The New York Times
+- Consumer prices rose 4.2% annually in May, highest in three years - CNBC
+- SpaceX IPO: What You Need to Know - The New York Times
+- Asia stocks fall on US-Iran flare-up, chip losses; inflation jitters weigh - Investing.com
+- 19 Things to Know About Gwynne Shotwell, SpaceX’s President - WSJ
+- iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27 - MacRumors
+- Oh, Thank God: iOS 27 Fixes the Liquid Glass Optical Illusion That Broke My Brain - Gizmodo
