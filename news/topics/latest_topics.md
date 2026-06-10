@@ -1,24 +1,24 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-10 00:07_
+_Updated: 2026-06-10 02:16_
 
 ## Top Stories
 
-- Kristersson om Aftonbladets säkerhetsavslöjande: Har inget med min frus stiftelse att göra - SVT Nyheter
 - USA har attackerat Iran – som svar på nedskjuten helikopter - Dagens Nyheter
+- Säpo kritiseras för säkerheten runt Kristersson - GP
 - Ilskna protester i Belfast efter knivdåd - GP
 - Mamman Anna ansågs påstridig på akuten – orosanmäldes - Sveriges Radio
-- FN: Hamaspolis avrättade palestinier i Gaza - Västerbottens-Kuriren
-- Lista: Här är gatorna med flest elsparkcykelolyckor - Dagens Nyheter
-- KU-granskning av regeringen slutar i storbråk - GP
+- Israels försvarschef: Redo för nya stora attacker - Aftonbladet
+- C-ledaren: Vi ska växa så att Sverige inte tippar åt vänster - Omni
+- KU-granskning av regeringen slutar i storbråk - Västerbottens-Kuriren
 - DN Direkt – Tre häktade misstänkta för jaktbrott - Dagens Nyheter
-- Regeringen ger Folkhälsomyndigheten i uppdrag för att fortsätta säkra tillgången till antibiotika i Sverige - Regeringen.se
-- C väljer bort Kristersson som statsministerkandidat - Västerbottens-Kuriren
-- Amerikansk ex-general: Ukraina vinner kriget - Dagens Nyheter
-- Nathan Shachar: Irans ledare är inte längre rädda för Israel och USA - Dagens Nyheter
-- Zelenskyj och Orpo i Tallinn: Drönarsamarbete behövs - Hufvudstadsbladet – HBL
-- Fler svenskar vill donera efter Mette-Marits hälsobesked - Dagens Nyheter
-- Dieselpriserna skenar – bilister tankar mindre - Svenska Dagbladet
+- Ett körfält blockerat på grund av en stillastående fordon på E4 - UNT
+- Så blir studentvädret i Västerbotten: ”Jämlikt okul” - Sveriges Radio
+- Ukraina: Döda och skadade i ryska attacker - Corren
+- FN: Hamaspolis avrättade palestinier i Gaza - Västerbottens-Kuriren
+- Så slår Ukraina till mot ryska storstäder – drönarna försvinner i ”bruset” - Dagens Nyheter
+- Mette-Marit får inte nya lungor snabbare än andra - Hufvudstadsbladet – HBL
+- Linus Larsson: Det här är spiken i kistan för allt gott Open AI skulle bli - Dagens Nyheter
 - Björn Jeffery: Raketen i Kista: upp 2 400 procent - Svenska Dagbladet
 - AI-bolagen drog Wall Street ned i utförsbacke - GP
 - Stockholmsbörsen stängde på dagslägsta – telekomduo rasade - EFN
@@ -50,26 +50,26 @@ _Updated: 2026-06-10 00:07_
 
 ## Technology
 
-- Den högst rankade kvinnliga AI-studenten kommer från en självlärd bakgrund. - Vietnam.vn
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Europeisk expertgrupp ger råd om AI i transplantationsvården - Karolinska Institutet
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Bästa AI-aktierna att köpa nu - Morningstar
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Försäkringsbolag tar fram skydd för förluster orsakade av chattbotar - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -89,9 +89,9 @@ _Updated: 2026-06-10 00:07_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Sharon Lavie blir Lendos sparekonom - Mynewsdesk
 
 ## Health
