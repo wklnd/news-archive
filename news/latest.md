@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-11 04:03_
+_Updated: 2026-06-11 09:16_
 
-- Middle East crisis live: US military launches second day of airstrikes at ‘multiple targets’ in Iran - The Guardian
-- Trump sticks with Pulte for intel job as risk grows of lapse in spy powers - AP News
-- Bill Gates Says Epstein Tried to Use His Extramarital Affairs Against Him - The New York Times
-- Karmelo Anthony to appeal murder conviction in Frisco track meet stabbing - CBS News
+- Iran Updates: Hegseth says U.S. will "negotiate with bombs" if needed, as U.S. military announces more strikes - CBS News
+- Oil Prices Spike as Iran Declares Strait of Hormuz Closed - Crude Oil Prices Today | OilPrice.com
+- China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios
+- Karmelo Anthony lawyers file notice of appeal day after he was sentenced to 35 years - Dallas News
 - Some Senate Dems still won’t commit to Graham Platner - Politico
-- Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed - The New York Times
-- Trump says "I love the inflation" because U.S. is "taking out" Iranian oil - CBS News
-- Suspect in the Killing of a Minnesota Lawmaker Strikes a Plea Deal - The New York Times
-- Jeffery Lee breathes ‘sigh of relief’ after Alabama’s nitrogen execution is deemed unconstitutional - NBC News
-- Judge rejects watchdog's bid to block Trump administration's $1.8B 'anti-weaponization' fund - AP News
-- Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN
-- Canada Moves to Ban Social Media Use for Youth Under 16 - The New York Times
-- Trump says Iran will ‘pay the price’ after it targets U.S. assets in three countries - The Washington Post
 - U.K. leaders call for calm as protests break out after Belfast street stabbing - NPR
-- SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg
-- Stock Market Today: Nasdaq Drops 2%, Dow Falls 950 Points As Chips Slide; Robinhood Pops - Investor's Business Daily
-- Oracle's AI spending blows past estimates, raising worries over growing debt - Reuters
-- SpaceX Leaves Some Banks Peeved at Junior Roles in IPO Lineup - Bloomberg
-- Apple’s new Siri AI knows when to shut up - The Verge
-- Valve kills its retail gift card program due to scammers - Ars Technica
+- The man accused of killing a top Minnesota Democratic lawmaker and her husband is due to change plea - AP News
+- University of Florida Chooses Stuart Bell for President Over Some Conservative Criticism - The New York Times
+- America’s doctors just voted for war with RFK Jr. - Politico
+- Influencer Jake Lang arrested again in North Texas on terroristic threat charge, held on $1M bond - FOX 4 News Dallas-Fort Worth
+- Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN
+- Did China's Xi visit North Korea because an emboldened Kim Jong Un wants "to confront the U.S."? - CBS News
+- Trump Says U.S. Will Launch New Attacks on Iran - WSJ
+- Taiwan says its sovereignty cannot be 'violated', as China ends coast guard patrol - Reuters
+- CNBC Daily Open: Trump expresses 'love' for inflation print and anger at Iran - CNBC
+- Shares retreat as techs extend losses, US strikes on Iran lift oil - Reuters
+- SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg.com
+- SpaceX IPO to mint 4,000 millionaires, cooks included - The Next Web
+- Framework delays its first Laptop 13 Pro shipments by a month - The Verge
+- Craig Federighi Explains Why Apple Pivoted to a Siri Chatbot App - MacRumors
