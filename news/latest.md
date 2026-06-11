@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-11 13:58_
+_Updated: 2026-06-11 18:39_
 
-- US strikes Iran in retaliation for Apache shoot-down - Fox News
-- Three Indian sailors killed by US missile near Oman, as US and Iran exchange strikes - BBC
-- Police blast water cannons at protesters amid unrest over stabbing in Belfast - NPR
-- Karmelo Anthony lawyers file notice of appeal day after he was sentenced to 35 years - Dallas News
-- Democrats reluctantly accept Platner as GOP wields his candidacy against them - The Washington Post
-- Iran says 20,000 people left without water after US hits reservoir tanks - Financial Times
+- Multiple Pentagon floors on lockdown due to 'hazardous materials' - BBC
+- Live Updates: Trump says U.S. to hit Iran "very hard," threatens to take Kharg Island as war reignites - CBS News
+- Spy law on track to lapse after House rejects extension - Politico
+- El Niño forms in Pacific as experts say it will likely turbocharge extreme weather - The Guardian
+- Britain’s defence ⁠secretary Healey quits over defence spending - Al Jazeera
 - The man accused of killing a top Minnesota Democratic lawmaker and her husband is due to change plea - AP News
-- Iran War Live Updates: U.S. and Iran Trade Fresh Attacks - The New York Times
-- University of Florida Chooses Stuart Bell for President Over Some Conservative Criticism - The New York Times
-- FBI raids home of alleged pro-Palestine activist in Ypsilanti - MLive.com
+- How Karmelo Anthony’s Stabbing Case Became A Racial Flashpoint In Texas - Forbes
+- House Republicans huddle with Hegseth after Trump’s reconciliation demands - Politico
+- Flesh-eating screwworm has reached the US — a comeback driven by organized crime - CNN
+- Opening of Canada-US bridge that Trump threatened to block is delayed over unresolved 'issues' - AP News
+- Three Indian sailors killed in US strike on oil tanker - BBC
+- Police blast water cannons at protesters amid unrest over stabbing in Belfast - NPR
 - Russian-held Sevastopol suspends fuel distribution as Zelenskiy praises attacks on energy assets - Reuters
-- Women Who Fled Iran Are to Be Deported to Central African Republic, Lawyers Say - The New York Times
 - Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN
-- The War in Ukraine Has Now Gone On Longer Than World War I - The New York Times
-- SpaceX IPO is a ‘referendum’ on Musk, say market watchers - CNBC
-- Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude - WIRED
-- Trump's inflation flippancy gifts Dems ready-made midterm ads - Axios
-- Winning Powerball numbers for the $238 million jackpot on June 10, 2026: See all the prizes hit in Ohio - WKYC
-- YouTube rolling out new in-app messaging with invite-only chats - 9to5Google
-- Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items - Daring Fireball
+- SpaceX IPO Draws More Than $70 Billion in Retail Orders - Bloomberg.com
+- SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel - CNBC
+- US wholesale inflation rose sharply last month as Iran oil shock continues to drive up business costs - CNN
+- Anthropic backpedals on Fable safety measure - The Verge
+- Apple’s new Siri AI knows when to shut up - The Verge
+- Bypass Siri AI Waitlist on macOS 27 Golden Gate Beta: Here's How - MacRumors
