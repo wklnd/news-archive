@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-11 23:00_
+_Updated: 2026-06-12 01:06_
 
 ## Top Stories
 
 - Trump vänder: Ställer in anfall mot Iran - Västerbottens-Kuriren
 - Alla broar till Krim attackerade – slår mot rysk logistik - Dagens Nyheter
-- Misstänkt mord på kvinna i Malmö – en anhållen - Sveriges Radio
-- Nya våldsamma protester i Belfast - SVT Nyheter
+- Vattenkanon mot demonstranter efter brutalt knivdåd i Belfast - GP
 - SD vill införa slöjförbud – Fardowsa, 18, kritiserar förslaget: ”Mitt val” - GP
-- Ny rekommendation om att vänta med egen smart telefon till minst 13 års ålder - Regeringen.se
+- Misstänkt mord på kvinna i Malmö – en anhållen - Sveriges Radio
+- Trump: Avtal med Iran kan undertecknas i Europa i helgen - EFN
 - Efterlyst man gripen misstänkt för våldtäkt - Västerbottens-Kuriren
 - Därför dyker älgarna upp i stadsmiljöer: ”Förvirrade tonåringar” - Dagens Nyheter
-- Brand i flerfamiljshus – sprids i ventilationen - Västerbottens-Kuriren
+- Ny rekommendation om att vänta med egen smart telefon till minst 13 års ålder - Regeringen.se
 - Åkesson: Klart jag är besviken på Liberalerna – Senaste nytt om valet 2026 - SVT Nyheter
 - Ryssland bygger ny militärbas nära Finland - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Trump: Avtal skrivs på ”snart” - Dagens Nyheter
-- Nytt avhopp från Starmers regering - GP
-- Falsklarm när Pentagon evakuerades - Västerbottens-Kuriren
-- LEDARE: Köp aktier i SpaceX och bli delägare i en rikare och roligare framtid - Kristianstadsbladet
+- Storbritanniens försvarsminister avgår - SVT Nyheter
+- Kärnkraftverket i Zaporizjzja utan el – drivs av aggregat - Omni
+- Inga pengar har kommit in – Lavrov förbannad - Marcus Oscarsson
+- Småsparare nära att uppfylla Space X IPO-mål på egen hand - EFN
 - ECB höjer räntan – börsen faller - Expressen
+- Elon Musk är tidernas första dollarbiljonär - Expressen
 - Stockholmsbörsen sjunker initialt efter publiceringen av USA-PPI, Trump-utspel tynger - Börsvärlden
-- Stockholmsbörsen steg – Vestum rusade efter miljardaffär - Affärsvärlden
 - Nasa får kritik för den helt manliga besättningen - Omni
-- Xbox varslar anställda i juli när VD Sharma pekar på sjunkande vinst - Investing.com Sverige
+- Apples nya Siri AI kanske aldrig kommer till EU - Teknikveckan
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - Tv.nu
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Claudia Hanson ny professor i global hälsosystemforskning - Karolinska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -43,10 +43,10 @@ _Updated: 2026-06-11 23:00_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
@@ -121,8 +121,8 @@ _Updated: 2026-06-11 23:00_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - 5 myter om öppen vetenskap - Läkartidningen
+- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -138,7 +138,7 @@ _Updated: 2026-06-11 23:00_
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska institutet
-- Perspektiv på vårdvetenskap - Karolinska institutet
+- Perspektiv på vårdvetenskap - Karolinska Institutet
 
 ## Jordbruk
 
@@ -147,7 +147,6 @@ _Updated: 2026-06-11 23:00_
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
@@ -162,3 +161,4 @@ _Updated: 2026-06-11 23:00_
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
