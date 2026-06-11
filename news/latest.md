@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-11 01:15_
+_Updated: 2026-06-11 04:03_
 
-- Middle East crisis live: Iran accuses US of ‘calculated war crime’ as Pete Hegseth says military will be ‘hitting Iran hard’ tonight - The Guardian
-- Bill Gates Tells Congress His Affairs Had Nothing to Do With Epstein - WSJ
-- Trump asks Congress for ‘short-term’ spy law extension - Politico
-- Chicago police release photo of 'person of interest' after video shows burning cross in Grant Park in the Loop - ABC7 Chicago
-- Trump: US Took Millions of Barrels of Oil From Iran - Yahoo
-- Texas teen sentenced to 35 years for killing fellow student at athletics event - BBC
-- Democrats reluctantly accept Platner as GOP wields his candidacy against them - The Washington Post
-- Judge declines to block ‘Anti-Weaponization Fund’ officials say is halted - Politico
-- Pro-Palestinian Activists at U. of Michigan Indicted on Federal Conspiracy Charges - The New York Times
-- Search warrant served in Garden Grove after chemical tank crisis at GKN Aerospace facility - ABC7 Los Angeles
+- Middle East crisis live: US military launches second day of airstrikes at ‘multiple targets’ in Iran - The Guardian
+- Trump sticks with Pulte for intel job as risk grows of lapse in spy powers - AP News
+- Bill Gates Says Epstein Tried to Use His Extramarital Affairs Against Him - The New York Times
+- Karmelo Anthony to appeal murder conviction in Frisco track meet stabbing - CBS News
+- Some Senate Dems still won’t commit to Graham Platner - Politico
+- Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed - The New York Times
+- Trump says "I love the inflation" because U.S. is "taking out" Iranian oil - CBS News
+- Suspect in the Killing of a Minnesota Lawmaker Strikes a Plea Deal - The New York Times
+- Jeffery Lee breathes ‘sigh of relief’ after Alabama’s nitrogen execution is deemed unconstitutional - NBC News
+- Judge rejects watchdog's bid to block Trump administration's $1.8B 'anti-weaponization' fund - AP News
 - Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN
-- A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast - The Washington Post
-- Trump holds meeting on Iran strike options - Axios
-- Air Canada pilot accused of flying over 900 flights without valid license: "Like a movie script" - CBS News
-- SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg.com
-- Wall Street indexes fall more than 1%, hit by tech, Iran war worries - Reuters
-- Here's How Much Upside Is Left in SpaceX Stock at Its IPO Price, According to an Analyst - Yahoo Finance
-- Oracle Reports Earnings Amid a Rapid Cloud Transformation - Barron's
-- Craig Federighi Explains Why Apple Pivoted to a Siri Chatbot App - MacRumors
-- Valve is phasing out physical Steam gift cards due to scammers - The Verge
+- Canada Moves to Ban Social Media Use for Youth Under 16 - The New York Times
+- Trump says Iran will ‘pay the price’ after it targets U.S. assets in three countries - The Washington Post
+- U.K. leaders call for calm as protests break out after Belfast street stabbing - NPR
+- SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’ - Bloomberg
+- Stock Market Today: Nasdaq Drops 2%, Dow Falls 950 Points As Chips Slide; Robinhood Pops - Investor's Business Daily
+- Oracle's AI spending blows past estimates, raising worries over growing debt - Reuters
+- SpaceX Leaves Some Banks Peeved at Junior Roles in IPO Lineup - Bloomberg
+- Apple’s new Siri AI knows when to shut up - The Verge
+- Valve kills its retail gift card program due to scammers - Ars Technica
