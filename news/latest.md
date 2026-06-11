@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-11 18:39_
+_Updated: 2026-06-11 21:21_
 
-- Multiple Pentagon floors on lockdown due to 'hazardous materials' - BBC
-- Live Updates: Trump says U.S. to hit Iran "very hard," threatens to take Kharg Island as war reignites - CBS News
-- Spy law on track to lapse after House rejects extension - Politico
+- Dow jumps 800 points, oil tumbles as Trump cancels evening strikes against Iran: Live updates - CNBC
+- Trump picks Jay Clayton for Director of National Intelligence - Axios
 - El Niño forms in Pacific as experts say it will likely turbocharge extreme weather - The Guardian
-- Britain’s defence ⁠secretary Healey quits over defence spending - Al Jazeera
-- The man accused of killing a top Minnesota Democratic lawmaker and her husband is due to change plea - AP News
-- How Karmelo Anthony’s Stabbing Case Became A Racial Flashpoint In Texas - Forbes
-- House Republicans huddle with Hegseth after Trump’s reconciliation demands - Politico
-- Flesh-eating screwworm has reached the US — a comeback driven by organized crime - CNN
+- Karmelo Anthony's family says "nobody wins" after murder verdict and sentencing - CBS News
+- NH Supreme Court tosses Adam Montgomery’s murder conviction - Court TV
+- All clear given at Pentagon following after ‘hazardous materials’ alert - Al Jazeera
+- Man who killed Minnesota lawmaker and her husband pleads guilty to murder in federal case - CNN
+- Someone is marking a huge '8647' into the grounds of the National Mall in Washington - Reuters
+- Biden’s Mexico ambassador was so frustrated, he almost ran for president himself - Politico
 - Opening of Canada-US bridge that Trump threatened to block is delayed over unresolved 'issues' - AP News
-- Three Indian sailors killed in US strike on oil tanker - BBC
-- Police blast water cannons at protesters amid unrest over stabbing in Belfast - NPR
-- Russian-held Sevastopol suspends fuel distribution as Zelenskiy praises attacks on energy assets - Reuters
-- Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN
-- SpaceX IPO Draws More Than $70 Billion in Retail Orders - Bloomberg.com
+- UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
+- List of Belfast addresses said to be immigrant homes circulated online amid riots in wake of stabbing - CBS News
+- India Says U.S. Strike on Tanker in Iran Blockade Killed Three Nationals - WSJ
+- Toronto police officer dies in raid linked to US consulate shooting - BBC
+- SpaceX IPO Draws More Than $100 Billion in Retail Orders - Bloomberg.com
 - SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel - CNBC
-- US wholesale inflation rose sharply last month as Iran oil shock continues to drive up business costs - CNN
-- Anthropic backpedals on Fable safety measure - The Verge
-- Apple’s new Siri AI knows when to shut up - The Verge
-- Bypass Siri AI Waitlist on macOS 27 Golden Gate Beta: Here's How - MacRumors
+- US producer prices spike in May as soaring energy prices fuel largest yearly jump since 2022 - AP News
+- Musk’s Net Worth Down More Than $50 Billion Ahead Of SpaceX IPO - Forbes
+- I'm Glad Apple Isn't Hyping Up Agentic AI (Yet) - Engadget
+- The Trump Phone Is Literally a Gilded Cage for a Two-Year-Old Smartphone - Gizmodo
