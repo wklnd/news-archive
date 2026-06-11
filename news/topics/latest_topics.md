@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-11 19:50_
+_Updated: 2026-06-11 23:00_
 
 ## Top Stories
 
-- Regeringen överger fängelse för 13-åringar - UNT
-- Trump ”ställer in anfall” – hävdar färdigt avtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Gåva från riksdag och regering med anledning av Kungaparets guldbröllop - Regeringen.se
-- Direkt – Krisen i Mellanöstern – Trump: Kommer slå till hårt mot Iran ikväll - Dagens Nyheter
-- Svantesson: Trump har kostat Sverige 160 miljarder - Dagens Nyheter
-- Nytt hopp för ALS-sjuka Anna Furbeck – läkemedlet godkänns - Kuriren
-- Då rekommenderas barn tidigast få sin egen smartphone - GP
-- DN Direkt – SD-politiker utesluts efter flygblad med LVU-kritik - Dagens Nyheter
-- Mer strul för t-banan – risk för förseningar - Västerbottens-Kuriren
+- Trump vänder: Ställer in anfall mot Iran - Västerbottens-Kuriren
+- Alla broar till Krim attackerade – slår mot rysk logistik - Dagens Nyheter
+- Misstänkt mord på kvinna i Malmö – en anhållen - Sveriges Radio
+- Nya våldsamma protester i Belfast - SVT Nyheter
+- SD vill införa slöjförbud – Fardowsa, 18, kritiserar förslaget: ”Mitt val” - GP
+- Ny rekommendation om att vänta med egen smart telefon till minst 13 års ålder - Regeringen.se
+- Efterlyst man gripen misstänkt för våldtäkt - Västerbottens-Kuriren
 - Därför dyker älgarna upp i stadsmiljöer: ”Förvirrade tonåringar” - Dagens Nyheter
+- Brand i flerfamiljshus – sprids i ventilationen - Västerbottens-Kuriren
+- Åkesson: Klart jag är besviken på Liberalerna – Senaste nytt om valet 2026 - SVT Nyheter
 - Ryssland bygger ny militärbas nära Finland - Västerbottens-Kuriren
-- Pentagon har evakuerats – brandkåren på plats - Yle
-- ”Flickor rekryteras för att giftmörda ukrainska soldater” - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Ännu en oljetanker beskjuten i Hormuzsundet - Dagens Nyheter
-- ECB höjer räntan – börsen faller - Expressen
+- Direkt – Krisen i Mellanöstern – Trump: Avtal skrivs på ”snart” - Dagens Nyheter
+- Nytt avhopp från Starmers regering - GP
+- Falsklarm när Pentagon evakuerades - Västerbottens-Kuriren
 - LEDARE: Köp aktier i SpaceX och bli delägare i en rikare och roligare framtid - Kristianstadsbladet
-- Boverket föreslår slopat bygglov för vissa småhus – men nytt besked krävs utanför detaljplan - Bostadspolitik
-- Ny rekommendation: Ingen smartphone före 13 år - Svenska Dagbladet
+- ECB höjer räntan – börsen faller - Expressen
+- Stockholmsbörsen sjunker initialt efter publiceringen av USA-PPI, Trump-utspel tynger - Börsvärlden
+- Stockholmsbörsen steg – Vestum rusade efter miljardaffär - Affärsvärlden
 - Nasa får kritik för den helt manliga besättningen - Omni
 - Xbox varslar anställda i juli när VD Sharma pekar på sjunkande vinst - Investing.com Sverige
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Claudia Hanson ny professor i global hälsosystemforskning - Karolinska Institutet
+- Claudia Hanson ny professor i global hälsosystemforskning - Karolinska institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -55,35 +55,35 @@ _Updated: 2026-06-11 19:50_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -103,25 +103,25 @@ _Updated: 2026-06-11 19:50_
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska institutet
 - Vi presenterar HealthBench - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Studenter som bedriver vetenskaplig forskning prioriteras vid rekrytering av företag. - Vietnam.vn
 - 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -130,15 +130,15 @@ _Updated: 2026-06-11 19:50_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskningen ska vara fri - European Commission
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska institutet
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska institutet
+- Perspektiv på vårdvetenskap - Karolinska institutet
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-06-11 19:50_
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Effekten av Conservation Agriculture - Länsstyrelsen
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
