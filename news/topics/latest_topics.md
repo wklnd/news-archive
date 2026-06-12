@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-12 19:22_
+_Updated: 2026-06-12 21:30_
 
 ## Top Stories
 
-- Uppgifter: Fredsavtal mellan USA och Iran klart - GP
-- Dödliga nattanfall i Ryssland och Ukraina - GP
+- Barn klämdes fast i container - Sveriges Radio
+- Medlare: Iran och USA överens om avtalstext - GP
+- Så eldades upploppen i Belfast på från USA - Dagens Nyheter
 - Försvarsberedningen överlämnar delrapporten Skärpt läge – aktuell lägesbild i totalförsvaret och omvärlden - Regeringen.se
+- Dödliga nattanfall i Ryssland och Ukraina - GP
 - Förbättringar väntas på Röda linjen nästa vecka - SVT Nyheter
-- SD vill införa slöjförbud – Fardowsa, 18, kritiserar förslaget: ”Mitt val” - GP
-- App i SVT:s barnprogram – trots FHM:s avrådan - GP
-- Kvinna puttades ned i gruvhål i Norberg – nu är platsen avspärrad för mordutredning - SVT Nyheter
-- Stort bråk bland unga i Linköping – två män gripna - SVT Nyheter
-- Dödshjälparens advokat: Obehagliga människor ställer rättssamhället på prov - Dagens Nyheter
-- TRANSPORTFÖRETAGEN: Regeringssatsning på drönare kan undanröja hämmande regelverk - dagensinfrastruktur -
+- Polisen spärrar av gruvhål i Norberg – nya uppgifter i gammal mordutredning - Dagens Nyheter
+- Så påverkas Stockholmstrafiken av kungaparets firande - Dagens Nyheter
+- Domstolen avslår – terrordömd får fortsätta på KTH - Dagens Nyheter
+- 13-årsgräns för smarta telefoner: ”Exkluderande” - Västerbottens-Kuriren
+- Trump tror att avtal kan signeras i helgen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Skjutning i Texas: Polisen omringar skytt - Västerbottens-Kuriren
-- Medlarlandet: Finns godkänt slutligt utkast – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kina: Spionsköldpaddor stjäl rikets hemligheter - Västerbottens-Kuriren
-- Oppositionsledaren kräver Starmers avgång efter avhoppen - Omni
-- Space X-aktien upp i öppningen – Musk har blivit dollarbiljonär på riktigt - Omni
+- Putin erkänner: ”Vi skadas definitivt” - Expressen
+- Storbritanniens försvarsplan i kris efter försvarsministerns avhopp - Placera.se
+- Övriga börsen faller tillbaka efter Space X-rusningen - EFN
 - Mest surt på Wall Street efter Trump-utspel - Västerbottens-Kuriren
 - DN Direkt – Länsförsäkringar sänker bolåneräntor - Dagens Nyheter
-- Varningen: Så luras kriminella med jordgubbar - Expressen
+- Varningen: Unik logik ger mycket fusk med jordgubbar - Omni
 - Xbox: "Vi befinner oss i en kris för hårdvarukomponenter" - Evertiq
 - "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
 
@@ -34,7 +34,6 @@ _Updated: 2026-06-12 19:22_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -47,6 +46,7 @@ _Updated: 2026-06-12 19:22_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - El Niño återvänder och utgör en global risk för extremväder. - Vietnam.vn
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 
 ## Technology
 
@@ -60,7 +60,6 @@ _Updated: 2026-06-12 19:22_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -70,37 +69,28 @@ _Updated: 2026-06-12 19:22_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilken framtid arbetar du för? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Vi presenterar ChatGPT Health - OpenAI
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
