@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-12 09:06_
+_Updated: 2026-06-12 13:28_
 
-- Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed in ‘Coming Days’ - WSJ
-- Karmelo Anthony's family says "nobody wins" after murder verdict and sentencing - CBS News
-- A ‘very strong’ El Niño is likely. And it could hit California hard - Los Angeles Times
-- 5-year-old girl swept into ocean identified as Amada Mia Brown after body recovered in Orange County - ABC7 Los Angeles
+- Trump claims Iran deal reached, Tehran says no "final decision" - Axios
+- 5-year-old girl swept into ocean off Laguna Beach is identified, mourned - Los Angeles Times
 - Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas - The New York Times
-- Trump nominates U.S. attorney Jay Clayton as DNI after pushback over Bill Pulte - The Washington Post
-- The Only Constant of the Iran War Is Trump Saying It’s About to End - Rolling Stone
-- 1 killed in Iowa as severe storms, suspected tornadoes slam Midwest - CBS News
-- Kennedy Center board to fight order to remove Trump’s name as deadline looms - The Washington Post
-- Feds suspend LAHSA from receiving federal money, citing financial mismanagement - Los Angeles Times
-- Armed forces minister quits after Healey exit as defence funding row deepens - BBC
-- Drones Flown Over North Korea Were Part of Martial Law Plot in the South - The New York Times
-- What to know about the stabbing that set off fiery riots in Northern Ireland - PBS
-- Ukrainians hit four more Crimea bridges, amid reports of empty shelves in food shops (Ukraine Battlefield update, Day 1,568) - EUobserver
-- Elon Musk is the world’s first trillionaire (on paper) thanks to the SpaceX IPO - The Washington Post
-- Stock markets surge as Trump calls off strikes on Iran, touts peace deal - Al Jazeera
-- US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge - Reuters
-- How to Trade the SpaceX IPO in Asia's Locked-Out Markets - Bloomberg.com
-- Trump Mobile’s T1 Phone Powered Up With An HTC Logo After iFixit Swapped Its Mainboard For The U24 Pro’s, Exposing The T1 As A Clone - Wccftech
-- Telegram brings back its Wear OS app after five years with chats, voice messages, more - 9to5Google
+- El Niño Is Here to Turn the World’s Weather Upside Down - WIRED
+- Karmelo Anthony's family says "nobody wins" after murder verdict and sentencing - CBS News
+- Chicago, Illinois weather: Tornadoes leave damage across area in Streator, NW Indiana - ABC7 Chicago
+- Trump picks Jay Clayton for Director of National Intelligence - Axios
+- David Hockney obituary: A genius in practically every medium - BBC
+- Live Updates: Iran cautions no "final conclusion" yet on deal to end war after Trump says settlement agreed - CBS News
+- Kennedy Center board seeks pause of ruling ordering removal of Trump's name - NPR
+- UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
+- What to know about the EU’s new rules on migration and asylum as they come into effect - AP News
+- Ousted South Korean President Yoon given prison term for drone flights over Pyongyang - NPR
+- China warns of risk of 'extreme floods' in desert regions - Reuters
+- SpaceX Shares Indicated More Than 35% Higher in Shadow Trading - Bloomberg.com
+- U.S. stock futures rise on signs of a potential U.S.-Iran peace deal; traders await SpaceX IPO: Live updates - CNBC
+- SpaceX cafeteria workers poised to become millionaires after blockbuster IPO — 4,400 employees set to hit 7-figures - Yahoo Finance
+- Can smartphones help explain the drop in birth rates? - NPR
+- Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac
+- Apple iOS 27 Release Date: When You Can Download The New iPhone Software — Starts Now - Forbes
