@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-12 03:59_
+_Updated: 2026-06-12 09:06_
 
-- Trump says he has canceled plans to strike Iran, claiming deal is near - The Washington Post
-- How Karmelo Anthony’s Stabbing Case Became A Racial Flashpoint In Texas - Forbes
-- Federal authorities investigate giant ‘8647’ markings on National Mall - NBC News
+- Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed in ‘Coming Days’ - WSJ
+- Karmelo Anthony's family says "nobody wins" after murder verdict and sentencing - CBS News
 - A ‘very strong’ El Niño is likely. And it could hit California hard - Los Angeles Times
-- Trump Picks Jay Clayton for Director of National Intelligence After Backlash Over Bill Pulte - The New York Times
-- Senate panel approves Department of War name change - Politico
-- Vance Boelter pleads guilty, agrees to serve life in prison for his attacks on Minnesota lawmakers - Star Tribune
-- Live weather in Chicago: Tornado reported in Streator, Ill. as line of severe storms move through the area - CBS News
-- Alabama inmate's nitrogen gas execution tonight hinges on last-minute appeal to Supreme Court - CBS News
-- Air testing confirms 'no hazard exists' at Pentagon after lockdown incident - BBC
+- 5-year-old girl swept into ocean identified as Amada Mia Brown after body recovered in Orange County - ABC7 Los Angeles
+- Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas - The New York Times
+- Trump nominates U.S. attorney Jay Clayton as DNI after pushback over Bill Pulte - The Washington Post
+- The Only Constant of the Iran War Is Trump Saying It’s About to End - Rolling Stone
+- 1 killed in Iowa as severe storms, suspected tornadoes slam Midwest - CBS News
+- Kennedy Center board to fight order to remove Trump’s name as deadline looms - The Washington Post
+- Feds suspend LAHSA from receiving federal money, citing financial mismanagement - Los Angeles Times
+- Armed forces minister quits after Healey exit as defence funding row deepens - BBC
+- Drones Flown Over North Korea Were Part of Martial Law Plot in the South - The New York Times
 - What to know about the stabbing that set off fiery riots in Northern Ireland - PBS
-- UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
 - Ukrainians hit four more Crimea bridges, amid reports of empty shelves in food shops (Ukraine Battlefield update, Day 1,568) - EUobserver
-- US plans to deport Iranians to Central African Republic, sources say - Reuters
-- SpaceX IPO live updates: Record-setting IPO prices at $135 a share - Business Insider
-- Seniors needed long-term care and rehab. Their private Medicare plans said no. - The Washington Post
-- SpaceX IPO makes Elon Musk the world's first trillionaire - Reuters
-- US producer prices spike in May as soaring energy prices fuel largest yearly jump since 2022 - AP News
-- I'm Glad Apple Isn't Hyping Up Agentic AI (Yet) - Engadget
-- Pokémon Go Data Wasn’t Shared With Drone Company, Niantic Spatial Says - Kotaku
+- Elon Musk is the world’s first trillionaire (on paper) thanks to the SpaceX IPO - The Washington Post
+- Stock markets surge as Trump calls off strikes on Iran, touts peace deal - Al Jazeera
+- US producer inflation posts largest annual gain in 3-1/2 years as energy prices surge - Reuters
+- How to Trade the SpaceX IPO in Asia's Locked-Out Markets - Bloomberg.com
+- Trump Mobile’s T1 Phone Powered Up With An HTC Logo After iFixit Swapped Its Mainboard For The U24 Pro’s, Exposing The T1 As A Clone - Wccftech
+- Telegram brings back its Wear OS app after five years with chats, voice messages, more - 9to5Google
