@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-12 23:12_
+_Updated: 2026-06-13 00:57_
 
 ## Top Stories
 
-- Medlare: Iran och USA överens om avtalstext - GP
+- Medlare: Iran och USA överens om detaljer i fredsavtal - Dagens Nyheter
 - Så eldades upploppen i Belfast på från USA - Dagens Nyheter
 - Pojke död – fastnade i container - Sveriges Radio
+- Ukrainas plan: Isolera Krim från ryssarna - Svenska Dagbladet
 - Dödliga nattanfall i Ryssland och Ukraina - GP
-- Polisen misstänker: Malmöbo slog ihjäl sin mamma på Kroksbäck - Sydsvenskan
-- Trump tror att avtal kan signeras i helgen – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Bergsgatan avstängd i förtid – boende trötta på studentstöket - Sydsvenskan
 - Så påverkas Stockholmstrafiken av kungaparets firande - Dagens Nyheter
 - 13-årsgräns för smarta telefoner: ”Exkluderande” - Corren
 - Domstolen avslår – terrordömd får fortsätta på KTH - Dagens Nyheter
 - Förbättringar väntas på röda linjen nästa vecka - SVT Nyheter
+- Schweiz erbjuder sig vara värd för undertecknande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Påven fick lift av kungen - GP
 - Skjutning i Texas: Polisen omringar skytt - Västerbottens-Kuriren
 - Kronprins Haakon ställer in regeringssammanträde - Expressen
-- Putin erkänner: ”Vi skadas definitivt” - Expressen
-- WHO: Ebola upptäcks i nya områden - Aftonbladet
-- Space X på börsen kan hamna i svenska fonder snart - Sveriges Radio
+- SpaceX-aktien rusar efter stark Nasdaq-notering - ig.com
+- Iran och Space X i fokus på grönt Wall Street - GP
 - Mest surt på Wall Street efter Trump-utspel - Västerbottens-Kuriren
-- Ukrainas plan: Isolera Krim från ryssarna - Svenska Dagbladet
 - Kortjättar går med på jättelik uppgörelse – kan förändra marknaden - Dagens PS
-- "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
 - Xbox: "Vi befinner oss i en kris för hårdvarukomponenter" - Evertiq
+- "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
 
 ## World News
 
-- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Claudia Hanson ny professor i global hälsosystemforskning - Karolinska Institutet
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- Storskalig övervakning av fotbolls-VM: ”Speglar en bredare global trend” - Omni
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
+- Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- El Niño återvänder och utgör en global risk för extremväder. - Vietnam.vn
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 
 ## Technology
 
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -121,44 +121,44 @@ _Updated: 2026-06-12 23:12_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Forskningen ska vara fri - European Commission
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- AI och data science - Stockholms universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Perspektiv på vårdvetenskap - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - atl.nu
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Kämpigt för jordbruk i öst - Land.se
