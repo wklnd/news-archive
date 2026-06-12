@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-12 16:21_
+_Updated: 2026-06-12 19:26_
 
-- Trump claims breakthrough in Iran deal talks as he calls off planned strikes - Fox News
+- Officers in standoff with suspect after active shooter incident in Texas - CNN
+- Trump grouses about 'weak and pathetic' Iran, dismisses 'leaked' deal - Politico
 - Chicago, Illinois weather: Tornadoes leave damage across area in Streator, NW Indiana - ABC7 Chicago
-- Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines - Fox News
-- Federal authorities investigate giant ‘8647’ markings on National Mall - NBC News
-- Prosecutors ‘on pins and needles’ awaiting Jay Clayton’s replacement - Politico
-- Live updates: Massive Tracy warehouse fire still burning, crews could be there for days - ABC7 Bay Area
-- Art icon David Hockney dies at age 88 - AP News
-- Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas - The New York Times
-- Iran Updates: Trump rejects Iranian state media's portrayal of agreement he says was reached to end war - CBS News
+- Judge extends block on Trump’s $1.8 billion ‘Anti-Weaponization Fund’ - AP News
+- How Karmelo Anthony’s Stabbing Case Became A Racial Flashpoint In Texas—As Judge Speaks Out - Forbes
 - US Congress rejects short-term FISA extension as expiration looms - Reuters
-- UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
+- To Defeat Democrats, Texas Governor Embraces the Hard Right - The New York Times
+- Prosecutors ‘on pins and needles’ awaiting Jay Clayton’s replacement - Politico
+- Iranian foreign minister says deal with U.S. "never been closer" - Axios
+- The Supreme Court prohibits Alabama from using nitrogen gas for execution - NPR
 - What to know about the EU’s new rules on migration and asylum as they come into effect - AP News
-- What to know about the stabbing that set off fiery riots in Northern Ireland - PBS
-- ‘There needs to be change’: Voters in the major UK by-election are angry - Politico
-- SpaceX IPO: What Time Does SPCX Debut On The Stock Market? (Live Updates) - Forbes
-- World shares surge and oil prices slip over 4% after Trump claims a breakthrough in Iran war talks - AP News
-- Report finds high denial rates at UnitedHealth, two other Medicare Advantage plans - Star Tribune
-- SpaceX's president hints at a Tesla merger: 'That might make Elon's life a little easier' - Business Insider
-- Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac
-- watchOS 27 Improves Apple Watch Performance in Seven Ways - MacRumors
+- Trump Says Iran Deal Is Close but Tehran Says No Decision Has Been Made - WSJ
+- UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
+- Officer killed, "armed and dangerous" suspect on run in Canada linked to shooting at U.S. consulate - CBS News
+- SpaceX IPO Live Updates: SPCX Stock Price Rises 20%; Musk Becomes World's First Trillionaire - WSJ
+- Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters
+- SpaceX president Gwynne Shotwell floats Tesla merger on IPO day - qz.com
+- Ken Leech to Plead Guilty in US ‘Cherry Picking’ Fraud Case - Bloomberg.com
+- Apple Says Siri AI Won't Suck Up To You - Engadget
+- I held the Trump phone - The Verge
