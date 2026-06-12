@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-12 13:28_
+_Updated: 2026-06-12 16:21_
 
-- Trump claims Iran deal reached, Tehran says no "final decision" - Axios
-- 5-year-old girl swept into ocean off Laguna Beach is identified, mourned - Los Angeles Times
-- Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas - The New York Times
-- El Niño Is Here to Turn the World’s Weather Upside Down - WIRED
-- Karmelo Anthony's family says "nobody wins" after murder verdict and sentencing - CBS News
+- Trump claims breakthrough in Iran deal talks as he calls off planned strikes - Fox News
 - Chicago, Illinois weather: Tornadoes leave damage across area in Streator, NW Indiana - ABC7 Chicago
-- Trump picks Jay Clayton for Director of National Intelligence - Axios
-- David Hockney obituary: A genius in practically every medium - BBC
-- Live Updates: Iran cautions no "final conclusion" yet on deal to end war after Trump says settlement agreed - CBS News
-- Kennedy Center board seeks pause of ruling ordering removal of Trump's name - NPR
+- Austin Metcalf's family faces death threats after Karmelo Anthony's murder conviction and more top headlines - Fox News
+- Federal authorities investigate giant ‘8647’ markings on National Mall - NBC News
+- Prosecutors ‘on pins and needles’ awaiting Jay Clayton’s replacement - Politico
+- Live updates: Massive Tracy warehouse fire still burning, crews could be there for days - ABC7 Bay Area
+- Art icon David Hockney dies at age 88 - AP News
+- Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas - The New York Times
+- Iran Updates: Trump rejects Iranian state media's portrayal of agreement he says was reached to end war - CBS News
+- US Congress rejects short-term FISA extension as expiration looms - Reuters
 - UK defence minister quits, says Starmer not spending enough to keep country safe - Reuters
 - What to know about the EU’s new rules on migration and asylum as they come into effect - AP News
-- Ousted South Korean President Yoon given prison term for drone flights over Pyongyang - NPR
-- China warns of risk of 'extreme floods' in desert regions - Reuters
-- SpaceX Shares Indicated More Than 35% Higher in Shadow Trading - Bloomberg.com
-- U.S. stock futures rise on signs of a potential U.S.-Iran peace deal; traders await SpaceX IPO: Live updates - CNBC
-- SpaceX cafeteria workers poised to become millionaires after blockbuster IPO — 4,400 employees set to hit 7-figures - Yahoo Finance
-- Can smartphones help explain the drop in birth rates? - NPR
+- What to know about the stabbing that set off fiery riots in Northern Ireland - PBS
+- ‘There needs to be change’: Voters in the major UK by-election are angry - Politico
+- SpaceX IPO: What Time Does SPCX Debut On The Stock Market? (Live Updates) - Forbes
+- World shares surge and oil prices slip over 4% after Trump claims a breakthrough in Iran war talks - AP News
+- Report finds high denial rates at UnitedHealth, two other Medicare Advantage plans - Star Tribune
+- SpaceX's president hints at a Tesla merger: 'That might make Elon's life a little easier' - Business Insider
 - Apple’s new Foundation Models explained: on-device AI, cloud AI, and everything in between - 9to5Mac
-- Apple iOS 27 Release Date: When You Can Download The New iPhone Software — Starts Now - Forbes
+- watchOS 27 Improves Apple Watch Performance in Seven Ways - MacRumors
