@@ -1,56 +1,55 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-13 00:57_
+_Updated: 2026-06-13 03:37_
 
 ## Top Stories
 
-- Medlare: Iran och USA överens om detaljer i fredsavtal - Dagens Nyheter
 - Så eldades upploppen i Belfast på från USA - Dagens Nyheter
-- Pojke död – fastnade i container - Sveriges Radio
-- Ukrainas plan: Isolera Krim från ryssarna - Svenska Dagbladet
+- Pojke död – fastnade i container i Sandviken - Expressen
+- Medlare: Iran och USA överens om avtalstext - GP
 - Dödliga nattanfall i Ryssland och Ukraina - GP
-- Bergsgatan avstängd i förtid – boende trötta på studentstöket - Sydsvenskan
-- Så påverkas Stockholmstrafiken av kungaparets firande - Dagens Nyheter
-- 13-årsgräns för smarta telefoner: ”Exkluderande” - Corren
-- Domstolen avslår – terrordömd får fortsätta på KTH - Dagens Nyheter
-- Förbättringar väntas på röda linjen nästa vecka - SVT Nyheter
-- Schweiz erbjuder sig vara värd för undertecknande – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Påven fick lift av kungen - GP
-- Skjutning i Texas: Polisen omringar skytt - Västerbottens-Kuriren
-- Kronprins Haakon ställer in regeringssammanträde - Expressen
-- SpaceX-aktien rusar efter stark Nasdaq-notering - ig.com
+- Uppgifter: USA har skjutit ned drönare över Hormuz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Polisen misstänker: Malmöbo slog ihjäl sin mamma på Kroksbäck - Sydsvenskan
+- 13-årsgräns för smarta telefoner: ”Exkluderande” - GP
+- Efter överklagandet: Vemyra behöver inte stänga - Sveriges Radio
+- Här rullar den anpassade skolans första studentflak någonsin - Sveriges Radio
+- Maria Garmer 2024: ”Vi har inga antisemiter i Vänsterpartiet - varken i Växjö eller någon annanstans” - lokaltidningenvaxjo.se
+- Påven fick lift av kungen - Västerbottens-Kuriren
+- En död efter masskjutning i Texas - Expressen
+- WHO: Ebola upptäcks i nya områden - Västerbottens-Kuriren
+- Oppositionsledaren kräver Starmers avgång efter avhoppen - Omni
+- Space X på börsen kan hamna i svenska fonder snart - Sveriges Radio
 - Iran och Space X i fokus på grönt Wall Street - GP
-- Mest surt på Wall Street efter Trump-utspel - Västerbottens-Kuriren
-- Kortjättar går med på jättelik uppgörelse – kan förändra marknaden - Dagens PS
-- Xbox: "Vi befinner oss i en kris för hårdvarukomponenter" - Evertiq
+- Stark börsdag i Europa – lyft för storbanker - EFN
+- MAQS rådgivare till Tången vid notering på Nasdaq Stockholm - Cision News
 - "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
+- Nasa får kritik för den helt manliga besättningen - Omni
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Techarenan News goes English (Partly at least) - Techarenan News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- El Niño återvänder och utgör en global risk för extremväder. - Vietnam.vn
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Storskalig övervakning av fotbolls-VM: ”Speglar en bredare global trend” - Omni
+- Handelsbanken lanserar ny global indexfond - Cision News
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Closure. tar global andraplats vid Techstars Global Pitch Competition - The Portugal News
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
@@ -59,17 +58,18 @@ _Updated: 2026-06-13 00:57_
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -102,43 +102,43 @@ _Updated: 2026-06-13 00:57_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Olika slutsatser från samma data - Läkartidningen
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- AI och data science - Stockholms universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningen ska vara fri - European Commission
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
@@ -154,6 +154,7 @@ _Updated: 2026-06-13 00:57_
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Framtidens jordbruk är här - EU Digital Strategy
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
@@ -161,4 +162,3 @@ _Updated: 2026-06-13 00:57_
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Kämpigt för jordbruk i öst - Land.se
