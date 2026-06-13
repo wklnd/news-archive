@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-13 03:51_
+_Updated: 2026-06-13 08:40_
 
+- Kennedy Center misses deadline to remove Trump’s name, citing storms - The Washington Post
 - Live Updates: "Final, agreed upon text" of U.S.-Iran peace deal has been reached, Pakistan says - CBS News
+- Niño Guerrero: US kills leader of Tren de Aragua gang in strike, Trump says - BBC
+- Federal judge indefinitely blocks Trump’s ‘anti-weaponization’ fund - NBC News
 - DPS Releases Details in Midland Shooting - Texas Department of Public Safety (.gov)
-- Trump's name is poised to be removed from the Kennedy Center - NPR
-- Spencer Pratt responds to L.A. mayoral race loss, says 'it's war' in new video - ABC7 Los Angeles
-- ‘Democrats want to win': Platner’s support reflects a changing party in the Trump era - AP News
-- Chicago weather: EF-3 tornadoes ravage parts of Chicago area, including Streator, Illinois, Kouts, Indiana; EF-1 damages Bartlett - ABC7 Chicago
-- Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery - The New York Times
-- Live updates: Officials call Tracy warehouse fire 1 of largest in US; could burn for days - ABC7 Bay Area
-- Supreme Court rejects Alabama request for nitrogen gas execution - Politico
-- Swear Trump's weaponization fund is dead to kill lawsuit, judge says - Axios
-- Anti-Immigrant Riots Leave Belfast on Edge: ‘Everyone Is Afraid’ - The New York Times
-- Supersub Cyle Larin rescues point for Canada against Bosnia and Herzegovina - The Guardian
-- Putin says Russia developing satellite-based drone control system, Ifax says - Reuters
-- Canada police investigate whether Toronto police death linked to global terror attacks - The Guardian
-- SpaceX Shares Close Up 19% in Historic Debut as Musk Becomes First Trillionaire - WSJ
-- Elon Musk's stratospheric rise to trillionaire status - in charts - BBC
-- Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI - Axios
-- Stock Market Today: Dow Ends Higher On Iran Deal Hopes; SpaceX Rockets 19% In Debut - Investor's Business Daily
-- Galaxy phones are finally getting a feature Android users have wanted for years - Android Central
-- Waze's traffic lights feature continues to roll out to more users - GSMArena.com news - GSMArena.com
+- How the U.S. and Iran Turned From Renewed War to the Cusp of Peace - WSJ
+- Spencer Pratt concedes LA mayor race, but declares ‘war’ against advancing candidates - The Guardian
+- Tent collapses during Virginia church's 20th anniversary celebration, killing 1 and injuring 22 - AP News
+- Trump's GOP allies draw a line in the sand on Iran - Politico
+- Judge orders Trump administration to restore national park signage on climate change, slavery - Los Angeles Times
+- Pope Leo had to catch a ride from the king of Spain after plane’s engine failed - The Washington Post
+- What we know about how Northern Ireland's riots were organised - BBC
+- Ukraine’s AI Drones Have Given Kyiv a Fresh Edge on Battlefield - Bloomberg.com
+- Switzerland to vote on plan to cap population at 10 million - BBC
+- Elon Musk becomes the first trillionaire as SpaceX soars in its market debut - The Washington Post
+- Anthropic shuts down Fable, Mythos models following Trump admin directive - Ars Technica
+- Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery - NPR
+- Stock Market Whipsaws; SpaceX IPO Rockets, Oracle Dives: Weekly Review - Investor's Business Daily
+- Huawei’s HarmonyOS Can Be Further Optimized To Run On 64KB RAM While Running On A Single Dry Cell Battery For A Year, Says Executive Director - Wccftech
+- Galaxy Z Fold 7 gets two new Galaxy AI features - SamMobile
