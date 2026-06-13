@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-13 20:52_
+_Updated: 2026-06-13 22:48_
 
 ## Top Stories
 
-- Misstänkt mordförsök utanför Alvesta – barn vårdas med livshotande skador - Sveriges Radio
-- Trump: Hormuzsundet ska öppnas på söndag - GP
-- Föreningen i kris efter dödsolyckan - Gefle Dagblad
-- Nu går Prideparaden genom Göteborg - GP
-- Japansk butik i Malmö sålde godis som kan kväva barn - Sydsvenskan
-- Viktor Orbán återvald som partiledare för Fidesz - SVT Nyheter
-- Åkesson om Tidös underläge: ”Viktigt att vi steppar upp” - Dagens Nyheter
-- Dubbla insatser mot ryska stridsflyg i Östersjön - Corren
-- Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
-- Risk för vattenbrist i Västra Götaland – länsstyrelsen varnar - SVT Nyheter
+- Trump: Hormuzsundet ska öppnas på söndag - Västerbottens-Kuriren
+- Granne träffade misstänkta skytten i veckan: ”Overkligt” - Expressen
+- Containrar ska tas bort utanför Sandvikens skolor - Gefle Dagblad
+- Borgmästare ihjälskjuten i Mexiko - GP
 - Tusentals samlades mot hat i Belfast - GP
-- Donald Trumps namn plockas ner från Kennedy Center - Dagens Nyheter
+- Die Strasse När grannen gråter av lättnad - Svenska Dagbladet
+- Midsommarvädret blir svalt – ”Ingen sommarvärme i sikte” - Hufvudstadsbladet – HBL
+- Dubbla insatser mot ryska stridsflyg i Östersjön - Corren
+- DN Direkt – Åkesson: SD säger nej till marknadshyror - Dagens Nyheter
+- Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
+- WHO: Hettan har dödat fler än 200 000 sedan 2022 - GP
+- Viktor Orbán återvald som partiledare för Fidesz - SVT Nyheter
+- Trumps namn borttaget – firande vid kulturhuset - Västerbottens-Kuriren
 - Trump: Överenskommelse undertecknas i morgon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nubbattack under Vätternrundan – 100 drabbade - Aftonbladet
+- Amazons vd varnade Vita huset för Anthropics-modeller - Omni
 - Suget efter Space X-aktien ”extremt högt” - Aftonbladet
 - Så används Sverige som täckmantel för rysk propaganda på X - Dagens Nyheter
-- Expert: USA:s förbud mot Anthropic ett skifte i AI-politiken - Sveriges Radio
-- Arla gör ost i Ryssland – slog samman med tysk jätte - Expressen
+- Efter sammanslagning – Arla gör ost i Ryssland - GP
 - "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
-- Lana Zand: Revbenen kan bli det enda vi minns - Svenska Dagbladet
+- Nya soptunnor ska minska fusk - Mitt i
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -39,14 +40,13 @@ _Updated: 2026-06-13 20:52_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Storskalig övervakning av fotbolls-VM: ”Speglar en bredare global trend” - Omni
 - Handelsbanken lanserar ny global indexfond - Cision News
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
@@ -63,13 +63,13 @@ _Updated: 2026-06-13 20:52_
 - Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
@@ -103,42 +103,35 @@ _Updated: 2026-06-13 20:52_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - SLU.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningen ska vara fri - European Commission
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
+- Olika slutsatser från samma data - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -152,13 +145,13 @@ _Updated: 2026-06-13 20:52_
 - Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
+- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - SLU.se
+- Här är världens största jordbruk - atl.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
