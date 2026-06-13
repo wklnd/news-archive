@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-13 12:11_
+_Updated: 2026-06-13 14:08_
 
 ## Top Stories
 
+- Personer skadade i Alvesta – stor polisinsats - Expressen
 - Dubbla insatser mot ryska stridsflyg i Östersjön - SVT Nyheter
-- Sorgen efter pojkens död: ”Var så snäll” - Expressen
-- Olycksvåg med elsparkcyklar - nu ryter polisen ifrån - Sveriges Radio
-- DN Direkt – Kvinna gripen för mordförsök i Uppsala - Dagens Nyheter
-- Iranska drönare nedskjutna i väntan på avtal - GP
-- Nya israeliska anfall mot södra Libanon - Dagens industri
-- Kungen och drottningen firar 50 år av kärlek - GP
+- DN Direkt – Småspik på vägen under Vätternrundan - Dagens Nyheter
+- Olyckor med elsparkcyklar skenar – nu ryter polisen ifrån - Sveriges Radio
+- Hussein, 33, dog på Fosieanstalten – kriminalvårdare ställs inför rätta - Sydsvenskan
+- Uppgifter: Fredsavtal mellan USA och Iran klart - GP
+- Pojke död efter olycka – fastnade i container i Sandviken - SVT Nyheter
 - Här pumpas 900 år gammalt vatten upp till Malmöborna – ska dämpa vattenbristen - Dagens Nyheter
+- Risk för vattenbrist i Västra Götaland – länsstyrelsen varnar - SVT Nyheter
 - SD: Nej till marknadshyror – Senaste nytt om valet 2026 - SVT Nyheter
-- Just nu: Rådjur på fel sida av viltstängslet på E18 - Enköpingsposten
-- Ny hajattack i Australien – en kritiskt skadad - Sydsvenskan
-- Från snabbmat till storpolitik – ambassadören om spelet mellan USA och EU - Dagens Nyheter
-- Påven fick lift av kungen - GP
-- Dödliga nattanfall i Ryssland och Ukraina - Corren
+- USA har skjutit ned drönare över Hormuzsundet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Libanons sommar 2026 har många ekon av 1982 - Dagens Nyheter
+- Vithaj till attack i Sydney: ”Storleken en chock” - Västerbottens-Kuriren
+- Trumps namn borttaget – firande vid kulturhuset - Aftonbladet
 - Suget efter Space X-aktien ”extremt högt” - Aftonbladet
 - Arla gör ost i Ryssland – efter sammanslagning med DMK - Expressen
-- USA tvingar Anthropic att stänga ner nya AI-modeller - Omni
 - Vi har testat trendiga läspplattan som sätts på baksidan av Iphone - Expressen
+- Starkare motor och massor med finesser i nya Kia EV9 GT - Dagens Nyheter
+- Det här chippet ska uträtta stordåd med framtidens rymdfarkoster – de första testerna visar något som Nasa inte har sett förut - Illustrerad Vetenskap
 - Ny rekommendation: Ingen smartphone före 13 år - Hallands Nyheter
-- "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
 
 ## World News
 
@@ -32,8 +32,9 @@ _Updated: 2026-06-13 12:11_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
@@ -46,7 +47,6 @@ _Updated: 2026-06-13 12:11_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - El Niño återvänder och utgör en global risk för extremväder. - Vietnam.vn
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
@@ -74,25 +74,25 @@ _Updated: 2026-06-13 12:11_
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vilken framtid arbetar du för? - EY
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 
 ## Health
 
@@ -103,12 +103,12 @@ _Updated: 2026-06-13 12:11_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -122,34 +122,35 @@ _Updated: 2026-06-13 12:11_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningen ska vara fri - European Commission
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Perspektiv på vårdvetenskap - Karolinska Institutet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
+- Jordbrukspolitik - Naturvårdsverket
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
@@ -161,4 +162,3 @@ _Updated: 2026-06-13 12:11_
 - Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
