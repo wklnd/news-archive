@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-13 19:02_
+_Updated: 2026-06-13 20:55_
 
-- Trump's name has been removed from the Kennedy Center, a court filing says, as tarp remains up - CBS News
-- Pakistan says US-Iran deal to be signed within 24 hours - Financial Times
+- US-Iran deal scheduled to be signed on Sunday, says Trump - BBC
+- Kennedy Center official tells judge Trump’s name has been removed from building and website - NBC News
 - Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery - The New York Times
 - Trump says U.S. military strike killed leader of Venezuela's Tren de Aragua gang - CNBC
-- Switzerland to vote on plan to cap population at 10 million - BBC
-- Trump to attend dinner at Versailles post-G7 - Politico
-- Emboldened Senate Democrats block even bipartisan bills in hardball approach to counter Trump - AP News
+- Emboldened Senate Democrats block even bipartisan bills in hardball approach to counter Trump - Yahoo
+- Trump prosecutor in L.A. pushing unusual public search for voter fraud before count is in - Los Angeles Times
 - Texas’s GOP platform is getting more extreme — and influential - The Washington Post
-- Swear Trump's weaponization fund is dead to kill lawsuit, judge says - Axios
-- Midland shooting: Two dead, including suspect, 10 injured - The Texas Tribune
-- Lifeguard helps save woman critically injured in Australia shark attack: "The size of it shocked me" - CBS News
+- Longtime New York City TV anchor announces retirement after revealing Alzheimer’s diagnosis - The Guardian
+- US judge indefinitely blocks Trump's 'anti-weaponization' fund - Reuters
+- Mystery orb videos, other UFO records released by White House - Axios
+- Woman seriously injured in shark attack at Sydney beach - BBC
 - UAE denies 'false' reports of fund transfer to Iran - CNBC
-- Kate Middleton Looks Lovely in a Pair of Sentimental Earrings at Trooping the Colour 2026 - Town & Country Magazine
-- Defence resignation exposes spending bind for Starmer - and any challengers - Reuters
+- Trump to attend dinner at Versailles post-G7 - Politico
+- Switzerland’s ‘Brexit moment’: Vote on a population cap sets up potential collision with EU - CNN
 - The Stock Market Survived the SpaceX IPO. What to Watch for Next. - Barron's
-- Anthropic cuts off Fable 5 and Mythos 5 access following government order - The Verge
-- Justice Dept. approves Paramount's acquisition of Warner Bros. Discovery - NPR
+- Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg.com
+- David Ellison’s $111 Billion Paramount-Warner Bros. Merger Greenlit by Justice Dept - The Hollywood Reporter
 - Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms - CNBC
 - Apple’s big Siri update is here. Now the real challenge begins - CNN
-- My first 24 hours with Siri AI on the Mac - The Verge
+- MacBook Pro Or MacBook Air: Which Apple Laptop Lasts Longer? - bgr.com
