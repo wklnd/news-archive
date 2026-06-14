@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-14 22:47_
+_Updated: 2026-06-15 00:41_
 
 ## Top Stories
 
-- Tysklands kross – efter chocken - Dagens Nyheter
-- Klart: Karlshamn säger nej till kärnkraft efter folkomröstning - SVT Nyheter
+- Pakistan: Iran och USA överens om avtal - Nya Wermlands-Tidningen
+- Iran: Fingret på avtryckaren – kommer svara – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Pappan sköt sina flickor – larmade själv - Expressen
 - Så blir midsommarvädret: "Högtryck och lågtryck i oviss kamp" - NSD
-- Trump fördömer Israels attack mot Beirut - Västerbottens-Kuriren
-- Stora protester mot Trump inför G7-mötet: ”Man ska inte förhandla med en sådan man som bara tänker på sig själv” - Dagens Nyheter
-- Misstänkt brott mot Åkesson – fallet läggs ned - Västerbottens-Kuriren
+- Nej-sidan segrade i kärnkraftsomröstningen - GP
+- Oroligt under protesterna inför G7-mötet - Västerbottens-Kuriren
+- Debatt mellan MP och KD om kärnkraft – Senaste nytt om valet 2026 - SVT Nyheter
+- Misstänkt brott mot Åkesson – fallet läggs ned - Folkbladet
 - DN Direkt – Hoppades att reporter skulle ”betala ett högt pris” – ber om ursäkt - Dagens Nyheter
-- Containrar vid flera skolgårdar saknar lås – pojkens anhörig kritisk - SVT Nyheter
-- Man föll i vattnet – polisen utreder mordförsök - Corren
+- Rådjur på fel sida av viltstängslet på E4 - PT.se
 - Ny attack i Gaza – 73 000 döda sedan krigets start - Västerbottens-Kuriren
-- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Invandrare i Belfast vågar inte lämna sina hem – får mat till dörren - Dagens Nyheter
-- "Oljeregn" – efter ukrainska attacker - Expressen
+- DN Direkt – 782 bekräftade ebolafall i Kongo - Dagens Nyheter
+- JUST NU: “Det regnar olja” – massiv attack mot Ryssland - Marcus Oscarsson
+- Artisten Oliver Tree död i helikopterkrasch - Omni
 - Vita huset har kallat in Anthropic för att lösa konflikt - Omni
-- Bullerbykänsla – och planer på kärnkraft - Svenska Dagbladet
 - Nobelpristagaren sågar Space X: ”Ponziupplägg” - Dagens industri
+- Bullerbykänsla – och planer på kärnkraft - Svenska Dagbladet
 - S&P 500, SPY, VOO, IVV-utsikter: viktiga nyheter att följa denna vecka - Invezz
-- Emma Frans: Oh la la, det ska jag viga sommaren åt - Svenska Dagbladet
 - Fler än 250 nyheter i Apples nya operativsystem - Macworld.se
+- Super Mario såldes för 30 miljoner kronor - Teknikveckan
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2026-06-14 22:47_
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
 - Techarenan News goes English (Partly at least) - Techarenan News
-- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
+- Handelsbanken lanserar ny global indexfond - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Handelsbanken lanserar ny global indexfond - Cision News
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -122,7 +122,7 @@ _Updated: 2026-06-14 22:47_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Täta band mellan turism och forskning på Svalbard - SLU.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
@@ -144,7 +144,7 @@ _Updated: 2026-06-14 22:47_
 
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
@@ -155,10 +155,10 @@ _Updated: 2026-06-14 22:47_
 - Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Jord, kor och klimat - SLU.se
 - Här är världens största jordbruk - atl.nu
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
