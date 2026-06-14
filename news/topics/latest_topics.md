@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-14 20:51_
+_Updated: 2026-06-14 22:47_
 
 ## Top Stories
 
-- Alvesta i sorg: ”Det är oskyldiga barn” - Expressen
-- Trump: Digital underskrift om några timmar - GP
+- Tysklands kross – efter chocken - Dagens Nyheter
+- Klart: Karlshamn säger nej till kärnkraft efter folkomröstning - SVT Nyheter
+- Pappan sköt sina flickor – larmade själv - Expressen
 - Så blir midsommarvädret: "Högtryck och lågtryck i oviss kamp" - NSD
+- Trump fördömer Israels attack mot Beirut - Västerbottens-Kuriren
 - Stora protester mot Trump inför G7-mötet: ”Man ska inte förhandla med en sådan man som bara tänker på sig själv” - Dagens Nyheter
-- Birgitta Eds kompanjon om reporter: ”Hoppas hon får betala ett högt pris” - Omni
-- Invandrare i Belfast vågar inte lämna sina hem – får mat till dörren - Dagens Nyheter
-- Vallokalerna stängda – nu räknas kärnkraftsrösterna - SVT Nyheter
 - Misstänkt brott mot Åkesson – fallet läggs ned - Västerbottens-Kuriren
-- MP och C kan stoppa lagskärpning om förvar av barn - GP
+- DN Direkt – Hoppades att reporter skulle ”betala ett högt pris” – ber om ursäkt - Dagens Nyheter
+- Containrar vid flera skolgårdar saknar lås – pojkens anhörig kritisk - SVT Nyheter
 - Man föll i vattnet – polisen utreder mordförsök - Corren
 - Ny attack i Gaza – 73 000 döda sedan krigets start - Västerbottens-Kuriren
-- Iran: Fingret på avtryckaren – kommer svara – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Storbritannien har bordat oljetanker från ryska skuggflottan - Dagens Nyheter
+- Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Invandrare i Belfast vågar inte lämna sina hem – får mat till dörren - Dagens Nyheter
 - "Oljeregn" – efter ukrainska attacker - Expressen
-- Vita huset i ohelig allians – AI-stopp för icke-amerikaner - Expressen
+- Vita huset har kallat in Anthropic för att lösa konflikt - Omni
+- Bullerbykänsla – och planer på kärnkraft - Svenska Dagbladet
 - Nobelpristagaren sågar Space X: ”Ponziupplägg” - Dagens industri
 - S&P 500, SPY, VOO, IVV-utsikter: viktiga nyheter att följa denna vecka - Invezz
-- Berlinborna om bilar från Kina: ”Handlar om att få bästa bilen för pengarna” - Dagens Nyheter
+- Emma Frans: Oh la la, det ska jag viga sommaren åt - Svenska Dagbladet
 - Fler än 250 nyheter i Apples nya operativsystem - Macworld.se
-- Ny lösning på gång för hushåll utan fjärrvärme - Östersunds-Posten
 
 ## World News
 
-- Bibelapp lanserar global tävling i bibel­läsning under fotbolls-VM - Världen idag
 - Skönhetsdrottningen tar sig in bland de 10 vackraste Miss World-tävlande. - Vietnam.vn
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
-- Global Survey: Harris vs. Trump - novus.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
+- Techarenan News goes English (Partly at least) - Techarenan News
+- Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -109,8 +109,8 @@ _Updated: 2026-06-14 20:51_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
@@ -143,22 +143,22 @@ _Updated: 2026-06-14 20:51_
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Här är världens största jordbruk - atl.nu
+- Jordbrukspolitik - Naturvårdsverket
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Mindre mat och förändrad kost vid kris som halverar importen av jordbruksprodukter | Sveriges lantbruksuniversitet, SLU - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
+- Här är världens största jordbruk - atl.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Analys: Köp Black Earth Farming - Land.se
