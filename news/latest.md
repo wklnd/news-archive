@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-14 20:55_
+_Updated: 2026-06-14 22:50_
 
-- 12 believed dead after Missouri plane crash, highway patrol says - CNN
+- 11 skydivers and pilot killed in plane crash - BBC
 - Mike Waltz hedges on Iran signing - Politico
 - Trump at 80: A President ‘Really Uncomfortable’ With Aging - The New York Times
+- McConnell hospitalized and ‘receiving excellent care,’ spokesperson says - CNN
 - Trump to Axios: Netanyahu has "no fucking judgment" but Iran deal still on - Axios
-- The G7 just wants to show it can work together. That may be too much to ask. - Politico
-- Swiss voters reject right-wing’s bid to cap population at 10 million, early results show - AP News
-- Trump endorses Rep. Mike Collins in Georgia Senate race - NBC News
+- Poll: Democrats maintain an edge in the fight for Congress as Trump gets poor marks - NBC News
 - Mayhem mars euphoria as New York City celebrates the Knicks' first championship in 53 years - Yahoo Sports
+- Trump endorses Rep. Mike Collins ahead of GOP Senate runoff in Georgia - CNN
+- Transcript: Sen. Mark Kelly on "Face the Nation with Margaret Brennan," June 14, 2026 - CBS News
 - PHOTOS: What’s under the tarp? Kennedy Center facade covered after Trump’s name removed - WTOP
-- Backlash Is Growing Over Kevin O’Leary’s Data Center. He Is Blaming China. - WSJ
-- U.K. forces intercept a Russian shadow fleet oil tanker in English Channel - NBC News
-- Thousands protest G7 in Geneva as Trump, other leaders hold summit in nearby France - AP News
+- Swiss vote against proposal to cap population at 10 million by cutting migration, projections say - BBC
+- Protesters in Geneva clash with police ahead of the G7 summit in nearby France - AP News
 - Israel continues strikes in Beirut’s southern suburbs, killing 3 - NBC News
-- Canadian prime minister heads west to ancestral homeland - BBC
+- UK forces seize suspected Russian shadow fleet tanker in English Channel - Al Jazeera
+- How Amazon and the White House ended Anthropic's Fable - Axios
 - A Guide to the Biggest Winners From the SpaceX IPO - WSJ
-- US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
 - JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway - CNBC
-- SpaceX debut helps lift market sentiment after volatile week - Yahoo Finance
-- Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com
-- iPhone Ultra Price: How Apple’s Foldable Protects The iPhone 18 Pro - Forbes
+- Medicare Enrollment 101: Everything You Need to Know for the 2026 Cycle - streamlinefeed.co.ke
+- Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg
+- Galaxy S27 Ultra Could Finally Address Endless Customer Complaints Of Older Flagships As Samsung Plans Three Upgrades Next Year - Wccftech
