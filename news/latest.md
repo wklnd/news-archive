@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-14 19:01_
+_Updated: 2026-06-14 20:55_
 
-- Trump to Axios: Netanyahu has "no fucking judgment" but Iran deal still on - Axios
+- 12 believed dead after Missouri plane crash, highway patrol says - CNN
 - Mike Waltz hedges on Iran signing - Politico
-- Swiss voters reject right-wing’s bid to cap population at 10 million, early results show - AP News
-- It Was Meant to Unify. Now the G7 Is Dogged by Chaos and Divided by Trump. - The New York Times
-- US-Iran War LIVE Updates: Trump Slams Israel Attack On Lebanon As Iran Sees 'No Point' Of US Talks - NDTV
-- U.K. forces intercept a Russian shadow fleet oil tanker in English Channel - NBC News
-- Mayhem mars euphoria as New York City celebrates the Knicks' first championship in 53 years - Yahoo Sports
 - Trump at 80: A President ‘Really Uncomfortable’ With Aging - The New York Times
-- Trump endorses Collins in Georgia Senate runoff. It's his latest 'MAGA' pick in Republican primaries - AP News
+- Trump to Axios: Netanyahu has "no fucking judgment" but Iran deal still on - Axios
+- The G7 just wants to show it can work together. That may be too much to ask. - Politico
+- Swiss voters reject right-wing’s bid to cap population at 10 million, early results show - AP News
+- Trump endorses Rep. Mike Collins in Georgia Senate race - NBC News
+- Mayhem mars euphoria as New York City celebrates the Knicks' first championship in 53 years - Yahoo Sports
 - PHOTOS: What’s under the tarp? Kennedy Center facade covered after Trump’s name removed - WTOP
+- Backlash Is Growing Over Kevin O’Leary’s Data Center. He Is Blaming China. - WSJ
+- U.K. forces intercept a Russian shadow fleet oil tanker in English Channel - NBC News
 - Thousands protest G7 in Geneva as Trump, other leaders hold summit in nearby France - AP News
 - Israel continues strikes in Beirut’s southern suburbs, killing 3 - NBC News
-- Qatari mediators travel to Tehran for final touches on a possible deal to end war - Yahoo
 - Canadian prime minister heads west to ancestral homeland - BBC
 - A Guide to the Biggest Winners From the SpaceX IPO - WSJ
-- How Amazon and the White House ended Anthropic's Fable - Axios
+- US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
 - JetBlue bets big on Fort Lauderdale, from a new airport lounge to an international gateway - CNBC
-- From rockets to brain implants, here’s a look at Elon Musk’s vast empire - AP News
+- SpaceX debut helps lift market sentiment after volatile week - Yahoo Finance
 - Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com
-- Apple still has three unannounced iOS 27 features in the pipeline: report - 9to5Mac
+- iPhone Ultra Price: How Apple’s Foldable Protects The iPhone 18 Pro - Forbes
