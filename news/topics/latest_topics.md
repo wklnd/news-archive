@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-14 17:25_
+_Updated: 2026-06-14 18:56_
 
 ## Top Stories
 
-- Iran: Inget fredsavtal när Israel bombar - Dagens Nyheter
+- Trump: Attacken mot Beirut borde inte ägt rum – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Alvesta i sorg: ”Det är oskyldiga barn” - Expressen
 - Invandrare i Belfast vågar inte lämna sina hem – får mat till dörren - Dagens Nyheter
-- Uppgifter: Iran får miljarder från USA för avtal - Hufvudstadsbladet – HBL
+- Zelenskyj i "innehållsrikt" samtal med Trump - GP
+- Ulf Kristersson: ”Lögnaktig” granskning av Aftonbladet - ETC.se
 - Misstänks ha mördat sin mamma i Malmö – ska psykundersökas - Sydsvenskan
-- Ny attack i Gaza – 73 000 döda sedan krigets start - Västerbottens-Kuriren
 - SMHI: Uppemot 30 grader i midsommar - Dagens Nyheter
 - Misstänkt brott mot Åkesson – fallet läggs ned - Västerbottens-Kuriren
-- Man hittades i vattnet på Gotland – en anhållen - SVT Nyheter
+- Man föll i vattnet – polisen utreder mordförsök - GP
 - Hon deltog på Dagen D – nu flyger Daisy i Västerås - Dagens Nyheter
+- Trump fördömer Israels attack mot Beirut - GP
+- Ny attack i Gaza – 73 000 döda sedan krigets start - Västerbottens-Kuriren
 - Rysk skuggflotta stoppad i Engelska kanalen - SVT Nyheter
-- Drönare i skyn – och Trumps humör – orosmoment vid G7-mötet i Évian - Dagens Nyheter
-- Ebolautbrottet fortsätter att växa - Corren
-- Prognos: Nej till omstritt invandringsförslag - Västerbottens-Kuriren
+- JUST NU: “Det regnar olja” – massiv attack mot Ryssland - Marcus Oscarsson
 - Vita huset i ohelig allians – AI-stopp för icke-amerikaner - Expressen
-- Bullerbykänsla – och planer på kärnkraft - Svenska Dagbladet
 - Höga elpriser väntar – kärnkraftsstrul i sommar - Tidningen Näringslivet
 - BYD-toppen slår tillbaka mot kritiken: ”De har extremt fel” - Dagens Nyheter
+- Nobelpristagaren sågar Space X: ”Ponziupplägg” - Dagens industri
+- Bullerbykänsla – och planer på kärnkraft - Svenska Dagbladet
 - ”Jag blev lite besatt av keramikfåglar” - Svenska Dagbladet
-- Fler än 250 nyheter i Apples nya operativsystem - Macworld.se
 
 ## World News
 
@@ -39,10 +39,10 @@ _Updated: 2026-06-14 17:25_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
 - Techarenan News goes English (Partly at least) - Techarenan News
 - Brasilien: Internetjättar försöker stoppa lagstiftning mot "fake news" - Global Bar Magazine
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
 - Handelsbanken lanserar ny global indexfond - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
@@ -97,68 +97,68 @@ _Updated: 2026-06-14 17:25_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Vi presenterar ChatGPT Health - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
-- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Forskningen ska vara fri - European Commission
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Öppen vetenskap: ”En av nycklarna är meritering” - Jönköping University
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Perspektiv på vårdvetenskap - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Här är världens största jordbruk - atl.nu
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Framtidens jordbruk är här - EU Digital Strategy
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
