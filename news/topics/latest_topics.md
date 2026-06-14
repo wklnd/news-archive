@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-13 22:48_
+_Updated: 2026-06-14 03:55_
 
 ## Top Stories
 
-- Trump: Hormuzsundet ska öppnas på söndag - Västerbottens-Kuriren
-- Granne träffade misstänkta skytten i veckan: ”Overkligt” - Expressen
-- Containrar ska tas bort utanför Sandvikens skolor - Gefle Dagblad
-- Borgmästare ihjälskjuten i Mexiko - GP
-- Tusentals samlades mot hat i Belfast - GP
-- Die Strasse När grannen gråter av lättnad - Svenska Dagbladet
-- Midsommarvädret blir svalt – ”Ingen sommarvärme i sikte” - Hufvudstadsbladet – HBL
-- Dubbla insatser mot ryska stridsflyg i Östersjön - Corren
-- DN Direkt – Åkesson: SD säger nej till marknadshyror - Dagens Nyheter
-- Ett körfält blockerat på grund av en stillastående personbil på E18 - UNT
-- WHO: Hettan har dödat fler än 200 000 sedan 2022 - GP
-- Viktor Orbán återvald som partiledare för Fidesz - SVT Nyheter
-- Trumps namn borttaget – firande vid kulturhuset - Västerbottens-Kuriren
+- Två skadade – misstänkt gärningsman hittad död - GP
+- Protester mot fredsavtal i Iran - Västerbottens-Kuriren
+- Hemliga planen kan stoppa fredsavtalet: Oroar mig - Aftonbladet
+- Svensk död i bilolycka på Irland – i bilen hittades vapen - GP
+- Ebolautbrottet fortsätter att växa - GP
 - Trump: Överenskommelse undertecknas i morgon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Två till sjukhus efter brand i Forsbacka - Gefle Dagblad
+- Åkesson om Tidös underläge: ”Viktigt att vi steppar upp” - Dagens Nyheter
+- Bil har krockat med älg - Söderhamns-Kuriren
+- Trafiken påverkas av stillastående personbil på E4 – stopp i ett körfält - UNT
+- WHO: Hettan har dödat fler än 200 000 sedan 2022 - Västerbottens-Kuriren
+- Borgmästare ihjälskjuten i Mexiko - GP
+- Donald Trumps namn plockas ner från Kennedy Center - Dagens Nyheter
+- Tusentals samlades mot hat i Belfast - GP
 - Amazons vd varnade Vita huset för Anthropics-modeller - Omni
 - Suget efter Space X-aktien ”extremt högt” - Aftonbladet
-- Så används Sverige som täckmantel för rysk propaganda på X - Dagens Nyheter
-- Efter sammanslagning – Arla gör ost i Ryssland - GP
+- Dubbla miljonvinster på Lottos lördagsdragning - Svenska Spel
+- Mest surt på Wall Street efter Trump-utspel - Folkbladet
 - "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
-- Nya soptunnor ska minska fusk - Mitt i
+- Lana Zand: Revbenen kan bli det enda vi minns - Svenska Dagbladet
 
 ## World News
 
@@ -32,21 +32,21 @@ _Updated: 2026-06-13 22:48_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Storskalig övervakning av fotbolls-VM: ”Speglar en bredare global trend” - Omni
-- Handelsbanken lanserar ny global indexfond - Cision News
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Techarenan News goes English (Partly at least) - Techarenan News
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -60,39 +60,39 @@ _Updated: 2026-06-13 22:48_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Vilken framtid arbetar du för? - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Vilken framtid arbetar du för? - EY
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
@@ -119,39 +119,46 @@ _Updated: 2026-06-13 22:48_
 
 ## Science
 
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU.se
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Forskningen ska vara fri - European Commission
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
-- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
-- Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Perspektiv på vårdvetenskap - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jord, kor och klimat - SLU.se
-- Här är världens största jordbruk - atl.nu
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Lantbrukslogik – nu och i framtiden - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
