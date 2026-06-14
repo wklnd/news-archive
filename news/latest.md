@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-14 01:48_
+_Updated: 2026-06-14 07:19_
 
-- US-Iran deal scheduled to be signed on Sunday, says Trump - BBC
-- Trump's name has been removed from the Kennedy Center, a court filing says, as tarp remains up - CBS News
-- Judge orders Trump administration to restore signs changed at national parks - CNN
-- COMIC: How excessive heat kills and how to stay safe - NPR
-- Trump Is Losing Ground With White Working-Class Voters on the Economy - The New York Times
-- Protesters tear down Albanian development site fences, amid anger over coastal projects - Reuters
-- Trump picks James McDonald to run SDNY - Politico
-- ‘No soccer fans here’: World Cup fever fails to grip Texas Republicans - The Guardian
+- Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline - The New York Times
+- Trump’s name purged from Kennedy Center - Politico
+- Democrats have a one-word defense for supporting Graham Platner: Trump - The Washington Post
 - Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files - The New York Times
-- Woman Missing For 3 Days Found Alive, Stuck In Mud Puddle 'Like Quicksand' - HuffPost
+- Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom - AP News
+- Judge orders Trump administration to restore signs changed at national parks - CNN
+- Wildfire ignites after military aircraft crash near Rimrock Lake - KOMO
+- Texas’s GOP platform is getting more extreme — and influential - The Washington Post
+- Unhealthy air quality in California city as huge warehouse fire burns for 3rd day - AP News
+- ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera
+- Swiss to vote on whether to cap population at 10 million - DW
 - Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal - AP News
-- Trump to attend dinner at Versailles post-G7 - Politico
-- Swiss voters set to vote on capping population at 10 million - Euronews.com
-- US deports migrants, including Iranian activist, to CAR - DW
-- Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 - Bloomberg
+- Pope Leo XIV's flight home from Spain was grounded so the king came to his aid - NPR
 - The Stock Market Survived the SpaceX IPO. What to Watch for Next. - Barron's
-- Paramount Gets Justice Dept. Approval to Buy Warner Bros. - Gizmodo
-- SpaceX employees now have enough wealth on paper to buy every home in this Texas city - MarketWatch
+- Amazon voiced concerns about Anthropic AI models before US crackdown, source says​ - Reuters
+- State Attorneys General Are Investigating OpenAI - The New York Times
+- SpaceX workers just hit the jackpot. Now comes the hard part. - Business Insider
 - Apple’s big Siri update is here. Now the real challenge begins - CNN
-- Google AI Mode starts rolling out Search agents that keep track of information for you - 9to5Google
+- Unreleased Beats headphones spotted again … with a customizable design? - 9to5Mac
+- MacBook Pro Or MacBook Air: Which Apple Laptop Lasts Longer? - bgr.com
