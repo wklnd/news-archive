@@ -1,67 +1,66 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-14 12:37_
+_Updated: 2026-06-14 15:13_
 
 ## Top Stories
 
-- SMHI: Uppemot 30 grader i midsommar - Dagens Nyheter
-- Tidigare utrikeskorrespondenten Titti Nylander är död - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Israel: Vi bombar i Beirut - Dagens Nyheter
+- Uppgifter: Iran får miljarder från USA för avtal - Hufvudstadsbladet – HBL
 - Brittisk militär bordade misstänkt skuggfartyg - Västerbottens-Kuriren
-- Protester mot fredsavtal i Iran - GP
-- Lise Tamm om hedersvåldet: ”Vi har faktiskt misslyckats” - GP
-- Ebolautbrottet fortsätter att växa - Corren
+- Så blir midsommarvädret – här slår värmen till - GP
+- Elon Musks favorit utmanar Nigel Farage - Svenska Dagbladet
+- Honey från Göteborg är på flykt undan hedersvåldet - GP
 - Två skadade – misstänkt gärningsman hittad död - GP
-- Man hittad i vattnet med livshotande skador – en gripen - SVT Nyheter
-- Förundersökning om brott mot Åkesson läggs ner - Omni
-- 14 juni 08.03, Sammanfattning natt, Södermanlands län - polisen.se
+- Misstänkt brott mot Åkesson – fallet läggs ned - Västerbottens-Kuriren
+- Man hittades i vattnet på Gotland – en anhållen - SVT Nyheter
+- Hon deltog på Dagen D – nu flyger Daisy i Västerås - Dagens Nyheter
 - Drönare i skyn – och Trumps humör – orosmoment vid G7-mötet i Évian - Dagens Nyheter
-- Kuwait stänger luftrummet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Haj attackerade kvinna i Sydney – stränder har stängts - Omni
-- Misstänkt mordförsök – man till sjukhus - Bohusläningen
-- Höga elpriser väntar – kärnkraftsstrul i sommar - Svenska Dagbladet
-- Suget efter protein får priser att rusa - Enköpingsposten
-- SIMON OLOFSSON: Regn på examen och pengaregn i rymden - PT.se
-- En bara fyra meter bred minireaktor kan lösa ett enormt problem - Illustrerad Vetenskap
-- För mer än 30 år sedan upptäckte en grupp fysiker ett mystiskt fenomen kallat negativ tid – nu kan forskare äntligen ha hittat förklaringen - Illustrerad Vetenskap
-- "Siri är inte gjord för det" – Apple förklarar varför nya Siri AI inte kommer att bli din romantiska partner, i en subtil passning till ChatGPT - TechRadar
+- Israel attackerar södra Beirut – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ebolautbrottet fortsätter att växa - Corren
+- SR-profilen Titti Nylander död - Folkbladet
+- Vita huset i ohelig allians – AI-stopp för icke-amerikaner - Expressen
+- Höga elpriser väntar – kärnkraftsstrul i sommar - Corren
+- Suget efter protein får priser att rusa - Aftonbladet
+- Saudisk prins tjänar miljarder på Space X - EFN
+- Kommunen köpte vatten för 60 000 – hållbarheten döms ut - Gefle Dagblad
+- Fler än 250 nyheter i Apples nya operativsystem - Macworld.se
 
 ## World News
 
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global Survey: Harris vs. Trump - novus.se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Nytt föremål på auktion: Pelés guld från VM 1958 - Omni
+- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
-- Techarenan News goes English (Partly at least) - Techarenan News
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Mandalika International Circuit, Indonesia på inatt 01:45 - TV.nu
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
 - Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
-- Handelsbanken lanserar ny global indexfond - Cision News
+- NHL Global Fan Tour besöker Kungsträdgården - NHL.com
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Full fart på Global Fan Tour när NHL intar Stockholm - NHL.com
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Bästa AI-aktierna att köpa nu - Morningstar
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -70,21 +69,22 @@ _Updated: 2026-06-14 12:37_
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vilken framtid arbetar du för? - EY
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,30 +92,22 @@ _Updated: 2026-06-14 12:37_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Vi presenterar ChatGPT Health - OpenAI
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Amazon köper vårdföretaget One Medical. Ehandels-jätten fortsätter sin satsning på hälsa. - feber.se
 - Vi presenterar HealthBench - OpenAI
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- New collaboration between Founda Health and ImagineCare - enables integrated Remote Patient Monitoring in the Netherlands - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
-- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
