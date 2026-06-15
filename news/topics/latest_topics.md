@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-15 21:11_
+_Updated: 2026-06-16 00:00_
 
 ## Top Stories
 
-- Superknall i VM – guldfavoriten chockad - Aftonbladet
-- Expert: Både USA och Iran kan utropa sig till segrare - Dagens Nyheter
-- ”Bonusprinsen” döms för våldtäkt – fyra års fängelse - GP
+- Kristina Hultegård Därför var det rätt att fälla Bonusprinsen - GP
+- Lågtryck hotar midsommarfirandet: ”Risk för skurar” - Aftonbladet
+- Historiska katedralen i lågor: ”Stor symbolisk betydelse” - Dagens Nyheter
+- Explosion vid villa i Frölunda – nationella bombskyddet inkallat - SVT Nyheter
 - Erik de la Reguera: Klimatförändringarna osynliggörs – för att gå Trump till mötes - Dagens Nyheter
-- Mamman varnade socialtjänsten för pappan i Alvesta - Expressen
-- Flicka dog efter att ha lämnats ensam 42 gånger – nu ställs mamman inför rätta - Aftonbladet
-- Vandelskrav för uppehållstillstånd skärps - Västerbottens-Kuriren
+- Mordförsök utanför Alvesta - barn fortfarande livshotande skadat - Sveriges Radio
 - Dagens Arena: Domkapitlet utreder omständigheter kring Birgitta Ed - SVT Nyheter
-- Fler vårdplatser i Sverige – men fortsatt brist - GP
-- Ja till slopat kommunalt veto för uranbrytning - Corren
-- DN Direkt – Rysk sjökapten åtalas i Finland för kabelbrott - Dagens Nyheter
-- Känt kloster i lågor efter attacker mot Kiev - Västerbottens-Kuriren
-- Trump: Avtalet är signerat – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Skepsis i Israel – nya smällar hörs i Libanon - Aftonbladet
+- Vandelskrav för uppehållstillstånd skärps - Västerbottens-Kuriren
+- Vägarbeten lämnar plats för midsommartrafiken - Omni
+- Daniel Schatz: Vänsterpartiet reagerar först när medietrycket blir för stort - Dagens Nyheter
+- Trump: Avtal mellan USA och Iran undertecknat - Dagens Nyheter
+- Netanyahu ställer upp i Israels nästa val - Västerbottens-Kuriren
+- Kaliforniens guvernör uppger att han utreds - GP
+- Fortsätt oroligt i Libanon trots uppgörelse - Corren
 - Linus Larsson: Plötsligt är det allvar – Trump stoppar EU från att använda USA:s AI - Dagens Nyheter
-- Videberg Kraft väljer Rolls-Royce SMR som leverantör av ny kärnkraft i Sverige - Cision News
-- LKAB får grönt ljus i Malmberget – ska testa fossilfri järnsvamp - nyteknik
 - Billigare midsommarmat efter momssänkningen - Ekonomifakta
+- Videberg Kraft väljer Rolls-Royce SMR som leverantör av ny kärnkraft i Sverige - Cision News
+- Stegras moderbolag byter namn – igen - Omni
 - LEDARE: En generation av försökskaniner - Smålandsposten
-- Komet föräldragrupp i höst - för dig som vill stärka relationen med ditt barn - Uddevalla kommun
+- Fler appar får stöd för liggande läge i IOS 27 - Macworld.se
 
 ## World News
 
@@ -37,8 +37,8 @@ _Updated: 2026-06-15 21:11_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
@@ -52,24 +52,24 @@ _Updated: 2026-06-15 21:11_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -106,28 +106,28 @@ _Updated: 2026-06-15 21:11_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
-- Bekräftar sin position som ett centrum för utbildning och vetenskaplig forskning inom militär logistik, teknik och finans. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Bekräftar sin position som ett centrum för utbildning och vetenskaplig forskning inom militär logistik, teknik och finans. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU.se
+- Trump sparkar forskningsråd – ”Oerhört allvarligt” - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -143,14 +143,12 @@ _Updated: 2026-06-15 21:11_
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Jordbrukspolitik - Naturvårdsverket
-- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Jordbrukspolitik - Naturvårdsverket
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
@@ -162,3 +160,5 @@ _Updated: 2026-06-15 21:11_
 - Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
