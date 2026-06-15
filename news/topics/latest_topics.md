@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-15 10:35_
+_Updated: 2026-06-15 17:26_
 
 ## Top Stories
 
-- Norske ”Bonusprinsen” Marius Borg Høiby döms till fängelse - Dagens Nyheter
-- Skepsis mot avtal i Israel – nya smällar hörs i Libanon - Hufvudstadsbladet – HBL
-- Känt kloster i lågor efter attacker mot Kiev - GP
-- Malmer Stenergard: Steg i rätt riktning - Västerbottens-Kuriren
-- Regeringens satsningar ger fler vårdplatser i Sverige - Regeringen.se
-- Israel om Libanon: Kommer inte dra sig tillbaka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Nej-sidan segrade i kärnkraftsomröstningen - Corren
-- Så blir midsommarvädret – här slår värmen till - Västerbottens-Kuriren
-- Debatt mellan MP och KD om kärnkraft – Senaste nytt om valet 2026 - SVT Nyheter
-- Just nu: Stopp i ett körfält på grund av stillastående personbil på E18 - UNT
-- Sociala medier förbjuds för unga i Storbritannien - Corren
-- Oroligt under protesterna inför G7-mötet - SVT Nyheter
-- Förare fastklämd efter lastbilsolycka - Expressen
-- WHO:s larm: Dödliga viruset sprids snabbt - Expressen
-- Börsen rusar – efter USA och Irans avtal - Expressen
-- PRO: Sänkningen av matmomsen märks i butikerna - PROpensionären
-- Kraftigt uppåt på Stockholmsbörsen - SN, Södermanlands Nyheter
-- Midsommarmaten kostar mindre – så påverkar nya momsen festbordet - Börskollen
-- Fler appar får stöd för liggande läge i IOS 27 - Macworld.se
-- ST 15 juni 1976: Ny grupp vill rädda Södermalm - Sundsvalls Tidning
+- Hjälp till på Fållökna så kanske du får skaka hand med statsministern - Altinget.se
+- ”Bonusprinsen” döms för våldtäkt – fyra års fängelse - GP
+- Uppgifter: Pappa sköt sina döttrar – livshotande skador - Aftonbladet
+- Expert: Både USA och Iran kan utropa sig till segrare - Dagens Nyheter
+- Sol och värme väntas på midsommar: "Väldigt lovande" - News55
+- Polis i Malmö ville ha sex med barn – fastnade i Dumpen-fälla - Sydsvenskan
+- Ja till slopat kommunalt veto för uranbrytning - Corren
+- Fler vårdplatser i Sverige – men fortsatt brist - Västerbottens-Kuriren
+- Fick hand avhuggen med machete – två får fängelse - GP
+- Följde efter Carl-Oskar Bohlin (M) – döms för ofredande - SVT Nyheter
+- Erik de la Reguera: Klimatförändringarna osynliggörs – för att gå Trump till mötes - Dagens Nyheter
+- Fortsatta oklarheter kring avtalet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- MSF sparkar anställda efter övergreppsanklagelser - Västerbottens-Kuriren
+- Historiskt för Ukraina: Nu inleds EU-förhandling - GP
+- Efter momssänkningen: Maten på midsommar blir billigare - Omni
+- Oro efter Trumps drag: ”Kalla kriget är här” - Svenska Dagbladet
+- Rolls-Royce bygger kärnkraft i Sverige - Byggvärlden
+- Efter ägarskiftet: Stegra byter namn – för andra gången - NSD
+- LEDARE: En generation av försökskaniner - Smålandsposten
+- Komet föräldragrupp i höst - för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på idag 08:45 - TV.nu
-- Skönhetsdrottningen tar sig in bland de 10 vackraste Miss World-tävlande. - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Sinch appoints Jonathan Bean as Executive Vice President, EMEA & Global Partnerships - Cision News
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Direkt – Krisen i Mellanöstern – Amnesty uppmanar till global bojkott av Israel - Dagens Nyheter
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Handelsbanken lanserar ny global indexfond - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global drogsajt stängd – svenskar gripna - Drugnews
+- Bibelapp lanserar global tävling i bibel­läsning under fotbolls-VM - Världen idag
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
@@ -99,9 +99,9 @@ _Updated: 2026-06-15 10:35_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
@@ -113,9 +113,9 @@ _Updated: 2026-06-15 10:35_
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
 ## Science
 
@@ -125,8 +125,9 @@ _Updated: 2026-06-15 10:35_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU.se
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
@@ -134,7 +135,6 @@ _Updated: 2026-06-15 10:35_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
