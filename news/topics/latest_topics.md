@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-15 17:26_
+_Updated: 2026-06-15 21:11_
 
 ## Top Stories
 
-- Hjälp till på Fållökna så kanske du får skaka hand med statsministern - Altinget.se
-- ”Bonusprinsen” döms för våldtäkt – fyra års fängelse - GP
-- Uppgifter: Pappa sköt sina döttrar – livshotande skador - Aftonbladet
+- Superknall i VM – guldfavoriten chockad - Aftonbladet
 - Expert: Både USA och Iran kan utropa sig till segrare - Dagens Nyheter
-- Sol och värme väntas på midsommar: "Väldigt lovande" - News55
-- Polis i Malmö ville ha sex med barn – fastnade i Dumpen-fälla - Sydsvenskan
-- Ja till slopat kommunalt veto för uranbrytning - Corren
-- Fler vårdplatser i Sverige – men fortsatt brist - Västerbottens-Kuriren
-- Fick hand avhuggen med machete – två får fängelse - GP
-- Följde efter Carl-Oskar Bohlin (M) – döms för ofredande - SVT Nyheter
+- ”Bonusprinsen” döms för våldtäkt – fyra års fängelse - GP
 - Erik de la Reguera: Klimatförändringarna osynliggörs – för att gå Trump till mötes - Dagens Nyheter
-- Fortsatta oklarheter kring avtalet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- MSF sparkar anställda efter övergreppsanklagelser - Västerbottens-Kuriren
-- Historiskt för Ukraina: Nu inleds EU-förhandling - GP
-- Efter momssänkningen: Maten på midsommar blir billigare - Omni
-- Oro efter Trumps drag: ”Kalla kriget är här” - Svenska Dagbladet
-- Rolls-Royce bygger kärnkraft i Sverige - Byggvärlden
-- Efter ägarskiftet: Stegra byter namn – för andra gången - NSD
+- Mamman varnade socialtjänsten för pappan i Alvesta - Expressen
+- Flicka dog efter att ha lämnats ensam 42 gånger – nu ställs mamman inför rätta - Aftonbladet
+- Vandelskrav för uppehållstillstånd skärps - Västerbottens-Kuriren
+- Dagens Arena: Domkapitlet utreder omständigheter kring Birgitta Ed - SVT Nyheter
+- Fler vårdplatser i Sverige – men fortsatt brist - GP
+- Ja till slopat kommunalt veto för uranbrytning - Corren
+- DN Direkt – Rysk sjökapten åtalas i Finland för kabelbrott - Dagens Nyheter
+- Känt kloster i lågor efter attacker mot Kiev - Västerbottens-Kuriren
+- Trump: Avtalet är signerat – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Skepsis i Israel – nya smällar hörs i Libanon - Aftonbladet
+- Linus Larsson: Plötsligt är det allvar – Trump stoppar EU från att använda USA:s AI - Dagens Nyheter
+- Videberg Kraft väljer Rolls-Royce SMR som leverantör av ny kärnkraft i Sverige - Cision News
+- LKAB får grönt ljus i Malmberget – ska testa fossilfri järnsvamp - nyteknik
+- Billigare midsommarmat efter momssänkningen - Ekonomifakta
 - LEDARE: En generation av försökskaniner - Smålandsposten
 - Komet föräldragrupp i höst - för dig som vill stärka relationen med ditt barn - Uddevalla kommun
 
@@ -37,37 +37,37 @@ _Updated: 2026-06-15 17:26_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Bibelapp lanserar global tävling i bibel­läsning under fotbolls-VM - Världen idag
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Spelet bakom nedläggningen av News of the World - Expressen
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Spelet bakom nedläggningen av News of the World - Expressen
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
@@ -98,14 +98,15 @@ _Updated: 2026-06-15 17:26_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
@@ -113,7 +114,6 @@ _Updated: 2026-06-15 17:26_
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
 - Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 
@@ -122,43 +122,43 @@ _Updated: 2026-06-15 17:26_
 - Bekräftar sin position som ett centrum för utbildning och vetenskaplig forskning inom militär logistik, teknik och finans. - Vietnam.vn
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU.se
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
+- Jordbrukspolitik - Naturvårdsverket
 - Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk är här - EU Digital Strategy
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - atl.nu
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - SLU.se
-- Här är världens största jordbruk - atl.nu
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
