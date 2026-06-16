@@ -1,33 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-16 00:00_
+_Updated: 2026-06-16 02:43_
 
 ## Top Stories
 
 - Kristina Hultegård Därför var det rätt att fälla Bonusprinsen - GP
-- Lågtryck hotar midsommarfirandet: ”Risk för skurar” - Aftonbladet
 - Historiska katedralen i lågor: ”Stor symbolisk betydelse” - Dagens Nyheter
 - Explosion vid villa i Frölunda – nationella bombskyddet inkallat - SVT Nyheter
-- Erik de la Reguera: Klimatförändringarna osynliggörs – för att gå Trump till mötes - Dagens Nyheter
-- Mordförsök utanför Alvesta - barn fortfarande livshotande skadat - Sveriges Radio
+- Kaliforniens guvernör uppger att han utreds - Västerbottens-Kuriren
+- La upp kusliga inlägget – sedan föll hon mot sin död - Aftonbladet
+- Bombplan störtade – åtta befaras döda - Expressen
 - Dagens Arena: Domkapitlet utreder omständigheter kring Birgitta Ed - SVT Nyheter
-- Vandelskrav för uppehållstillstånd skärps - Västerbottens-Kuriren
-- Vägarbeten lämnar plats för midsommartrafiken - Omni
+- Vandelskrav för uppehållstillstånd skärps - GP
+- Midsommar och VM-fest: Så blir vädret i Göteborg - GP
 - Daniel Schatz: Vänsterpartiet reagerar först när medietrycket blir för stort - Dagens Nyheter
 - Trump: Avtal mellan USA och Iran undertecknat - Dagens Nyheter
-- Netanyahu ställer upp i Israels nästa val - Västerbottens-Kuriren
-- Kaliforniens guvernör uppger att han utreds - GP
-- Fortsätt oroligt i Libanon trots uppgörelse - Corren
+- Netanyahu ställer upp i Israels nästa val - Folkbladet
+- Vance: Avtal med Iran är ”väldigt övergripande” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- B-52-plan har störtat i Mojaveöknen – åtta ombord - Aftonbladet
 - Linus Larsson: Plötsligt är det allvar – Trump stoppar EU från att använda USA:s AI - Dagens Nyheter
 - Billigare midsommarmat efter momssänkningen - Ekonomifakta
 - Videberg Kraft väljer Rolls-Royce SMR som leverantör av ny kärnkraft i Sverige - Cision News
-- Stegras moderbolag byter namn – igen - Omni
+- Space X rusade vidare: ”Ingen typisk meme-aktie” - Omni
 - LEDARE: En generation av försökskaniner - Smålandsposten
 - Fler appar får stöd för liggande läge i IOS 27 - Macworld.se
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på idag 08:45 - TV.nu
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på idag 08:45 - Tv.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -35,18 +35,18 @@ _Updated: 2026-06-16 00:00_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- Spelet bakom nedläggningen av News of the World - Expressen
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
@@ -64,11 +64,11 @@ _Updated: 2026-06-16 00:00_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
@@ -103,8 +103,8 @@ _Updated: 2026-06-16 00:00_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
@@ -144,21 +144,19 @@ _Updated: 2026-06-16 00:00_
 
 - Han tror stenhårt på jordbruket - Land.se
 - Sveriges förändrade lantbruk - SLU.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Framtidens jordbruk är här - EU Digital Strategy
+- Jordbruk och landsbygdsutveckling - European Commission
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - SLU.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Lantbrukslogik – nu och i framtiden - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
+- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
-- Lantbrukarnas data blir en tillgång - Land.se
-- Markbristen: EUs unga bönders största utmaning - Land.se
+- Analys: Köp Black Earth Farming - Land.se
+- Black Earth Farming: Lägre avkastning för varje år - Land.se
