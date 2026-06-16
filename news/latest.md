@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-16 23:34_
+_Updated: 2026-06-17 01:08_
 
+- Trump tests and looming battleground races highlight Tuesday’s primaries - NBC News
+- White House talking points claim victories in initial Iran deal but often don’t meet reality - AP News
 - Education Dept. plans to move special ed and civil rights out of the agency - The Washington Post
-- Algae thwart Trump’s $14.2m attempt to turn reflecting pool ‘American flag blue’ - The Guardian
-- Federal agents thwarted attack on Trump’s UFC event, FBI says - Politico
-- Investigation underway into cause of B-52 bomber crash that killed 8 - USA Today
-- Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News
-- Trump signals he could send details of Iran deal to Congress - CNBC
+- Trump looks awkward in bizarre aerial photo of grinning G7 world leaders - The Independent
+- Surprise! Taxpayers Were Always Going to Foot the Bill for Trump's Ballroom, Records Reveal - Rolling Stone
+- 2 Bay Area college students from Fremont who attended UC Berkeley and SJSU die after being swept into Santa Cruz surf - ABC7 Bay Area
 - DOJ charges 15 people it says impeded agents during Minnesota immigration crackdown - NBC News
+- Dangerous flash flooding continues as Louisiana braces for what could be Tropical Storm Arthur - WDSU
+- B-52 on test flight plunged at nearly a mile a minute before crashing, killing 8 - AP News
 - Federal Judge Blocks Idaho Law Criminalizing Transgender Bathroom Use - The New York Times
-- Waterlogged tropical disturbance could soon flood parts of the South - The Washington Post
-- Georgia showdown pits Trump vs Kemp in GOP Senate race - The Hill
-- Live Updates: Deal with U.S. requires Israeli forces to leave Lebanon, Iran says - CBS News
+- Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon - AP News
+- Trump offers Ukraine olive branch at G7 — with a price tag - politico.eu
+- Some 'Lost Canadians' told to surrender new citizenship certificates - BBC
 - In Albania, anger grows against the government for supporting a Kushner-linked luxury resort - NPR
-- UK forces face operational cuts without more cash, defence chief warns - BBC
-- Thousands sought Canadian citizenship. Some are now under review - Yahoo
-- Struggling Pizza Hut chain to be sold for $2.7bn - BBC
-- Lutnick’s Letter to Anthropic Warned of Curbs on Top AI Models - Bloomberg
-- Netflix shares drop after report it lost $22B Roku bidding war to Fox - Yahoo Finance
+- SpaceX valuation balloons to $2.6T, briefly passes Amazon - TechCrunch
+- Yum Brands to sell struggling Pizza Hut chain for $2.7 billion as demand slumps - Reuters
+- The White House’s capricious controls on Anthropic - Financial Times
 - Dow climbs above 52,000 for first time as oil prices fall, but tech sell-off knocks down S&P 500: Live updates - CNBC
 - Snap unveils $2,195 AR glasses as CEO Evan Spiegel bets on post-smartphone future - CNBC
 - Android 17 starts hitting Pixel phones and watches today - Ars Technica
