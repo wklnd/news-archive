@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-16 00:03_
+_Updated: 2026-06-16 02:43_
 
 - Live Updates: U.S.-Iran deal signed by Trump and Iranian negotiator, U.S. officials say - CBS News
-- US Air Force B-52 bomber plane crashes after take off in California - BBC
-- Gavin Newsom says Trump Justice Department is investigating him and his wife - CNN
+- Eight feared dead after US Air Force B-52 bomber plane crashes in California - BBC
+- Cruise ship killing: Judge orders stepbrother be taken into US Marshals' custody - ABC News - Breaking News, Latest News and Videos
+- Trump is urging tankers to sail through Hormuz. Vessels aren’t so sure yet. - Politico
 - At G-7, allies plan for a world less reliant on the U.S. - The Washington Post
-- Why Does A Tarp Still Block The Kennedy Center Sign After Trump’s Name Came Off? - Forbes
-- Only 1 Dan Sullivan will appear on Alaska’s ballot - Politico
-- Missouri community mourns deaths of 11 skydivers in plane crash: ‘It shocked everybody’ - The Guardian
-- In Alabama, Opposition to Renewable Solar Energy Joins a Data Center Battle - The New York Times
-- Thune is ‘ hopeful’ Mitch McConnell will return this week - Politico
-- President says 250th celebration on July 4 will be a ‘Trump rally’ - The Washington Post
-- U.K. announces plan to ban social media for children under 16 - CBS News
-- Russian attacks in Ukraine kill 11, damage historic Kyiv cathedral - Al Jazeera
-- Woman thrown to her death during bungee jumping trip in Brazil - USA Today
+- Gavin Newsom says Trump directed DoJ to investigate him and his wife - The Guardian
+- Challenger with same name as US Sen. Dan Sullivan is ineligible for Alaska ballot, official says - AP News
+- Trump administration considers $300bn fund for Iran if deal is upheld - Financial Times
+- Israelis denounce Trump’s deal with Iran - The Washington Post
+- Thune is ‘hopeful’ Mitch McConnell will return this week - Live Updates - Politico
 - Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran - Reuters
-- Dow climbs more than 450 points for record close as oil tumbles on potential Iran deal - CNBC
-- Trump’s Anthropic shutdown just made the case for non-American AI - The Verge
-- Why Fox Stock Is Tumbling After $22 Billion Roku Deal - Barron's
+- Russian bishop known as Putin's "personal priest" targeted by EU sanctions - CBS News
+- UK social media ban: Questions remain on how it will work - BBC
+- Son of Norway’s Crown Princess Is Convicted of Rape - The New York Times
+- Stock Market Today: Nasdaq Opens Higher, Oil Drops After U.S.-Iran Deal - WSJ
+- The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch
+- Fox to Buy Roku at $22 Billion Value in Streaming Video Push - Bloomberg.com
 - SpaceX IPO raised $10bn more than thought - BBC
-- How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer - WIRED
-- No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm - MacRumors
+- Apple explains why Siri’s major iOS 27 overhaul took so long - 9to5Mac
+- Gemini suddenly can’t make calls on Android and Android Auto for some - 9to5Google
