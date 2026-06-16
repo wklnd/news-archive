@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-16 19:31_
+_Updated: 2026-06-16 22:25_
 
 ## Top Stories
 
-- Varningsskott från ryskt krigsfartyg mot båt i Engelska kanalen - svt.se
-- Vad har USA tjänat på Irankriget – egentligen? - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Mamma och son döda i rysk attack - Dagens Nyheter
 - Nytt bottenrekord för Liberalerna – Tidö halkar efter - Dagens Nyheter
-- Slut-ja till USA-handel i EU-parlamentet - GP
-- Målsägandebiträdet kritiskt till domen: "För lågt" - Sveriges Radio
-- Läkarna i da Costa-fallet får två miljoner var - Västerbottens-Kuriren
+- Person skjuten vid parkeringsplats i Jordbro - Aftonbladet
+- Trump på G7-mötet: Ryssland borde sluta avtal - SVT Nyheter
+- Ryskt krigsfartyg avfyrade varningsskott - Västerbottens-Kuriren
+- Sprängning i villaområde i Järnbrott – man gripen - GP
+- DN Direkt – KU: Lagförslag om barn i förvar kan pausas - Dagens Nyheter
+- Besked om ersättning i da Costa-fallet - GP
+- Fler ska kunna utvisas för brott – Senaste nytt om valet 2026 - SVT Nyheter
 - Så blir vädret på midsommar: ”Beror på hur länge man är vaken” - Värmlands Folkblad
-- Fler ska kunna utvisas för brott – Senaste nytt om valet 2026 - svt.se
-- Ja till slopat kommunalt veto mot uranbrytning - Hudiksvalls Tidning
-- G7 Leaders’ Joint Statements - Evian, France, 16 June 2026 - consilium.europa.eu
+- Just nu: Stopp i ett körfält på grund av stillastående personbil på E4 - SN, Södermanlands Nyheter
 - Uppgifter: Iran får exportera råolja - Västerbottens-Kuriren
-- Trump öppnar för Syrien: ”Om Israel inte kan...” - GP
-- DN Direkt – Misstänkt farligt föremål var termos - Dagens Nyheter
+- Ukrainsk drönarattack mot raffinaderi i Moskva - GP
+- Erik de la Reguera: Macron vill framstå som en maktspelare – men Hormuzsundet är ett getingbo - Dagens Nyheter
+- Belarus diktator ber om ursäkt – vill inte gå in i kriget - Dagens Nyheter
 - Stordalens löfte: ”Kommer inte sälja Norwegian-aktier” - Omni
 - Per Narvinger utsedd till vd och koncernchef då Börje Ekholm slutar - Cision News
 - Dömd vd bakom ansökan om ny kärnkraft – under nytt namn - Sydsvenskan
-- Salix Group: Frisläppt förvärvare - Affärsvärlden
+- Space X och Microsoft i tajt kamp på rankning - Aftonbladet
 - Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
-- ”Life is strange”-skaparen är pank om fem månader - Aftonbladet
+- Nu tar sista AT-kullen examen - Läkartidningen
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Vancouver’s 1st World Cup game sees 2 arrests, no major incidents: police - Global News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- President of Russia Vladimir Putin marks his 73rd birthday - TV BRICS
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews-se
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -78,8 +78,8 @@ _Updated: 2026-06-16 19:31_
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
@@ -97,47 +97,47 @@ _Updated: 2026-06-16 19:31_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Hanoi Medical Universitys projekt för äldreomsorg - Vietnam.vn
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Svettningar, sömnproblem och humörsvängningar – appen som ska hjälpa oss genom lidandet köps upp - Breakit
+- Vi presenterar HealthBench - OpenAI
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Kina drar om USA – bäst på forskning - svt.se
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskningen ska vara fri - European Commission
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
