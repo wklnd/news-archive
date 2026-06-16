@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-16 02:43_
+_Updated: 2026-06-16 08:15_
 
 - Live Updates: U.S.-Iran deal signed by Trump and Iranian negotiator, U.S. officials say - CBS News
-- Eight feared dead after US Air Force B-52 bomber plane crashes in California - BBC
-- Cruise ship killing: Judge orders stepbrother be taken into US Marshals' custody - ABC News - Breaking News, Latest News and Videos
+- US Air Force B-52 bomber crashes after takeoff, killing 8 - Al Jazeera
+- Israelis angry over U.S.-Iran peace deal lash out at Netanyahu - PBS
+- Here’s how G7 leaders manage delicate relationships with Trump - Politico
 - Trump is urging tankers to sail through Hormuz. Vessels aren’t so sure yet. - Politico
-- At G-7, allies plan for a world less reliant on the U.S. - The Washington Post
-- Gavin Newsom says Trump directed DoJ to investigate him and his wife - The Guardian
-- Challenger with same name as US Sen. Dan Sullivan is ineligible for Alaska ballot, official says - AP News
-- Trump administration considers $300bn fund for Iran if deal is upheld - Financial Times
-- Israelis denounce Trump’s deal with Iran - The Washington Post
-- Thune is ‘hopeful’ Mitch McConnell will return this week - Live Updates - Politico
-- Amateur saboteurs: the young men carrying out attacks for gangs, Russia and Iran - Reuters
-- Russian bishop known as Putin's "personal priest" targeted by EU sanctions - CBS News
-- UK social media ban: Questions remain on how it will work - BBC
-- Son of Norway’s Crown Princess Is Convicted of Rape - The New York Times
-- Stock Market Today: Nasdaq Opens Higher, Oil Drops After U.S.-Iran Deal - WSJ
-- The US government’s Anthropic models ban was never about an AI jailbreak - TechCrunch
-- Fox to Buy Roku at $22 Billion Value in Streaming Video Push - Bloomberg.com
-- SpaceX IPO raised $10bn more than thought - BBC
+- In the Dark on U.S.-Iran Deal, Senators Refrain From Praising It - The New York Times
+- Commentary: Trump goes after Newsom's wife? Unsurprising, but also a new level of authoritarianism - Los Angeles Times
+- Teen accused of killing stepsister on Carnival Cruise taken into custody following adult charges - AP News
+- Alaska boots second Dan Sullivan from Senate race - The Washington Post
+- Trump’s name is off the Kennedy Center, but a tarp is hiding the proof - The Washington Post
+- EU, Ukraine start formal accession talks after Orban delay - DW.com
+- Norwegian crown princess's son found guilty of two counts of rape - BBC
+- U.K. announces plan to ban social media for children under 16 - CBS News
+- Pope Leo prays for Filipinos affected by massive earthquake - Vatican News
+- Dow closes at record high as U.S.-Iran deal lifts stocks - Honolulu Star-Advertiser
+- Japan Raises Rates to 31-Year High to Ward Off War Inflation - The New York Times
+- Why Fox Stock Is Tumbling After $22 Billion Roku Deal - Barron's
+- Inside the fight over Claude Mythos 5 - The Verge
 - Apple explains why Siri’s major iOS 27 overhaul took so long - 9to5Mac
-- Gemini suddenly can’t make calls on Android and Android Auto for some - 9to5Google
+- Google Chrome is closing the loopholes that let old ad blockers keep working - The Verge
