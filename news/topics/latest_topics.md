@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-16 02:43_
+_Updated: 2026-06-16 08:06_
 
 ## Top Stories
 
-- Kristina Hultegård Därför var det rätt att fälla Bonusprinsen - GP
-- Historiska katedralen i lågor: ”Stor symbolisk betydelse” - Dagens Nyheter
-- Explosion vid villa i Frölunda – nationella bombskyddet inkallat - SVT Nyheter
-- Kaliforniens guvernör uppger att han utreds - Västerbottens-Kuriren
-- La upp kusliga inlägget – sedan föll hon mot sin död - Aftonbladet
-- Bombplan störtade – åtta befaras döda - Expressen
-- Dagens Arena: Domkapitlet utreder omständigheter kring Birgitta Ed - SVT Nyheter
-- Vandelskrav för uppehållstillstånd skärps - GP
-- Midsommar och VM-fest: Så blir vädret i Göteborg - GP
-- Daniel Schatz: Vänsterpartiet reagerar först när medietrycket blir för stort - Dagens Nyheter
-- Trump: Avtal mellan USA och Iran undertecknat - Dagens Nyheter
-- Netanyahu ställer upp i Israels nästa val - Folkbladet
-- Vance: Avtal med Iran är ”väldigt övergripande” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- B-52-plan har störtat i Mojaveöknen – åtta ombord - Aftonbladet
-- Linus Larsson: Plötsligt är det allvar – Trump stoppar EU från att använda USA:s AI - Dagens Nyheter
-- Billigare midsommarmat efter momssänkningen - Ekonomifakta
+- Direkt – Krisen i Mellanöstern – JD Vance om avtalet: Ett väldigt allmänt dokument - Dagens Nyheter
+- Explosion i port i Hagsätra – ingen gripen - Mitt i
+- Ungern lägger hinder för Orbán-återkomst - GP
+- Militärexpert: Putin kan tvingas till mobilisering i höst - Dagens Nyheter
+- Dennis hittade sin pappa och fyra okända systrar med dna-test - Dagens Nyheter
+- Domkapitlet utreder Birgitta Eds lämplighet som präst - Dagens Arena
+- Elever läser mindre i skolan: ”Går ner på bred front” - Expressen
+- Väg 263 mest olycksdrabbad inför midsommartrafiken - märsta.nu
+- Riksdagens beslut: Kommunalt veto mot uranbrytning avskaffas - SVT Nyheter
+- Här vill svenskarna helst fira midsommar 2026 - Metro Mode
+- Trump om miljardfond till Iran: ”Fake news” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA: Inga pengar till återuppbyggnad i Iran - Corren
+- Åtta döda i bombplansolycka i USA – ”En tragedi” - SVT Nyheter
+- Expert: Trump kommer att behöva hantera Libanon - Västerbottens-Kuriren
+- USA:s oljereserv den lägsta på 43 år - GP
+- Gårdsförsäljning av alkohol utmanas av krångliga regler - Dagens Nyheter
 - Videberg Kraft väljer Rolls-Royce SMR som leverantör av ny kärnkraft i Sverige - Cision News
-- Space X rusade vidare: ”Ingen typisk meme-aktie” - Omni
-- LEDARE: En generation av försökskaniner - Smålandsposten
+- De vilda AI-satsningarna är över – dags att fokusera på värde - Computer Sweden
 - Fler appar får stöd för liggande läge i IOS 27 - Macworld.se
+- Källa: Ninja Theory på väg att stängas av Xbox - FZ.se
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på idag 08:45 - Tv.nu
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på idag 08:45 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -39,37 +40,36 @@ _Updated: 2026-06-16 02:43_
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Spelet bakom nedläggningen av News of the World - Expressen
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
+- SVT ber om ursäkt för AI-skapat klipp i Agenda - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 
 ## Business
 
@@ -81,18 +81,18 @@ _Updated: 2026-06-16 02:43_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 
 ## Health
 
@@ -120,14 +120,13 @@ _Updated: 2026-06-16 02:43_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Bekräftar sin position som ett centrum för utbildning och vetenskaplig forskning inom militär logistik, teknik och finans. - Vietnam.vn
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU.se
 - Trump sparkar forskningsråd – ”Oerhört allvarligt” - Forskning & Framsteg
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskare: ”Den största vetenskapliga krisen någonsin” - Dagens Nyheter
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -135,6 +134,7 @@ _Updated: 2026-06-16 02:43_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Resultat från Apple Women’s Health Study driver vetenskapen kring menscykler framåt - Apple
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
@@ -143,20 +143,22 @@ _Updated: 2026-06-16 02:43_
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
+- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU.se
-- Jordbruk och landsbygdsutveckling - European Commission
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - SLU.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - SLU.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Professor Christine A. Watson, SRUC, UK, is the 7th holder of the KSLA Wallenberg Professorship - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Kan agroekologi mätta världen? - SLU.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Analys: Köp Black Earth Farming - Land.se
-- Black Earth Farming: Lägre avkastning för varje år - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
+- Markbristen: EUs unga bönders största utmaning - Land.se
