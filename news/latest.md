@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-17 10:14_
+_Updated: 2026-06-17 14:39_
 
-- Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff, setting up race against Ossoff - CBS News
+- June 16, 2026 — Mike Collins will win Georgia Senate primary; Rick Jackson will win governor runoff - CNN
+- Read the 14-Point Draft Memorandum Between the US and Iran - Bloomberg.com
+- US primaries in Oklahoma, Georgia, others: Key takeaways from the results - Al Jazeera
 - Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening - Rolling Stone
-- G7 promises to support Ukraine and sanction Russia in joint declaration - politico.eu
-- US Set to Offer Iran Broad Financial Gains in Peace Deal - Yahoo Finance
-- Trump ramps up Education Department's dismantling with changes on special education and civil rights - AP News
-- Hydrogen Peroxide Poured Into Green Reflecting Pool After Trump’s $14 Million Renovation - Forbes
-- Georgia runoffs 2026: Rick Jackson topples Burt Jones, wins GOP nod for governor - AJC.com
-- B-52 was in the air a very short time before crashing and killing all 8 on board - AP News
-- Protests break out in Senatobia following death of 1-year-old Kohen Wiley after police shooting - localmemphis.com
+- D.C. Mayor Primary Election 2026 Live Results - NBC News
 - Group planned to attack White House UFC event using snipers and drones, FBI says - BBC
+- US Attorney for Minnesota charges 15 anti-ICE protesters, alleging ties to antifa groups - 5 EYEWITNESS NEWS
+- Protests break out in Senatobia following death of 1-year-old Kohen Wiley after police shooting - localmemphis.com
+- 1 killed when small plane crashes on Texas highway. People leave vehicles to try to help - AP News
+- B-52 bomber crash came as Air Force was upgrading legendary workhorse - Los Angeles Times
+- Trump’s Iran agreement dominates G7 but big questions remain - NPR
+- Iran-US war latest: Trump threatens to ‘drop bombs smack in the middle of their head’ if he doesn’t like deal with Tehran - The Independent
+- G7 leaders to boost Ukraine air defences, tighten sanctions on Russia - Al Jazeera
 - UN chief visits Haiti, where a new international force will be deployed to help fight gangs - AP News
-- Australian right-wing leader Pauline Hanson says multiculturalism has failed - Yahoo
-- Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon - CBS News
-- 'It was surreal': British couple describe having warning shots fired near them by Russian warship - BBC
-- Oil little changed as investors weigh US-Iran peace deal, Hormuz uncertainty - Reuters
-- SpaceX’s $60 Billion Cursor Acquisition Doubles 20-Something Cofounders’ Net Worths - Forbes
-- Trump Picked Warsh to Cut Rates. His Committee Is Talking About Hikes. - WSJ
-- Struggling Pizza Hut chain to be sold for $2.7bn - BBC
-- Android 17 starts hitting Pixel phones and watches today - Ars Technica
-- Apple Plans Camera AirPods Alongside Upgraded Foldable iPhone in 2027 - Bloomberg.com
+- Oil prices inch lower as traders eye U.S.-Iran peace agreement - Investing.com
+- Inflation and Kevin Warsh take center stage at the Federal Reserve’s interest rate meeting - NBC News
+- Carvana moves into new-car dealerships - Baton Rouge Business Report
+- S&P 500 futures are little changed as oil ticks higher, traders await Fed rate decision: Live updates - CNBC
+- WhatsApp working on yet another ephemeral feature on iOS - 9to5Mac
+- Google’s June Pixel Drop expands AirDrop compatibility, creation tools, and Pixel Watch safety - Android Police
