@@ -1,75 +1,75 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-17 02:08_
+_Updated: 2026-06-17 07:25_
 
 ## Top Stories
 
-- Sprängning i villaområde i Järnbrott – man gripen - GP
-- 16 juni 18.42, Mord/dråp, försök, Haninge - polisen.se
-- Nytt bottenrekord för Liberalerna – Tidö halkar efter - Dagens Nyheter
-- Zelenskyj och Trump möts under G7-mötet - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Minst fyra dödade i södra Libanon - Dagens Nyheter
-- Belarus diktator ber om ursäkt – vill inte gå in i kriget - Dagens Nyheter
+- Chefen var skeptisk till ”existentiell hälsa” – fick sparken från myndigheten - Aftonbladet
+- Hanna slår larm – lämnade socialtjänsten i Alvesta: ”Jag kan inte vara tyst längre” - Smålandsposten
+- Iranska oljetankrar passerat USA:s blockadzon - Folkbladet
+- 17 elever har gått i fel skolform – nästan alla har utländsk bakgrund - GP
+- Iran varnar Israel efter attackerna i Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Lukasjenkas ursäkt till Zelenskyj - Expressen
+- Karta: Riskerar ditt hus att översvämmas av havet? - Dagens Nyheter
 - Kristina Hultegård Strömmer plockar politiska poäng i da Costa-fallet - GP
-- Kvinna räddad från klippkant i Kirunafjällen - NSD
-- Nya skogsregler gör det enklare att avverka - Sveriges Radio
-- Fler ska kunna utvisas för brott – Senaste nytt om valet 2026 - SVT Nyheter
-- Trumps måltavlor på G7 – kritiserar flera ledare - Dagens Nyheter
-- Varningsskott från ryskt krigsfartyg mot båt i Engelska kanalen - SVT Nyheter
+- DEBATT: Riksdagen öppnar för uranbrytning på bekostnad av matproduktionen - Nya Wermlands-Tidningen
+- Ännu en bilbrand i Jönköping – sjunde på kort tid - SVT Nyheter
+- Zelenskyj och Trump möts under G7-mötet - GP
+- Ryskt stridsfartyg har avfyrat varningsskott i Engelska kanalen - Dagens Nyheter
+- Flera döda i israeliska attacker mot Libanon - Västerbottens-Kuriren
 - Putinkritisk konstnär mördad i Polen - Västerbottens-Kuriren
-- Ukrainsk drönarattack mot raffinaderi i Moskva - GP
-- Expert om Norwegians köp av Ving: ”Kan sälja fler flygbiljetter” - Sveriges Radio
-- Företag vill bygga kärnkraft i Barsebäck: ”Positivt” - Omni
-- Per Narvinger utsedd till vd och koncernchef då Börje Ekholm slutar - Cision News
-- AI-drivna aktier drog ned Wall Street – oro sänkte börshumöret i New York - Börskollen
+- Anthropic-stopp ett ”akut problem” för EU - Aftonbladet
+- BMW vinstvarnar – Kina och Irankriget spökar - GP
+- Ericssons vd Börje Ekholm slutar – Per Narvinger ersätter - Sveriges Radio
+- Göran Greider: Jag är delägare i Space X - ETC.se
 - Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
-- Nu tar sista AT-kullen examen - Läkartidningen
+- En ny arkadhall har öppnat i Sofielund – men Skymningen är mer än så - Sydsvenskan
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- President of Russia Vladimir Putin marks his 73rd birthday - TV BRICS
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Kina utökar övervakning i realtid av invånarna - Omni
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
@@ -96,26 +96,26 @@ _Updated: 2026-06-17 02:08_
 
 ## Health
 
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Hanoi Medical Universitys projekt för äldreomsorg - Vietnam.vn
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -149,6 +149,7 @@ _Updated: 2026-06-17 02:08_
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
@@ -160,5 +161,4 @@ _Updated: 2026-06-17 02:08_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
