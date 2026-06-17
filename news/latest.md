@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-17 21:11_
+_Updated: 2026-06-17 23:33_
 
-- Read the 14-Point Draft Memorandum Between the US and Iran - Bloomberg.com
-- Live Updates: Trump Delays Jay Clayton's Nomination to Pressure Congress on Voting Restrictions Bill - The New York Times
-- B-52 was in the air a very short time before crashing and killing all 8 on board - AP News
-- Rain along Gulf Coast could become the first named storm of Atlantic hurricane season - NPR
-- Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening - Rolling Stone
-- Trump says the US will resume bombing if Iran doesn’t comply with agreement - CNN
-- 'Happy Face' killer warns fellow serial killer Rex Heuermann could be 'tossed to the wolves' in prison - Fox News
-- Georgia Republican primary delivers mixed results for Trump - Al Jazeera
-- Newsom’s top lawyer tells DOJ to look at Trump instead - Politico
-- Four takeaways from primaries in Georgia, Alabama and Oklahoma - The Washington Post
-- G7 leaders to boost Ukraine air defences, tighten sanctions on Russia - Al Jazeera
-- How Germany and Poland rebooted relations 35 years ago - DW.com
-- Israel seizes powers over flashpoint West Bank shrine from Palestinians - Reuters
-- South Africa challenges WHO's account of migrant killings amid rising anti-immigrant tensions. - Business Insider Africa
-- Fed meeting live: Fed holds rates at 3.5% to 3.75% in unani - Yahoo Finance
-- Iran to Gain Major Financial Relief Under Interim Deal With US - Bloomberg.com
-- Dow rises to record as oil ticks higher, traders await Fed rate decision: Live updates - CNBC
-- These 50 early Amazon Prime Day deals are worth shopping before next week’s sale - CNN
+- READ: Full text of U.S.-Iran memorandum of understanding - Axios
+- G7 leaders back Trump’s deal to end Iran war as more details of it emerge - AP News
+- Identities of 8 crew members who died in B-52 crash are released - USA Today
+- Georgia Republicans backtrack on redistricting plans - NBC News
+- Senate postpones confirmation hearing for intel chief after Trump's call to delay - NPR
+- Look who’s losing it over Trump’s Iran deal - Responsible Statecraft
+- Gilgo Beach killer Rex Heuermann sentenced, says 'I am responsible" - USA Today
+- Trump Rescinds Endorsement of Right-Wing Pastor After Texting Scandal - The New York Times
+- 2028 presidential run looms over Gavin Newsom’s response to DOJ probe - The Washington Post
+- Collins wins Georgia Senate runoff, to challenge Ossoff - Axios
+- Ukraine's deep strikes leaving Russia short on air defense missiles, possibly at an "unsustainable rate" - CBS News
+- Ukraine-Russia war latest: Trump claims Moscow losing more troops than Kyiv as he admits Putin on ‘the offensive’ - The Independent
+- CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 - CNBC
+- Trump again slams Netanyahu’s campaign in Lebanon - Politico
+- Federal Reserve holds interest rates steady as Trump’s new chairman faces fresh inflation woes - NBC News
+- Dow closes 500 points lower as Warsh’s first Fed meeting sets off surge in bond yields: Live updates - CNBC
+- Trump’s Justice Department urges court to throw out pollution lawsuit against Elon Musk’s company - CNN
+- Struggling JetBlue shuts down key Newark, LaGuardia operations as New York airport costs soar - New York Post
 - SNAP Stock Drops — Snap Launches AR Smart Glasses, But Retail Is ‘Skeptical’ On Over $2,000 Price Tag - Yahoo Finance
-- iOS 27 fixes three of the most annoying Messages bugs - 9to5Mac
+- iPhone 18 to Pack 12GB of RAM for Smarter Siri Features, No Price Bump - MacRumors
