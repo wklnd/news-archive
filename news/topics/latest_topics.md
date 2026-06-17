@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-17 19:28_
+_Updated: 2026-06-17 21:35_
 
 ## Top Stories
 
-- Uppgifter: Man skjuten i Jordbro – Foxtrot ”firade” dådet - Aftonbladet
-- Nytt EU-system för återvändande av tredjelandsmedborgare som vistas olagligt i unionen - European Parliament
+- Socialdemokraterna avviker i EU om utvisningar - Dagens Nyheter
 - Överläkaren: Detta väntar Mette-Marit efter lungtransplantationen - GP
-- DN Direkt – Sveriges klimatutsläpp minskade under 2025 – men avståndet till EU-målen växer - Dagens Nyheter
-- Källor: Generaldirektören var kritisk mot ”existentiell hälsa” – fick sparken - Omni
-- Mammans ord i rätten om dottern som brann inne - Expressen
+- Flicka dog – misstänkta mamman i rätten: ”Försvarar inte mina handlingar” - Aftonbladet
+- Chefer i skånsk cancervård avgår i protest - GP
+- En frihetsberövad efter skjutning i Jordbro - Expressen
+- Efter avslöjandet: Kriminal­vården utreder sexuella övergrepp mellan fångar - Arbetet
 - DN Direkt – Lagförslag om barn i förvar pausas - Dagens Nyheter
-- 17 juni 15.01, Trafikolycka, smitning från, Huddinge - polisen.se
+- Stopp i tågtrafiken över Öresundsbron - SVT Nyheter
 - SL:s nya elbussar väger för mycket: ”Kommer att bli kaos” - Dagens Nyheter
 - Försvarsministern invigde drönaranläggning: ”Allvarliga tider” - Dagens Nyheter
-- Trump: Succéresa till G7-möte - GP
-- G7 skärper sanktionerna mot Ryssland – mer vapen till Ukraina - Europaportalen
-- Donald Trump på G7-mötet: ”Regimskifte” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Mord på rysk konstnär ”sannolikt politiskt” - Dagens Nyheter
-- Riksbanken lämnar styrräntan oförändrad – höjer prognos - Placera.se
-- 16 000 svenskar äger Space X-aktier – flesta män - Svenska Dagbladet
-- Space X köper AI-bolag med svensk medgrundare i jätteaffär - Sveriges Radio
-- Börsen idag: Stiltje på ytan – men uppköpsbud får aktie att explodera 88 procent - Börskollen
-- Google lanserar Home Speaker med Gemini - Placera.se
+- Utkast till avtal läckt – Iran ska få jättesumma - GP
+- Erik de la Reguera: Macron undvek en krasch – med en fest på slottet - Dagens Nyheter
+- Ny film visar när palestinsk bebis skjuts till döds på Västbanken - Dagens Nyheter
+- Dödlig attack och storbrand i Zaporizjzja - Västerbottens-Kuriren
+- Riksbankens besked: Räntan lämnas oförändrad - Sveriges Radio
+- 16.000 svenskar äger Space X-aktier – flesta män - Dagens industri
+- Federal Reserve lämnar styrräntan oförändrad - Omni
+- Mattesnillet från Malmö blir dollarmiljardär – fick A i allt på Borgarskolan - Sydsvenskan
+- Google lanserar Home Speaker med Gemini - Börsvärlden
 - Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
 
 ## World News
@@ -38,7 +38,6 @@ _Updated: 2026-06-17 19:28_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -47,20 +46,23 @@ _Updated: 2026-06-17 19:28_
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -68,8 +70,6 @@ _Updated: 2026-06-17 19:28_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -82,13 +82,13 @@ _Updated: 2026-06-17 19:28_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -126,7 +126,6 @@ _Updated: 2026-06-17 19:28_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
@@ -138,6 +137,7 @@ _Updated: 2026-06-17 19:28_
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Olika slutsatser från samma data - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
