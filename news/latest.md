@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-17 14:39_
+_Updated: 2026-06-17 18:27_
 
-- June 16, 2026 — Mike Collins will win Georgia Senate primary; Rick Jackson will win governor runoff - CNN
-- Read the 14-Point Draft Memorandum Between the US and Iran - Bloomberg.com
+- 'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims - Reuters
+- Live Updates: Trump Delays Jay Clayton's Nomination to Pressure Congress on Voting Restrictions Bill - The New York Times
+- System may strengthen into Tropical Storm Arthur near Texas coast - WDSU
+- Collins wins Georgia Senate runoff, to challenge Ossoff - Axios
 - US primaries in Oklahoma, Georgia, others: Key takeaways from the results - Al Jazeera
-- Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening - Rolling Stone
-- D.C. Mayor Primary Election 2026 Live Results - NBC News
-- Group planned to attack White House UFC event using snipers and drones, FBI says - BBC
-- US Attorney for Minnesota charges 15 anti-ICE protesters, alleging ties to antifa groups - 5 EYEWITNESS NEWS
-- Protests break out in Senatobia following death of 1-year-old Kohen Wiley after police shooting - localmemphis.com
-- 1 killed when small plane crashes on Texas highway. People leave vehicles to try to help - AP News
-- B-52 bomber crash came as Air Force was upgrading legendary workhorse - Los Angeles Times
-- Trump’s Iran agreement dominates G7 but big questions remain - NPR
-- Iran-US war latest: Trump threatens to ‘drop bombs smack in the middle of their head’ if he doesn’t like deal with Tehran - The Independent
+- Billionaire Rick Jackson defeats Trump-backed Burt Jones in Georgia governor race - Politico
+- 'Happy Face' killer warns fellow serial killer Rex Heuermann could be 'tossed to the wolves' in prison - Fox News
+- B-52 was in the air a very short time before crashing and killing all 8 on board - AP News
+- Luigi Mangione court hearing thrown into chaos after prosecutors’ blunder - The Independent
+- Read the 14-Point Draft Memorandum Between the US and Iran - Yahoo Finance
 - G7 leaders to boost Ukraine air defences, tighten sanctions on Russia - Al Jazeera
-- UN chief visits Haiti, where a new international force will be deployed to help fight gangs - AP News
-- Oil prices inch lower as traders eye U.S.-Iran peace agreement - Investing.com
-- Inflation and Kevin Warsh take center stage at the Federal Reserve’s interest rate meeting - NBC News
+- Sending Fuel Trucks Up in Flames, Ukraine Tries to Cut Off Crimea - The New York Times
+- Smotrich says he’s ‘abolished Hebron agreement,’ given Israel more power in flashpoint city - The Times of Israel
+- South Africa challenges WHO's account of migrant killings amid rising anti-immigrant tensions. - Business Insider Africa
+- Kevin Warsh set to lead his first Federal Reserve interest rate meeting. Here's what to expect. - CBS News
+- Oil Rebounds as Traders Await Signing of US-Iran Deal - Yahoo Finance
+- Dow rises to record as oil ticks higher, traders await Fed rate decision: Live updates - CNBC
 - Carvana moves into new-car dealerships - Baton Rouge Business Report
-- S&P 500 futures are little changed as oil ticks higher, traders await Fed rate decision: Live updates - CNBC
-- WhatsApp working on yet another ephemeral feature on iOS - 9to5Mac
-- Google’s June Pixel Drop expands AirDrop compatibility, creation tools, and Pixel Watch safety - Android Police
+- SNAP Stock Drops — Snap Launches AR Smart Glasses, But Retail Is ‘Skeptical’ On Over $2,000 Price Tag - Yahoo Finance
+- SanDisk’s New, ‘Officially Licensed’ $3,800 PS5 SSD Is A Surefire Sign We Are Completely Screwed - Kotaku
