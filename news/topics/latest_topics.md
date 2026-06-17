@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-17 16:07_
+_Updated: 2026-06-17 19:28_
 
 ## Top Stories
 
-- Ryska varningsskotten: Paret i segelbåten ger helt annan bild - Dagens Nyheter
-- SMHI: Så blir midsommarvädret i Sverige 2026 - Sveriges Radio
-- Naturvårdsverket: Sveriges klimatutsläpp minskar - Västerbottens-Kuriren
+- Uppgifter: Man skjuten i Jordbro – Foxtrot ”firade” dådet - Aftonbladet
+- Nytt EU-system för återvändande av tredjelandsmedborgare som vistas olagligt i unionen - European Parliament
 - Överläkaren: Detta väntar Mette-Marit efter lungtransplantationen - GP
-- Så döms sexköparna från Hudiksvall i stora kopplerihärvan - Hudiksvalls Tidning
-- Chefer i skånsk cancervård avgår i protest - GP
+- DN Direkt – Sveriges klimatutsläpp minskade under 2025 – men avståndet till EU-målen växer - Dagens Nyheter
+- Källor: Generaldirektören var kritisk mot ”existentiell hälsa” – fick sparken - Omni
+- Mammans ord i rätten om dottern som brann inne - Expressen
 - DN Direkt – Lagförslag om barn i förvar pausas - Dagens Nyheter
-- Hovrätten dömer Klippanmördaren till livstids fängelse för dubbelmord - SVT Nyheter
-- ”Tågtunnel genom Lund ger lägre kapacitet och sämre möjligheter att hantera störningar.” - Sydsvenskan
-- Tusentals svenska hus hotas av havet - Dagens Nyheter
-- Mord på rysk konstnär ”sannolikt politiskt” - Västerbottens-Kuriren
-- Trump: ”Gillar jag inte avtalet bombar vi” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Trump på G7-mötet: Jag är boss - Dagens Nyheter
-- Dödlig attack och storbrand i Zaporizjzja - GP
+- 17 juni 15.01, Trafikolycka, smitning från, Huddinge - polisen.se
+- SL:s nya elbussar väger för mycket: ”Kommer att bli kaos” - Dagens Nyheter
+- Försvarsministern invigde drönaranläggning: ”Allvarliga tider” - Dagens Nyheter
+- Trump: Succéresa till G7-möte - GP
+- G7 skärper sanktionerna mot Ryssland – mer vapen till Ukraina - Europaportalen
+- Donald Trump på G7-mötet: ”Regimskifte” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Mord på rysk konstnär ”sannolikt politiskt” - Dagens Nyheter
 - Riksbanken lämnar styrräntan oförändrad – höjer prognos - Placera.se
-- Stockholm mot svag start – ”spänd väntan” på Fed - EFN
-- FI-beslut om sanktion på 140 Mkr för Ikano Bank – erinran mot SSAB - Sak & Liv
-- Spotlight Group: Bud med stor premie - Affärsvärlden
+- 16 000 svenskar äger Space X-aktier – flesta män - Svenska Dagbladet
+- Space X köper AI-bolag med svensk medgrundare i jätteaffär - Sveriges Radio
+- Börsen idag: Stiltje på ytan – men uppköpsbud får aktie att explodera 88 procent - Börskollen
 - Google lanserar Home Speaker med Gemini - Placera.se
-- Analytiker: ”Microsoft kommer köra över Xbox med bulldozer i år” - Aftonbladet
+- Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
 
 ## World News
 
@@ -38,56 +38,67 @@ _Updated: 2026-06-17 16:07_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Kina utökar övervakning i realtid av invånarna - Omni
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Ny rapport visar låg AI-beredskap när sökfunktioner och kundinsikter omdefinieras – svenska företag riskerar sämre synlighet online - Via TT
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
+- Aaron Maltais i tidningen Syre om ny bankrapport - Stockholm Environment Institute
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -101,11 +112,10 @@ _Updated: 2026-06-17 16:07_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 - Brinnande forskningsintresse och personlig erfarenhet förenas i doktorsavhandling om amning i humanitära nödsituationer - Karolinska Institutet
-- Mycket tidig medicinsk abort är effektivt och säkert - Karolinska Institutet
 
 ## Science
 
@@ -118,37 +128,37 @@ _Updated: 2026-06-17 16:07_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Forskningen ska vara fri - European Commission
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Han tror stenhårt på jordbruket - Land.se
-- Ordförande för Lam Dong Provincial Farmers' Association: Framgångsrika affärsmetoder i kombination med digital transformation för tvåsiffrig tillväxt. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU.se
-- CAP: Miljarderna som påverkar EU:s jordbruk - Naturskyddsföreningen
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - SLU.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
