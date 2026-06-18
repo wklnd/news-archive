@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 23:02_
+_Updated: 2026-06-19 01:18_
 
 ## Top Stories
 
 - Vance: USA har lyft blockaden i Hormuzsundet - GP
-- SMHI varnar för kraftig åska – Ellevio förstärker beredskapen - Cision News
 - DN Direkt – Bil i brand efter trafikolycka - Dagens Nyheter
-- Trafikverket: ”Utvilad? Åk då tidigare på midsommar” - Omni
-- Göran Eriksson: Nu flyger hökarna rakt emot Trump - Svenska Dagbladet
-- Bonus införs – extra betalt för att döda ryssar i närstrid - Dagens Nyheter
-- Polisen: Två efterlysta svenskar har förts till Sverige - SVT Nyheter
-- Brist på hormonläkemedel – regeringen utreder - Västerbottens-Kuriren
-- DN Direkt – M går till val på nytt jobbskatteavdrag - Dagens Nyheter
-- Uppgifter: Svensk pilot i akut organtransport till Oslo - Aftonbladet
-- Treåring hamnade i krokodilhägnad – man gripen - Aftonbladet
+- Moskva attackerat av drönare • Militärexperten: Putins hämnd kommer snart - Expressen
 - Nato stärker och moderniserar sina kärnvapen - SVT Nyheter
-- Ukraina: Tio civila dödade i attacker - Dagens Nyheter
-- Affärsman med band till Putin gripen av säkerhetstjänst - Dagens Nyheter
+- Göran Eriksson: Nu flyger hökarna rakt emot Trump - Svenska Dagbladet
+- Vance varnar Israel: Är er enda allierade - Dagens Nyheter
+- Brist på hormonläkemedel – regeringen utreder - Västerbottens-Kuriren
+- Länsstyrelser får treårig beslutsrätt om vargjakt - Sydsvenskan
+- DN Direkt – 24-åring döms för explosion i Örebro - Dagens Nyheter
+- Sol, värme och åska – så blir midsommarvädret - GP
+- Bonus införs – extra betalt för att döda ryssar i närstrid - Dagens Nyheter
+- Kom sent till toppmötet – hör Trumps fräcka kommentar - Expressen
+- Trafikkaos på E4 i Stockholm: "Mycket stor påverkan" - Expressen
+- Nya maktdraget – landet varnar världen för Kina - Expressen
 - Handeln med Kina i fokus på EU-toppmötet i Bryssel - Sveriges Radio
-- Försvarsbolag faller efter förslag om att förbjuda återköp - EFN
-- Tonvis med jordgubbar väntas säljas på Flygfyren till midsommar - Norrtelje Tidning
-- Expert: Bostadsmarknaden snart immun mot Trump och Putin - Dagens Nyheter
+- Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
+- Risk för brist på jordgubbar - 8 Sidor
+- Laninge: Då är det läge att investera i SpaceX - Börskollen
+- Apple höjer priserna: ”Har blivit ohållbart” - Omni
 - Tuttar och rumpor tillåts i hyllade spelet - Aftonbladet
-- DN Direkt – Då börjar förhandsförsäljningen av GTA 6 - Dagens Nyheter
 
 ## World News
 
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på inatt 02:40 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Kina släpper vitbok om global styrning. - Vietnam.vn
 - Daimler Truck Expands Global Defence Business - Daimler Truck
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- Handelsbanken lanserar ny global indexfond - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
@@ -119,25 +119,32 @@ _Updated: 2026-06-18 23:02_
 
 ## Science
 
-- Sherry Nakhaeizadeh - Uppsala universitet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Sherry Nakhaeizadeh - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Forskningen ska vara fri - European Commission
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
-- Sveriges förändrade lantbruk - SLU.se
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
@@ -146,12 +153,12 @@ _Updated: 2026-06-18 23:02_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jord, kor och klimat - SLU.se
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
-- Lantbrukslogik – nu och i framtiden - SLU.se
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - SLU.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
