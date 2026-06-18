@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 00:20_
+_Updated: 2026-06-18 02:06_
 
 ## Top Stories
 
-- Vita huset: Trump har skrivit under avtalet med Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Larmet: Kris råder – över hela landet - Expressen
+- USA och Iran har undertecknat avtal - GP
+- Seriemördaren döms: ”Troll! Troll!” - Aftonbladet
 - Chefer i skånsk cancervård avgår i protest - Västerbottens-Kuriren
-- Seriemördaren Rex Heuermann döms: ”Troll! Troll!” - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Iran bestrider punkt i avtalet - Dagens Nyheter
-- Vädret i midsommar - 8 Sidor
-- Två barn påkörda – bilist smet från platsen - Expressen
-- Tågförseningar efter nedriven kontaktledning vid Kastrup - SVT Nyheter
+- Panik i Ryssland – kilometerlånga köer - Carup.se
+- Värmesmockan: 28(!) grader på midsommarafton - Kristianstadsbladet
+- Ukraina: Robotattack mot Kiev - Västerbottens-Kuriren
 - Så kör du bäst för att undvika trafikstockningar - Dagens Nyheter
-- Handels startar ny elitutbildning för framtidens byråkrater - Dagens Nyheter
-- Varningen: Ebolaepidemin har inte nått sin kulmen - Västerbottens-Kuriren
-- Finland öppnar för kärnvapen på finsk mark - Sveriges Radio
-- Direkt – Kriget i Ukraina – Meloni föreslår en EU-förhandlare - Dagens Nyheter
+- 17 juni 15.26, Brand, Jönköping - Polisen.se
+- Kör försiktigt i midsommartrafiken – så ska du göra om olyckan är framme - Polisen.se
+- En frihetsberövad efter skjutning i Jordbro - Västerbottens-Kuriren
+- Larm om explosion var smällare - Expressen
+- Bad i Paris tillåts när hettan slår till - GP
+- Riksdagen godkände möjlighet till kärnvapen i Finland - Yle
 - Drönare över och under havsytan isolerar ryska styrkor - Dagens Nyheter
-- PÅ MINUS EFTER FED-BESKED, S&P 500 -1,2% - Placera.se
-- 16.000 svenskar äger Space X-aktier – flesta män - Dagens industri
-- Space X köper AI-bolag med svensk medgrundare i jätteaffär - Sveriges Radio
+- Nya Fed-chefen trotsar Trump - Dagens industri
+- Space X backar på börsen – så många svenskar har investerat - EFN
 - Expertens passning – efter räntebeskedet: ”VM kan kicka i gång konsumtionen” - Market.se
+- Space X köper AI-bolag med svensk medgrundare i jätteaffär - Sveriges Radio
 - Google lanserar Home Speaker med Gemini - Börsvärlden
 - Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
 
@@ -40,36 +40,36 @@ _Updated: 2026-06-18 00:20_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Sparf: Sverige som global allmänning - Bulletin
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - MSC Cruises markerar global infrastrukturvåg - travelnews-se
+- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 
 ## Business
 
@@ -97,68 +97,68 @@ _Updated: 2026-06-18 00:20_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Svettningar, sömnproblem och humörsvängningar – appen som ska hjälpa oss genom lidandet köps upp - Breakit
-- Vi presenterar HealthBench - OpenAI
-- Solstice Health Joins Forces with CutisCare to Bring 100% Medical Grade HBOT to Brookfield and Surrounding Areas - Aktiellt
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU.se
+- Sherry Nakhaeizadeh - Uppsala universitet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Forskningen ska vara fri - European Commission
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Intressekonflikter påverkar den medicinska forskningen i alla led - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- High-tech och lantbruk i fokus på SLU-dag - SLU.se
 - Jord, kor och klimat - SLU.se
-- Visning av uppkomst efter direktsådd - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - SLU.se
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Så påverkar torkan svenskt lantbruk - SLU.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - SLU.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
