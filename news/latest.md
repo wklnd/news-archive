@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-18 13:38_
+_Updated: 2026-06-18 16:33_
 
-- Trump and Iran's Pezeshkian sign initial deal to end war - live updates - BBC
-- Hegseth lashes out at NATO allies and announces a review of U.S. forces in Europe - NBC News
-- Trump’s MoU with Iran draws backlash from some Republicans - Al Jazeera
-- Trump clears low bar for G7 summit in France - Politico
-- Biden, Bush, Clinton slated to attend Obama presidential center opening - The Hill
-- Poll: Most Americans have the summer blues about Trump and the economy - NPR
+- World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz - Al Jazeera
+- Moscow refinery ablaze as Ukraine launches biggest attack on Russian capital in years - NBC News
+- The Obama Presidential Center will be dedicated Thursday. Here's what to expect - NPR
+- Trump escalates his war on Senate Republicans — and senators are striking back - Politico
 - Massive fire at warehouse in Boyle Heights triggers shelter-in-place orders, rare helicopter drops - ABC7 Los Angeles
-- Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post
-- ‘They barely check the box of trying’: Trump frustrated GOP isn’t following his roadmap - Politico
-- Gilgo Beach killer Rex Heuermann sentenced, says 'I am responsible" - USA Today
-- Ukrainian Drones Hit Moscow Refinery in Large-Scale Assault - The New York Times
-- Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike - WSJ
+- Life-threatening flash flooding fueled by days of heavy rain slams multiple states as Arthur sweeps the South - FOX Weather
+- Supreme Court limits power of federal government to disarm drug users - CNN
+- Republicans fear Trump is hurting their chances. He can’t understand why. - Politico
+- Billionaire Tax Officially Has Enough Signatures for California Ballot - The New York Times
+- Reflecting Pool algae blooms have roared back, reaching highest levels in years - The Washington Post
+- Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News
+- Kallas calls for dialogue after Israeli FM vows to cut ties with her - Euronews.com
+- Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous - NPR
 - An ancient oak tree said to have sheltered legendary Robin Hood has died - AP News
-- Israel cuts contact with EU foreign policy chief over reported apartheid comparison - Ynetnews
-- What smart people are saying after Fed chair Kevin Warsh's debut - Business Insider
-- Qantas plans a 22-hour London-Sydney nonstop flight, set for October next year - AP News
-- In Southeast Asia, Switching to Solar Offers Relief from Energy Crisis Caused by Iran War - The New York Times
-- Asia stocks rise with Nikkei, KOSPI at record highs as US, Iran sign peace deal - Investing.com
-- Google Photos rolls out AI-powered ‘Edit with Ask Photos’ to these new countries - 9to5Google
-- Xbox to port two Call of Duty games to PlayStation with no word on needed updates for Xbox and PC - Windows Central
+- US Treasuries Rebound After Warsh’s Debut at Fed Stoked Selloff - Bloomberg.com
+- Stock Market Today: Nasdaq Set to Rebound, Gasoline Prices Fall Below $4 — Live Updates - WSJ
+- Gas prices fall below $4 per gallon as oil supply fears ease after Iran deal - CNBC
+- Qantas to launch world's longest nonstop commercial flight between Sydney and London - Fox Business
+- Google's Gemini overlay bubble is getting a fresh gradient design as testing expands - Android Authority
+- 12 Reasons to Wait for the iPhone 18 Pro - MacRumors
