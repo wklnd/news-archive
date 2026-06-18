@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 02:06_
+_Updated: 2026-06-18 07:17_
 
 ## Top Stories
 
-- USA och Iran har undertecknat avtal - GP
+- USA och Iran har skrivit under: ”Det var inte enkelt” - Dagens Nyheter
+- Diya, 21, hamnar i kläm – trots Forssells löfte: ”Blev ärligt helt chockad” - Aftonbladet
 - Seriemördaren döms: ”Troll! Troll!” - Aftonbladet
-- Chefer i skånsk cancervård avgår i protest - Västerbottens-Kuriren
-- Panik i Ryssland – kilometerlånga köer - Carup.se
-- Värmesmockan: 28(!) grader på midsommarafton - Kristianstadsbladet
-- Ukraina: Robotattack mot Kiev - Västerbottens-Kuriren
-- Så kör du bäst för att undvika trafikstockningar - Dagens Nyheter
-- 17 juni 15.26, Brand, Jönköping - Polisen.se
-- Kör försiktigt i midsommartrafiken – så ska du göra om olyckan är framme - Polisen.se
-- En frihetsberövad efter skjutning i Jordbro - Västerbottens-Kuriren
-- Larm om explosion var smällare - Expressen
-- Bad i Paris tillåts när hettan slår till - GP
-- Riksdagen godkände möjlighet till kärnvapen i Finland - Yle
-- Drönare över och under havsytan isolerar ryska styrkor - Dagens Nyheter
-- Nya Fed-chefen trotsar Trump - Dagens industri
-- Space X backar på börsen – så många svenskar har investerat - EFN
-- Expertens passning – efter räntebeskedet: ”VM kan kicka i gång konsumtionen” - Market.se
-- Space X köper AI-bolag med svensk medgrundare i jätteaffär - Sveriges Radio
+- Mohamsson (L): ”Många vill inte att jag ska orka upp på morgonen” - Sydsvenskan
+- Allt fler väljare vill ha bort vinsterna i välfärden - GP
+- Hårdare utvisningsregler klubbade i EU-parlamentet - Västerbottens-Kuriren
+- Stökig sommar – ovanligt många vägarbeten - Dagens Nyheter
+- JOHAN RUDSTRÖM: Hur mycket tycker vi att en livmoder är värd? - UNT
+- DEBATT: Riksdagen öppnar för uranbrytning på bekostnad av matproduktionen - Nya Wermlands-Tidningen
+- Ny bilbrand i Jönköping - SVT Nyheter
+- Bad i Paris tillåts när hettan slår till - Västerbottens-Kuriren
+- Nattliga attacker i Ukraina och Ryssland - Corren
+- Efter Orbán: Här är de nya ”bråkmakarna” i Bryssel - GP
+- Larmet: Kris råder – över hela landet - Expressen
+- Försvarsmakten köper tyska minkastare för 4 miljarder - Omni
+- Asiatiska börser lyfter efter nytt USA–Iran-avtal om Hormuzsundet - Börskollen
+- Fed-chefen: Inflation är ett val – signalerar höjning - EFN
+- 16.000 svenskar äger Space X-aktier – flesta män - Dagens industri
+- Chat GPT:s marknadsandel under 50 procent för första gången - Computer Sweden
 - Google lanserar Home Speaker med Gemini - Börsvärlden
-- Två chefer lämnar Xbox och Ninja Theory uppges stängas i krisen - Aftonbladet
 
 ## World News
 
@@ -38,31 +38,31 @@ _Updated: 2026-06-18 02:06_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Sparf: Sverige som global allmänning - Bulletin
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- MSC Cruises markerar global infrastrukturvåg - travelnews-se
-- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -82,17 +82,17 @@ _Updated: 2026-06-18 02:06_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
