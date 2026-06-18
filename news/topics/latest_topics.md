@@ -1,39 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 11:54_
+_Updated: 2026-06-18 15:47_
 
 ## Top Stories
 
-- Trumps avtal med Iran kan bli ”Bibis” fall - GP
-- Morddirigenten Poya Shafie riskerar livstid - Aftonbladet
-- LEDARE: Invandringspolitiken förtjänar en hederligare debatt - Ystads Allehanda
+- Källor: Iran och USA har signerat - GP
+- Midsommartrafiken: Här är de mest olycksdrabbade vägarna i Dalarna - Falu-Kuriren
+- Vädervarning: Risk för kraftig åska under midsommarhelgen - Ystads Allehanda
+- Direkt – Kriget i Ukraina – Explosioner i Moskva efter ny ukrainsk drönarattack - Dagens Nyheter
+- Torbjörn Nilsson: De har tröttnat – nu går det undan - Svenska Dagbladet
+- Poya Shafie pekas ut som Rawa Majids högra hand – döms till livstids fängelse - SVT Nyheter
+- M-löfte: Sänkt skatt med en tusenlapp - GP
+- Fler unga vill gå i kloster – Systrarna: ”Många yngre hör av sig” - Sveriges Radio
 - Ministern ställde in pressträff – utredaren misstänker hämnd - Dagens Nyheter
-- Därför blir det flera miljarder dyrare att säkra Skånes dricksvatten - Sydsvenskan
-- Direkt – Krisen i Mellanöstern – Israeliska styrkor attackerade i Libanon - Dagens Nyheter
-- ”The girlfriend experience” lockade män till att köpa sex - Dagens Nyheter
-- Intresset för klosterliv ökar bland unga - Sveriges Radio
-- Utredning om religiös radikalisering med fokus på politisk islam och infiltration i det svenska samhället - Regeringen.se
-- SMHI varnar för kraftig åska i Östergötland - Corren
-- Polen: En har gripits efter mord på konstnär - Västerbottens-Kuriren
-- 13 000 sälungar döda i fågelinfluensa - Västerbottens-Kuriren
-- Pål Jonsson: Sverige kan bidra i Hormuzsundet - Sveriges Radio
-- Israel har dödat över 1 000 under Gazas vapenvila - Sydsvenskan
+- Ledamöter i domkapitlet hoppar av utredningen av Birgitta Ed - Dagens Arena
+- Finland öppnar för att kunna hysa kärnvapen - Västerbottens-Kuriren
+- Polen: En har gripits efter mord på konstnär - GP
+- Kan bli aktuellt med svenska insatser i Hormuzsundet - Sveriges Radio
+- Hegseth: USA ser över närvaron i Europa - Hufvudstadsbladet – HBL
+- JUST NU: Börsen mot svag öppning - EFN
 - Open AI öppnar kontor i Stockholm: ”Stärker Sveriges AI-resa” - Dagens industri
-- Fed-chefen: Inflation är ett val – signalerar höjning - EFN
 - SB1: AI-risken underskattas – sälj mjukvarubolaget - Dagens industri
-- Robert Bergqvist: Inflationsriskerna kan gå ner härifrån - Affärsvärlden
-- Chat GPT:s marknadsandel under 50 procent för första gången - Computer Sweden
-- Apple höjer priserna: ”Har blivit ohållbart” - Omni
+- Lista inför midsommar: Så mycket kostar jordgubbarna i länet - Blekinge Läns Tidning
+- Tuttar och rumpor tillåts i hyllade spelet - Aftonbladet
+- Google lägger ned produktionen av högtalarna Nest Mini och Nest Audio - m3.se
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på inatt 02:40 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Daimler Truck Expands Global Defence Business - Daimler Truck
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
@@ -41,12 +42,11 @@ _Updated: 2026-06-18 11:54_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
+- Sparf: Sverige som global allmänning - Bulletin
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
@@ -84,6 +84,7 @@ _Updated: 2026-06-18 11:54_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-06-18 11:54_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -139,26 +139,3 @@ _Updated: 2026-06-18 11:54_
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-
-## Jordbruk
-
-- Han tror stenhårt på jordbruket - Land.se
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
