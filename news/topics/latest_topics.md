@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 15:47_
+_Updated: 2026-06-18 19:41_
 
 ## Top Stories
 
-- Källor: Iran och USA har signerat - GP
-- Midsommartrafiken: Här är de mest olycksdrabbade vägarna i Dalarna - Falu-Kuriren
-- Vädervarning: Risk för kraftig åska under midsommarhelgen - Ystads Allehanda
-- Direkt – Kriget i Ukraina – Explosioner i Moskva efter ny ukrainsk drönarattack - Dagens Nyheter
-- Torbjörn Nilsson: De har tröttnat – nu går det undan - Svenska Dagbladet
+- Sol, värme och åska – så blir midsommarvädret - GP
+- Hormuzsundet öppnar – med flera frågetecken - SVT Nyheter
+- Polisens viktigaste råd i midsommartrafiken - TV4 Nyheterna
+- DN Direkt – Kö på Ölandsleden efter bilbrand - Dagens Nyheter
+- Avslöjar: Birgitta Ed har granskats av kyrkan två gånger tidigare - Dagens Arena
+- Är SD verkligen en framgångssaga? - Svenska Dagbladet
+- DN Direkt – M går till val på nytt jobbskatteavdrag - Dagens Nyheter
+- Museum återlämnar samiska offergåvor - Västerbottens-Kuriren
 - Poya Shafie pekas ut som Rawa Majids högra hand – döms till livstids fängelse - SVT Nyheter
-- M-löfte: Sänkt skatt med en tusenlapp - GP
-- Fler unga vill gå i kloster – Systrarna: ”Många yngre hör av sig” - Sveriges Radio
-- Ministern ställde in pressträff – utredaren misstänker hämnd - Dagens Nyheter
-- Ledamöter i domkapitlet hoppar av utredningen av Birgitta Ed - Dagens Arena
+- DN Direkt – Elev kränktes i fascism-övning – får 70 000 - Dagens Nyheter
 - Finland öppnar för att kunna hysa kärnvapen - Västerbottens-Kuriren
-- Polen: En har gripits efter mord på konstnär - GP
-- Kan bli aktuellt med svenska insatser i Hormuzsundet - Sveriges Radio
-- Hegseth: USA ser över närvaron i Europa - Hufvudstadsbladet – HBL
+- Ryssland hotar med massivt svar efter attacken - Dagens Nyheter
+- Han vill störta Starmer – men hotas av ytterhögern - GP
+- Trafikkaos på E4 i Stockholm: "Mycket stor påverkan" - Expressen
 - JUST NU: Börsen mot svag öppning - EFN
-- Open AI öppnar kontor i Stockholm: ”Stärker Sveriges AI-resa” - Dagens industri
-- SB1: AI-risken underskattas – sälj mjukvarubolaget - Dagens industri
-- Lista inför midsommar: Så mycket kostar jordgubbarna i länet - Blekinge Läns Tidning
+- Elekta: En dos tålamod krävs - Affärsvärlden
+- Wall Street-terminer stiger efter optimism kring USA-Iran-avtal - Investing.com Sverige
+- Tonvis med jordgubbar väntas säljas på Flygfyren till midsommar - Norrtelje Tidning
 - Tuttar och rumpor tillåts i hyllade spelet - Aftonbladet
 - Google lägger ned produktionen av högtalarna Nest Mini och Nest Audio - m3.se
 
@@ -31,7 +31,6 @@ _Updated: 2026-06-18 15:47_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Daimler Truck Expands Global Defence Business - Daimler Truck
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -42,11 +41,12 @@ _Updated: 2026-06-18 15:47_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
-- Sparf: Sverige som global allmänning - Bulletin
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
@@ -98,37 +98,37 @@ _Updated: 2026-06-18 15:47_
 
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Täta band mellan turism och forskning på Svalbard - SLU.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Forskningen ska vara fri - European Commission
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - chalmers.se
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
@@ -139,3 +139,26 @@ _Updated: 2026-06-18 15:47_
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+
+## Jordbruk
+
+- Han tror stenhårt på jordbruket - Land.se
+- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Sveriges förändrade lantbruk - SLU.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - atl.nu
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Jord, kor och klimat - SLU.se
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Lantbrukslogik – nu och i framtiden - SLU.se
+- Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Kan agroekologi mätta världen? - SLU.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
