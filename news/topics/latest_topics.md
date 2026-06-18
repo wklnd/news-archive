@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 07:17_
+_Updated: 2026-06-18 11:54_
 
 ## Top Stories
 
-- USA och Iran har skrivit under: ”Det var inte enkelt” - Dagens Nyheter
-- Diya, 21, hamnar i kläm – trots Forssells löfte: ”Blev ärligt helt chockad” - Aftonbladet
-- Seriemördaren döms: ”Troll! Troll!” - Aftonbladet
-- Mohamsson (L): ”Många vill inte att jag ska orka upp på morgonen” - Sydsvenskan
-- Allt fler väljare vill ha bort vinsterna i välfärden - GP
-- Hårdare utvisningsregler klubbade i EU-parlamentet - Västerbottens-Kuriren
-- Stökig sommar – ovanligt många vägarbeten - Dagens Nyheter
-- JOHAN RUDSTRÖM: Hur mycket tycker vi att en livmoder är värd? - UNT
-- DEBATT: Riksdagen öppnar för uranbrytning på bekostnad av matproduktionen - Nya Wermlands-Tidningen
-- Ny bilbrand i Jönköping - SVT Nyheter
-- Bad i Paris tillåts när hettan slår till - Västerbottens-Kuriren
-- Nattliga attacker i Ukraina och Ryssland - Corren
-- Efter Orbán: Här är de nya ”bråkmakarna” i Bryssel - GP
-- Larmet: Kris råder – över hela landet - Expressen
-- Försvarsmakten köper tyska minkastare för 4 miljarder - Omni
-- Asiatiska börser lyfter efter nytt USA–Iran-avtal om Hormuzsundet - Börskollen
+- Trumps avtal med Iran kan bli ”Bibis” fall - GP
+- Morddirigenten Poya Shafie riskerar livstid - Aftonbladet
+- LEDARE: Invandringspolitiken förtjänar en hederligare debatt - Ystads Allehanda
+- Ministern ställde in pressträff – utredaren misstänker hämnd - Dagens Nyheter
+- Därför blir det flera miljarder dyrare att säkra Skånes dricksvatten - Sydsvenskan
+- Direkt – Krisen i Mellanöstern – Israeliska styrkor attackerade i Libanon - Dagens Nyheter
+- ”The girlfriend experience” lockade män till att köpa sex - Dagens Nyheter
+- Intresset för klosterliv ökar bland unga - Sveriges Radio
+- Utredning om religiös radikalisering med fokus på politisk islam och infiltration i det svenska samhället - Regeringen.se
+- SMHI varnar för kraftig åska i Östergötland - Corren
+- Polen: En har gripits efter mord på konstnär - Västerbottens-Kuriren
+- 13 000 sälungar döda i fågelinfluensa - Västerbottens-Kuriren
+- Pål Jonsson: Sverige kan bidra i Hormuzsundet - Sveriges Radio
+- Israel har dödat över 1 000 under Gazas vapenvila - Sydsvenskan
+- Open AI öppnar kontor i Stockholm: ”Stärker Sveriges AI-resa” - Dagens industri
 - Fed-chefen: Inflation är ett val – signalerar höjning - EFN
-- 16.000 svenskar äger Space X-aktier – flesta män - Dagens industri
+- SB1: AI-risken underskattas – sälj mjukvarubolaget - Dagens industri
+- Robert Bergqvist: Inflationsriskerna kan gå ner härifrån - Affärsvärlden
 - Chat GPT:s marknadsandel under 50 procent för första gången - Computer Sweden
-- Google lanserar Home Speaker med Gemini - Börsvärlden
+- Apple höjer priserna: ”Har blivit ohållbart” - Omni
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på inatt 02:40 - TV.nu
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -38,15 +39,14 @@ _Updated: 2026-06-18 07:17_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global Bar Magazine receives the Anna Lindh Award - Global Bar Magazine
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Murdoch och Hall gifte sig: ”Inga tweets på tio dagar” - Omni
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
 
@@ -96,37 +96,36 @@ _Updated: 2026-06-18 07:17_
 
 ## Health
 
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
 - Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Journalanteckningar med hjälp av AI: »Ger läkare superkrafter« - Läkartidningen
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU.se
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
@@ -137,13 +136,14 @@ _Updated: 2026-06-18 07:17_
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Sveriges förändrade lantbruk - SLU.se
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
@@ -152,13 +152,13 @@ _Updated: 2026-06-18 07:17_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jord, kor och klimat - SLU.se
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
-- Lantbrukslogik – nu och i framtiden - SLU.se
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - SLU.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
