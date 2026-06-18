@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-18 23:10_
+_Updated: 2026-06-19 01:23_
 
-- Live updates: Obama Presidential Center holds opening ceremony | CNN Politics - CNN
-- World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz - Al Jazeera
-- Vance warns Israel: Don't fight "only ally" Trump on Iran deal - Axios
-- Reflecting Pool algae bloom is one of biggest recorded in years after $14M renovation - The Washington Post
-- Hegseth launches six-month review of US force posture in Europe - politico.eu
+- Opening his presidential center, Obama urges resistance to ‘cynicism and despair’ - CNN
+- Trump finally sealed his Iran deal. Now talks on the ‘final’ deal begin. - NBC News
 - Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News
+- Trump administration compares reflecting pool algae battle to Iran war - The Guardian
 - Government can’t restrict gun ownership over marijuana use, Supreme Court rules - The Washington Post
-- Democratic socialist Janeese Lewis George wins Washington, D.C., mayoral primary - NBC News
-- California billionaires are spending big to kill a tax meant to fund health care - CalMatters
-- Tom Kean Jr. will return June 30 to House, spokesperson says - Politico
-- Man arrested after boy injured in zoo crocodile enclosure - BBC
-- Meet the Elite Ukrainian Drone Units, ‘Ace’ Pilots Targeting Russian Fuel Trucks, Logistics - Kyiv Post
-- Zimbabwe's 'Crocodile' leader makes another move to consolidate power - Reuters
+- Senate Armed Services chair slams Iran peace deal - Live Updates - Politico
+- Luigi Mangione withdraws plans to use psychiatric defense in state murder case - NBC News
+- Janeese Lewis George wins the Democratic primary for mayor of Washington, DC - AP News
+- Tom Kean Jr. will return June 30 to House, spokesperson says - Live Updates - Politico
+- Live Updates: U.S.-Iran deal signing gets more ships moving in Strait of Hormuz, but big challenges remain - CBS News
 - Macron’s diplomatic efforts bring Trump closer to European views - AP News
+- Meet the Elite Ukrainian Drone Units, ‘Ace’ Pilots Targeting Russian Fuel Trucks, Logistics - Kyiv Post
+- Man charged with attempted murder after toddler ends up in crocodile enclosure at U.K. zoo - CBS News
+- The Major Oak, Ancient Tree of Robin Hood Legend, Has Died - The New York Times
 - Markets are set for a much more hawkish Warsh Fed than expected - CNBC
 - Gas prices fall below $4 on average after Trump’s signing of Iran deal to end war - The Guardian
-- Here’s Why SpaceX Stock Suddenly Took A Dive - Forbes
-- Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance
-- Adobe adds its AI assistant to Premiere, Illustrator and InDesign - TechCrunch
-- Snap's $2,195 AR glasses may have cost an insane amount to develop, analyst estimates - Yahoo Finance
+- SpaceX shares fall as post-IPO frenzy loses steam - Reuters
+- Accenture Shares Sink 20% After Revenue Outlook Misses Expectations - Yahoo Finance
+- Photoshop and Premiere now have AI assistants - The Verge
+- You can now use the Game Boy Camera with your phone - The Verge
