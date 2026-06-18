@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-18 04:03_
+_Updated: 2026-06-18 09:19_
 
-- Live updates: Trump signs hard copy of US-Iran agreement - CNN
-- How Macron won Trump round at the G7. Until the next bust-up. - politico.eu
-- Trump settles for Iran deal that falls short of his promises - Axios
-- Shelter-in-place order issued due to Boyle Heights building fire - ABC7 Los Angeles
-- Subcontractors say they’re owed millions, face financial ruin, after helping build Obama Presidential Center - Fox News
-- Senate postpones Clayton's confirmation hearing after Trump upends plans for quick vote - CBS News
-- Pentagon releases the names of 8 people killed in B-52 plane crash at California Air Force Base - NBC News
-- Trump escalates his war on Senate Republicans — and senators are striking back - Politico
+- Live Updates: Trump formally signs U.S.-Iran deal as questions linger about nuclear program, missiles - CBS News
+- Takeaways from the G7: Trump's new attitude toward allies buoyed by their praise for Iran deal - AP News
+- Shelter-in-place order lifted after Boyle Heights commercial building fire - NBC Los Angeles
+- 18-Year-Old Dies in Fall From Horse Carriage in Central Park - The New York Times
+- Trump Blows Through His Iran Red Lines in Justifying Peace Deal - Yahoo Finance
+- Democratic socialists are on the rise in Trump-era mayoral races - NBC News
 - 'A million years isn’t enough': Victims' relatives confront Gilgo Beach serial killer at sentencing - AP News
-- Georgia Republican leaders nix redistricting plans amid pushback - AJC.com
-- Ukraine's deep strikes leaving Russia short on air defense missiles, possibly at an "unsustainable rate" - CBS News
-- Here's how much the the Iran war cost — and how its effects will linger - NPR
-- Yes, Jonathan the tortoise is still alive, and he's a Guinness icon now - USA Today
+- Georgia GOP drops redistricting plan that would hurt Black representation - The Washington Post
+- Senate Republicans grow increasingly frustrated with Trump blindsiding them - NBC News
+- Tornadoes reported in Illinois, Iowa as severe weather roils Midwest - Yahoo
+- Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike - WSJ
+- More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say - AP News
 - Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead. - The New York Times
-- Warsh kicks off Fed chief era with sweeping review as rates remain unchanged - Reuters
-- Stock futures rise as Fed hints at possible rate hike in 2026; Nikkei hits 71,000 for the first time: Live updates - CNBC
+- Trump’s Anthropic restrictions rattle U.S. allies as AI leaders gather at G-7 - The Washington Post
+- Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates - CNBC
+- In Southeast Asia, Switching to Solar Offers Relief from Energy Crisis Caused by Iran War - The New York Times
+- Apple to raise prices due to memory chip shortage, CEO Cook tells WSJ - Reuters
 - Trump’s Justice Department urges court to throw out pollution lawsuit against Elon Musk’s company - CNN
-- The Iran War Has Rewired the Global Economy - Newser
-- After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive - TechCrunch
-- Sony unveils the Lytia 910, its first LOFIC sensor, and it boasts 100dB dynamic range - GSMArena.com news - GSMArena.com
+- Everything you need to know from State of Unreal 2026: Unreal Engine 6, Unreal Engine 5.8, and $1bn paid to UEFN devs - GamesIndustry.biz
+- Android 17 just dropped for Pixel phones and Watch all at once - the biggest update of the year - PhoneArena
