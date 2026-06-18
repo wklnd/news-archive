@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-18 19:46_
+_Updated: 2026-06-18 23:10_
 
-- World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz - Al Jazeera
 - Live updates: Obama Presidential Center holds opening ceremony | CNN Politics - CNN
-- Supreme Court rules government cannot restrict gun rights for casual drug use - NBC News
-- Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery - BBC
-- U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies - The Washington Post
-- Jay Clayton nomination remains up in the air , Thune says - Politico
-- Exclusive: Trump administration ramps up effort to revoke citizenship from naturalized Americans - CNN
+- World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz - Al Jazeera
+- Vance warns Israel: Don't fight "only ally" Trump on Iran deal - Axios
 - Reflecting Pool algae bloom is one of biggest recorded in years after $14M renovation - The Washington Post
-- Republicans fear Trump is hurting their chances. He can’t understand why. - Politico
-- How many Americans can afford high-quality healthcare? A new poll finds the number has fallen - AP News
-- Two sides of a political chasm share one fear in Colombia’s presidential race: A return to the past - AP News
-- Israeli foreign minister to ‘sever all contact’ with top EU diplomat - politico.eu
-- Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous - NPR
-- 1,200-year-old Robin Hood oak tree in Sherwood Forest has died, group says: "Heartbreaking for everyone" - CBS News
-- US Treasuries Rebound After Warsh’s Debut at Fed Stoked Selloff - Bloomberg.com
-- Gas prices fall under $4 as Trump signs deal to reopen Strait of Hormuz - The Washington Post
-- Spot gold at $4,250/oz after U.S. weekly jobless claims dip to 226k - KITCO
-- Easing tensions with Iran push mortgage rates lower — but a potential Fed rate hike clouds the outlook - CNN
-- Grand Theft Auto VI Pre-Order Date And Cover Art Revealed - Game Informer
-- Google Calendar finally has more color options for events - The Verge
+- Hegseth launches six-month review of US force posture in Europe - politico.eu
+- Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News
+- Government can’t restrict gun ownership over marijuana use, Supreme Court rules - The Washington Post
+- Democratic socialist Janeese Lewis George wins Washington, D.C., mayoral primary - NBC News
+- California billionaires are spending big to kill a tax meant to fund health care - CalMatters
+- Tom Kean Jr. will return June 30 to House, spokesperson says - Politico
+- Man arrested after boy injured in zoo crocodile enclosure - BBC
+- Meet the Elite Ukrainian Drone Units, ‘Ace’ Pilots Targeting Russian Fuel Trucks, Logistics - Kyiv Post
+- Zimbabwe's 'Crocodile' leader makes another move to consolidate power - Reuters
+- Macron’s diplomatic efforts bring Trump closer to European views - AP News
+- Markets are set for a much more hawkish Warsh Fed than expected - CNBC
+- Gas prices fall below $4 on average after Trump’s signing of Iran deal to end war - The Guardian
+- Here’s Why SpaceX Stock Suddenly Took A Dive - Forbes
+- Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance
+- Adobe adds its AI assistant to Premiere, Illustrator and InDesign - TechCrunch
+- Snap's $2,195 AR glasses may have cost an insane amount to develop, analyst estimates - Yahoo Finance
