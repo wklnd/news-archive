@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-18 19:41_
+_Updated: 2026-06-18 23:02_
 
 ## Top Stories
 
-- Sol, värme och åska – så blir midsommarvädret - GP
-- Hormuzsundet öppnar – med flera frågetecken - SVT Nyheter
-- Polisens viktigaste råd i midsommartrafiken - TV4 Nyheterna
-- DN Direkt – Kö på Ölandsleden efter bilbrand - Dagens Nyheter
-- Avslöjar: Birgitta Ed har granskats av kyrkan två gånger tidigare - Dagens Arena
-- Är SD verkligen en framgångssaga? - Svenska Dagbladet
+- Vance: USA har lyft blockaden i Hormuzsundet - GP
+- SMHI varnar för kraftig åska – Ellevio förstärker beredskapen - Cision News
+- DN Direkt – Bil i brand efter trafikolycka - Dagens Nyheter
+- Trafikverket: ”Utvilad? Åk då tidigare på midsommar” - Omni
+- Göran Eriksson: Nu flyger hökarna rakt emot Trump - Svenska Dagbladet
+- Bonus införs – extra betalt för att döda ryssar i närstrid - Dagens Nyheter
+- Polisen: Två efterlysta svenskar har förts till Sverige - SVT Nyheter
+- Brist på hormonläkemedel – regeringen utreder - Västerbottens-Kuriren
 - DN Direkt – M går till val på nytt jobbskatteavdrag - Dagens Nyheter
-- Museum återlämnar samiska offergåvor - Västerbottens-Kuriren
-- Poya Shafie pekas ut som Rawa Majids högra hand – döms till livstids fängelse - SVT Nyheter
-- DN Direkt – Elev kränktes i fascism-övning – får 70 000 - Dagens Nyheter
-- Finland öppnar för att kunna hysa kärnvapen - Västerbottens-Kuriren
-- Ryssland hotar med massivt svar efter attacken - Dagens Nyheter
-- Han vill störta Starmer – men hotas av ytterhögern - GP
-- Trafikkaos på E4 i Stockholm: "Mycket stor påverkan" - Expressen
-- JUST NU: Börsen mot svag öppning - EFN
-- Elekta: En dos tålamod krävs - Affärsvärlden
-- Wall Street-terminer stiger efter optimism kring USA-Iran-avtal - Investing.com Sverige
+- Uppgifter: Svensk pilot i akut organtransport till Oslo - Aftonbladet
+- Treåring hamnade i krokodilhägnad – man gripen - Aftonbladet
+- Nato stärker och moderniserar sina kärnvapen - SVT Nyheter
+- Ukraina: Tio civila dödade i attacker - Dagens Nyheter
+- Affärsman med band till Putin gripen av säkerhetstjänst - Dagens Nyheter
+- Handeln med Kina i fokus på EU-toppmötet i Bryssel - Sveriges Radio
+- Försvarsbolag faller efter förslag om att förbjuda återköp - EFN
 - Tonvis med jordgubbar väntas säljas på Flygfyren till midsommar - Norrtelje Tidning
+- Expert: Bostadsmarknaden snart immun mot Trump och Putin - Dagens Nyheter
 - Tuttar och rumpor tillåts i hyllade spelet - Aftonbladet
-- Google lägger ned produktionen av högtalarna Nest Mini och Nest Audio - m3.se
+- DN Direkt – Då börjar förhandsförsäljningen av GTA 6 - Dagens Nyheter
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på inatt 02:40 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Kina släpper vitbok om global styrning. - Vietnam.vn
 - Daimler Truck Expands Global Defence Business - Daimler Truck
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- SN nominerade för satsning på unga läsare - SN, Södermanlands Nyheter
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- MSC Cruises markerar global infrastrukturvåg - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Handelsbanken lanserar ny global indexfond - Cision News
 
 ## Technology
 
@@ -55,11 +55,11 @@ _Updated: 2026-06-18 19:41_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -96,22 +96,22 @@ _Updated: 2026-06-18 19:41_
 
 ## Health
 
-- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
+- ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
 - Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -119,26 +119,19 @@ _Updated: 2026-06-18 19:41_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU.se
-- Sherry Nakhaeizadeh - Uppsala universitet
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Forskningen ska vara fri - European Commission
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - chalmers.se
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - 5 myter om öppen vetenskap - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Vetenskapliga studier på lågkolhydratkost - Diet Doctor
 - Olika slutsatser från samma data - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 
 ## Jordbruk
 
@@ -146,10 +139,10 @@ _Updated: 2026-06-18 19:41_
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
