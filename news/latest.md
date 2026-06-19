@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-19 04:21_
+_Updated: 2026-06-19 10:18_
 
-- Live updates: US and Iran sign initial agreement to end war but tougher talks lie ahead - CNN
+- Vance Delays Trip to Switzerland for Direct Talks on Iran Deal - The New York Times
 - Blue paint on bottom of Reflecting Pool appears to be peeling away - WTOP
-- Mangione Withdraws Emotional Disturbance Defense in New York Case - The New York Times
-- Star-studded ceremony welcomes Obama Presidential Center to Chicago – live - The Guardian
-- Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack - NPR
-- Vance warns Israeli critics over Iran deal: Trump is your only ally - Reuters
-- Janeese Lewis George, a democratic socialist, wins D.C. mayoral primary - The Washington Post
-- Possible tornado damage from Arthur reported in New Orleans, Jefferson Parish - NOLA.com
-- Talarico goes all-in with attack on Paxton plea deal in child sex abuse case - The Texas Tribune
-- States aren't required to provide community-based care for people with disabilities, new DOJ opinion claims - CBS News
+- Luigi Mangione's lawyers withdraw plans for psychiatric defense - NPR
+- Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - PBS
+- At center opening, Obama denounces those who use power ‘to divvy up the spoils’ - The Washington Post
+- Republicans Slam Trump for Caving to Iran in ‘Disaster’ of a Deal - rollingstone.com
+- Remnants from Tropical Storm Arthur drench Gulf states, flooding homes and forcing evacuations - CBS News
+- Proposed immigrant detention center site in Salt Lake City to be offloaded, newspaper reports - KSL.com
+- White House sends text of interim US-Iran agreement to US Congress - Reuters
+- Matt Dunlap beats DCCC-backed candidate in primary for top Maine battleground - Politico
 - Macron’s diplomatic efforts bring Trump closer to European views - AP News
-- The G7 has nudged open a window for diplomacy in Ukraine - The Economist
-- Meet the Elite Ukrainian Drone Units, ‘Ace’ Pilots Targeting Russian Fuel Trucks, Logistics - Kyiv Post
-- Man charged with attempted murder after toddler ends up in crocodile enclosure at U.K. zoo - CBS News
+- Israeli strikes kill at least 16 amid intense fighting in southern Lebanon - Al Jazeera
+- Trump: ‘We expect a complete ceasefire’ between Hezbollah and Israel - The Times of Israel
+- Man arrested after boy injured in zoo crocodile enclosure - BBC
 - Warsh wants markets to guide the Fed, not the other way around - Yahoo Finance
-- White House talks with Anthropic shift to setting AI security rules - Politico
-- SpaceX shares fall as post-IPO frenzy loses steam - Reuters
-- Accenture shares fall to lowest since 2017 as AI threat mounts - Financial Times
-- Photoshop and Premiere now have AI assistants - The Verge
-- Google will fix Android 17 bug that deletes homescreen widgets for some Pixel owners [U] - 9to5Google
+- Early Users of Anthropic Mythos Still Have Access After US Order - Bloomberg
+- Accenture CEO Julie Sweet says AI transformation will 'take some time' as stock price takes another hit - Business Insider
+- Stock markets mixed as investors assess durability of U.S.-Iran peace deal - CNBC
+- Gemini Live can now access your past chats Memory, Connected Apps info - 9to5Google
+- Sennheiser Joins the Open Wireless Earbud Craze - Gizmodo
