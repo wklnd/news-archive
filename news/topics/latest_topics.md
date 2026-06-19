@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-19 01:18_
+_Updated: 2026-06-19 04:17_
 
 ## Top Stories
 
 - Vance: USA har lyft blockaden i Hormuzsundet - GP
-- DN Direkt – Bil i brand efter trafikolycka - Dagens Nyheter
 - Moskva attackerat av drönare • Militärexperten: Putins hämnd kommer snart - Expressen
-- Nato stärker och moderniserar sina kärnvapen - SVT Nyheter
 - Göran Eriksson: Nu flyger hökarna rakt emot Trump - Svenska Dagbladet
-- Vance varnar Israel: Är er enda allierade - Dagens Nyheter
-- Brist på hormonläkemedel – regeringen utreder - Västerbottens-Kuriren
-- Länsstyrelser får treårig beslutsrätt om vargjakt - Sydsvenskan
-- DN Direkt – 24-åring döms för explosion i Örebro - Dagens Nyheter
-- Sol, värme och åska – så blir midsommarvädret - GP
-- Bonus införs – extra betalt för att döda ryssar i närstrid - Dagens Nyheter
+- Så blir midsommarvädret i Norrbotten – här är det störst solchans - NSD
+- DN Direkt – Nato stärker och moderniserar sina kärnvapen - Dagens Nyheter
+- Trafikverket: ”Utvilad på midsommarafton? Börja då din resa lite tidigare” - Omni
+- Efterlysta svenskar förda till Sverige - GP
+- 24-åring döms för explosion i Örebro - Västerbottens-Kuriren
+- Regeringen ändrar TLV:s uppdrag – ska även analysera betalningsvilja för läkemedel - Regeringen.se
+- Tuffa migrationslagar får ja av EU: ”Obehagligt” - Flamman
 - Kom sent till toppmötet – hör Trumps fräcka kommentar - Expressen
+- Pojke skadad i krokodilhägn på zoo – man gripen - SVT Nyheter
+- Hegseth varnar Nato-länder efter amerikansk försvarsgranskning - Placera.se
 - Trafikkaos på E4 i Stockholm: "Mycket stor påverkan" - Expressen
-- Nya maktdraget – landet varnar världen för Kina - Expressen
-- Handeln med Kina i fokus på EU-toppmötet i Bryssel - Sveriges Radio
 - Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
 - Risk för brist på jordgubbar - 8 Sidor
-- Laninge: Då är det läge att investera i SpaceX - Börskollen
-- Apple höjer priserna: ”Har blivit ohållbart” - Omni
+- Johan Jenny Ehrenberg: Space X är världens största ballong någonsin - ETC.se
+- EU-toppmöte sätter fokus på Kina - Europaportalen
 - Tuttar och rumpor tillåts i hyllade spelet - Aftonbladet
+- Google lägger ned produktionen av högtalarna Nest Mini och Nest Audio - m3.se
 
 ## World News
 
@@ -31,7 +31,6 @@ _Updated: 2026-06-19 01:18_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Daimler Truck Expands Global Defence Business - Daimler Truck
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -40,12 +39,13 @@ _Updated: 2026-06-19 01:18_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- WPP samlar produktion i ny global enhet - Dagens Media
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global drogsajt stängd – svenskar gripna - Drugnews
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - MSC Cruises markerar global infrastrukturvåg - travelnews-se
 
 ## Technology
@@ -76,18 +76,18 @@ _Updated: 2026-06-19 01:18_
 - Ny rapport visar låg AI-beredskap när sökfunktioner och kundinsikter omdefinieras – svenska företag riskerar sämre synlighet online - Via TT
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -96,26 +96,26 @@ _Updated: 2026-06-19 01:18_
 
 ## Health
 
+- Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
