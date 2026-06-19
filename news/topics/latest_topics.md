@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-19 22:15_
+_Updated: 2026-06-19 23:44_
 
 ## Top Stories
 
-- Fullt utvecklad brand i Märsta: ”Risk för spridning” - Aftonbladet
-- Två tåg har kolliderat norr om London - GP
-- Flicka dog i brand – mamman larmade efter 30 minuter - Omni
-- Direkt – Krisen i Mellanöstern – Minst 80 minor kvar att röja i Hormuzsundet - Dagens Nyheter
+- En död och många skadade i tågkrock norr om London - Västerbottens-Kuriren
+- Brand i flerfamiljshus i Märsta - Aftonbladet
+- Gick 30 minuter – innan mamman larmade SOS om branden i Biskopsgården - GP
 - Varning för kraftig åska och skyfall på midsommardagen - Sveriges Radio
-- Kan bli premiärminister – inom några dagar - Svenska Dagbladet
-- ”Vi älskar att dansa runt stången” - Dagens Nyheter
-- Fastnade på klippavsats – räddas av helikopter - Expressen
+- Direkt – Krisen i Mellanöstern – Israel och Libanon ska mötas i nästa vecka - Dagens Nyheter
+- ”Putin och Trump gjorde samma misstag” - Svenska Dagbladet
 - Just nu: Rådjur innanför viltstängslet på E20 - Strengnäs Tidning
-- Stort kaos i Stockholm – kräks och visar könen - Aftonbladet
-- Intern strid i EU om ”kanal” till Moskva - GP
+- Tre gripna i natt – efter dödsfall i centrum - SN, Södermanlands Nyheter
+- Läsare: ”Dopp i havet mellan varje sillabit” - Svenska Dagbladet
+- ”Vi älskar att dansa runt stången” - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Minst 80 minor kvar att röja i Hormuzsundet - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Tre döda i Kramatorsk - Dagens Nyheter
+- EU-toppen vill prata med Putin – nordisk ilska • EU-splittrat - Expressen
 - Trump och Meloni i bråk om bild: ”Italien tigger inte” - Dagens Nyheter
-- Nya förhandlingar mellan Israel och Libanon - Corren
-- Direkt – Kriget i Ukraina – Zelenskyj vill att Belarus rensar krigsutrustning - Dagens Nyheter
 - Volvo återkallar bilar på grund av brandrisk - Yle
 - EU-toppmötet väljer dialog med Kina – efterfrågar skarpare handelsvapen - Europaportalen
 - Sverige säger nej till bred lansering av Tesla-system - Sveriges Radio
 - Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
 - Ny uppdatering ger fler och bättre spel till Switch 2, Steam deck och Xbox - Aftonbladet
-- Tim Cook varnar för prishöjningar på Apple-produkter – kan vara dags att uppgradera din Mac snart - TechRadar
+- ”GTA VI” ställer till problem – för andra spel - Sydsvenskan
 
 ## World News
 
@@ -40,13 +40,13 @@ _Updated: 2026-06-19 22:15_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Final round of World Championship of Public Speaking About to Begin - Via TT
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - WPP samlar produktion i ny global enhet - Dagens Media
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -123,7 +123,7 @@ _Updated: 2026-06-19 22:15_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU.se
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
@@ -132,19 +132,19 @@ _Updated: 2026-06-19 22:15_
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
-- Sveriges förändrade lantbruk - SLU.se
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
@@ -153,12 +153,12 @@ _Updated: 2026-06-19 22:15_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Jord, kor och klimat - SLU.se
-- Lantbrukslogik – nu och i framtiden - SLU.se
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Kan agroekologi mätta världen? - SLU.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
