@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-19 20:17_
+_Updated: 2026-06-19 22:15_
 
 ## Top Stories
 
-- Källa: Israel och Hizbollah överens om vapenvila - GP
-- Två personer fastnade på avsats i Stenshuvud – hämtades med helikopter - SVT Nyheter
 - Fullt utvecklad brand i Märsta: ”Risk för spridning” - Aftonbladet
-- Direkt – Krisen i Mellanöstern – Minst 80 minor kvar att röja i Hormuzsundet - Dagens Nyheter
+- Två tåg har kolliderat norr om London - GP
 - Flicka dog i brand – mamman larmade efter 30 minuter - Omni
-- Italien och Trump i dispyt: ”Tyckte synd om henne” - Västerbottens-Kuriren
-- SMHI varnar – kraftigt regn och åska på midsommardagen - SVT Nyheter
-- Grannen ringde 112 när det brann: ”Hörde barn skrika” - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Minst 80 minor kvar att röja i Hormuzsundet - Dagens Nyheter
+- Varning för kraftig åska och skyfall på midsommardagen - Sveriges Radio
+- Kan bli premiärminister – inom några dagar - Svenska Dagbladet
+- ”Vi älskar att dansa runt stången” - Dagens Nyheter
+- Fastnade på klippavsats – räddas av helikopter - Expressen
 - Just nu: Rådjur innanför viltstängslet på E20 - Strengnäs Tidning
-- Risk för tuff midsommar för pollenallergiker - Västerbottens-Kuriren
+- Stort kaos i Stockholm – kräks och visar könen - Aftonbladet
 - Intern strid i EU om ”kanal” till Moskva - GP
-- Adoptivpappa döms för mord på 13 månader gammal son – fallet skakar Storbritannien - Dagens Nyheter
-- Ingen viker i EU-strid – ”Sverige ingen bankomat” - Svenska Dagbladet
-- Ryssland hotar med massivt svar efter attacken - Dagens Nyheter
-- Volvo återkallar 4 500 bilar i Sverige – finns brandrisk - SVT Nyheter
+- Trump och Meloni i bråk om bild: ”Italien tigger inte” - Dagens Nyheter
+- Nya förhandlingar mellan Israel och Libanon - Corren
+- Direkt – Kriget i Ukraina – Zelenskyj vill att Belarus rensar krigsutrustning - Dagens Nyheter
+- Volvo återkallar bilar på grund av brandrisk - Yle
 - EU-toppmötet väljer dialog med Kina – efterfrågar skarpare handelsvapen - Europaportalen
 - Sverige säger nej till bred lansering av Tesla-system - Sveriges Radio
 - Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
-- Tim Cook varnar för prishöjningar på Apple-produkter – kan vara dags att uppgradera din Mac snart - TechRadar
 - Ny uppdatering ger fler och bättre spel till Switch 2, Steam deck och Xbox - Aftonbladet
+- Tim Cook varnar för prishöjningar på Apple-produkter – kan vara dags att uppgradera din Mac snart - TechRadar
 
 ## World News
 
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på inatt 02:40 - TV.nu
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Daimler Truck Expands Global Defence Business - Daimler Truck
 - Vinamilk firar sitt 50-årsjubileum med 5 internationella utmärkelser vid Global Dairy Conference 2026. - Vietnam.vn
@@ -47,29 +46,30 @@ _Updated: 2026-06-19 20:17_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Bästa AI-aktierna att köpa nu - Morningstar
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
@@ -85,7 +85,6 @@ _Updated: 2026-06-19 20:17_
 - Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -93,29 +92,30 @@ _Updated: 2026-06-19 20:17_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
-- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- Att koppla samman och ge professionellt stöd för att förbättra kvaliteten på hälso- och sjukvården för människorna är Thien Hanh General Hospitals strategiska inriktning. - Vietnam.vn
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
-- Nytt KI-centrum ska bidra till mer tillgänglig AI-forskning - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -123,10 +123,10 @@ _Updated: 2026-06-19 20:17_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- 5 myter om öppen vetenskap - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU.se
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
@@ -134,31 +134,31 @@ _Updated: 2026-06-19 20:17_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Sveriges förändrade lantbruk - SLU.se
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Jord, kor och klimat - SLU.se
+- Lantbrukslogik – nu och i framtiden - SLU.se
 - Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU.se
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - SLU.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
