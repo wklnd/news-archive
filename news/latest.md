@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-19 01:23_
+_Updated: 2026-06-19 04:21_
 
-- Opening his presidential center, Obama urges resistance to ‘cynicism and despair’ - CNN
-- Trump finally sealed his Iran deal. Now talks on the ‘final’ deal begin. - NBC News
-- Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital - AP News
-- Trump administration compares reflecting pool algae battle to Iran war - The Guardian
-- Government can’t restrict gun ownership over marijuana use, Supreme Court rules - The Washington Post
-- Senate Armed Services chair slams Iran peace deal - Live Updates - Politico
-- Luigi Mangione withdraws plans to use psychiatric defense in state murder case - NBC News
-- Janeese Lewis George wins the Democratic primary for mayor of Washington, DC - AP News
-- Tom Kean Jr. will return June 30 to House, spokesperson says - Live Updates - Politico
-- Live Updates: U.S.-Iran deal signing gets more ships moving in Strait of Hormuz, but big challenges remain - CBS News
+- Live updates: US and Iran sign initial agreement to end war but tougher talks lie ahead - CNN
+- Blue paint on bottom of Reflecting Pool appears to be peeling away - WTOP
+- Mangione Withdraws Emotional Disturbance Defense in New York Case - The New York Times
+- Star-studded ceremony welcomes Obama Presidential Center to Chicago – live - The Guardian
+- Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack - NPR
+- Vance warns Israeli critics over Iran deal: Trump is your only ally - Reuters
+- Janeese Lewis George, a democratic socialist, wins D.C. mayoral primary - The Washington Post
+- Possible tornado damage from Arthur reported in New Orleans, Jefferson Parish - NOLA.com
+- Talarico goes all-in with attack on Paxton plea deal in child sex abuse case - The Texas Tribune
+- States aren't required to provide community-based care for people with disabilities, new DOJ opinion claims - CBS News
 - Macron’s diplomatic efforts bring Trump closer to European views - AP News
+- The G7 has nudged open a window for diplomacy in Ukraine - The Economist
 - Meet the Elite Ukrainian Drone Units, ‘Ace’ Pilots Targeting Russian Fuel Trucks, Logistics - Kyiv Post
 - Man charged with attempted murder after toddler ends up in crocodile enclosure at U.K. zoo - CBS News
-- The Major Oak, Ancient Tree of Robin Hood Legend, Has Died - The New York Times
-- Markets are set for a much more hawkish Warsh Fed than expected - CNBC
-- Gas prices fall below $4 on average after Trump’s signing of Iran deal to end war - The Guardian
+- Warsh wants markets to guide the Fed, not the other way around - Yahoo Finance
+- White House talks with Anthropic shift to setting AI security rules - Politico
 - SpaceX shares fall as post-IPO frenzy loses steam - Reuters
-- Accenture Shares Sink 20% After Revenue Outlook Misses Expectations - Yahoo Finance
+- Accenture shares fall to lowest since 2017 as AI threat mounts - Financial Times
 - Photoshop and Premiere now have AI assistants - The Verge
-- You can now use the Game Boy Camera with your phone - The Verge
+- Google will fix Android 17 bug that deletes homescreen widgets for some Pixel owners [U] - 9to5Google
