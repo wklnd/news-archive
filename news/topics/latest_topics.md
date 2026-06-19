@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-19 23:44_
+_Updated: 2026-06-20 01:54_
 
 ## Top Stories
 
 - En död och många skadade i tågkrock norr om London - Västerbottens-Kuriren
-- Brand i flerfamiljshus i Märsta - Aftonbladet
-- Gick 30 minuter – innan mamman larmade SOS om branden i Biskopsgården - GP
-- Varning för kraftig åska och skyfall på midsommardagen - Sveriges Radio
-- Direkt – Krisen i Mellanöstern – Israel och Libanon ska mötas i nästa vecka - Dagens Nyheter
-- ”Putin och Trump gjorde samma misstag” - Svenska Dagbladet
-- Just nu: Rådjur innanför viltstängslet på E20 - Strengnäs Tidning
-- Tre gripna i natt – efter dödsfall i centrum - SN, Södermanlands Nyheter
-- Läsare: ”Dopp i havet mellan varje sillabit” - Svenska Dagbladet
-- ”Vi älskar att dansa runt stången” - Dagens Nyheter
+- Fullt utvecklad brand i Märsta: ”Risk för spridning” - Aftonbladet
+- Israel och Hizbollah överens om eldupphör - Dagens Nyheter
+- SMHI utökar varningen för åskovädret - Ljusdals-Posten
+- Seger för Starmers rival – kan utmana om makten - GP
 - Direkt – Krisen i Mellanöstern – Minst 80 minor kvar att röja i Hormuzsundet - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Tre döda i Kramatorsk - Dagens Nyheter
+- Varning för rådjur på vägen på E4 - Norran
+- ”Vi älskar att dansa runt stången” - Dagens Nyheter
+- Här faller stången på midsommarfirandet - GP
+- Man död – misstänks ha fallit från balkong - Strengnäs Tidning
+- Direkt – Kriget i Ukraina – Zelenskyj vill att Belarus rensar krigsutrustning - Dagens Nyheter
 - EU-toppen vill prata med Putin – nordisk ilska • EU-splittrat - Expressen
-- Trump och Meloni i bråk om bild: ”Italien tigger inte” - Dagens Nyheter
-- Volvo återkallar bilar på grund av brandrisk - Yle
+- Europeiska rådets slutsatser 18–19.6.2026 - consilium.europa.eu
+- Ukraina slår ryskt rekord – för första gången - Marcus Oscarsson
+- Volvo återkallar laddhybrider efter brandrisk - Sveriges Radio
 - EU-toppmötet väljer dialog med Kina – efterfrågar skarpare handelsvapen - Europaportalen
-- Sverige säger nej till bred lansering av Tesla-system - Sveriges Radio
 - Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
+- ”Att ta en nubbe inför barnen är normalt” - Aftonbladet
 - Ny uppdatering ger fler och bättre spel till Switch 2, Steam deck och Xbox - Aftonbladet
-- ”GTA VI” ställer till problem – för andra spel - Sydsvenskan
+- Tim Cook varnar för prishöjningar på Apple-produkter – kan vara dags att uppgradera din Mac snart - TechRadar
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-06-19 23:44_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 
 ## Technology
 
@@ -55,8 +55,8 @@ _Updated: 2026-06-19 23:44_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -73,26 +73,16 @@ _Updated: 2026-06-19 23:44_
 
 ## Business
 
-- Ny rapport visar låg AI-beredskap när sökfunktioner och kundinsikter omdefinieras – svenska företag riskerar sämre synlighet online - Via TT
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 öppnar upp många nya möjligheter för lokalsamhället. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -113,8 +103,8 @@ _Updated: 2026-06-19 23:44_
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
@@ -132,12 +122,12 @@ _Updated: 2026-06-19 23:44_
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
