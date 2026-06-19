@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-19 20:21_
+_Updated: 2026-06-19 22:20_
 
 - US push to get Iran talks started hits an early bump. Vance stays at home, for now - AP News
-- Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised - NPR
 - Italy PM Meloni ‘stunned’ by Trump’s claims she begged him for a photo - The Guardian
-- Stranded Ships Hoping for Escape Find a Turbulent Strait of Hormuz - The New York Times
-- As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say - Al Jazeera
-- 4-person IDF tank crew, including battalion chief, killed by Hezbollah in south Lebanon - The Times of Israel
-- Israel and Hezbollah agree to halt fighting, officials say, as US-Iran talks hang in the balance - AP News
-- Maine Secretary of State’s Office announces ranked choice tabulations - Maine.gov
-- Murdoch Paper Humiliates Trump With Scathing Weakness Verdict - The Daily Beast
+- U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say - The Washington Post
+- JD Vance’s Blunt Warning to Israel, and Why Waymo Is Struggling to Go National - The New York Times
+- Labour's Andy Burnham wins a special election, setting up a showdown with Starmer to lead Britain - NPR
 - Obama Presidential Center Opening: See the Celebs Who Attended - Business Insider
-- How Quickly Could Andy Burnham Become U.K. Prime Minister? - The New York Times
-- Why are Moscow’s air defenses struggling to stop drone attacks? And why are oil refineries so vulnerable to Ukrainian strikes? - Meduza
-- Vietnamese man deported from U.S. to South Sudan is repatriated after months in detention - AP News
+- Live updates: Israel and Hezbollah agree to renew ceasefire after conflict threatens to derail US-Iran talks - CNN
+- New Air Force One plane, a $400 million jet gifted by Qatar, unveiled by military - CBS News
+- DOJ rebuffs judge's demand to state "anti-weaponization" fund is officially dead - CBS News
+- The blue paint is peeling off the Reflecting Pool - The Washington Post
+- Moscow Refinery Attack Is A Landmark In Complex Drone Strikes - Forbes
+- Two trains collide near Bedford, north of London - Al Jazeera
 - 3-year-old critically injured by crocodile after ending up in its enclosure in British zoo - NBC News
-- Lutnick’s Anthropic Crackdown Claims New Power Over AI Models - Bloomberg.com
-- Warsh wants markets to guide the Fed, not the other way around - Yahoo Finance
-- Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal - CNBC
+- Israeli official spurns call for truce: ‘All of Lebanon must burn’ - The Hill
 - What's open and closed on Juneteenth 2026? Find out if banks, USPS and stores are operating. - CBS News
-- Atonemo’s NTS Radio Player brings the best of internet radio to your hi-fi - The Verge
-- Android 17 is making Pixel widgets vanish, but Google already has a fix in the works - Android Central
+- Global stock markets close lower on Friday as investors assess durability of U.S.-Iran peace deal - CNBC
+- Warsh wants markets to guide the Fed, not the other way around - Yahoo Finance
+- Mortgage rates fall to lowest level in over a month as Iran deal framework takes shape - Fox Business
+- Qualcomm Is Copying Samsung Exynos 2600’s Heat Path Block For Snapdragon 8 Elite Gen 6 Pro, But Has Botched The Implementation - Wccftech
+- Hue’s wired wall modules bring non-smart lights into its ecosystem - The Verge
