@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-20 12:59_
+_Updated: 2026-06-20 15:04_
 
 ## Top Stories
 
 - Åskoväder över västkusten: ”2 500 blixtar på en timme” - GP
-- Två döda efter trafikolycka utanför Borås - Västerbottens-Kuriren
-- Libanons civilförsvar: 16 döda i nya attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Slagsmål och dödat rådjur – så var midsommar - Dagens Nyheter
-- Omfattande brand i Märsta – flerfamiljshus i lågor - Omni
-- Rödgröna partierna: Vi river upp planen för största järnvägarna - Dagens Nyheter
-- Man hittad död i vattnet utanför Brännö - SVT Nyheter
-- Våldtäkt på Kungsholmen – man gripen - SVT Nyheter
-- Mc-förare körde av vägen – livshotande skadad - SVT Nyheter
-- 20 juni 07.51, Sammanfattning natt, Södermanlands län - Polisen.se
 - Rysk bensinbrist allt värre: ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
-- Källor: USA skickar sändebud för Iransamtal - GP
+- Forskarnas poängsystem visar: Så ser livsvillkoren ut där du bor - Dagens Nyheter
+- Rödgröna partierna: Vi river upp planen för största järnvägarna - Dagens Nyheter
+- Rektorsflykten fortsätter – fler har slutat i Majorna - GP
+- Ida, 26, förlorade sin syster – nu vill hon bryta tystnaden kring syskons sorg - Smålandsposten
+- Två döda efter trafikolycka utanför Borås - Västerbottens-Kuriren
+- Åska och skyfall orsakar tågstörningar mellan Alvesta och Rydaholm - SVT Nyheter
+- DN Direkt – Man död i mc-olycka i Huddinge - Dagens Nyheter
+- Man hittad död i vattnet i Göteborgs skärgård - GP
+- Källor: USA skickar sändebud för Iransamtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - DN Direkt – Man gripen misstänkt för våldtäkt på Kungsholmen - Dagens Nyheter
-- Varningar för extrem värme utfärdade i Europa - Corren
-- Nya Slussen: ”Vi har checkat av allt på listan” - Svenska Dagbladet
+- Libanons civilförsvar: 16 döda i nya attacker - GP
+- Uppgifter: Irans revolutionsgarde bakom hemliga drönarattacker mot grannländer - Dagens Nyheter
+- Bemöter kritiken: ”Är det verkligen så lyxigt?” - Svenska Dagbladet
+- ”Vi kommer behöva byta ut all hårdvara” - Svenska Dagbladet
 - Space X-lyft för nätbanken: ”Ökad riskaptit” - EFN
-- Ny mångmiljardaffär – köper 190 butiker - Dagens PS
-- Rekordmånga klagomål på begagnade bilar – så ska du tänka - Dagens Nyheter
+- Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
 - Så mycket väntas Iphone 18 Pro kosta - Macworld.se
 - Startup låter privatpersoner rita sina egna hus - mitt i AI-boom - Sveriges Radio
 
@@ -124,13 +124,13 @@ _Updated: 2026-06-20 12:59_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
@@ -138,27 +138,27 @@ _Updated: 2026-06-20 12:59_
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbrukspolitik - Naturvårdsverket
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Jordbrukspolitik - Naturvårdsverket
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
