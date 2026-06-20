@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-20 22:53_
+_Updated: 2026-06-21 00:47_
 
-- Iran Says It Closed Strait of Hormuz as Fighting Flares Again in Lebanon - WSJ
 - US-Iran talks to kick off Sunday in Switzerland, says Pakistan - Al Jazeera
-- The blue paint is peeling off the Reflecting Pool. Trump says vandals targeted it. - The Washington Post
-- The U.S.-Iran negotiations have been chaotic. But the confusion has only grown since the MOU was signed. - NBC News
-- Meloni tells Trump to 'focus on your own popularity' as row escalates - BBC
-- Israel continues strikes in Lebanon despite ceasefire with Hezbollah - politico.eu
+- Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon - NBC News
+- Trump acknowledges ‘real problems’ at reflecting pool after $14m makeover, blaming ‘vandalism’ - The Guardian
+- World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. - The New York Times
+- Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters
+- At least 12 shot after SUV pulls up and opens fire on a crowd, Chicago police say - ABC News - Breaking News, Latest News and Videos
 - Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico
 - 3 Hikers Die at Grand Canyon Amid ‘Dangerous’ High Temperatures - The New York Times
-- Trump administration says it’s considering ‘partial closure’ of Kennedy Center despite judge’s order - The Hill
-- ‘Agonizing for Everyone’: After IVF Mix-up, Birthing Couple Keeps Baby - The New York Times
-- Tourist dies in Dominican Republic luxury resort fire - BBC
-- Ukraine Targets Oil Refinery 2,000 Kilometers Inside Russia - Bloomberg.com
-- Russia frees 24 Filipinos after Marcos talks with Putin - ABC News - Breaking News, Latest News and Videos
-- Counterterror police investigate after 5 hurt in Edinburgh attacks that appeared to target Muslims - AP News
+- Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims - The Washington Post
+- Obama Center embeds 'Indigenous' land message on controversial site - Fox News
+- Huge Blaze Ravages Dominican Republic Beach Resort - The New York Times
+- Five injured in suspected anti-Muslim attacks after armed man roamed Edinburgh streets - BBC
+- Russia frees 24 Filipinos after Marcos talks with Putin - AP News
+- Polish president strips Zelensky of honor after special forces unit’s renaming - The Washington Post
 - Will SpaceX Stock Be Higher or Lower in 1 Year? Here's My Honest Take - Yahoo Finance
 - Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - ABC News - Breaking News, Latest News and Videos
-- Gen Z and millennial professionals are avoiding phone calls — and paying a price at work - Business Insider
+- Trump’s student loan rate cut excludes most of the 9 million borrowers in default - Fortune
 - Did Anthropic talk its way into an AI export ban? - Financial Times
 - Every new iOS 27 feature that’s worth knowing about - TechCrunch
-- Ubisoft Co-Founder Claude Guillemot Dead In Plane Crash In France - Forbes
+- The best Prime Day tech deals are here: Shop Apple, Beats, Samsung and more for up to 55% percent off - Yahoo Tech
