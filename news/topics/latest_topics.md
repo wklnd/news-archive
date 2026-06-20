@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-20 17:21_
+_Updated: 2026-06-20 19:01_
 
 ## Top Stories
 
-- Åskoväder över västkusten: ”2 500 blixtar på en timme” - GP
-- Iran: Hormuzsundet är stängt - Corren
-- Rysk bensinbrist allt värre: ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
-- Liljeholmsbron fast i öppet läge - Sveriges Radio
-- Röda Korset öppnar för branddrabbade - märsta.nu
-- Två döda efter trafikolycka i Borås - Expressen
-- Åska och skyfall orsakar tågstörningar mellan Alvesta och Rydaholm - SVT Nyheter
-- Störningar i SMHI:s app och på hemsidan - Expressen
-- Midsommarstång stulen – andra året i rad - Västerbottens-Kuriren
-- Mc-förare död efter olycka i Huddinge - Västerbottens-Kuriren
+- Iranska medier: Presidenten träffar Pakistans inrikesminister – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Sorgen efter branden: ”Vi kan inte återvända” - Svenska Dagbladet
 - Bortskämd nepobaby eller ung rebell? En ny Kennedy ger sig in i USA-politiken - Dagens Nyheter
-- Libanons civilförsvar: 16 döda i nya attacker - GP
-- Trump ger Meloni kalla handen – igen - Hufvudstadsbladet – HBL
-- Varningar för extrem värme utfärdade i Europa - Corren
-- ”Vi kommer behöva byta ut all hårdvara” - Svenska Dagbladet
+- Åska och regn – då passerar ovädret - SN, Södermanlands Nyheter
+- Dödliga anfall i Libanon hotar bräckligt eldupphör - GP
+- Rektorsflykten fortsätter – fler har slutat i Majorna - GP
+- Midsommarstång stulen – andra året i rad - Västerbottens-Kuriren
+- Forskarnas poängsystem visar: Så ser livsvillkoren ut där du bor - Dagens Nyheter
+- Liljeholmsbron fastnade – för andra dagen i rad - Omni
+- 19 juni 15.31, Trafikolycka, Borås - polisen.se
+- Rysk bensinbrist allt värre: ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
+- Fortsatt gräl mellan Trump och Meloni - Västerbottens-Kuriren
+- Därför klär politiska kandidater ut sig i Storbritannien - Dagens Nyheter
+- Glidbomber mot Zaporizjzja – flera döda i Ukraina - Omni
+- En av Ubisofts grundare död i flygolycka - Sydsvenskan
 - Pressat Polestar står fast vid klimatfokuserad strategi - Dagens Nyheter
+- ”Vi kommer behöva byta ut all hårdvara” - Svenska Dagbladet
 - Ny mångmiljardaffär – köper 190 butiker - Dagens PS
-- Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
-- Så mycket väntas Iphone 18 Pro kosta - Macworld.se
 - Startup låter privatpersoner rita sina egna hus - mitt i AI-boom - Sveriges Radio
+- Stort test av Sony WF-1000XM6 – kan utmana Apples Airpods Pro - Expressen
 
 ## World News
 
@@ -42,11 +42,11 @@ _Updated: 2026-06-20 17:21_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Final round of World Championship of Public Speaking About to Begin - Via TT
-- WPP samlar produktion i ny global enhet - Dagens Media
+- Corren kan vinna pris för satsningen på unga - Corren
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- WPP samlar produktion i ny global enhet - Dagens Media
 
 ## Technology
 
@@ -55,9 +55,10 @@ _Updated: 2026-06-20 17:21_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-06-20 17:21_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -96,8 +96,8 @@ _Updated: 2026-06-20 17:21_
 
 ## Health
 
-- ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
@@ -142,19 +142,18 @@ _Updated: 2026-06-20 17:21_
 
 ## Jordbruk
 
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
@@ -162,3 +161,4 @@ _Updated: 2026-06-20 17:21_
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
