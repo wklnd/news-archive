@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-20 01:54_
+_Updated: 2026-06-20 06:59_
 
-- Trump envoy Witkoff heads to Switzerland ahead of potential Iran talks - Axios
-- Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her - NPR
-- GOP Rep. Randy Fine: Vance’s comments on Israel ‘inappropriate and frankly disgusting’ - The Hill
+- Trump envoys head to Switzerland for potential Iran talks - Axios
 - Barack and Michelle Obama surprise first visitors to newly opened presidential center - AP News
-- Trump unveils modified Qatari luxury jet meant for Air Force One - BBC
-- 1 dead, dozens injured after 2 passenger trains collide in England, officials say - ABC News - Breaking News, Latest News and Videos
-- Stranded ships begin to cross Hormuz after initial U.S.-Iran deal - The Washington Post
-- Missouri judge finds state laws restricting abortion violate voter-approved constitutional amendment - AP News
+- Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her - NPR
+- Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him - The Washington Post
+- Israel continues attacks on Lebanon despite agreeing to ceasefire - Al Jazeera
+- Bedford train crash: What we we know so far as police confirm at least one dead - BBC
+- Trump Shifts Stance in South Carolina After Losses in Governor’s Races - The New York Times
 - Flu sickens scores of troops at Air Force base after Pentagon ends vaccine requirement - NBC News
-- Federal judge gives DOJ green light to turn Biden’s audio files over to the Heritage Foundation - Politico
-- Kremlin Praises Performance of Russian Air Defenses After Record Drone Attack on Moscow - The Moscow Times
-- U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say - The Washington Post
-- Canadian auto parts magnate Frank Stronach found guilty of sexual assault - AP News
-- British Prime Minister Keir Starmer faces potential leadership challenge from newly-elected Andy Burnham - Fox News
+- DHS scraps plans to turn Georgia warehouse into detention mega center, city says - CNN
+- Here’s why the Lincoln Memorial Reflecting Pool went green so fast - Los Angeles Times
+- 1 killed in large fire at luxury resort in Dominican Republic - CBS News
+- How China’s Navy Is Tightening the Noose on Taiwan - WSJ
+- Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News
+- Israeli official spurns call for truce: ‘All of Lebanon must burn’ - The Hill
 - The Trump administration says it is cutting student loan interest. Not everyone qualifies. - CBS News
-- The Secret Life of the Strait of Hormuz - Bloomberg
-- Mortgage rates fall to lowest level in over a month as Iran deal framework takes shape - Fox Business
 - Exclusive: Trump tells "The Axios Show" that Anthropic was a national security threat - Axios
-- Aura’s impressive e-ink photo frame doesn’t even look digital - TechCrunch
-- watchOS 27 drops support for five Apple Watch models, here’s why - 9to5Mac
+- 'Exactly how the dot-com bubble burst': A market research firm says keep an eye on this AI warning sign - Business Insider
+- SpaceX stock price drops after Cursor purchase. How low could it go? - Mashable
+- Nothing cancels this year’s CMF phone due to RAM prices - The Verge
+- Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain - The Hacker News
