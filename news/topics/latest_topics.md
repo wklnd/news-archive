@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-20 15:04_
+_Updated: 2026-06-20 17:21_
 
 ## Top Stories
 
 - Åskoväder över västkusten: ”2 500 blixtar på en timme” - GP
+- Iran: Hormuzsundet är stängt - Corren
 - Rysk bensinbrist allt värre: ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
-- Forskarnas poängsystem visar: Så ser livsvillkoren ut där du bor - Dagens Nyheter
-- Rödgröna partierna: Vi river upp planen för största järnvägarna - Dagens Nyheter
-- Rektorsflykten fortsätter – fler har slutat i Majorna - GP
-- Ida, 26, förlorade sin syster – nu vill hon bryta tystnaden kring syskons sorg - Smålandsposten
-- Två döda efter trafikolycka utanför Borås - Västerbottens-Kuriren
+- Liljeholmsbron fast i öppet läge - Sveriges Radio
+- Röda Korset öppnar för branddrabbade - märsta.nu
+- Två döda efter trafikolycka i Borås - Expressen
 - Åska och skyfall orsakar tågstörningar mellan Alvesta och Rydaholm - SVT Nyheter
-- DN Direkt – Man död i mc-olycka i Huddinge - Dagens Nyheter
-- Man hittad död i vattnet i Göteborgs skärgård - GP
-- Källor: USA skickar sändebud för Iransamtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Man gripen misstänkt för våldtäkt på Kungsholmen - Dagens Nyheter
+- Störningar i SMHI:s app och på hemsidan - Expressen
+- Midsommarstång stulen – andra året i rad - Västerbottens-Kuriren
+- Mc-förare död efter olycka i Huddinge - Västerbottens-Kuriren
+- Bortskämd nepobaby eller ung rebell? En ny Kennedy ger sig in i USA-politiken - Dagens Nyheter
 - Libanons civilförsvar: 16 döda i nya attacker - GP
-- Uppgifter: Irans revolutionsgarde bakom hemliga drönarattacker mot grannländer - Dagens Nyheter
-- Bemöter kritiken: ”Är det verkligen så lyxigt?” - Svenska Dagbladet
+- Trump ger Meloni kalla handen – igen - Hufvudstadsbladet – HBL
+- Varningar för extrem värme utfärdade i Europa - Corren
 - ”Vi kommer behöva byta ut all hårdvara” - Svenska Dagbladet
-- Space X-lyft för nätbanken: ”Ökad riskaptit” - EFN
+- Pressat Polestar står fast vid klimatfokuserad strategi - Dagens Nyheter
+- Ny mångmiljardaffär – köper 190 butiker - Dagens PS
 - Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
 - Så mycket väntas Iphone 18 Pro kosta - Macworld.se
 - Startup låter privatpersoner rita sina egna hus - mitt i AI-boom - Sveriges Radio
@@ -57,8 +57,6 @@ _Updated: 2026-06-20 15:04_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -66,10 +64,12 @@ _Updated: 2026-06-20 15:04_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -123,11 +123,11 @@ _Updated: 2026-06-20 15:04_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
