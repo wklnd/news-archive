@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-20 22:50_
+_Updated: 2026-06-21 00:42_
 
 ## Top Stories
 
-- Robert Laul: En väntad överkörning – bortsett från en sak - GP
-- Flera döda i ryska attacker mot Ukraina - Dagens Nyheter
 - JD Vance är på väg till Schweiz – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- FN varnar för massövergrepp i Sudan - GP
+- Uppgifter: Keir Starmer är redo att avgå - Omni
 - Åska och regn – då passerar ovädret - SN, Södermanlands Nyheter
-- Fem dödade i israeliska anfall mot Gaza - Västerbottens-Kuriren
-- Därför klär politiska kandidater ut sig i Storbritannien - Dagens Nyheter
-- Midsommarstång stulen – andra året i rad - Västerbottens-Kuriren
+- Flera döda i ryska attacker mot Ukraina - Dagens Nyheter
+- Bil brinner på Uppsalavägen som stängs av - Sveriges Radio
 - Just nu: Stopp på E18 på grund av viltolycka med en personbil - UNT
-- 19 juni 15.31, Trafikolycka, Borås - polisen.se
 - Just nu: Trafikverket varnar för rådjur på vägen på E4 - NT
-- Gräl mellan Trump och Meloni – ”Sanslösa” - Hufvudstadsbladet – HBL
-- Libanons civilförsvar: 16 döda i nya attacker - GP
-- Bortskämd nepobaby eller ung rebell? En ny Kennedy ger sig in i USA-politiken - Dagens Nyheter
-- Varningar för extrem värme utfärdade i Europa - Corren
+- Midsommarstång stulen – andra året i rad - Västerbottens-Kuriren
+- Störningar i SMHI:s app och på hemsidan - Expressen
+- Fortsatt gräl mellan Trump och Meloni - Västerbottens-Kuriren
+- Libanons civilförsvar: 16 döda i nya attacker - Hufvudstadsbladet – HBL
+- Elva dödade i israeliska anfall mot Gaza - Västerbottens-Kuriren
+- Varningar för extrem värme utfärdade i Europa - GP
 - Grön svensk cement nytt vapen mot dolda klimatboven - Dagens Nyheter
+- Var tredje får högst 100 kronor i elstöd - MSN
 - Ny mångmiljardaffär – köper 190 butiker - Dagens PS
 - Amerikanska aktiefutures faller efter Wall Streets uppgång - Investing.com Sverige
-- SpaceX splittrar experterna: Nobelpristagare varnar för "Ponziupplägg" – analytikern ser en aktie att köpa och behålla - Börskollen
 - Startup låter privatpersoner rita sina egna hus - mitt i AI-boom - Sveriges Radio
 - Stort test av Sony WF-1000XM6 – kan utmana Apples Airpods Pro - Expressen
 
 ## World News
 
-- Vinamilk firar sitt 50-årsjubileum med 5 internationella utmärkelser vid Global Dairy Conference 2026. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -38,61 +37,62 @@ _Updated: 2026-06-20 22:50_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Final round of World Championship of Public Speaking About to Begin - Via TT
-- Corren kan vinna pris för satsningen på unga - Corren
 - WPP samlar produktion i ny global enhet - Dagens Media
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- KTH rankad 33:a i världen inom teknikområdet - KTH Intranät
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 öppnar upp många nya möjligheter för lokalsamhället. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -102,14 +102,14 @@ _Updated: 2026-06-20 22:50_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
@@ -123,11 +123,11 @@ _Updated: 2026-06-20 22:50_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -138,7 +138,7 @@ _Updated: 2026-06-20 22:50_
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - 5 myter om öppen vetenskap - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
