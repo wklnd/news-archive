@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-20 13:01_
+_Updated: 2026-06-20 15:11_
 
-- US-Iran Nuclear Talks Stall Over Lebanon Before They Begin - Bloomberg.com
-- Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him - The Washington Post
-- Israeli official spurns call for truce: ‘All of Lebanon must burn’ - The Hill
-- As Juneteenth is celebrated across the US, Obama’s presidential center opens in Chicago - AP News
+- Trump says vandals used chemicals to damage newly renovated reflecting pool near Lincoln Memorial - Fox News
+- US-Iran Nuclear Talks Stall as Fighting Rages On in Lebanon - Bloomberg.com
 - The U.S.-Iran negotiations have been chaotic. But the confusion has only grown since the MOU was signed. - NBC News
-- New images show murder weapon, fatal injury in Texas high school track meet stabbing of Austin Metcalf - Fox News
-- U.S. claims Israel-Hezbollah ceasefire back on - Axios
+- Trump unveils Qatari luxury jet for Air Force One fleet - BBC
+- Israeli official spurns call for truce: ‘All of Lebanon must burn’ - The Hill
+- Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight - NPR
 - Kennedy Center says it's still weighing whether to carry out a "partial closure" - CBS News
-- Trump claims Reflecting Pool was vandalized and says law enforcement is investigating - CNN
 - Trump now says either Republican candidate would be a good pick in South Carolina’s governor runoff - Politico
+- Trump hits back at Meloni after she said he 'completely made up' claim she 'begged' him for picture - Sky News
+- Iran Latest: Israel and Hezbollah agree to Lebanon truce, officials say, as fighting delays U.S.-Iran talks - CBS News
 - Tourist dies in Dominican Republic luxury resort fire - BBC
-- Bedford train crash: What we we know so far as police confirm at least one dead - BBC
-- How China’s Navy Is Tightening the Noose on Taiwan - WSJ
 - Starmer vows to fight as Burnham’s election win fuels a Labour leadership showdown - AP News
-- Administration Is Engaging in Backdoor Student Debt Cancellation - Committee for a Responsible Federal Budget
-- SpaceX stock price drops after Cursor purchase. How low could it go? - Mashable
-- Trump tells Axios he no longer views Anthropic as national security threat - Reuters
-- Oil Prices Rise as U.S.-Iran Deal Faces Tests - The New York Times
+- One dead after freight trains collide in Munich - Reuters
+- Moscow oil refinery attack brings Russia's war with Ukraine closer to home - BBC
+- How SpaceX benefits from its Cursor acquisition - Yahoo Finance
+- Mega Millions results: Did anyone win the $452 million jackpot? - KUSA.com
+- The Fed's Warsh era clearly has a new vibe — and that's not all bad for investors - Yahoo Finance
+- OpenAI is bringing on some big guns in the lead-up to its IPO - TechCrunch
 - SwitchBot’s Standing Circulator Fan is worth fighting for - The Verge
-- "This Isn't Your Granny's Flip Phone" - Commodore Defends Its $500 Dumbphone - Time Extension
+- Joanna Stern spent one week with new Siri AI, and it’s very good - 9to5Mac
