@@ -1,35 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-20 10:32_
+_Updated: 2026-06-20 12:59_
 
 ## Top Stories
 
-- Åskoväder drar in – kan hota VM-festen - Svenska Dagbladet
-- Misshandel och rattfylla – så var midsommar i Skåne - Skånska Dagbladet
-- Brand i flerfamiljshus i Märsta - GP
-- Anderson: SD skadeglada när det går dåligt för Sverige - Omni
-- Såg lågor från taket – snabbt övertänd - Expressen
-- Regeringen vill få bort ”elefantkyrkogården” - SVT Nyheter
+- Åskoväder över västkusten: ”2 500 blixtar på en timme” - GP
+- Två döda efter trafikolycka utanför Borås - Västerbottens-Kuriren
+- Libanons civilförsvar: 16 döda i nya attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Slagsmål och dödat rådjur – så var midsommar - Dagens Nyheter
+- Omfattande brand i Märsta – flerfamiljshus i lågor - Omni
+- Rödgröna partierna: Vi river upp planen för största järnvägarna - Dagens Nyheter
+- Man hittad död i vattnet utanför Brännö - SVT Nyheter
 - Våldtäkt på Kungsholmen – man gripen - SVT Nyheter
 - Mc-förare körde av vägen – livshotande skadad - SVT Nyheter
-- Torekov – byn som blivit en sommarkuliss - Dagens Nyheter
 - 20 juni 07.51, Sammanfattning natt, Södermanlands län - Polisen.se
-- Rysk bensinbrist allt värre – ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
+- Rysk bensinbrist allt värre: ”Liknar en apokalyps” - Hufvudstadsbladet – HBL
 - Källor: USA skickar sändebud för Iransamtal - GP
-- Europa hotas av ännu en värmebölja – kan bli rekordvarmt - Dagens Nyheter
-- DN Direkt – Lyckad transplantation med hiv-positiv lunga - Dagens Nyheter
+- DN Direkt – Man gripen misstänkt för våldtäkt på Kungsholmen - Dagens Nyheter
+- Varningar för extrem värme utfärdade i Europa - Corren
+- Nya Slussen: ”Vi har checkat av allt på listan” - Svenska Dagbladet
+- Space X-lyft för nätbanken: ”Ökad riskaptit” - EFN
+- Ny mångmiljardaffär – köper 190 butiker - Dagens PS
 - Rekordmånga klagomål på begagnade bilar – så ska du tänka - Dagens Nyheter
-- Äldre får stöd av unga – vill stoppa nedläggningen av bankkontor - News55
-- Försvarsbolag faller efter USA-Iran-avtal om vapenvila - Investing.com Sverige
-- Krockade med bilen – hade 3,15 promille i blodet - Värmlands Folkblad
 - Så mycket väntas Iphone 18 Pro kosta - Macworld.se
-- Därför har jag aldrig ens provat Chat Gpt - Västerbottens-Kuriren
+- Startup låter privatpersoner rita sina egna hus - mitt i AI-boom - Sveriges Radio
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Vinamilk firar sitt 50-årsjubileum med 5 internationella utmärkelser vid Global Dairy Conference 2026. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -41,17 +41,19 @@ _Updated: 2026-06-20 10:32_
 - Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Final round of World Championship of Public Speaking About to Begin - Via TT
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Ny global rapport: Så kan svenska företag använda AI och pressmeddelanden för att öka sin internationella synlighet - Cision News
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
@@ -60,16 +62,14 @@ _Updated: 2026-06-20 10:32_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 
 ## Business
 
@@ -143,20 +143,20 @@ _Updated: 2026-06-20 10:32_
 ## Jordbruk
 
 - Han tror stenhårt på jordbruket - Land.se
-- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
+- Jordbrukspolitik - Naturvårdsverket
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Här är världens största jordbruk - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
