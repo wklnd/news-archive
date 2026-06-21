@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-21 00:47_
+_Updated: 2026-06-21 04:03_
 
-- US-Iran talks to kick off Sunday in Switzerland, says Pakistan - Al Jazeera
-- Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon - NBC News
-- Trump acknowledges ‘real problems’ at reflecting pool after $14m makeover, blaming ‘vandalism’ - The Guardian
-- World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary. - The New York Times
-- Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region - Reuters
-- At least 12 shot after SUV pulls up and opens fire on a crowd, Chicago police say - ABC News - Breaking News, Latest News and Videos
-- Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico
-- 3 Hikers Die at Grand Canyon Amid ‘Dangerous’ High Temperatures - The New York Times
+- Iran negotiators, Vance head for Switzerland but Lebanon fighting continues - Reuters
 - Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims - The Washington Post
-- Obama Center embeds 'Indigenous' land message on controversial site - Fox News
-- Huge Blaze Ravages Dominican Republic Beach Resort - The New York Times
-- Five injured in suspected anti-Muslim attacks after armed man roamed Edinburgh streets - BBC
-- Russia frees 24 Filipinos after Marcos talks with Putin - AP News
-- Polish president strips Zelensky of honor after special forces unit’s renaming - The Washington Post
-- Will SpaceX Stock Be Higher or Lower in 1 Year? Here's My Honest Take - Yahoo Finance
+- L.A. declares state of emergency as Boyle Heights fire continues spewing smoke across region - Los Angeles Times
+- At least 12 shot in mass shooting on Chicago's South Side, police say - USA Today
+- Israel continues strikes in Lebanon despite ceasefire with Hezbollah - politico.eu
+- Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril - Al Jazeera
+- Feds Cuff Olympian for Touching Trump’s Green Slime Mess - The Daily Beast
+- Tom Cotton, the Senate’s foremost Iran hawk, is in a Trump-induced jam - Politico
+- 3 elderly hikers die on Grand Canyon's inner trails as temperature spiked to 109 degrees - CBS News
+- Obama Presidential Center follows widely-mocked 'stolen land' acknowledgment with Native American dance show - Fox News
+- Italian tourist killed in massive fire at Dominican Republic luxury beach resort - PBS
+- Zelenskyy returns Poland's highest honor after Polish president revokes it in history dispute - CBS News
+- Ukraine Targets Oil Refinery 2,000 Kilometers Inside Russia - Bloomberg.com
+- Keir Starmer reportedly considering stepping down as PM and could announce timetable for departure - Fox News
+- They Looked Like They Were Getting Rich on Polymarket—but None of It Was Real - WSJ
+- Apple's Tim Cook and many others say the AI boom is spiking costs — so their prices will spike, too. - Business Insider
+- Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’ - TechCrunch
 - Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - ABC News - Breaking News, Latest News and Videos
-- Trump’s student loan rate cut excludes most of the 9 million borrowers in default - Fortune
-- Did Anthropic talk its way into an AI export ban? - Financial Times
-- Every new iOS 27 feature that’s worth knowing about - TechCrunch
-- The best Prime Day tech deals are here: Shop Apple, Beats, Samsung and more for up to 55% percent off - Yahoo Tech
+- Galaxy Watch 9 and Ultra 2 leaks reveal more changes, no Classic after all [Gallery] - 9to5Google
+- I Let Siri AI Show Me Around San Francisco - WIRED
