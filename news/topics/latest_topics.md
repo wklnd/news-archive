@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 22:53_
+_Updated: 2026-06-22 00:43_
 
 ## Top Stories
 
 - Efter Trumps hot – Iran framför protest – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rekordtidig sommarhetta över Europa – alkoholförbud i Frankrike - Hufvudstadsbladet – HBL
 - Två döda i trafikolycka i Kalix - Aftonbladet
-- Nobel-kritiker ger inte upp – vill folkomrösta - Svenska Dagbladet
-- Nattklubbsägaren: Rabatt för mexikaner – skyhög entré för gringos - Dagens Nyheter
+- Graham: Tror att Iranavtalet kommer misslyckas - Omni
 - Hon är tv-chefen som skapat uppror bland USA:s stjärnreportrar - Dagens Nyheter
+- Centerpartiet: Släpp fram bussar framför bilar i Göteborg - GP
+- Oljeutsläpp i Göteborg – fåglar fastnade - Aftonbladet
 - Flera dödsolyckor i midsommartrafiken - Corren
 - Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
-- Värmeböljan i Europa håller i sig – kan nå delar av Sverige - SVT Nyheter
+- 50-tal sjömän fortsatt kvar på skuggfartygen utanför Skåne - Dagens Nyheter
+- SMHI: Kan bli årets första värmebölja - Nya Wermlands-Tidningen
 - Presidentvalet i Colombia – snart stänger vallokalerna - SVT Nyheter
 - Ny politisk konflikt mellan Gavin Newsom och Donald Trump - Sveriges Radio
 - Storm kring Starmer – Trump spår hans avgång - GP
-- Direkt – Kriget i Ukraina – Bensinstation förstördes i attack mot Zaporizjzja - Dagens Nyheter
+- Värmekupolen ligger som ett lock över Europa – varnar för extrem hetta - Aftonbladet
 - För lantbrukarna kom Iranavtalet alldeles för sent - Omni
-- ”Vill bara tjäna pengar – skiter i jämställdhet” - Svenska Dagbladet
-- DN Direkt – Fyra bilar i olycka i Kungsbacka - Dagens Nyheter
 - Ericssons avgående vd vill ha ökad svensk invandring - Omni
-- Caia-bluffen i Borås – kvinnan: ”Skäms” - Borås Tidning
+- DN Direkt – Flera skadade i explosion på fabrik i Qatar - Dagens Nyheter
+- Mikaela och Alex vann på Triss – ”vill köpa hus och bil” - oskarshamns-nytt.se
+- Månen behöver egen tidszon - SVT Nyheter
 - Midsommar i Prästalund – så mycket tradition det kan bli - Alekuriren
 
 ## World News
@@ -30,6 +30,7 @@ _Updated: 2026-06-21 22:53_
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på ikväll 22:00 - TV.nu
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Ontario city scraps Indian Road in favour of Ojibway name - Global News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -44,9 +45,8 @@ _Updated: 2026-06-21 22:53_
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2026-06-21 22:53_
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -121,8 +121,8 @@ _Updated: 2026-06-21 22:53_
 
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -130,8 +130,8 @@ _Updated: 2026-06-21 22:53_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
