@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 17:26_
+_Updated: 2026-06-21 19:05_
 
 ## Top Stories
 
-- Samtal mellan USA och Iran har inletts - Västerbottens-Kuriren
+- Trumps ultimatum till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Röd värmevarning – alkoholförbud i Frankrike - GP
 - Ryska hotet: Kan strunta i krigets lagar • Raseri efter attacken mot Moskva - Expressen
-- Kraftig explosion norr om Växjö – bombskyddet kallades in - SVT Nyheter
-- JUST NU: Jätteköer i midsommartrafiken - Expressen
+- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
+- P-platser utanför bup i Göteborg togs bort – för bänkar och växter - GP
 - Mika, 54, jagar ryska skuggflottan: ”Lite svettigt” - Aftonbladet
 - Milslång kö – flera olyckor i midsommartrafiken - Dagens Nyheter
-- Villa nedbrunnen – två ungdomar till sjukhus - GP
+- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
 - Barn påkörd i Åhus – förd med ambulans till sjukhus - Expressen
-- SMHI: Kan bli årets första värmebölja - Corren
-- Källor: Besked om Starmers framtid till veckan - GP
+- En död efter villabrand i Svenljunga - Västerbottens-Kuriren
+- Storm kring Starmer – Trump spår hans avgång - GP
 - Protester mot Kushner-hotell - Västerbottens-Kuriren
 - ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
-- Flera döda i ryska attacker mot Ukraina - Corren
-- ”Pratar inte om det – vill inte uppfattas woke” - Svenska Dagbladet
+- Direkt – Kriget i Ukraina – Bensinstation förstördes i attack mot Zaporizjzja - Dagens Nyheter
+- ”Vill bara tjäna pengar – skiter i jämställdhet” - Svenska Dagbladet
 - Nya avgiften – blir dyrare att klicka hem prylar - Expressen
 - Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
 - Elon Musks nya börsraket – så agerade småspararna - EFN
+- Caia-bluffen i Borås – kvinnan: ”Skäms” - Borås Tidning
 - LTU-studie: Flöden i vattenkraft påverkar fisk - TV4 Nyheterna
-- Samsung Galaxy Watch Ultra 2 får ny design, men ingen Galaxy Watch 9 Classic – enligt läckta uppgifter - notebookcheck.se
 
 ## World News
 
+- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på ikväll 22:00 - TV.nu
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -44,7 +45,6 @@ _Updated: 2026-06-21 17:26_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
@@ -63,13 +63,13 @@ _Updated: 2026-06-21 17:26_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -98,8 +98,9 @@ _Updated: 2026-06-21 17:26_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
-- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
+- Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -112,10 +113,9 @@ _Updated: 2026-06-21 17:26_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Hur gammal blir Trump? Forskare ger sin prognos - Omni
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
@@ -148,8 +148,8 @@ _Updated: 2026-06-21 17:26_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
