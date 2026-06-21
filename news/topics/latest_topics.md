@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 21:01_
+_Updated: 2026-06-21 22:53_
 
 ## Top Stories
 
 - Efter Trumps hot – Iran framför protest – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rekordtidig sommarhetta över Europa - GP
+- Rekordtidig sommarhetta över Europa – alkoholförbud i Frankrike - Hufvudstadsbladet – HBL
+- Två döda i trafikolycka i Kalix - Aftonbladet
+- Nobel-kritiker ger inte upp – vill folkomrösta - Svenska Dagbladet
 - Nattklubbsägaren: Rabatt för mexikaner – skyhög entré för gringos - Dagens Nyheter
-- P-platser utanför bup i Göteborg togs bort – för bänkar och växter - GP
-- Marcus Svensson Småpartiernas stora lyft – så skulle sydvästskåningarna rösta idag - Sydsvenskan
-- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
-- Milslång kö – flera olyckor i midsommartrafiken - Dagens Nyheter
+- Hon är tv-chefen som skapat uppror bland USA:s stjärnreportrar - Dagens Nyheter
+- Flera dödsolyckor i midsommartrafiken - Corren
 - Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
+- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
 - Värmeböljan i Europa håller i sig – kan nå delar av Sverige - SVT Nyheter
-- Allvarlig trafikolycka i Kalix kommun - SVT Nyheter
+- Presidentvalet i Colombia – snart stänger vallokalerna - SVT Nyheter
+- Ny politisk konflikt mellan Gavin Newsom och Donald Trump - Sveriges Radio
 - Storm kring Starmer – Trump spår hans avgång - GP
-- Protester mot Kushner-hotell - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Bensinstation förstördes i attack mot Zaporizjzja - Dagens Nyheter
-- ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
+- För lantbrukarna kom Iranavtalet alldeles för sent - Omni
 - ”Vill bara tjäna pengar – skiter i jämställdhet” - Svenska Dagbladet
-- Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
-- Elon Musks nya börsraket – så agerade småspararna - EFN
-- Svåra valet – för att vara säker på att få ut pengarna - Aftonbladet
+- DN Direkt – Fyra bilar i olycka i Kungsbacka - Dagens Nyheter
+- Ericssons avgående vd vill ha ökad svensk invandring - Omni
 - Caia-bluffen i Borås – kvinnan: ”Skäms” - Borås Tidning
 - Midsommar i Prästalund – så mycket tradition det kan bli - Alekuriren
 
@@ -36,17 +36,17 @@ _Updated: 2026-06-21 21:01_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -107,15 +107,15 @@ _Updated: 2026-06-21 21:01_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Hur gammal blir Trump? Forskare ger sin prognos - Omni
+- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
