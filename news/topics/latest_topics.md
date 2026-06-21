@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 19:05_
+_Updated: 2026-06-21 21:01_
 
 ## Top Stories
 
-- Trumps ultimatum till Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Röd värmevarning – alkoholförbud i Frankrike - GP
-- Ryska hotet: Kan strunta i krigets lagar • Raseri efter attacken mot Moskva - Expressen
-- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
+- Efter Trumps hot – Iran framför protest – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rekordtidig sommarhetta över Europa - GP
+- Nattklubbsägaren: Rabatt för mexikaner – skyhög entré för gringos - Dagens Nyheter
 - P-platser utanför bup i Göteborg togs bort – för bänkar och växter - GP
-- Mika, 54, jagar ryska skuggflottan: ”Lite svettigt” - Aftonbladet
+- Marcus Svensson Småpartiernas stora lyft – så skulle sydvästskåningarna rösta idag - Sydsvenskan
+- Så ska Skärholmen få tryggheten tillbaka - Dagens Nyheter
 - Milslång kö – flera olyckor i midsommartrafiken - Dagens Nyheter
 - Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- Barn påkörd i Åhus – förd med ambulans till sjukhus - Expressen
-- En död efter villabrand i Svenljunga - Västerbottens-Kuriren
+- Värmeböljan i Europa håller i sig – kan nå delar av Sverige - SVT Nyheter
+- Allvarlig trafikolycka i Kalix kommun - SVT Nyheter
 - Storm kring Starmer – Trump spår hans avgång - GP
 - Protester mot Kushner-hotell - Västerbottens-Kuriren
-- ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Bensinstation förstördes i attack mot Zaporizjzja - Dagens Nyheter
+- ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
 - ”Vill bara tjäna pengar – skiter i jämställdhet” - Svenska Dagbladet
-- Nya avgiften – blir dyrare att klicka hem prylar - Expressen
 - Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
 - Elon Musks nya börsraket – så agerade småspararna - EFN
+- Svåra valet – för att vara säker på att få ut pengarna - Aftonbladet
 - Caia-bluffen i Borås – kvinnan: ”Skäms” - Borås Tidning
-- LTU-studie: Flöden i vattenkraft påverkar fisk - TV4 Nyheterna
+- Midsommar i Prästalund – så mycket tradition det kan bli - Alekuriren
 
 ## World News
 
@@ -39,14 +39,14 @@ _Updated: 2026-06-21 19:05_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -55,44 +55,44 @@ _Updated: 2026-06-21 19:05_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 öppnar upp många nya möjligheter för lokalsamhället. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -123,22 +123,22 @@ _Updated: 2026-06-21 19:05_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 
 ## Jordbruk
 
@@ -148,8 +148,8 @@ _Updated: 2026-06-21 19:05_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
