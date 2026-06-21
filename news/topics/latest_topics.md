@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 15:21_
+_Updated: 2026-06-21 17:26_
 
 ## Top Stories
 
-- Iran: Det ska diskuteras under mötet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Extrem hetta på gång i Storbritannien – temperaturer kan nå 38 grader - Aftonbladet
-- Ukraina trappar upp mot Krim – Ryssland inför tankningsförbud - Dagens Nyheter
-- Kökaos befaras på annandagen - Aftonbladet
-- Här har förskolebarnen redan lärt sig att läsa - GP
-- Stor osäkerhet om stigande hav – ny upptäckt om ”domedagsglaciären” oroar - Dagens Nyheter
+- Samtal mellan USA och Iran har inletts - Västerbottens-Kuriren
+- Röd värmevarning – alkoholförbud i Frankrike - GP
+- Ryska hotet: Kan strunta i krigets lagar • Raseri efter attacken mot Moskva - Expressen
 - Kraftig explosion norr om Växjö – bombskyddet kallades in - SVT Nyheter
-- Lokala vildsvin blir biff på de gamlas lunchtallrik - Dagens Nyheter
-- En död efter villabrand i Svenljunga - Nya Wermlands-Tidningen
-- SMHI: Kan bli årets första värmebölja - Västerbottens-Kuriren
-- Protester mot Kushner-hotell i Albanien - GP
-- Källor: Besked om Starmers framtid till veckan - Corren
+- JUST NU: Jätteköer i midsommartrafiken - Expressen
+- Mika, 54, jagar ryska skuggflottan: ”Lite svettigt” - Aftonbladet
+- Milslång kö – flera olyckor i midsommartrafiken - Dagens Nyheter
+- Villa nedbrunnen – två ungdomar till sjukhus - GP
+- Barn påkörd i Åhus – förd med ambulans till sjukhus - Expressen
+- SMHI: Kan bli årets första värmebölja - Corren
+- Källor: Besked om Starmers framtid till veckan - GP
+- Protester mot Kushner-hotell - Västerbottens-Kuriren
 - ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
-- Trump: ”Hemska vandaler” saboterar dammen - Hufvudstadsbladet – HBL
-- Ericssons avgående vd vill ha ökad svensk invandring - Omni
-- En solklar vinnare när vi testar åtta robotgräsklippare - Expressen
-- Trots avtalet USA-Iran: För lite olja – och för dålig - Dagens PS
-- Expertens varning: Var försiktig i fredslyftet - Dagens industri
-- Katarina trotsar sjukdomen: ”Kul om folk hänger med” - Borås Tidning
+- Flera döda i ryska attacker mot Ukraina - Corren
+- ”Pratar inte om det – vill inte uppfattas woke” - Svenska Dagbladet
+- Nya avgiften – blir dyrare att klicka hem prylar - Expressen
+- Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
+- Elon Musks nya börsraket – så agerade småspararna - EFN
+- LTU-studie: Flöden i vattenkraft påverkar fisk - TV4 Nyheterna
 - Samsung Galaxy Watch Ultra 2 får ny design, men ingen Galaxy Watch 9 Classic – enligt läckta uppgifter - notebookcheck.se
 
 ## World News
@@ -35,8 +35,8 @@ _Updated: 2026-06-21 15:21_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
@@ -44,7 +44,7 @@ _Updated: 2026-06-21 15:21_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
@@ -142,23 +142,23 @@ _Updated: 2026-06-21 15:21_
 
 ## Jordbruk
 
-- Han tror stenhårt på jordbruket - Land.se
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - atl.nu
-- Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
