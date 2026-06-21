@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-21 19:10_
+_Updated: 2026-06-21 21:04_
 
-- Vance says US hopes to ‘transform’ Middle East as Iran talks begin - Politico
-- Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again - NPR
-- Starmer is on the precipice as pressure builds for the UK leader to resign - AP News
-- Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued - Reuters
-- Texas Senators Cruz, Cornyn express concerns over President Trump and VP Vance's Iran deal - CBS News
-- Cambodia cracked down on scams costing Americans billions. It created a new crisis - NPR
-- Obama Center visitors say project symbolic of 'Black excellence,' claim scandal-free legacy while Trump ripped - Fox News
-- Northern Israelis fear Trump’s Lebanon ceasefire will trap them in 'a living hell' - The Jerusalem Post
-- Structural integrity now more of a concern for crews fighting multi-day Boyle Heights warehouse fire - KTLA
+- Trump Vents Growing Frustrations With Reflecting-Pool Problems - WSJ
+- Vance wants to ‘turn over a new leaf’ as US-Iran talks start in Switzerland - Al Jazeera
 - Live updates: Trump threatens Iranian delegation while Vance holds talks with them - CNN
+- Trump piles on Starmer as UK prime minister appears near the exit - politico.eu
+- Structural integrity now more of a concern for crews fighting multi-day Boyle Heights warehouse fire - KTLA
+- Graham on Iran deal: ‘I think it’s going to fail’ - The Hill
+- Texas Senators Cruz, Cornyn express concerns over President Trump and VP Vance's Iran deal - CBS News
+- Nasty upstate Republican primary tests power of Trump endorsement - Gothamist
+- Obama Center visitors say project symbolic of 'Black excellence,' claim scandal-free legacy while Trump ripped - Fox News
+- Rent collections are down in New York — and no one's sure why - Politico
 - Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales - NPR
 - Colombians vote in consequential presidential runoff: "Two very extreme sides" - CBS News
-- Row between Poland and Ukraine over medals intensifies - Euronews
+- Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick - Bloomberg.com
 - IDF captures Hezbollah drone factory and launch site hidden inside south Lebanon mountain - The Times of Israel
 - 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC
-- 'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Yahoo Finance
-- The initial SpaceX frenzy is cooling off — but a new wave of cash is waiting to strike - MarketWatch
-- Investors see Micron earnings as pulse check of AI rally momentum - KSL News
-- Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 - TechCrunch
-- Apple’s Early Prime Day Sale Is Live. We Found the Best Deals on MacBooks, iPads and AirPods - CNET
+- 'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Business Insider
+- Micron Just Crossed $1,000 a Share. Here's the Math on Where It Goes Next. - The Motley Fool
+- When the Trump administration cracks down on Anthropic, who benefits? - TechCrunch
+- Apple to Release These 20 New Products Across Rest of 2026 and 2027 - MacRumors
+- These Early Prime Day Apple Deals Slash Prices on MacBooks, iPads and AirPods - CNET
