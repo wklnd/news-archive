@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-21 12:52_
+_Updated: 2026-06-21 15:21_
 
 ## Top Stories
 
-- Röd värmevarning – alkoholförbud i Frankrike - Omni
-- Villa nedbrunnen – två ungdomar till sjukhus - GP
+- Iran: Det ska diskuteras under mötet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Extrem hetta på gång i Storbritannien – temperaturer kan nå 38 grader - Aftonbladet
 - Ukraina trappar upp mot Krim – Ryssland inför tankningsförbud - Dagens Nyheter
-- Libanon: Sju döda i attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Källor: Besked om Starmers framtid till veckan - Västerbottens-Kuriren
-- Vance i Schweiz – ska möta iransk delegation - GP
+- Kökaos befaras på annandagen - Aftonbladet
+- Här har förskolebarnen redan lärt sig att läsa - GP
+- Stor osäkerhet om stigande hav – ny upptäckt om ”domedagsglaciären” oroar - Dagens Nyheter
 - Kraftig explosion norr om Växjö – bombskyddet kallades in - SVT Nyheter
-- ”Jag såg Stockholm som världens mittpunkt – skäms i dag” - Dagens Nyheter
-- Dramatiskt åskoväder drar in – tusentals blixtar - Västerbottens-Kuriren
-- DN Direkt – Man gripen misstänkt för mordförsök i Nässjö - Dagens Nyheter
-- Trump: ”Hemska vandaler" saboterar dammen - Västerbottens-Kuriren
+- Lokala vildsvin blir biff på de gamlas lunchtallrik - Dagens Nyheter
+- En död efter villabrand i Svenljunga - Nya Wermlands-Tidningen
+- SMHI: Kan bli årets första värmebölja - Västerbottens-Kuriren
+- Protester mot Kushner-hotell i Albanien - GP
+- Källor: Besked om Starmers framtid till veckan - Corren
 - ”Tigern” jagar makten – Colombia kan bli Trumpvänligt - Dagens Nyheter
-- Flera döda i ryska attacker mot Ukraina - Corren
-- Brittiska väljare vill knyta närmare band till EU - Omni
-- Ny tull gör varor från USA och Kina dyrare - Omni
+- Trump: ”Hemska vandaler” saboterar dammen - Hufvudstadsbladet – HBL
+- Ericssons avgående vd vill ha ökad svensk invandring - Omni
 - En solklar vinnare när vi testar åtta robotgräsklippare - Expressen
-- Analytiker: Ekholms eftermäle solkas ner av stort misstag - Affärsvärlden
-- Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
-- Därför bör du inte installera KB5094126 på din dator - PC för Alla
+- Trots avtalet USA-Iran: För lite olja – och för dålig - Dagens PS
+- Expertens varning: Var försiktig i fredslyftet - Dagens industri
 - Katarina trotsar sjukdomen: ”Kul om folk hänger med” - Borås Tidning
+- Samsung Galaxy Watch Ultra 2 får ny design, men ingen Galaxy Watch 9 Classic – enligt läckta uppgifter - notebookcheck.se
 
 ## World News
 
@@ -35,8 +35,8 @@ _Updated: 2026-06-21 12:52_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
@@ -44,9 +44,9 @@ _Updated: 2026-06-21 12:52_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Svenska bolagen kan slå till: ”Vore nästan tjänstefel” - EFN
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -75,21 +75,21 @@ _Updated: 2026-06-21 12:52_
 
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 öppnar upp många nya möjligheter för lokalsamhället. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
@@ -98,23 +98,23 @@ _Updated: 2026-06-21 12:52_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
-- Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Hur gammal blir Trump? Forskare ger sin prognos - Omni
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
@@ -123,22 +123,22 @@ _Updated: 2026-06-21 12:52_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 5 myter om öppen vetenskap - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- AI-forskning om proteiner tilldelas ERC Consolidator Grant - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 
 ## Jordbruk
 
@@ -147,8 +147,8 @@ _Updated: 2026-06-21 12:52_
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - atl.nu
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
