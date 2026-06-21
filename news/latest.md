@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-21 15:24_
+_Updated: 2026-06-21 17:29_
 
 - Vance and Iranian officials arrive in Switzerland to launch talks on Tehran’s nuclear program - AP News
-- Davey Hearn: Former Olympian denies vandalising Washington Reflecting Pool after arrest - BBC
-- Iran says it is closing Strait of Hormuz, testing fragile agreement with U.S. - The Washington Post
-- France bans some outdoor drinking as heat wave threatens Europe - CBS News
-- Report says UK PM Starmer ready to quit, but source says he is still focused on the job - CNBC
+- Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again - NPR
+- Signs grow that Starmer will resign as government mood shifts - BBC
 - Freed from Cambodia's scam compounds, trafficking victims face a new crisis - NPR
-- A Diocese Tries to Protect Its 29-Foot Jesus From Trump’s Border Wall - The New York Times
+- France bans some outdoor drinking as heat wave threatens Europe - CBS News
+- Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed - The Guardian
+- World Cup Visitors in Miami Encounter Beaches Thick With Smelly Seaweed - The New York Times
+- Northern Israelis fear Trump’s Lebanon ceasefire will trap them in 'a living hell' - The Jerusalem Post
+- President Donald Trump to visit Theodore Roosevelt Presidential Library on July 1 - InForum
 - Obama Presidential Center follows widely-mocked 'stolen land' acknowledgment with Native American dance show - Fox News
-- Trump’s Iran deal is a disaster, even if the Strait of Hormuz magically reopens - Yahoo
-- Newsom declares State of Emergency for Boyle Heights warehouse fire - KTLA
-- Polish president strips Zelensky of honor after special forces unit’s renaming - The Washington Post
-- Britain’s battle for Downing Street - The Economist
-- Colombia's brutal internal conflict is defining its presidential election - BBC
+- Colombians to vote in presidential run-off pitting leftist against hardliner - Al Jazeera
+- Russian-occupied Crimea cuts off civilian fuel sales after Ukrainian strikes - politico.eu
+- Zelenskyy returns Poland's highest honor after Polish president revokes it in history dispute - CBS News
 - Are Ukraine drones really exposing gaps in Russia's defense? - DW.com
 - 'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC
+- SpaceX Stock's Biggest Test Isn't Its Post-IPO Drop. It's Coming in Late July. - Yahoo Finance
 - 'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Business Insider
-- Will SpaceX Stock Be Higher or Lower in 1 Year? Here's My Honest Take - Yahoo Finance
-- While the World Scrambles for Oil, China Sits on Full Tanks - The New York Times
+- The national debt's 20-year deadline and baby boomers' spending problem - Fortune
 - Claude Guillemot, Ubisoft Co-Founder, Is Dead After Plane Crash in France - The New York Times
-- Every new iOS 27 feature that’s worth knowing about - TechCrunch
+- Buying a Used iPhone Makes More Sense Than Ever - WIRED
