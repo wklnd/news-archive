@@ -1,68 +1,66 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-22 04:02_
+_Updated: 2026-06-22 10:38_
 
 ## Top Stories
 
-- Nattmangling i förhandlingar mellan USA och Iran - GP
-- Röd värmevarning – alkoholförbud i Frankrike - Omni
-- Oljeutsläpp i Göteborg – fåglar fastnade - SVT Nyheter
-- Flera dödsolyckor i midsommartrafiken - Svenska Dagbladet
-- Två personer döda i trafikolycka utanför Kalix - Norran
-- Dödlig attack mot Ukraina - Västerbottens-Kuriren
-- Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- En död efter villabrand i Svenljunga - Västerbottens-Kuriren
-- SMHI: Kan bli årets första värmebölja - Nya Wermlands-Tidningen
-- Åska och skyfall orsakar tågstörningar mellan Alvesta Göteborg - SVT Nyheter
-- Trumpfavorit går mot valseger i Colombia - GP
-- Storm kring Starmer – Trump spår hans avgång - Corren
-- Direkt – Krisen i Mellanöstern – Katz: Trupperna stannar kvar i Libanon - Dagens Nyheter
-- Stora oron – efter Melonis bråk med Trump • ”Tigger aldrig” - Expressen
-- För lantbrukarna kom Iranavtalet alldeles för sent - Omni
-- DN Direkt – Flera skadade i explosion på fabrik i Qatar - Dagens Nyheter
-- Mikaela och Alex vann på Triss – ”vill köpa hus och bil” - oskarshamns-nytt.se
-- Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
-- Månen behöver egen tidszon - SVT Nyheter
-- AYN Odin 3 och Retroid Pocket 6 får nya programuppdateringar - notebookcheck.se
+- Två döda i amerikansk attack på fartyg i Stilla havet - SVT Nyheter
+- Direkt – Krisen i Mellanöstern – Förhandlingarna mellan USA och Iran avslutade - Dagens Nyheter
+- Minst 54 skadade i explosion i Qatar - GP
+- Extremhetta i Frankrike – skolor stänger - Aftonbladet
+- DN Direkt – Högerkandidaten Espriella går mot valvinst i Colombia - Dagens Nyheter
+- Så ska kaoset vid Åkareplatsen lösas - GP
+- M vill se dubbla straff för våld i nära relation - Västerbottens-Kuriren
+- Flera dödsolyckor i midsommartrafiken - Corren
+- Efter fyra år med Tidöregeringen – så går det för Sverige - Dagens Nyheter
+- Guide: Almedalen 2026 – få koll på veckan - SVT Nyheter
+- Storm kring Starmer – Trump spår hans avgång - GP
+- Ingen ljusning i konflikten mellan Polen och Ukraina - Dagens Nyheter
+- Flera attacker mot Ukraina – dödsfall rapporteras - Västerbottens-Kuriren
+- Arbetsgivare kräver kontorsnärvaro – oro för bakslag bland hemarbetare - Börskollen
+- Arlandas taxfree ofta dyrare än nätet – enligt ny prisjämförelse - märsta.nu
+- DN Direkt – Ung man misshandlad med järnrör i Kungsbacka - Dagens Nyheter
+- Ellos Group avser att notera sina aktier på Nasdaq Stockholm - Cision News
+- Kan man bli brun utan att få cancer och rynkor? - Dagens Nyheter
+- Claude Guillemot, grundare av Ubisoft, död i flygolycka i Frankrike - Aftonbladet
+- Varningen: Dyrare Iphones väntar - Corren
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på ikväll 22:00 - TV.nu
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Ontario city scraps Indian Road in favour of Ojibway name - Global News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SHB lanserar ny global indexfond - EFN
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Final round of World Championship of Public Speaking About to Begin - Via TT
+- WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Kina utökar övervakning i realtid av invånarna - Omni
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -70,6 +68,8 @@ _Updated: 2026-06-22 04:02_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -88,11 +88,11 @@ _Updated: 2026-06-22 04:02_
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -102,15 +102,15 @@ _Updated: 2026-06-22 04:02_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -132,13 +132,13 @@ _Updated: 2026-06-22 04:02_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
 
 ## Jordbruk
 
