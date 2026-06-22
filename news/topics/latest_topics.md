@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-22 00:43_
+_Updated: 2026-06-22 04:02_
 
 ## Top Stories
 
-- Efter Trumps hot – Iran framför protest – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Två döda i trafikolycka i Kalix - Aftonbladet
-- Graham: Tror att Iranavtalet kommer misslyckas - Omni
-- Hon är tv-chefen som skapat uppror bland USA:s stjärnreportrar - Dagens Nyheter
-- Centerpartiet: Släpp fram bussar framför bilar i Göteborg - GP
-- Oljeutsläpp i Göteborg – fåglar fastnade - Aftonbladet
-- Flera dödsolyckor i midsommartrafiken - Corren
+- Nattmangling i förhandlingar mellan USA och Iran - GP
+- Röd värmevarning – alkoholförbud i Frankrike - Omni
+- Oljeutsläpp i Göteborg – fåglar fastnade - SVT Nyheter
+- Flera dödsolyckor i midsommartrafiken - Svenska Dagbladet
+- Två personer döda i trafikolycka utanför Kalix - Norran
+- Dödlig attack mot Ukraina - Västerbottens-Kuriren
 - Just nu: Stopp i ett körfält på grund av en stillastående personbil på E4 - Corren
-- 50-tal sjömän fortsatt kvar på skuggfartygen utanför Skåne - Dagens Nyheter
+- En död efter villabrand i Svenljunga - Västerbottens-Kuriren
 - SMHI: Kan bli årets första värmebölja - Nya Wermlands-Tidningen
-- Presidentvalet i Colombia – snart stänger vallokalerna - SVT Nyheter
-- Ny politisk konflikt mellan Gavin Newsom och Donald Trump - Sveriges Radio
-- Storm kring Starmer – Trump spår hans avgång - GP
-- Värmekupolen ligger som ett lock över Europa – varnar för extrem hetta - Aftonbladet
+- Åska och skyfall orsakar tågstörningar mellan Alvesta Göteborg - SVT Nyheter
+- Trumpfavorit går mot valseger i Colombia - GP
+- Storm kring Starmer – Trump spår hans avgång - Corren
+- Direkt – Krisen i Mellanöstern – Katz: Trupperna stannar kvar i Libanon - Dagens Nyheter
+- Stora oron – efter Melonis bråk med Trump • ”Tigger aldrig” - Expressen
 - För lantbrukarna kom Iranavtalet alldeles för sent - Omni
-- Ericssons avgående vd vill ha ökad svensk invandring - Omni
 - DN Direkt – Flera skadade i explosion på fabrik i Qatar - Dagens Nyheter
 - Mikaela och Alex vann på Triss – ”vill köpa hus och bil” - oskarshamns-nytt.se
+- Avtal lyfte börsen – här är veckans vinnare och förlorare - Dagens industri
 - Månen behöver egen tidszon - SVT Nyheter
-- Midsommar i Prästalund – så mycket tradition det kan bli - Alekuriren
+- AYN Odin 3 och Retroid Pocket 6 får nya programuppdateringar - notebookcheck.se
 
 ## World News
 
@@ -39,28 +39,30 @@ _Updated: 2026-06-22 00:43_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Debatt: Nu måste vi lyfta kvinnors historier - Global Bar Magazine
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SHB lanserar ny global indexfond - EFN
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
 - Final round of World Championship of Public Speaking About to Begin - Via TT
-- WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -68,8 +70,6 @@ _Updated: 2026-06-22 00:43_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -107,22 +107,22 @@ _Updated: 2026-06-22 00:43_
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Hur gammal blir Trump? Forskare ger sin prognos - Omni
 
 ## Science
 
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
@@ -130,8 +130,8 @@ _Updated: 2026-06-22 00:43_
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
