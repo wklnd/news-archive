@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-22 04:07_
+_Updated: 2026-06-22 10:42_
 
-- Live updates: Iran and US make ‘encouraging progress’ in crucial talks, mediators say - CNN
-- After Trump inspects Reflecting Pool, he says repair work will begin 'immediately' - BBC
-- Trump says UK Prime Minister Keir Starmer to resign: 'Failed' - USA Today
-- Boyle Heights Warehouse Fire Spreads Smoke Across Los Angeles - The New York Times
-- France restricts public alcohol consumption and outdoor sports as heat wave bakes parts of Europe - AP News
-- Rightwing populist ‘El Tigre’ wins Colombia election - Financial Times
-- Republicans don’t want to talk about abortion. In these states, they may have to. - Politico
-- A Diocese Tries to Protect Its 29-Foot Jesus From Trump’s Border Wall - The New York Times
-- DACA renewal delays fuel worries Trump is quietly undermining ‘Dreamers’ - Politico
-- Lindsey Graham: 'Obliterate' Iran if there's Strait of Hormuz resistance - USA Today
-- JD Vance holds peace talks with Iran as Trump threatens strikes over Hormuz - The Washington Post
-- Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick - Bloomberg
-- Leading Lebanese conservationist dies after Israeli airstrike on her home - NPR
-- Photo highlights from the International Day of Yoga on the summer solstice - AP News
-- Kevin Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn - Financial Times
+- First round of U.S.-Iran negotiations ends, technical talks will continue after Trump threats shake summit - NBC News
+- Trump’s post that British prime minister ‘will resign’ stuns some in U.K. - The Washington Post
+- Trump says repairs to algae-plagued Reflecting Pool will begin immediately - BBC
+- Who is Abelardo De La Espriella, Colombia's new right-wing president? - Reuters
+- Embattled Superintendent of Los Angeles School District Resigns - The New York Times
+- What to know about the legacy of Brexit, which still divides Britain 10 years on - PBS
+- Firefighters cite progress as Boyle Heights fire burns for fifth day - Los Angeles Times
+- US strike on an alleged drug boat kills 2, leaves 6 survivors, in the eastern Pacific Ocean - AP News
+- China Slaps Restrictions on Dozens of U.S. Companies - WSJ
+- 3 dead after small plane crashes at public park in Maryland - WJLA
+- Moscow shoots down nearly 60 drones; Russian attacks kill five in Ukraine - Reuters
+- 2 young suspects in custody after shooting at high school in Philippines kills 3 - AP News
+- Australian police uncover 3 tons of cocaine - The Seattle Times
+- Australia sells advanced radar technology to Canada in record $1.7 billion deal - Reuters
+- Dow futures drop as first day of US-Iran talks sees Trump threaten Tehran on Hormuz - Fortune
+- Fed Chair Kevin Warsh Just Subtly Threw President Donald Trump and Jerome Powell Under the Bus in His First FOMC Meeting - The Motley Fool
+- When the Trump administration cracks down on Anthropic, who benefits? - TechCrunch
 - What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention. - Business Insider
-- America’s savings rate has plunged - The Economist
-- US Futures Slip, Oil Climbs on Renewed Iran Threat: Markets Wrap - Bloomberg
-- I test TVs for a living, and these are the Prime Day deals I'd wait for - Business Insider
-- Ubisoft co-founder Claude Guillemot dies in plane crash - TechCrunch
+- 'The Numbers Mason' — Call of Duty: Black Ops 1 and 2 Listings Have Fans Fearing Pricey PlayStation Ports - IGN
+- Apple to Release These 20 New Products Across Rest of 2026 and 2027 - MacRumors
