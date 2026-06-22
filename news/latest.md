@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-22 20:34_
+_Updated: 2026-06-22 23:23_
 
-- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
-- Starmer Announces Resignation; Burnham Wins Key Endorsement - The New York Times
-- Supreme Court reinstates murder conviction in case of Etan Patz, missing New York City boy - AP News
+- Starmer says he’ll resign as UK prime minister, roiling British politics yet again - AP News
 - US authorizes Iranian oil sales amid talks on final peace deal - Reuters
-- Live updates: Vance says Iran has agreed to let UN nuclear inspectors back into country - CNN
-- Smoke blankets parts of L.A. after Boyle Heights warehouse fire - NBC News
-- ‘Blatantly unlawful’: Judge blocks DOJ subpoenas aimed at Tim Walz - Politico
-- At least five people arrested in alleged tampering of Reflecting Pool, official says - NBC News
-- Rochester police investigating after 42-year-old man loses hand in stabbing - 13wham.com
+- Trump’s Voting Database Plan Is Unlawful, Judge Rules - Forbes
 - U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
+- U.S.-Iran talks set ‘good foundation’ for deal to end war, Vance says - NBC News
+- A fire at a cold-storage warehouse in Los Angeles has been burning for days. Here’s what we know - CNN
+- Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live - The Guardian
+- Supreme Court reinstates murder conviction in case of Etan Patz, missing New York City boy - AP News
+- Carvalho resigns as LAUSD superintendent amid federal investigation - Los Angeles Times
+- A rising populist tide is threatening New York’s powerful incumbents - Politico
+- Police officer among 2 killed in a Montreal shooting. Suspect is also dead - CNN
 - 2 students in custody after shooting at high school in Philippines kills 3 - NPR
-- Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia - The New York Times
-- Thirteen drown across France as people seek relief from European heatwave - Reuters
-- India says ties with China normalising as top officials meet in Delhi - Reuters
-- Alan Greenspan, most powerful central banker of modern times, dies at 100 - The Washington Post
-- Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates - AP News
-- SpaceX Just Launched Its First Bond Sale. The Stock Market Doesn’t Like It. - Barron's
-- Building-Materials Supplier CRH to Buy Rival Arcosa for $8.5 Billion - WSJ
-- Valve will finally let you build your own Steam Machine with SteamOS for desktop - The Verge
-- Sounds Like a Steal: 40+ Apple, Sony and Bose Deals Are Live With Prime Day Starting Tomorrow - CNET
+- Inside Ukraine’s campaign to turn Russian-occupied Crimea into an 'island' - Euronews.com
+- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
+- Former Federal Reserve Chairman Alan Greenspan dies at 100 - AP News
+- SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance
+- In 6 Words, Fed Chair Kevin Warsh Just Dropped the Hammer on Wall Street - The Motley Fool
+- S&P 500 closes lower as tech stocks slide; SpaceX notches 3-day losing streak: Live updates - CNBC
+- Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet - Ars Technica
+- Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
