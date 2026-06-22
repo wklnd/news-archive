@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-22 16:19_
+_Updated: 2026-06-22 20:34_
 
-- Unloved Starmer quits as UK PM after just two years - Reuters
-- High-level U.S.-Iran talks conclude with a road map for peace, mediators say - The Washington Post
-- Trump-backed populist wins tight Colombia presidential vote, sparking protests - CBS News
-- Trump says repairs to algae-plagued Reflecting Pool will begin immediately - BBC
-- Britain’s economic woes fuel discontent with Brexit a decade after historic vote to leave EU - AP News
-- Alberto Carvalho, Los Angeles schools superintendent, resigns after FBI search and months on paid leave - CNN
+- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
+- Starmer Announces Resignation; Burnham Wins Key Endorsement - The New York Times
+- Supreme Court reinstates murder conviction in case of Etan Patz, missing New York City boy - AP News
+- US authorizes Iranian oil sales amid talks on final peace deal - Reuters
+- Live updates: Vance says Iran has agreed to let UN nuclear inspectors back into country - CNN
 - Smoke blankets parts of L.A. after Boyle Heights warehouse fire - NBC News
-- A rising populist tide is threatening New York’s powerful incumbents - Politico
-- China Places Two US Rare Earths Producers on Export Control List - Bloomberg.com
-- Fighter jets intercept aircraft near Hagerstown, Md. - ABC27
-- Temperatures to exceed 40C in European heatwave as three die in France - Reuters
-- Ukraine hits Russia-controlled Crimea in deadly drone attack - dw.com
-- First round of U.S.-Iran negotiations ends and U.K. PM resigns: Morning Rundown - NBC News
-- Australian police uncover 3 tons of cocaine - NPR
-- Chevron to fuel massive Microsoft data center in Texas with natural gas - CNBC
-- UPS to invest $48 million in temperature-controlled facilities amid healthcare boom - CNBC
-- GE Vernova Supplier Soars After $8.5 Billion Sale To CRH - Investor's Business Daily
-- Getty Images Soars 200% in Early Trading After OpenAI Deal - Bloomberg.com
-- Wyze’s new smart scale can break down your body composition for less than $80 - The Verge
-- I left a Google job I loved. It was scary to leave, but even scarier to stay. - Business Insider
+- ‘Blatantly unlawful’: Judge blocks DOJ subpoenas aimed at Tim Walz - Politico
+- At least five people arrested in alleged tampering of Reflecting Pool, official says - NBC News
+- Rochester police investigating after 42-year-old man loses hand in stabbing - 13wham.com
+- U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
+- 2 students in custody after shooting at high school in Philippines kills 3 - NPR
+- Ukraine Escalates Crimea Attacks, Creating a New Pressure Point for Russia - The New York Times
+- Thirteen drown across France as people seek relief from European heatwave - Reuters
+- India says ties with China normalising as top officials meet in Delhi - Reuters
+- Alan Greenspan, most powerful central banker of modern times, dies at 100 - The Washington Post
+- Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates - AP News
+- SpaceX Just Launched Its First Bond Sale. The Stock Market Doesn’t Like It. - Barron's
+- Building-Materials Supplier CRH to Buy Rival Arcosa for $8.5 Billion - WSJ
+- Valve will finally let you build your own Steam Machine with SteamOS for desktop - The Verge
+- Sounds Like a Steal: 40+ Apple, Sony and Bose Deals Are Live With Prime Day Starting Tomorrow - CNET
