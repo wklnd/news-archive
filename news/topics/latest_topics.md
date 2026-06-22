@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-22 10:38_
+_Updated: 2026-06-22 17:04_
 
 ## Top Stories
 
-- Två döda i amerikansk attack på fartyg i Stilla havet - SVT Nyheter
-- Direkt – Krisen i Mellanöstern – Förhandlingarna mellan USA och Iran avslutade - Dagens Nyheter
-- Minst 54 skadade i explosion i Qatar - GP
-- Extremhetta i Frankrike – skolor stänger - Aftonbladet
-- DN Direkt – Högerkandidaten Espriella går mot valvinst i Colombia - Dagens Nyheter
-- Så ska kaoset vid Åkareplatsen lösas - GP
-- M vill se dubbla straff för våld i nära relation - Västerbottens-Kuriren
-- Flera dödsolyckor i midsommartrafiken - Corren
-- Efter fyra år med Tidöregeringen – så går det för Sverige - Dagens Nyheter
-- Guide: Almedalen 2026 – få koll på veckan - SVT Nyheter
-- Storm kring Starmer – Trump spår hans avgång - GP
-- Ingen ljusning i konflikten mellan Polen och Ukraina - Dagens Nyheter
-- Flera attacker mot Ukraina – dödsfall rapporteras - Västerbottens-Kuriren
-- Arbetsgivare kräver kontorsnärvaro – oro för bakslag bland hemarbetare - Börskollen
-- Arlandas taxfree ofta dyrare än nätet – enligt ny prisjämförelse - märsta.nu
-- DN Direkt – Ung man misshandlad med järnrör i Kungsbacka - Dagens Nyheter
+- Ebba Busch varnar: Valet är i fara för Tidöregeringen - Dagens Nyheter
+- SMHI varnar för höga temperaturer i Värmland - Sveriges Radio
+- Skolor stängs under franska värmeböljan - Västerbottens-Kuriren
+- Keir Starmer avgår som Storbritanniens premiärminister - SVT Nyheter
+- M vill se dubbla straff för våld i nära relation - Corren
+- Över 1 000 ebolafall i Kongo-Kinshasa - Aftonbladet
+- Flera badgäster drabbade av badklåda i Gränna – kommunen varnar - SVT Nyheter
+- Efter sju år – döms för mordförsök med machete - Göteborgs-Posten
+- Tomas Ramberg: Kan Tidöpartierna hitta sitt hjärta i Almedalen? - Dagens Nyheter
+- Tidö skrotar förslaget på Netflix-skatt - Göteborgs-Posten
+- Direkt – Krisen i Mellanöstern – Netanyahu: Behåller ”säkerhetszon” i Libanon - Dagens Nyheter
+- ”Tigern” utropar sig till segrare i presidentvalet i Colombia - Dagens Nyheter
+- Ukraina: Tre mördade i familj i Sumy - strömavbrott, utegångsförbud och stopp för fossila bränslen och färjetrafik på ockuperade Krym - Cornucopia?
+- Fusket i USA-valet: Pengar från ”vänsterdonatorer” kom egentligen från högern - Dagens Nyheter
+- Afv avslöjar: Polisanmälda grundaren i storaffär med bolagets ordförande - Affärsvärlden
+- DN Direkt – Två barn hittade döda i bil i Frankrike - Dagens Nyheter
 - Ellos Group avser att notera sina aktier på Nasdaq Stockholm - Cision News
+- Prevas: Växer med försvaret - Affärsvärlden
 - Kan man bli brun utan att få cancer och rynkor? - Dagens Nyheter
-- Claude Guillemot, grundare av Ubisoft, död i flygolycka i Frankrike - Aftonbladet
-- Varningen: Dyrare Iphones väntar - Corren
+- Apple-chefen om höjda Iphone-priser: ”Situationen har blivit okontrollerbar” - Ny Teknik
 
 ## World News
 
 - LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på ikväll 22:00 - TV.nu
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
@@ -63,8 +63,8 @@ _Updated: 2026-06-22 10:38_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -73,26 +73,26 @@ _Updated: 2026-06-22 10:38_
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -100,13 +100,13 @@ _Updated: 2026-06-22 10:38_
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
-- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - GP
+- DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -123,11 +123,11 @@ _Updated: 2026-06-22 10:38_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 5 myter om öppen vetenskap - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -135,26 +135,26 @@ _Updated: 2026-06-22 10:38_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- SciLifeLab Science Summit; Cancer research: translating life science discoveries to clinical breakthroughs - Uppsala universitet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 
 ## Jordbruk
 
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Så ska det australiensiska jordbruket bli hållbart - atl.nu
+- Här är världens största jordbruk - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
