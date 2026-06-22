@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-22 23:23_
+_Updated: 2026-06-23 01:05_
 
-- Starmer says he’ll resign as UK prime minister, roiling British politics yet again - AP News
+- Who is Andy Burnham, the man likely to replace British Prime Minister Keir Starmer after his resignation? - CBS News
 - US authorizes Iranian oil sales amid talks on final peace deal - Reuters
-- Trump’s Voting Database Plan Is Unlawful, Judge Rules - Forbes
-- U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
-- U.S.-Iran talks set ‘good foundation’ for deal to end war, Vance says - NBC News
+- Judge blocks use of federal database to check citizenship, saying it could wrongly purge voters - AP News
+- Vance says Iran agrees to nuclear inspections, as under Obama deal - The Washington Post
+- Congress is on the brink of a rare bipartisan victory: From the Politics Desk - NBC News
 - A fire at a cold-storage warehouse in Los Angeles has been burning for days. Here’s what we know - CNN
-- Federal judge blocks Trump administration efforts to subpoena Minnesota governor Tim Walz and others – live - The Guardian
-- Supreme Court reinstates murder conviction in case of Etan Patz, missing New York City boy - AP News
-- Carvalho resigns as LAUSD superintendent amid federal investigation - Los Angeles Times
-- A rising populist tide is threatening New York’s powerful incumbents - Politico
-- Police officer among 2 killed in a Montreal shooting. Suspect is also dead - CNN
-- 2 students in custody after shooting at high school in Philippines kills 3 - NPR
-- Inside Ukraine’s campaign to turn Russian-occupied Crimea into an 'island' - Euronews.com
-- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
+- Federal judge rejects DOJ subpoenas issued to Gov. Walz, Minneapolis mayor - The Washington Post
+- LAUSD Superintendent Alberto Carvalho resigns amid FBI investigation - CBS News
+- Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died, sources say - ABC15 Arizona
+- Federal Probe Finds Surfside Collapse Started Three Weeks Before Final Breakdown - WSJ
+- Montreal shooting leaves officer, civilian and suspect dead - BBC
+- Andy Burnham on course to be British PM in weeks after Keir Starmer quits - politico.eu
+- At least 18 dead in France, including two children in hot car, as Europe bakes - Reuters
+- Iran Cites ‘Major Progress’ After All-Night Talks With US - Bloomberg.com
 - Former Federal Reserve Chairman Alan Greenspan dies at 100 - AP News
+- Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation - WSJ
 - SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance
-- In 6 Words, Fed Chair Kevin Warsh Just Dropped the Hammer on Wall Street - The Motley Fool
-- S&P 500 closes lower as tech stocks slide; SpaceX notches 3-day losing streak: Live updates - CNBC
-- Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet - Ars Technica
-- Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+- Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’ - TechCrunch
+- Valve will finally let you build your own Steam Machine with SteamOS for desktop - The Verge
+- The Best Prime Day Deals on AirPods, Apple Watch, AirTag, and More - MacRumors
