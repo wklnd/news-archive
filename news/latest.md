@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-23 03:33_
+_Updated: 2026-06-23 07:50_
 
-- Keir Starmer announces resignation as prime minister and Labour Party leader - BBC
-- US authorizes Iranian oil sales amid talks on final peace deal - Reuters
-- Senate passes landmark housing affordability bill after bipartisan breakthrough - CBS News
-- A federal judge finds a Trump data system to verify voters is unlawful - NPR
-- Note connected to the disappearance of Nancy Guthrie, mother of ‘Today’ show anchor Savannah Guthrie, said she had died - CNN
-- Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war - AP News
-- Trump says five people arrested as he again blames ‘vandals’ for reflecting pool damage without giving evidence – live - The Guardian
-- Federal judge rejects DOJ subpoenas issued to Gov. Walz, Minneapolis mayor - The Washington Post
-- FBI Arrests Two More Men in Washington and Missouri in Connection with Planned Attack on Government Officials at White House UFC event - Department of Justice (.gov)
+- U.S. Temporarily Lifts Oil Sanctions Against Iran, Citing ‘Productive’ Talks - The New York Times
+- Ransom note claimed Nancy Guthrie died after abduction - BBC
+- Judge blocks use of federal database to check citizenship, saying it could wrongly purge voters - AP News
+- Chicago priest tells Trump to 'shut up' and restore gun violence prevention funding after deadly weekend - Fox News
+- 'I like their money': Trump threatens lawsuits against ABC for reporting on Reflecting Pool - CNBC
+- U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
+- Senate passes housing bill to boost affordability, restrain investors - The Washington Post
+- It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold-storage facility? - Los Angeles Times
+- Washington man arrested in alleged plot to attack Trump’s UFC show - OregonLive.com
 - Senate Republicans say it’s time to give Trump a reality check - Politico
-- 2 killed, including police officer, in shooting in Montreal - CBS News
-- Two students arrested after three killed in Philippines school shooting - Al Jazeera
-- What is the Heat Dome Causing Europe’s Record Temperatures? - The New York Times
-- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
-- Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 - Reuters
-- Tesla crash that killed a woman under US federal investigation - BBC
+- Police officer, civilian and gunman dead in Montreal shooting - NBC News
+- Keir Starmer announces resignation as prime minister and Labour Party leader - BBC
+- Marcos wants campus security tightened after Leyte attack - Inquirer.net
+- Trump issues stark warning to Iran as Tehran credits Swiss talks with preventing Lebanon bloodshed - Fox News
+- Tesla pushes back on Autopilot narrative after fatal Texas crash - TechCrunch
 - SpaceX stock tumbles 23% from its high, as average investor sees gains wiped out - NBC News
-- Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's
+- Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 - Reuters
+- Asia shares slip as markets reprice Fed expectations, oil gains - Reuters
 - Here’s how you can reserve a Steam Machine - The Verge
 - Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
