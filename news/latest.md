@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-23 18:13_
+_Updated: 2026-06-23 20:29_
 
 - Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
 - Supreme Court rules against Rastafarian man over religious rights claim against prison officials - NBC News
 - France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera
-- Zohran Mamdani’s influence over Democrats put to the test, and other things to watch in Tuesday’s elections - CNN
+- 5 things to watch for New York's primary day - Politico
 - Ransom note claimed Nancy Guthrie died after abduction - BBC
-- Exclusive: Downed US pilot reported seeing Iranian drones swarm in ‘jellyfish’ formation - CNN
-- It’s not easy being green: Trump’s botched reflecting pool becomes 2,028ft metaphor - The Guardian
-- What to know about a cold storage warehouse fire in Los Angeles - NPR
-- $50 Million Spent on N.Y. Primaries Includes A.I. and AIPAC Money - The New York Times
+- Rep. Dan Goldman addresses Brooklyn coffee shop banning him over his views on Israel - CNN
+- Judge rules government can’t stop SNAP dollars from buying candy and sugary drinks - AP News
 - Gunman in deadly California library shooting wanted to do Columbine-style massacre, police say - Los Angeles Times
-- 10 years after Brexit, Keir Starmer’s resignation highlights Britain’s deeper issues - NBC News
-- Brexit 10 years later: How the UK economy and politics changed, in charts - CNBC
+- It’s not easy being green: Trump’s botched reflecting pool becomes 2,028ft metaphor - The Guardian
+- Trump administration can expand fast-track deportation process, US appeals court rules - Reuters
+- 10 years after "Brexit" vote, majority of Britons say leaving European Union was a mistake - CBS News
 - Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News
-- ‘Nightmare’ shooting in Montreal leaves three dead including police officer and bystander - The Guardian
-- S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates - CNBC
-- SpaceX stock dips below $150 before rebounding - Yahoo Finance
-- Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators - The New York Times
-- When falling housing prices are good news — and when they're not : Planet Money - NPR
-- Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
-- Valve’s Steam Machine Echoes The Nintendo 3DS Display Chaos, But Its RAM Lottery Risks Aging The System Far Faster - Wccftech
+- Afghan Taliban hold first, closed-door talks with EU on deportations - AP News
+- Gunman kills an officer at a Montreal hotel before being shot dead, police say - NPR
+- S&P 500 falls on global chip rout with Nasdaq off more than 1%, led by Micron: Live updates - CNBC
+- Trump administration announces $17.5 billion in loans for 10 new large nuclear reactors - AP News
+- Walmart to Acquire Vibe.co to Expand Access to Connected TV Advertising - Walmart
+- The best Amazon Prime Day 2026 deals we found - WTAE
+- Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC
+- Valve Confirms Steam Machine Will Cost Over $1,000. Here's How to Buy One - PCMag
