@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-23 23:14_
+_Updated: 2026-06-24 00:46_
 
 ## Top Stories
 
 - Värmeböljan härjar: här är expertens tips inför Europa-semestern - Göteborgs-Posten
-- Experten om värmeböljan: ”Blir allt vanligare” - Sveriges Radio
 - Ukraina fortsätter strategin – att skärma av Krim: ”Börjar bli allvarligt” - Dagens Nyheter
-- Katja Nybergs svar om snortröret: Massa saker jag undrar - Aftonbladet
 - Jesper Sundén: Mötet för Vance: ”Förödmjukelse” - Svenska Dagbladet
-- FN evakuerar 11 000 sjömän i Gulfen - Expressen
-- Så bra var Simona Mohamssons tal i Almedalen - Göteborgs-Posten
+- Katja Nybergs svar om snortröret: Massa saker jag undrar - Aftonbladet
+- Livshotande skadad efter knivskärning på stadsbuss - Expressen
+- Experten om värmeböljan: ”Blir allt vanligare” - Sveriges Radio
+- Simona Mohamssons tal i Almedalen 2026 - Liberalerna
 - Här är badplatserna i Stockholm du bör undvika - Dagens Nyheter
-- Livshotande skador efter bråk på buss i Malmö - Västerbottens-Kuriren
-- Till slut valde Ebba Busch ändå kulturkriget - Dagens Arena
-- Danmark skickar värnpliktiga till Grönland - Göteborgs-Posten
-- Utredare: Israel riktar in sig på Gazas barn - Hufvudstadsbladet – HBL
-- SVT:s reporter varnades av nationalgardet – väcker reaktioner i USA - SVT Nyheter
-- Analyser: Brexit slösades bort av män utan plan - Omni
+- Arne Larsson Valet i fara – då byter Busch och Mohamsson taktik - Göteborgs-Posten
+- Talibanerna på väg till Bryssel – på svenskt initiativ - Dagens Nyheter
+- Danmark skickar beväringar till Grönland - Hufvudstadsbladet – HBL
+- Källor: Starmer och Burnham i frostigt möte - Göteborgs-Posten
+- Irans president i Pakistan för samtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- FN-kommission anklagar Israel för avsiktliga attacker mot palestinska barn - Göteborgs-Posten
 - Tyskland förnyas – med svenska modellen - Svenska Dagbladet
 - Teknikaktier pressar Wall Street – svag dag för börsens storbolag - Börskollen
 - Värsting-ETF:er ifrågasätts i AI-raset: ”Blir till en orkan” - EFN
-- Dollarn stärks på hökaktigt Fed: ”Kan fortsätta” - Omni
+- ECB:s varning: Inflationen kan ligga över målet länge - Omni
 - Steam machine dubbelt så dyr som konkurrenterna - Aftonbladet
 - Hon simulerar dvärggalaxer för att kasta ljus över mörk materia - Knut och Alice Wallenbergs Stiftelse
 
@@ -58,15 +58,15 @@ _Updated: 2026-06-23 23:14_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Kina utökar övervakning i realtid av invånarna - Omni
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -99,10 +99,10 @@ _Updated: 2026-06-23 23:14_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -129,8 +129,8 @@ _Updated: 2026-06-23 23:14_
 - Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Olika slutsatser från samma data - Läkartidningen
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
@@ -153,10 +153,10 @@ _Updated: 2026-06-23 23:14_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Här är världens största jordbruk - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
