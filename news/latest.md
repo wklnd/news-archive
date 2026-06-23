@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-23 12:22_
+_Updated: 2026-06-23 15:29_
 
+- Nancy Guthrie case: Second note sent to media outlets said she had died - NBC News
 - Democrats' Jeffries and Mamdani wings face off in New York - Axios
-- Ransom note claimed Nancy Guthrie died after abduction - BBC
-- U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran - CNBC
-- Judge blocks use of federal database to check citizenship, saying it could wrongly purge voters - AP News
-- A dead duck was seen in the Reflecting Pool. Then two more were found nearby. - The Washington Post
-- New images show what’s behind the tarp at the Kennedy Center - CNN
+- Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+- France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera
+- It’s not easy being green: Trump’s botched reflecting pool becomes 2,028ft metaphor - The Guardian
+- What to know about a cold storage warehouse fire in Los Angeles - NPR
+- Charlie Kirk assassination suspect's lawyers mirror notorious killer's tactical delay strategy: fmr prosecutor - Fox News
+- Vance says Iran agrees to nuclear inspections, as under Obama deal - The Washington Post
+- U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful - NPR
 - Senate passes a bipartisan housing bill aimed at increasing supply and lowering prices - AP News
-- 2 dead, child injured after gunman opens fire inside California library - KTLA
-- Authorities arrest 2 more suspects in planned attack on Trump's UFC show - NPR
-- U.S.-Iran Updates: Vance says Iran to let international nuclear inspections resume after "good day" of talks - CBS News
-- How Brexit broke British politics - AP News
-- Who is Andy Burnham, U.K.’s ‘King of the North’ and likely next prime minister? - The Washington Post
-- Police officer, civilian and gunman dead in Montreal shooting - NBC News
-- Trump issues stark warning to Iran as Tehran credits Swiss talks with preventing Lebanon bloodshed - Fox News
-- Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 - Reuters
-- US watchdog opens probe after Tesla crashes into Texas home, killing woman - Al Jazeera
-- S&P 500 futures decline after tech sell-off drags down broad market index; South Korea's Kospi falls over 6%: Live updates - CNBC
-- Micron Stock Dives After Memory Chip Rivals SK Hynix, Samsung Tumble in KOSPI Selloff - Barron's
-- Valve's Steam Machine Costs Between $1,049 And $1,428, The Option To Sign Up For Potential Reservations Opens Today - Game Informer
-- Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications - Samsung
+- 10 years after Brexit, Starmer’s resignation highlights Britain’s deeper issues - NBC News
+- Gunman kills an officer at a Montreal hotel before being shot dead, police say - NPR
+- ‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah - CNN
+- Iran’s President Pezeshkian lands in Pakistan after US deal - Al Jazeera
+- Nasdaq futures tumble led by tech stocks as Micron drops 9%; South Korea's Kospi falls 10%: Live updates - CNBC
+- 1 person killed as Tesla on autopilot crashes through Texas home - NBC News
+- Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock - Fortune
+- When falling housing prices are good news — and when they're not : Planet Money - NPR
+- Prime Day is here: We found 50+ deals to shop - Mashable
+- Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables - CNBC
