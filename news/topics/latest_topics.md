@@ -1,52 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-23 10:42_
+_Updated: 2026-06-23 14:20_
 
 ## Top Stories
 
-- KD ökar – men M backar: ”Tiden börjar rinna ut” - Aftonbladet
-- Elmer skulle duscha – då kom över­svämningen: ”Gick så otroligt fort” - Aftonbladet
-- Man misshandlad vid badplats av flera personer - Sveriges Radio
-- Talibanerna på väg till Bryssel – på svenskt initiativ - Dagens Nyheter
-- Ledare: Sju premiärministrar sedan brexit säger det mesta - Omni
-- Så påverkar värmeböljan populära turistorterna - Göteborgs-Posten
-- Östrogenbristen har en förklaring – i Sverige - Svenska Dagbladet
-- DN Direkt – Utländska bidrag till trossamfund ska kunna stoppas - Dagens Nyheter
-- Utgav sig vara polis – lurade kvinna på smycken - SVT Nyheter
-- Mördarsnigelns framfart avgörs kommande veckor - UNT
-- Flera skadade efter ryska attacker - Västerbottens-Kuriren
-- Valjakt i gång igen på Island – första på två år - Göteborgs-Posten
-- Risken för ett handelskrig mellan Kina och EU oroar många - Sveriges Radio
-- Vance i samtal med Libanons president - Corren
-- Teknikfrossa skakar börserna – handelsstopp i Sydkorea - Placera.se
-- Elbilsförsäljningen gasar i EU - Dagens industri
-- SpaceX föll tvåsiffrigt på Wall Street - Affärsvärlden
-- Höjt bolånetak förändrar spelplanen – fler unga kan köpa sin första bostad - sbab.se
-- Abera Bioscience publicerar vetenskaplig artikel i Vaccine som visar starkt skydd av intranasal influensavaccinkandidat - Cision News
-- Steam Machine släpps 29 juni och kostar 1 049 euro - FZ.se
-
-## World News
-
-- Trump: Krigsmålen trumfar en global depression - Omni
-- Börsen öppnar på rött efter global teknikfrossa - Dagens industri
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Final round of World Championship of Public Speaking About to Begin - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Så bra var Ebba Buschs tal i Almedalen - Göteborgs-Posten
+- Mamma och dotter skadades allvarligt – man döms till livstid - Aftonbladet
+- Värmeböljan fortsätter att plåga Europa - Västerbottens-Kuriren
+- Sabotagen ökar i Europa – ”befinner oss i konflikt med Ryssland” - Dagens Nyheter
+- Ukrainas varning till FN: Begränsat tålamod - Dagens Nyheter
+- Industrisemestern startar – då laddar Sveriges största partier upp - Aftonbladet
+- Forssmed (KD): Så ökar vi tillgången till östrogenläkemedel - Aftonbladet
+- Karusell stoppad på Parken Zoo efter nackskada - Västerbottens-Kuriren
+- Ivos analys: Saknas ett helhetsansvar för äldres vård - Dagens Medicin
+- Två män åtalas för hot – kopplas till nazistiska Aktivklubb - Dagens Nyheter
+- Utredare: Israel riktar in sig på Gazas barn - Hufvudstadsbladet – HBL
+- Spansk tidigare minister döms till fängelse - Västerbottens-Kuriren
+- Iran: Avtal klart om tolv miljarder i frysta tillgångar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vance: Samtalen har lagt en bra grund - Corren
+- Handelsbanken ser över 50 procents uppsida i Octave på 'försiktiga prognoser' - Placera.se
+- Börsen faller över en procent - Göteborgs-Posten
+- Elbilarna klättrar i EU - Tidningen Näringslivet
+- Svenskgrundat bolag pekas ut som boven bakom Space X ras - Dagens industri
+- Microsoft täpper till allvarliga sårbarheter i Autogen Studio - Computer Sweden
+- Steam machine dubbelt så dyr som konkurrenterna - Aftonbladet
 
 ## Technology
 
@@ -78,21 +55,21 @@ _Updated: 2026-06-23 10:42_
 - Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - tv4.se
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -114,8 +91,8 @@ _Updated: 2026-06-23 10:42_
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Hur gammal blir Trump? Forskare ger sin prognos - Omni
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
+- Hur gammal blir Trump? Forskare ger sin prognos - Omni
 
 ## Science
 
@@ -142,23 +119,23 @@ _Updated: 2026-06-23 10:42_
 
 ## Jordbruk
 
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbrukspolitik - Naturvårdsverket
+- Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Här är världens största jordbruk - atl.nu
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Så påverkar torkan svenskt lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
