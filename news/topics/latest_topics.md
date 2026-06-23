@@ -1,34 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-23 01:50_
+_Updated: 2026-06-23 06:41_
 
 ## Top Stories
 
-- Så påverkar värmeböljan populära turistorterna - Göteborgs-Posten
-- Tomas Ramberg: KD instängda i en allt trängre Tidöbur - Dagens Nyheter
-- Då kan Sverige få extremvärme: ”Inte det här seklet” - Sveriges Radio
-- Attacker mot Ukraina – flera dödsfall - Västerbottens-Kuriren
-- Tre döda efter skottlossning i Montreal - Västerbottens-Kuriren
-- Henrik Brandão Jönsson: Colombia har fått sin egen Trump - Dagens Nyheter
-- Alvesta kommun lex Sarah-anmäler sig själv efter misstänkt mordförsök på två barn - SVT Nyheter
+- Flera skadade efter ryska attacker - Göteborgs-Posten
+- Värmebölja i Europa – två barn hittade döda i bil - Västerbottens-Kuriren
+- KD ökar – men M backar: ”Tiden börjar rinna ut” - Aftonbladet
+- Säpo: Iran använder svenska kriminella nätverk - Sveriges Radio
+- USA pausar sanktioner på iransk olja - Västerbottens-Kuriren
+- Stigande hav kan tvinga skärgårdsborna på reträtt – ”Händer det här verkligen oss?” - Dagens Nyheter
 - Två män åtalas för hot – kopplas till nazistiska Aktivklubb - Dagens Nyheter
+- Då kommer värmen till Göteborg - Göteborgs-Posten
+- Moderaternas tre huvudlöften inför valet - Västerbottens-Kuriren
 - Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
-- Almedalsveckan drar i gång: ”Jag brukar tappa rösten” - Dagens Nyheter
-- Iran: Avtal klart om tolv miljarder i frysta tillgångar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Giftig fisk hotar badgäster vid Medelhavet – kan bita av fingrar och tår - Dagens Nyheter
-- Miljardnota för förstörelsen i Libanon - Västerbottens-Kuriren
-- DN Direkt – Trump frustrerad – fem gripna för vandalisering av poolen - Dagens Nyheter
-- Greenspan gjorde penningpolitik till psykologi - Dagens industri
+- Direkt – Krisen i Mellanöstern – Iran: Avtal klart om att frigöra 12 miljarder - Dagens Nyheter
+- Vance i samtal med Libanons president - Västerbottens-Kuriren
+- Valjakt i gång igen på Island – första på två år - Hufvudstadsbladet – HBL
+- Indien tvingar migranter tillbaka till Bangladesh - Sveriges Radio
+- ”Vad händer med stugan vi delar om min bror dör?” - Dagens Nyheter
+- Irankriget har förintat Gulfstaternas makt över världsekonomin - e55.se
 - Ellos plan efter noteringen – vill bli folkaktie på börsen - Omni
 - Börsen repade lite mod – oljepriset föll - Göteborgs-Posten
-- Wall Street mot plusöppning – Space X faller i förhandeln - EFN
-- Spelmedier har åsikter om Steam Machine. Är Valves nya hårdvara något att ha? - feber.se
+- Steam Machine släpps 29 juni och kostar 1 049 euro - FZ.se
 - Ubisofts grundare Claude Guillemot död i flygolycka - Aftonbladet
 
 ## World News
 
 - Trump: Krigsmålen trumfar en global depression - Omni
-- LIVE - GT World Challenge Asia 2025 Powered by AWS, Shanghai International Circuit, China på ikväll 22:00 - TV.nu
+- IEA: Irankriget kan driva på global elektrifiering - Dagens industri
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
@@ -39,29 +40,28 @@ _Updated: 2026-06-23 01:50_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- WPP samlar produktion i ny global enhet - Dagens Media
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- WPP samlar produktion i ny global enhet - Dagens Media
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -86,13 +86,13 @@ _Updated: 2026-06-23 01:50_
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -104,27 +104,27 @@ _Updated: 2026-06-23 01:50_
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - Vi presenterar HealthBench - OpenAI
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Hanoi Medical Universitys projekt för äldreomsorg - Vietnam.vn
 - Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
-- Magisterprogram i arbetsliv och hälsa - Umeå universitet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
 
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 5 myter om öppen vetenskap - Läkartidningen
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
@@ -132,13 +132,13 @@ _Updated: 2026-06-23 01:50_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
