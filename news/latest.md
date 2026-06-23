@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-23 22:54_
+_Updated: 2026-06-24 00:50_
 
-- Senate votes to limit Trump’s Iran war powers in rare rebuke - CNN
-- It’s not easy being green: Trump’s botched reflecting pool becomes 2,028ft metaphor - The Guardian
-- France records hottest-ever night as 40 drown trying to escape heatwave - Al Jazeera
+- US Senate votes to pass Iran war powers resolution in blow to Trump - Al Jazeera
+- Troubled Reflecting Pool faces fresh scrutiny over vandalism claims and duck deaths - AP News
 - Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect - CNBC
-- Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack - The New York Times
-- US and Iran dispute whether Tehran has agreed to nuclear inspections - AP News
-- New York’s primary went from celebrity contest to AI proxy war. See live election results. - The Washington Post
-- Supreme Court rules against Rastafarian man over religious rights claim against prison officials - NBC News
-- 18-year-old suspect in custody after Chico library shooting, police say - KRCR
-- Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency says - Reuters
-- EU hosts Taliban officials for the first time in talks on deportations - Al Jazeera
-- 10 years after Brexit, Keir Starmer’s resignation highlights Britain’s deeper issues - NBC News
+- UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls - BBC
+- Leader of group convicted in antifa-inspired attack on Texas ICE facility handed 100-year prison sentence - CBS News
+- Supreme Court lets Michigan family fight foreclosure in equity theft case - USA Today
+- Pulte’s first days in office set off alarms with lawmakers - The Hill
+- 6abc is warning viewers about the FCC taking away its TV license. Here’s what’s going on. - Inquirer.com
+- Appeals court allows Trump to fast-track deportation process nationwide - The Guardian
+- Victims in Butte County Library shooting in Chico are identified; police responded within 2 minutes - KCRA
+- 40 people drown as France seeks relief from record heat - The Washington Post
+- Russia Pressures Belarus in Bid to Open New Front in Ukraine War - WSJ
+- Trump's America gets global side-eye - Axios
 - Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News
-- Trump's America faces global side-eye - Axios
-- S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates - CNBC
+- Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets - CNBC
+- FedEx posts strong earnings results in last quarter with freight business - CNBC
 - US announces $17.5 billion in loans for nuclear power supply chain - Reuters
-- SpaceX Draws $89 Billion Demand for Debut High-Grade Bond Sale - Bloomberg
-- Micron Stock Falls 14% After Memory Chip Rivals SK Hynix, Samsung Tumble in KOSPI Selloff - Barron's
+- Computer wars heat up as Chinese supercomputer tops all US machines in speed for first time since 2017 - Fox Business
 - Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
-- Want to go big for Prime Day? 100-inch Hisense TVs are $2,000 off - USA Today
+- "This is going to be a niche device" – Analysts react to the $1,000+ Steam Machine price reveal - GamesIndustry.biz
