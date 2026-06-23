@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-23 01:05_
+_Updated: 2026-06-23 03:33_
 
-- Who is Andy Burnham, the man likely to replace British Prime Minister Keir Starmer after his resignation? - CBS News
+- Keir Starmer announces resignation as prime minister and Labour Party leader - BBC
 - US authorizes Iranian oil sales amid talks on final peace deal - Reuters
-- Judge blocks use of federal database to check citizenship, saying it could wrongly purge voters - AP News
-- Vance says Iran agrees to nuclear inspections, as under Obama deal - The Washington Post
-- Congress is on the brink of a rare bipartisan victory: From the Politics Desk - NBC News
-- A fire at a cold-storage warehouse in Los Angeles has been burning for days. Here’s what we know - CNN
+- Senate passes landmark housing affordability bill after bipartisan breakthrough - CBS News
+- A federal judge finds a Trump data system to verify voters is unlawful - NPR
+- Note connected to the disappearance of Nancy Guthrie, mother of ‘Today’ show anchor Savannah Guthrie, said she had died - CNN
+- Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war - AP News
+- Trump says five people arrested as he again blames ‘vandals’ for reflecting pool damage without giving evidence – live - The Guardian
 - Federal judge rejects DOJ subpoenas issued to Gov. Walz, Minneapolis mayor - The Washington Post
-- LAUSD Superintendent Alberto Carvalho resigns amid FBI investigation - CBS News
-- Nancy Guthrie abduction: 2nd ransom note sent to Tucson TV station said she died, sources say - ABC15 Arizona
-- Federal Probe Finds Surfside Collapse Started Three Weeks Before Final Breakdown - WSJ
-- Montreal shooting leaves officer, civilian and suspect dead - BBC
-- Andy Burnham on course to be British PM in weeks after Keir Starmer quits - politico.eu
-- At least 18 dead in France, including two children in hot car, as Europe bakes - Reuters
-- Iran Cites ‘Major Progress’ After All-Night Talks With US - Bloomberg.com
-- Former Federal Reserve Chairman Alan Greenspan dies at 100 - AP News
-- Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation - WSJ
-- SpaceX stock tumbles 16.4%, shaving off most IPO gains since debut - Yahoo Finance
-- Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’ - TechCrunch
-- Valve will finally let you build your own Steam Machine with SteamOS for desktop - The Verge
-- The Best Prime Day Deals on AirPods, Apple Watch, AirTag, and More - MacRumors
+- FBI Arrests Two More Men in Washington and Missouri in Connection with Planned Attack on Government Officials at White House UFC event - Department of Justice (.gov)
+- Senate Republicans say it’s time to give Trump a reality check - Politico
+- 2 killed, including police officer, in shooting in Montreal - CBS News
+- Two students arrested after three killed in Philippines school shooting - Al Jazeera
+- What is the Heat Dome Causing Europe’s Record Temperatures? - The New York Times
+- Iran-US peace talks show ‘encouraging progress,’ say mediators - politico.eu
+- Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 - Reuters
+- Tesla crash that killed a woman under US federal investigation - BBC
+- SpaceX stock tumbles 23% from its high, as average investor sees gains wiped out - NBC News
+- Alphabet Stock Tumbles as Google’s DeepMind Loses Nobel Prize Winner to Anthropic - Barron's
+- Here’s how you can reserve a Steam Machine - The Verge
+- Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
