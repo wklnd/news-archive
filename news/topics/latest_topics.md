@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-23 21:26_
+_Updated: 2026-06-23 23:14_
 
 ## Top Stories
 
 - Värmeböljan härjar: här är expertens tips inför Europa-semestern - Göteborgs-Posten
-- Pojke knivskadad på buss i Malmö – tonåringar gripen - Aftonbladet
-- Värmeböljan på väg hit – gul varning utfärdad - Omni
-- Arne Larsson Valet i fara – då byter Busch och Mohamsson taktik - Göteborgs-Posten
+- Experten om värmeböljan: ”Blir allt vanligare” - Sveriges Radio
 - Ukraina fortsätter strategin – att skärma av Krim: ”Börjar bli allvarligt” - Dagens Nyheter
-- Katja Nyberg anmäler åklagaren: ”Felaktigt” - Expressen
+- Katja Nybergs svar om snortröret: Massa saker jag undrar - Aftonbladet
+- Jesper Sundén: Mötet för Vance: ”Förödmjukelse” - Svenska Dagbladet
+- FN evakuerar 11 000 sjömän i Gulfen - Expressen
 - Så bra var Simona Mohamssons tal i Almedalen - Göteborgs-Posten
 - Här är badplatserna i Stockholm du bör undvika - Dagens Nyheter
-- En död i fyrhjulingsolycka på midsommar - Expressen
-- L ett otänkbart alternativ för allt fler väljare - Dagens Nyheter
+- Livshotande skador efter bråk på buss i Malmö - Västerbottens-Kuriren
+- Till slut valde Ebba Busch ändå kulturkriget - Dagens Arena
 - Danmark skickar värnpliktiga till Grönland - Göteborgs-Posten
+- Utredare: Israel riktar in sig på Gazas barn - Hufvudstadsbladet – HBL
 - SVT:s reporter varnades av nationalgardet – väcker reaktioner i USA - SVT Nyheter
 - Analyser: Brexit slösades bort av män utan plan - Omni
-- Nya israeliska anfall: ”Brott mot vapenvilan” - Corren
-- Dow Jones ger vika – helröd börs i USA: ”Perfekt storm” - EFN
 - Tyskland förnyas – med svenska modellen - Svenska Dagbladet
-- Brandbil för barn dras tillbaka – smådelar kan orsaka kvävningsrisk - Börskollen
-- Värmeböljan och stiltjen pressar upp elpriserna - Omni
+- Teknikaktier pressar Wall Street – svag dag för börsens storbolag - Börskollen
+- Värsting-ETF:er ifrågasätts i AI-raset: ”Blir till en orkan” - EFN
+- Dollarn stärks på hökaktigt Fed: ”Kan fortsätta” - Omni
 - Steam machine dubbelt så dyr som konkurrenterna - Aftonbladet
 - Hon simulerar dvärggalaxer för att kasta ljus över mörk materia - Knut och Alice Wallenbergs Stiftelse
 
@@ -38,7 +38,6 @@ _Updated: 2026-06-23 21:26_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -47,21 +46,22 @@ _Updated: 2026-06-23 21:26_
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -99,10 +99,10 @@ _Updated: 2026-06-23 21:26_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
@@ -153,10 +153,10 @@ _Updated: 2026-06-23 21:26_
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Här är världens största jordbruk - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
