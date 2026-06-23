@@ -1,36 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-23 06:41_
+_Updated: 2026-06-23 10:42_
 
 ## Top Stories
 
-- Flera skadade efter ryska attacker - Göteborgs-Posten
-- Värmebölja i Europa – två barn hittade döda i bil - Västerbottens-Kuriren
 - KD ökar – men M backar: ”Tiden börjar rinna ut” - Aftonbladet
-- Säpo: Iran använder svenska kriminella nätverk - Sveriges Radio
-- USA pausar sanktioner på iransk olja - Västerbottens-Kuriren
-- Stigande hav kan tvinga skärgårdsborna på reträtt – ”Händer det här verkligen oss?” - Dagens Nyheter
-- Två män åtalas för hot – kopplas till nazistiska Aktivklubb - Dagens Nyheter
-- Då kommer värmen till Göteborg - Göteborgs-Posten
-- Moderaternas tre huvudlöften inför valet - Västerbottens-Kuriren
-- Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
-- Direkt – Krisen i Mellanöstern – Iran: Avtal klart om att frigöra 12 miljarder - Dagens Nyheter
-- Vance i samtal med Libanons president - Västerbottens-Kuriren
-- Valjakt i gång igen på Island – första på två år - Hufvudstadsbladet – HBL
-- Indien tvingar migranter tillbaka till Bangladesh - Sveriges Radio
-- ”Vad händer med stugan vi delar om min bror dör?” - Dagens Nyheter
-- Irankriget har förintat Gulfstaternas makt över världsekonomin - e55.se
-- Ellos plan efter noteringen – vill bli folkaktie på börsen - Omni
-- Börsen repade lite mod – oljepriset föll - Göteborgs-Posten
+- Elmer skulle duscha – då kom över­svämningen: ”Gick så otroligt fort” - Aftonbladet
+- Man misshandlad vid badplats av flera personer - Sveriges Radio
+- Talibanerna på väg till Bryssel – på svenskt initiativ - Dagens Nyheter
+- Ledare: Sju premiärministrar sedan brexit säger det mesta - Omni
+- Så påverkar värmeböljan populära turistorterna - Göteborgs-Posten
+- Östrogenbristen har en förklaring – i Sverige - Svenska Dagbladet
+- DN Direkt – Utländska bidrag till trossamfund ska kunna stoppas - Dagens Nyheter
+- Utgav sig vara polis – lurade kvinna på smycken - SVT Nyheter
+- Mördarsnigelns framfart avgörs kommande veckor - UNT
+- Flera skadade efter ryska attacker - Västerbottens-Kuriren
+- Valjakt i gång igen på Island – första på två år - Göteborgs-Posten
+- Risken för ett handelskrig mellan Kina och EU oroar många - Sveriges Radio
+- Vance i samtal med Libanons president - Corren
+- Teknikfrossa skakar börserna – handelsstopp i Sydkorea - Placera.se
+- Elbilsförsäljningen gasar i EU - Dagens industri
+- SpaceX föll tvåsiffrigt på Wall Street - Affärsvärlden
+- Höjt bolånetak förändrar spelplanen – fler unga kan köpa sin första bostad - sbab.se
+- Abera Bioscience publicerar vetenskaplig artikel i Vaccine som visar starkt skydd av intranasal influensavaccinkandidat - Cision News
 - Steam Machine släpps 29 juni och kostar 1 049 euro - FZ.se
-- Ubisofts grundare Claude Guillemot död i flygolycka - Aftonbladet
 
 ## World News
 
 - Trump: Krigsmålen trumfar en global depression - Omni
-- IEA: Irankriget kan driva på global elektrifiering - Dagens industri
+- Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -38,30 +39,29 @@ _Updated: 2026-06-23 06:41_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- SHB lanserar ny global indexfond - EFN
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- WPP samlar produktion i ny global enhet - Dagens Media
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -79,10 +79,10 @@ _Updated: 2026-06-23 06:41_
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -97,8 +97,8 @@ _Updated: 2026-06-23 06:41_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
+- ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
@@ -111,10 +111,10 @@ _Updated: 2026-06-23 06:41_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Hanoi Medical Universitys projekt för äldreomsorg - Vietnam.vn
-- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Kunskapsgrunden för kvaliteten på utbildningen behöver stärkas - Läkartidningen
+- Region Stockholm har tecknat avtal för användande av journalbeslutsstödet ALMA med TakeCare - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Hur gammal blir Trump? Forskare ger sin prognos - Omni
 - Strandbacka Medical tar in kapital och rustar inför utveckling av verktyg för att bedöma patienter med buksmärta - Mynewsdesk
 
 ## Science
