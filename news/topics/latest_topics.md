@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 00:46_
+_Updated: 2026-06-24 03:25_
 
 ## Top Stories
 
 - Värmeböljan härjar: här är expertens tips inför Europa-semestern - Göteborgs-Posten
+- Pojke knivskadad på buss i Malmö – tonåringar gripen - Aftonbladet
 - Ukraina fortsätter strategin – att skärma av Krim: ”Börjar bli allvarligt” - Dagens Nyheter
+- Värmeböljan på väg hit – gul varning utfärdad - Omni
+- Källa: Trump har uppmanat Zelenskyj att agera offensivt - Omni
 - Jesper Sundén: Mötet för Vance: ”Förödmjukelse” - Svenska Dagbladet
-- Katja Nybergs svar om snortröret: Massa saker jag undrar - Aftonbladet
-- Livshotande skadad efter knivskärning på stadsbuss - Expressen
-- Experten om värmeböljan: ”Blir allt vanligare” - Sveriges Radio
 - Simona Mohamssons tal i Almedalen 2026 - Liberalerna
-- Här är badplatserna i Stockholm du bör undvika - Dagens Nyheter
-- Arne Larsson Valet i fara – då byter Busch och Mohamsson taktik - Göteborgs-Posten
-- Talibanerna på väg till Bryssel – på svenskt initiativ - Dagens Nyheter
+- Ebba Busch: Höj barnbidraget till 2 000 kronor - Dagens Nyheter
+- Busch (KD): Jag har medverkat till polariseringen – Senaste nytt om valet 2026 - SVT Nyheter
+- Barn och djur varnas mitt under Almedalen - Expressen
+- DN Direkt – Nedåt på Wall Street – tungt för teknikbolag - Dagens Nyheter
 - Danmark skickar beväringar till Grönland - Hufvudstadsbladet – HBL
 - Källor: Starmer och Burnham i frostigt möte - Göteborgs-Posten
-- Irans president i Pakistan för samtal – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- FN-kommission anklagar Israel för avsiktliga attacker mot palestinska barn - Göteborgs-Posten
-- Tyskland förnyas – med svenska modellen - Svenska Dagbladet
+- Analyser: Brexit slösades bort av män utan plan - Omni
 - Teknikaktier pressar Wall Street – svag dag för börsens storbolag - Börskollen
 - Värsting-ETF:er ifrågasätts i AI-raset: ”Blir till en orkan” - EFN
-- ECB:s varning: Inflationen kan ligga över målet länge - Omni
+- Svenskar köper Space X-aktier i raset: ”Passar på” - Dagens industri
+- USA häver sanktioner mot Iran – första steget mot avtal - Expressen
 - Steam machine dubbelt så dyr som konkurrenterna - Aftonbladet
 - Hon simulerar dvärggalaxer för att kasta ljus över mörk materia - Knut och Alice Wallenbergs Stiftelse
 
@@ -31,7 +31,6 @@ _Updated: 2026-06-24 00:46_
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -41,12 +40,13 @@ _Updated: 2026-06-24 00:46_
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
+- Visual Art köper Global Agencies - Dagens Media
 
 ## Technology
 
@@ -77,18 +77,18 @@ _Updated: 2026-06-24 00:46_
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -100,10 +100,10 @@ _Updated: 2026-06-24 00:46_
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - ADDI Medical och Region Värmland förlänger samarbetet kring digitala plattformen HOPE för patienter med hjärtsvikt - Mynewsdesk
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Den självutnämnda "osteopatiska läkaren" på Y Duc Vuong Medical Clinic påstår sig endast tillhandahålla hälso- och sjukvård, men fortsätter att hjälpa barn som inte kan tala att lära sig tala. - Vietnam.vn
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
 - DEBATT: Satsa på kvinnors hälsa – det är en miljardmöjlighet vi inte har råd att förlora - Göteborgs-Posten
@@ -128,17 +128,17 @@ _Updated: 2026-06-24 00:46_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Olika slutsatser från samma data - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konst, vetenskap och kritiskt kulturarv - Göteborgs universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Många fallgropar i arbetet att ta fram systematiska översikter - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - KI ansluter till CoARA för utveckling av forskningsbedömning - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 
 ## Jordbruk
 
