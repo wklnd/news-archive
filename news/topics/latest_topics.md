@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 21:12_
+_Updated: 2026-06-24 23:10_
 
 ## Top Stories
 
-- Värmerekord i flera europeiska länder - Göteborgs-Posten
-- Jonas Falk åtalas för storskalig kokainsmuggling - Västerbottens-Kuriren
-- Så bra var Thand Ringqvists tal i Almedalen - Göteborgs-Posten
+- DN Direkt – Elisabeth Thand Ringqvist (C) talade i Almedalen - Dagens Nyheter
+- Poolbråket: ”Trumps agerande riskerar att provocera” - Dagens Nyheter
 - Dödade får och skadade ponny – nu får varg skjutas - Svensk Jakt
-- Centern vill höja matmomsen och dieselskatten - TV4 Nyheterna
+- Så påverkas Norrbotten av värmeböljan - Sveriges Radio
+- Falk åtalad igen – tillbaka i säkerhetssalen om en vecka - Dagens Juridik
 - Ny sköld i öst – vildvuxen natur ska stoppa ryssen - Dagens Nyheter
 - SMHI utökar värmevarning till Linköping - Corren
 - Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
-- Kvinna allvarligt skadad i klättringsolycka - Västerbottens-Kuriren
-- 24 juni 07.25, Anträffad död, Askersund - polisen.se
+- Flytta inte ostronen i Bohuslän och hjälp till att begränsa smittspridningen - Länsstyrelsen
+- TOVE HOVEMYR: Deras uthålliga SD-motstånd kan bli Centerpartiets revansch - UNT
 - Rubio: Nya Iransamtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Rapport: Gods för 1 200 miljarder är fast i Hormuz - Corren
-- Alling om stormötet: ”Där bråkar man inför öppen ridå” - Sveriges Radio
-- Maria Gunther: Konsten att välja rätt restaurang på semestern - Dagens Nyheter
+- Textilanläggning från vikingatiden hittad i Danmark - Dagens Nyheter
+- Hizbollah anklagar Israel för brott mot vapenvila - Göteborgs-Posten
 - Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
 - Därför rusar priset på glass – "chockerande" - Dagens Nyheter
-- Nvidiachip rusar i pris på Kinas svarta marknad - Omni
+- Chiptillverkare dämpade USA-börsen inför rapport - Aftonbladet
 - Stockholmsbörsen stängde svagt uppåt - Affärsvärlden
+- Stort tillslag mot hackare – 326 servrar har stängts ner - Computer Sweden
 - Prislappen för omtalade GTA 6 – ”Förvånande” - Svenska Dagbladet
-- Äldre certifikat för Secure Boot löper ut idag - Computer Sweden
 
 ## World News
 
@@ -32,7 +32,6 @@ _Updated: 2026-06-24 21:12_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
@@ -42,11 +41,12 @@ _Updated: 2026-06-24 21:12_
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
 - Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
+- Visual Art köper Global Agencies - Dagens Media
 
 ## Technology
 
@@ -102,20 +102,20 @@ _Updated: 2026-06-24 21:12_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
