@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-24 07:48_
+_Updated: 2026-06-24 12:00_
 
-- Mamdani's political gamble pays off as his endorsed candidates sweep their primaries - NPR
-- Congress passes war powers measure for first time, rebuking Trump's war with Iran - BBC
-- New York Democrat Micah Lasher wins House primary that drew big spending from AI groups - NBC News
-- Brad Lander ousts Rep. Dan Goldman after left-wing challenge - Politico
-- Federal Judge Bars ICE From Making Arrests in Immigration Courts - The New York Times
+- Mamdani-backed candidates sweep House primaries in NYC. See live results. - The Washington Post
+- Congress passes war powers measure for first time, breaking with Trump over Iran - BBC
 - Congress passes big housing bill with bipartisan support - Axios
-- 8 convicted in Texas immigration center shooting and protest are sentenced to decades in prison - AP News
-- Man arrested near Trump’s reflecting pool plans to fight obscenity charge - The Guardian
+- Micah Lasher Wins Manhattan Primary, Defeating Kennedy Heir and Others - The New York Times
+- U.S. and Iran dispute whether Tehran has agreed to nuclear inspections - NBC News
+- Federal judge blocks Trump policy that allows immigration court arrests - The Guardian
 - Former Utah House Democrat wins primary for redistricted seat in Utah - The Hill
-- Mamdani-backed socialist ousts Espaillat in NY-13 - Politico
-- Deadly heat wave grips Europe with red alerts and scorching records - NBC News
+- 8 convicted in Texas immigration center shooting and protest are sentenced to decades in prison - AP News
+- Timeline: Trump’s Reflecting Pool renovation grows in costs, complications - NBC News
+- Fired Navy Admiral Wins Democratic Runoff in South Carolina’s 1st District - The New York Times
+- Power cuts in France leave thousands sweltering amid scorching heatwave - Reuters
+- Brexit, 10 years later: 7 prime ministers, a demographic slide, and a 6% to 8% smaller economy - Fortune
+- Archaeologists find huge Viking textile production site in Denmark - NPR
 - Ukraine is raising the cost of war for Russia — and testing Putin's resolve - CNBC
-- Ten years on, Brexit's economic impact is becoming clearer - BBC
-- Trump, US receive overwhelmingly negative reviews in new Pew global survey - The Hill
-- Asian Stocks Set to Extend AI Chip-Fueled Selloff: Markets Wrap - Bloomberg.com
-- Alphabet to replace Verizon in Dow Jones reshuffle, shares rise - Yahoo Finance
-- China takes US crown on ranking of world’s fastest supercomputers - Al Jazeera
+- Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus - Yahoo Finance
+- US to probe petrol price gouging claims, Trump says - BBC
 - Elon Musk loses his trillionaire status as SpaceX stock comes back to Earth - Business Insider
-- Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
-- Want to go big for Prime Day? 100-inch Hisense TVs are $2,000 off - USA Today
+- Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more - Mashable
+- 11 of the Best Discounts on Desktop PCs for Amazon Prime Day From Dell, HP, Lenovo, and More - PCMag
+- Pre-RAMpocalypse Steam Machine Pricing was ~30% Cheaper - TechPowerUp
