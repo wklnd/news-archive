@@ -1,44 +1,44 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 17:19_
+_Updated: 2026-06-24 19:27_
 
 ## Top Stories
 
 - Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
-- Nu drar värmeböljan in över Sverige – kan bli 35 grader - Omni
-- Person död i Askersund – hittad under räddningsinsats på Vättern - SVT Nyheter
-- Brun soppan sprids längs kusten: ”Var försiktig” - Göteborgs-Posten
-- Kvinna dödad i rysk attack mot Ukraina - Västerbottens-Kuriren
-- DN Direkt – Turbulent under Åkesson-intervju – man brottades ned - Dagens Nyheter
-- Tio döms – så nystades jättehärvan upp - UNT
-- Handlare om ungdomsgäng: ”Föräldrarna har 90 procent ansvar” - Dagens Nyheter
-- Bok om judiskt liv ges ut i skolor - Sydsvenskan
-- Jonas Falk åtalad i ny stor knarkhärva - Expressen
+- Jonas Falk åtalas för storskalig kokainsmuggling - Västerbottens-Kuriren
+- SMHI varnar för hetta – varmaste dagen: ”33 grader” - Kristianstadsbladet
+- Dödade får och skadade ponny – nu får varg skjutas - Svensk Jakt
+- Fenomenet chockar västkusten – därför är havet brunt - Dagens Nyheter
+- Jimmie Åkesson dissar VM-låten: "Helt värdelös" - 100.se
+- Kvinna allvarligt skadad i olycka – föll vid Ävjaklippan nära Bovallstrand - SVT Nyheter
+- Man brottades ned intill Jimmie Åkesson - Corren
+- Regionen ångrar beskedet om att stänga Wik - UNT
+- 24 juni 07.25, Anträffad död, Askersund - polisen.se
 - Iran: Avtalet är USA:s nederlagsförklaring – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Vänstervåg sköljer över Demokraterna - Västerbottens-Kuriren
-- DN Direkt – Värmeböljan fortsätter i Europa - Dagens Nyheter
-- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Göteborgs-Posten
-- Stegra slutför finansieringsrunda och det av Wallenberg Investments ledda konsortiet blir majoritetsägare (Cision) - Aktiellt
-- Stoppar anställda efter miljonbelopp: ”Tröghet” - Svenska Dagbladet
-- MedCap: Förvärv är rätt medicin - Affärsvärlden
-- Börsen kretsar runt nollan – kronan tappar - Västerbottens-Kuriren
-- Utvecklaren bekräftar: Så mycket kostar GTA 6 - SVT Nyheter
+- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Västerbottens-Kuriren
+- Alling om stormötet: ”Där bråkar man inför öppen ridå” - Sveriges Radio
+- Värmerekord i flera europeiska länder - Göteborgs-Posten
+- Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
+- Stockholmsbörsen stängde svagt uppåt - Affärsvärlden
+- Aktien har tappat 10 procent – Affärsvärlden trycker på köpknappen - Börskollen
+- Börsen jämförs med meme-aktie: ”Enorm volatilitet” - EFN
 - Äldre certifikat för Secure Boot löper ut idag - Computer Sweden
+- Utvecklaren bekräftar: Så mycket kostar GTA 6 - SVT Nyheter
 
 ## World News
 
 - Trump: Krigsmålen trumfar en global depression - Omni
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
 - UNDP lanserar läromedel om global utveckling - UNDP
+- Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -73,26 +73,26 @@ _Updated: 2026-06-24 17:19_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
-- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -100,45 +100,45 @@ _Updated: 2026-06-24 17:19_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Chalmers blir ny Founding Partner i GoCo Arena - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- AI och data science - Stockholms universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Nästan 200 deltagare deltog i den internationella vetenskapliga konferensen "Research Issues in Science and Technology" som anordnades av Tra Vinh University. - Vietnam.vn
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Forskningen ska vara fri - European Commission
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse anslår 125 miljoner till KI för life science med fokus på klinisk forskning - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 
 ## Jordbruk
 
