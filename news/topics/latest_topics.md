@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 03:25_
+_Updated: 2026-06-24 07:39_
 
 ## Top Stories
 
-- Värmeböljan härjar: här är expertens tips inför Europa-semestern - Göteborgs-Posten
-- Pojke knivskadad på buss i Malmö – tonåringar gripen - Aftonbladet
+- 2,5 år med varma kylskåp på Svea Vaccin - Aftonbladet
+- Trump kritiserar senatomröstning om Iran - Göteborgs-Posten
+- Krigskampanj bland ryska studenter har misslyckats - Omni
+- Okända maktstriden inom SD – larmet gick till Åkesson i Thailand - Dagens Nyheter
+- Björn Söder: ”Jag stod helt plötsligt ensam” - Svenska Dagbladet
+- Nu sänks rektorernas lön i Göteborg – med 5 000 kronor i månaden - Göteborgs-Posten
+- Teams i myndigheter väcker oro för säkerhetsrisker - Sveriges Radio
+- Risk för ilskna turister om Sverige inte satsar på Fehmarn Bält - Sydsvenskan
+- SD: Inför en statlig interaktiv pedofilkarta – Senaste nytt om valet 2026 - SVT Nyheter
+- DN Direkt – Stopp på tunnelbanans Gröna linje - Dagens Nyheter
+- Varmaste dagen någonsin uppmätt i Frankrike - Västerbottens-Kuriren
 - Ukraina fortsätter strategin – att skärma av Krim: ”Börjar bli allvarligt” - Dagens Nyheter
-- Värmeböljan på väg hit – gul varning utfärdad - Omni
-- Källa: Trump har uppmanat Zelenskyj att agera offensivt - Omni
-- Jesper Sundén: Mötet för Vance: ”Förödmjukelse” - Svenska Dagbladet
-- Simona Mohamssons tal i Almedalen 2026 - Liberalerna
-- Ebba Busch: Höj barnbidraget till 2 000 kronor - Dagens Nyheter
-- Busch (KD): Jag har medverkat till polariseringen – Senaste nytt om valet 2026 - SVT Nyheter
-- Barn och djur varnas mitt under Almedalen - Expressen
-- DN Direkt – Nedåt på Wall Street – tungt för teknikbolag - Dagens Nyheter
-- Danmark skickar beväringar till Grönland - Hufvudstadsbladet – HBL
-- Källor: Starmer och Burnham i frostigt möte - Göteborgs-Posten
-- Analyser: Brexit slösades bort av män utan plan - Omni
-- Teknikaktier pressar Wall Street – svag dag för börsens storbolag - Börskollen
+- Tågtrafiken står still i hela Tyskland - Dagens industri
+- Ingmar Nevéus: Trumplägret jublar när Mamdanis socialister vinner - Dagens Nyheter
+- Tyskland sneglar på Sverige – vill skapa statlig pensionsfond - Finanswatch.se
 - Värsting-ETF:er ifrågasätts i AI-raset: ”Blir till en orkan” - EFN
-- Svenskar köper Space X-aktier i raset: ”Passar på” - Dagens industri
-- USA häver sanktioner mot Iran – första steget mot avtal - Expressen
+- Teknikaktier pressar Wall Street – svag dag för börsens storbolag - Börskollen
+- 51 kvadratmeter stort hus i Bjurtjärn sålt - Värmlands Folkblad
 - Steam machine dubbelt så dyr som konkurrenterna - Aftonbladet
-- Hon simulerar dvärggalaxer för att kasta ljus över mörk materia - Knut och Alice Wallenbergs Stiftelse
+- Alvin öppnar ny butik i stan: ”Det är ju ens dröm” - Hudiksvalls Tidning
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-06-24 03:25_
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Försvar mot strömmen på röd börs - Privata Affärer
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
-- Visual Art köper Global Agencies - Dagens Media
 
 ## Technology
 
@@ -64,9 +64,9 @@ _Updated: 2026-06-24 03:25_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -77,18 +77,18 @@ _Updated: 2026-06-24 03:25_
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Da Nang utökar sina ekonomiska, finansiella och teknologiska "spelplaner" på internationell nivå. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
@@ -142,18 +142,18 @@ _Updated: 2026-06-24 03:25_
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
