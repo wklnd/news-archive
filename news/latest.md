@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-24 00:50_
+_Updated: 2026-06-24 03:30_
 
-- US Senate votes to pass Iran war powers resolution in blow to Trump - Al Jazeera
-- Troubled Reflecting Pool faces fresh scrutiny over vandalism claims and duck deaths - AP News
-- Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect - CNBC
-- UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls - BBC
-- Leader of group convicted in antifa-inspired attack on Texas ICE facility handed 100-year prison sentence - CBS News
-- Supreme Court lets Michigan family fight foreclosure in equity theft case - USA Today
-- Pulte’s first days in office set off alarms with lawmakers - The Hill
-- 6abc is warning viewers about the FCC taking away its TV license. Here’s what’s going on. - Inquirer.com
-- Appeals court allows Trump to fast-track deportation process nationwide - The Guardian
-- Victims in Butte County Library shooting in Chico are identified; police responded within 2 minutes - KCRA
-- 40 people drown as France seeks relief from record heat - The Washington Post
-- Russia Pressures Belarus in Bid to Open New Front in Ukraine War - WSJ
+- House passes sweeping bill to lower housing costs, sending it to Trump’s desk - NBC News
+- Congress passes war powers measure for first time, rebuking Trump's war with Iran - BBC
+- New York House primaries test Mamdani's influence, and more races to watch in South Carolina, Maryland, Utah - CBS News
+- New York House Primary Election 2026 Live Results - NBC News
+- Trump touts U.S. economy and oil prices in a midterm pitch in Pennsylvania - NBC News
+- Man arrested near Trump’s reflecting pool plans to fight obscenity charge - The Guardian
+- 8 convicted in Texas immigration center shooting and protest are sentenced to decades in prison - AP News
+- Chico library shooting suspect apparently wanted Columbine-type massacre, police say - CBS News
+- Judge vacates Trump policy allowing arrests at immigration courts - Politico
+- Democratic Rep. Dan Goldman loses New York primary to former City Comptroller Brad Lander - NBC News
+- France records hottest-ever day as 40 drown trying to escape heatwave - Al Jazeera
+- Russia eyes diesel export ban, fuel imports amid Ukrainian strikes; Crimea restricts public life - Reuters
 - Trump's America gets global side-eye - Axios
-- Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - AP News
-- Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets - CNBC
-- FedEx posts strong earnings results in last quarter with freight business - CNBC
-- US announces $17.5 billion in loans for nuclear power supply chain - Reuters
-- Computer wars heat up as Chinese supercomputer tops all US machines in speed for first time since 2017 - Fox Business
+- Russia Pressures Belarus in Bid to Open New Front in Ukraine War - WSJ
+- Wall Street ends lower on semiconductor selloff as AI spending concerns mount - Reuters
+- Alphabet added to Dow Jones Industrial Average, replacing Verizon - CNBC
+- SpaceX pitches investors juicy yields in $25bn bond deal - Financial Times
+- Energy secretary says $17.5B in loans will help 'unleash the next American nuclear renaissance' for reactors - Fox Business
 - Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
-- "This is going to be a niche device" – Analysts react to the $1,000+ Steam Machine price reveal - GamesIndustry.biz
+- Meta's Got New Smart Glasses at a Lower Price, Plus a Kylie Jenner Look - CNET
