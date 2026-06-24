@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 14:33_
+_Updated: 2026-06-24 17:19_
 
 ## Top Stories
 
-- Åkesson vill införa "medborgarveto" - Göteborgs-Posten
-- Meteorologen varnar: Så höga kan temperaturerna bli i helgen - Sveriges Radio
+- Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
+- Nu drar värmeböljan in över Sverige – kan bli 35 grader - Omni
+- Person död i Askersund – hittad under räddningsinsats på Vättern - SVT Nyheter
+- Brun soppan sprids längs kusten: ”Var försiktig” - Göteborgs-Posten
 - Kvinna dödad i rysk attack mot Ukraina - Västerbottens-Kuriren
-- 15-åring försvarade sig vid knivdrama – polisen utesluter gängkoppling - Sydsvenskan
-- Kvinna förgiftade sin man – döms till 12 års fängelse - Aftonbladet
-- Stöldliga fälls – efter jättehärva - UNT
-- Färre ger blod – ”bekymmersamt” - Västerbottens-Kuriren
-- Här är badplatserna i Stockholm du bör undvika - Dagens Nyheter
-- Klimatkonsert i hamnen – krock med SD-talet – Senaste nytt om valet 2026 - SVT Nyheter
-- DN Direkt – Artister i upprop under Åkessons tal - Dagens Nyheter
-- Ingmar Nevéus: Trumplägret jublar när Mamdanis socialister vinner - Dagens Nyheter
-- Extremhetta i Frankrike – nya rekord kan slås i värmeböljan - SVT Nyheter
-- FN-kommission anklagar Israel för avsiktliga attacker mot palestinska barn - Göteborgs-Posten
-- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Västerbottens-Kuriren
-- Harald Mix lämnas utanför Stegras nya styrelse - Affärsvärlden
-- Ny AI-oro greppar världens börser - Dagens Nyheter
-- Stoppar anställda efter miljonbelopp: ”Monster” - Svenska Dagbladet
-- Oljepriset rasar när leveranser återupptas – krigspåslaget försvinner - Börskollen
+- DN Direkt – Turbulent under Åkesson-intervju – man brottades ned - Dagens Nyheter
+- Tio döms – så nystades jättehärvan upp - UNT
+- Handlare om ungdomsgäng: ”Föräldrarna har 90 procent ansvar” - Dagens Nyheter
+- Bok om judiskt liv ges ut i skolor - Sydsvenskan
+- Jonas Falk åtalad i ny stor knarkhärva - Expressen
+- Iran: Avtalet är USA:s nederlagsförklaring – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Vänstervåg sköljer över Demokraterna - Västerbottens-Kuriren
+- DN Direkt – Värmeböljan fortsätter i Europa - Dagens Nyheter
+- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Göteborgs-Posten
+- Stegra slutför finansieringsrunda och det av Wallenberg Investments ledda konsortiet blir majoritetsägare (Cision) - Aktiellt
+- Stoppar anställda efter miljonbelopp: ”Tröghet” - Svenska Dagbladet
+- MedCap: Förvärv är rätt medicin - Affärsvärlden
+- Börsen kretsar runt nollan – kronan tappar - Västerbottens-Kuriren
+- Utvecklaren bekräftar: Så mycket kostar GTA 6 - SVT Nyheter
 - Äldre certifikat för Secure Boot löper ut idag - Computer Sweden
-- Tamron lanserar 17–70 mm F/2,8 för Nikon Z och Canon RF APS-C - Notified
 
 ## World News
 
@@ -56,10 +56,10 @@ _Updated: 2026-06-24 14:33_
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -73,26 +73,26 @@ _Updated: 2026-06-24 14:33_
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Vilken framtid arbetar du för? - EY
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Da Nang anordnar 2026 års ekonomiska, finansiella och tekniska vecka: Att koppla samman resurser, hitta möjligheter att attrahera investeringskapital. - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
 
 ## Health
 
@@ -120,25 +120,25 @@ _Updated: 2026-06-24 14:33_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Nästan 200 deltagare deltog i den internationella vetenskapliga konferensen "Research Issues in Science and Technology" som anordnades av Tra Vinh University. - Vietnam.vn
-- 5 myter om öppen vetenskap - Läkartidningen
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Forskningen ska vara fri - European Commission
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- AI och data science - Stockholms universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse anslår 125 miljoner till KI för life science med fokus på klinisk forskning - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
@@ -156,9 +156,9 @@ _Updated: 2026-06-24 14:33_
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Agronod stärker styrelsen - Mynewsdesk
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
