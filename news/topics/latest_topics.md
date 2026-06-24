@@ -1,35 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 19:27_
+_Updated: 2026-06-24 21:12_
 
 ## Top Stories
 
-- Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
-- Jonas Falk åtalas för storskalig kokainsmuggling - Västerbottens-Kuriren
-- SMHI varnar för hetta – varmaste dagen: ”33 grader” - Kristianstadsbladet
-- Dödade får och skadade ponny – nu får varg skjutas - Svensk Jakt
-- Fenomenet chockar västkusten – därför är havet brunt - Dagens Nyheter
-- Jimmie Åkesson dissar VM-låten: "Helt värdelös" - 100.se
-- Kvinna allvarligt skadad i olycka – föll vid Ävjaklippan nära Bovallstrand - SVT Nyheter
-- Man brottades ned intill Jimmie Åkesson - Corren
-- Regionen ångrar beskedet om att stänga Wik - UNT
-- 24 juni 07.25, Anträffad död, Askersund - polisen.se
-- Iran: Avtalet är USA:s nederlagsförklaring – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Västerbottens-Kuriren
-- Alling om stormötet: ”Där bråkar man inför öppen ridå” - Sveriges Radio
 - Värmerekord i flera europeiska länder - Göteborgs-Posten
+- Jonas Falk åtalas för storskalig kokainsmuggling - Västerbottens-Kuriren
+- Så bra var Thand Ringqvists tal i Almedalen - Göteborgs-Posten
+- Dödade får och skadade ponny – nu får varg skjutas - Svensk Jakt
+- Centern vill höja matmomsen och dieselskatten - TV4 Nyheterna
+- Ny sköld i öst – vildvuxen natur ska stoppa ryssen - Dagens Nyheter
+- SMHI utökar värmevarning till Linköping - Corren
+- Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
+- Kvinna allvarligt skadad i klättringsolycka - Västerbottens-Kuriren
+- 24 juni 07.25, Anträffad död, Askersund - polisen.se
+- Rubio: Nya Iransamtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Corren
+- Alling om stormötet: ”Där bråkar man inför öppen ridå” - Sveriges Radio
+- Maria Gunther: Konsten att välja rätt restaurang på semestern - Dagens Nyheter
 - Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
+- Därför rusar priset på glass – "chockerande" - Dagens Nyheter
+- Nvidiachip rusar i pris på Kinas svarta marknad - Omni
 - Stockholmsbörsen stängde svagt uppåt - Affärsvärlden
-- Aktien har tappat 10 procent – Affärsvärlden trycker på köpknappen - Börskollen
-- Börsen jämförs med meme-aktie: ”Enorm volatilitet” - EFN
+- Prislappen för omtalade GTA 6 – ”Förvånande” - Svenska Dagbladet
 - Äldre certifikat för Secure Boot löper ut idag - Computer Sweden
-- Utvecklaren bekräftar: Så mycket kostar GTA 6 - SVT Nyheter
 
 ## World News
 
 - Trump: Krigsmålen trumfar en global depression - Omni
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -38,7 +39,6 @@ _Updated: 2026-06-24 19:27_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -52,16 +52,16 @@ _Updated: 2026-06-24 19:27_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
