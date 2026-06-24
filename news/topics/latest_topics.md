@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-24 23:10_
+_Updated: 2026-06-25 00:48_
 
 ## Top Stories
 
-- DN Direkt – Elisabeth Thand Ringqvist (C) talade i Almedalen - Dagens Nyheter
+- DN Direkt – Rekordvarmt i Storbritannien - Dagens Nyheter
+- Så bra var Thand Ringqvists tal i Almedalen - Göteborgs-Posten
+- Trump besviken på Nato i Irankriget - Göteborgs-Posten
 - Poolbråket: ”Trumps agerande riskerar att provocera” - Dagens Nyheter
-- Dödade får och skadade ponny – nu får varg skjutas - Svensk Jakt
-- Så påverkas Norrbotten av värmeböljan - Sveriges Radio
-- Falk åtalad igen – tillbaka i säkerhetssalen om en vecka - Dagens Juridik
-- Ny sköld i öst – vildvuxen natur ska stoppa ryssen - Dagens Nyheter
-- SMHI utökar värmevarning till Linköping - Corren
-- Så bra var Jimmie Åkessons tal i Almedalen | Göteborgs-Posten - Göteborgs-Posten
+- Så blir sommarens väder – vecka för vecka - Aftonbladet
+- Skyddsjakt på varg som angrep ponny - Jakt & Jägare
+- Jimmie Åkesson ställer verklighetsbilder mot varandra - Altinget.se
 - Flytta inte ostronen i Bohuslän och hjälp till att begränsa smittspridningen - Länsstyrelsen
-- TOVE HOVEMYR: Deras uthålliga SD-motstånd kan bli Centerpartiets revansch - UNT
-- Rubio: Nya Iransamtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Jimmie Åkesson dissar VM-låten: "Helt värdelös" - 100.se
+- Åklagaren vill se sex års fängelse för barnkammarbranden: ”Tortyrliknande” - Dagens Nyheter
 - Rapport: Gods för 1 200 miljarder är fast i Hormuz - Corren
+- Förare körde mot rött i dödlig tågkrasch - Aftonbladet
+- Rubio: Nya Iransamtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Textilanläggning från vikingatiden hittad i Danmark - Dagens Nyheter
-- Hizbollah anklagar Israel för brott mot vapenvila - Göteborgs-Posten
 - Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
 - Därför rusar priset på glass – "chockerande" - Dagens Nyheter
 - Chiptillverkare dämpade USA-börsen inför rapport - Aftonbladet
@@ -32,6 +32,7 @@ _Updated: 2026-06-24 23:10_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
@@ -41,35 +42,34 @@ _Updated: 2026-06-24 23:10_
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
 - Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Visual Art köper Global Agencies - Dagens Media
+- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
