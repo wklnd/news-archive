@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-26 00:06_
+_Updated: 2026-06-26 01:52_
 
 ## Top Stories
 
-- Tusentals befaras döda efter skalven i Venezuela - Göteborgs-Posten
+- Uppgifter: Mjällby-Stroud i Sveriges startelva - Kristianstadsbladet
+- Experten avslöjar: Därför blir du dum av extremhettan - Sveriges Radio
 - Långt tågstopp väntar efter urspårning - Dagens industri
-- Treåring hittad död i bil i Frankrike - Hufvudstadsbladet – HBL
-- Ukraina inleder 40 dagars operation mot Ryssland - Omni
-- Mordförsök i Göteborg – två gripna efter lägenhetsbråk - SVT Nyheter
+- Kritiska timmar i Venezuela: ”Bara början på katastrofen” - SVT Nyheter
+- Man skadad med vasst tillhygge – två gripna - Göteborgs-Posten
+- Här bordas den misstänkta ryska skuggflottan - Expressen
 - DN Direkt – Magdalena Andersson (S) talade i Almedalen - Dagens Nyheter
 - Man dömd för grova sexbrott mot barn - Västerbottens-Kuriren
-- Kyliga knep i värmeböljan – dryck och glass i stora lass - Nya Lidköpings-Tidningen
 - DN Direkt – Larm om förorenat dricksvatten utanför Hudiksvall - Dagens Nyheter
 - Marmorstein: Karensavdraget viktigt att uppfylla – Senaste nytt om valet 2026 - SVT Nyheter
 - Attacker tvingar Ryssland att slå av strömmen - Corren
 - Uppgifter: Religiös guru styrde Gabbard i kongressen - Dagens Nyheter
-- Fransk-italienskt förslag om fredsstyrka i Libanon - Göteborgs-Posten
 - Direkt – Krisen i Mellanöstern – Fartyg träffat av projektil i Hormuzsundet - Dagens Nyheter
+- Sandström: Problemen i UK är mycket djupare än Starmer - Bulletin
 - Bjässarna i miljardaffär: Castellum säljer till Wihlborgs - Placera.se
-- H&M:s vd om tillväxten: ”Står och stampar otåligt” - EFN
 - Spretig USA-börs – Apple rasade - Aftonbladet
-- Lite nötkött i falukorv – märkning kan ses över - Sveriges Radio
-- Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
+- Stockholmsbörsen får upp farten – stiger tydligt - EFN
+- Bara sex promille nötkötts-DNA i Rybergs falukorv - Sveriges Radio
+- "Ingen samlarutgåva?" – nu när förbokningarna av GTA 6 är igång kan Rockstar få kritik om de upprepar samma drag som med Red Dead Redemption 2 - TechRadar
 - Microsoft hakar på Apple – höjer priset på Xbox - Omni
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump: Krigsmålen trumfar en global depression - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -38,15 +37,16 @@ _Updated: 2026-06-26 00:06_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Rött på börsen efter global teknikfrossa - Privata Affärer
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Försvar mot strömmen på röd börs - Privata Affärer
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Visual Art köper Global Agencies - Dagens Media
+- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 
 ## Technology
 
@@ -64,30 +64,30 @@ _Updated: 2026-06-26 00:06_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -119,26 +119,15 @@ _Updated: 2026-06-26 00:06_
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Nästan 200 deltagare deltog i den internationella vetenskapliga konferensen "Research Issues in Science and Technology" som anordnades av Tra Vinh University. - Vietnam.vn
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Forskningen ska vara fri - European Commission
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- AI och data science - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
