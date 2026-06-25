@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-25 20:33_
+_Updated: 2026-06-25 22:32_
 
 ## Top Stories
 
-- Stopp i tågtrafiken efter urspårning – kan ta dagar att fixa - Dagens Nyheter
-- Tusentals befaras döda efter skalven i Venezuela - Göteborgs-Posten
+- Man skadad med vasst tillhygge – två gripna - Göteborgs-Posten
+- Tusentals befaras döda efter skalven i Venezuela - Västerbottens-Kuriren
+- Siw Malmkvist fast i tågkaos: ”Man blir handlingsförlamad” - Aftonbladet
 - Så påverkas vilda och tama djur av värmeböljan - Svenska Dagbladet
-- Värmeböljan tilltar – treåring död i bil - Östersunds-Posten
-- Man död i MC-olycka norr om Markaryd - SVT Nyheter
-- Paret Kristersson pekas ut: ”Folk är förbannade” - Svenska Dagbladet
+- Värmeböljan i Europa tilltar – treåring död i bil - Göteborgs-Posten
+- Uppgifter: Religiös guru styrde Gabbard i kongressen - Dagens Nyheter
 - Så bra var Magdalena Anderssons tal i Almedalen - Göteborgs-Posten
-- S lovar höjd pension: ”Hårt arbete ska löna sig” - Västerbottens-Kuriren
-- Falukorv döms ut – “sorgligt och dåligt” - Marcus Oscarsson
-- Kyliga knep i värmeböljan – dryck och glass i stora lass - Nya Lidköpings-Tidningen
+- Man död i MC-olycka norr om Markaryd - SVT Nyheter
+- DN Direkt – S går till val på höjda pensioner - Dagens Nyheter
+- Larm om förorenat dricksvatten utanför Hudiksvall - Göteborgs-Posten
 - Attacker tvingar Ryssland att slå av strömmen - Corren
+- Fransk-italienskt förslag om fredsstyrka i Libanon - Göteborgs-Posten
 - Torka leder till massiva slukhål i Turkiet - Dagens Nyheter
-- Svenska redaren: Redo att gå genom Hormuzsundet - Göteborgs-Posten
-- Emma Bouvin: Libanon och Israel vill inte vara brickor i en iransk fred - Dagens Nyheter
-- Ser köpläge i Saab efter fallet: "Marknaden missar bredden" - Affärsvärlden
-- Här kostar det mest att sälja vin på gården - HD – Nyheter Dygnet Runt
-- Expert: H&M på efterkälken med leverantörskedjan - Omni
-- Kartläggning: Här tar villalånet störst del av inkomsten - svenskbyggtidning -
+- Direkt – Krisen i Mellanöstern – Fartyg träffat av projektil i Hormuzsundet - Dagens Nyheter
+- Pareto höjer Saab till köp – ser omotiverad värderingspress i aktien - Affärsvärlden
+- New York-börserna öppnar svagare än förväntat, S&P 500-index är upp 0,1 procent - Placera.se
+- Chevrons CFO: Bensinpriser väntas sjunka när läget stabiliseras - CNBC - Börsvärlden
+- DNA-test av falukorv visar lite nötkött i flera märken - Sveriges Radio
 - Rekorddyrt spel släpps – GTA 6 säljs var tolvte sekund - Sveriges Radio
-- Mac-användare varnas för ny Clickfix-kampanj - Computer Sweden
+- Microsoft hakar på Apple – höjer priset på Xbox - Omni
 
 ## World News
 
-- Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump: Krigsmålen trumfar en global depression - Omni
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -38,20 +37,21 @@ _Updated: 2026-06-25 20:33_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Rött på börsen efter global teknikfrossa - Privata Affärer
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
@@ -73,26 +73,26 @@ _Updated: 2026-06-25 20:33_
 
 ## Business
 
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -124,7 +124,7 @@ _Updated: 2026-06-25 20:33_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nästan 200 deltagare deltog i den internationella vetenskapliga konferensen "Research Issues in Science and Technology" som anordnades av Tra Vinh University. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Forskningen ska vara fri - European Commission
@@ -135,30 +135,30 @@ _Updated: 2026-06-25 20:33_
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk - European Commission
-- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Visning av uppkomst efter direktsådd - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
