@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-25 15:05_
+_Updated: 2026-06-25 18:08_
 
+- Supreme Court allows Trump to remove protections from thousands of Haitian and Syrian immigrants - NBC News
 - Live updates: At least 164 people dead after twin quakes in Venezuela, acting president says - CNN
-- Senate Republicans reject Iran war powers resolution after clashing with Trump at Capitol meeting - NBC News
-- Trump Refuses to Sign Housing Bill Until Divisive ‘SAVE’ Voting Act Passes Congress - The New York Times
-- France, UK and Spain see record temperatures as heatwave grips western Europe - BBC
-- President Trump kicks off Great American State Fair, sticks to script with speech - The Hill
+- Supreme Court says U.S. can turn away asylum-seekers at the border - NPR
+- Under pressure from Trump, Republican-led Senate reverses course on Iran - The Washington Post
+- To Escape Record Heat, the French Are Taking to Water. Both Have Been Deadly. - The New York Times
 - Centrist Democrats are freaking out about progressives’ winning streak - Politico
-- Column | At this point, the Reflecting Pool deserves an Emmy - The Washington Post
-- Chief of staff to former NYC Mayor Eric Adams, 3 others charged in federal bribery probe - NBC New York
-- Senate Republicans reject war powers resolution after Trump berates them at Capitol meeting - AP News
-- Police: Body found in Independence home believed to be suspect in Kansas City highway shootings - KMBC
-- Trump describes Andy Burnham as 'extremely liberal' - BBC
+- A federal judge in Boston has blocked parts of Trump's order to limit voting by mail - NPR
+- Trump lays out new details on Reflecting Pool ‘vandals’ - The Hill
+- Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post
+- Supreme Court strikes down Hawaii’s ‘vampire rule’ for gun owners - NBC News
+- Trump describes Burnham as the 'mayor of a town' and 'extremely liberal' - BBC
+- Oil tankers use new route through Strait of Hormuz despite Iranian threats - AP News
 - Why is Putin asking for Ukraine-Russia peace talks now? - The Independent
-- Two years on, Kenyan families still seek justice after Gen Z protests - Al Jazeera
-- 'They can kill you': Immigrants fear a surge in xenophobic violence in South Africa - NPR
-- Stock Market Today: Nasdaq Futures Jump After Micron Earnings; Wendy's in Focus — Live Updates - WSJ
-- Oil Prices Hover Around Prewar Levels as Gulf Shipping Jumps - The New York Times
-- JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as longtime exec Marianne Lake exits - CNBC
-- Inflation tops 4% for first time in three years - CNN
+- American boy, 12, attacked by shark in Bahamas while swimming with brother - CBS News
+- US PCE inflation measure tops 4.0% in May; consumer spending strong - Reuters
+- Supreme Court sides with Monsanto in case over cancer risks from weedkiller Roundup - CBS News
+- Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's
+- Jamie Dimon promotes two potential successors at JPMorgan - Financial Times
+- Leaks, price control, no second-hand sales: why Grand Theft Auto 6 physical editions won't come with a disc, according to experts - Eurogamer
 - Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
-- Hotly anticipated Grand Theft Auto VI will cost more than other AAA games - Ars Technica
