@@ -1,65 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-25 00:48_
+_Updated: 2026-06-25 03:31_
 
 ## Top Stories
 
-- DN Direkt – Rekordvarmt i Storbritannien - Dagens Nyheter
-- Så bra var Thand Ringqvists tal i Almedalen - Göteborgs-Posten
-- Trump besviken på Nato i Irankriget - Göteborgs-Posten
-- Poolbråket: ”Trumps agerande riskerar att provocera” - Dagens Nyheter
-- Så blir sommarens väder – vecka för vecka - Aftonbladet
-- Skyddsjakt på varg som angrep ponny - Jakt & Jägare
+- Jordskalv i Venezuela – risk för tiotusentals döda - Göteborgs-Posten
+- DN Direkt – Elisabeth Thand Ringqvist (C) talade i Almedalen - Dagens Nyheter
+- Trump besviken på Nato i Irankriget - Västerbottens-Kuriren
+- Hizbollah anklagar Israel för brott mot vapenvila - Göteborgs-Posten
+- Värmen drar in över Sverige – SMHI varnar för höga temperaturer - Sveriges Radio
+- Vinböndernas oro i hettan: ”Inte normalt” - Aftonbladet
 - Jimmie Åkesson ställer verklighetsbilder mot varandra - Altinget.se
 - Flytta inte ostronen i Bohuslän och hjälp till att begränsa smittspridningen - Länsstyrelsen
-- Jimmie Åkesson dissar VM-låten: "Helt värdelös" - 100.se
+- Marmorstein: ”Hejarklackskäckt” från Thand Ringqvist – Senaste nytt om valet 2026 - SVT Nyheter
 - Åklagaren vill se sex års fängelse för barnkammarbranden: ”Tortyrliknande” - Dagens Nyheter
-- Rapport: Gods för 1 200 miljarder är fast i Hormuz - Corren
-- Förare körde mot rött i dödlig tågkrasch - Aftonbladet
 - Rubio: Nya Iransamtal nästa vecka – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Textilanläggning från vikingatiden hittad i Danmark - Dagens Nyheter
-- Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
-- Därför rusar priset på glass – "chockerande" - Dagens Nyheter
+- Högerkandidat vinner Colombiaval - SVT Nyheter
+- Förare körde mot rött i dödlig tågkrasch - Aftonbladet
+- Fransk läkare har testat positivt för ebola - Göteborgs-Posten
+- Därför rusar priset på glass - "chockerande" - Corren
 - Chiptillverkare dämpade USA-börsen inför rapport - Aftonbladet
 - Stockholmsbörsen stängde svagt uppåt - Affärsvärlden
-- Stort tillslag mot hackare – 326 servrar har stängts ner - Computer Sweden
+- Karin Rådström: ”Stegras framgång är viktig för Sverige” - Dagens industri
 - Prislappen för omtalade GTA 6 – ”Förvånande” - Svenska Dagbladet
+- Ministerns svar efter avslöjanden om amerikanska molntjänster - Sveriges Radio
 
 ## World News
 
 - Trump: Krigsmålen trumfar en global depression - Omni
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- UNDP lanserar läromedel om global utveckling - UNDP
 - Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Försvar mot strömmen på röd börs - Privata Affärer
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
+- Försvar mot strömmen på röd börs - Privata Affärer
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -79,14 +79,14 @@ _Updated: 2026-06-25 00:48_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Zynex, Inc. to Announce Second Quarter 2022 Financial Results (PR Newswire) - Aktiellt
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang värd för ekonomi-, finans- och teknologiveckan 2026 - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -121,6 +121,7 @@ _Updated: 2026-06-25 00:48_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Nästan 200 deltagare deltog i den internationella vetenskapliga konferensen "Research Issues in Science and Technology" som anordnades av Tra Vinh University. - Vietnam.vn
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
@@ -129,7 +130,6 @@ _Updated: 2026-06-25 00:48_
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Forskningen ska vara fri - European Commission
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
