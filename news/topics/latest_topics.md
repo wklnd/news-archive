@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-25 22:32_
+_Updated: 2026-06-26 00:06_
 
 ## Top Stories
 
-- Man skadad med vasst tillhygge – två gripna - Göteborgs-Posten
-- Tusentals befaras döda efter skalven i Venezuela - Västerbottens-Kuriren
-- Siw Malmkvist fast i tågkaos: ”Man blir handlingsförlamad” - Aftonbladet
-- Så påverkas vilda och tama djur av värmeböljan - Svenska Dagbladet
-- Värmeböljan i Europa tilltar – treåring död i bil - Göteborgs-Posten
-- Uppgifter: Religiös guru styrde Gabbard i kongressen - Dagens Nyheter
-- Så bra var Magdalena Anderssons tal i Almedalen - Göteborgs-Posten
-- Man död i MC-olycka norr om Markaryd - SVT Nyheter
-- DN Direkt – S går till val på höjda pensioner - Dagens Nyheter
-- Larm om förorenat dricksvatten utanför Hudiksvall - Göteborgs-Posten
+- Tusentals befaras döda efter skalven i Venezuela - Göteborgs-Posten
+- Långt tågstopp väntar efter urspårning - Dagens industri
+- Treåring hittad död i bil i Frankrike - Hufvudstadsbladet – HBL
+- Ukraina inleder 40 dagars operation mot Ryssland - Omni
+- Mordförsök i Göteborg – två gripna efter lägenhetsbråk - SVT Nyheter
+- DN Direkt – Magdalena Andersson (S) talade i Almedalen - Dagens Nyheter
+- Man dömd för grova sexbrott mot barn - Västerbottens-Kuriren
+- Kyliga knep i värmeböljan – dryck och glass i stora lass - Nya Lidköpings-Tidningen
+- DN Direkt – Larm om förorenat dricksvatten utanför Hudiksvall - Dagens Nyheter
+- Marmorstein: Karensavdraget viktigt att uppfylla – Senaste nytt om valet 2026 - SVT Nyheter
 - Attacker tvingar Ryssland att slå av strömmen - Corren
+- Uppgifter: Religiös guru styrde Gabbard i kongressen - Dagens Nyheter
 - Fransk-italienskt förslag om fredsstyrka i Libanon - Göteborgs-Posten
-- Torka leder till massiva slukhål i Turkiet - Dagens Nyheter
 - Direkt – Krisen i Mellanöstern – Fartyg träffat av projektil i Hormuzsundet - Dagens Nyheter
-- Pareto höjer Saab till köp – ser omotiverad värderingspress i aktien - Affärsvärlden
-- New York-börserna öppnar svagare än förväntat, S&P 500-index är upp 0,1 procent - Placera.se
-- Chevrons CFO: Bensinpriser väntas sjunka när läget stabiliseras - CNBC - Börsvärlden
-- DNA-test av falukorv visar lite nötkött i flera märken - Sveriges Radio
-- Rekorddyrt spel släpps – GTA 6 säljs var tolvte sekund - Sveriges Radio
+- Bjässarna i miljardaffär: Castellum säljer till Wihlborgs - Placera.se
+- H&M:s vd om tillväxten: ”Står och stampar otåligt” - EFN
+- Spretig USA-börs – Apple rasade - Aftonbladet
+- Lite nötkött i falukorv – märkning kan ses över - Sveriges Radio
+- Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
 - Microsoft hakar på Apple – höjer priset på Xbox - Omni
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Trump: Krigsmålen trumfar en global depression - Omni
@@ -37,16 +38,15 @@ _Updated: 2026-06-25 22:32_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Rött på börsen efter global teknikfrossa - Privata Affärer
 - Final round of World Championship of Public Speaking About to Begin - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Visual Art köper Global Agencies - Dagens Media
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Försvar mot strömmen på röd börs - Privata Affärer
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
@@ -63,8 +63,8 @@ _Updated: 2026-06-25 22:32_
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
@@ -73,21 +73,21 @@ _Updated: 2026-06-25 22:32_
 
 ## Business
 
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Da Nang är värd för 2026 års ekonomiska, finansiella och tekniska vecka med ett flertal internationella forum. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-06-25 22:32_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Karl Gauffin föreläser om riskmedvetenhet på medicinkritiskt symposium - Stockholms universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
