@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-25 03:35_
+_Updated: 2026-06-25 07:50_
 
-- Trump berates Senate Republicans over Iran war vote after calling off bill signing - AP News
-- Venezuela earthquake: powerful back-to-back quakes collapse buildings in capital Caracas - The Guardian
-- Stealth bomber flyovers, military bands and a presidential speech: Trump turns America 250 kickoff into a campaign-style rally - PBS
-- NY Jewish Leaders Wrestle With Israel Critics’ Sweep in Primary Elections - The New York Times
-- Injuries, widespread power outages reported after 5.6-magnitude quake in rural Willits, Mendocino County in Northern California - ABC7 Los Angeles
-- Trump leaves major housing bill in limbo, demanding Congress pass the SAVE Act - NBC News
-- Trump lays out new details on Reflecting Pool ‘vandals’ - The Hill
-- Pentagon restores mandatory flu shots for all recruits as boot camp outbreak sickens nearly 300 - AP News
-- Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post
-- Camp Mystic files for Chapter 11 bankruptcy, pausing flood lawsuits - Austin American-Statesman
+- Live updates: Deadly back-to-back earthquakes strike Venezuela - CNN
+- Trump’s showdown with Republican Sen. Cassidy: Inside the blow-up on Capitol Hill - AP News
+- Trump kicks off the Great American State Fair after musical acts pulled out - NBC News
+- Trump abruptly cancels signing of bipartisan bill on affordable housing - The Washington Post
+- Senate walks back rebuke of Trump over Iran war - CNN
+- Magnitude 5.6 earthquake rattles Northern California: Some injuries reported, thousands lose power - KCRA
+- Lawmakers demand answers as turmoil over Reflecting Pool repair continues - AP News
+- Eric Adams confidant Frank Carone indicted in $120,000 bribery scheme - Politico
+- US Air Force requested to bring back mandatory flu shots weeks before basic training outbreak - CNN
+- Los Angeles Names a New Schools Superintendent After Scandal - The New York Times
+- Taiwan cheered by Western allies' alarm over Chinese Coast Guard activities - Reuters
+- Leader of secretive South Korean church arrested on suspicion of election influence - AP News
 - France, UK and Spain see record temperatures as heatwave grips western Europe - BBC
-- China’s Assertions of Authority Over Foreign Ships Near Taiwan Draw U.S. Rebuke - WSJ
-- Leader of secretive South Korean church arrested in election influence investigation - AP News
-- Rubio Seeks to Reassure Gulf Arab Partners on Iran Deal - The New York Times
-- Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue - CNBC
-- Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian
-- Nasdaq, S&P end lower as tech stocks fall - Reuters
+- Iranian agents lived in Australia before directing attacks on Sydney and Melbourne, spy chief says - AP News
+- Asian stocks surge as Micron earnings ease AI fears - Reuters
+- Stock market today: Dow rises, S&P 500 and Nasdaq slip as AI jitters return ahead of Micron earnings - Yahoo Finance
 - US banks would lose $700bn in economic crash, Fed stress tests find - Financial Times
+- Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled - AP News
 - GTA 6 will cost £70 - and physical edition will not contain a disc - BBC
-- The 35 Best Gaming Deals in the Prime Day Sales — Hand-Picked by Our Deals Experts - IGN
+- Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
