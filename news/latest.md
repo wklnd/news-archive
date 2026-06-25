@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-25 20:56_
+_Updated: 2026-06-25 23:17_
 
-- Supreme Court rules for Trump on asylum claims at the border - NBC News
-- Venezuela Earthquakes Live Updates: At Least 188 Dead as Rescuers Search for Survivors - The New York Times
-- Under pressure from Trump, Republican-led Senate reverses course on Iran - The Washington Post
-- Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says - AP News
+- Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says - NPR
+- Venezuela Earthquakes Live Updates: At Least 164 Dead as Rescuers Search for Survivors - The New York Times
+- Senate rejects Iran war powers resolution after Trump meets with Republicans - Fox News
+- Exclusive | Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait - WSJ
 - France’s heat this week was worse than a dire scenario imagined for 2050 - The Washington Post
-- Capitol agenda: Johnson tries to clean up Trump’s Hill mess - Politico
-- Federal court blocks Trump’s executive order limiting mail ballots - The Washington Post
-- Cassidy says he passed a note to Witkoff to request briefing during heated Trump meeting - CBS News
-- Supreme Court strikes down Hawaii’s ‘vampire rule’ for gun owners - NBC News
-- Texas Public School Students May Soon Be Required to Read the Bible - The New York Times
+- Reflecting Pool liner was cut with a sharp knife or razor, National Park Service says - PBS
+- Sotomayor offers blistering dissent on Supreme Court asylum decision: ‘More people will die’ - The Hill
+- The Dems already had AOC. Now they have DAC. - Politico
+- Senate Republicans reverse Iran war powers vote after Trump berates them at Capitol meeting - NBC4 Washington
+- Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law - Los Angeles Times
+- Is Europe embracing air conditioning as deadly heat waves become more common? - CBS News
+- TikTok star from Kent faces death penalty for Dubai murder - BBC
 - Exclusive | Iran Estimates $40 Billion Windfall From Reopening Hormuz With Gulf States - WSJ
-- British TikTok Influencer, 23, Faces Death by Firing Squad in Dubai If Convicted of Man’s Murder - Yahoo
-- 12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say - Fox News
-- Zelenskyy says Russia is shifting air defenses to Moscow and other key sites after drone strikes - AP News
+- In black and tears: Millions in Iran, globe observe Ashura to mourn Imam Husseins martyrdom - PressTV
+- Apple shares plunge after it hikes prices on iPads and laptops - NBC News
 - Supreme Court blocks thousands of suits claiming Roundup causes cancer - The Washington Post
-- Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's
 - May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters
-- JPMorgan names 2 new co-presidents, setting up race to succeed Jamie Dimon - Fox Business
-- Xbox prices spike another $100 or more - The Verge
-- After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner - WIRED
+- JPMorgan Shakes Up Dimon Succession Race With Two New Presidents - WSJ
+- Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC
+- Prime Day ends soon: We found 125+ deals from Apple, Lego, Sony, Kindle, and more - Mashable
