@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-26 17:15_
+_Updated: 2026-06-26 19:22_
 
-- Ex-Trump adviser John Bolton expected to plead guilty to retaining national security information - NBC News
-- Venezuela Earthquakes Live Updates: Rescuers Race to Find Survivors - The New York Times
+- Foreign rescue teams arrive in quake-hit Venezuela as death toll nears 600, thousands missing - Reuters
+- Trump says Iran violated ceasefire agreement by striking cargo ship, drone attacks - CNBC
+- Ex-Trump adviser John Bolton pleads guilty to mishandling classified information - NBC News
 - Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- Iran deal tested by drone attack as Trump offers up US farm goods - Fox News
-- Reflecting Pool liner cut with sharp knife or razor, National Park Service says - BBC
-- IRGC warns against new Hormuz route for ships: What we know - Al Jazeera
-- Housing board votes to freeze New York rents in victory for Mamdani - BBC
-- Capitol agenda: House GOP agenda gets tenuous Trump lifeline - Politico
+- Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman - Reuters
 - Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
+- Judge for Charlie Kirk shooting case holds prosecutor in contempt, keeps death penalty on the table - CNN
+- Newsom calls for national billionaire tax while fighting California wealth tax measure - Politico
 - The Lincoln Memorial should be green with envy: This reflecting pool stayed clear - Politico
-- Scientists reveal secrets of ancient scrolls burned by Mount Vesuvius nearly 2,000 years ago - NBC News
-- Russia-annexed Crimea declares 'emergency' amid Ukraine strikes - Yahoo
-- Australia plans to strengthen laws banning children from social media - NPR
-- What to Know About How Iran Uses China’s Currency to Weaken U.S. Power - WSJ
-- Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techs - Yahoo Finance
-- Supreme Court ruling blocks Roundup cancer warning lawsuits, handing Bayer major win - KCCI
-- Korean Stocks Slump 6% as Chipmakers Hit by Renewed Selloff - Bloomberg.com
+- "It's blood money": Family of exonerated man in Texas yogurt shop murders speaks out after settlement - CBS News
+- Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters
+- Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine - NPR
+- 4 people convicted over insecticide deaths of tourist family during reported bedbug infestation at Istanbul hotel - CBS News
+- Heat wave blasting Europe is the worst ever recorded, researchers say - The Washington Post
+- Oil prices drop as more ships move through the Strait of Hormuz - Yahoo Finance
 - Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's
-- Prime Day deals end tonight: Live updates on the best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
-- Microsoft adds another year to Windows 10 extended update program - Ars Technica
+- Refurbished MacBook Neo Models Now Available, a Day After Price Hike - MacRumors
+- This new research challenges nearly every big AI narrative of 2026 - Business Insider
+- It's Xbox's turn (again), as console prices keep going up - Game File | Stephen Totilo
+- Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips - MacRumors
