@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-26 21:18_
+_Updated: 2026-06-26 23:06_
 
 ## Top Stories
 
+- Båt med ungdomar har sjunkit i Smögen - Göteborgs-Posten
+- DN Direkt – Dödssiffran stiger i Venezuela - Dagens Nyheter
+- FN-organ: ”Värmerekord runtom i Europa” - Västerbottens-Kuriren
+- Ukrainas 40-dagarsoperation ska pressa Kreml - Dagens Nyheter
 - Sverige kan få nytt värmerekord i helgen - Svenska Dagbladet
+- Sandra Stiskalo: Så blev kaos det nya normala i Storbritannien - Dagens Nyheter
+- M lovar sänkt skatt för småbarnsföräldrar med jobb - Göteborgs-Posten
+- DN Direkt – V-ledaren Dadgostar talade i Almedalen - Dagens Nyheter
+- Sex personer till sjukhus efter trafikolycka - Västerbottens-Kuriren
+- Så bra var Ulf Kristerssons tal i Almedalen - Göteborgs-Posten
 - Trump: Iran har brutit mot vapenvilan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- M lovar sänkt skatt för småbarnsföräldrar med jobb - Västerbottens-Kuriren
-- Vänsterpartiets familjepaket – 16 miljarder till barnen - Vänsterpartiet
-- Trafikverkets varning: extremvärme och blödande asfalt - Bohusläningen
-- Undantagstillstånd på Krim efter ukrainska anfall - Göteborgs-Posten
-- Personbil i krock med en grävmaskin i Tollarp – man livshotande skadad - SVT Nyheter
-- DN Direkt – Kvinna häktad för mord ombord på båt - Dagens Nyheter
-- Ulf Kristerssons tal i Almedalen 2026 - Moderaterna
-- DN Direkt – Stor brandrisk på många håll i värmeböljans spår - Dagens Nyheter
-- Rapport: Europas värmebölja beror på klimatförändringarna - Dagens Nyheter
-- 50 000 uppges saknade i Venezuela - Göteborgs-Posten
-- Trump: Iransk fartygsattack brott mot vapenvilan - Västerbottens-Kuriren
 - Ukrainas flagga vajar på viktiga udden – efter fyra år - Dagens Nyheter
-- LÄGRE VÄRDERAT ÄN PÅ LÄNGE, SPEKULATIVT KÖP, AFV - Placera.se
+- Direkt – Krisen i Mellanöstern – Fartyg träffat av projektil i Hormuzsundet - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Två dödade i attack mot Nikopol - Dagens Nyheter
+- Storbankernas okända räntetrick – drar in miljonbelopp • - Expressen
 - Svenska semesterfavoriter billigare – trots bränslekrisen - Dagens Nyheter
-- Nya topputnämningar på JP Morgan - Affärsvärlden
-- Pyspunka på Wall Street – helröd börs i spurten - EFN
-- Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
+- Rekordmycket utdelat från Allmänna arvsfonden - Aftonbladet
+- Rött rakt igenom på USA-börsen - Västerbottens-Kuriren
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
+- Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
 
 ## World News
 
+- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - 130 svenska miljoner till global hälsa - Aftonbladet
 - Schick calls time on Czechia career after World Cup exit - FotMob
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Final round of World Championship of Public Speaking About to Begin - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
 - 1 426 potential victims identified in global operation against human trafficking - Europol
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
@@ -78,12 +78,13 @@ _Updated: 2026-06-26 21:18_
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-06-26 21:18_
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -137,25 +137,25 @@ _Updated: 2026-06-26 21:18_
 - 5 myter om öppen vetenskap - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 
 ## Jordbruk
 
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Global Organic Agriculture Group föreslår 5 lösningar för grönt jordbruk. - Vietnam.vn
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Jordbrukspolitik - Naturvårdsverket
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Driva lantbruk i Ryssland är ingen promenad i parken - atl.nu
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
