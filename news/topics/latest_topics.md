@@ -1,65 +1,65 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-26 13:58_
+_Updated: 2026-06-26 17:10_
 
 ## Top Stories
 
-- Lokförare varnade för solkurva – timmar innan urspårningen - SVT Nyheter
-- Värmeböljan fortsätter – alkohol förbjuds i Paris - Dagens Nyheter
-- Döms till livstid för dubbelmord i Göteborg - Aftonbladet
-- Fängelse för deltagande i terroristorganisation - Säkerhetspolisen
-- Direkt – Kriget i Ukraina – Nödläge utlyst på Krim - Dagens Nyheter
-- M lovar sänkt skatt för småbarnsföräldrar med jobb - Västerbottens-Kuriren
-- Misstänkt våldtäkt i södra Stockholm – polis knackar dörr - SVT Nyheter
-- DN Direkt – Stor brandrisk på många håll i värmeböljans spår - Dagens Nyheter
-- Sverige anses ha nekat EU-migranter jämlik vård - Läkartidningen
-- Livstid för dödsskjutning i Haninge 2022 - Göteborgs-Posten
-- Militären kallas in vid omprov i Indien efter läckta intagningsprov - Sveriges Radio
+- Fyrdubblade hjärtinfarkter i franska hettan – nu höjs krav på maxtemperatur på jobbet - Dagens Nyheter
+- 50 000 uppges saknade i Venezuela - Göteborgs-Posten
+- Tomas Ramberg: Regeringen tappade greppet om väljarna direkt - Dagens Nyheter
+- Efter kritiken – högsta chefen för socialen i Alvesta får lämna - SVT Nyheter
+- Läkarens enkla tips: Så minskar du risken för värmeslag - TV4 Nyheterna
+- Region Gotland skjuter upp stängning av vattenkiosker - SVT Nyheter
+- Så bra var Ulf Kristerssons tal i Almedalen - Göteborgs-Posten
+- Kvinna begärs häktad för mord på båt utanför Askersund - Dagens Nyheter
+- Eldningsförbud införs på Gotland: ”Mycket torrt” - SVT Nyheter
+- Stor påverkan efter urspårning – bussar ersätter - Västerbottens-Kuriren
+- Undantagstillstånd på Krim efter ukrainska anfall - Västerbottens-Kuriren
+- Flygplan har kraschat in i skyskrapa – i Peking - SVT Nyheter
 - Knarkbål i Myanmar: 50 ton upp i rök - Hufvudstadsbladet – HBL
-- Fotboll: Alexia Putellas ord efter jordbävningarna i Venezuela: ”Jag är i säkerhet” - SVT Nyheter
-- Uppmanar invånare i stad i Libanon att lämna – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Uppgifter: Kina varnar för 'fryspunkt' i relationen med EU - Global Times - Placera.se
-- Lista: Här är Sveriges billigaste villaområden - Tidningen Ångermanland
-- Deloitte skolkade från Intelligos stämma - Affärsvärlden
-- Därför rusar elpriserna i extremhettan i Europa - EFN
+- Ryssland: Hundratals ukrainska drönare nedskjutna - Västerbottens-Kuriren
+- Pierce Group: Redo att växla upp - Affärsvärlden
+- Så tjänar bankerna miljoner på datumet för din bolåneränta - Placera.se
+- Stockholmsbörsen fortsätter ned – defensivt mot strömmen - EFN
+- Pareto spår sjunkande rörelsemarginal i H&M framåt - sänker till sälj - Börsvärlden
+- Allt fler väljer Anthropics Claude istället för Chat GPT - Computer Sweden
 - Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
-- Microsoft hakar på Apple – höjer priset på Xbox - Omni
 
 ## World News
 
-- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - 130 svenska miljoner till global hälsa - Aftonbladet
+- Schick calls time on Czechia career after World Cup exit - FotMob
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Trump: Krigsmålen trumfar en global depression - Omni
-- Unga arbetstagare står i centrum när UNI bygger upp en global rörelse inom media, underhållning och konst - UNI Global Union
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Börsen öppnar på rött efter global teknikfrossa - Dagens industri
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Sydkoreas hävstångs-ETF-kris utlöser global chipförsäljning - Investing.com Sverige
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global kraftsamling mot rabies - NewsMachine AB
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal - The New York Times
-- South Korea: Age system to be standardised from 2023 - BBC
-- Visiting the US is about to get a lot more expensive for foreign travelers - CNN
-- Stamkos OT goal lifts Predators past Penguins in Global Series win - NHL.com
-- International Day of Epidemic Preparedness - World Health Organization (WHO)
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -103,17 +103,17 @@ _Updated: 2026-06-26 13:58_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -121,20 +121,20 @@ _Updated: 2026-06-26 13:58_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskningen ska vara fri - European Commission
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
