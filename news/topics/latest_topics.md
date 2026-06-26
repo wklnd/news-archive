@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-26 19:15_
+_Updated: 2026-06-26 21:18_
 
 ## Top Stories
 
-- 50 000 uppges saknade i Venezuela - Göteborgs-Posten
-- Värmerekord kan slås i Målilla i helgens hetta - Sveriges Radio
-- Trafikverket varnar för blödande asfalt – går upp i stabsläge - Omni
-- Flygplan har kraschat in i skyskrapa – i Peking - SVT Nyheter
-- Tomas Ramberg: Regeringen tappade greppet om väljarna direkt - Dagens Nyheter
+- Sverige kan få nytt värmerekord i helgen - Svenska Dagbladet
+- Trump: Iran har brutit mot vapenvilan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- M lovar sänkt skatt för småbarnsföräldrar med jobb - Västerbottens-Kuriren
+- Vänsterpartiets familjepaket – 16 miljarder till barnen - Vänsterpartiet
+- Trafikverkets varning: extremvärme och blödande asfalt - Bohusläningen
 - Undantagstillstånd på Krim efter ukrainska anfall - Göteborgs-Posten
-- Kvinna häktad för mord ombord på båt - Västerbottens-Kuriren
+- Personbil i krock med en grävmaskin i Tollarp – man livshotande skadad - SVT Nyheter
+- DN Direkt – Kvinna häktad för mord ombord på båt - Dagens Nyheter
+- Ulf Kristerssons tal i Almedalen 2026 - Moderaterna
 - DN Direkt – Stor brandrisk på många håll i värmeböljans spår - Dagens Nyheter
-- E45 vid Lärjemotet: person i rullstol mot trafiken - Sveriges Radio
-- Livstid för dödsskjutning i Haninge 2022 - Västerbottens-Kuriren
+- Rapport: Europas värmebölja beror på klimatförändringarna - Dagens Nyheter
+- 50 000 uppges saknade i Venezuela - Göteborgs-Posten
 - Trump: Iransk fartygsattack brott mot vapenvilan - Västerbottens-Kuriren
 - Ukrainas flagga vajar på viktiga udden – efter fyra år - Dagens Nyheter
-- FN-organ: ”Värmerekord runtom i Europa” - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Två dödade i attack mot Nikopol - Dagens Nyheter
-- Pierce Group: Redo att växla upp - Affärsvärlden
 - LÄGRE VÄRDERAT ÄN PÅ LÄNGE, SPEKULATIVT KÖP, AFV - Placera.se
-- Förvaltaren säljer i sina favoritbolag: ”Tuff period” - EFN
-- Pareto spår sjunkande rörelsemarginal i H&M framåt - sänker till sälj - Börsvärlden
-- Microsoft höjer priserna på Xbox-konsoler igen - m3.se
+- Svenska semesterfavoriter billigare – trots bränslekrisen - Dagens Nyheter
+- Nya topputnämningar på JP Morgan - Affärsvärlden
+- Pyspunka på Wall Street – helröd börs i spurten - EFN
 - Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
+- Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
 ## World News
 
@@ -36,25 +36,25 @@ _Updated: 2026-06-26 19:15_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -68,8 +68,8 @@ _Updated: 2026-06-26 19:15_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -126,6 +126,7 @@ _Updated: 2026-06-26 19:15_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Forskningen ska vara fri - European Commission
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -138,7 +139,6 @@ _Updated: 2026-06-26 19:15_
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 
 ## Jordbruk
 
