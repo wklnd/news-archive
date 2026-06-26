@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-26 21:21_
+_Updated: 2026-06-26 23:08_
 
-- Live updates: Over 500 dead in Venezuela earthquakes as rescuers race to find victims - CNN
-- Trump says Iran violated ceasefire agreement by striking cargo ship, drone attacks - CNBC
+- Trump chides Iran for ship attack after Tehran insists on control of the strait - Reuters
+- Live updates: Over 900 dead in Venezuela earthquakes as rescuers race to find victims - CNN
 - Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect - ABC7 Los Angeles
-- John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case - The New York Times
 - Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- Leon Black refuses to answer questions on NDAs at Jeffrey Epstein hearing, Rep. Comer says - CNBC
-- Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies' - CNBC
-- Judge in Charlie Kirk murder case finds prosecutor in contempt for public comments, but won't take death penalty off the table - CBS News
+- Texas makes Bible passages required reading for millions of public school students - The Guardian
+- Vance Downplays Watergate and Compares Himself to Nixon - The New York Times
+- Trump threatens 100% tax on European imports if countries impose tax on digital services - AP News
+- Israel, Lebanon sign framework peace deal after US-mediated talks - Reuters
+- Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset' - CNBC
 - NATO chief’s playbook with Trump: Show him the money - Politico
-- Gavin Newsom opposes a California wealth tax. He’s proposing a national billionaire tax instead - CNN
 - Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters
-- Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine - NPR
+- Ukraine launches what appears to be one of its largest drone attacks against Russia: report - Fox News
 - US considering moving Gulf bases hit by Iran westward, including to Israel — report - The Times of Israel
-- Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born - NPR
+- Heat wave blasting Europe is the worst ever recorded, researchers say - The Washington Post
 - OpenAI unveils GPT-5.6 amid US AI regulatory drama - The Verge
-- Micron Leads Tech Stocks Rally on Blowout Earnings - Yahoo Finance
-- OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker - Barron's
-- Jamie Dimon upends succession race at JPMorgan again - Financial Times
+- Wall Street ends mixed; chips tumble and Moderna rallies - Reuters
+- Minneapolis Fed President Neel Kashkari says he expects a rate hike this year - CNBC
+- Laptop Prices Have Passed the Point of No Return - Gizmodo
 - We found 383+ of the best Amazon Prime Day deals worth shopping before they’re gone - NBC News
 - How to get free Windows 10 security patches until October 2027 - and avoid the $30 fee - ZDNET
