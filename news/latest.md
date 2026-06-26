@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-26 14:33_
+_Updated: 2026-06-26 17:15_
 
+- Ex-Trump adviser John Bolton expected to plead guilty to retaining national security information - NBC News
+- Venezuela Earthquakes Live Updates: Rescuers Race to Find Survivors - The New York Times
 - Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- Venezuelans search through rubble as earthquake death toll rises - NBC News
-- Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" - CBS News
-- Reflecting Pool liner cut with sharp knife or razor, National Park Service says - bbc.com
-- Trump’s Tacky State Fair Suffers Literal Meltdown - The Daily Beast
-- Final Rent Guidelines Board vote approves 2-year freeze, fulfilling Mayor Mamdani's campaign pledge - ABC7 New York
-- Senate GOP scrambling for a strategy to please Trump on SAVE America Act - The Hill
+- Iran deal tested by drone attack as Trump offers up US farm goods - Fox News
+- Reflecting Pool liner cut with sharp knife or razor, National Park Service says - BBC
+- IRGC warns against new Hormuz route for ships: What we know - Al Jazeera
+- Housing board votes to freeze New York rents in victory for Mamdani - BBC
+- Capitol agenda: House GOP agenda gets tenuous Trump lifeline - Politico
 - Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
-- California voters to consider ballot measure to increase taxes on billionaires - Fox Business
-- Exclusive: Court papers reveal child custody deal prior to Mechanicville family deaths - WRGB
-- Europe's heatwave 'virtually impossible' without climate change, scientists say - Reuters
-- South Korea says to train 500,000 'drone warriors' to counter North Korea - Reuters
-- Gulf states weigh living side by side with Iran as Tehran weaponises Hormuz - Euronews
-- Ukraine unleashes one of its heaviest drone bombardments of Russia - AP News
-- Stock Market Today: Nasdaq Futures Fall as Tech Selloff Deepens — Live Updates - WSJ
-- The AI boom now has a price tag — and Micron just sent the bill: Chart of the Day - Yahoo Finance
-- Open AI IPO delay; SpaceX mulls mobile networks - what’s moving markets - Investing.com
+- The Lincoln Memorial should be green with envy: This reflecting pool stayed clear - Politico
+- Scientists reveal secrets of ancient scrolls burned by Mount Vesuvius nearly 2,000 years ago - NBC News
+- Russia-annexed Crimea declares 'emergency' amid Ukraine strikes - Yahoo
+- Australia plans to strengthen laws banning children from social media - NPR
+- What to Know About How Iran Uses China’s Currency to Weaken U.S. Power - WSJ
+- Stock market today: Dow, S&P 500, Nasdaq slide as report of OpenAI IPO delay rattles techs - Yahoo Finance
+- Supreme Court ruling blocks Roundup cancer warning lawsuits, handing Bayer major win - KCCI
+- Korean Stocks Slump 6% as Chipmakers Hit by Renewed Selloff - Bloomberg.com
 - Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's
+- Prime Day deals end tonight: Live updates on the best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
 - Microsoft adds another year to Windows 10 extended update program - Ars Technica
-- Android 17’s new foldable gaming mode could make flippy phones more fun - The Verge
