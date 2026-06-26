@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-26 19:22_
+_Updated: 2026-06-26 21:21_
 
-- Foreign rescue teams arrive in quake-hit Venezuela as death toll nears 600, thousands missing - Reuters
+- Live updates: Over 500 dead in Venezuela earthquakes as rescuers race to find victims - CNN
 - Trump says Iran violated ceasefire agreement by striking cargo ship, drone attacks - CNBC
-- Ex-Trump adviser John Bolton pleads guilty to mishandling classified information - NBC News
+- Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect - ABC7 Los Angeles
+- John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case - The New York Times
 - Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- Iran reasserts its right to control shipping in Strait of Hormuz after ship hit near Oman - Reuters
-- Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
-- Judge for Charlie Kirk shooting case holds prosecutor in contempt, keeps death penalty on the table - CNN
-- Newsom calls for national billionaire tax while fighting California wealth tax measure - Politico
-- The Lincoln Memorial should be green with envy: This reflecting pool stayed clear - Politico
-- "It's blood money": Family of exonerated man in Texas yogurt shop murders speaks out after settlement - CBS News
+- Leon Black refuses to answer questions on NDAs at Jeffrey Epstein hearing, Rep. Comer says - CNBC
+- Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies' - CNBC
+- Judge in Charlie Kirk murder case finds prosecutor in contempt for public comments, but won't take death penalty off the table - CBS News
+- NATO chief’s playbook with Trump: Show him the money - Politico
+- Gavin Newsom opposes a California wealth tax. He’s proposing a national billionaire tax instead - CNN
 - Small aircraft crashes into Beijing's tallest building, eyewitnesses say - Reuters
 - Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine - NPR
-- 4 people convicted over insecticide deaths of tourist family during reported bedbug infestation at Istanbul hotel - CBS News
-- Heat wave blasting Europe is the worst ever recorded, researchers say - The Washington Post
-- Oil prices drop as more ships move through the Strait of Hormuz - Yahoo Finance
-- Micron Stock Surges: Analysts React to Strong MU Earnings Report - Barron's
-- Refurbished MacBook Neo Models Now Available, a Day After Price Hike - MacRumors
-- This new research challenges nearly every big AI narrative of 2026 - Business Insider
-- It's Xbox's turn (again), as console prices keep going up - Game File | Stephen Totilo
-- Apple's OLED 'MacBook Ultra' Will Stick With M5 Pro and M5 Max Chips - MacRumors
+- US considering moving Gulf bases hit by Iran westward, including to Israel — report - The Times of Israel
+- Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born - NPR
+- OpenAI unveils GPT-5.6 amid US AI regulatory drama - The Verge
+- Micron Leads Tech Stocks Rally on Blowout Earnings - Yahoo Finance
+- OpenAI IPO Fears Hit Oracle and Other Stocks Exposed to the ChatGPT Maker - Barron's
+- Jamie Dimon upends succession race at JPMorgan again - Financial Times
+- We found 383+ of the best Amazon Prime Day deals worth shopping before they’re gone - NBC News
+- How to get free Windows 10 security patches until October 2027 - and avoid the $30 fee - ZDNET
