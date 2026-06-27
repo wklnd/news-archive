@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-27 23:38_
+_Updated: 2026-06-28 01:34_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Drönarattack i Sumy – 18 skadade - Dagens Nyheter
-- Över 70 drunknade i värmeböljans Frankrike - Göteborgs-Posten
-- Stora störningar i tågtrafiken i Skåne - Krisinformation.se
-- Närmare 1 500 döda i katastrofdrabbade Venezuela - Västerbottens-Kuriren
+- England segrare i grupp L - Västerbottens-Kuriren
+- USA attackerar mål i Iran för andra kvällen i rad - Dagens Nyheter
+- Israel: Vi blir kvar tills Hizbollah avväpnas - Göteborgs-Posten
+- Dödssiffran stiger i Venezuela – kamp mot klockan - Göteborgs-Posten
 - På jakt efter svensexan som sjönk på Smögen - Göteborgs-Posten
-- Två mc-förare gled på vägen efter olycka – blev påkörda igen - Sveriges Radio
-- Flera skånska värmerekord slagna under lördagen - SVT Nyheter
-- Junirekord på flera orter i södra Sverige - Göteborgs-Posten
-- En död vid utbränd bil – utreds som mord - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Drönarattack i Sumy – 18 skadade - Dagens Nyheter
+- Värmerekord väntas lokalt under dagen - Göteborgs-Posten
 - Rekordhöga skolresultat för Malmös nior - Dagens Nyheter
-- Kackerlacksparti växer i Indien efter domarens ord - Sveriges Radio
-- Demonstrationer mot Hamas i Gaza blev aldrig av - Sveriges Radio
-- Schweiz glaciärer krymper i värmeböljan - Aftonbladet
+- Nedriven kontaktledning stoppade tåg på Västkusten - SVT Nyheter
+- SMHI varnar för åskoväder - Västerbottens-Kuriren
+- Extremhetta i Paris – så byggs staden om för ett varmare klimat - SVT Nyheter
+- Schweiz glaciärer krymper i värmeböljan - Sydsvenskan
+- Israelisk drönarattack mot södra Libanon - Västerbottens-Kuriren
 - Veteran hotar med uppror: Kan vända vapnen mot Kreml - Dagens Nyheter
-- Apple vill köpa svartlistade chip från Kina - Sydsvenskan
-- Dämpad vinstökning bland kinesiska företag - Dagens industri
+- Billigare dans och förskola, dyrare privatimport – så slår de nya lagarna - Omni
 - Anthropic nära grönt ljus för stoppad AI-modell - EFN
-- Regnmoln i appen kan kosta miljoner - Svenska Dagbladet
+- Polisen måste samordna regler om skyddsutrustning - Aftonbladet
+- DN Direkt – Rött rakt igenom på USA-börsen - Dagens Nyheter
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
@@ -45,7 +45,7 @@ _Updated: 2026-06-27 23:38_
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
