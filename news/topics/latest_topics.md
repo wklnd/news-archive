@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-27 12:32_
+_Updated: 2026-06-27 13:56_
 
 ## Top Stories
 
+- JUST NU: Varning – rekord kan krossas - Expressen
 - Mamman omkom när hon räddade sin dotter i Venezuela - Dagens Nyheter
-- Värmebölja på ingång: ”Varna tydligare för alkoholen” - Värmlands Folkblad
-- SMHI: Lördagen kan bli årets hittills varmaste dag - Omni
-- Elfel stoppar tåg på Västkusten - SVT Nyheter
-- Attacker mellan USA och Iran: ”Bryter avtalet” - Göteborgs-Posten
-- Hundratals köar för gratis frukost: ”Folk har inte råd” - Aftonbladet
+- FN-organ: ”Värmerekord runtom i Europa” - Göteborgs-Posten
+- Stopp i tågtrafiken på flera sträckor i landet - Aftonbladet
+- Brand i flerfamiljshus i Bettorp – man gripen - SVT Nyheter
+- Här väntas bostadspriserna öka mest - Göteborgs-Posten
+- Död person hittad efter bilbrand – misstänkt mord i Jönköping - SVT Nyheter
 - DN Direkt – Stor brandrisk på många håll i värmeböljans spår - Dagens Nyheter
-- Brand i flerfamiljshus – ingen skadad - Västerbottens-Kuriren
-- Polischefen om gängen: Vi har inte knäckt någonting - Corren
 - Förlossningar stänger i sommar: ”Vi sätter psykiska spår i gravida” - Dagens Nyheter
-- Rekordvarm sommarnatt i Danmark - Göteborgs-Posten
-- Budapest Pride: ”Vanligt” firande i år - Västerbottens-Kuriren
+- Polischefen om gängen: Vi har inte knäckt någonting - Corren
+- USA attackerar Iran efter fartygsangrepp - Hufvudstadsbladet – HBL
+- Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Budapest - Regeringen.se
 - Iran förhandlar med stöd av trumpologi – att läsa av Trumps egentliga avsikt - Sydsvenskan
-- Turister förhindras besök hos badande apor - UNT
-- Trump vänder: Anthropics AI-modell tillåts - Dagens industri
+- Ukraina: Flamingokvintett spelade mot rysk ballistisk robotfabrik i Volgograd i morse - cornucopia.se
+- USA ger 100 företag tillgång till AI-modellen Mythos - Omni
 - MOTTAGIT KOMPLETTERINGSBEGÄRAN FRÅN FDA FÖR NASP - Placera.se
-- Pricerunner mot Google – nu avgörs miljardtvisten - Svenska Dagbladet
-- Apple pressar Trump – vill köpa svartlistade chip från Kina - Expressen
+- Dämpad vinstökning bland kinesiska företag - Dagens industri
+- Pricerunner mot Google – nu avgörs miljardtvisten - Folkbladet
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
@@ -34,18 +34,18 @@ _Updated: 2026-06-27 12:32_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Ice hockey chief calls for Russia & Belarus return - BBC
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
@@ -73,26 +73,16 @@ _Updated: 2026-06-27 12:32_
 
 ## Business
 
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -102,16 +92,16 @@ _Updated: 2026-06-27 12:32_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
@@ -119,15 +109,26 @@ _Updated: 2026-06-27 12:32_
 
 ## Science
 
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Kina drar om USA – bäst på forskning - SVT Nyheter
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
+- Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- 5 myter om öppen vetenskap - Läkartidningen
-- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
