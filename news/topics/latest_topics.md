@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-27 07:28_
+_Updated: 2026-06-27 10:09_
 
 ## Top Stories
 
-- Natoländerna väntar på rysk attack: ”Snart” - Aftonbladet
 - Här kapsejsar båten – precis vid Smögenbryggan - Göteborgs-Posten
-- Retliga hundar och vimsiga humlor – så slår värmen - Svenska Dagbladet
+- USA attackerar Iran efter fartygsangrepp - Hufvudstadsbladet – HBL
+- Hundratals köar för gratis frukost: ”Folk har inte råd” - Aftonbladet
+- Så tar du hand om hunden i värmen: ”Handen mot asfalten” - Sveriges Radio
+- DN Direkt – Dödssiffran stiger i Venezuela - Dagens Nyheter
 - Han tog strid mot kommunen – fick igenom husbygget på stranden - Dagens Nyheter
-- Kristersson: ”Jag tänker inte förlora valet” - Svenska Dagbladet
-- Vårdcentralen Capio Kvillebäcken i Göteborg granskas – 50 anställda ska ha slutat - Göteborgs-Posten
-- Man död i trafikolycka på E22 - Expressen
+- Polischefen om gängen: Vi har inte knäckt någonting - Corren
 - Vårdens plan när värmesmockan slår till - Bbl/AT
 - Flera varningar inför helgens värmebölja - Göteborgs-Posten
-- Hitta ditt parti med hjälp av valkompassen - Bohusläningen
-- USA attackerar Iran efter fartygsangrepp - Hufvudstadsbladet – HBL
-- Turister förhindras besök hos badande apor - Västerbottens-Kuriren
-- Videoklipp på räddade personer sprider hopp i Venezuela - Dagens Nyheter
-- Rubio: Ramavtal klart mellan Israel och Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Anthropics AI-modell tillåts av USA - Svenska Dagbladet
+- Nooshi Dadgostar i Almedalen: Adjö Tidö! - Vänsterpartiet
+- DN Direkt – Fyra personer skadade i folksamling efter VM-matchen - Dagens Nyheter
+- Turister förhindras besök hos badande apor - UNT
+- Ukrainas 40-dagarsoperation ska pressa Kreml - Dagens Nyheter
+- Iranska varningen efter USA:s attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump vänder: Anthropics AI-modell tillåts - Dagens industri
 - Apple pressar Trump – vill köpa svartlistade chip från Kina - Expressen
+- Pricerunner mot Google – nu avgörs miljardtvisten - Svenska Dagbladet
 - Elektas produkt- och teknikchef Christopher Busch köper aktier för 1,1 miljoner kronor - Placera.se
-- Pyspunka på Wall Street – tamt slut på börsveckan - EFN
-- Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
+- Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
 ## World News
 
 - KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
+- 130 svenska miljoner till global hälsa - Dagens Medicin
 - 130 svenska miljoner till global hälsa - Aftonbladet
 - Schick calls time on Czechia career after World Cup exit - FotMob
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -37,24 +38,23 @@ _Updated: 2026-06-27 07:28_
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Uppgifter: Kina varnar för 'fryspunkt' i relationen med EU - Global Times - Börsvärlden
+- Global drogsajt stängd – svenskar gripna - Drugnews
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Uppgifter: Kina varnar för 'fryspunkt' i relationen med EU - Global Times - Börsvärlden
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -107,20 +107,21 @@ _Updated: 2026-06-27 07:28_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- E-hälsa inom EU - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
@@ -128,17 +129,16 @@ _Updated: 2026-06-27 07:28_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
