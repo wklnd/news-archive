@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-27 21:52_
+_Updated: 2026-06-27 23:38_
 
 ## Top Stories
 
-- Tågkaos i rekordvärmen – fler inställda tåg - Sydsvenskan
-- Värmerekord på flera orter i Sydsverige - Aftonbladet
-- Åskoväder avbryter extremvärmen i Europa - Dagens Nyheter
-- På jakt efter svensexan som sjönk på Smögen - Göteborgs-Posten
-- Motorcykelolycka i Härryda – skadade till sjukhus - Västerbottens-Kuriren
-- Parkeringskaos vid flera bad: ”Extremt farligt” - Omni
-- En död vid utbränd bil – utreds som mord - Västerbottens-Kuriren
-- Stockholmarna passade på i värmen: ”Är bara att njuta” - Dagens Nyheter
-- Två skadade efter båtbrand i Vänern - Västerbottens-Kuriren
-- SMHI varnar för åskoväder - NT
 - Direkt – Kriget i Ukraina – Drönarattack i Sumy – 18 skadade - Dagens Nyheter
-- Ny attack mot större stad i Ryssland – en död - Göteborgs-Posten
+- Över 70 drunknade i värmeböljans Frankrike - Göteborgs-Posten
+- Stora störningar i tågtrafiken i Skåne - Krisinformation.se
+- Närmare 1 500 döda i katastrofdrabbade Venezuela - Västerbottens-Kuriren
+- På jakt efter svensexan som sjönk på Smögen - Göteborgs-Posten
+- Två mc-förare gled på vägen efter olycka – blev påkörda igen - Sveriges Radio
+- Flera skånska värmerekord slagna under lördagen - SVT Nyheter
+- Junirekord på flera orter i södra Sverige - Göteborgs-Posten
+- En död vid utbränd bil – utreds som mord - Västerbottens-Kuriren
+- Rekordhöga skolresultat för Malmös nior - Dagens Nyheter
+- Kackerlacksparti växer i Indien efter domarens ord - Sveriges Radio
 - Demonstrationer mot Hamas i Gaza blev aldrig av - Sveriges Radio
-- Schweiz glaciärer krymper i värmeböljan - Västerbottens-Kuriren
-- Anthropic nära grönt ljus för stoppad AI-modell - EFN
+- Schweiz glaciärer krymper i värmeböljan - Aftonbladet
+- Veteran hotar med uppror: Kan vända vapnen mot Kreml - Dagens Nyheter
 - Apple vill köpa svartlistade chip från Kina - Sydsvenskan
-- Pricerunner mot Google – nu avgörs miljardtvisten - Dagens industri
-- Dämpad vinstökning bland kinesiska företag - Expressen
-- Två astronomer har gjort en spännande upptäckt – isjätten Uranus består kanske av något helt annat än is - Illustrerad Vetenskap
+- Dämpad vinstökning bland kinesiska företag - Dagens industri
+- Anthropic nära grönt ljus för stoppad AI-modell - EFN
+- Regnmoln i appen kan kosta miljoner - Svenska Dagbladet
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
+- Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
 ## World News
 
@@ -55,7 +55,6 @@ _Updated: 2026-06-27 21:52_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -70,25 +69,26 @@ _Updated: 2026-06-27 21:52_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -102,18 +102,18 @@ _Updated: 2026-06-27 21:52_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -132,23 +132,23 @@ _Updated: 2026-06-27 21:52_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
