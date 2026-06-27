@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-27 03:32_
+_Updated: 2026-06-27 07:37_
 
-- US strikes Iran in response to drone strike on commercial ship - Al Jazeera
-- Live updates: Over 900 dead in Venezuela earthquakes as rescuers race to find victims - CNN
+- US conducts strikes on Iran after attack on cargo ship - BBC
+- June 26, 2026 — Over 900 killed in Venezuela earthquakes - CNN
+- Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset' - CNBC
+- At the Great American State Fair, MAHA Meets Sno-Cones and Corn Dogs - The New York Times
+- A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding' - NPR
 - Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says - AP News
-- A Trump commission urges ‘bridges’ between church and state in sweeping draft report - AP News
-- Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect - ABC7 Los Angeles
-- Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- US judge holds prosecutor in contempt in Charlie Kirk murder case - Al Jazeera
+- Utah declares emergency, limits fireworks ahead of July Fourth as crews battle largest U.S. wildfire - CBS News
+- Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect after jury deadlocks - ABC7 Los Angeles
 - Moderates beware: Mamdani coalition portends a dramatically different Democratic Party in NYC - Politico
-- ‘Particularly dangerous situation’ in Utah, forecasters warn, as fire rages - The Washington Post
-- Trump's Great American State Fair opens with melted ice cream, empty booths - USA Today
-- Small Plane Crashes Into Tallest Building in Beijing - The New York Times
-- Hot and stuck in Paris and London: homes not built for heat - Reuters
-- US considering moving Gulf bases hit by Iran westward, including to Israel — report - The Times of Israel
-- Consistory: 178 Cardinals take part in the first session with Pope Leo - Vatican News
-- OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models - Reuters
-- Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech - Yahoo Finance
-- Oil Prices Return to Prewar Levels After Four Months - The New York Times
-- Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor
-- We found 399+ of the best Amazon Prime Day deals worth shopping before they’re gone - NBC News
-- How to get free Windows 10 security patches until October 2027 - and avoid the $30 fee - ZDNET
+- Texas becomes first state to mandate students read the Bible in public school - Houston Chronicle
+- Berlin is even worse equipped than Paris for Europe’s heatwave - The Economist
+- Small aircraft crashes into Beijing’s tallest building, videos show - The Washington Post
+- Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change - CBS News
+- Three unusual things about the King's tax bill - BBC
+- OpenAI and Anthropic limit new AI models to Trump-approved customers during cybersecurity review - AP News
+- Oil Prices Return to Prewar Levels, Four Months Later - The New York Times
+- Saks officially emerges from Chapter 11 bankruptcy with less debt and a new name - ABC News - Breaking News, Latest News and Videos
+- Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech - Yahoo! Finance Canada
+- “The Cheaper the Better,” Says Valve About its Steam Machine Pricing, but Don’t Expect a Price Decrease “Any Time Soon” - Wccftech
+- Netflix now requires every user profile to be tied to unique email address - Ars Technica
