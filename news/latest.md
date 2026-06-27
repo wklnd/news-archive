@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-27 00:48_
+_Updated: 2026-06-27 03:32_
 
-- U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz - CNBC
-- Venezuelans take search for the missing into their own hands as earthquake death toll climbs - AP News
-- Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
-- Gavin Newsom urges a national 'billionaires' tax' while fighting one in California - The Guardian
+- US strikes Iran in response to drone strike on commercial ship - Al Jazeera
+- Live updates: Over 900 dead in Venezuela earthquakes as rescuers race to find victims - CNN
+- Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says - AP News
+- A Trump commission urges ‘bridges’ between church and state in sweeping draft report - AP News
 - Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect - ABC7 Los Angeles
-- Texas makes Bible passages required reading for millions of public school students - The Guardian
-- Prosecutors in Kirk Case Found in Contempt for Media Statement - The New York Times
-- Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security' - CNBC
+- Nursing homes, factory owners and immigrants brace for fallout from Supreme Court ruling - The Washington Post
+- US judge holds prosecutor in contempt in Charlie Kirk murder case - Al Jazeera
+- Moderates beware: Mamdani coalition portends a dramatically different Democratic Party in NYC - Politico
 - ‘Particularly dangerous situation’ in Utah, forecasters warn, as fire rages - The Washington Post
-- Prosecutors in Washington Say Citations Have Been Issued at Reflecting Pool - The New York Times
+- Trump's Great American State Fair opens with melted ice cream, empty booths - USA Today
 - Small Plane Crashes Into Tallest Building in Beijing - The New York Times
-- Ukraine launches what appears to be one of its largest drone attacks against Russia: report - Fox News
-- Heat wave blasting Europe is the worst ever recorded, researchers say - The Washington Post
+- Hot and stuck in Paris and London: homes not built for heat - Reuters
 - US considering moving Gulf bases hit by Iran westward, including to Israel — report - The Times of Israel
-- OpenAI unveils GPT-5.6 amid US AI regulatory drama - The Verge
+- Consistory: 178 Cardinals take part in the first session with Pope Leo - Vatican News
+- OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models - Reuters
 - Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech - Yahoo Finance
-- Oil Prices Return to Prewar Levels, Four Months Later - The New York Times
-- Anthropic’s Mythos mess is only getting worse - The Verge
+- Oil Prices Return to Prewar Levels After Four Months - The New York Times
+- Exclusive / US releases powerful Anthropic model Mythos to some US companies - Semafor
 - We found 399+ of the best Amazon Prime Day deals worth shopping before they’re gone - NBC News
 - How to get free Windows 10 security patches until October 2027 - and avoid the $30 fee - ZDNET
