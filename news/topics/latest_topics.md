@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-27 03:28_
+_Updated: 2026-06-27 07:28_
 
 ## Top Stories
 
-- DN Direkt – Dödssiffran stiger i Venezuela - Dagens Nyheter
-- USA attackerar Iran efter fartygsangrepp - Västerbottens-Kuriren
-- Sverige kan få nytt värmerekord i helgen - Svenska Dagbladet
-- Här kapsejsar båten – precis vid Smögenbryggan - Göteborgs-Posten
 - Natoländerna väntar på rysk attack: ”Snart” - Aftonbladet
-- Våg av ilska hotar Putin för krigsplan - Expressen
-- M lovar sänkt skatt för småbarnsföräldrar med jobb - Corren
-- Man omkom i trafikolycka i Mörrum - Göteborgs-Posten
-- Dadgostar: Finns majoritet för S, V och MP - Västerbottens-Kuriren
-- Bandvagnar redo: ”Blödande asfalt” - Expressen
-- DN Direkt – Burkina Faso bryter med Frankrike - Dagens Nyheter
-- FN-organ: ”Värmerekord runtom i Europa” - Corren
-- Ukrainas 40-dagarsoperation ska pressa Kreml - Dagens Nyheter
-- Undantagstillstånd på Krim efter ukrainska anfall - Västerbottens-Kuriren
-- Storbankernas okända räntetrick – drar in miljonbelopp • - Expressen
-- Rött rakt igenom på USA-börsen - Västerbottens-Kuriren
-- Rekordmycket utdelat från Allmänna arvsfonden - Aftonbladet
-- SSAB pausar arbetet – har hittat vätecyanid - Norrbottens-Kuriren
+- Här kapsejsar båten – precis vid Smögenbryggan - Göteborgs-Posten
+- Retliga hundar och vimsiga humlor – så slår värmen - Svenska Dagbladet
+- Han tog strid mot kommunen – fick igenom husbygget på stranden - Dagens Nyheter
+- Kristersson: ”Jag tänker inte förlora valet” - Svenska Dagbladet
+- Vårdcentralen Capio Kvillebäcken i Göteborg granskas – 50 anställda ska ha slutat - Göteborgs-Posten
+- Man död i trafikolycka på E22 - Expressen
+- Vårdens plan när värmesmockan slår till - Bbl/AT
+- Flera varningar inför helgens värmebölja - Göteborgs-Posten
+- Hitta ditt parti med hjälp av valkompassen - Bohusläningen
+- USA attackerar Iran efter fartygsangrepp - Hufvudstadsbladet – HBL
+- Turister förhindras besök hos badande apor - Västerbottens-Kuriren
+- Videoklipp på räddade personer sprider hopp i Venezuela - Dagens Nyheter
+- Rubio: Ramavtal klart mellan Israel och Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Anthropics AI-modell tillåts av USA - Svenska Dagbladet
+- Apple pressar Trump – vill köpa svartlistade chip från Kina - Expressen
+- Elektas produkt- och teknikchef Christopher Busch köper aktier för 1,1 miljoner kronor - Placera.se
+- Pyspunka på Wall Street – tamt slut på börsveckan - EFN
 - Spelet med gigantisk budget – GTA 6 säljs var tolfte sekund - Sveriges Radio
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
@@ -29,24 +29,24 @@ _Updated: 2026-06-27 03:28_
 
 - KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - 130 svenska miljoner till global hälsa - Aftonbladet
-- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Schick calls time on Czechia career after World Cup exit - FotMob
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Uppgifter: Kina varnar för 'fryspunkt' i relationen med EU - Global Times - Börsvärlden
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - WorldVentures Ranks 25 on Direct Selling News' Global 100 List - Via TT
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 
 ## Technology
 
@@ -55,21 +55,21 @@ _Updated: 2026-06-27 03:28_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -98,67 +98,67 @@ _Updated: 2026-06-27 03:28_
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
-- Hälsa i vardagen (HELD) – Susanne Guidettis forskargrupp - Karolinska Institutet
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Vi presenterar ChatGPT Health - OpenAI
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Digital arbetsmiljö och hälsa – Carin Håkanstas forskargrupp - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar ChatGPT Health - OpenAI
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- E-hälsa inom EU - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Olika slutsatser från samma data - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
+- 5 myter om öppen vetenskap - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Jordbrukspolitik - Naturvårdsverket
-- Framtidens jordbruk - European Commission
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
