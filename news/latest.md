@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-27 16:16_
+_Updated: 2026-06-27 17:51_
 
-- US, Iran trade strikes: What to know, will it unravel the MoU? - Al Jazeera
-- Venezuela earthquakes kill 920 people as families desperate for news - BBC
-- Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red - The New York Times
-- Inside a secretive Ukrainian team launching deep drone strikes at Russia - NPR
+- Mideast Fighting Widens With Attacks on Bahrain, Hormuz Tanker - WSJ
+- Crucial window for rescuing survivors narrows as Venezuela enters third day after deadly twin quakes - AP News
 - Israel and Lebanon sign framework agreement - Axios
-- ‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS ruling - The Guardian
-- The Republican trying to out-MAGA Trump's pick to a Senate victory - Politico
-- Dangerous weather hampers firefighters and leads to fireworks bans in western US - AP News
+- How Trump’s takeover fractured America’s birthday party - CNN
+- As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline - NPR
+- Small aircraft crashes into Beijing’s tallest building, videos show - The Washington Post
+- Letlow, Fleming face off for Cassidy's seat in Louisiana GOP Senate runoff - CBS News
+- Utah County declares State of Emergency as wildfires ‘ravage’ the state - ABC4 Utah
 - Bible stories become required reading for Texas schools - BBC
-- Jonathan Rinderknecht: Judge declares mistrial in arson trial of Palisades Fire suspect after jury deadlocks - ABC7 Los Angeles
-- Beijing investigating rare light aircraft crash which killed pilot, injured 13 - Reuters
-- Burkina Faso cuts diplomatic relations with France, once a key ally - AP News
-- Australia PM stuns with ‘horrific’ viral comment in parliament: ‘WTF did I just watch?’ - New York Post
-- Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change - CBS News
-- U.S. government gives Anthropic green light for limited re-release of Mythos 5 - NBC News
-- 4 ways to get creative with your leftovers (and save money on food) - NPR
+- How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job - The New York Times
+- Burkina Faso severs diplomatic ties with France - BBC
+- Chinese Dissident Who Fled by Sea to South Korea Lands in Canada - The New York Times
+- Inside a secretive Ukrainian team launching deep drone strikes at Russia - NPR
+- Ukrainian missiles strike defense plant deep in Russia, Zelenskyy says - politico.eu
+- US allows partial release of Anthropic's Mythos AI model - DW.com
+- This mindset shift can help you get better at using up your leftovers - NPR
+- How Kohl's lost its way — and is trying to become relevant again - CNBC
 - Amazon FTC settlement deadline is 1 month away. How to file a claim - USA Today
-- QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm’s AI Momentum - Stocktwits
 - Scalpers List Steam Machine Reservations at $1,700+ - TechPowerUp
 - We found 401+ of the best Amazon Prime Day deals worth shopping before they’re gone - NBC News
