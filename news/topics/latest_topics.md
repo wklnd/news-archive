@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 23:38_
+_Updated: 2026-06-29 01:38_
 
 ## Top Stories
 
-- Stigande dödssiffra i Venezuela - Västerbottens-Kuriren
-- WHO: Överdödlighet kopplad till värmeböljan - Göteborgs-Posten
-- Flera skadade efter blixtnedslag på Tosselilla sommarland - Sveriges Radio
-- Stolthet – men ingen skadeglädje i Kiev: ”Vill bara att kriget tar slut” - Dagens Nyheter
-- Misstänkta pålar vid hopptorn i Gislaved – en person skadad - Expressen
-- Elva döda i flygplanskrasch i Frankrike - SVT Nyheter
-- Varningarna för gräspollen blinkar rött - Göteborgs-Posten
-- Åskoväder drog in – men länet kom lindrigt undan - Corren
-- Extremhettan slår nya rekord - dödsfallen ökar - Aftonbladet
-- Klassisk tävling skjuts upp - Expressen
+- Trumps hot om kriget återupptas: Iran kommer förgöras - Göteborgs-Posten
 - Luftvärnet förstärks i Moskva – oro för ballistiska robotar - Dagens Nyheter
-- Putin tvingas medge rysk bränslekris - SVT Nyheter
+- Israel: Hizbollah-tunnel i södra Libanon förstörd – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Källor: Iran och USA pausar attacker – samtal i Doha - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Putin: Öka produktionen av luftvärn - Dagens Nyheter
+- Stigande dödssiffra i Venezuela - Västerbottens-Kuriren
+- Blixtnedslag på nöjespark – kvinna svårt skadad - Västerbottens-Kuriren
+- Larm om spetsiga pålar – hopptorn avspärrat i Gislaved - SVT Nyheter
+- Ovädret är här: Tusen blixtnedslag per halvtimme - Göteborgs-Posten
+- Christian, 50, skadades i måsattack: ”Som en torped” - Aftonbladet
+- ”De enda vi väntar på är att kriget tar slut” - Hufvudstadsbladet – HBL
 - Flera gripna i Istanbul – trotsade prideförbud - Göteborgs-Posten
-- USA och Iran utväxlar attacker och hot - Corren
-- Kronans kräftgång mot dollarn fortsätter - Expressen
+- Värmebölja och åskoväder – så slår extremvädret mot Europa - SVT Nyheter
 - Centralbankernas bank varnar för AI-bubbla - UNT
-- Fler stålbad väntas i tysk bilindustri - Svenska Dagbladet
+- Kronans kräftgång mot dollarn fortsätter - Sydsvenskan
+- Här är nya lagar och regler som införs 1 juli 2026 - SVT Nyheter
 - Svensk bensinskatt sänks – norsk rusning väntas - Dagens Nyheter
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Nytt samarbete mellan Volvo och Balthazar - Skaraborgs Allehanda
+- Microsoft höjer priset på Xbox i sommar - Teknikveckan
 
 ## World News
 
@@ -38,10 +38,10 @@ _Updated: 2026-06-28 23:38_
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
-- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- 130 svenska miljoner till global hälsa - Dagens Medicin
+- Kuriren nominerad för satsning på unga läsare - Norrbottens Kuriren
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
@@ -51,17 +51,16 @@ _Updated: 2026-06-28 23:38_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -70,19 +69,30 @@ _Updated: 2026-06-28 23:38_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 - Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
-- Viktor Nord främsta unga företagare i Västsverige - Mynewsdesk
 
 ## Health
 
@@ -142,7 +152,6 @@ _Updated: 2026-06-28 23:38_
 - Jordbrukspolitik - Naturvårdsverket
 - Framtidens jordbruk - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - atl.nu
 - High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
@@ -150,5 +159,6 @@ _Updated: 2026-06-28 23:38_
 - Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Hellre plöjningsfri odling än ekologisk - Land.se
 - Så påverkar torkan svenskt lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
