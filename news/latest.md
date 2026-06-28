@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-28 03:51_
+_Updated: 2026-06-28 08:45_
 
-- US launches second night of strikes on Iran after ship hit by drone - Al Jazeera
-- Frustration grows in Venezuela as earthquake death toll reaches 1,430 - AP News
-- Trump Picks Lance Schroyer as New ICE Director - The New York Times
-- Germany news: Heat record broken for second consecutive day - DW.com
-- 'Packed to the brim': Trump says 45K guests attend Great American State Fair rally - KOMO
-- Lebanon-Israel deal may stop war crime victims seeking justice, experts say - The Guardian
-- 4 dead in Kentucky floods, governor declares state of emergency as search and rescue efforts underway - CNN
+- US and Iran trade strikes as both sides accuse the other of endangering ceasefire - The Guardian
+- I hear my son crying beneath the rubble, says Venezuela earthquake survivor - BBC
+- Trump gets the complete domination he wanted in Louisiana - Politico
+- Lebanon’s deal with Israel requires Hezbollah to disarm. That might be difficult - AP News
+- Trump taps Lance Schroyer to lead ICE, agency at center of deportation campaign - The Washington Post
+- At least 6 people injured after Boston duck boat overturns near entrance of popular tourist attraction - Fox News
+- McCormick and Fetterman secure Pa.’s presence at Great American State Fair after Shapiro snub - PennLive.com
+- Beshear declares state of emergency as flash flooding worsens, death toll climbs - WLKY
 - Critical fire weather complicates firefighting efforts in massive Utah wildfire - NPR
-- GOP candidate with same name as senator can stay on Alaska ballot, judge rules - The Washington Post
-- What to Watch in Louisiana’s Republican Senate Runoff - The New York Times
-- Unease deepens in Russia as Ukraine steps up long-range strikes - The Washington Post
-- We Investigated Damage From Iran to a U.S. Naval Base. Here’s What We Found. - WSJ
-- Serbian President Vucic says he will resign within weeks - Reuters
-- Chinese dissident who fled by dinghy to South Korea arrives in Canada, his friend says - AP News
-- The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players - CNBC
-- It's Official: SpaceX To Join Nasdaq 100. Here's When It'll Join. - Investor's Business Daily
-- Anthropic cleared to restore Mythos 5 access to certain US organisations - Euronews.com
+- A Reflecting Pool that has long enticed visitors now gains police scrutiny under Trump - AP News
+- Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic - NBC News
+- Lib Dems face call for inquiry into deselection of election candidate - BBC
+- Chinese dissident who fled to South Korea by dinghy arrives in Canada - AP News
+- A Mayor Is Taking Maternity Leave in Japan. Some Men Are Furious. - The New York Times
+- US allows partial release of Anthropic's Mythos AI model - dw.com
+- Marjorie Taylor Greene Says It Is 'Awful' That 'No One Is Standing Up For Cancer Patients' After Bayer Scores Roundup Victory In Supreme Court - Yahoo
 - Georgian just one number away from winning $327M Powerball jackpot - WSB-TV
+- It's Official: SpaceX To Join Nasdaq 100. Here's When It'll Join. - Investor's Business Daily
 - Engadget Review Recap: MSI Claw 8 EX AI+, Sony A7R VI, Ray-Ban Meta Optics And More - Engadget
-- Scalpers List Steam Machine Reservations at $1,700+ - TechPowerUp
+- Gemini’s new Google Play Store integration lets you chat to find Android apps, games - 9to5Google
