@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 17:50_
+_Updated: 2026-06-28 19:44_
 
 ## Top Stories
 
-- En allvarligt skadad efter blixtnedslag på Tosselilla sommarland - SVT Nyheter
-- Blixtar och dunder när ovädret rullar in över Sverige - Aftonbladet
-- Trumps hot om kriget återupptas: Iran kommer förgöras - Göteborgs-Posten
-- Tottas upptäckt på hundpromenaderna: ”Vår kust försvinner” - Aftonbladet
-- Hela familjen får fängelse efter miljonsvindel med kapade föreningar - Sydsvenskan
-- Skatteverkets nya chef: ”Vi ska tåla tuff kritik” - Svenska Dagbladet
-- DN Direkt – Larm om vassa pålar vid hopptorn – en skadad - Dagens Nyheter
-- Varningarna för gräspollen blinkar rött - Göteborgs-Posten
-- En stillastående fordon orsakar ett körfält blockerat på E4 - Corren
-- Extrema ovädret stoppar starten av Gotland runt - Helagotland
-- Värmebölja och åskoväder – så slår extremvädret mot Europa - SVT Nyheter
-- Helikopter i dödskrasch vid Persiska viken - Västerbottens-Kuriren
-- Ny attack mot ryskt oljeraffinaderi – en död - Göteborgs-Posten
+- Kvinna allvarligt skadad efter blixtnedslag på Tosselilla - Sydsvenskan
+- Stolthet – men ingen skadeglädje i Kiev: ”Vill bara att kriget tar slut” - Dagens Nyheter
 - DN Direkt – EU skickar stöd till Venezuela - Dagens Nyheter
-- Kronans kräftgång mot dollarn fortsätter - Aftonbladet
+- Trumps hot om kriget återupptas: Iran kommer förgöras - Göteborgs-Posten
+- 28 juni 17.00, Försvunnen person, Lysekil - Polisen.se
+- Elva döda i flygplanskrasch i Frankrike - SVT Nyheter
+- Larm om spetsiga pålar – hopptorn avspärrat i Gislaved - SVT Nyheter
+- DN Direkt – Varningarna för gräspollen blinkar rött - Dagens Nyheter
+- Ovädret är här: Tusen blixtnedslag per halvtimme - Göteborgs-Posten
+- En stillastående fordon orsakar ett körfält blockerat på E4 - Corren
+- WHO: Överdödlighet kopplad till värmeböljan - Västerbottens-Kuriren
+- Helikopterkrasch i Saudiarabien – tiotal omkom - SVT Nyheter
+- Zelenskyj: Två ryska oljeraffinaderier träffade - Hufvudstadsbladet – HBL
+- Israel: Massmord på armenier var folkmord - Göteborgs-Posten
+- Kronan i kollaps mot dollarn - Svenska Dagbladet
 - Centralbankernas bank varnar för AI-bubbla - UNT
-- Svensk bensinskatt sänks – norsk rusning väntas - Dagens Nyheter
 - Här är nya lagar och regler som införs 1 juli 2026 - SVT Nyheter
+- Svensk bensinskatt sänks – norsk rusning väntas - Dagens Nyheter
+- Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Nytt samarbete mellan Volvo och Balthazar - Skaraborgs Allehanda
-- Magnetfält på exoplaneter ska kunna avslöja beboeliga planeter - SVT Nyheter
 
 ## World News
 
@@ -99,7 +99,6 @@ _Updated: 2026-06-28 17:50_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
@@ -113,6 +112,7 @@ _Updated: 2026-06-28 17:50_
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - E-hälsa inom EU - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
