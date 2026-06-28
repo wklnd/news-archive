@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-28 17:55_
+_Updated: 2026-06-28 19:48_
 
-- Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News
-- Satellite images show scale of destruction in Venezuela earthquakes - Al Jazeera
-- Record heatwave disrupts Europe as France warns death toll set to rise - Reuters
+- Escalating US-Iran strikes threaten interim peace agreement - The Guardian
+- Thirty-three people rescued, thousands still missing after Venezuela quakes - Reuters
+- Biden Calls Trump A ‘Loser’ Over Reflecting Pool Debacle—Slams Washington D.C. ‘Vanity Projects’ - Forbes
+- France records 1,000 excess deaths during record-breaking heatwave - NBC News
 - With time running out, Trump digs in on changing midterm election rules - The Washington Post
-- Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit. - The New York Times
-- Alleged UFC plotters posted a ‘terminally online Mad Libs’ of grievances - NBC News
-- Scott Wiener says harassment made it ‘impossible’ to stay at S.F. Trans March - San Francisco Chronicle
+- 3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News
+- CBS News poll on America at 250 and some of what Americans think is best about U.S. - CBS News
 - Beshear declares state of emergency as flash flooding worsens, death toll climbs - WLKY
-- Three firefighters killed, two hospitalized while fighting fires along Utah-Colorado borde - KUTV
-- Springfield, Hope, and America at 250 - The Bulwark
+- Alleged UFC plotters posted a ‘terminally online Mad Libs’ of grievances - NBC News
+- Behind the scenes: How shared fear of Iran led to an Israel-Lebanon deal - Axios
 - Eleven people killed in plane crash in northeastern France - Reuters
 - Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board - Al Jazeera
-- Government unanimously recognizes Armenian genocide, amid frosty ties with Turkey - The Times of Israel
-- Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel - AP News
+- Israel recognizes Armenian genocide, amid frosty ties with Turkey - The Times of Israel
+- Hottest day: Berlin police deploy water cannon to beat the heat - Euronews
 - Seniors in Medicare are about to get landmark obesity drug coverage — but many may not know it yet - CNBC
-- Jefferies Warns Memory Prices Will Surge 50% in Q3 2026 and Another 40% in Q4, With No Relief Until 2028 - Wccftech
+- Why Wall Street thinks US memory maker Micron is the next Nvidia - TechCrunch
+- A financial influencer called the FIRE movement a 'sham.' People who have made it work say she's missing the point. - Business Insider
 - A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC
-- Kevin O'Leary has entered a new villain era - Business Insider
+- Govee’s smart nugget ice maker makes every iced drink feel like a luxury - TechCrunch
 - Scalpers Are Already Flipping Steam Machine Reservations On eBay For $2,700–$2,900, Roughly Double Valve’s Price - Wccftech
-- GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq
