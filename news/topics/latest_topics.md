@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 19:44_
+_Updated: 2026-06-28 21:54_
 
 ## Top Stories
 
-- Kvinna allvarligt skadad efter blixtnedslag på Tosselilla - Sydsvenskan
-- Stolthet – men ingen skadeglädje i Kiev: ”Vill bara att kriget tar slut” - Dagens Nyheter
-- DN Direkt – EU skickar stöd till Venezuela - Dagens Nyheter
+- DN Direkt – WHO: Överdödlighet kopplad till värmeböljan - Dagens Nyheter
 - Trumps hot om kriget återupptas: Iran kommer förgöras - Göteborgs-Posten
-- 28 juni 17.00, Försvunnen person, Lysekil - Polisen.se
-- Elva döda i flygplanskrasch i Frankrike - SVT Nyheter
+- ”De enda vi väntar på är att kriget tar slut” - Hufvudstadsbladet – HBL
+- Kvinna allvarligt skadad efter blixtnedslag på Tosselilla - Sydsvenskan
+- DN Direkt – 1 450 bekräftat döda i Venezuela - Dagens Nyheter
+- Polisen söker efter försvunnen man i 40-årsåldern - Sveriges Radio
 - Larm om spetsiga pålar – hopptorn avspärrat i Gislaved - SVT Nyheter
 - DN Direkt – Varningarna för gräspollen blinkar rött - Dagens Nyheter
 - Ovädret är här: Tusen blixtnedslag per halvtimme - Göteborgs-Posten
-- En stillastående fordon orsakar ett körfält blockerat på E4 - Corren
-- WHO: Överdödlighet kopplad till värmeböljan - Västerbottens-Kuriren
-- Helikopterkrasch i Saudiarabien – tiotal omkom - SVT Nyheter
-- Zelenskyj: Två ryska oljeraffinaderier träffade - Hufvudstadsbladet – HBL
-- Israel: Massmord på armenier var folkmord - Göteborgs-Posten
-- Kronan i kollaps mot dollarn - Svenska Dagbladet
+- Extremväder skjuter upp Gotland Runt i Sandhamn - Sveriges Radio
+- Flera gripna i Istanbul – trotsade prideförbud - Göteborgs-Posten
+- Zelenskyj: Två ryska oljeraffinaderier träffade - Västerbottens-Kuriren
+- Putin tvingas medge rysk bränslekris - Västerbottens-Kuriren
+- Israel: Har dödat stridande för Hizbollah – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kronans kräftgång mot dollarn fortsätter - SVT Nyheter
 - Centralbankernas bank varnar för AI-bubbla - UNT
-- Här är nya lagar och regler som införs 1 juli 2026 - SVT Nyheter
+- Fler stålbad väntas i tysk bilindustri - Svenska Dagbladet
 - Svensk bensinskatt sänks – norsk rusning väntas - Dagens Nyheter
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Nytt samarbete mellan Volvo och Balthazar - Skaraborgs Allehanda
@@ -52,8 +52,8 @@ _Updated: 2026-06-28 19:44_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -91,8 +91,8 @@ _Updated: 2026-06-28 19:44_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 - PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -105,8 +105,8 @@ _Updated: 2026-06-28 19:44_
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
@@ -142,23 +142,23 @@ _Updated: 2026-06-28 19:44_
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
-- Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - atl.nu
-- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- High-tech och lantbruk i fokus på SLU-dag - Sveriges lantbruksuniversitet (SLU)
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
+- Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
-- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Lantbrukslogik – nu och i framtiden - Sveriges lantbruksuniversitet (SLU)
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Lantbrukarnas data blir en tillgång - Land.se
+- Så påverkar torkan svenskt lantbruk - Sveriges lantbruksuniversitet (SLU)
+- Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
