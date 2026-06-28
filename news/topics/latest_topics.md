@@ -1,26 +1,26 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 01:34_
+_Updated: 2026-06-28 03:35_
 
 ## Top Stories
 
-- England segrare i grupp L - Västerbottens-Kuriren
-- USA attackerar mål i Iran för andra kvällen i rad - Dagens Nyheter
-- Israel: Vi blir kvar tills Hizbollah avväpnas - Göteborgs-Posten
-- Dödssiffran stiger i Venezuela – kamp mot klockan - Göteborgs-Posten
-- På jakt efter svensexan som sjönk på Smögen - Göteborgs-Posten
+- Nya attacker mot Iran – Trump hotar dess existens - Göteborgs-Posten
+- Explosioner i södra Iran – andra kvällen i rad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Närmare 1 500 döda i katastrofdrabbade Venezuela - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Drönarattack i Sumy – 18 skadade - Dagens Nyheter
-- Värmerekord väntas lokalt under dagen - Göteborgs-Posten
+- Två mc-förare gled på vägen efter olycka – blev påkörda - Sveriges Radio
+- Ryska hotet: Kan spränga halva Finland - Expressen
+- Stora problem i tågtrafiken i Västsverige - Göteborgs-Posten
+- Värmerekord väntas lokalt under dagen - Västerbottens-Kuriren
 - Rekordhöga skolresultat för Malmös nior - Dagens Nyheter
-- Nedriven kontaktledning stoppade tåg på Västkusten - SVT Nyheter
-- SMHI varnar för åskoväder - Västerbottens-Kuriren
+- SMHI varnar för kraftig åska i Götaland och Svealand - SVT Nyheter
 - Extremhetta i Paris – så byggs staden om för ett varmare klimat - SVT Nyheter
 - Schweiz glaciärer krymper i värmeböljan - Sydsvenskan
 - Israelisk drönarattack mot södra Libanon - Västerbottens-Kuriren
 - Veteran hotar med uppror: Kan vända vapnen mot Kreml - Dagens Nyheter
 - Billigare dans och förskola, dyrare privatimport – så slår de nya lagarna - Omni
-- Anthropic nära grönt ljus för stoppad AI-modell - EFN
 - Polisen måste samordna regler om skyddsutrustning - Aftonbladet
+- Anthropic nära grönt ljus för stoppad AI-modell - EFN
 - DN Direkt – Rött rakt igenom på USA-börsen - Dagens Nyheter
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
@@ -32,9 +32,8 @@ _Updated: 2026-06-28 01:34_
 - Schick calls time on Czechia career after World Cup exit - FotMob
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -42,11 +41,12 @@ _Updated: 2026-06-28 01:34_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
@@ -55,6 +55,7 @@ _Updated: 2026-06-28 01:34_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
@@ -69,7 +70,6 @@ _Updated: 2026-06-28 01:34_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -102,18 +102,18 @@ _Updated: 2026-06-28 01:34_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
-- E-hälsa inom EU - Läkartidningen
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -147,18 +147,18 @@ _Updated: 2026-06-28 01:34_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
 - Kan agroekologi mätta världen? - Sveriges lantbruksuniversitet (SLU)
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Lantbrukarnas data blir en tillgång - Land.se
