@@ -1,94 +1,94 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 03:35_
+_Updated: 2026-06-28 08:43_
 
 ## Top Stories
 
-- Nya attacker mot Iran – Trump hotar dess existens - Göteborgs-Posten
-- Explosioner i södra Iran – andra kvällen i rad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Närmare 1 500 döda i katastrofdrabbade Venezuela - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Drönarattack i Sumy – 18 skadade - Dagens Nyheter
-- Två mc-förare gled på vägen efter olycka – blev påkörda - Sveriges Radio
-- Ryska hotet: Kan spränga halva Finland - Expressen
-- Stora problem i tågtrafiken i Västsverige - Göteborgs-Posten
-- Värmerekord väntas lokalt under dagen - Västerbottens-Kuriren
-- Rekordhöga skolresultat för Malmös nior - Dagens Nyheter
-- SMHI varnar för kraftig åska i Götaland och Svealand - SVT Nyheter
-- Extremhetta i Paris – så byggs staden om för ett varmare klimat - SVT Nyheter
-- Schweiz glaciärer krymper i värmeböljan - Sydsvenskan
-- Israelisk drönarattack mot södra Libanon - Västerbottens-Kuriren
+- USA och Iran attackerar varandra – nya hoten - Dagens Nyheter
+- Dödssiffran stiger i Venezuela – kamp mot klockan - Göteborgs-Posten
+- Ivo: Risk för allvarliga vårdskador på Svea Vaccin - Aftonbladet
+- Utanför altandörren står en svartklädd man - Svenska Dagbladet
+- Skolan vägrar lämna – efter uppsägningen - Göteborgs-Posten
+- Varför hatar du Socialdemokraterna, Anton Sauer (C)? - Sydsvenskan
+- Hon tjänar mest av alla myndighetschefer - Corren
+- Tre män försökte stjäla helikopter på Hisingen i Göteborg - SVT Nyheter
+- Värmerekord på flera orter i södra Sverige - Göteborgs-Posten
+- Sandra Stiskalo: Är SR:s Ginna Lindberg för bra på sitt jobb? - Dagens Nyheter
+- Direkt – Kriget i Ukraina – Explosioner i Kiev efter ryskt anfall med robotar i natt - Dagens Nyheter
 - Veteran hotar med uppror: Kan vända vapnen mot Kreml - Dagens Nyheter
-- Billigare dans och förskola, dyrare privatimport – så slår de nya lagarna - Omni
+- Israel: Har dödat stridande för Hizbollah – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Extremhetta i Paris – så byggs staden om för ett varmare klimat - SVT Nyheter
+- Svensk bensinskatt sänks – norsk rusning väntas - Svenska Dagbladet
+- H&M-miljardären Stefan Perssons lyx i svenskarnas paradis på Mallorca - Expressen
+- Lockout i norska oljeindustrin – 1 000 drabbade - Sydsvenskan
 - Polisen måste samordna regler om skyddsutrustning - Aftonbladet
-- Anthropic nära grönt ljus för stoppad AI-modell - EFN
-- DN Direkt – Rött rakt igenom på USA-börsen - Dagens Nyheter
 - Rockstar kan följa samma upplägg med GTA 6 som med Red Dead Redemption 2 – här är vad det kan innebära för trailer 3, gameplay-hintar och mer - TechRadar
 - Microsoft höjer priserna på Xbox-konsoler igen - m3.se
 
 ## World News
 
 - 130 svenska miljoner till global hälsa - Aftonbladet
-- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Schick calls time on Czechia career after World Cup exit - FotMob
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- KI och Handelshögskolan stärker framtidens ledare inom global hälsa - Karolinska Institutet
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
+- 130 svenska miljoner till global hälsa - Dagens Medicin
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - Kuriren nominerad för satsning på unga läsare - Norrbottens-Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -99,21 +99,21 @@ _Updated: 2026-06-28 03:35_
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Ordförande för Vietnam Medical Informatics Association, Tran Quy Tuong: "Elektroniska patientjournaler är en strategisk datainfrastruktur för hälso- och sjukvårdssektorn" - Vietnam.vn
+- E-hälsa inom EU - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
+- Dela erfarenheter om digital transformation inom hälso- och sjukvården och bygga smarta sjukhus. - Vietnam.vn
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- E-hälsa inom EU - Läkartidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
@@ -143,18 +143,17 @@ _Updated: 2026-06-28 03:35_
 ## Jordbruk
 
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-06-28 03:35_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
