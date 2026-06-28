@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-28 16:22_
+_Updated: 2026-06-28 17:50_
 
 ## Top Stories
 
-- JUST NU: Blixt slog ner – flera förda till sjukhus - Expressen
-- USA och Iran utväxlar attacker och hot - Corren
-- Alejandro på plats i Venezuela: ”Folk vill bara hjälpa till” - SVT Nyheter
+- En allvarligt skadad efter blixtnedslag på Tosselilla sommarland - SVT Nyheter
 - Blixtar och dunder när ovädret rullar in över Sverige - Aftonbladet
-- Kaosscenerna i extrema värmen - Expressen
+- Trumps hot om kriget återupptas: Iran kommer förgöras - Göteborgs-Posten
+- Tottas upptäckt på hundpromenaderna: ”Vår kust försvinner” - Aftonbladet
+- Hela familjen får fängelse efter miljonsvindel med kapade föreningar - Sydsvenskan
 - Skatteverkets nya chef: ”Vi ska tåla tuff kritik” - Svenska Dagbladet
-- Larm om spetsiga pålar – hopptorn avspärrat i Gislaved - SVT Nyheter
-- Tre män försökte stjäla helikopter i Göteborg - Västerbottens-Kuriren
-- Just nu: Ett körfält blockerat på grund av en stillastående personbil på E4 - UNT
-- Klassisk tävling skjuts upp - Expressen
+- DN Direkt – Larm om vassa pålar vid hopptorn – en skadad - Dagens Nyheter
+- Varningarna för gräspollen blinkar rött - Göteborgs-Posten
+- En stillastående fordon orsakar ett körfält blockerat på E4 - Corren
+- Extrema ovädret stoppar starten av Gotland runt - Helagotland
+- Värmebölja och åskoväder – så slår extremvädret mot Europa - SVT Nyheter
 - Helikopter i dödskrasch vid Persiska viken - Västerbottens-Kuriren
-- Zelenskyj: Två ryska oljeraffinaderier träffade - Västerbottens-Kuriren
-- DN Direkt – WHO: Överdödlighet kopplad till värmeböljan - Dagens Nyheter
-- Attackvågor mot flera delar av Ukraina - Västerbottens-Kuriren
+- Ny attack mot ryskt oljeraffinaderi – en död - Göteborgs-Posten
+- DN Direkt – EU skickar stöd till Venezuela - Dagens Nyheter
+- Kronans kräftgång mot dollarn fortsätter - Aftonbladet
 - Centralbankernas bank varnar för AI-bubbla - UNT
 - Svensk bensinskatt sänks – norsk rusning väntas - Dagens Nyheter
-- Billigare dans och förskola, dyrare privatimport – så slår de nya lagarna - Omni
-- Sommarekonomi, grisch-ikoner och narcissistiska chefer - Dagens PS
+- Här är nya lagar och regler som införs 1 juli 2026 - SVT Nyheter
 - Nytt samarbete mellan Volvo och Balthazar - Skaraborgs Allehanda
 - Magnetfält på exoplaneter ska kunna avslöja beboeliga planeter - SVT Nyheter
 
@@ -51,17 +51,16 @@ _Updated: 2026-06-28 16:22_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -70,6 +69,7 @@ _Updated: 2026-06-28 16:22_
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
+- Nu blir datorerna dyrare – efter prishöjning på minnen - Computer Sweden
 
 ## Business
 
@@ -133,10 +133,10 @@ _Updated: 2026-06-28 16:22_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
