@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-29 21:21_
+_Updated: 2026-06-29 23:07_
 
 ## Top Stories
 
-- WHO: 1 300 dödsfall på grund av värmeböljan - Göteborgs-Posten
-- Psykiatrin i Malmö utreder förloppet innan kraschen - Omni
-- Ebolautbrott växer – fjärde provins drabbad - Västerbottens-Kuriren
-- Uppröjningsarbetet i Olsfors igång - Järnvägar.nu
-- 35-åringen: ”Det var en dum grej” - Aftonbladet
-- Här söker fem gånger fler klimakterievård - Svenska Dagbladet
+- Flera döda i skottlossning - Göteborgs-Posten
+- Lämnade körkortet på psykakuten – sedan körde han ihjäl ett barn - Sydsvenskan
+- Israeliskt flyganfall i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svenska stridsbåten en nyckel i Ukrainas försvar – än så länge - Dagens Nyheter
+- En person till sjukhus – 3 500 blixtnedslag under ovädret - Sveriges Radio
+- Röda korset om situationen i Kongo-Kinshasa: ”Drar sig ur” - Omni
 - Blixten slog ner på Tosselilla: ”Kände ett slag mot bakhuvudet” - SVT Nyheter
-- DN Direkt – Cyklist död – träffades av fallande träd - Dagens Nyheter
-- Kvinna hittad död i Malmö – polisen utreder mord - Göteborgs-Posten
-- ”Alienliknande" plattmask upptäckt i Sverige - Västerbottens-Kuriren
-- Trump: Iran har begärt möte – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Cyklist död – träffades av fallande träd - Västerbottens-Kuriren
+- Invasiv plattmask upptäckt i Sverige: ”Väldigt obehaglig” - Dagens Nyheter
+- Äldre man död i olycka i Ragunda - Göteborgs-Posten
+- Över 1 700 döda i Venezuela - Västerbottens-Kuriren
+- DN Direkt – Över 1 000 döda i värmeböljan i Frankrike - Dagens Nyheter
+- Samtal mellan USA och Iran återupptas i Doha - Göteborgs-Posten
 - Flera dödade i ryska attacker mot Ukraina - Västerbottens-Kuriren
-- Experten om Putin: ”Mer pressad än någonsin” - Dagens Nyheter
-- Ukraina: 7 000 nordkoreaner stupade i Kursk - Dagens Nyheter
-- Saabs nya ubåtsavtal överraskar analytikern - EFN
+- Saab får order på tre ubåtar till Polen - Saab
 - Inbjudan: Presentation angående Ambeas offentliga uppköpserbjudande till aktieägarna i Humana (Cision) - Aktiellt
 - Flat Capital säljer AI-bolag – köper veterinärfirma - Svenska Dagbladet
-- Tyskland satsade på öppenhet – nu har det blivit en svaghet - Dagens PS
-- Bristen på minneschip hotar slå ut mindre spelare - Omni
+- Ny lag hindrar e-handelns kickbacks: ”Stor marknad” - Dagens industri
 - Playstation 6 sägs bli ohyggligt dyr - Nordichardware
+- Bristen på minneschip hotar slå ut mindre spelare - Omni
 
 ## World News
 
@@ -32,12 +32,12 @@ _Updated: 2026-06-29 21:21_
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
-- 130 svenska miljoner till global hälsa - Aftonbladet
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kanada vill bli en global stormakt inom kärnkraft - Bulletin
@@ -51,17 +51,16 @@ _Updated: 2026-06-29 21:21_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -70,18 +69,20 @@ _Updated: 2026-06-29 21:21_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - AI blir en "assistent" för investerare. - Vietnam.vn
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
@@ -89,7 +90,6 @@ _Updated: 2026-06-29 21:21_
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -105,17 +105,17 @@ _Updated: 2026-06-29 21:21_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska institutet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Sprid kunskap utan att oroa - Psykologtidningen
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska institutet
+- Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
@@ -126,7 +126,7 @@ _Updated: 2026-06-29 21:21_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Olika slutsatser från samma data - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -135,26 +135,25 @@ _Updated: 2026-06-29 21:21_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska institutet
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
+- Vietnam deltar i den internationella konferensen om kvinnliga jordbrukare i Indien. - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
-- Vietnam deltar i den internationella konferensen om kvinnliga jordbrukare i Indien. - Vietnam.vn
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-06-29 21:21_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
