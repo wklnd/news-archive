@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-29 23:12_
+_Updated: 2026-06-30 00:40_
 
-- Supreme Court expands Trump’s power to fire independent agency officials but lets Lisa Cook remain at Fed - CNN
-- Supreme Court upholds grace period for late-arriving mail-in ballots - Axios
-- Five days after Venezuela's earthquakes, some communities still await help - Reuters
-- Supreme Court lets stand $5 million civil verdict against Trump in Carroll case - The Washington Post
+- Supreme Court rules mail-in ballots arriving after Election Day can be counted - The Washington Post
+- Supreme Court says Fed’s Cook can keep her job for now, but it upholds other Trump firings - AP News
+- Anger mounts over uneven government response after Venezuela quakes - Reuters
+- Trump says Carroll verdict setback surprised him - Axios
+- Trump says housing bill he tanked last week is a ‘big yawn’ - Politico
+- Senate Ethics Committee dismisses complaint against Sen. Ruben Gallego - NPR
+- Dangerous, record-smashing heat wave to scorch millions - USA Today
+- ‘No One’s Coming to Save Us but Us’: Gen Z Runs for Office - The New York Times
+- The US supreme court just put the lives of 1.3 million immigrants in danger | Heba Gowayed - The Guardian
+- Alex Murdaugh’s second murder trial will start next spring, judge rules - CNN
 - Live Updates: Path forward for U.S.-Iran talks unclear after weekend strikes - CBS News
-- Supreme Court to hand down final decisions Tuesday: Here’s what’s left - The Hill
-- Senate Ethics panel dismisses misconduct complaint against Ruben Gallego - NBC News
-- Dangerous heat peaks Monday; heat index could reach 110 degrees - MPR News
-- A 29-year-old democratic socialist takes on Colorado’s most senior member of Congress - The 19th News
-- Sex Abuse Survivors Reach $395 Million Deal With San Francisco Diocese - The New York Times
 - Putin makes rare admission of fuel shortages caused by Ukrainian strikes - BBC
-- Why Pakistan’s Afghan air strikes aren’t stopping armed attacks - Al Jazeera
-- Orange County couple tried to rescue man killed in crocodile attack on beach in Puerto Vallarta, Mexico - ABC7 Los Angeles
-- China grounds light aircraft after Beijing tower crash - Financial Times
+- Man killed, dragged by crocodile into water on the beach near a resort - USA Today
+- Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
 - NBCUniversal & Sky “Fit Well Together And Are Set Up For Success” After Comcast Split, Mike Cavanagh Says - Deadline
-- Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more - CNBC
-- Medicare is about to cover GLP-1 drugs for weight loss. Here’s what to know. - The Washington Post
-- Citadel Securities Warns of ‘Shifting Landscape’ Under Warsh Fed - Bloomberg.com
-- WhatsApp usernames launch ‘later this year’ – here’s how to get yours now - 9to5Google
-- Apple Releases iOS 26.5.2 With Security Fixes - MacRumors
+- Why our cybersecurity stocks are soaring, plus Big Tech tries to rebound - CNBC
+- Stock market today: S&P 500, Nasdaq, Dow rise as tech gains, US and Iran call to halt attacks - Yahoo Finance
+- Medicare to cover GLP-1 drugs for weight loss for the first time starting July 1. Here's what to know. - CBS News
+- T-Mobile retires legacy plans, prompting price hikes and customer backlash - Android Police
+- Apple says it is releasing updates early in response to AI cybersecurity concerns - Reuters
