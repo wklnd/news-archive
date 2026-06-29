@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-29 23:07_
+_Updated: 2026-06-30 00:36_
 
 ## Top Stories
 
 - Flera döda i skottlossning - Göteborgs-Posten
-- Lämnade körkortet på psykakuten – sedan körde han ihjäl ett barn - Sydsvenskan
+- Psykiatrin i Malmö utreder förloppet innan kraschen - Omni
+- Två allvarligt skadade efter explosion i Monaco - Sveriges Radio
 - Israeliskt flyganfall i södra Libanon – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Svenska stridsbåten en nyckel i Ukrainas försvar – än så länge - Dagens Nyheter
-- En person till sjukhus – 3 500 blixtnedslag under ovädret - Sveriges Radio
-- Röda korset om situationen i Kongo-Kinshasa: ”Drar sig ur” - Omni
+- Blixtnedslag i hus – en till sjukhus - Expressen
 - Blixten slog ner på Tosselilla: ”Kände ett slag mot bakhuvudet” - SVT Nyheter
 - Cyklist död – träffades av fallande träd - Västerbottens-Kuriren
-- Invasiv plattmask upptäckt i Sverige: ”Väldigt obehaglig” - Dagens Nyheter
 - Äldre man död i olycka i Ragunda - Göteborgs-Posten
-- Över 1 700 döda i Venezuela - Västerbottens-Kuriren
-- DN Direkt – Över 1 000 döda i värmeböljan i Frankrike - Dagens Nyheter
+- Putins ”superjakt” seglar genom danskt vatten - Folkbladet
+- Kraftigt efterskalv i Caracas – hoppet falnar - Västerbottens-Kuriren
+- Ebolautbrott växer – fjärde provins drabbad - Västerbottens-Kuriren
 - Samtal mellan USA och Iran återupptas i Doha - Göteborgs-Posten
-- Flera dödade i ryska attacker mot Ukraina - Västerbottens-Kuriren
+- ”Konstruktiva” samtal mellan EU och Kina - Göteborgs-Posten
 - Saab får order på tre ubåtar till Polen - Saab
 - Inbjudan: Presentation angående Ambeas offentliga uppköpserbjudande till aktieägarna i Humana (Cision) - Aktiellt
-- Flat Capital säljer AI-bolag – köper veterinärfirma - Svenska Dagbladet
 - Ny lag hindrar e-handelns kickbacks: ”Stor marknad” - Dagens industri
+- Flat Capital säljer AI-bolag – köper veterinärfirma - Svenska Dagbladet
+- "Grand Theft Auto VI" drog in 1 miljard dollar på 1 timme - MovieZine
 - Playstation 6 sägs bli ohyggligt dyr - Nordichardware
-- Bristen på minneschip hotar slå ut mindre spelare - Omni
 
 ## World News
 
@@ -50,17 +50,17 @@ _Updated: 2026-06-29 23:07_
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -111,7 +111,7 @@ _Updated: 2026-06-29 23:07_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska institutet
-- Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska institutet
+- Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska institutet
