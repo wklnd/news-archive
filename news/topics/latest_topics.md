@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-29 19:17_
+_Updated: 2026-06-29 21:21_
 
 ## Top Stories
 
-- Sex döda i skottlossning vid ungdomsverksamhet Tyskland - Dagens Nyheter
-- Psykiatrin i Malmö utreder förloppet innan kraschen - Omni
-- Cyklist död – träffades av fallande träd - Västerbottens-Kuriren
-- 35-åringen: ”Det var en dum grej” - Aftonbladet
-- Polishund död efter sökinsats på Skaftö: "Tung stund" - Sveriges Radio
-- Kvinna hittad död i lägenhet i Malmö – polisen utreder mord - SVT Nyheter
-- DN Direkt – Polen köper svenska ubåtar för 50 miljarder - Dagens Nyheter
-- Blixten slog ner på Tosselilla: ”Kände ett slag mot bakhuvudet” - SVT Nyheter
-- Man döms för knivmord på exflickvän - Göteborgs-Posten
-- Invasiv plattmask upptäckt i Sverige: ”Väldigt obehaglig” - Dagens Nyheter
-- Mirakelräddning i Venezuela: Man hittad vid liv - Västerbottens-Kuriren
-- Sandra Stiskalo: Storbritanniens nästa ledare har jättelikt självförtroende - Dagens Nyheter
-- Experten om Putin: ”Mer pressad än någonsin” - Dagens Nyheter
 - WHO: 1 300 dödsfall på grund av värmeböljan - Göteborgs-Posten
+- Psykiatrin i Malmö utreder förloppet innan kraschen - Omni
+- Ebolautbrott växer – fjärde provins drabbad - Västerbottens-Kuriren
+- Uppröjningsarbetet i Olsfors igång - Järnvägar.nu
+- 35-åringen: ”Det var en dum grej” - Aftonbladet
+- Här söker fem gånger fler klimakterievård - Svenska Dagbladet
+- Blixten slog ner på Tosselilla: ”Kände ett slag mot bakhuvudet” - SVT Nyheter
+- DN Direkt – Cyklist död – träffades av fallande träd - Dagens Nyheter
+- Kvinna hittad död i Malmö – polisen utreder mord - Göteborgs-Posten
+- ”Alienliknande" plattmask upptäckt i Sverige - Västerbottens-Kuriren
+- Trump: Iran har begärt möte – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Flera dödade i ryska attacker mot Ukraina - Västerbottens-Kuriren
+- Experten om Putin: ”Mer pressad än någonsin” - Dagens Nyheter
+- Ukraina: 7 000 nordkoreaner stupade i Kursk - Dagens Nyheter
+- Saabs nya ubåtsavtal överraskar analytikern - EFN
 - Inbjudan: Presentation angående Ambeas offentliga uppköpserbjudande till aktieägarna i Humana (Cision) - Aktiellt
 - Flat Capital säljer AI-bolag – köper veterinärfirma - Svenska Dagbladet
-- SSAB pausar arbetet på byggarbetsplatsen i Luleå - Cision News
-- Huvudägarna vill köpa Viva Wine – aktien rusar - Omni
+- Tyskland satsade på öppenhet – nu har det blivit en svaghet - Dagens PS
 - Bristen på minneschip hotar slå ut mindre spelare - Omni
 - Playstation 6 sägs bli ohyggligt dyr - Nordichardware
 
 ## World News
 
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
@@ -37,7 +38,6 @@ _Updated: 2026-06-29 19:17_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - samsung.com
 - 130 svenska miljoner till global hälsa - Aftonbladet
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kanada vill bli en global stormakt inom kärnkraft - Bulletin
@@ -50,17 +50,18 @@ _Updated: 2026-06-29 19:17_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-06-29 19:17_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -142,7 +142,6 @@ _Updated: 2026-06-29 19:17_
 
 ## Jordbruk
 
-- Vietnam deltar i den internationella konferensen om kvinnliga jordbrukare i Indien. - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
@@ -155,6 +154,7 @@ _Updated: 2026-06-29 19:17_
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Här är världens största jordbruk - atl.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- Vietnam deltar i den internationella konferensen om kvinnliga jordbrukare i Indien. - Vietnam.vn
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
