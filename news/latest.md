@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-29 01:47_
+_Updated: 2026-06-29 07:17_
 
-- Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News
-- Venezuela quake death toll reaches 1,450 as rescue work goes on - Reuters
 - U.S. and Iran agree to halt strikes and meet this week, U.S. official says - Axios
-- Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C - BBC
+- Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC
+- Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News
+- European heatwave causes 1,000 excess deaths in France - Al Jazeera
+- Can the so-called nanobubbler save the Reflecting Pool? - CNN
 - Biden calls Trump ‘a loser’, portraying him as incompetent, corrupt and vain - The Guardian
-- Reflecting Pool In ‘Full Use,’ Trump Says In Long Truth Social Rant - Forbes
-- Dangerous heat wave impacting large swathes of the U.S. this week, forecasters warn - CBS News
-- Burgum vows 'full' prosecution after vandals carved 350-foot gash into Lincoln Memorial Reflecting Pool - Fox News
-- Sen. Bill Cassidy on Trump: ‘Sometimes he acts as if Congress is merely an appendage’ - Politico
-- 3 firefighters killed, 2 injured while tackling wildfires on the Colorado-Utah border - AP News
+- A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend - NPR
+- Full transcript of "Face the Nation with Margaret Brennan," June 28, 2026 - CBS News
+- 3 firefighters killed in Colorado as wildfires stoked by heat, wind rage across the West - AP News
+- Here’s why your health insurer is sounding more like RFK Jr. - Politico
+- Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
 - Eleven killed after plane carrying skydivers crashes in eastern France - BBC
-- Pakistan says it carried out ground operation, strikes along Afghan border, killing 29 militants - AP News
-- Qatari citizen killed as Hormuz dispute freezes planned US-Iran talks - Ynetnews
-- Russians Feel the War’s Hardships as Ukraine Pummels Crimea - WSJ
-- Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates - CNBC
-- Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong - MarketWatch
+- UK's likely next leader Burnham to unveil plan to shift power from London - Reuters
+- Ukraine drones ignite Russian refinery as Putin acknowledges fuel shortages - South China Morning Post
+- The Cutthroat Battle to Become America’s Rare-Earth Champion - WSJ
+- Sovereign investors with $29 trillion pivot to energy assets, flag dollar fears - Reuters
 - MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate - The Hill
-- Rachel Cruze warns young men are ‘throwing’ money away on habit ‘taking down a generation’ - Fox Business
+- Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates - CNBC
+- Instagram is testing more ways to customize ‘Your Algorithm’ - TechCrunch
 - GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq
-- Govee’s smart nugget ice maker makes every iced drink feel like a luxury - TechCrunch
