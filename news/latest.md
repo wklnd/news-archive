@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-29 12:12_
+_Updated: 2026-06-29 16:37_
 
-- Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend - BBC
-- U.S. and Iran will ‘stand down’ after strikes and resume talks, official says - The Washington Post
-- Trump says Reflecting Pool 'in full use,' confirms DC golf course work - USA Today
-- Europe’s record heat has overwhelmed Paris mortuaries and left families in distress - AP News
-- A 'heat dome' is driving dangerous heat across the U.S. into the July 4 weekend - NPR
-- Biden Calls Trump A ‘Loser’ Over Reflecting Pool Debacle—Slams Washington D.C. ‘Vanity Projects’ - Forbes
-- Full transcript of "Face the Nation with Margaret Brennan," June 28, 2026 - CBS News
-- 🌈 San Francisco Pride caps a protest-heavy weekend with its loudest, proudest exhale - Mission Local
-- Procession honors three firefighters killed battling Utah-Colorado border wildfire - KUTV
-- Parades in NYC and San Francisco wrap up LGBTQ+ Pride Month - AP News
-- Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks - AP News
-- Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
-- UK's likely next leader Burnham to unveil plan to shift power from London - Reuters
-- Putin admits oil deficit amid Ukrainian strikes on refineries - Euronews
-- Samsung, SK Reportedly to Invest $1.3 Trillion Over 10 Years - Bloomberg
-- BIS Sees Peril for Economy, Financial System in AI Investment Boom - WSJ
-- Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates - CNBC
-- The Cutthroat Battle to Become America’s Rare-Earth Champion - WSJ
-- Instagram is testing more ways to customize ‘Your Algorithm’ - TechCrunch
-- Apple iPhone 18 Pro Release Schedule: Why iOS 27 Signals September Date - Forbes
+- Supreme Court Lets $5 Million Sex Abuse Verdict Against Trump Stand - The New York Times
+- Supreme Court allows states to count mail-in ballots that arrive late, rejecting RNC challenge - NBC News
+- Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire - CBS News
+- Supreme Court issues opinions - CNN
+- Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’ - The Guardian
+- Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive - BBC
+- Comcast to split into two companies, spin off NBCUniversal and Sky - NBC News
+- Company trying to clean Reflecting Pool is thrust into political storm, hires crisis communications firm - CNN
+- After 40 years in Congress, Nancy Pelosi to help create institute to train leaders of the future - CNN
+- Capitol agenda: Red, white and GOP hard-liner blues - Politico
+- Putin admits fuel shortages after Ukrainian attacks - NBC News
+- Pakistani Strikes Kill Scores in Afghanistan - The New York Times
+- Iran attacks Bahrain and Kuwait following U.S. strikes and threatens to halt talks - PBS
+- France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say - The New York Times
+- Stock futures jump as tech shares gain, U.S.-Iran agree to halt hostilities: Live updates - CNBC
+- Red, white and glowing blue: Trump's push for new reactors reaches the finish line - NPR
+- How a Tight-Lipped Fed Could Lead to Higher Mortgage Rates - WSJ
+- British American Tobacco to cut 9,000 jobs - BBC
+- Flipper Device’s new Busy Bar is a customizable display for productivity - TechCrunch
+- 5 iOS 27 Features That Aren't Available On Android (Yet) - bgr.com
