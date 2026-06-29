@@ -1,33 +1,32 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-29 12:08_
+_Updated: 2026-06-29 16:33_
 
 ## Top Stories
 
+- Fem döda i skottlossning vid ungdomsverksamhet Tyskland - Dagens Nyheter
+- Man åtalas efter dödsolyckan på Södervärn – körde ihjäl flicka - SVT Nyheter
+- Tvåårig Malmöpojke träffad av blixten på Tosselilla – vårdas på sjukhus - Sydsvenskan
 - Trump sågar ny bok om andra mandatperioden: ”Till största delen påhittad” - Dagens Nyheter
-- Lämnade körkortet på psykakuten – sedan körde han ihjäl ett barn - Sydsvenskan
 - Putin räknar med nya Ukrainasamtal med USA - Göteborgs-Posten
-- Isac, 18, är orolig för vattenbristen: ”Man blir begränsad” - Aftonbladet
-- Elva döda i flygkrasch i Frankrike - Västerbottens-Kuriren
-- SMHI varnar för skyfall – risk för översvämning i delar av länet - Sveriges Radio
-- Varning för kraftigt regn i inlandet - Norran
-- Polishunden Ymer död – skadades under insats - Västerbottens-Kuriren
-- DN Direkt – Kostsamma behandlingar vid barnlöshet utan effekt - Dagens Nyheter
-- Jagar sängar till sjuka varje dag – vissa hamnar ”fel” - Dagens Nyheter
-- DN Direkt – Nära 50 procents risk för kraftiga efterskalv i Venezuela - Dagens Nyheter
-- Zelenskyj: Två ryska oljeraffinaderier träffade - Västerbottens-Kuriren
-- Ryska turister flyr Krim: ”Dödens väg” - Expressen
-- Källa: Tekniska samtal mellan Iran och USA i veckan – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Polishund död efter sökinsats på Skaftö - Bohusläningen
+- Polen tecknar avtal om att anskaffa ubåtar från Saab och fördjupar det strategiska samarbetet med Sverige - Regeringen.se
+- Man döms till livstids fängelse efter knivmord i Karlskrona - SVT Nyheter
+- SMHI: Dags att plocka fram paraplyet igen - Göteborgs-Posten
+- SMHI varnar för skyfall och åska - Göteborgs-Posten
+- Kraftigt efterskalv i Caracas – hoppet falnar - Västerbottens-Kuriren
+- Experten om Putin: ”Mer pressad än någonsin” - Dagens Nyheter
+- WHO: 1 300 dödsfall på grund av värmeböljan - Göteborgs-Posten
+- Trump: Iran har begärt möte – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Inbjudan: Presentation angående Ambeas offentliga uppköpserbjudande till aktieägarna i Humana (Cision) - Aktiellt
-- Nya regler för näthandel – färre kan köpa på kredit - Dagens Nyheter
-- Asiens börser tappar mark efter oro kring Persiska viken - Börskollen
 - AI-bubblan – nästa stora börskrasch? - Aftonbladet
-- Hanna Schönbergs klädmärke kan hamna i domstol - Aftonbladet
+- Bitcoin kurs dollar – så påverkas priset på världens största kryptovaluta - svenskbyggtidning -
+- Marknaden delar experterna: ”Räknar med volatilitet i allt” - Omni
 - Bristen på minneschip hotar slå ut mindre spelare - Omni
+- Detaljer om GTA VI verkar läcka från butikssidor - FZ.se
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -39,28 +38,31 @@ _Updated: 2026-06-29 12:08_
 - 130 svenska miljoner till global hälsa - Aftonbladet
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Avanza: Fondspararna ökade risken i juni - global- och teknikfonder i topp - Börsvärlden
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kanada vill bli en global stormakt inom kärnkraft - Bulletin
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Visual Art köper Global Agencies - Dagens Media
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -68,31 +70,29 @@ _Updated: 2026-06-29 12:08_
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
+- AI blir en "assistent" för investerare. - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
-- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -102,7 +102,7 @@ _Updated: 2026-06-29 12:08_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -112,7 +112,7 @@ _Updated: 2026-06-29 12:08_
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - E-hälsa inom EU - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
@@ -129,15 +129,15 @@ _Updated: 2026-06-29 12:08_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Forskning på uppfattningar om kunskapens förflutna, nutid och framtid - Stockholms universitet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
