@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-30 17:11_
+_Updated: 2026-06-30 19:23_
 
 ## Top Stories
 
 - Missnöjet växer i Venezuela: ”Här finns fler gevär än spadar” - Dagens Nyheter
-- Hejdå hettan – värmen förbi för denna gång - Aftonbladet
-- Person hittad död i Landskrona – polisen utreder mord - SVT Nyheter
-- Qatar: Inget möte mellan USA och Iran i dag - Göteborgs-Posten
+- Trafikverkets eget dokument: Solkurvor uppstår inte på välskött järnväg - Dagens Nyheter
+- Misstänkt mord i Landskrona - Landskrona Direkt
+- Högsta domstolen stoppar Trumps försök att begränsa medborgarskap vid födseln - SVT Nyheter
+- Kvinna inte längre häktad för misstänkt mord - Västerbottens-Kuriren
 - Parkchefen efter blixtdramat: ”Min fru är sjuksköterska” - Sydsvenskan
-- Kvinna inte längre häktad misstänkt för mord i Askersund - SVT Nyheter
-- Så ska lärare slippa rastvakta och städa - Dagens Nyheter
-- Fängelse för 14-åringar kan införas i september - Västerbottens-Kuriren
-- Två år efter stormen – Knäbäckshusens strand har öppnat igen - Sydsvenskan
-- Regeringen vill avskaffa mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
-- Ukrainsk oligark svårt skadad i bombdåd i Monaco - Västerbottens-Kuriren
+- Fängelse för 14-åringar kan införas i september - Corren
+- Område avspärrat – upptäckt höga halter av arsenik - Göteborgs-Posten
+- Här är det svenska biståndsmötet med korruptionsanklagad energichef - Dagens Nyheter
+- Kvinna hittades död – man misstänkt för mord - Västerbottens-Kuriren
+- Stora protester mot invandring i Sydafrika – men värsta scenarierna undveks - Dagens Nyheter
 - Värmebölja ger nytt rekord – 42 grader i Ungern - Västerbottens-Kuriren
 - Ryssland: Ukrainska attackvågor mot Moskva - Corren
-- Ukraina: Sju mördade i terrorbombning mot Dnipro satellitanläggning i Moskva och oljedepå i Novorossijsk bombad - Storbritannien stöper om sitt försvar efter ukrainsk modell - cornucopia.se
+- Terrorexpert: Hamas växer i vapenvilans stiltje - Dagens Nyheter
 - Nu är Kastrup vinnare i kampen mot Arlanda - Sydsvenskan
 - Kappahl köper second hand-kedjan Arkivet - Aktuell Hållbarhet
+- Lista: Sivers har utklassat alla på börsen första halvåret - Omni
 - Train Alliance: KOMMUNIKÉ FRÅN ÅRSSTÄMMA I TRAIN ALLIANCE AB (PUBL) (Cision) - Aktiellt
-- Di listar: Halvårets största vinnare och förlorare på börsen - Dagens industri
+- Så bra är nya utegymmet – Bbl/AT och Nophon testar - Bbl/AT
 - Däcktillverkare levererar däck till Porsches bilar i Toy Story 5 - Däcksnack
-- "Grand Theft Auto VI" drog in 1 miljard dollar på 1 timme - MovieZine
 
 ## World News
 
@@ -38,32 +38,32 @@ _Updated: 2026-06-30 17:11_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
-- Spelet bakom nedläggningen av News of the World - Expressen
+- Cameron – smittad av skandalen - Aftonbladet
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
@@ -75,8 +75,8 @@ _Updated: 2026-06-30 17:11_
 
 - AI blir en "assistent" för investerare. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Phu My Investment Group är hedrade att få utmärkelsen "Topp 10 framstående företag 2026". - Vietnam.vn
@@ -110,8 +110,8 @@ _Updated: 2026-06-30 17:11_
 - Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska Institutet
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
@@ -121,10 +121,10 @@ _Updated: 2026-06-30 17:11_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- 5 myter om öppen vetenskap - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
@@ -136,8 +136,8 @@ _Updated: 2026-06-30 17:11_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
