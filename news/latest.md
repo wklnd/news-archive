@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-30 23:18_
+_Updated: 2026-07-01 00:55_
 
-- Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
-- Supreme Court upholds bans on transgender athletes in girls’ and women’s sports - NBC News
-- Supreme Court strikes down limits on political party spending - NPR
-- What the Supreme Court justices' latest rulings reveal, according to a legal expert - NPR
-- Supreme Court takes up challenges to AR-15 bans - CBS News
-- Dangerous, record-smashing heat wave to scorch millions - USA Today
-- House floor is frozen after GOP holdouts vote down Johnson’s election-bill plan - Politico
-- US declaration to exit USMCA to start a decade-long countdown for the pact - Reuters
-- House Dems help GOP kill another Lebanon war powers vote - Axios
+- Supreme Court upholds birthright citizenship - CNN
+- Supreme Court sides with GOP, loosens campaign spending rules - The Washington Post
 - Tom Kean Says Depression Led to Long Absence From Congress - The New York Times
-- US envoys arrive in Qatar with state of Iran talks unclear - dw.com
-- Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News
+- New York Is About to Feel Hotter Than Phoenix - WIRED
+- Supreme Court will consider whether laws called assault weapons bans violate the Second Amendment - AP News
+- House GOP leaders cancel votes, start recess early after member rebellion - Politico
+- How the Supreme Court ruled on Trump's agenda: Birthright citizenship, tariffs, presidential power - CBS News
+- US expected to not extend USMCA, starting a decade-long countdown for trade pact - Reuters
+- Supreme Court upholds bans on transgender athletes in girls’ and women’s sports - NBC News
+- DOJ investigating Gallego for campaign finance violations - Politico
+- Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal - Reuters
 - Frank Gardner: Key points from government's defence spending plan - BBC
+- Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News
 - Russia to import gasoline as Ukrainian strikes force Putin to use reserves - politico.eu
-- Spot gold spikes to session high $4,048/oz after Consumer Confidence at 91.2 in June - KITCO
-- Nike is set to report earnings after the bell. Here's what to expect - CNBC
+- Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund - CNBC
 - Stock Market Today: Nasdaq Advances, on Track to Wrap Quarter Up 20% — Live Updates - WSJ
-- Exclusive | USDA Plans to Pay Smaller Meatpackers to Keep Slaughtering Cattle - WSJ
-- Sony’s Cooling Neck Device Is Coming to the US, and I Got a First Look - CNET
-- Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks - MacRumors
+- Egg producers settle US claims they manipulated benchmark prices - Financial Times
+- Trump Reports at Least $1.2 Billion in Crypto Earnings for 2025 - Bloomberg.com
+- Xbox Layoff Plans Reportedly Include Closing Arkane, Canceling Blade - Engadget
+- Google’s NotebookLM can sum up your research in a TikTok-style clip - The Verge
