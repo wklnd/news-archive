@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-30 14:28_
+_Updated: 2026-06-30 17:11_
 
 ## Top Stories
 
-- DN Direkt – Venezuela: 58 000 hus kan ha skadats enligt Nasa - Dagens Nyheter
-- Mängdrabatt avskaffas – längre tid i fängelse - Västerbottens-Kuriren
-- Ukrainsk oligark i Monaco-explosion – detta vet vi - Göteborgs-Posten
-- Pojke skadad i blixtkaoset - Expressen
-- Lärarna efter beskedet om reglerad tid: ”Idag ska vi fira” - Vi Lärare
-- Över på 20 minuter – chockuppgift för Kreml - Marcus Oscarsson
-- Knäbäckshusens strand har öppnat - Sydsvenskan
-- Protesterar mot höjda hyror – kan tvingas flytta från Södermalm - Dagens Nyheter
+- Missnöjet växer i Venezuela: ”Här finns fler gevär än spadar” - Dagens Nyheter
+- Hejdå hettan – värmen förbi för denna gång - Aftonbladet
+- Person hittad död i Landskrona – polisen utreder mord - SVT Nyheter
+- Qatar: Inget möte mellan USA och Iran i dag - Göteborgs-Posten
+- Parkchefen efter blixtdramat: ”Min fru är sjuksköterska” - Sydsvenskan
+- Kvinna inte längre häktad misstänkt för mord i Askersund - SVT Nyheter
+- Så ska lärare slippa rastvakta och städa - Dagens Nyheter
+- Fängelse för 14-åringar kan införas i september - Västerbottens-Kuriren
+- Två år efter stormen – Knäbäckshusens strand har öppnat igen - Sydsvenskan
 - Regeringen vill avskaffa mängdrabatten – Senaste nytt om valet 2026 - SVT Nyheter
-- Remiss av promemorian Förslag på extra medelstilldelning till Sveriges Radio AB och Sveriges Television AB för ökade kostnader för marknätet - Regeringen.se
-- USA och Iran skickar delegationer till Doha – oklart om samtal - Dagens Nyheter
-- Ryssland: Spädbarn dödat i attack mot Moskva - Västerbottens-Kuriren
-- Storbritannien rustar om efter ukrainsk modell - Omni
-- Man anklagas för mord – 17-åring hittades i resväska - Hufvudstadsbladet – HBL
-- Megasatsning av SAS – kan skapa tusentals nya jobb i Skåne - Sydsvenskan
-- ESET: Sluta lita på insidan av nätverket – där förbereds nästa cyberattack - Aktuell Säkerhet
-- Kappahl köper second hand-kedjan Arkivet - Västerbottens-Kuriren
-- USA-jättarnas tapp – 22 000 miljarder upp i rök: ”Stora frågetecknet” - EFN
-- Microsoft förlänger supporten för Windows Server 2022 - Computer Sweden
-- Uppdaterat IOS ute nu – tätar stort antal säkerhetshål - mobil.se
+- Ukrainsk oligark svårt skadad i bombdåd i Monaco - Västerbottens-Kuriren
+- Värmebölja ger nytt rekord – 42 grader i Ungern - Västerbottens-Kuriren
+- Ryssland: Ukrainska attackvågor mot Moskva - Corren
+- Ukraina: Sju mördade i terrorbombning mot Dnipro satellitanläggning i Moskva och oljedepå i Novorossijsk bombad - Storbritannien stöper om sitt försvar efter ukrainsk modell - cornucopia.se
+- Nu är Kastrup vinnare i kampen mot Arlanda - Sydsvenskan
+- Kappahl köper second hand-kedjan Arkivet - Aktuell Hållbarhet
+- Train Alliance: KOMMUNIKÉ FRÅN ÅRSSTÄMMA I TRAIN ALLIANCE AB (PUBL) (Cision) - Aktiellt
+- Di listar: Halvårets största vinnare och förlorare på börsen - Dagens industri
+- Däcktillverkare levererar däck till Porsches bilar i Toy Story 5 - Däcksnack
+- "Grand Theft Auto VI" drog in 1 miljard dollar på 1 timme - MovieZine
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -37,16 +36,17 @@ _Updated: 2026-06-30 14:28_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kanada vill bli en global stormakt inom kärnkraft - Bulletin
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
 - 1 426 potential victims identified in global operation against human trafficking - Europol
 - Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- Spelet bakom nedläggningen av News of the World - Expressen
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- IIHF World Championship: Live-resultat, fixturer och tabeller - 365Scores
 
 ## Technology
 
@@ -57,7 +57,7 @@ _Updated: 2026-06-30 14:28_
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
@@ -111,34 +111,34 @@ _Updated: 2026-06-30 14:28_
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
+- Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
