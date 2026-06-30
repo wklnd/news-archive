@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-06-30 23:14_
+_Updated: 2026-07-01 00:49_
 
 ## Top Stories
 
 - Man med vasst föremål har skjutits av polis i Svalöv - Omni
 - Gripenaffären med Ukraina är i hamn: ”Får starkare luftförsvar” - Dagens Nyheter
-- Kvinna hittades död – man misstänkt för mord - Expressen
+- Polisen jagar expartner – misstänks för mordet på Värnhem - Sydsvenskan
+- Uppgifter: Porr mer än hälften av Groks trafik - Svenska Dagbladet
+- Göran Eriksson: HD kör över Trump – med flit? - Svenska Dagbladet
 - Venezuela: Över 1 900 döda i jordbävningarna - Göteborgs-Posten
-- Ukrainska drönarattacker får Putin att överväga exportstopp på diesel - Sveriges Radio
-- Qatar: Inget möte mellan USA och Iran i dag - Göteborgs-Posten
 - Misstänkt mord – två hittade döda i villa - Västerbottens-Kuriren
 - Älg till attack – sparkade man i bröstet i Eskilstuna - SVT Nyheter
-- Trots ny lag – butik vägrar kontanter - Västerbottens-Kuriren
-- Man häktad för mord efter bilbranden utanför Jönköping - SVT Nyheter
-- Främlingsfientlig deadline löper ut – varnas för våld - Göteborgs-Posten
-- Högsta domstolen stoppar Trumps försök att begränsa medborgarskap vid födseln - SVT Nyheter
+- Trots ny lag – livsmedelsbutik nobbar kontanter - Göteborgs-Posten
+- Här är det svenska biståndsmötet med korruptionsanklagad energichef - Dagens Nyheter
+- Direkt – Krisen i Mellanöstern – Qatar: Inget toppmöte mellan USA och Iran i dag - Dagens Nyheter
 - Efter värmeböljan – fullt på franska bårhus - Hufvudstadsbladet – HBL
-- Explosionen i Monaco: Han pekas ut som måltavla - Expressen
+- Åklagare: Inget terrordåd bakom explosionen i Monaco - Aftonbladet
+- Myndigheter vet inte var 300 ebolasmittade är - Omni
 - Nu är Kastrup vinnare i kampen mot Arlanda - Sydsvenskan
-- Rapport: Bråttom att stärka skyddet mot AI-cyberangrepp - Sveriges Radio
-- Kappahl köper majoritetspost i Arkivet – nu väntar expansion utomlands - habit.se
-- Glatt på Wall Street när chipbolagen lyfte - Aftonbladet
+- ESET: Sluta lita på insidan av nätverket – där förbereds nästa cyberattack - Aktuell Säkerhet
+- SL halverar priset på månadskort från 1 juli - Nyhetsbyrån Järva
+- Castellum i miljardaffär med Alecta – aktien lyfte - Omni
 - Antarktis första dinosauriefossil hittat – i byrå - Aftonbladet
-- Så bra är nya utegymmet – Bbl/AT och Nophon testar - Bbl/AT
+- Uppgifter om Iphone 18 Pro har läckt på dark web - Omni
 
 ## World News
 
@@ -54,91 +54,91 @@ _Updated: 2026-06-30 23:14_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Forskare vill se dödsknapp i AI-system - Computer Sweden
 
 ## Business
 
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
+- AI blir en "assistent" för investerare. - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Vilken framtid arbetar du för? - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
+- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Phu My Investment Group är hedrade att få utmärkelsen "Topp 10 framstående företag 2026". - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
 
 ## Health
 
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Sprid kunskap utan att oroa - Psykologtidningen
+- Vi presenterar HealthBench - OpenAI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Vi presenterar ChatGPT Health - OpenAI
-- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
-- Stockholm centrum för hälsoekonomi (StoCHE) – Emelie Heintz grupp - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - 5 myter om öppen vetenskap - Läkartidningen
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Water Science Lab - Malmö universitet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Olika slutsatser från samma data - Läkartidningen
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Knut och Alice Wallenbergs Stiftelse anslår 125 miljoner till KI för life science med fokus på klinisk forskning - Karolinska Institutet
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-06-30 23:14_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
