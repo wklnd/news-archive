@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-06-30 03:35_
+_Updated: 2026-06-30 07:54_
 
-- Supreme Court says Fed’s Cook can keep her job for now, but it upholds other Trump firings - AP News
-- Supreme Court rules mail-in ballots arriving after Election Day can be counted - The Washington Post
+- Supreme Court expands Trump’s power over the federal bureaucracy - The Washington Post
 - Live updates: Venezuela earthquake aftershocks reignite fears as survivors seek answers - CNN
-- Trump says Carroll verdict setback surprised him - Axios
-- Live Updates: Iran calls Strait of Hormuz situation "sensitive and complex" as U.S. sends officials to Qatar for talks - CBS News
-- Dangerous, record-smashing heat wave to scorch millions - USA Today
-- Sex Abuse Survivors Reach $395 Million Deal With San Francisco Diocese - The New York Times
-- Guo Wengui, China Critic and Tycoon, Sentenced to 30 Years for Fraud - WSJ
+- Exclusive: Johnson says housing bill will become law, with or without Trump - USA Today
+- Live updates: Trump and Iran issue conflicting statements about new talks - CNN
+- Supreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States - The New York Times
+- Senate Ethics drops misconduct inquiry into Gallego - Axios
 - Identities Released of Three Firefighters Who Died Responding to Knowles Fire in Colorado - U.S. Department of the Interior (.gov)
-- Millions say they won’t celebrate July 4 as poll reveals deep national pessimism - The Independent
-- Crocodile attacks, kills 28-year-old at popular Mexico beach and drags him out to sea, reports say - AZ Family
-- Putin makes rare admission of fuel shortages caused by Ukrainian strikes - BBC
-- Britain unveils its new Ukraine-modeled armed forces - politico.eu
-- Deadly heatwave grips Italy and Balkans as wildfire fears grow - Al Jazeera
-- NBCUniversal & Sky “Fit Well Together And Are Set Up For Success” After Comcast Split, Mike Cavanagh Says - Deadline
-- Dow Jones Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners - Investor's Business Daily
-- Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves - WSJ
-- ECB does not need to fight inflation with ‘same force’ as in 2022-23, Lagarde says - Financial Times
-- WhatsApp usernames launch ‘later this year’ – here’s how to get yours now - 9to5Google
-- Samsung Galaxy Z Fold 8 Wide Gets New Confirmation Before Release - Forbes
+- DC’s record-breaking fireworks delayed as Trump turns July 4 celebration into another MAGA rally - The Independent
+- San Francisco archdiocese agrees to $395M settlement with 530 clergy abuse survivors - Fox News
+- Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News
+- Explosion in Monaco injuries 3 including Ukrainian tycoon, and suspected attacker flees to France - AP News
+- Long-delayed defence spending plan to be published on Tuesday - BBC
+- Putin says Ukrainian strikes on infrastructure causing "problems" for Russia - CBS News
+- Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News
+- What Comcast-NBCUniversal Split Faces On D.C.’s Trump-Influenced Regulatory Road - Deadline
+- Do this before the heat wave hits — and slash your cooling costs by $100 this summer - MarketWatch
+- China factory activity grows faster than expected in June on tech export demand - CNBC
+- Asian Equities Climb as Tech Rebounds, Yen Weakens: Markets Wrap - Bloomberg.com
+- Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google
+- MacBook Ultra rumors: What to expect including the touchscreen, chips, release date and more - Engadget
