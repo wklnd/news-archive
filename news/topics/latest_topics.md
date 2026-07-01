@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-01 08:51_
+_Updated: 2026-07-01 12:53_
 
 ## Top Stories
 
-- Trump gör miljardvinst på krypto - Dagens Nyheter
-- Kallas ”skräckfilm” – men polischefen vill se fler Jaegerdorffsplatser i Göteborg - Göteborgs-Posten
-- 36 elever kidnappade i Nigeria - Göteborgs-Posten
-- Halverat SL kort – men inga extra avgångar än - Mitt i
-- USA har påbörjat deportationer till pyttestat - Göteborgs-Posten
-- Nu förbjuds kusinäktenskap – här är lagarna som börjar gälla i juli - Göteborgs-Posten
+- JUST NU: Flicka dog i branden – mamman döms - Expressen
+- 24-åring döms till livstid för dubbelmord i Kallhäll - Omni
+- Nu halveras biljettpriset på bussarna i Norrbotten - SVT Nyheter
+- Över 1 000 avled i den spanska junivärmen - Göteborgs-Posten
+- DN Direkt – Flera döda i storbrand i Belgien - Dagens Nyheter
+- Buss har vält på 49:an – vägen helt avspärrad - Skövde Nyheter
+- Utredning mot tidigare FRA-anställd läggs ned - Västerbottens-Kuriren
+- Ny lag om psykiskt våld träder i kraft 1 juli - polisen.se
 - AI blir bollplank åt kriminella – och guldgruva för polisen - Dagens Nyheter
-- Älg till attack – sparkade man i bröstet i Eskilstuna - SVT Nyheter
-- Så ska barnen tas emot på Kumlaanstalten - Göteborgs-Posten
-- Gör ditt eget jobb innan du börjar kleta på andras, Busch! - Arbetet
-- Venezuela: Över 1 900 döda i jordbävningarna - Göteborgs-Posten
-- Världshaven slog värmerekord i juni - Sydsvenskan
-- Iran möter medlare – Trump briefad om nya anfall - Västerbottens-Kuriren
-- Efter värmeböljan – fullt på franska bårhus - Hufvudstadsbladet – HBL
-- Dubbla skattesänkingar på drivmedel gör Sverige till europeiskt lågprismecka - Ny Teknik
-- Camilla Bergman: Kappahl slog H&M – därför köper de secondhand-kedjan - Impact Loop
-- Nu är Kastrup vinnare i kampen mot Arlanda - Sydsvenskan
-- Blandat i Asien – chipjättarna faller i Sydkorea - EFN
-- Uppgifter om Iphone 18 Pro har läckt på dark web - Omni
-- Goodyear levererar däck till Porsches Toy Story-bilar - Däckavisen
+- Nu förbjuds kusinäktenskap – här är lagarna som börjar gälla i juli - Göteborgs-Posten
+- Källa: USA skickar soldater till Libanon och Israel - Göteborgs-Posten
+- Björn af Kleen: Blytung motgång för Trump när han som minst behövde den - Dagens Nyheter
+- Pakistan: Afghanska drönare nedskjutna - Västerbottens-Kuriren
+- Trump har tjänat miljard på krypto - Hufvudstadsbladet – HBL
+- DEBATT: Idag sänks skatten på diesel och bensin. Varför, egentligen? - Norrtelje Tidning
+- Anthropics framgång: AI-modeller tillåts - Dagens industri
+- Askerson: ”SAS satsar på Kastrup – vem satsar på Arlanda?” - märsta.nu
+- Börsen inleder trevande – Saab lyfter - Aftonbladet
+- Sårbarheten Blue Hammer utnyttjas aktivt av hackare - Computer Sweden
+- Senaste versionen av Kali Linux bjuder på 9 nya verktyg - Computer Sweden
 
 ## World News
 
-- BMW International Open i München – Eichenried väntar golfeliten - golfpost.com
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- UNDP lanserar läromedel om global utveckling - UNDP
-- Alecta investerarer 110 miljoner dollar i global klimatsatsning - Finanswatch.se
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- UNDP lanserar läromedel om global utveckling - UNDP
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
+- Alecta investerarer 110 miljoner dollar i global klimatsatsning - Finanswatch.se
+- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kanada vill bli en global stormakt inom kärnkraft - Bulletin
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung
-- 1 426 potential victims identified in global operation against human trafficking - Europol
-- Miss Global Tourism Ambassador 2026: En mötesplats för skönhet och turism... - Intervjuare - Vietnam.vn
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Visual Art köper Global Agencies - Dagens Media
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Do UN climate talks have a point any more? - BBC
-- Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal - The New York Times
-- En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
-- South Korea: Age system to be standardised from 2023 - BBC
 
 ## Technology
 
@@ -73,22 +73,22 @@ _Updated: 2026-07-01 08:51_
 
 ## Business
 
+- Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - AI blir en "assistent" för investerare. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Phu My Investment Group är hedrade att få utmärkelsen "Topp 10 framstående företag 2026". - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -121,7 +121,7 @@ _Updated: 2026-07-01 08:51_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
+- 5 myter om öppen vetenskap - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
@@ -134,27 +134,26 @@ _Updated: 2026-07-01 08:51_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
-- Vietnam deltar i den internationella konferensen om kvinnliga jordbrukare i Indien. - Vietnam.vn
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - Sveriges lantbruksuniversitet (SLU)
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
-- Här är världens största jordbruk - atl.nu
+- Här är världens största jordbruk - ATL.nu
 - Jord, kor och klimat - Sveriges lantbruksuniversitet (SLU)
+- 5 fonder och ETF:er inom jordbruk att överväga - Morningstar
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - Sveriges lantbruksuniversitet (SLU)
 - Visning av uppkomst efter direktsådd - Land.se
@@ -162,3 +161,4 @@ _Updated: 2026-07-01 08:51_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
