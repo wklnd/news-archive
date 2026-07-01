@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 18:57_
+_Updated: 2026-07-01 21:22_
 
+- Daredevil couple Angela Nikolau and Ivan Beerkus climb to top of Empire State Building in NYC, gets engaged, taken into custody - ABC7 New York
 - Voters are angry with Washington, and other takeaways from the Colorado primaries - The Washington Post
-- Trump’s audacious bid to end birthright citizenship was not an entire loss at the Supreme Court - CNN
 - Walz post calling SCOTUS girls' sports ruling 'cruel' backfires online as critics reveal what's even crueler - Fox News
-- Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
 - The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact - AP News
-- Crowd size gripes, state fair troubles: The problems of an America 250 celebration tied to Trump - CNN
-- Heat wave will smash records in East, Midwest through July 4 - The Weather Channel
-- Tom Kean Jr. kept his depression a secret. Colleagues are questioning that decision. - Politico
-- 2 people climb to top of NYC's Empire State Building, fly banner - CBS News
-- Trump will visit newly built Theodore Roosevelt Presidential Library in North Dakota's Badlands - AP News
+- Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes - NPR
 - U.S.-Iran Latest: Trump hails "very good meetings" in Qatar as indirect negotiations resume - CBS News
+- No expectant moms at the border: Trump's birthright Plan B - Axios
+- Why a man with political power talking about depression is actually a big deal - CNN
+- Retrofitted Qatari jet takes flight as Air Force One for Trump’s trip to North Dakota - AP News
+- Capitol agenda: House floor freezes over - Politico
 - Ship runs aground in Strait of Hormuz, Iranian state TV reports - AP News
-- Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham - BBC
+- Controversial bishops ordained as Pope warns of 'schism' in Catholic Church - BBC
 - Roof of tutoring center collapses in eastern Pakistan, killing at least 14 children, police say - CNN
+- Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham - BBC
 - Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News
-- Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls - The Hacker News
+- After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica
+- Italy's Bending Spoons, owner of AOL and Vimeo, valued at $20 billion in US market debut - Reuters
 - Stock Market Today: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision — Live Updates - WSJ
-- Employers who laid off workers citing AI are already starting to regret it - CNBC
-- Sony will cease production of discs for new PlayStation games in 2028 - Game File | Stephen Totilo
-- Microsoft set for new round of job cuts next week, spanning Xbox, sales and consulting - GeekWire
+- You won’t be able to buy new PlayStation games on discs starting in 2028 - The Washington Post
+- Xbox testing disc-to-digital feature that digitizes a physical game collection - The Verge
