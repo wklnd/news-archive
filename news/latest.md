@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 03:55_
+_Updated: 2026-07-01 08:57_
 
 - Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
-- US Supreme Court has dealt heavy defeats to Trump, while expanding his power - BBC
-- GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+- Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+- 5 takeaways from Supreme Court rulings on Trump’s power, elections, LGBTQ+ issues - The Washington Post
+- US envoys in Doha to meet mediators but not Iranians, Qatar says - BBC
 - Supreme Court will consider whether laws known as assault weapons bans violate the Second Amendment - AP News
-- Supreme Court upholds bans on transgender athletes in girls’ and women’s sports - NBC News
-- Supreme Court Voids Political-Party Spending Caps in GOP Win (2) - Bloomberg Law News
+- Supreme Court Allows States to Bar Transgender Athletes From Girls’ Sports - The New York Times
 - Dangerous heatwave to hit US ahead of holiday weekend - BBC
-- Aspen Acres Fire destroys 55 homes in one Colorado county, more than 100 structures in another - CBS News
-- Judges toss Trump’s loan forgiveness rule - Politico
-- Rep. Tom Kean returns to Congress, says depression is why he went missing for months - NPR
-- Why some Europeans resist air conditioning, even amid deadly heat waves - CBS News
-- Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News
-- Russia to import gasoline as Ukrainian strikes force Putin to use reserves - politico.eu
-- US envoys arrive in Qatar with state of Iran talks unclear - DW.com
-- Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News
-- Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 - CNBC
-- Nike's headline FQ4 beat not enough to win over Wall Street (NKE:NYSE) - Seeking Alpha
-- Stock Market Today: Nasdaq Advances, on Track to Wrap Quarter Up 20% — Live Updates - WSJ
-- Xbox Layoff Plans Reportedly Include Closing Arkane, Canceling Blade - Engadget
-- Clicks shows off its BlackBerry-inspired phone in a new hands-on video - TechCrunch
+- Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+- Colorado man shares powerful message after watching his property burn - KOAA News 5
+- G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda - The New York Times
+- Pakistan roof collapse kills 14 children at tutoring centre - The Guardian
+- Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News
+- Monaco bombing suspect flees to France as police probe attempted murder - France 24
+- Trump fixated on White South Africans, but Black migrants face violence, protests - The Washington Post
+- Trump drops restrictions on Anthropic’s Mythos and Fable models - TechCrunch
+- Nike Earnings Top Estimates but Stock Falls - Barron's
+- Wisconsin DOJ announces settlement in alleged multi-state scheme to raise egg prices - WPR
+- Stock Market News, June 30, 2026: Nasdaq Advances, Climbs 21% for Quarter - WSJ
+- Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery] - 9to5Google
+- Gemini Spark Comes To Google's Gemini App For macOS - Engadget
