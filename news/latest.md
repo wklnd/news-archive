@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 00:55_
+_Updated: 2026-07-01 03:55_
 
-- Supreme Court upholds birthright citizenship - CNN
-- Supreme Court sides with GOP, loosens campaign spending rules - The Washington Post
-- Tom Kean Says Depression Led to Long Absence From Congress - The New York Times
-- New York Is About to Feel Hotter Than Phoenix - WIRED
-- Supreme Court will consider whether laws called assault weapons bans violate the Second Amendment - AP News
-- House GOP leaders cancel votes, start recess early after member rebellion - Politico
-- How the Supreme Court ruled on Trump's agenda: Birthright citizenship, tariffs, presidential power - CBS News
-- US expected to not extend USMCA, starting a decade-long countdown for trade pact - Reuters
+- Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
+- US Supreme Court has dealt heavy defeats to Trump, while expanding his power - BBC
+- GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+- Supreme Court will consider whether laws known as assault weapons bans violate the Second Amendment - AP News
 - Supreme Court upholds bans on transgender athletes in girls’ and women’s sports - NBC News
-- DOJ investigating Gallego for campaign finance violations - Politico
-- Uncertainty over Qatar diplomacy clouds prospects for US-Iran deal - Reuters
-- Frank Gardner: Key points from government's defence spending plan - BBC
+- Supreme Court Voids Political-Party Spending Caps in GOP Win (2) - Bloomberg Law News
+- Dangerous heatwave to hit US ahead of holiday weekend - BBC
+- Aspen Acres Fire destroys 55 homes in one Colorado county, more than 100 structures in another - CBS News
+- Judges toss Trump’s loan forgiveness rule - Politico
+- Rep. Tom Kean returns to Congress, says depression is why he went missing for months - NPR
+- Why some Europeans resist air conditioning, even amid deadly heat waves - CBS News
 - Explosion in Monaco reportedly wounds Ukrainian tycoon with ties to Russia - AP News
 - Russia to import gasoline as Ukrainian strikes force Putin to use reserves - politico.eu
-- Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund - CNBC
+- US envoys arrive in Qatar with state of Iran talks unclear - DW.com
+- Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News
+- Anthropic says Trump admin has lifted export controls on Claude Fable 5 and Mythos 5 - CNBC
+- Nike's headline FQ4 beat not enough to win over Wall Street (NKE:NYSE) - Seeking Alpha
 - Stock Market Today: Nasdaq Advances, on Track to Wrap Quarter Up 20% — Live Updates - WSJ
-- Egg producers settle US claims they manipulated benchmark prices - Financial Times
-- Trump Reports at Least $1.2 Billion in Crypto Earnings for 2025 - Bloomberg.com
 - Xbox Layoff Plans Reportedly Include Closing Arkane, Canceling Blade - Engadget
-- Google’s NotebookLM can sum up your research in a TikTok-style clip - The Verge
+- Clicks shows off its BlackBerry-inspired phone in a new hands-on video - TechCrunch
