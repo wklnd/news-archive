@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 12:56_
+_Updated: 2026-07-01 15:53_
 
-- Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary - The Guardian
-- Trump calls on Congress to end birthright citizenship after court defeat - The Washington Post
-- Supreme Court allows California to keep its transgender student-athlete policy - CalMatters
-- US envoys in Doha to meet mediators but not Iranians, Qatar says - BBC
+- Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+- GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+- Another New York resident says he was warned by officers after criticizing ICE - AP News
+- Poll: Most Americans think the U.S. has strayed from its founding principles - PBS
+- Supreme Court Rejects Trump’s Bid to Curtail Birthright Citizenship - WSJ
+- Republicans’ Home-Field Edge for Senate Seems Just Enough for Now - The New York Times
+- Trump to debut new Air Force One on trip to Theodore Roosevelt museum dedication - Reuters
 - Dangerous heatwave to hit US ahead of holiday weekend - BBC
-- Tom Kean Jr. kept his depression a secret. Colleagues are questioning that decision. - Politico
-- Trump to Take Maiden Flight on Qatari-Gifted Air Force One - WSJ
-- Phil Weiser projected to win Democratic primary for Colorado governor, defeat Sen. Michael Bennet - CBS News
-- Professor reaches $1.9M settlement after being fired for criticizing Charlie Kirk - The Washington Post
-- Judges strike down Trump administration’s overhaul of student loan forgiveness program - AP News
-- UK’s Starmer announces 300-billion-pound defence investment plan - Al Jazeera
+- Heat Wave Trudges East on Wednesday, Putting Millions More at Risk - The New York Times
+- Crowd size gripes, state fair troubles: The problems of an America 250 celebration tied to Trump - CNN
+- Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending - BBC
+- Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters
 - Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News
-- Fourteen children killed in Pakistan when tutoring centre roof collapses - Reuters
-- France sets presidential election date as Macron finishes final term - France 24
-- Trump drops restrictions on Anthropic’s Mythos and Fable models - TechCrunch
-- Donald Trump made $1.4bn in crypto income in 2025, raising his net worth - Al Jazeera
-- Lamborghini reveals new Urus performance hybrid SUV after ditching EVs - CNBC
-- Nike Earnings Top Estimates but Stock Sinks - Barron's
-- Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery] - 9to5Google
-- Android 17's new lock screen trick could frustrate anyone trying to break into your phone - Android Authority
+- Rebel Catholic group SSPX defies pope, consecrates bishops - DW.com
+- Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News
+- Kroger to buy retailer Giant Eagle in a $1.65 billion deal - Reuters
+- Employers who laid off workers citing AI are already starting to regret it - CNBC
+- Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
+- Sony is killing all physical PlayStation game discs - The Verge
+- Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year - Eurogamer
