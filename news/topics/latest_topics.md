@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-01 00:49_
+_Updated: 2026-07-01 03:40_
 
 ## Top Stories
 
-- Man med vasst föremål har skjutits av polis i Svalöv - Omni
-- Gripenaffären med Ukraina är i hamn: ”Får starkare luftförsvar” - Dagens Nyheter
-- Polisen jagar expartner – misstänks för mordet på Värnhem - Sydsvenskan
-- Uppgifter: Porr mer än hälften av Groks trafik - Svenska Dagbladet
-- Göran Eriksson: HD kör över Trump – med flit? - Svenska Dagbladet
+- Flera blev skadade av blixt - 8 Sidor
 - Venezuela: Över 1 900 döda i jordbävningarna - Göteborgs-Posten
-- Misstänkt mord – två hittade döda i villa - Västerbottens-Kuriren
-- Älg till attack – sparkade man i bröstet i Eskilstuna - SVT Nyheter
-- Trots ny lag – livsmedelsbutik nobbar kontanter - Göteborgs-Posten
-- Här är det svenska biståndsmötet med korruptionsanklagad energichef - Dagens Nyheter
+- Bakslag för Trump i USA:s högsta domstol - Hufvudstadsbladet – HBL
+- Uppgifter: Porr mer än hälften av Groks trafik - Svenska Dagbladet
+- Ukrainska drönarattacker får Putin att överväga exportstopp på diesel - Sveriges Radio
+- Kvinna inte längre häktad misstänkt för mord i Askersund - Åklagarmyndigheten
+- Två funna döda i villa – mord misstänks - Dagens Nyheter
+- Trots ny lag – butik vägrar kontanter - Västerbottens-Kuriren
+- Lärare får mer tid till planering - Göteborgs-Posten
+- Remiss av promemorian Förslag på extra medelstilldelning till Sveriges Radio AB och Sveriges Television AB för ökade kostnader för marknätet - Regeringen.se
 - Direkt – Krisen i Mellanöstern – Qatar: Inget toppmöte mellan USA och Iran i dag - Dagens Nyheter
 - Efter värmeböljan – fullt på franska bårhus - Hufvudstadsbladet – HBL
-- Åklagare: Inget terrordåd bakom explosionen i Monaco - Aftonbladet
-- Myndigheter vet inte var 300 ebolasmittade är - Omni
+- Fortsatt bråk: Inga polska stridsflygplan till Ukraina - Dagens Nyheter
+- Ukrainsk oligark i Monaco-explosion – detta vet vi - Göteborgs-Posten
 - Nu är Kastrup vinnare i kampen mot Arlanda - Sydsvenskan
-- ESET: Sluta lita på insidan av nätverket – där förbereds nästa cyberattack - Aktuell Säkerhet
-- SL halverar priset på månadskort från 1 juli - Nyhetsbyrån Järva
-- Castellum i miljardaffär med Alecta – aktien lyfte - Omni
+- USA mot bästa kvartalet på sex år: ”Risk för rekyl” - Omni
+- TriCarbs BidCo höjer priset till 6,00 kronor per aktie i Cint och kontrollerar sammanlagt 74,9 procent av aktierna i Cint genom ytterligare oåterkalleliga åtaganden från aktieägare - Cision News
+- ECB kan hålla räntorna i juli om Mellanöstern-spänningarna avtar av Investing.com - Investing.com Sverige
 - Antarktis första dinosauriefossil hittat – i byrå - Aftonbladet
 - Uppgifter om Iphone 18 Pro har läckt på dark web - Omni
 
 ## World News
 
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - UNDP lanserar läromedel om global utveckling - UNDP
@@ -35,35 +36,34 @@ _Updated: 2026-07-01 00:49_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kanada vill bli en global stormakt inom kärnkraft - Bulletin
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Visual Art köper Global Agencies - Dagens Media
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - DO Black - the world’s first credit card with a carbon limit - Mastercard
-- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- F-16 ace pilot killed in training crash before Polish air show - TVP World
+- 1 426 potential victims identified in global operation against human trafficking - Europol
+- Cameron – smittad av skandalen - Aftonbladet
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Leveraging AI in Swedish Development Cooperation - FUF.se
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -82,14 +82,14 @@ _Updated: 2026-07-01 00:49_
 - Phu My Investment Group är hedrade att få utmärkelsen "Topp 10 framstående företag 2026". - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
@@ -121,10 +121,9 @@ _Updated: 2026-07-01 00:49_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- 5 myter om öppen vetenskap - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
@@ -132,12 +131,13 @@ _Updated: 2026-07-01 00:49_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
@@ -161,4 +161,4 @@ _Updated: 2026-07-01 00:49_
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
-- Lantbrukarnas data blir en tillgång - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
