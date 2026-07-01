@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 15:53_
+_Updated: 2026-07-01 18:57_
 
-- Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
-- GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
-- Another New York resident says he was warned by officers after criticizing ICE - AP News
-- Poll: Most Americans think the U.S. has strayed from its founding principles - PBS
-- Supreme Court Rejects Trump’s Bid to Curtail Birthright Citizenship - WSJ
-- Republicans’ Home-Field Edge for Senate Seems Just Enough for Now - The New York Times
-- Trump to debut new Air Force One on trip to Theodore Roosevelt museum dedication - Reuters
-- Dangerous heatwave to hit US ahead of holiday weekend - BBC
-- Heat Wave Trudges East on Wednesday, Putting Millions More at Risk - The New York Times
+- Voters are angry with Washington, and other takeaways from the Colorado primaries - The Washington Post
+- Trump’s audacious bid to end birthright citizenship was not an entire loss at the Supreme Court - CNN
+- Walz post calling SCOTUS girls' sports ruling 'cruel' backfires online as critics reveal what's even crueler - Fox News
+- Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
+- The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact - AP News
 - Crowd size gripes, state fair troubles: The problems of an America 250 celebration tied to Trump - CNN
-- Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending - BBC
-- Iran insists on keeping control over Hormuz, senior Iranian sources say - Reuters
-- Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News
-- Rebel Catholic group SSPX defies pope, consecrates bishops - DW.com
+- Heat wave will smash records in East, Midwest through July 4 - The Weather Channel
+- Tom Kean Jr. kept his depression a secret. Colleagues are questioning that decision. - Politico
+- 2 people climb to top of NYC's Empire State Building, fly banner - CBS News
+- Trump will visit newly built Theodore Roosevelt Presidential Library in North Dakota's Badlands - AP News
+- U.S.-Iran Latest: Trump hails "very good meetings" in Qatar as indirect negotiations resume - CBS News
+- Ship runs aground in Strait of Hormuz, Iranian state TV reports - AP News
+- Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham - BBC
+- Roof of tutoring center collapses in eastern Pakistan, killing at least 14 children, police say - CNN
 - Trump filing shows he took in about $1.2 billion from crypto businesses last year - AP News
-- Kroger to buy retailer Giant Eagle in a $1.65 billion deal - Reuters
+- Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls - The Hacker News
+- Stock Market Today: Nasdaq Slips, Warsh Dodges Questions on July Rate Decision — Live Updates - WSJ
 - Employers who laid off workers citing AI are already starting to regret it - CNBC
-- Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
-- Sony is killing all physical PlayStation game discs - The Verge
-- Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year - Eurogamer
+- Sony will cease production of discs for new PlayStation games in 2028 - Game File | Stephen Totilo
+- Microsoft set for new round of job cuts next week, spanning Xbox, sales and consulting - GeekWire
