@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-01 08:57_
+_Updated: 2026-07-01 12:56_
 
-- Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
-- Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
-- 5 takeaways from Supreme Court rulings on Trump’s power, elections, LGBTQ+ issues - The Washington Post
+- Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary - The Guardian
+- Trump calls on Congress to end birthright citizenship after court defeat - The Washington Post
+- Supreme Court allows California to keep its transgender student-athlete policy - CalMatters
 - US envoys in Doha to meet mediators but not Iranians, Qatar says - BBC
-- Supreme Court will consider whether laws known as assault weapons bans violate the Second Amendment - AP News
-- Supreme Court Allows States to Bar Transgender Athletes From Girls’ Sports - The New York Times
 - Dangerous heatwave to hit US ahead of holiday weekend - BBC
-- Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
-- Colorado man shares powerful message after watching his property burn - KOAA News 5
-- G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda - The New York Times
-- Pakistan roof collapse kills 14 children at tutoring centre - The Guardian
+- Tom Kean Jr. kept his depression a secret. Colleagues are questioning that decision. - Politico
+- Trump to Take Maiden Flight on Qatari-Gifted Air Force One - WSJ
+- Phil Weiser projected to win Democratic primary for Colorado governor, defeat Sen. Michael Bennet - CBS News
+- Professor reaches $1.9M settlement after being fired for criticizing Charlie Kirk - The Washington Post
+- Judges strike down Trump administration’s overhaul of student loan forgiveness program - AP News
+- UK’s Starmer announces 300-billion-pound defence investment plan - Al Jazeera
 - Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News
-- Monaco bombing suspect flees to France as police probe attempted murder - France 24
-- Trump fixated on White South Africans, but Black migrants face violence, protests - The Washington Post
+- Fourteen children killed in Pakistan when tutoring centre roof collapses - Reuters
+- France sets presidential election date as Macron finishes final term - France 24
 - Trump drops restrictions on Anthropic’s Mythos and Fable models - TechCrunch
-- Nike Earnings Top Estimates but Stock Falls - Barron's
-- Wisconsin DOJ announces settlement in alleged multi-state scheme to raise egg prices - WPR
-- Stock Market News, June 30, 2026: Nasdaq Advances, Climbs 21% for Quarter - WSJ
+- Donald Trump made $1.4bn in crypto income in 2025, raising his net worth - Al Jazeera
+- Lamborghini reveals new Urus performance hybrid SUV after ditching EVs - CNBC
+- Nike Earnings Top Estimates but Stock Sinks - Barron's
 - Samsung drops first official Galaxy Z Fold 8 teasers, ‘New Shape, New Joy’ [Gallery] - 9to5Google
-- Gemini Spark Comes To Google's Gemini App For macOS - Engadget
+- Android 17's new lock screen trick could frustrate anyone trying to break into your phone - Android Authority
