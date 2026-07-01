@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-01 18:55_
+_Updated: 2026-07-01 21:18_
 
 ## Top Stories
 
-- Uppgift: Ukrainare åtalas för Nord Stream-sabotage - Göteborgs-Posten
-- Nu halveras priset på Dalatrafiks månadskort – men problem första dagen - SVT Nyheter
-- Prästbrödraskapet Sankt Pius X viger fyra nya biskopar utan påvens tillstånd - Vatican News
-- Flera svenskar dömda i spansk knarkhärva - Göteborgs-Posten
-- En person död efter olycka i Örnsköldsvik - Sveriges Radio
-- Premiärflög Qatars gåva: ”Passar en president” - Svenska Dagbladet
-- Johan Huovinen om det nedlagda fallet: ”Borde aldrig ha hänt” - Dagens Nyheter
-- Flicka dog i brand – mamman döms till fängelse - Göteborgs-Posten
-- Längre tågstopp efter olycka - Västerbottens-Kuriren
-- Man död efter trafikolycka i Norrbotten - Norran
-- DN Direkt – Efter jordbävningarna – miljonstöd till Venezuela - Dagens Nyheter
-- Ryssland stänger gränsövergångar mot Finland - Västerbottens-Kuriren
-- Björn af Kleen: Blytung motgång för Trump när han som minst behövde den - Dagens Nyheter
-- Direkt – Kriget i Ukraina – USA: Nato-allierade behöver omedelbart jobba mot 5-procentskravet - Dagens Nyheter
-- Google döms att betala skadestånd till Pricerunner - Klarna stiger i förhandeln (uppdatering 3) - Placera.se
-- John Skogman tecknade för en miljon i Sivers - Dagens industri
-- Alectas nya vd: "Förbättringsprogrammet ligger fast" - Finanswatch.se
+- Större familjebråk i Malmö – fem till sjukhus - Expressen
+- ”FRA-kvinnan” Lena Huovinen träder fram: Påverkat mig enormt - Göteborgs-Posten
+- Trafikverket arbetar dygnet runt för att återställa järnvägen efter urspårningen i Bollebygd - Via TT
+- Hisnande frieri på Empire State Buildings topp - Västerbottens-Kuriren
+- Ukrainsk man åtalas för Nord Stream-sabotaget - Dagens Nyheter
+- Flera svenskar dömda i spansk knarkhärva - Aftonbladet
+- Kvinnlig cyklist död – påkörd av lastbil - Västerbottens-Kuriren
+- Försvaret vill stoppa miljökontroller i Östersjön - Dagens Nyheter
+- Nya brottsbekämpande lagar träder i kraft i dag - Aftonbladet
+- Trafikolycka i korsning i Gävle – två personer till sjukhus - Gefle Dagblad
+- Efter jordbävningarna – miljonstöd till Venezuela - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Ukrainsk man åtalas för Nord Stream-sabotaget - Dagens Nyheter
+- Expert om Rysslands drag: ”Ett sätt att tvinga in folk i armén” - Hufvudstadsbladet – HBL
+- Trump om Iransamtalen: Väldigt bra möten - Dagens Nyheter
+- Google döms att betala skadestånd till Pricerunner - Klarna stiger i förhandeln (uppdatering) - Placera.se
+- Tyska krisplanerna – Trump en vinnare - Svenska Dagbladet
+- Pensionsjättens nya vd vill investera i svenska startups - Dagens industri
 - Anthropic återställer tillgången till Claude Fable 5 och Mythos 5 - Computer Sweden
 - Playstation slutar med fysiska spel - Svenska Dagbladet
-- Facket protesterar mot spelstudion bakom ”GTA VI” - Dagens Nyheter
+- Strejkhot på ”GTA VI”-utvecklaren - Sydsvenskan
 
 ## World News
 
@@ -32,6 +32,7 @@ _Updated: 2026-07-01 18:55_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - UNDP lanserar läromedel om global utveckling - UNDP
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -39,7 +40,6 @@ _Updated: 2026-07-01 18:55_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kanada vill bli en global stormakt inom kärnkraft - Bulletin
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
@@ -51,11 +51,11 @@ _Updated: 2026-07-01 18:55_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -74,8 +74,8 @@ _Updated: 2026-07-01 18:55_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
@@ -120,12 +120,13 @@ _Updated: 2026-07-01 18:55_
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - Sveriges lantbruksuniversitet (SLU)
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -133,7 +134,6 @@ _Updated: 2026-07-01 18:55_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - 5 myter om öppen vetenskap - Läkartidningen
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
