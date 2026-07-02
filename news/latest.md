@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-02 17:54_
+_Updated: 2026-07-02 20:19_
 
-- A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector - AP News
-- Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
-- The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
-- Venezuelan man pulled alive from collapsed basement eight days after earthquakes - The Guardian
-- No expectant moms at the border: Trump's birthright Plan B - Axios
-- Members of rebel Catholic group in schism, excommunicated, Vatican says - Reuters
-- Newsom's office responds to SCOTUS ruling on women's sports as California faces ongoing trans athlete wave - Fox News
-- FBI says it’s still investigating some notes in Nancy Guthrie case as legitimate - NBC News
-- Empire State Building Skywalking Lovebirds Awaiting Arraignment On Multiple Charges Following Wednesday’s Stunt - Deadline
+- At least 22 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’ - Al Jazeera
+- Mamdani gets roasted after telling sweltering New Yorkers to set ACs to 78 degrees: 'Commie' - Fox News
 - Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S. - The New York Times
-- Explosion heard in Syria’s capital Damascus: state media - Al Jazeera
-- U.S. Dangles Rewards for Opening the Strait of Hormuz. Iran Isn’t Budging. - WSJ
-- Forced adoptions 'a stain on our history' says Starmer as he gives formal apology - BBC
-- What’s China’s new ethnic unity law, and what does it mean for minorities? - Al Jazeera
+- Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
+- Man pulled from rubble in ‘miraculous’ rescue 8 days after devastating Venezuela earthquakes - CNN
+- The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
+- How Trump made more than $1 billion on crypto when most of his coin’s investors lost money - CNN
+- WATCH: Nationwide transgender sports law is next step after Supreme Court win, GOP senator says - Fox News
+- Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race - The New York Times
+- FBI calls for ‘immediate surge’ of personnel to help Fulton County 2020 election probe, sources say - NBC News
+- Excommunications show a Pope Leo unafraid of making firm decisions - Reuters
+- Bomb Explodes at Damascus Cafe, Killing at Least 4 - The New York Times
+- Man who sold land for Kushner-backed Albania development probed over alleged money laundering, drug trafficking - CBS News
+- Iran warns oil tankers to use approved routes in Strait of Hormuz or face a ‘forceful response’ - AP News
 - US economy added jobs at a slower pace than expected in June - Fox Business
-- Tesla deliveries jump 25% over last year, blowing past expectations - CNBC
-- In Sintra, world's central bankers find ally in new Fed chief - Reuters
-- Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records - Yahoo Finance
-- Apple plans five new iPhones through 2027, eyes Chinese-made chips amid foldable push, reports say - CNBC
-- Report: Xbox Disc-to-Digital Feature in Testing, Microsoft "Likely" to Stop Disc Production Too - Digital Foundry
+- Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's
+- Energy Department Orders Data Centers to Tap Backup Power - The New York Times
+- Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years - CNBC
+- Apple Eyes 10 Million Foldable iPhones in Major Expansion Move - Yahoo Finance
+- Samsung Galaxy Z Fold 8 Ultra colors leak, including the online exclusive option - PhoneArena
