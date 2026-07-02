@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 20:57_
+_Updated: 2026-07-02 22:41_
 
 ## Top Stories
 
 - Direkt – Kriget i Ukraina – Röda korsets lager förstört i attacken mot Kiev - Dagens Nyheter
-- Polisen: Misstänkte mördaren agerade ensam - Nerikes Allehanda
-- Person hittad död på hotell i Uppsala - Expressen
-- ”Prejad på motorvägen med mina söner i bilen” - Svenska Dagbladet
-- Läkaren om skabbutbrottet på Chalmers: ”Ovanligt” - Göteborgs-Posten
 - Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
+- Polisen: Misstänkte mördaren agerade ensam - Nerikes Allehanda
+- Över fyra år av krig – Krim isoleras bit för bit - SVT Nyheter
+- ”En elit med privatjet och lyxjakter tar över” - Svenska Dagbladet
+- Flera dödsfall och våldsbrott på bara några dagar – här är sju fall i Skåne - Aftonbladet
 - DN Direkt – Kraftig berusning bakom många dödsolyckor på elspark - Dagens Nyheter
-- Hon är en av tusen som ska skriva första medborgarskapsprovet - Sveriges Radio
-- Unga om butiksstöket: Man blir misstänkt direkt - Dagens Nyheter
-- Regeringen körde över experterna – nu blir det olagligt att rymma - ETC.se
-- Libanon ger inte upp ”en enda tum” av sitt territorium till Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- DN Direkt – Explosion på kafé i Damaskus – flera döda - Dagens Nyheter
-- Ukraina vill tillverka kraftfulla roboten: ”Saknat vapnet” - Dagens Nyheter
+- Ny lag på språkkrav: ”Viktigt för patientsäkerheten” - Arvika Nyheter
+- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
+- Just nu: Ett körfält blockerat på grund av en stillastående lastbil på E4 - Corren
+- DN Direkt – Dödstalen stiger – över 400 döda i ebola - Dagens Nyheter
+- Källa: USA skickar soldater till Libanon och Israel - Göteborgs-Posten
+- Moskvabor skaffar egna vapen mot drönarna: ”Låg nytta” - Dagens Nyheter
 - Rysk ekonomi störs på riktigt – efter Ukrainas vågade drag - Realtid
 - 14 kronor litern – så reagerar gotlänningarna på bensinsänkningen - Helagotland
-- Jonas Fröberg: Volkswagens kris är inte bara tysk – den är europeisk - Dagens Nyheter
 - Nato uppges välja Saabs Globaleye - Metal Supply
-- Strateger spår nytt rally i höst: ”Då blir börsen glad” - Omni – Alla nyheter. Alla perspektiv.
+- Jonas Fröberg: Volkswagens kris är inte bara tysk – den är europeisk - Dagens Nyheter
+- USA-börser åt olika håll – försvarsbolag lyfter - Omni – Alla nyheter. Alla perspektiv.
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
 - Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
-- Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
 - Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 
@@ -53,8 +53,8 @@ _Updated: 2026-07-02 20:57_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
