@@ -1,67 +1,67 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 11:43_
+_Updated: 2026-07-02 14:28_
 
 ## Top Stories
 
-- Omfattande angrepp mot Kiev: ”Under rasande attack” - Dagens Nyheter
-- Fahima mördades i Västerås – maken döms till livstid - Aftonbladet
-- Man död efter skjutning i Malmö – en misstänkt anhållen - SVT Nyheter
+- Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
+- Ryska jätteattacker mot Kiev: ”Fruktansvärd natt” - Göteborgs-Posten
+- Moskémordet styrdes utifrån – tre får livstid - Expressen
+- Grannarna i Malmö efter skjutningen: ”Jag har inte upplevt detta som ett otryggt område” - Dagens Nyheter
+- 63-årig man får livstid för hedersmordet i Västerås - Omni – Alla nyheter. Alla perspektiv.
+- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
+- Mer än 100 fall av salmonella kopplas till nudlar - Västerbottens-Kuriren
+- Pojke i våldssekt döms för anlagd storbrand - Göteborgs-Posten
+- 2 juli 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
+- Patient död efter diagnosmiss på akuten - Läkartidningen
 - Ryskt oljeraffinaderi i lågor efter ukrainsk attack - Expressen
-- Skabbutbrott på Chalmers – lokaler akut stängda - Göteborgs-Posten
-- 2 miljoner soldater stupade i kriget i Ukraina - Sveriges Radio
-- 15-åring döms för mordbrand – utförde dåd genom extremistiskt nätverk - SVT Nyheter
-- Man död i trafikolycka utanför Trollhättan - Göteborgs-Posten
-- Patient död efter diagnosmiss på akuten - Västerbottens-Kuriren
-- Man åtalas för grova sexualbrott på vårdboende - Folkbladet
-- Över 90 drunknade i Frankrike: ”Oroväckande” - Västerbottens-Kuriren
-- Tyskland: Ukraina beordrade Nord Stream-sabotage - SVT Nyheter
-- Trumps kontroversiella nya flygplan invigt - Västerbottens-Kuriren
-- DN Direkt – Tyskland: Minst två döda i brand på sjukhus - Dagens Nyheter
-- TV: ENKÄT: Så tycker dalslänningarna om sänkt bensinpris - Dalslänningen
-- Inneboende säljtryck och stökig historik – teckna inte aktien - EFN
-- SvD:s podd Tech Brief: Varför rusar Nokia på börsen? - Svenska Dagbladet
-- Priserna på skogsfastigheter stiger i söder – faller i norr - Dagens industri
+- DN Direkt – Spöstraff för par som kysstes på Tiktok - Dagens Nyheter
+- MERZ KOALITION NÅR AVTAL OM REFORMPAKET - Placera.se
+- Kallas föreslår fler EU-sanktioner mot Ryssland - Västerbottens-Kuriren
+- DN Direkt – Klar risk för omotiverat höga elnätsavgifter – Konkurrensverket varnar - Dagens Nyheter
+- Miljardären bakom Ellos IPO: "Vi vill ha tusentals ägare" - Affärsvärlden
+- Google döms att betala 14,3 miljarder i skadestånd till Klarna - Placera.se
+- Novo Nordisk vill pressa leverantörer för att minska sina egna utgifter - Börskollen
 - Sony slutar med spelskivor till nya Playstation-spel - Placera.se
 - Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BMW International Open i München – Eichenried väntar golfeliten - golfpost.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Rainfall became irregular during Earth’s hottest periods, raising global warming concerns - The Brighter Side of News
+- Ice hockey chief calls for Russia & Belarus return - BBC
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Alecta investerarer 110 miljoner dollar i global klimatsatsning - Finanswatch.se
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Kanada vill bli en global stormakt inom kärnkraft - Bulletin
 - Miss Global Tourism Ambassador 2026: En mötesplats för skönhet och turism... - Intervjuare - Vietnam.vn
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
+- DO Black - the world’s first credit card with a carbon limit - Mastercard
+- Cameron – smittad av skandalen - Aftonbladet
+- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
+- Ulrika Jonsson stämmer News of the World - Sydsvenskan
+- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -121,10 +121,10 @@ _Updated: 2026-07-02 11:43_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - SLU
@@ -132,13 +132,13 @@ _Updated: 2026-07-02 11:43_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
