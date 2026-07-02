@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-02 20:19_
+_Updated: 2026-07-02 22:06_
 
-- At least 22 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’ - Al Jazeera
-- Mamdani gets roasted after telling sweltering New Yorkers to set ACs to 78 degrees: 'Commie' - Fox News
-- Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S. - The New York Times
+- U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism - NBC News
+- Dangerous US heatwave looms over 4 July holiday, World Cup and Swift wedding - BBC
+- Russia lands heavy strikes on Ukraine’s capital, killing at least 21 - AP News
 - Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
 - Man pulled from rubble in ‘miraculous’ rescue 8 days after devastating Venezuela earthquakes - CNN
 - The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
 - How Trump made more than $1 billion on crypto when most of his coin’s investors lost money - CNN
-- WATCH: Nationwide transgender sports law is next step after Supreme Court win, GOP senator says - Fox News
-- Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race - The New York Times
-- FBI calls for ‘immediate surge’ of personnel to help Fulton County 2020 election probe, sources say - NBC News
-- Excommunications show a Pope Leo unafraid of making firm decisions - Reuters
-- Bomb Explodes at Damascus Cafe, Killing at Least 4 - The New York Times
+- The GOP’s dirty little secret about the SAVE America Act - Politico
+- Couple who staged apparent proposal atop Empire State Building faces slew of charges - The Guardian
+- California man pleads guilty to sending false ransom note in Nancy Guthrie disappearance - NBC News
+- Members of rebel Catholic group are excommunicated, Vatican says - Reuters
 - Man who sold land for Kushner-backed Albania development probed over alleged money laundering, drug trafficking - CBS News
-- Iran warns oil tankers to use approved routes in Strait of Hormuz or face a ‘forceful response’ - AP News
-- US economy added jobs at a slower pace than expected in June - Fox Business
-- Tesla Sales Blow Away Expectations. Why the Stock Is Dropping. - Barron's
+- Bomb Explodes at Damascus Cafe, Killing at Least 6 - The New York Times
+- U.S. and Iran hold separate meetings in Qatar and agree to continue discussions - NPR
+- US job growth slows sharply in June; labor force participation rate at more than 5-year low - Reuters
 - Energy Department Orders Data Centers to Tap Backup Power - The New York Times
-- Sandwich chain Jersey Mike's files for IPO, reports 50% same-store sales growth in recent years - CNBC
-- Apple Eyes 10 Million Foldable iPhones in Major Expansion Move - Yahoo Finance
-- Samsung Galaxy Z Fold 8 Ultra colors leak, including the online exclusive option - PhoneArena
+- Stock Market Today: Nasdaq Falls After June Hiring Misses Expectations — Live Updates - WSJ
+- Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound - CNBC
+- iOS 27 public beta release date: When you can install the new iPhone update - 9to5Mac
+- Intel Expected To Restart Supply Of 10th, 12th, 13th, And 14th Gen Processors In Mainland China - Wccftech
