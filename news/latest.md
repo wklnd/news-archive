@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-02 13:17_
+_Updated: 2026-07-02 15:20_
 
+- Russian attacks kills at least 20, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News
 - Trump’s wealth grew on a scale without modern presidential precedent - The Washington Post
-- Russian attacks kills at least 17, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News
-- U.S.-Iran Latest: Trump hails "very good meetings" in Qatar as indirect negotiations resume - CBS News
-- Breakaway Catholic group excommunicated after defying warnings from Pope Leo - CNN
-- No expectant moms at the border: Trump's birthright Plan B - Axios
-- Daredevil climbers get engaged after scaling top of the Empire State Building - BBC
-- Opinion | The Transgender Sports Decision Was About Something Deeper Than Law - The New York Times
-- Gov. Jared Polis fires clemency board members who spoke out about Tina Peters decision - The Denver Post
-- US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation - Al Jazeera
-- FBI official pushes back on claims that Nancy Guthrie kidnapping ransom demands are fake: report - Fox News
-- Eight Thai monks killed after child drives truck into procession - Al Jazeera
-- Who is Ukrainian oligarch Vadym Yermolaiev, the suspected target of the Monaco bombing? - France 24
-- Why air conditioning became a cross-Atlantic culture war - vox.com
-- China’s new ethnic unity law extends its legal reach overseas - Al Jazeera
+- Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling - The Guardian
+- NCAA leader says no plan to change rules on transgender athletes after Supreme Court ruling - CBS News
+- The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
+- Vatican cracks down on a traditionalist group by excommunicating its bishops - AP News
+- Frustration mounts as GOP infighting derails House - The Hill
+- 'The old politics are gone': Steve Bannon on the democratic socialist wave - Politico
+- Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
+- Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race - The New York Times
+- ‘Progress’ in US-Iran talks as Tehran prepares for supreme leader’s funeral - CNN
+- German coalition agrees on sweeping reform package in key breakthrough - Al Jazeera
+- Nine Thai monks killed after 11-year-old driver collides with procession - BBC
+- Victims of forced adoption to get formal apology after years campaigning - BBC
+- Jobs Report Today: Stock Futures Jump After June Hiring Misses Expectations — Live Updates - WSJ
+- Google loses fight over record $4.7 billion EU antitrust fine - CNBC
 - Bending Spoons defies SaaS slump, surges 40% on first day of trading - TechCrunch
-- US Tech Rout Sours Mood For Japan, South Korean Chip Stocks - Bloomberg.com
-- Stock futures choppy after weak start to July trading; jobs report ahead: Live updates - CNBC
-- SEC Probes Alleged Insider Trades That Cost Susquehanna - Bloomberg.com
+- Rivian raises 2026 delivery outlook after strong demand in the second quarter - CNBC
 - Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500 - 9to5Mac
 - Apple's Hide My Email feature has a bug that's been exposing real email addresses, researcher claims - TechCrunch
