@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-02 03:35_
+_Updated: 2026-07-02 07:41_
 
-- Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big - The New York Times
-- Daredevil couple Angela Nikolau and Ivan Beerkus climb to top of Empire State Building in NYC, gets engaged, taken into custody - ABC7 New York
-- What are the main sticking points in the Trump admin's trade negotiations with Canada, Mexico? - Fox Business
+- Trump’s wealth grew on a scale without modern presidential precedent - The Washington Post
+- Climber couple arrested after scaling Empire State Building antenna for apparent marriage proposal - AP News
 - As Venezuela responds to earthquake devastation, volunteers take charge - Al Jazeera
-- Extraordinary heat in US Northeast arrives to clash with Fourth of July revelry - AP News
-- U.S.-Iran Latest: Trump hails "very good meetings" in Qatar as indirect negotiations resume - CBS News
+- Immigrant Arrests Surge to 10,000 in 5 Days as ICE Clamps Down - The New York Times
+- Trump vows to give long July 4 address even if it is 107 degrees - The Hill
+- Ohio authorities rescue 16 children confined to one room for four years - The Guardian
 - NCAA leader says no plan to change rules on transgender athletes after Supreme Court ruling - CBS News
-- Mitch McConnell Was Reportedly Found Unconscious Last Month—What We Know About His Health - Forbes
-- US judge sides with NAACP over proposed mail-in ballot restrictions - Al Jazeera
-- No expectant moms at the border: Trump's birthright Plan B - Axios
-- Explosions Rock Ukraine’s Capital - The New York Times
+- Nancy Guthrie: FBI clarifies it is investigating some extortion demands as legitimate - The Guardian
+- Extraordinary heat in US Northeast arrives to clash with Fourth of July revelry - AP News
+- US declines to extend North American trade deal, starting clock to end it while seeking changes - Reuters
+- Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’ - Al Jazeera
+- Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners - CNBC
 - Defying Pope Leo XIV, traditionalists go ahead with bishop consecrations in Switzerland - AP News
-- Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham - BBC
-- Russian Gasoline Prices Rise Again After Ukraine Hits Refineries - Bloomberg
-- After $18B IPO, Bending Spoons founder says success comes from minimizing luck - TechCrunch
-- After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica
-- DOJ says Alibaba failed to stop illegal pharmaceuticals and banned goods from reaching US buyers - Fox Business
+- Who is Ukrainian oligarch Vadym Yermolaiev, the suspected target of the Monaco bombing? - France 24
 - Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking - Yahoo Finance
-- You won’t be able to buy new PlayStation games on discs starting in 2028 - The Washington Post
-- Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027 - Bloomberg
+- Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street - CNBC
+- After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica
+- Oil falls for a third straight day after US, Iran talks conclude in Doha - Reuters
+- Sony to end physical PlayStation game discs for new releases starting in 2028 - Fox Business
+- Elon Musk denies a report about SpaceX’s AI phone prototype - The Verge
