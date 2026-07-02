@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 16:39_
+_Updated: 2026-07-02 19:11_
 
 ## Top Stories
 
 - Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
-- Ryska jätteattacker mot Kiev: ”Fruktansvärd natt” - Göteborgs-Posten
-- Grannarna i Malmö efter skjutningen: ”Jag har inte upplevt detta som ett otryggt område” - Dagens Nyheter
-- Ryskt oljeraffinaderi i lågor efter ukrainsk attack - Expressen
-- Ukraina vill tillverka kraftfulla roboten: ”Saknat vapnet” - Dagens Nyheter
-- Skabbutbrott på Chalmers – lokaler akut stängda - Göteborgs-Posten
-- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
-- DN Direkt – Pojke i våldssekt döms för anlagd storbrand - Dagens Nyheter
-- Mer än 100 fall av salmonella kopplas till nudlar - Västerbottens-Kuriren
-- Man döms till livstids fängelse för mord på sin fru - Göteborgs-Posten
-- DN Direkt – Tyskland: Ukraina beordrade Nord Stream-sabotage - Dagens Nyheter
-- Explosion på kafé i Damaskus – flera döda - Sydsvenskan
-- REGERINGSKOALITION AVSLÖJAR REFORMPAKET - Placera.se
+- Direkt – Kriget i Ukraina – Röda korsets lager förstört i attacken mot Kiev - Dagens Nyheter
 - Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
-- Saabs Global Eye-flygplan kan bli Natostandard - Västerbottens-Kuriren
-- Billigare bensin – då kommer dansken till Sverige för att tanka - Sveriges Radio
+- Skabbutbrott på Chalmers – lokaler akut stängda - Göteborgs-Posten
+- Person hittad död på hotell i Uppsala - Expressen
+- 117 600 nya månadskort – efter SL:s prissänkning - SVT Nyheter
+- DN Direkt – Kraftig berusning bakom många dödsolyckor på elspark - Dagens Nyheter
+- Pojke i våldssekten 764 döms för anlagd storbrand - Västerbottens-Kuriren
+- Hon är en av tusen som ska skriva första medborgarskapsprovet - Sveriges Radio
+- KRÖNIKA: Vilken dröm om nästa partiledardebatt handlar om Tiktok! - Sydsvenskan
+- Libanon ger inte upp ”en enda tum” av sitt territorium till Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Explosion på kafé i Damaskus - Västerbottens-Kuriren
+- Ukraina vill tillverka kraftfulla roboten: ”Saknat vapnet” - Dagens Nyheter
+- Rysk ekonomi störs på riktigt – efter Ukrainas vågade drag - Realtid
+- Olika meningar om sänkta bensinpriset:”Perfekt inför semestern” - Skaraborgs Allehanda
+- NATO KAN ERSÄTTA FLYGFLOTTA MED GLOBALEYE-PLATTFORM - RTRS - Placera.se
 - Oväntat få nya jobb i USA - Svenska Dagbladet
-- PwC: Företagsaffärerna ökar till rekordnivå - Placera.se
+- Experterna: Aktierna att köpa inför andra halvåret - Börskollen
 - Microsoft presenterar Memora – ska ge AI-agenter bättre långtidsminne - Computer Sweden
-- Sony slutar med spelskivor till nya Playstation-spel - Placera.se
+- Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
+- Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Ice hockey chief calls for Russia & Belarus return - BBC
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Saabs Global Eye-flygplan kan bli Natostandard - Svenska Dagbladet
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
-- Svenskt pass toppar Global Passport Index. På grund av hög livskvalitet. - Feber
+- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
 - Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 
 ## Technology
@@ -54,22 +54,22 @@ _Updated: 2026-07-02 16:39_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
+- AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -77,11 +77,11 @@ _Updated: 2026-07-02 16:39_
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
@@ -132,12 +132,12 @@ _Updated: 2026-07-02 16:39_
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
