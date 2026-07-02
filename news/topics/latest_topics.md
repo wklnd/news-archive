@@ -1,121 +1,121 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 03:32_
+_Updated: 2026-07-02 07:36_
 
 ## Top Stories
 
-- JUST NU: Skott i Malmö – ”såg en blodig man” - Expressen
-- Misstänkt mordförsök efter familjebråk i Malmö - Omni
-- Flera explosioner i Kiev - Västerbottens-Kuriren
-- ”FRA-kvinnan” träder fram: Påverkat mig enormt - Göteborgs-Posten
-- Olycka på väg 42 – räddningstjänst och ambulans på plats - TTELA
-- Trafikverket: ”Värsta tänkbara scenario” - Borås Tidning
+- En person död efter skottlossning i Malmö - Svenska Dagbladet
+- Omfattande angrepp mot Kiev: ”Under rasande attack” - Göteborgs-Posten
+- Bil krockat med lastbil utanför Trollhättan - Sveriges Radio
+- Två miljoner soldater skadade eller dödade i kriget - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Jättebrand rasar i södra Frankrike - Dagens Nyheter
+- Qatar: ”Positiva framsteg” i Iransamtalen - Aftonbladet
+- Mordförsök utreds efter familjebråk i Malmö - Göteborgs-Posten
 - Advokater uppmanas bojkotta rättslig rådgivning - Västerbottens-Kuriren
-- Södra Sverige sinar – fortsatt svår vattenbrist - Nya Wermlands-Tidningen
-- Här är de nya lagarna och reglerna – börjar gälla i dag - Norran
-- Nu halveras priset på Dalatrafiks månadskort – men problem första dagen - SVT Nyheter
-- DN Direkt – Banderollkupp på Empire State Building - Dagens Nyheter
-- Uppgift: Ukrainare åtalas för Nord Stream-sabotage - Göteborgs-Posten
-- Expert om Rysslands drag: ”Ett sätt att tvinga in folk i armén” - Hufvudstadsbladet – HBL
+- ”FRA-kvinnan” träder fram: Påverkat mig enormt - Göteborgs-Posten
+- Här är nya språkkravet – så ska det fungera - Folkbladet
+- Ukraina kopplar strypgrepp på Krim - Västerbottens-Kuriren
+- En död efter attacker mot grekiska politiker - Göteborgs-Posten
 - ”Venezuelas själ i stycken” – sju dagars landssorg - Corren
-- Trots sänkning av bränslepriserna – lantbrukaren kritisk - Sveriges Radio
-- Domstolsbeslut stärker Creades utsikter till tilläggsköpeskilling från Pricerunner - Placera.se
-- ECB-ledamot: Inget behov av att ändra räntan i juli - Omni
-- Börsen inleder trevande – Saab lyfter - Folkbladet
-- Playstation slutar med fysiska spel - Svenska Dagbladet
-- Strejkhot på ”GTA VI”-utvecklaren - Sydsvenskan
+- Uppgift: Ukrainare åtalas för Nord Stream-sabotage - Göteborgs-Posten
+- Billigare bensin – då kommer dansken till Sverige för att tanka - Sveriges Radio
+- Sivers Semiconductors tar in 700 miljoner kronor för expansion inom AI-fotonik - Evertiq
+- Anthropics nya AI-modell Fable 5 är återigen tillgänglig - PC för Alla
+- Trist på börserna i Asien - Aftonbladet
+- Sony slutar med spelskivor till nya Playstation-spel - Placera.se
+- Apple iPhone 18 Pro Max sägs ha ett överraskande stort batteri - notebookcheck.se
 
 ## World News
 
+- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung
-- Alecta investerarer 110 miljoner dollar i global klimatsatsning - Finanswatch.se
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global drogsajt stängd – svenskar gripna - Drugnews
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Corren kan vinna pris för satsningen på unga - Corren
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang Economic, Financial and Technology Week 2026 kommer att utökas i omfattning och innehåll. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vilken framtid arbetar du för? - EY
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Sprid kunskap utan att oroa - Psykologtidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Digital arbetsmiljö och hälsa – Carin Håkanstas forskargrupp - Karolinska Institutet
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Huvudtalare – SSRC - Karolinska Institutet
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
