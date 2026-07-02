@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 19:11_
+_Updated: 2026-07-02 20:57_
 
 ## Top Stories
 
-- Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
 - Direkt – Kriget i Ukraina – Röda korsets lager förstört i attacken mot Kiev - Dagens Nyheter
-- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
-- Skabbutbrott på Chalmers – lokaler akut stängda - Göteborgs-Posten
+- Polisen: Misstänkte mördaren agerade ensam - Nerikes Allehanda
 - Person hittad död på hotell i Uppsala - Expressen
-- 117 600 nya månadskort – efter SL:s prissänkning - SVT Nyheter
+- ”Prejad på motorvägen med mina söner i bilen” - Svenska Dagbladet
+- Läkaren om skabbutbrottet på Chalmers: ”Ovanligt” - Göteborgs-Posten
+- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
 - DN Direkt – Kraftig berusning bakom många dödsolyckor på elspark - Dagens Nyheter
-- Pojke i våldssekten 764 döms för anlagd storbrand - Västerbottens-Kuriren
 - Hon är en av tusen som ska skriva första medborgarskapsprovet - Sveriges Radio
-- KRÖNIKA: Vilken dröm om nästa partiledardebatt handlar om Tiktok! - Sydsvenskan
+- Unga om butiksstöket: Man blir misstänkt direkt - Dagens Nyheter
+- Regeringen körde över experterna – nu blir det olagligt att rymma - ETC.se
 - Libanon ger inte upp ”en enda tum” av sitt territorium till Israel – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Explosion på kafé i Damaskus - Västerbottens-Kuriren
+- DN Direkt – Explosion på kafé i Damaskus – flera döda - Dagens Nyheter
 - Ukraina vill tillverka kraftfulla roboten: ”Saknat vapnet” - Dagens Nyheter
 - Rysk ekonomi störs på riktigt – efter Ukrainas vågade drag - Realtid
-- Olika meningar om sänkta bensinpriset:”Perfekt inför semestern” - Skaraborgs Allehanda
-- NATO KAN ERSÄTTA FLYGFLOTTA MED GLOBALEYE-PLATTFORM - RTRS - Placera.se
-- Oväntat få nya jobb i USA - Svenska Dagbladet
-- Experterna: Aktierna att köpa inför andra halvåret - Börskollen
-- Microsoft presenterar Memora – ska ge AI-agenter bättre långtidsminne - Computer Sweden
+- 14 kronor litern – så reagerar gotlänningarna på bensinsänkningen - Helagotland
+- Jonas Fröberg: Volkswagens kris är inte bara tysk – den är europeisk - Dagens Nyheter
+- Nato uppges välja Saabs Globaleye - Metal Supply
+- Strateger spår nytt rally i höst: ”Då blir börsen glad” - Omni – Alla nyheter. Alla perspektiv.
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
+- Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
+- Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
 - Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 
@@ -62,9 +62,9 @@ _Updated: 2026-07-02 19:11_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
