@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 22:41_
+_Updated: 2026-07-03 00:37_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Röda korsets lager förstört i attacken mot Kiev - Dagens Nyheter
-- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
-- Polisen: Misstänkte mördaren agerade ensam - Nerikes Allehanda
+- DN Direkt – Man räddad ur rasmassorna i Venezuela – efter åtta dagar - Dagens Nyheter
 - Över fyra år av krig – Krim isoleras bit för bit - SVT Nyheter
 - ”En elit med privatjet och lyxjakter tar över” - Svenska Dagbladet
-- Flera dödsfall och våldsbrott på bara några dagar – här är sju fall i Skåne - Aftonbladet
+- Trump efter rysk attack: Stoppa dödandet - Västerbottens-Kuriren
+- Moskvabor skaffar egna vapen mot drönarna: ”Låg nytta” - Dagens Nyheter
+- Malmöpolisen stärker upp efter blodiga veckan - Sveriges Radio
+- Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
 - DN Direkt – Kraftig berusning bakom många dödsolyckor på elspark - Dagens Nyheter
 - Ny lag på språkkrav: ”Viktigt för patientsäkerheten” - Arvika Nyheter
-- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
-- Just nu: Ett körfält blockerat på grund av en stillastående lastbil på E4 - Corren
-- DN Direkt – Dödstalen stiger – över 400 döda i ebola - Dagens Nyheter
-- Källa: USA skickar soldater till Libanon och Israel - Göteborgs-Posten
-- Moskvabor skaffar egna vapen mot drönarna: ”Låg nytta” - Dagens Nyheter
+- Över 50 flygplan och helikoptrar flög över Stockholm. För att uppmärksamma att Flygvapnet fyller 100 år. - Feber
+- DN Direkt – WHO: Hantavirusutbrottet är över - Dagens Nyheter
 - Rysk ekonomi störs på riktigt – efter Ukrainas vågade drag - Realtid
+- Rapport: Ryssland bedrev drönaroffensiv i Europa - Göteborgs-Posten
+- DN Direkt – Dödstalen stiger – över 400 döda i ebola - Dagens Nyheter
 - 14 kronor litern – så reagerar gotlänningarna på bensinsänkningen - Helagotland
 - Nato uppges välja Saabs Globaleye - Metal Supply
-- Jonas Fröberg: Volkswagens kris är inte bara tysk – den är europeisk - Dagens Nyheter
 - USA-börser åt olika håll – försvarsbolag lyfter - Omni – Alla nyheter. Alla perspektiv.
+- SAAB LEDDE UPPGÅNGARNA, BOLIDEN SJÖNK, OMXS30 +0,8% - Placera.se
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
 - Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
@@ -33,20 +33,20 @@ _Updated: 2026-07-02 22:41_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
+- Mellan talibanerna, Indien och Irankriget - kvartal.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Saabs Global Eye kan bli Natostandard - Privata Affärer
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
-- Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
 
 ## Technology
 
@@ -102,7 +102,6 @@ _Updated: 2026-07-02 22:41_
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -111,9 +110,10 @@ _Updated: 2026-07-02 22:41_
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
