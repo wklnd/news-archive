@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-02 14:28_
+_Updated: 2026-07-02 16:39_
 
 ## Top Stories
 
 - Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
 - Ryska jätteattacker mot Kiev: ”Fruktansvärd natt” - Göteborgs-Posten
-- Moskémordet styrdes utifrån – tre får livstid - Expressen
 - Grannarna i Malmö efter skjutningen: ”Jag har inte upplevt detta som ett otryggt område” - Dagens Nyheter
-- 63-årig man får livstid för hedersmordet i Västerås - Omni – Alla nyheter. Alla perspektiv.
-- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
-- Mer än 100 fall av salmonella kopplas till nudlar - Västerbottens-Kuriren
-- Pojke i våldssekt döms för anlagd storbrand - Göteborgs-Posten
-- 2 juli 07.00, Sammanfattning natt, Västra Götalands län - polisen.se
-- Patient död efter diagnosmiss på akuten - Läkartidningen
 - Ryskt oljeraffinaderi i lågor efter ukrainsk attack - Expressen
-- DN Direkt – Spöstraff för par som kysstes på Tiktok - Dagens Nyheter
-- MERZ KOALITION NÅR AVTAL OM REFORMPAKET - Placera.se
-- Kallas föreslår fler EU-sanktioner mot Ryssland - Västerbottens-Kuriren
-- DN Direkt – Klar risk för omotiverat höga elnätsavgifter – Konkurrensverket varnar - Dagens Nyheter
-- Miljardären bakom Ellos IPO: "Vi vill ha tusentals ägare" - Affärsvärlden
-- Google döms att betala 14,3 miljarder i skadestånd till Klarna - Placera.se
-- Novo Nordisk vill pressa leverantörer för att minska sina egna utgifter - Börskollen
+- Ukraina vill tillverka kraftfulla roboten: ”Saknat vapnet” - Dagens Nyheter
+- Skabbutbrott på Chalmers – lokaler akut stängda - Göteborgs-Posten
+- Så populärt var månadskort för halva priset i Göteborg - Göteborgs-Posten
+- DN Direkt – Pojke i våldssekt döms för anlagd storbrand - Dagens Nyheter
+- Mer än 100 fall av salmonella kopplas till nudlar - Västerbottens-Kuriren
+- Man döms till livstids fängelse för mord på sin fru - Göteborgs-Posten
+- DN Direkt – Tyskland: Ukraina beordrade Nord Stream-sabotage - Dagens Nyheter
+- Explosion på kafé i Damaskus – flera döda - Sydsvenskan
+- REGERINGSKOALITION AVSLÖJAR REFORMPAKET - Placera.se
+- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
+- Saabs Global Eye-flygplan kan bli Natostandard - Västerbottens-Kuriren
+- Billigare bensin – då kommer dansken till Sverige för att tanka - Sveriges Radio
+- Oväntat få nya jobb i USA - Svenska Dagbladet
+- PwC: Företagsaffärerna ökar till rekordnivå - Placera.se
+- Microsoft presenterar Memora – ska ge AI-agenter bättre långtidsminne - Computer Sweden
 - Sony slutar med spelskivor till nya Playstation-spel - Placera.se
-- Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
-- BMW International Open i München – Eichenried väntar golfeliten - golfpost.com
+- Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Rainfall became irregular during Earth’s hottest periods, raising global warming concerns - The Brighter Side of News
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Ice hockey chief calls for Russia & Belarus return - BBC
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Mellan talibanerna, Indien och Irankriget - Kvartal
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Saabs Global Eye-flygplan kan bli Natostandard - Svenska Dagbladet
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
+- Svenskt pass toppar Global Passport Index. På grund av hög livskvalitet. - Feber
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- Kanada vill bli en global stormakt inom kärnkraft - Bulletin
-- Miss Global Tourism Ambassador 2026: En mötesplats för skönhet och turism... - Intervjuare - Vietnam.vn
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Swedish Professional Football Leagues signs Amnesty International World Cup in Qatar protest list - Föreningen Svensk Elitfotboll
-- DO Black - the world’s first credit card with a carbon limit - Mastercard
-- Cameron – smittad av skandalen - Aftonbladet
 - Officiellt tillkännagivande av Miss Global Tourism Ambassador 2026 - En skönhetstävling som kopplar samman internationell turism. - Vietnam.vn
-- Ulrika Jonsson stämmer News of the World - Sydsvenskan
-- Spelet bakom nedläggningen av News of the World - Expressen
 
 ## Technology
 
@@ -54,22 +54,22 @@ _Updated: 2026-07-02 14:28_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -122,10 +122,10 @@ _Updated: 2026-07-02 14:28_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
