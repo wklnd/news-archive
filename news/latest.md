@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-02 15:20_
+_Updated: 2026-07-02 17:54_
 
-- Russian attacks kills at least 20, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News
-- Trump’s wealth grew on a scale without modern presidential precedent - The Washington Post
-- Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling - The Guardian
-- NCAA leader says no plan to change rules on transgender athletes after Supreme Court ruling - CBS News
-- The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
-- Vatican cracks down on a traditionalist group by excommunicating its bishops - AP News
-- Frustration mounts as GOP infighting derails House - The Hill
-- 'The old politics are gone': Steve Bannon on the democratic socialist wave - Politico
+- A major Russian attack kills 20 in Kyiv as Ukrainian strikes disrupt Moscow’s oil sector - AP News
 - Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
-- Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race - The New York Times
-- ‘Progress’ in US-Iran talks as Tehran prepares for supreme leader’s funeral - CNN
-- German coalition agrees on sweeping reform package in key breakthrough - Al Jazeera
-- Nine Thai monks killed after 11-year-old driver collides with procession - BBC
-- Victims of forced adoption to get formal apology after years campaigning - BBC
-- Jobs Report Today: Stock Futures Jump After June Hiring Misses Expectations — Live Updates - WSJ
-- Google loses fight over record $4.7 billion EU antitrust fine - CNBC
-- Bending Spoons defies SaaS slump, surges 40% on first day of trading - TechCrunch
-- Rivian raises 2026 delivery outlook after strong demand in the second quarter - CNBC
-- Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500 - 9to5Mac
-- Apple's Hide My Email feature has a bug that's been exposing real email addresses, researcher claims - TechCrunch
+- The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse - NPR
+- Venezuelan man pulled alive from collapsed basement eight days after earthquakes - The Guardian
+- No expectant moms at the border: Trump's birthright Plan B - Axios
+- Members of rebel Catholic group in schism, excommunicated, Vatican says - Reuters
+- Newsom's office responds to SCOTUS ruling on women's sports as California faces ongoing trans athlete wave - Fox News
+- FBI says it’s still investigating some notes in Nancy Guthrie case as legitimate - NBC News
+- Empire State Building Skywalking Lovebirds Awaiting Arraignment On Multiple Charges Following Wednesday’s Stunt - Deadline
+- Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S. - The New York Times
+- Explosion heard in Syria’s capital Damascus: state media - Al Jazeera
+- U.S. Dangles Rewards for Opening the Strait of Hormuz. Iran Isn’t Budging. - WSJ
+- Forced adoptions 'a stain on our history' says Starmer as he gives formal apology - BBC
+- What’s China’s new ethnic unity law, and what does it mean for minorities? - Al Jazeera
+- US economy added jobs at a slower pace than expected in June - Fox Business
+- Tesla deliveries jump 25% over last year, blowing past expectations - CNBC
+- In Sintra, world's central bankers find ally in new Fed chief - Reuters
+- Ford Q2 sales slide 10% on EV drop and model phase-outs; Bronco and Maverick hybrid set records - Yahoo Finance
+- Apple plans five new iPhones through 2027, eyes Chinese-made chips amid foldable push, reports say - CNBC
+- Report: Xbox Disc-to-Digital Feature in Testing, Microsoft "Likely" to Stop Disc Production Too - Digital Foundry
