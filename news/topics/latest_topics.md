@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 22:38_
+_Updated: 2026-07-04 00:34_
 
 ## Top Stories
 
 - Christian, 32, misshandlad till döds i Köpenhamn - Göteborgs-Posten
-- Hypotesen: Ryssland sparar vapen till större anfall - Dagens Nyheter
-- Tiotusentals Jehovas vittnen samlas i Stockholm - Svenska Dagbladet
-- Revolutionsgardets ledare visar sig - Dagens Nyheter
-- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
 - Förklädd kvinna misstänks för bombattentat i Monaco – jagas av Interpol - Göteborgs-Posten
-- En person död i trafikolycka söder om Linköping - SVT Nyheter
-- DN Direkt – Bil och buss i krock söder om Stockholm - Dagens Nyheter
-- Man häktad för mord i Malmö - Göteborgs-Posten
+- En person död i krock utanför Linköping - Aftonbladet
+- Iranexpert: Därför väntas Khamenei inte synas till - Västerbottens-Kuriren
+- Firandet blottar Trumps version av USA - Dagens Nyheter
+- Bränder efter värmen - 8 Sidor
 - Självkörande buss krockade – tillståndet dras in - Göteborgs-Posten
-- Förväntan och splittring inför USA:s 250-årsdag - SVT Nyheter
+- Nästan varannan som dog var alkoholpåverkad - Göteborgs-Posten
+- DN Direkt – Bil och buss i krock söder om Stockholm - Dagens Nyheter
+- Tiotusentals Jehovas vittnen samlas i Stockholm - Göteborgs-Posten
+- Frontlinjen i Ukraina rör sig knappt - Västerbottens-Kuriren
 - Amerikanske påven önskar måttfull debatt i USA - Göteborgs-Posten
-- Frankrike: Fler döda efter värmebölja - Västerbottens-Kuriren
-- Bensinbrist i Ryssland får följder i Kirgizistan - Sveriges Radio
-- Kan AI fortsätta slå börsrekord? - Svenska Dagbladet
-- Ellos: Lockpris och chockerande lönsamhet - Affärsvärlden
+- Dödstalet räknas upp efter skalven i Venezuela - Göteborgs-Posten
+- Varmaste juni i Frankrike på 79 år – många döda - Hufvudstadsbladet – HBL
+- Boliden överväger förvärv av zinkjätte – nyemission kan bli aktuell - METALLERochGRUVOR.se
 - Munter avslutning på börsveckan i Stockholm, OMXS30 index steg 1,1 procent (Finwire News) - Aktiellt
-- Europeiska marknader stänger högre när STOXX 600 slår rekord – FTSE visar veckovinst - Invezz
-- Sensationella fyndet låg i en låda – i 40 år - Aftonbladet
+- IPO-guiden ger två flaggor och två upplysningar inför Ellos notering - Affärsvärlden
+- Slut på öl i Boden mitt under fotbolls-VM: ”Kom in i matchen, Systembolaget” - Expressen
+- Sensationella fyndet låg bortglömt i 40 år - Aftonbladet
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
 
 ## World News
@@ -51,18 +51,18 @@ _Updated: 2026-07-03 22:38_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -155,10 +155,10 @@ _Updated: 2026-07-03 22:38_
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
