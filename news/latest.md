@@ -1,21 +1,21 @@
 # Top News Headlines
 
-_Updated: 2026-07-03 22:42_
+_Updated: 2026-07-03 23:44_
 
-- Months after U.S. and Israeli strikes, Iran readies massive funeral for Khamenei - NBC News
 - Heat causes Great American State Fair to close temporarily and other disruptions - The Washington Post
+- Months after U.S. and Israeli strikes, Iran readies massive funeral for Khamenei - NBC News
 - Trump’s Freedom 250 draws corporate sponsors with business before his administration - CNBC
-- A new plan to keep the Reflecting Pool clean – including annual purge of ‘nasty’ muck - CNN
+- E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue - The New York Times
 - Nearly half of Americans surveyed don't know what America 250 commemorates - NPR
 - Top Retired General Issues Scathing Trump Takedown - The Daily Beast
-- Mamdani offers a contrast to Trump’s vision for America in a 250th anniversary address - NBC News
+- The One Big Beautiful Bill Act is 1 year old. Here are the winners and losers. - CBS News
+- Louisiana Attorney General Liz Murrill indicted on 16 felony counts - WDSU
 - Pope praises US history of welcoming immigrants in implicit rebuke to Trump - The Guardian
-- At the L.A. Warehouse Fire, First It Was the Smoke. Now It’s the Smell. - The New York Times
-- Man holding Tibetan flag dies after setting himself on fire outside UN - Al Jazeera
+- Trump pardons 6 people for Clean Air Act violations after White House meeting - CNN
 - EXCLUSIVE Russia set to import North Asian jet fuel amid fuel crisis, sources say - Reuters
-- Mexico vs. England at World Cup to kick-off early due to risk of weather - sources - ESPN
-- Ukraine war live: Russia launches wave of attacks after deadly Kyiv strike - The Independent
-- Interpol names Ukrainian woman as suspect in Monaco bombing - Al Jazeera
+- FIFA considering moving World Cup kick-off times for Mexico-England, Brazil-Norway - The Athletic - The New York Times
+- Russia’s latest attack on Kyiv was exceptionally deadly – here is why - CNN
+- Australian officials ask fans to respect the privacy of Neil, a trouble-making seal - NPR
 - What’s open, what’s closed on July 3-4, 2026? Grocery stores, post office, Walmart and more - AL.com
 - France’s Thales to Take Hit After Germany Scraps Frigate Program - WSJ
 - GFL Environmental Weighs Take-Private Amid Interest From Buyout Firms - Bloomberg.com
