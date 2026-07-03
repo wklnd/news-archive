@@ -1,4 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-03 03:17_
+_Updated: 2026-07-03 07:35_
 
+- Bessent on Trump's crypto earnings: "I don't think there's an appearance problem" - CBS News
+- What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope - NPR
+- How extreme heat is changing DC’s July Fourth weekend event plans - The Hill
+- Former Olympian faces felony charge over alleged Reflecting Pool vandalism - The Washington Post
+- Empire State Climbers Accused of Breaking Security Door to Get to Spire - The New York Times
+- Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S. - The New York Times
+- Mitch McConnell is still in the hospital after medical episode, his office says - Live Updates - Politico
+- Aspen Acres fire: Evacuation notices expand as fire grows to more than 50,000 acres - Colorado Public Radio
+- Donors were misled by Trump-backed Freedom 250, House Democrats allege - The Washington Post
+- What we know about Vinton County family after 16 children rescued from ‘horrific’ conditions - NBC4 WCMH-TV
+- Russia Hammers Ukraine’s Capital in Deadly Attacks - The New York Times
+- Man who sold land for Kushner-backed Albania development probed over alleged money laundering, drug trafficking - CBS News
+- Russian State Duma deputy accuses government of concealing scale of fuel crisis, warns it could cost certain officials their seats in September elections - Meduza
+- EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters
+- Stock Market News, July 2, 2026: Dow Rises, Nasdaq Falls After June Jobs Report - WSJ
+- Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates - MarketWatch
+- Canada unveils plans for new oil pipeline to break dependence on US - Financial Times
+- What are the investment options for Trump Accounts? - Fox Business
+- Sony’s PlayStation disc factory is already being repurposed - The Verge
+- Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera - Android Authority
