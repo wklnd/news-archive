@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 17:33_
+_Updated: 2026-07-03 18:57_
 
 ## Top Stories
 
+- Christian, 32, misshandlad till döds i Köpenhamn - Göteborgs-Posten
+- Hypotesen: Ryssland sparar vapen till större anfall - Dagens Nyheter
+- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
 - Firandet blottar Trumps version av USA - Dagens Nyheter
 - FN-insats mot svält efter jordskalven i Venezuela - Sveriges Radio
-- Kristersson om Natomötet: Löper inte alltid på räls - Västerbottens-Kuriren
-- 30 000 vittnen sjunger på 3Arena: ”Rätt mäktigt” - Aftonbladet
-- DN Direkt – Steinar Wangen döms för mord på kvinna i Trollhättan - Dagens Nyheter
-- Rusning efter månadskort när Kalmar länstrafik sänkte priset - SVT Nyheter
-- Svensk polis misshandlad till döds i Köpenhamn - Göteborgs-Posten
+- Tiotusentals Jehovas vittnen samlas i Stockholm - Svenska Dagbladet
 - Mordet i Västra hamnen: Misstänkt man häktad - SVT Nyheter
+- Rusning efter månadskort när Kalmar länstrafik sänkte priset - SVT Nyheter
 - Delegation ska syna varför fler unga får adhd - Corren
-- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
+- Så krossar du bilrutan – och räddar livet på hunden - Dagens Nyheter
 - Bensinbrist i Ryssland får följder i Kirgizistan - Sveriges Radio
-- Iranexpert: Därför väntas Khamenei inte synas till - Göteborgs-Posten
-- Frontlinjen i Ukraina rör sig knappt - Västerbottens-Kuriren
+- Juni varmaste månaden i Frankrike på 79 år - Göteborgs-Posten
 - ”Kvinna i fiskarhatt” jagas efter bombdåd - Västerbottens-Kuriren
+- Kristersson om Natomötet: Löper inte alltid på räls - Göteborgs-Posten
 - Mips: Pareto ser uppsida efter förlikning i patenttvist - Affärsvärlden
+- Boliden överväger förvärv av zinkjätte – nyemission kan bli aktuell - METALLERochGRUVOR.se
 - IPO INTERVJU MED VD HANS OHLSSON - Placera.se
 - Elon Musk om välgörenhet: "Gör världen sämre" - Dagens PS
-- Erik Magnusson Sverige går på semester – och når ny topp i föräldraledighet - Sydsvenskan
+- Sensationella fyndet låg bortglömt i 40 år - Aftonbladet
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Skövde-studion skapar mysigt spel om att tvätta en gullig värld - Aftonbladet
 
 ## World News
 
@@ -37,16 +37,16 @@ _Updated: 2026-07-03 17:33_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
 
@@ -92,7 +92,7 @@ _Updated: 2026-07-03 17:33_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -121,24 +121,24 @@ _Updated: 2026-07-03 17:33_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -155,10 +155,10 @@ _Updated: 2026-07-03 17:33_
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
