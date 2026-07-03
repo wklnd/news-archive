@@ -1,70 +1,70 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 07:27_
+_Updated: 2026-07-03 10:35_
 
 ## Top Stories
 
-- DN Direkt – Tusentals evakuerade efter bränder i Frankrike - Dagens Nyheter
-- Cina jagas av sexköpare – efter Onlyfans-lagen: ”Blivit otryggare” - Dagens Nyheter
-- Vill flytta gränsen: ”De avskyr saker vi gör” - Svenska Dagbladet
+- ”Kvinna i fiskarhatt” jagas efter bombdåd - Västerbottens-Kuriren
+- Fortsatta bränder på flera håll i södra Frankrike - Göteborgs-Posten
+- Frankrike: Fler döda efter värmebölja - Göteborgs-Posten
 - Två döda i Ukraina - Dagens Nyheter
-- Religiösa ledare sörjer vid Ali Khameneis kropp - Omni – Alla nyheter. Alla perspektiv.
-- Gnisslande fönster har plågat Kortedala i 10 år - Göteborgs-Posten
-- Stopp i ett körfält på grund av en stillastående lastbil på E4 - NT
-- 8 av 10 skyddsombud för bussförare larmar om hot och vål på jobbet - Arbetet
+- Klart: Nytt klimatmål ska prövas i domstol - Göteborgs-Posten
+- Brand i Göteborg energis lokaler - SVT Nyheter
+- Två misstänkta för olovlig underrättelseverksamhet - Aftonbladet
 - Förundersökning läggs ner – misstänkt gärningsperson avliden efter mord i Örebro - polisen.se
-- ANDREEA VANCIU: Det heter Cash is king av en anledning - UNT
-- DN Direkt – Man räddad ur rasmassorna i Venezuela – efter åtta dagar - Dagens Nyheter
-- Man satte eld på sig utanför FN - Aftonbladet
+- Stopp i ett körfält på grund av en stillastående lastbil på E4 - NT
+- 8 av 10 skyddsombud för bussförare larmar om hot och våld på jobbet - Arbetet
 - Irland vill ena i EU – ”Svåra beslut för alla” - Göteborgs-Posten
-- Tusentals evakuerade efter bränder i Frankrike - Hufvudstadsbladet – HBL
-- Klartecken för oljeledning i Kanada - Dagens industri
-- Kursrallyn och krascher – dramatiskt halvår på börsen - EFN
-- Asiens börser stiger – flera ledande index pekar uppåt vid veckans slut - Börskollen
-- Billigare bensin – då kommer dansken till Sverige för att tanka - Sveriges Radio
+- Robotelefanter tar plats i indiska tempel - Sydsvenskan
+- Man satte eld på sig utanför FN - Aftonbladet
+- DN Direkt – Dödssiffran stiger efter skalv i Venezuela - Dagens Nyheter
+- Fällorna att se upp för med autogiro - Dagens Nyheter
+- Hyresutbudet krympte – så påverkas priset - Svenska Dagbladet
+- Nøland: Solkraftens styrka gräver dess ekonomiska grav - Affärsvärlden
+- Stockholm mot grön öppning: ”Viktigaste frågan för börsen” - EFN
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
-- Steam Machine toppar listan över Valves bästsäljande spel, men det höga priset gynnar minidatorn - notebookcheck.se
+- Meta släpper app för att skapa egna AI-upplevelser. Gör "Gizmos" med Pocket. - Feber
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
-- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Alecta investerarer 110 miljoner dollar i global klimatsatsning - Finanswatch.se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- TeraRecon acquires McCoy Medical Technologies and spins out a new AI platform company aimed at simplifying access and use of 3rd party computer vision and artificial intelligence applications - Via TT
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
