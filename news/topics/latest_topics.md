@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 13:13_
+_Updated: 2026-07-03 15:19_
 
 ## Top Stories
 
-- Inget skadestånd till PFAS-drabbade i Kallinge - Dagens Nyheter
-- ”Kvinna i fiskarhatt” jagas efter bombdåd - Göteborgs-Posten
-- Brand i industribyggnad hos Göteborgs Energi i Kviberg är under kontroll - Cision News
+- Svensk polis misshandlad till döds i Köpenhamn - Göteborgs-Posten
 - Skolanställds våldtäktsstraff skärps i hovrätten - Katrineholms-Kuriren
+- Kristersson (M): ”Siffrorna talar sitt tydliga språk” - SVT Nyheter
 - Therese Larsson Hultin: Oron: USA på väg falla samman - Svenska Dagbladet
-- Frankrike: Fler döda efter värmebölja - Göteborgs-Posten
-- Två begärs häktade för grov olovlig underrättelseverksamhet - SVT Nyheter
+- Direkt – Kriget i Ukraina – Illaluktande dis i Kiev – råden till befolkningen - Dagens Nyheter
+- ”Kvinna i fiskarhatt” jagas efter bombdåd - Västerbottens-Kuriren
+- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
+- Rusning efter månadskort när Kalmar länstrafik sänkte priset - SVT Nyheter
 - DN/Ipsos: Fler tycker att Sverige är på väg åt rätt håll - Dagens Nyheter
-- S löfte: BUP-samtal ska dra fler unga ur kriminalitet - Dagens Nyheter
-- Klimatministerns svar om Ghana: ”Precis enligt instruktionerna” – Senaste nytt om valet 2026 - SVT Nyheter
-- Röda Korsets lager förstört i rysk attack - Corren
-- DN Direkt – Dödssiffran stiger efter skalv i Venezuela - Dagens Nyheter
+- Inget skadestånd till PFAS-drabbade i Kallinge - Dagens Nyheter
+- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
 - 57 gripna i stort våldtäktsnätverk - Dagens Nyheter
-- Kristersson om Natomötet: Löper inte alltid på räls - Västerbottens-Kuriren
+- Skogsbränder i extremvärmen – flera skadade - Göteborgs-Posten
+- Därför är värmeböljor så farliga för oss människor - Dagens Nyheter
+- Mips: Pareto ser uppsida efter förlikning i patenttvist - Affärsvärlden
 - Färre hyr ut i andra hand – nya regler spås ge uppsving - Omni – Alla nyheter. Alla perspektiv.
+- Noteringsaktuella Ellos Group: 'Styrkan ligger i egna varumärken och en lojal målgrupp' - vd (Finwire News) - Aktiellt
 - Fällorna att se upp för med autogiro - Dagens Nyheter
-- Kursrallyn och krascher – dramatiskt halvår på börsen - EFN
-- Så blev effekten i Säffle av det sänkta bensinpriset - Säffle-Tidningen
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
-- Inbjudan till presentation av Troax Groups resultat för Q2 2026 - Cision News
+- Skövde-studion skapar mysigt spel om att tvätta en gullig värld - Aftonbladet
 
 ## World News
 
-- Kristersson om Global Eye: Mer kan komma - Aftonbladet
-- Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
+- Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
+- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Kuriren nominerad för satsning på unga läsare - Kuriren
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Saabs Global Eye kan bli Natostandard - Privata Affärer
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 
 ## Technology
@@ -82,9 +82,9 @@ _Updated: 2026-07-03 13:13_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -119,46 +119,46 @@ _Updated: 2026-07-03 13:13_
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- 5 myter om öppen vetenskap - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
-- Jordbruk och landsbygdsutveckling - European Commission
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- High-tech och lantbruk i fokus på SLU-dag - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Här är världens största jordbruk - ATL
+- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Så påverkar torkan svenskt lantbruk - SLU
+- Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
