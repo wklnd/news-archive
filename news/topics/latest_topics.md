@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 15:19_
+_Updated: 2026-07-03 17:33_
 
 ## Top Stories
 
-- Svensk polis misshandlad till döds i Köpenhamn - Göteborgs-Posten
-- Skolanställds våldtäktsstraff skärps i hovrätten - Katrineholms-Kuriren
-- Kristersson (M): ”Siffrorna talar sitt tydliga språk” - SVT Nyheter
-- Therese Larsson Hultin: Oron: USA på väg falla samman - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Illaluktande dis i Kiev – råden till befolkningen - Dagens Nyheter
-- ”Kvinna i fiskarhatt” jagas efter bombdåd - Västerbottens-Kuriren
-- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
+- Firandet blottar Trumps version av USA - Dagens Nyheter
+- FN-insats mot svält efter jordskalven i Venezuela - Sveriges Radio
+- Kristersson om Natomötet: Löper inte alltid på räls - Västerbottens-Kuriren
+- 30 000 vittnen sjunger på 3Arena: ”Rätt mäktigt” - Aftonbladet
+- DN Direkt – Steinar Wangen döms för mord på kvinna i Trollhättan - Dagens Nyheter
 - Rusning efter månadskort när Kalmar länstrafik sänkte priset - SVT Nyheter
-- DN/Ipsos: Fler tycker att Sverige är på väg åt rätt håll - Dagens Nyheter
-- Inget skadestånd till PFAS-drabbade i Kallinge - Dagens Nyheter
-- Desperat kamp att få loss instängd man i Venezuela - Hufvudstadsbladet – HBL
-- 57 gripna i stort våldtäktsnätverk - Dagens Nyheter
-- Skogsbränder i extremvärmen – flera skadade - Göteborgs-Posten
-- Därför är värmeböljor så farliga för oss människor - Dagens Nyheter
+- Svensk polis misshandlad till döds i Köpenhamn - Göteborgs-Posten
+- Mordet i Västra hamnen: Misstänkt man häktad - SVT Nyheter
+- Delegation ska syna varför fler unga får adhd - Corren
+- Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
+- Bensinbrist i Ryssland får följder i Kirgizistan - Sveriges Radio
+- Iranexpert: Därför väntas Khamenei inte synas till - Göteborgs-Posten
+- Frontlinjen i Ukraina rör sig knappt - Västerbottens-Kuriren
+- ”Kvinna i fiskarhatt” jagas efter bombdåd - Västerbottens-Kuriren
 - Mips: Pareto ser uppsida efter förlikning i patenttvist - Affärsvärlden
-- Färre hyr ut i andra hand – nya regler spås ge uppsving - Omni – Alla nyheter. Alla perspektiv.
-- Noteringsaktuella Ellos Group: 'Styrkan ligger i egna varumärken och en lojal målgrupp' - vd (Finwire News) - Aktiellt
-- Fällorna att se upp för med autogiro - Dagens Nyheter
-- Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
+- IPO INTERVJU MED VD HANS OHLSSON - Placera.se
+- Elon Musk om välgörenhet: "Gör världen sämre" - Dagens PS
+- Erik Magnusson Sverige går på semester – och når ny topp i föräldraledighet - Sydsvenskan
+- Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
 - Skövde-studion skapar mysigt spel om att tvätta en gullig värld - Aftonbladet
 
 ## World News
 
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
+- Kristersson om Global Eye: Mer kan komma - Aftonbladet
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -41,7 +42,6 @@ _Updated: 2026-07-03 15:19_
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
@@ -59,7 +59,7 @@ _Updated: 2026-07-03 15:19_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Here are the Swedish AI companies everyone is talking about - DI
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -108,7 +108,7 @@ _Updated: 2026-07-03 15:19_
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - Sprid kunskap utan att oroa - Psykologtidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
@@ -119,26 +119,26 @@ _Updated: 2026-07-03 15:19_
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- ForskarFredag intar Skövde med vetenskap för alla - Mynewsdesk
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
