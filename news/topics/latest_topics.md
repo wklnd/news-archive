@@ -1,40 +1,42 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 00:37_
+_Updated: 2026-07-03 03:10_
 
 ## Top Stories
 
-- DN Direkt – Man räddad ur rasmassorna i Venezuela – efter åtta dagar - Dagens Nyheter
-- Över fyra år av krig – Krim isoleras bit för bit - SVT Nyheter
-- ”En elit med privatjet och lyxjakter tar över” - Svenska Dagbladet
+- Förklädd kvinna efterlyst för Monacodådet - Omni – Alla nyheter. Alla perspektiv.
+- Expert: ”Det här kriget gör ont i Ryssland” - Svenska Dagbladet
 - Trump efter rysk attack: Stoppa dödandet - Västerbottens-Kuriren
-- Moskvabor skaffar egna vapen mot drönarna: ”Låg nytta” - Dagens Nyheter
-- Malmöpolisen stärker upp efter blodiga veckan - Sveriges Radio
+- ”En elit med privatjet och lyxjakter tar över” - Svenska Dagbladet
+- Tusentals evakuerade efter bränder i Frankrike - Göteborgs-Posten
+- Komiker gripen i Turkiet – anklagad för hädelse - Expressen
 - Utredningen efter mordet på Hugo Mosshagen läggs ner - SVT Nyheter
-- DN Direkt – Kraftig berusning bakom många dödsolyckor på elspark - Dagens Nyheter
-- Ny lag på språkkrav: ”Viktigt för patientsäkerheten” - Arvika Nyheter
-- Över 50 flygplan och helikoptrar flög över Stockholm. För att uppmärksamma att Flygvapnet fyller 100 år. - Feber
+- Just nu: Stopp i ett körfält på grund av en stillastående lastbil på E4 - NT
+- Just nu: Stopp i ett körfält på grund av stillastående fordon på E18 - UNT
+- Lista: Programmen som kräver högst betyg - Nerikes Allehanda
+- DN Direkt – Man räddad ur rasmassorna i Venezuela – efter åtta dagar - Dagens Nyheter
 - DN Direkt – WHO: Hantavirusutbrottet är över - Dagens Nyheter
 - Rysk ekonomi störs på riktigt – efter Ukrainas vågade drag - Realtid
-- Rapport: Ryssland bedrev drönaroffensiv i Europa - Göteborgs-Posten
-- DN Direkt – Dödstalen stiger – över 400 döda i ebola - Dagens Nyheter
-- 14 kronor litern – så reagerar gotlänningarna på bensinsänkningen - Helagotland
-- Nato uppges välja Saabs Globaleye - Metal Supply
-- USA-börser åt olika håll – försvarsbolag lyfter - Omni – Alla nyheter. Alla perspektiv.
-- SAAB LEDDE UPPGÅNGARNA, BOLIDEN SJÖNK, OMXS30 +0,8% - Placera.se
+- Misstänkt jagas i Köpenhamn – svensk skadad - Expressen
+- Så blev effekten i Säffle av det sänkta bensinpriset - Säffle-Tidningen
+- VA-priserna rusar i länet – över rikssnittet - Folkbladet
+- Stockholmsbörsen steg brett – OMXS30 på ny rekordnivå - Affärsvärlden
+- Strateger spår nytt rally i höst: ”Då blir börsen glad” - Omni – Alla nyheter. Alla perspektiv.
 - Playstation väcker ilska – slutar med fysiska spel - Sydsvenskan
-- Källor: Apple storsatsar med fem nya Iphone-modeller - Omni – Alla nyheter. Alla perspektiv.
+- Apple-aktien i fokus när fem iPhone-modeller testar dyr AAPL-värdering - Invezz
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - kvartal.se
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
@@ -42,11 +44,9 @@ _Updated: 2026-07-03 00:37_
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
-- En mängd kända artister samlades på presskonferensen för Miss Global Tourism Ambassador 2026. - Vietnam.vn
 
 ## Technology
 
@@ -74,16 +74,16 @@ _Updated: 2026-07-03 00:37_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026 kommer att sammanföra experter och företag. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
@@ -97,25 +97,25 @@ _Updated: 2026-07-03 00:37_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Digital arbetsmiljö och hälsa – Carin Håkanstas forskargrupp - Karolinska Institutet
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Sprid kunskap utan att oroa - Psykologtidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- ​Pressinbjudan: E-hälsa och digitalisering av framtidens vård och omsorg på Vitalis. - Mynewsdesk
+- Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 
 ## Science
 
@@ -142,23 +142,23 @@ _Updated: 2026-07-03 00:37_
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Jordbrukspolitik - Naturvårdsverket
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
-- Jord, kor och klimat - SLU
+- High-tech och lantbruk i fokus på SLU-dag - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Så påverkar torkan svenskt lantbruk - SLU
+- Kan agroekologi mätta världen? - SLU
