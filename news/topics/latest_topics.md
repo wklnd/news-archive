@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-03 20:46_
+_Updated: 2026-07-03 22:38_
 
 ## Top Stories
 
 - Christian, 32, misshandlad till döds i Köpenhamn - Göteborgs-Posten
 - Hypotesen: Ryssland sparar vapen till större anfall - Dagens Nyheter
 - Tiotusentals Jehovas vittnen samlas i Stockholm - Svenska Dagbladet
-- En till sjukhus med helikopter efter krock mellan buss och personbil - SVT Nyheter
+- Revolutionsgardets ledare visar sig - Dagens Nyheter
 - Just nu: SMHI varnar för skyfall - Västerbottens-Kuriren
 - Förklädd kvinna misstänks för bombattentat i Monaco – jagas av Interpol - Göteborgs-Posten
-- Mordet i Västra hamnen: Misstänkt man häktad - SVT Nyheter
-- Två personbilar kolliderade – en person allvarligt skadad - SVT Nyheter
-- Så krossar du bilrutan – och räddar livet på hunden - Dagens Nyheter
-- Han blir Sveriges röst i Bryssel när USA trappar ned - Dagens Nyheter
-- Bensinbrist i Ryssland får följder i Kirgizistan - Sveriges Radio
+- En person död i trafikolycka söder om Linköping - SVT Nyheter
+- DN Direkt – Bil och buss i krock söder om Stockholm - Dagens Nyheter
+- Man häktad för mord i Malmö - Göteborgs-Posten
+- Självkörande buss krockade – tillståndet dras in - Göteborgs-Posten
 - Förväntan och splittring inför USA:s 250-årsdag - SVT Nyheter
+- Amerikanske påven önskar måttfull debatt i USA - Göteborgs-Posten
 - Frankrike: Fler döda efter värmebölja - Västerbottens-Kuriren
-- Iranexpert: Därför väntas Khamenei inte synas till - Göteborgs-Posten
+- Bensinbrist i Ryssland får följder i Kirgizistan - Sveriges Radio
 - Kan AI fortsätta slå börsrekord? - Svenska Dagbladet
-- Mips VD efter tvisten: "Kan aldrig argumentera mot en blankare" - Affärsvärlden
-- Boliden överväger förvärv av zinkjätte – nyemission kan bli aktuell - METALLERochGRUVOR.se
+- Ellos: Lockpris och chockerande lönsamhet - Affärsvärlden
 - Munter avslutning på börsveckan i Stockholm, OMXS30 index steg 1,1 procent (Finwire News) - Aktiellt
+- Europeiska marknader stänger högre när STOXX 600 slår rekord – FTSE visar veckovinst - Invezz
 - Sensationella fyndet låg i en låda – i 40 år - Aftonbladet
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
 
 ## World News
 
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
-- Kristersson om Global Eye: Mer kan komma - Aftonbladet
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Kristersson om Global Eye: Mer kan komma - Aftonbladet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - UNDP lanserar läromedel om global utveckling - UNDP
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
 
@@ -59,9 +59,9 @@ _Updated: 2026-07-03 20:46_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Here are the Swedish AI companies everyone is talking about - DI
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -92,7 +92,7 @@ _Updated: 2026-07-03 20:46_
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Kommentar med anledning av lagrådsremissen Stärkt konsumentskydd på kreditmarknaden - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -155,10 +155,10 @@ _Updated: 2026-07-03 20:46_
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
