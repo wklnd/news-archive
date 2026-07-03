@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-03 17:35_
+_Updated: 2026-07-03 19:02_
 
-- U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News
-- For some federal employees, America’s extravagant 250th birthday parties arrive amid anger, uncertainty and fatigue - CNN
-- Interpol names suspect in Monaco bombing that reportedly targeted Russia-linked Ukrainian tycoon - AP News
-- Heat news: Major July 4th parade canceled due to extreme heat as temps soar over 100 degrees - CNN
+- Months after U.S. and Israeli strikes, Iran readies massive funeral for Khamenei - NBC News
+- How Trump took over America’s 250th - Politico
+- Philadelphia cancels 4th of July parade due to extreme heat, organizers say - CBS News
 - Trump heads to Mount Rushmore, where efforts to impose his likeness have stalled - CNN
-- Venezuelan security guard pulled alive from earthquake basement rubble after 8 days - PBS
+- Inside the crumbling court of King Donald Trump - The Telegraph
+- Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man' - BBC
 - A new plan to keep the Reflecting Pool clean – including annual purge of ‘nasty’ muck - CNN
 - How extreme heat is changing DC’s July Fourth weekend event plans - The Hill
-- $500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off - Al Jazeera
-- CNN’s Kaitlan Collins Savages Trump’s Flop Fair After Seeing It for Herself - The Daily Beast
+- At the L.A. Warehouse Fire, First It Was the Smoke. Now It’s the Smell. - The New York Times
+- ‘I want this on Donald’s desk’: Inside Melania Trump’s ambitious policymaking agenda - Politico
 - Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine - AP News
 - Australian officials ask fans to respect the privacy of Neil, a trouble-making seal - NPR
-- Russian attacks kill at least 25, injures scores in Kyiv after Zelenskyy warned of ‘massive strike’ - NBC News
-- In the West Bank, Israeli settlers take over Palestinian's dream home - Reuters
-- Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares - Reuters
+- Russia rocks Ukrainian capital with massive assault, killing at least 25 - The Washington Post
+- Albania’s flamingos meet the Trump family bulldozers - Financial Times
 - Ford achieves quality milestone, as CEO targets flawless new vehicle launches - CNBC
+- Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares - Reuters
 - A hot summer trend in the sharing economy? Rental swimming pools - NPR
 - Millions of babies to get $1,000 in their Trump Accounts on July 4 - USA Today
+- "We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz
 - The best 4th of July sales on tech to shop this weekend: Deals from Apple, Bose, Nintendo and more. - Yahoo Tech
-- Exciting new Galaxy S27 Ultra and S27 Pro rumor tips long overdue camera upgrade - PhoneArena
