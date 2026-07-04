@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-04 07:28_
+_Updated: 2026-07-04 10:13_
 
-- Trump to speak at Mount Rushmore, one monument he can’t remake - NBC News
-- Extreme heat bears down as America 250 celebrations ramp up. Trump heads to Mount Rushmore - AP News
-- Nearly half of Americans surveyed don't know what America 250 commemorates - NPR
-- Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei - Al Jazeera
+- Trump returns to Mount Rushmore after years of hinting he belongs there - The Washington Post
+- Iran begins dayslong funeral for the late Supreme Leader Ayatollah Ali Khamenei, killed in war - AP News
+- Reflections on America's 250th birthday - NPR
 - Trump Pardons Violators of the Clean Air Act and a Major Donor - The New York Times
-- Two people dead and a third injured in shooting at Michigan shopping mall - The Guardian
-- Trump’s State Fair Shuts Down Temporarily As Extreme Heat Derails July 4th Events - Forbes
-- Family-owned company prepares to put on the largest fireworks display in history: "It is the biggest show that we've ever done" - CBS News
 - Thousands forced to evacuate in Colorado as wildfire spreads - Al Jazeera
 - Trump administration’s interpretation of slavery under George Washington can be reinstalled - Politico
-- Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine - AP News
-- Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine - Reuters
+- Family-owned company prepares to put on the largest fireworks display in history: "It is the biggest show that we've ever done" - CBS News
+- As Heat Suffocates Washington DC, Calls to Emergency Medical Services Climb - The New York Times
+- DC heat forces temporary closure of National Mall 'State Fair' as 4th of July celebrations get underway - New York Post
+- Extreme heat forced Philly to cancel its 250th parade. Tourists flocked to Independence Mall anyway - WHYY
+- ‘As Long as There’s No Beer Shortage’: Russians Mock Fuel Crisis in Memes - The Moscow Times
+- St. Petersburg oil terminal reportedly struck by Ukrainian drones - The Kyiv Independent
 - Who are the ultratraditionalists rebelling against Pope Leo and triggering a rupture with the Vatican? - NBC News
-- Rescuers scour rubble as Kyiv mourns deadliest Russian attack this year - Reuters
+- China launches coast guard patrol east of Taiwan despite international pushback - Reuters
 - Parents Will Be Able to Enroll Newborns in Trump Accounts at the Hospital - The New York Times
 - Eastern US power grid operator orders emergency curbs as electricity use nears record - Reuters
-- GFL Environmental Weighs Take-Private Amid Interest From Buyout Firms - Bloomberg.com
 - Korea Said to Prepare for Currency Flow From SK Hynix US Listing - Bloomberg.com
+- Unemployment dipped, but more people left the workforce: What's going on in the job market? - Yahoo Finance
 - Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com
-- Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM - The Verge
+- "We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz
