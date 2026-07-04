@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-04 19:34_
+_Updated: 2026-07-04 20:35_
 
 ## Top Stories
 
-- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Hufvudstadsbladet – HBL
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
+- Kinas utrikesminister på besök i känsligt läge - Corren
 - Arrangören om dödliga attacken: ”Djup tragedi” - Göteborgs-Posten
-- Tidigare Jehovas vittne demonstrerar vid möte för 30 000: ”Tårar i ögonen” - Dagens Nyheter
-- Gul varning för skyfallsliknande regn i Stockholm - Sveriges Radio
+- Prideparad genom Malmö: ”Inga ursäkter” - SVT Nyheter
 - Direkt – Kriget i Ukraina – Ryssland: Fyra byar har intagits i Kharkiv - Dagens Nyheter
-- I New York firas USA:s 250-årsdag inte som Trump vill - Dagens Nyheter
-- Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
-- Utrikesministern: "Gui Minhai måste släppas" - Expressen
+- Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
+- Svensk volontärarbetare skadad i drönarattack - SVT Nyheter
+- DN Direkt – SMHI varnar för skyfall i delar av Sverige - Dagens Nyheter
 - Olycka på E4 – stopp i trafiken - UNT
-- Svensk kaféjätte i konkurs – har ett kafé i Linköping - Corren
-- Rop på hämnd under Khameneis begravning - Dagens Nyheter
-- Maria Gestrin-Hagner Nato på helspänn – vill hindra kalabalik i Ankara - Hufvudstadsbladet – HBL
+- Tidigare Jehovas vittne demonstrerar vid möte för 30 000: ”Tårar i ögonen” - Dagens Nyheter
+- Rop på hämnd under Khameneis begravning - Hufvudstadsbladet – HBL
+- Trump gör Nato-mötet nervöst - Hufvudstadsbladet – HBL
 - DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
-- Frontlinjen i Ukraina rör sig knappt - Västerbottens-Kuriren
+- Påven hedrade migranter på USA:s födelsedag - Västerbottens-Kuriren
+- Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
 - Då rivs allt upp: Tre gånger så många 65+ skiljer sig - Dagens PS
-- Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Slut på öl på Systembolaget i Boden - Kuriren
-- Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
+- Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
 - Exynos 2700 får ny design för att hålla sig svalare - Teknikveckan
 
@@ -51,24 +51,24 @@ _Updated: 2026-07-04 19:34_
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -97,48 +97,48 @@ _Updated: 2026-07-04 19:34_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Digital arbetsmiljö och hälsa – Carin Håkanstas forskargrupp - Karolinska Institutet
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Vi presenterar ChatGPT Health - OpenAI
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Water Science Lab - Malmö universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Knut och Alice Wallenbergs Stiftelse stödjer life science-forskning vid KI - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Simple math behind major bison blunder - Forskning & Framsteg
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för fotonik - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
