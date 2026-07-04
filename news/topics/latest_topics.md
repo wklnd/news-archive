@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-04 16:09_
+_Updated: 2026-07-04 17:42_
 
 ## Top Stories
 
 - Arrangören om dödliga attacken: ”Djup tragedi” - Göteborgs-Posten
-- I New York firas USA:s 250-årsdag inte som Trump vill - Dagens Nyheter
+- Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Hufvudstadsbladet – HBL
 - Tidigare Jehovas vittne demonstrerar vid möte för 30 000: ”Tårar i ögonen” - Dagens Nyheter
-- Efter uppmärksammade våldtäkten mot Meya – FN ändrar sina riktlinjer - SVT Nyheter
-- Brand i Skärholmen - Aftonbladet
-- Flera anmälningar om våldtäkt under Roskilde - Omni – Alla nyheter. Alla perspektiv.
-- Kinas utrikesminister på besök i känsligt läge - Corren
-- Svensk volontär skadad i Ukraina: ”En provokation” - Västerbottens-Kuriren
-- Flyg från Linköping tvingades nödlanda – krockade med fåglar - NT
+- Direkt – Kriget i Ukraina – Ryssland: Fyra byar har intagits i Kharkiv - Dagens Nyheter
+- I New York firas USA:s 250-årsdag inte som Trump vill - Dagens Nyheter
+- Svensk volontärarbetare skadad i drönarattack - SVT Nyheter
+- Forssell: FN ändrar riktlinjer efter våldtäktsdom - Nya Wermlands-Tidningen
+- Nästan varannan som dog var alkoholpåverkad - Göteborgs-Posten
 - Svensk kaféjätte i konkurs – har ett kafé i Linköping - Corren
 - Rop på hämnd under Khameneis begravning - Hufvudstadsbladet – HBL
-- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Göteborgs-Posten
-- Expert: Trumps affärer skulle fälla vilken annan president som helst - Dagens Nyheter
-- Två motorcyklister har kolliderat i Tived - Expressen
-- Historiska nivåer på Stockholmsbörsen: 13 bolag slog kursrekord - EFN
+- Storbritannien och Frankrike redo säkra Hormuzsundet - Dagens industri
+- Frontlinjen i Ukraina rör sig knappt - Västerbottens-Kuriren
+- Fler anmälningar om våldtäkt på Roskilde - Aftonbladet
 - Högre krav på dricksvatten – risk att bli lurad - Nya Wermlands-Tidningen
+- Slut på öl på Systembolaget i Boden - NSD
 - Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
-- Slut på öl i Boden: ”Kom in i matchen, Systembolaget” - Omni – Alla nyheter. Alla perspektiv.
+- Munter avslutning på börsveckan i Stockholm, OMXS30 index steg 1,1 procent (Finwire News) - Aktiellt
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Apple iPhone 18 Pro och iPhone 18 Pro Max: Större batterier bekräftade genom certifiering - notebookcheck.se
+- Exynos 2700 får ny design för att hålla sig svalare - Teknikveckan
 
 ## World News
 
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
-- Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
+- Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Corren kan vinna pris för satsningen på unga - Corren
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -123,42 +123,42 @@ _Updated: 2026-07-04 16:09_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
+- ZORRO – Tvärvetenskaplig forskning om förvaltning och restaurering av ålgräsängar i Sverige - Göteborgs universitet
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Save the date: XXIII Cancer Research KI Retreat - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Jordbrukspolitik - Naturvårdsverket
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbruk och landsbygdsutveckling - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Framtidens jordbruk - European Commission
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
-- Jord, kor och klimat - SLU
+- High-tech och lantbruk i fokus på SLU-dag - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Så påverkar torkan svenskt lantbruk - SLU
+- Kan agroekologi mätta världen? - SLU
