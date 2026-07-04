@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 00:28_
+_Updated: 2026-07-05 01:31_
 
 ## Top Stories
 
-- Christian, 32, misshandlad till döds i Köpenhamn - Göteborgs-Posten
-- Justitieministern efter vänsterpartisternas agerande i paraden: ”Faktiskt helt skandalöst” - Sydsvenskan
-- ”Sis var inkörsporten till helvetet” - Svenska Dagbladet
+- Danska utrikesministern om dödsmisshandeln: ”Fylld av sorg och vrede” - Expressen
 - Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
-- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Hufvudstadsbladet – HBL
 - Melania Trump stärker sin agenda: ”Är fokuserad” - Dagens Nyheter
+- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
+- Justitieministern efter vänsterpartisternas agerande i paraden: ”Faktiskt helt skandalöst” - Sydsvenskan
+- Dödstalet efter skalven i Venezuela räknas upp - Västerbottens-Kuriren
 - DN Direkt – Region Gotland uppmanar: Tvätta dig i havet - Dagens Nyheter
 - Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
 - SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
-- DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
-- Påven hedrade migranter på USA:s födelsedag - Västerbottens-Kuriren
+- Ölbristen blev riksnyhet – men Boden är inte helt torrlagt - NSD
 - Kreml: Putin och Trump i samtal - Göteborgs-Posten
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
 - Rop på hämnd under Khameneis begravning - Göteborgs-Posten
 - Trump gör Nato-mötet nervöst - Hufvudstadsbladet – HBL
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
-- Spendrups försening värre än väntat – ”börjar nå normalisering” - food-supply.se
+- Kristersson: Fler affärer för svensk försvarsindustri kan vara nära - TT - Placera.se
 - Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Apple iPhone 18 Pro och iPhone 18 Pro Max: Större batterier bekräftade genom certifiering - notebookcheck.se
+- Enkelt forntidsfynd låg i en låda i mer än 40 år – nu har det visat sig vara långt mer sensationellt än vi trodde - Illustrerad Vetenskap
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-07-05 00:28_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Saabs Global Eye kan bli Natostandard - Privata Affärer
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -124,8 +124,8 @@ _Updated: 2026-07-05 00:28_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
