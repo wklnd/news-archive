@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-04 23:28_
+_Updated: 2026-07-05 00:28_
 
 ## Top Stories
 
-- Fansen tillbaka på platsen där Christian Zedig dog - Göteborgs-Posten
-- Ny attack mot rysk oljeterminal – mitt i bränslekrisen - Dagens Nyheter
-- Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
-- Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
+- Christian, 32, misshandlad till döds i Köpenhamn - Göteborgs-Posten
 - Justitieministern efter vänsterpartisternas agerande i paraden: ”Faktiskt helt skandalöst” - Sydsvenskan
-- Prideparad genom Malmö: ”Inga ursäkter” - SVT Nyheter
-- DN Direkt – Region Gotland uppmanar: Tvätta dig i havet - Dagens Nyheter
-- SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
-- De lila, soffliggarna och vanliga människor – det är väljarna som valgeneralerna slåss om - Dagens Nyheter
-- Ölbristen blev riksnyhet – men Boden är inte helt torrlagt - NSD
-- DN Direkt – Dödstalet efter skalven i Venezuela räknas upp - Dagens Nyheter
-- Påven hedrade migranter på USA:s födelsedag - Västerbottens-Kuriren
+- ”Sis var inkörsporten till helvetet” - Svenska Dagbladet
+- Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Hufvudstadsbladet – HBL
 - Melania Trump stärker sin agenda: ”Är fokuserad” - Dagens Nyheter
-- Eskalering i Sudan – FN varnar för ny katastrof - Sveriges Radio
+- DN Direkt – Region Gotland uppmanar: Tvätta dig i havet - Dagens Nyheter
+- Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
+- SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
+- DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
+- Påven hedrade migranter på USA:s födelsedag - Västerbottens-Kuriren
+- Kreml: Putin och Trump i samtal - Göteborgs-Posten
+- Rop på hämnd under Khameneis begravning - Göteborgs-Posten
+- Trump gör Nato-mötet nervöst - Hufvudstadsbladet – HBL
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
+- Spendrups försening värre än väntat – ”börjar nå normalisering” - food-supply.se
 - Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
-- Kristersson: Fler affärer för svensk försvarsindustri kan vara nära - TT - Placera.se
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
 - Apple iPhone 18 Pro och iPhone 18 Pro Max: Större batterier bekräftade genom certifiering - notebookcheck.se
 
 ## World News
 
-- Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
+- Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -57,13 +57,13 @@ _Updated: 2026-07-04 23:28_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -123,10 +123,10 @@ _Updated: 2026-07-04 23:28_
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
