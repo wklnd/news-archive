@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-04 21:52_
+_Updated: 2026-07-04 23:38_
 
-- Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th - BBC
+- In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism - NPR
+- US marks 250th independence anniversary as heatwave disrupts celebrations - follow live - BBC
 - Parade of Tall Ships cruises through New York Harbor to celebrate Sail4th 250: Photos - New York Post
 - Massive Crowds Gather in Tehran for Khamenei’s Six-Day Funeral - WSJ
-- 3 Children Dead After Boat Capsizes on Wisconsin Lake During Severe Storm - The New York Times
+- July 4th live updates as celebrations across the USA mark America's 250th birthday - CBS News
 - Ukrainian drones hit St Petersburg oil terminal and nearby port - The Guardian
-- Family owned company prepares to put on the largest fireworks display in history: "It is the biggest show that we've ever done" - CBS News
 - Masked men with Confederate flags seen chanting, marching, riding Metro in DC - NBC4 Washington
+- Beyond Camp Mystic, survivors of Texas floods struggle to move forward - The Washington Post
 - 'Cautiously optimistic': Swing voters describe their view of America at 250 - NPR
-- New DNA technology leads to identification of Revolutionary War soldier: "A gift to the whole country" - CBS News
-- Trump pardons 9 people convicted of tampering with emission controls on diesel engines - Fox News
+- Aspen Acres fire grows to 85,000 acres overnight, continuing onward march into Fourth of July holiday - The Colorado Sun
 - On July Fourth, Pope Leo urges U.S. to welcome, protect and assist immigrants - The Washington Post
-- Egypt uncovers lost Byzantine-era city in the western desert - CBS News
-- China’s military promotes 2 new generals after anti-corruption purge thins ranks - NBC News
+- Egypt uncovers lost Byzantine-era city in the western desert - CNN
 - Prince Harry will not be joined by Meghan and children on London trip - BBC
-- Republicans bank on a Trump Accounts boost - Politico
+- China’s military promotes 2 new generals after anti-corruption purge thins ranks - AP News
 - Oil’s Supply Wave, Tumbling Prices Rekindle Fears of Global Glut - Bloomberg.com
-- Over 842,000 without power across the country as US is blanketed by heatwave - ABC News - Breaking News, Latest News and Videos
+- Trump Accounts start July 4: What parents need to know - ABC News - Breaking News, Latest News and Videos
+- Over 842,000 without power across the country as US is blanketed by heatwave - Yahoo
 - 55-year-old sandwich chain closes restaurants with no notice - thestreet.com
-- Google Wallet finally shows all your spending in one place - Android Police
 - Report claims OxygenOS and Realme UI set to be discontinued - 9to5Google
+- From Nintendo to KFC, how brands reacted to the PlayStation disc controversy - Creative Bloq
