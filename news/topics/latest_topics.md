@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-04 06:11_
+_Updated: 2026-07-04 09:22_
 
 ## Top Stories
 
-- Frontlinjen i Ukraina rör sig knappt - Göteborgs-Posten
-- Svensk polis död efter misshandel i Köpenhamn - Västerbottens-Kuriren
-- Från Bush till Trump – Lotta Westermarcks vardag fortsätter i USA - Hufvudstadsbladet – HBL
-- Förklädd kvinna misstänks för bombattentat i Monaco – jagas av Interpol - Göteborgs-Posten
-- Dödstalet räknas upp efter skalven i Venezuela - Göteborgs-Posten
-- Nästan varannan som dog var alkoholpåverkad - Göteborgs-Posten
+- I New York firas USA:s 250-årsdag inte som Trump vill - Dagens Nyheter
+- Brand i Skärholmen - Aftonbladet
+- Polisen Christian Zedig misshandlad till döds i Köpenhamn - Göteborgs-Posten
+- Hotet från Putin: ”Måste fortsätta” - Expressen
+- ”Det är galet – har ni inte följt vårt krig alls?” - Svenska Dagbladet
+- Här stjäls en mobil var tionde minut – så slipper du drabbas på semestern - Göteborgs-Posten
+- Två gripna efter brand i Göteborg – lägenhet förstörd - SVT Nyheter
+- Man gripen misstänkt för mordförsök i Gislaved - SVT Nyheter
+- Mest växande väljargruppen immun mot valfläsk - Västerbottens-Kuriren
 - En person död i krock utanför Linköping - Göteborgs-Posten
-- Självkörande buss krockade – tillståndet dras in - Västerbottens-Kuriren
-- DN Direkt – Bil och buss i krock söder om Stockholm - Dagens Nyheter
-- Skogsbränder i extremvärmen – flera skadade - Göteborgs-Posten
-- Ryssland: Har tagit Kostiantynivka - Aftonbladet
-- Khameneis begravning officiellt inledd - Västerbottens-Kuriren
-- Amerikanske påven önskar måttfull debatt i USA - Sydsvenskan
-- Varmaste juni i Frankrike på 79 år – många döda - Hufvudstadsbladet – HBL
-- Slut på öl mitt under VM: ”Kom in i matchen, Systembolaget” - Expressen
-- Munter avslutning på börsveckan i Stockholm, OMXS30 index steg 1,1 procent (Finwire News) - Aktiellt
+- Khameneis begravning officiellt inledd - Göteborgs-Posten
+- Uppgifter: Ryssland kan planera ”provokation” mot Polen - Dagens Nyheter
+- Uppgifter: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
+- Polisen utreder våldtäkt i Uppsala - Aftonbladet
+- Högre krav på dricksvatten – risk att bli lurad - Hallands Nyheter
+- Slut på öl i Boden mitt under fotbolls-VM: ”Kom in i matchen, Systembolaget” - Expressen
 - Efter nya cyberhoten: ”Bekämpa AI med AI” - Svenska Dagbladet
-- Kvällssammanfattning: europeiska aktier slog rekord, Bitcoin över $62K - Invezz
+- Munter avslutning på börsveckan i Stockholm, OMXS30 index steg 1,1 procent (Finwire News) - Aktiellt
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Sensationella fyndet låg bortglömt i 40 år - Aftonbladet
+- Recension av MSI Crosshair A16 HX E8WGK: Ryzen 9 Zen 4 presterar bättre än Ryzen 9 AI Zen 5 - notebookcheck.se
 
 ## World News
 
@@ -39,27 +39,28 @@ _Updated: 2026-07-04 06:11_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Mellan talibanerna, Indien och Irankriget - Kvartal
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Saabs Global Eye kan bli Natostandard - Privata Affärer
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -67,7 +68,6 @@ _Updated: 2026-07-04 06:11_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
