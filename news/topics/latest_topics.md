@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-04 20:35_
+_Updated: 2026-07-04 21:47_
 
 ## Top Stories
 
+- Marocko vidare i VM – Saibari utbytt skadad - Sveriges Radio
 - Zelenskyj: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
 - Kinas utrikesminister på besök i känsligt läge - Corren
-- Arrangören om dödliga attacken: ”Djup tragedi” - Göteborgs-Posten
+- Tiotusentals Jehovas vittnen fyller arenan – avhopparen: ”Många är rädda att lämna” - SVT Nyheter
 - Prideparad genom Malmö: ”Inga ursäkter” - SVT Nyheter
-- Direkt – Kriget i Ukraina – Ryssland: Fyra byar har intagits i Kharkiv - Dagens Nyheter
 - Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
-- Svensk volontärarbetare skadad i drönarattack - SVT Nyheter
+- Region Gotland uppmanar: Tvätta dig i havet - Västerbottens-Kuriren
 - DN Direkt – SMHI varnar för skyfall i delar av Sverige - Dagens Nyheter
 - Olycka på E4 – stopp i trafiken - UNT
-- Tidigare Jehovas vittne demonstrerar vid möte för 30 000: ”Tårar i ögonen” - Dagens Nyheter
-- Rop på hämnd under Khameneis begravning - Hufvudstadsbladet – HBL
-- Trump gör Nato-mötet nervöst - Hufvudstadsbladet – HBL
-- DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
+- De lila, soffliggarna och vanliga människor – det är väljarna som valgeneralerna slåss om - Dagens Nyheter
 - Påven hedrade migranter på USA:s födelsedag - Västerbottens-Kuriren
-- Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
-- Då rivs allt upp: Tre gånger så många 65+ skiljer sig - Dagens PS
+- FN varnar för ny människorättskatastrof i Sudan - Sveriges Radio
+- Melania Trump stärker sin agenda: ”Är fokuserad” - Dagens Nyheter
+- Rop på hämnd under Khameneis begravning - Hufvudstadsbladet – HBL
 - Slut på öl på Systembolaget i Boden - Kuriren
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
+- Då rivs allt upp: Tre gånger så många 65+ skiljer sig - Dagens PS
+- Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
 - Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Exynos 2700 får ny design för att hålla sig svalare - Teknikveckan
+- Apple iPhone 18 Pro och iPhone 18 Pro Max: Större batterier bekräftade genom certifiering - notebookcheck.se
 
 ## World News
 
@@ -38,15 +38,15 @@ _Updated: 2026-07-04 20:35_
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Saabs Global Eye kan bli Natostandard - Privata Affärer
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
