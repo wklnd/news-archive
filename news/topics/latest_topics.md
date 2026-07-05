@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 07:39_
+_Updated: 2026-07-05 11:27_
 
 ## Top Stories
 
-- Trump talar efter evakuering av USA-firande - Västerbottens-Kuriren
-- Politikerns dotter utsatt för hatisk kommentar - Göteborgs-Posten
-- Man död i olycka med fyrhjuling - Expressen
-- Nordkorea: Xi vill arbeta för stabil relation - Aftonbladet
-- DN Direkt – Regeringen bakom kampanj om frivillig återvandring till Afghanistan - Dagens Nyheter
-- Danska utrikesministern om dödsmisshandeln: ”Fylld av sorg och vrede” - Expressen
-- Ulf Kristersson om kritiken: Jag är inte arg eller irriterad - Dagens Nyheter
-- SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
-- DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
-- Region Gotland uppmanar: Tvätta dig i havet - Västerbottens-Kuriren
-- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
-- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Göteborgs-Posten
-- Rop på hämnd under Khameneis begravning - Västerbottens-Kuriren
-- Strandskyddet hotas av Tidö-oligarkers bryggor - Aftonbladet
-- ”Mer skärpt på jobbet – och mer tid för familj” - Svenska Dagbladet
+- Björn af Kleen: Trumps 250-årsfest var ett inferno av hetta - Dagens Nyheter
+- Slungades ut när bil voltade - Aftonbladet
+- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
+- EU varnar Albanien för Trumps natur­exploatering - Natursidan
+- Man lurades på 200 000 kronor - Norrtelje Tidning
+- Systrarna Annettes och Susannes ilska över arvet – försökte mörda pappa Arne - Expressen
+- Vänsterpartiets rop i pridetåget: ”Hela Malmö hatar poliser” - SVT Nyheter
+- Danskar demonstrerar mot ”larven från helvetet” - Dagens Nyheter
+- Kristersson om sin påstådda ”surhet”: ”Är inte arg” - Omni – Alla nyheter. Alla perspektiv.
+- Danske utrikesministern uttalar sig om döde polisen - Göteborgs-Posten
+- Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
+- Fika med kapybaror – Tokyotrenden lockar turister från hela världen - Sydsvenskan
+- Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
+- Man död i fyrhjulingsolycka i Nordanstig - SVT Nyheter
+- Positiv syn på börsen hittills i år - Dagens Nyheter
+- Debatt: Högre lön viktigare än arbetstid när medarbetarna fick välja - Tidningen Näringslivet
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
-- Brita Zackari om stugan i Härjedalen: ”Mycket i koncentrat” - Sveriges Radio
-- Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
+- Så länge stannar rekordbilliga bränslet – chock väntar - Carup.se
 - Bethesda utnyttjar lanseringen av ”Oblivion Remastered” för Nintendo Switch 2 för att ge Sony en känga med anledning av företagets tillkännagivande om att man ska sluta sälja fysiska PlayStation-spel - notebookcheck.se
-- Sommarmys: Porsche 911 GT3 Touring till Åre - Teknikens Värld
+- Xbox på Meta Quest: så funkar Game Pass, Flight Simulator och EA Sports FC - HurBra.se
 
 ## World News
 
@@ -31,30 +31,29 @@ _Updated: 2026-07-05 07:39_
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
@@ -62,12 +61,13 @@ _Updated: 2026-07-05 07:39_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -124,8 +124,8 @@ _Updated: 2026-07-05 07:39_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -149,16 +149,16 @@ _Updated: 2026-07-05 07:39_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Visning av uppkomst efter direktsådd - Land.se
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
