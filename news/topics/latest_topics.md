@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 01:31_
+_Updated: 2026-07-05 03:16_
 
 ## Top Stories
 
+- USA-firande evakuerat på grund av storm - Göteborgs-Posten
 - Danska utrikesministern om dödsmisshandeln: ”Fylld av sorg och vrede” - Expressen
-- Amerikaner firar USA:s 250-årsdag i Washington - Dagens Nyheter
 - Melania Trump stärker sin agenda: ”Är fokuserad” - Dagens Nyheter
-- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
 - Justitieministern efter vänsterpartisternas agerande i paraden: ”Faktiskt helt skandalöst” - Sydsvenskan
-- Dödstalet efter skalven i Venezuela räknas upp - Västerbottens-Kuriren
-- DN Direkt – Region Gotland uppmanar: Tvätta dig i havet - Dagens Nyheter
-- Kristersson tog emot Kinas utrikesminister - Västerbottens-Kuriren
-- SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
-- Ölbristen blev riksnyhet – men Boden är inte helt torrlagt - NSD
+- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
+- Gul varning för skyfallsliknande regn i Stockholm - Sveriges Radio
+- Region Gotland uppmanar: Tvätta dig i havet - Västerbottens-Kuriren
+- Kinas utrikesminister på besök i känsligt läge - Corren
+- Tiotusentals Jehovas vittnen fyller arenan – avhopparen: ”Många är rädda att lämna” - SVT Nyheter
+- DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
 - Kreml: Putin och Trump i samtal - Göteborgs-Posten
 - Zelenskyj: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
 - Rop på hämnd under Khameneis begravning - Göteborgs-Posten
-- Trump gör Nato-mötet nervöst - Hufvudstadsbladet – HBL
+- Iran: Vänliga länder ska specialbehandlas i Hormuz - Omni – Alla nyheter. Alla perspektiv.
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
 - Kristersson: Fler affärer för svensk försvarsindustri kan vara nära - TT - Placera.se
 - Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
-- Microsoft testar funktion som gör om Xbox-skivor till digitala spel - m3.se
-- Enkelt forntidsfynd låg i en låda i mer än 40 år – nu har det visat sig vara långt mer sensationellt än vi trodde - Illustrerad Vetenskap
+- Bethesda utnyttjar lanseringen av ”Oblivion Remastered” för Nintendo Switch 2 för att ge Sony en känga med anledning av företagets tillkännagivande om att man ska sluta sälja fysiska PlayStation-spel - notebookcheck.se
+- Amazfit-smartklockan med en ljusstyrka på 3 000 cd/m², offlinekartor och ett pris på 100 dollar får en uppdatering - notebookcheck.se
 
 ## World News
 
@@ -43,10 +43,10 @@ _Updated: 2026-07-05 01:31_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Saabs Global Eye kan bli Natostandard - Privata Affärer
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -66,8 +66,8 @@ _Updated: 2026-07-05 01:31_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -76,10 +76,10 @@ _Updated: 2026-07-05 01:31_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -124,8 +124,8 @@ _Updated: 2026-07-05 01:31_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -154,11 +154,11 @@ _Updated: 2026-07-05 01:31_
 - Här är världens största jordbruk - ATL
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
