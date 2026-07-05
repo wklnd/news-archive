@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 03:16_
+_Updated: 2026-07-05 07:39_
 
 ## Top Stories
 
-- USA-firande evakuerat på grund av storm - Göteborgs-Posten
+- Trump talar efter evakuering av USA-firande - Västerbottens-Kuriren
+- Politikerns dotter utsatt för hatisk kommentar - Göteborgs-Posten
+- Man död i olycka med fyrhjuling - Expressen
+- Nordkorea: Xi vill arbeta för stabil relation - Aftonbladet
+- DN Direkt – Regeringen bakom kampanj om frivillig återvandring till Afghanistan - Dagens Nyheter
 - Danska utrikesministern om dödsmisshandeln: ”Fylld av sorg och vrede” - Expressen
-- Melania Trump stärker sin agenda: ”Är fokuserad” - Dagens Nyheter
-- Justitieministern efter vänsterpartisternas agerande i paraden: ”Faktiskt helt skandalöst” - Sydsvenskan
-- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
-- Gul varning för skyfallsliknande regn i Stockholm - Sveriges Radio
-- Region Gotland uppmanar: Tvätta dig i havet - Västerbottens-Kuriren
-- Kinas utrikesminister på besök i känsligt läge - Corren
-- Tiotusentals Jehovas vittnen fyller arenan – avhopparen: ”Många är rädda att lämna” - SVT Nyheter
+- Ulf Kristersson om kritiken: Jag är inte arg eller irriterad - Dagens Nyheter
+- SMHI varnar för skyfall i delar av Sverige - Göteborgs-Posten
 - DN Direkt – Bil har voltat på E4 – fyra till sjukhus - Dagens Nyheter
-- Kreml: Putin och Trump i samtal - Göteborgs-Posten
-- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Västerbottens-Kuriren
-- Rop på hämnd under Khameneis begravning - Göteborgs-Posten
-- Iran: Vänliga länder ska specialbehandlas i Hormuz - Omni – Alla nyheter. Alla perspektiv.
+- Region Gotland uppmanar: Tvätta dig i havet - Västerbottens-Kuriren
+- Påven hedrade migranter på USA:s födelsedag - Hufvudstadsbladet – HBL
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Göteborgs-Posten
+- Rop på hämnd under Khameneis begravning - Västerbottens-Kuriren
+- Strandskyddet hotas av Tidö-oligarkers bryggor - Aftonbladet
+- ”Mer skärpt på jobbet – och mer tid för familj” - Svenska Dagbladet
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
+- Brita Zackari om stugan i Härjedalen: ”Mycket i koncentrat” - Sveriges Radio
 - Ännu en konkurs för Waynes Coffee på Drottninggatan - Gefle Dagblad
-- Kristersson: Fler affärer för svensk försvarsindustri kan vara nära - TT - Placera.se
-- Sveriges bästa förvaltare i år – nu pekar de ut 13 aktier inför andra halvåret - Börskollen
 - Bethesda utnyttjar lanseringen av ”Oblivion Remastered” för Nintendo Switch 2 för att ge Sony en känga med anledning av företagets tillkännagivande om att man ska sluta sälja fysiska PlayStation-spel - notebookcheck.se
-- Amazfit-smartklockan med en ljusstyrka på 3 000 cd/m², offlinekartor och ett pris på 100 dollar får en uppdatering - notebookcheck.se
+- Sommarmys: Porsche 911 GT3 Touring till Åre - Teknikens Värld
 
 ## World News
 
@@ -31,22 +31,22 @@ _Updated: 2026-07-05 03:16_
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - smart Europe
+- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -76,10 +76,10 @@ _Updated: 2026-07-05 03:16_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -138,7 +138,7 @@ _Updated: 2026-07-05 03:16_
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
