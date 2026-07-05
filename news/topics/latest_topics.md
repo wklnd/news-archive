@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 13:16_
+_Updated: 2026-07-05 14:48_
 
 ## Top Stories
 
-- Björn af Kleen: Trumps 250-årsfest var ett inferno av hetta - Dagens Nyheter
-- Kraftigt regn väntas – gul varning i delar av Västerbotten - SVT Nyheter
+- Längdskidor: William Poromaa förd till sjukhus – har brutit fotleden - SVT Nyheter
+- SMHI varnar för skyfall – 50 millimeter regn på kort tid - Omni – Alla nyheter. Alla perspektiv.
+- Åskstorm satte stopp för firandet i USA - Hufvudstadsbladet – HBL
+- Kraftfulla politiska protester i Albanien - Sveriges Radio
 - Danske utrikesministern uttalar sig om döde svenske polisen - Skånska Dagbladet
-- Stopp på E4 på grund av olycka med en personbil - NT
 - Olycka utanför Gällivare – ung man omkom - Norran
-- Systrarna Annettes och Susannes ilska över arvet – försökte mörda pappa Arne - Expressen
-- Afghaner ska fås att återvända – noll har nappat - Aftonbladet
+- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
 - ”Larven från helvetet” närmar sig Sverige - Corren
-- SMHI: Industrisemestern är här – då kommer solen tillbaka - Göteborgs-Posten
-- Tre nya äldreboenden per år behövs i Stockholm - Sveriges Radio
+- Personbil voltade på E4 söder om Norrköping - SVT Nyheter
+- Man lurades på 200 000 kronor - Norrtelje Tidning
 - Ryssland och Kina i gemensam militärövning - Göteborgs-Posten
-- Fyra barn skottskadade i New York - Sveriges Radio
-- Fika med kapybaror – Tokyotrenden lockar turister från hela världen - Sydsvenskan
-- Trumpfamiljen hotar Albaniens EU-medlemskap - Expressen
-- Här är nycklarna till en fortsatt stark börs - EFN
-- Veckans vinnare och förlorare på rekordsbörsen - Dagens industri
-- Debatt: Högre lön viktigare än arbetstid när medarbetarna fick välja - Tidningen Näringslivet
+- Värme och skogsbränder slår mot Europas turistdestinationer - Dagens Nyheter
+- Hypotesen: Ryssland sparar vapen till större anfall - Dagens Nyheter
+- Rop på hämnd under Khameneis begravning - Hufvudstadsbladet – HBL
+- Börsen trotsade bomber och blockerat Hormuzsund – detta tror experterna om resten av börsåret - Börskollen
+- Zuckerbergs frustration växer – AI levererar inte som utlovat - Dagens PS
+- Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Så länge stannar rekordbilliga bränslet – chock väntar - Carup.se
-- Bethesda utnyttjar lanseringen av ”Oblivion Remastered” för Nintendo Switch 2 för att ge Sony en känga med anledning av företagets tillkännagivande om att man ska sluta sälja fysiska PlayStation-spel - notebookcheck.se
+- Spelare som spelar fysiska spel får veta att inaktiva PlayStation-konton kan raderas efter tre år - notebookcheck.se
 - LISTA: Här är månadens nystartade företag i Vilhelmina - Folkbladet
 
 ## World News
@@ -32,19 +32,19 @@ _Updated: 2026-07-05 13:16_
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 
@@ -61,11 +61,11 @@ _Updated: 2026-07-05 13:16_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -74,13 +74,13 @@ _Updated: 2026-07-05 13:16_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
@@ -149,16 +149,16 @@ _Updated: 2026-07-05 13:16_
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Strategier för ett diversifierat jordbruk - Lantbruksnytt
-- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Här är världens största jordbruk - ATL
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
-- Jord, kor och klimat - SLU
 - Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
+- Här är världens största jordbruk - ATL
+- Jord, kor och klimat - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
