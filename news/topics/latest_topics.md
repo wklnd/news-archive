@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 16:57_
+_Updated: 2026-07-05 18:34_
 
 ## Top Stories
 
-- Michael på Djurö tog fram snöslungan i haglet - Dagens Nyheter
-- Trump talade efter evakuering av USA-firande - Västerbottens-Kuriren
-- SMHI varnar för skyfall – 50 millimeter regn på kort tid - Omni – Alla nyheter. Alla perspektiv.
-- Uppgifter: Kan slå mot Polen – inom månader - Svenska Dagbladet
+- Kaos i åskovädret – blixten slog ner - Aftonbladet
 - Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
-- Utländsk hjälp mot svår terrängbrand i Portugal - Aftonbladet
-- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
+- DN Direkt – Skogsbrand hotar Tour de France-etapp - Dagens Nyheter
+- SMHI varnar för skyfall – 50 millimeter regn på kort tid - Omni – Alla nyheter. Alla perspektiv.
+- ”Visste polisen vad som skulle hända...?” - Svenska Dagbladet
+- Brand i garage i Storvreta släckt - UNT
+- Kraftigt åskoväder – 10 000 blixtnedslag - Västerbottens-Kuriren
 - Snus och tobak för en halv miljon stulits i Sisjön - Sveriges Radio
+- Synskadade Hans får vänta månader på ny ledarhund - Dagens Nyheter
 - DN Direkt – Därför vittnade inte FRA-anställda i Huovinen-fallet - Dagens Nyheter
-- Danske ministern om VM-dådet: ”Djupt berörd” - Västerbottens-Kuriren
-- Ryssland och Kina i gemensam militärövning - Göteborgs-Posten
-- Flera barn skadade i skottlossning i New York - Sydsvenskan
-- Värme och skogsbränder slår mot Europas turistdestinationer - Dagens Nyheter
-- Kraftfulla politiska protester i Albanien - Sveriges Radio
+- Zelenskyj: Oljeterminal i S:t Petersburg träffad - Göteborgs-Posten
+- Trump talar efter evakuering av USA-firande - Västerbottens-Kuriren
+- Utländsk hjälp mot svår terrängbrand i Portugal - Aftonbladet
+- Ryssland och Kina i gemensam militärövning - Västerbottens-Kuriren
 - Chefen fick sparken: "Trodde inte reglerna gällde mig" - Dagens PS
-- Så använder skurkstater krypto mot sanktioner - Dagens PS
-- Positiv syn på börsen hittills i år - Dagens Nyheter
 - Kompakta bilar trend bland nominerade till Årets bil - Dagens Nyheter
+- Börsen trotsade bomber och blockerat Hormuzsund – detta tror experterna om resten av börsåret - Börskollen
+- Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Spelare som spelar fysiska spel får veta att inaktiva PlayStation-konton kan raderas efter tre år - notebookcheck.se
-- Från lumpen till nästa utmaning: Linnea, 19, ska vandra 16 mil - Blekinge Läns Tidning
+- Detta Wi-Fi-försedda alternativ till Raspberry Raspberry Pi har två realtidskärnor och dubbla Gigabit-LAN-portar - notebookcheck.se
 
 ## World News
 
@@ -32,19 +32,19 @@ _Updated: 2026-07-05 16:57_
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
 
@@ -52,22 +52,22 @@ _Updated: 2026-07-05 16:57_
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -88,11 +88,11 @@ _Updated: 2026-07-05 16:57_
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
 
 ## Health
 
@@ -105,17 +105,17 @@ _Updated: 2026-07-05 16:57_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Miljöpåverkan - effekter på hälsa och förmåga till krisberedskap - Göteborgs universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
@@ -134,31 +134,31 @@ _Updated: 2026-07-05 16:57_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
-- Fysisk aktivitet och idrottsmedicin med fokus på prevention – Hagströmer forskargrupp - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Data Science och AI - Chalmers tekniska högskola
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Jordbrukspolitik - Naturvårdsverket
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Jordbrukspolitik - Naturvårdsverket
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
-- Framtidens jordbruk - European Commission
+- Strategier för ett diversifierat jordbruk - Lantbruksnytt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Här är världens största jordbruk - ATL
-- High-tech och lantbruk i fokus på SLU-dag - SLU
-- Visning av uppkomst efter direktsådd - Land.se
+- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
-- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Visning av uppkomst efter direktsådd - Land.se
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Så påverkar torkan svenskt lantbruk - SLU
+- Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
