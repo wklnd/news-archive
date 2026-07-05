@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 11:27_
+_Updated: 2026-07-05 13:16_
 
 ## Top Stories
 
 - Björn af Kleen: Trumps 250-årsfest var ett inferno av hetta - Dagens Nyheter
-- Slungades ut när bil voltade - Aftonbladet
-- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
-- EU varnar Albanien för Trumps natur­exploatering - Natursidan
-- Man lurades på 200 000 kronor - Norrtelje Tidning
+- Kraftigt regn väntas – gul varning i delar av Västerbotten - SVT Nyheter
+- Danske utrikesministern uttalar sig om döde svenske polisen - Skånska Dagbladet
+- Stopp på E4 på grund av olycka med en personbil - NT
+- Olycka utanför Gällivare – ung man omkom - Norran
 - Systrarna Annettes och Susannes ilska över arvet – försökte mörda pappa Arne - Expressen
-- Vänsterpartiets rop i pridetåget: ”Hela Malmö hatar poliser” - SVT Nyheter
-- Danskar demonstrerar mot ”larven från helvetet” - Dagens Nyheter
-- Kristersson om sin påstådda ”surhet”: ”Är inte arg” - Omni – Alla nyheter. Alla perspektiv.
-- Danske utrikesministern uttalar sig om döde polisen - Göteborgs-Posten
-- Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
+- Afghaner ska fås att återvända – noll har nappat - Aftonbladet
+- ”Larven från helvetet” närmar sig Sverige - Corren
+- SMHI: Industrisemestern är här – då kommer solen tillbaka - Göteborgs-Posten
+- Tre nya äldreboenden per år behövs i Stockholm - Sveriges Radio
+- Ryssland och Kina i gemensam militärövning - Göteborgs-Posten
+- Fyra barn skottskadade i New York - Sveriges Radio
 - Fika med kapybaror – Tokyotrenden lockar turister från hela världen - Sydsvenskan
-- Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
-- Man död i fyrhjulingsolycka i Nordanstig - SVT Nyheter
-- Positiv syn på börsen hittills i år - Dagens Nyheter
+- Trumpfamiljen hotar Albaniens EU-medlemskap - Expressen
+- Här är nycklarna till en fortsatt stark börs - EFN
+- Veckans vinnare och förlorare på rekordsbörsen - Dagens industri
 - Debatt: Högre lön viktigare än arbetstid när medarbetarna fick välja - Tidningen Näringslivet
-- Glödhet börs - 13 nya bolag slog kursrekord - EFN
 - Så länge stannar rekordbilliga bränslet – chock väntar - Carup.se
 - Bethesda utnyttjar lanseringen av ”Oblivion Remastered” för Nintendo Switch 2 för att ge Sony en känga med anledning av företagets tillkännagivande om att man ska sluta sälja fysiska PlayStation-spel - notebookcheck.se
-- Xbox på Meta Quest: så funkar Game Pass, Flight Simulator och EA Sports FC - HurBra.se
+- LISTA: Här är månadens nystartade företag i Vilhelmina - Folkbladet
 
 ## World News
 
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
+- Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Manitoba community stunned after fatal assault of local father, chef - Winnipeg - Global News
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -61,11 +61,11 @@ _Updated: 2026-07-05 11:27_
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -74,13 +74,13 @@ _Updated: 2026-07-05 11:27_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - tv4.se
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
