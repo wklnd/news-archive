@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 23:34_
+_Updated: 2026-07-06 00:33_
 
 ## Top Stories
 
-- Uppgifter: Person skjuten i Uppsala - Aftonbladet
-- Läckor och bränder efter åskoväder - TV4 Nyheterna
-- Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
+- Haaland sänkte Brasilien – Norge vidare - Dagens Nyheter
+- Uppgifter: Person skjuten i Uppsala - Corren
 - ÖB: När sätter man etiketten tredje världskriget? - Dagens Nyheter
-- Åtta skjutna i New York under nationaldagsfirande - Omni – Alla nyheter. Alla perspektiv.
-- Tyst minut för 32-åriga Christian Zedig - Sveriges Radio
+- Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
+- Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
+- Kaos i åskovädret – blixten slog ner - Aftonbladet
 - Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
 - Snus och tobak för över en halv miljon stals i Sisjön - Sveriges Radio
+- DN Direkt – Tyst minut i dansk tv för dödade svenske polisen - Dagens Nyheter
 - Kraftigt regn väntas – gul varning i Västerbotten och Västernorrland - SVT Nyheter
-- FRA-chefen begränsade vad vittnena fick säga - Västerbottens-Kuriren
+- DN Direkt – Smyckeskupp till ett värde av 44 miljoner kronor - Dagens Nyheter
 - Östromersk stad framgrävd i Egypten - Göteborgs-Posten
 - Nathan Shachar: Netanyahu kör över Högsta domstolen i historiskt beslut - Dagens Nyheter
 - Tour de France-etapp kan ställas in – skogsbrand härjar - Sveriges Radio
-- Trump talar efter evakuering av USA-firande - Västerbottens-Kuriren
 - Positiv syn på börsen hittills i år - Dagens Nyheter
-- Easyjet redo att bli uppköpt - Aftonbladet
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
-- Blygsam höjning av oljeproduktionen - Göteborgs-Posten
+- Blygsam höjning av oljeproduktionen - Aftonbladet
+- Easyjet redo att bli uppköpt - Västerbottens-Kuriren
 - 20 år gammal Audi gör 356 km/h: ”Ett odjur till bil” - Carup.se
-- Think Tank förbättrar fyra Airport-väskor - Fotosidan
+- Iphone 18 Pro får två olika modem - mobil.se
 
 ## World News
 
