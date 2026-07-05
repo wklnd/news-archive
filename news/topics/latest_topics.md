@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-05 21:51_
+_Updated: 2026-07-05 23:34_
 
 ## Top Stories
 
-- Kaos i åskovädret – blixten slog ner - Aftonbladet
+- Uppgifter: Person skjuten i Uppsala - Aftonbladet
+- Läckor och bränder efter åskoväder - TV4 Nyheterna
 - Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
-- ”Visste polisen vad som skulle hända...?” - Svenska Dagbladet
-- Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
-- Uppgiften: Förhindra Trumps Nato-sabotage - Dagens Nyheter
-- DN Direkt – Fyra barn skjutna i USA - Dagens Nyheter
-- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
-- Kraftigt åskoväder – 10 000 blixtnedslag - Västerbottens-Kuriren
 - ÖB: När sätter man etiketten tredje världskriget? - Dagens Nyheter
-- DN Direkt – Tyst minut i dansk tv för dödade svenske polisen - Dagens Nyheter
-- Utländsk hjälp mot svår terrängbrand i Portugal - Göteborgs-Posten
-- Östromersk stad framgrävd i Egypten - Corren
+- Åtta skjutna i New York under nationaldagsfirande - Omni – Alla nyheter. Alla perspektiv.
+- Tyst minut för 32-åriga Christian Zedig - Sveriges Radio
+- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
+- Snus och tobak för över en halv miljon stals i Sisjön - Sveriges Radio
+- Kraftigt regn väntas – gul varning i Västerbotten och Västernorrland - SVT Nyheter
+- FRA-chefen begränsade vad vittnena fick säga - Västerbottens-Kuriren
+- Östromersk stad framgrävd i Egypten - Göteborgs-Posten
+- Nathan Shachar: Netanyahu kör över Högsta domstolen i historiskt beslut - Dagens Nyheter
+- Tour de France-etapp kan ställas in – skogsbrand härjar - Sveriges Radio
 - Trump talar efter evakuering av USA-firande - Västerbottens-Kuriren
-- Trots skogsbranden – Tour de France-etappen blir av - Västerbottens-Kuriren
 - Positiv syn på börsen hittills i år - Dagens Nyheter
+- Easyjet redo att bli uppköpt - Aftonbladet
 - Glödhet börs - 13 nya bolag slog kursrekord - EFN
-- Blygsam höjning av oljeproduktionen - Aftonbladet
-- DEBATT: Är Ebba Busch besatt av sex? - Expressen
-- Spelare som spelar fysiska spel får veta att inaktiva PlayStation-konton kan raderas efter tre år - notebookcheck.se
-- Detta Wi-Fi-försedda alternativ till Raspberry Raspberry Pi har två realtidskärnor och dubbla Gigabit-LAN-portar - notebookcheck.se
+- Blygsam höjning av oljeproduktionen - Göteborgs-Posten
+- 20 år gammal Audi gör 356 km/h: ”Ett odjur till bil” - Carup.se
+- Think Tank förbättrar fyra Airport-väskor - Fotosidan
 
 ## World News
 
@@ -74,6 +74,7 @@ _Updated: 2026-07-05 21:51_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -81,7 +82,6 @@ _Updated: 2026-07-05 21:51_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
@@ -104,7 +104,6 @@ _Updated: 2026-07-05 21:51_
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
@@ -116,6 +115,7 @@ _Updated: 2026-07-05 21:51_
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
