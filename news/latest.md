@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-06 23:13_
+_Updated: 2026-07-07 00:46_
 
-- Exclusive: Woman who dated Graham Platner says he sexually assaulted her - Politico
-- He wrote a scathing message to ICE. Federal agents showed up at his door. - The Washington Post
-- Live Updates: Prosecutors Begin Detailing Case Against Tyler Robinson, Accused Charlie Kirk Assassin - The New York Times
+- Graham Platner considering ‘best path forward’ in Maine Senate race after denying sexual assault claim - NBC News
+- Huge crowds fill Tehran streets for Khamenei's funeral procession - BBC
 - ‘I’m Now Broke’: Meet The Investors Who Lost Billions Buying Trump Stocks And Crypto - Forbes
 - UPDATE: Family identifies body found on Horn Island as 18-year-old Nolan Wells - WLOX
 - Cuba hit with nationwide blackout as US pressure continues - CNN
-- Trump says he asked FIFA to review U.S. soccer star Folarin Balogun’s suspension - NBC News
-- Lincoln Memorial Reflecting Pool repairs to be handled by company that won no-bid contract, Burgum says - The Hill
-- Heavy rain snarls travel around New York, New Jersey - Gothamist
-- “Fascist March in Capitol Hill” on July 4th - PoPville
-- Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News
-- Deadly Russian Strikes Hit Kyiv on Eve of NATO Summit - The New York Times
-- Hamas dissolves Gaza government, Israel dismisses move as 'stunt' - Reuters
+- Live Updates: Prosecutors Begin Detailing Case Against Tyler Robinson, Accused Charlie Kirk Assassin - The New York Times
+- Trump’s pardons for Jan. 6 rioters don’t apply to DC pipe bomb suspect, judge rules - AP News
+- President Trump confirms role in FIFA reviewing, overturning Folarin Balogun red card: 'I'm the one who got them to do it' - Yahoo Sports
+- He wrote a scathing message to ICE. Federal agents showed up at his door. - The Washington Post
+- Supreme Court allows Texas to require age verification for mobile apps - CNN
+- Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting - The Washington Post
 - Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara - The Guardian
-- Microsoft to cut 4,800 jobs, overhaul Xbox unit - Reuters
-- Trump rings Wall Street’s opening bells as he ties his presidency to stock market gains - AP News
-- Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks — Live Updates - WSJ
-- Klarna seeks U.S. bank charter in latest push beyond buy now, pay later - CNBC
+- Hamas dissolves Gaza government, Israel dismisses move as 'stunt' - Reuters
+- Is NATO at breaking point as it meets in Turkiye? - Al Jazeera
+- Microsoft lays off 4,800 in companywide cuts - The Seattle Times
+- Nasdaq jumps to start new week led by chip stocks, Dow briefly tops 53,000 for first time: Live updates - CNBC
+- Toyota to build $3.6 billion Texas plant, shift some truck production from Mexico - Yahoo Finance
+- Top Fed official backs new chair’s rethink of investor communications - Financial Times
 - Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors
-- Samsung’s new Galaxy Watch app leaks with Pixel Watch vibes and features [Gallery] - 9to5Google
+- 'Galaxy Buds On' surface alongside more Galaxy Watch 9 leaks - 9to5Google
