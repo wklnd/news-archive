@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-06 01:42_
+_Updated: 2026-07-06 03:23_
 
-- Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
-- Super typhoon Bavi nears Pacific islands with huge wind gusts - BBC
-- NCAA president Charlie Baker reacts to Supreme Court ruling on transgender athletes - Fox News
+- Trump touts ‘best fireworks show, EVER’ after 250th speech, weather delays - The Hill
 - National Mall fireworks reward those who had to sweat out a long wait - The Washington Post
-- Trump touts America’s ‘golden age’ and his political agenda in a July Fourth speech roiled by severe weather - NBC News
-- Newport Beach 4th of July celebration turns chaotic as fights break out, fireworks thrown at officers - ABC7 Los Angeles
-- Despite stormy weather, America marks 250 years of independence, in photos - AP News
-- Michigan Democrat Mallory McMorrow ends US Senate primary campaign - The Guardian
-- At least 25 people die in US as record heatwave scorches swaths of country - The Guardian
-- Their Seaplane Trip From the Hamptons Ends With a Scary 15 Seconds - The New York Times
-- Trump to meet with Ukraine's Zelenskyy and Syria's al-Sharaa during the NATO summit - CNBC
+- Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi - NPR
+- Trump to meet with Ukraine’s Zelenskyy and Syria’s al-Sharaa during the NATO summit - AP News
+- Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
+- White House Criticizes Smithsonian Museum for ‘Extreme Political Activism’ - The New York Times
+- America Marks Its 250th Birthday With Storms, Sweat and Fire - The New York Times
+- Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids - AP News
+- Mallory McMorrow suspends Senate campaign in Michigan - CBS News
+- 25 dead in ongoing heat wave as storms bring flood, wind threats to East Coast - NBC News
 - Netanyahu government defies Israel’s top court over TV regulation - Financial Times
-- Pope visits US ambassador on July 4 after prayers at Lampedusa cemetery for migrant victims - AP News
-- Yemen's Houthis kill 16 government troops; British agency reports attack on cargo ship in Red Sea - CBS News
+- Reform UK’s Farage failed to disclose funds from convicted criminal: Report - Al Jazeera
+- Pope marks July 4 by praying in Lampedusa for migrants who died seeking freedom and prosperity - PBS
+- America’s accountability crisis is coming for Europe too - politico.eu
+- 7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News
 - 'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago - BBC
-- Oil prices hover near pre-conflict levels as OPEC+ boosts output again - Fox Business
-- EasyJet Agrees to Castlelake’s Latest Bid Topping £5 Billion - Bloomberg.com
-- The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs - Bloomberg.com
+- S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+- Fake Microsoft, FTC scams cost victims $670K over three days - USA Today
 - 'iPhone Ultra' Likely to 'Repeat the iPhone X Story' - MacRumors
 - iPhone 18 Pro Release Date: A New September Timeline Emerges - Forbes
