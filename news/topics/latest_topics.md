@@ -1,73 +1,73 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-06 06:51_
+_Updated: 2026-07-06 11:35_
 
 ## Top Stories
 
-- Man i 20-årsåldern död efter skjutning i Uppsala - Omni – Alla nyheter. Alla perspektiv.
-- Ukraina: Dödliga ryska anfall mot Kiev - Hufvudstadsbladet – HBL
-- Centrala Göteborg får ny park – Lilla torget byggs om - Göteborgs-Posten
-- DN Direkt – Brand i vattenkraftverk – ingen skadad - Dagens Nyheter
-- Trump möter Zelenskyj och al- Sharaa i Turkiet - Västerbottens-Kuriren
-- Tyst minut hölls för 32-åriga Christian Zedig - Sveriges Radio
+- Annika Berg stämmer Joakim Lundell: ”Framställs som sadistisk” - Aftonbladet
+- Ryssland kallar upp Sveriges ambassadör - Dagens industri
+- Man död efter skjutning i Uppsala - SVT Nyheter
+- Birgitta Ed fick sitt prästjobb utan öppen rekrytering - Dagens Nyheter
+- Ryssland attackerar bostadshus i Kiev – många döda - Västerbottens-Kuriren
+- Arbetsplatsolycka vid banarbete – en person till sjukhus - Sveriges Radio
+- Öronmärkt föräldraledighet splittrar partierna och papporna - Sveriges Radio
+- Akut behov av blodgivare i Västra Götaland – lagren låga - SVT Nyheter
+- Danske ministern om VM-dådet: ”Djupt berörd” - Göteborgs-Posten
 - Kraftigt åskoväder – 10 000 blixtnedslag - Corren
-- Regeringen föreslår skärpta krav på kommuners och regioners beredskap - oskarshamns-nytt.se
-- Kraftigt regn väntas – gul varning i Västerbotten och Västernorrland - SVT Nyheter
-- Två till sjukhus efter bråk i Malmö - SVT Nyheter
-- Dödsfall och strömavbrott i USA:s extremväder - Göteborgs-Posten
-- DN Direkt – Öar i Stilla havet hotas av tyfon - Dagens Nyheter
-- Skogsbrand hotar Tour de France-etapp - Folkbladet
-- Trump talade efter evakuering av USA-firande - Hufvudstadsbladet – HBL
+- Teheran tar farväl av Khamenei: ”Här för hämnd” - Göteborgs-Posten
+- Dödsfall och strömavbrott i USA:s extremväder - Västerbottens-Kuriren
+- Rädsla för kidnappning pressar Thailands Kina-turism - Sveriges Radio
+- Stora skogsbränder rasar i Europa - Expressen
+- Vartannat hushåll: Nu stiger bostadspriserna - Dagens PS
+- Börsen idag: Stockholm öppnar kring nollan – fastighetsaktier i fokus - Börskollen
 - Här letar veteranen vinnare i rapporterna - EFN
-- Nedåt på Asienbörserna - Aftonbladet
-- Börsen trotsade bomber och blockerat Hormuzsund – detta tror experterna om resten av börsåret - Börskollen
-- Orderingången rusar för Volvo i USA - Omni – Alla nyheter. Alla perspektiv.
-- Intresset för PS5-jailbreak och piratkopiering ökar efter att PlayStation slutat sälja fysiska spel - notebookcheck.se
-- System76 lanserar en ny spelbärbar dator med Panther Lake-processor och en glansig OLED-skärm - notebookcheck.se
+- Asiens börser backar – flera marknader tappar på måndagen - Börskollen
+- Studie från Umeå banar väg för nytt läkemedel mot spridd prostatacancer - Medicinsk Access
+- De tar in 18 nya miljoner till sina klimatsmarta kraftverk – vässar med Annie Lööf - Impact Loop
 
 ## World News
 
-- Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - NATO plans to replace AWACS with Saab GlobalEye jets, sources say - Reuters
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
-- I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
@@ -76,7 +76,6 @@ _Updated: 2026-07-06 06:51_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Citi stärker sin nordiska satsning – utser Fredrik Magnusson till ny chef för Commercial Banking - Finanstid
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -84,11 +83,12 @@ _Updated: 2026-07-06 06:51_
 - Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
