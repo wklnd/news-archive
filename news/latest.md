@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-06 03:23_
+_Updated: 2026-07-06 08:09_
 
-- Trump touts ‘best fireworks show, EVER’ after 250th speech, weather delays - The Hill
-- National Mall fireworks reward those who had to sweat out a long wait - The Washington Post
-- Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi - NPR
-- Trump to meet with Ukraine’s Zelenskyy and Syria’s al-Sharaa during the NATO summit - AP News
-- Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
-- White House Criticizes Smithsonian Museum for ‘Extreme Political Activism’ - The New York Times
+- Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+- Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News
+- Congress should restrict birthright citizenship, House speaker says - USA Today
+- Waymo vehicle catches fire during chaotic San Francisco Fourth of July - San Francisco Chronicle
+- PHOTOS: Fourth of July fireworks from the Mall and around the DC region - WTOP
+- ‘There Is No Going Back’: The Inside Story of Europe’s Rupture With America - WSJ
 - America Marks Its 250th Birthday With Storms, Sweat and Fire - The New York Times
+- Mallory McMorrow drops out of Democratic primary for Michigan Senate seat - The Washington Post
 - Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids - AP News
-- Mallory McMorrow suspends Senate campaign in Michigan - CBS News
-- 25 dead in ongoing heat wave as storms bring flood, wind threats to East Coast - NBC News
-- Netanyahu government defies Israel’s top court over TV regulation - Financial Times
-- Reform UK’s Farage failed to disclose funds from convicted criminal: Report - Al Jazeera
-- Pope marks July 4 by praying in Lampedusa for migrants who died seeking freedom and prosperity - PBS
-- America’s accountability crisis is coming for Europe too - politico.eu
-- 7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News
-- 'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago - BBC
-- S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
-- Fake Microsoft, FTC scams cost victims $670K over three days - USA Today
-- 'iPhone Ultra' Likely to 'Repeat the iPhone X Story' - MacRumors
-- iPhone 18 Pro Release Date: A New September Timeline Emerges - Forbes
+- Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts - BBC
+- Mexico’s World Cup run ends in heartbreaking loss to England - Los Angeles Times
+- What is the religious and political messaging behind Khamenei’s funeral? - Al Jazeera
+- Sara Duterte: why is the Philippines vice-president facing an impeachment trial? - The Guardian
+- NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing - PBS
+- AUDIO: Delta Flight 'felt a big bang' after apparently being hit by firework while landing in Chicago - WPTZ
+- Asian shares slip as earnings loom, oil weighed by supply - Reuters
+- The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns - Yahoo Finance
+- SK Hynix seeks access to AI investors in $29 billion U.S. listing - Fortune
+- AI Helped Port A Native Version Of Command & Conquer: Generals Zero Hour To iPhone & iPad, Complete With Touch Controls And More - Wccftech
+- Samsung names upcoming earbuds and Galaxy Watches ahead of launch - SamMobile
