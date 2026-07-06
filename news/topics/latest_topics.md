@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-06 00:33_
+_Updated: 2026-07-06 06:51_
 
 ## Top Stories
 
-- Haaland sänkte Brasilien – Norge vidare - Dagens Nyheter
-- Uppgifter: Person skjuten i Uppsala - Corren
-- ÖB: När sätter man etiketten tredje världskriget? - Dagens Nyheter
-- Efterträdaren saknas vid Khameneis begravning - Göteborgs-Posten
-- Kreml: Putin och Trump i samtal - Hufvudstadsbladet – HBL
-- Kaos i åskovädret – blixten slog ner - Aftonbladet
-- Afghaner ska fås att återvända – noll har nappat - Göteborgs-Posten
-- Snus och tobak för över en halv miljon stals i Sisjön - Sveriges Radio
-- DN Direkt – Tyst minut i dansk tv för dödade svenske polisen - Dagens Nyheter
+- Man i 20-årsåldern död efter skjutning i Uppsala - Omni – Alla nyheter. Alla perspektiv.
+- Ukraina: Dödliga ryska anfall mot Kiev - Hufvudstadsbladet – HBL
+- Centrala Göteborg får ny park – Lilla torget byggs om - Göteborgs-Posten
+- DN Direkt – Brand i vattenkraftverk – ingen skadad - Dagens Nyheter
+- Trump möter Zelenskyj och al- Sharaa i Turkiet - Västerbottens-Kuriren
+- Tyst minut hölls för 32-åriga Christian Zedig - Sveriges Radio
+- Kraftigt åskoväder – 10 000 blixtnedslag - Corren
+- Regeringen föreslår skärpta krav på kommuners och regioners beredskap - oskarshamns-nytt.se
 - Kraftigt regn väntas – gul varning i Västerbotten och Västernorrland - SVT Nyheter
-- DN Direkt – Smyckeskupp till ett värde av 44 miljoner kronor - Dagens Nyheter
-- Östromersk stad framgrävd i Egypten - Göteborgs-Posten
-- Nathan Shachar: Netanyahu kör över Högsta domstolen i historiskt beslut - Dagens Nyheter
-- Tour de France-etapp kan ställas in – skogsbrand härjar - Sveriges Radio
-- Positiv syn på börsen hittills i år - Dagens Nyheter
-- Glödhet börs - 13 nya bolag slog kursrekord - EFN
-- Blygsam höjning av oljeproduktionen - Aftonbladet
-- Easyjet redo att bli uppköpt - Västerbottens-Kuriren
-- 20 år gammal Audi gör 356 km/h: ”Ett odjur till bil” - Carup.se
-- Iphone 18 Pro får två olika modem - mobil.se
+- Två till sjukhus efter bråk i Malmö - SVT Nyheter
+- Dödsfall och strömavbrott i USA:s extremväder - Göteborgs-Posten
+- DN Direkt – Öar i Stilla havet hotas av tyfon - Dagens Nyheter
+- Skogsbrand hotar Tour de France-etapp - Folkbladet
+- Trump talade efter evakuering av USA-firande - Hufvudstadsbladet – HBL
+- Här letar veteranen vinnare i rapporterna - EFN
+- Nedåt på Asienbörserna - Aftonbladet
+- Börsen trotsade bomber och blockerat Hormuzsund – detta tror experterna om resten av börsåret - Börskollen
+- Orderingången rusar för Volvo i USA - Omni – Alla nyheter. Alla perspektiv.
+- Intresset för PS5-jailbreak och piratkopiering ökar efter att PlayStation slutat sälja fysiska spel - notebookcheck.se
+- System76 lanserar en ny spelbärbar dator med Panther Lake-processor och en glansig OLED-skärm - notebookcheck.se
 
 ## World News
 
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - Saabs Global Eye kan bli Natostandard – beslut väntas nästa vecka - SVT Nyheter
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
-- Mavin och World Vision International i Vietnam – 9 års partnerskap som sår frön av hopp för människor i bergsregionen Thanh Hoa. - Vietnam.vn
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -47,6 +46,7 @@ _Updated: 2026-07-06 00:33_
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Saabs övervakningsflygplan kan bli Natostandard - Svenska Dagbladet
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
@@ -55,7 +55,6 @@ _Updated: 2026-07-06 00:33_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
@@ -65,6 +64,7 @@ _Updated: 2026-07-06 00:33_
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Mistral AI and EcoDataCenter Partner to Build AI-focused Data Center in Sweden - Mynewsdesk
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -154,9 +154,9 @@ _Updated: 2026-07-06 00:33_
 - Här är världens största jordbruk - ATL
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Visning av uppkomst efter direktsådd - Land.se
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
