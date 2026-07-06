@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-06 21:16_
+_Updated: 2026-07-06 23:10_
 
 ## Top Stories
 
-- Eksjöpolisen Christian misshandlad till döds: ”Det är fruktansvärt” - Tranås Tidning
-- Vittnesmål från Kiev: Döda kroppar vid entrén - Göteborgs-Posten
-- Sverige skickar flyg till bränder i Frankrike - Västerbottens-Kuriren
-- Inför Trumps ankomst: Rutte smickrar och säljer - Hufvudstadsbladet – HBL
+- Zelenskyj: Kriget kommer att avgöras i luften - Västerbottens-Kuriren
+- Direkt – Kriget i Ukraina – Ukrainskt anfall mot raffinaderi i Sibirien - Dagens Nyheter
 - Ryssland kallar upp den svenska ambassadören efter färgattacker - Dagens Nyheter
-- Vänsterpartiets rop i pridetåget: ”Hela Malmö hatar poliser” - SVT Nyheter
-- Svensk polis i global insats mot människohandel - SVT Nyheter
-- Arne Larsson Därför är Birgitta Ed ett problem för Moderaterna - Göteborgs-Posten
+- EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
 - Varning för åska och skyfall: ”Sök skydd” - Nya Wermlands-Tidningen
-- Gotlands almar ställs inför ännu ett hot - Natursidan
+- Snart faller domen: ”Kan bli slutet på Marine Le Pens politiska karriär” - SVT Nyheter
+- Efter V:s slagord om polisen: L begär debatt - Västerbottens-Kuriren
+- Arne Larsson Därför är Birgitta Ed ett problem för Moderaterna - Göteborgs-Posten
+- Svensk polis i global insats mot människohandel - SVT Nyheter
+- Minderårig pojke anhållen efter dödsskjutning - Corren
 - Teheran tog farväl av Khamenei: ”Här för hämnd” - Göteborgs-Posten
-- Hamas regering i Gaza avgår – men ministrarna sitter kvar - Dagens Nyheter
+- Bo Torbjörn Ek: Viktigaste Natomötet någonsin – enligt USA - Dagens Nyheter
+- Hamas: Upplöser Gazas styre - Hufvudstadsbladet – HBL
 - Dödsvåld och takkollaps på fängelse i Sri Lanka - Västerbottens-Kuriren
-- Trumps nya hån mot Meloni: ”Besöksförbud behövs” - Dagens Nyheter
 - Wallenstam stångas mot rabatten: "Det är märkligt" - Affärsvärlden
-- Färre bostäder i andra hand – konkurrensen ökar - Dagens Nyheter
-- Fortsatt fest och firande på Wall Street - Göteborgs-Posten
-- Budstrid om försvarsbolag – jätten tar ledningen - Börskollen
+- Jonas Fröberg: ”Ett enda räddat liv är värt många varningspip” - Dagens Nyheter
+- Filip Tysander säljer allt i Daniel Wellington: "Har varit en otrolig resa" - Breakit
+- Fortsatt firande – och rekord – på Wall Street - Västerbottens-Kuriren
 - Spel gjort på två månader har sålt över 15 miljoner exemplar - MovieZine
-- Hideo Kojima säger att Sonys beslut att slopa fysiska spel är "skrämmande" – varnar för att du "inte kommer att äga datan" - TechRadar
+- Flera Iphone‑modeller blir utan nya Siri AI - mobil.se
 
 ## World News
 
 - SVT erfar: Nato köper spaningsplanet Global Eye från Saab - SVT Nyheter
+- Svensk polis i global insats mot människohandel - Aftonbladet
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
@@ -35,17 +36,16 @@ _Updated: 2026-07-06 21:16_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Svensk polis i global insats mot människohandel - Aftonbladet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
+- Uppgifter: Nato köper Global Eye från Saab - DI
+- Källor: Nato köper Global Eye från Saab - Affärsvärlden
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Global turism slog nytt rekord under 2025 - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 
 ## Technology
@@ -53,22 +53,22 @@ _Updated: 2026-07-06 21:16_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Here are the Swedish AI companies everyone is talking about - DI
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
@@ -79,20 +79,20 @@ _Updated: 2026-07-06 21:16_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
 
 ## Health
 
@@ -108,7 +108,7 @@ _Updated: 2026-07-06 21:16_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
@@ -135,10 +135,10 @@ _Updated: 2026-07-06 21:16_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- KAW donerar 3.7 miljarder till life science-forskning - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Data Science och AI - Chalmers tekniska högskola
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
