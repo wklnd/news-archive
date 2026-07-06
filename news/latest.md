@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-06 13:15_
+_Updated: 2026-07-06 16:44_
 
 - Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News
-- Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
-- Russian missile and drone attack on Ukraine’s capital kills at least 11 - AP News
-- Trump to meet leaders of Ukraine, Syria alongside NATO summit - Reuters
-- Congress should restrict birthright citizenship, House speaker says - USA Today
-- Waymo cars stranded on San Francisco streets as Fourth of July gridlock drains batteries - NBC News
-- Accused Charlie Kirk assassin Tyler Robinson fights back as prosecutors' sprawling case comes into focus - Fox News
-- Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids - AP News
-- McMorrow suspends Michigan Senate bid in shock move - Axios
-- Yosemite Offers Many Wonders. Crushing Crowds Are Now One of Them. - The New York Times
-- China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors - The New York Times
 - Erdogan-Trump Friendship Can Help NATO, Turkey’s Foreign Minister Says - The New York Times
-- UK Reform's Nigel Farage faces fresh misconduct allegations - DW.com
-- Philippine Senate opens the politically volatile impeachment trial of Vice President Sara Duterte - AP News
-- Sky To Takeover ITV In $2.1B Deal That Reshapes British Television - Deadline
-- OPEC+ countries say they will expand monthly oil production - Al Jazeera
-- Record heat, crowds drive offseason boom in international travel - CNBC
-- SK Hynix launches $28 billion US listing, draws $7 billion in investor interest - Reuters
-- Samsung's Galaxy Z Fold 8 Ultra reportedly revives the S Pen, but there's a catch - PhoneArena
-- Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku
+- Facing Threats, NATO Finds New Value in Turkey - The New York Times
+- Zelenskyy demands Western support after Russian strikes kill 12 in Kyiv - politico.eu
+- Accused Charlie Kirk assassin Tyler Robinson fights back as prosecutors' sprawling case comes into focus - Fox News
+- Young Castro wants Trump to deal: his exclusive first US interview - USA Today
+- 2 National Guard members on patrol in Memphis fatally shoot man during pursuit, police say - CBS News
+- Shootings in Nine States Mar Fourth of July Celebrations - The New York Times
+- Democrats are ‘looking for guidance’ on Israel. Hakeem Jeffries isn’t giving any at the moment. - Politico
+- McMorrow suspends Michigan Senate bid in shock move - Axios
+- China conducts rare submarine-launched ballistic missile test, angering Pacific neighbors - CNN
+- EXCLUSIVE: France softens stance on Turkey SAMP/T air defence sale, sources say - Reuters
+- Buckingham Palace says Prince Harry not staying there on U.K. visit, contradicting his spokesperson - CBS News
+- Ukraine Rewrote Air Defense Tactics. Against Russia, It’s Still Not Enough. - The New York Times
+- Trump rings NYSE, Nasdaq opening bells from White House to celebrate launch of Trump Accounts - Fox Business
+- Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios - CNBC
+- Chris Christie Compares Trump’s $1.4 Billion Crypto Haul to Putin-Style Corruption - Yahoo
+- South Korea's SK Hynix launches $28 billion US listing to ride global AI wave - Reuters
+- Sony clarifies re-order support for existing PlayStation discs - GamesIndustry.biz
+- iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings - MacRumors
