@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-06 23:10_
+_Updated: 2026-07-07 00:45_
 
 ## Top Stories
 
 - Zelenskyj: Kriget kommer att avgöras i luften - Västerbottens-Kuriren
 - Direkt – Kriget i Ukraina – Ukrainskt anfall mot raffinaderi i Sibirien - Dagens Nyheter
-- Ryssland kallar upp den svenska ambassadören efter färgattacker - Dagens Nyheter
+- Trumps nya hån mot Meloni: ”Besöksförbud behövs” - Dagens Nyheter
 - EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
-- Varning för åska och skyfall: ”Sök skydd” - Nya Wermlands-Tidningen
-- Snart faller domen: ”Kan bli slutet på Marine Le Pens politiska karriär” - SVT Nyheter
+- Ryssland kallar upp den svenska ambassadören efter färgattacker - Dagens Nyheter
+- Skogsbränder härjar i turistparadisen – tusentals evakueras - Göteborgs-Posten
 - Efter V:s slagord om polisen: L begär debatt - Västerbottens-Kuriren
 - Arne Larsson Därför är Birgitta Ed ett problem för Moderaterna - Göteborgs-Posten
-- Svensk polis i global insats mot människohandel - SVT Nyheter
-- Minderårig pojke anhållen efter dödsskjutning - Corren
+- Partierna oense om kvotering i föräldraförsäkringen - Sveriges Radio
+- DN Direkt – Svensk polis i global insats mot människohandel - Dagens Nyheter
 - Teheran tog farväl av Khamenei: ”Här för hämnd” - Göteborgs-Posten
-- Bo Torbjörn Ek: Viktigaste Natomötet någonsin – enligt USA - Dagens Nyheter
-- Hamas: Upplöser Gazas styre - Hufvudstadsbladet – HBL
-- Dödsvåld och takkollaps på fängelse i Sri Lanka - Västerbottens-Kuriren
-- Wallenstam stångas mot rabatten: "Det är märkligt" - Affärsvärlden
+- Laglös sjöelefant fascinerar – myndigheter oroas - Västerbottens-Kuriren
+- Dödsvåld och takkollaps på fängelse i Sri Lanka - Göteborgs-Posten
+- Hamas regering i Gaza avgår – men ministrarna sitter kvar - Dagens Nyheter
+- Svenska klockkungen säljer sina sista aktier - Expressen
 - Jonas Fröberg: ”Ett enda räddat liv är värt många varningspip” - Dagens Nyheter
-- Filip Tysander säljer allt i Daniel Wellington: "Har varit en otrolig resa" - Breakit
-- Fortsatt firande – och rekord – på Wall Street - Västerbottens-Kuriren
+- Stockholmsbörsen föll – Saab lyfte på Nato-uppgifter - Affärsvärlden
+- Grön stängning på Wall Street – AI-bolagen rekylerar - Privata Affärer
 - Spel gjort på två månader har sålt över 15 miljoner exemplar - MovieZine
 - Flera Iphone‑modeller blir utan nya Siri AI - mobil.se
 
 ## World News
 
 - SVT erfar: Nato köper spaningsplanet Global Eye från Saab - SVT Nyheter
-- Svensk polis i global insats mot människohandel - Aftonbladet
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
@@ -36,13 +35,14 @@ _Updated: 2026-07-06 23:10_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Svensk polis i global insats mot människohandel - Aftonbladet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Uppgifter: Nato köper Global Eye från Saab - DI
 - Källor: Nato köper Global Eye från Saab - Affärsvärlden
+- Uppgifter: Nato köper Global Eye från Saab - DI
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
@@ -51,24 +51,24 @@ _Updated: 2026-07-06 23:10_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - DI
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Here are the Swedish AI companies everyone is talking about - DI
+- The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
+- AI Sweden gathering forces to lead the development of edge learning - Via TT
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
