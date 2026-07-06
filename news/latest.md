@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-06 08:09_
+_Updated: 2026-07-06 13:15_
 
+- Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei - AP News
 - Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
-- Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News
+- Russian missile and drone attack on Ukraine’s capital kills at least 11 - AP News
+- Trump to meet leaders of Ukraine, Syria alongside NATO summit - Reuters
 - Congress should restrict birthright citizenship, House speaker says - USA Today
-- Waymo vehicle catches fire during chaotic San Francisco Fourth of July - San Francisco Chronicle
-- PHOTOS: Fourth of July fireworks from the Mall and around the DC region - WTOP
-- ‘There Is No Going Back’: The Inside Story of Europe’s Rupture With America - WSJ
-- America Marks Its 250th Birthday With Storms, Sweat and Fire - The New York Times
-- Mallory McMorrow drops out of Democratic primary for Michigan Senate seat - The Washington Post
+- Waymo cars stranded on San Francisco streets as Fourth of July gridlock drains batteries - NBC News
+- Accused Charlie Kirk assassin Tyler Robinson fights back as prosecutors' sprawling case comes into focus - Fox News
 - Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids - AP News
-- Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts - BBC
-- Mexico’s World Cup run ends in heartbreaking loss to England - Los Angeles Times
-- What is the religious and political messaging behind Khamenei’s funeral? - Al Jazeera
-- Sara Duterte: why is the Philippines vice-president facing an impeachment trial? - The Guardian
-- NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing - PBS
-- AUDIO: Delta Flight 'felt a big bang' after apparently being hit by firework while landing in Chicago - WPTZ
-- Asian shares slip as earnings loom, oil weighed by supply - Reuters
-- The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns - Yahoo Finance
-- SK Hynix seeks access to AI investors in $29 billion U.S. listing - Fortune
-- AI Helped Port A Native Version Of Command & Conquer: Generals Zero Hour To iPhone & iPad, Complete With Touch Controls And More - Wccftech
-- Samsung names upcoming earbuds and Galaxy Watches ahead of launch - SamMobile
+- McMorrow suspends Michigan Senate bid in shock move - Axios
+- Yosemite Offers Many Wonders. Crushing Crowds Are Now One of Them. - The New York Times
+- China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors - The New York Times
+- Erdogan-Trump Friendship Can Help NATO, Turkey’s Foreign Minister Says - The New York Times
+- UK Reform's Nigel Farage faces fresh misconduct allegations - DW.com
+- Philippine Senate opens the politically volatile impeachment trial of Vice President Sara Duterte - AP News
+- Sky To Takeover ITV In $2.1B Deal That Reshapes British Television - Deadline
+- OPEC+ countries say they will expand monthly oil production - Al Jazeera
+- Record heat, crowds drive offseason boom in international travel - CNBC
+- SK Hynix launches $28 billion US listing, draws $7 billion in investor interest - Reuters
+- Samsung's Galaxy Z Fold 8 Ultra reportedly revives the S Pen, but there's a catch - PhoneArena
+- Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku
