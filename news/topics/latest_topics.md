@@ -1,56 +1,55 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 07:40_
+_Updated: 2026-07-07 14:42_
 
 ## Top Stories
 
-- Två gripna efter misstänkt grovt vapenbrott i Borås - Omni – Alla nyheter. Alla perspektiv.
-- Zelenskyj kräver skydd mot ”ballistisk terror” - Hufvudstadsbladet – HBL
-- Skogsbränder härjar i turistparadisen – tusentals evakueras - Göteborgs-Posten
-- Kommunens hyror chockar: ”Eleverna kan drabbas” - Göteborgs-Posten
-- Nu får 210 000 utlandssvenskar sina röstkort - Dagens Nyheter
-- Ryssland: Över 400 drönare mot Moskvaregionen - Hufvudstadsbladet – HBL
-- EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
-- Varning för höga halter gräspollen - UNT
-- "Min sommar med Glenn": Glenn och bockarna Bruse - Skillingaryd
-- Varning för åska och skyfall: ”Sök skydd” - Nya Wermlands-Tidningen
-- Nu avgörs det: Kan Le Pen bli presidentkandidat? - Västerbottens-Kuriren
-- Direkt – Krisen i Mellanöstern – Källor: Iransk robotattack vid Hormuzsundet - Dagens Nyheter
-- Sri Lanka förbjuder skräpmat i skolor för barns hälsa - Sveriges Radio
-- Senaste nytt om Nato-toppmötet i Ankara - SVT Nyheter
-- Matpriserna föll i juni – men köttet blev dyrare - Omni – Alla nyheter. Alla perspektiv.
-- AI-frossa och geopolitisk oro på börsen - Aftonbladet
-- Börsen surnar till – Saab och AB Volvo i toppen - EFN
-- Grön stängning på Wall Street – AI-bolagen rekylerar - Privata Affärer
-- Detaljer om lanseringen av ”Assassin’s Creed Black Flag Resynced” har avslöjats - notebookcheck.se
+- Domen som avgör Le Pens politiska framtid - Dagens Nyheter
+- Räddningstjänsten: Så kan du förbereda dig på skyfall - Sveriges Radio
+- Var på festresa på Cypern – nu misstänkta för grov misshandel - SVT Nyheter
+- Sommarvärmen kommer tillbaka – 25 grader väntar - Omni – Alla nyheter. Alla perspektiv.
+- Explosioner nära Macrons hotell i Damaskus - Hufvudstadsbladet – HBL
+- Svensk gängmedlem gripen i Spanien - polisen.se
+- Nato väljer Saabs Globaleye – varnar för robotar - Skånska Dagbladet
+- Fältprosten: Svenska soldater ska inte bli ”krigarrobotar” - Dagens Nyheter
+- Akut behov av blodgivare i Västra Götaland – lagren låga - SVT Nyheter
+- Regeringen: Dåliga kundtjänster ska bötfällas - Västerbottens-Kuriren
+- USA:s press präglar Natomöte – Rutte ger nya försvarslöften - Dagens Nyheter
+- Trump: Putin känner pressen - Expressen
+- Ny värmebölja i Frankrike - Västerbottens-Kuriren
+- Erik Magnusson Trump slår mot Irans tullar på samma sätt som USA fick bort Öresundstullen 1857 - Sydsvenskan
+- Samsung Electronics: Preliminära siffror något svagare än väntat; vi förväntar oss att prisökningarna på minnesmoduler kommer att avta - Morningstar
+- Matpriserna fortsatte falla – stormarknader ledde racet - Dagligvarunytt
+- Starkt IPO-halvår globalt – rekordkapital driver marknaden - Cision News
+- AI-frossa på börsen – kraftigt lyft för Saab - Västerbottens-Kuriren
 - Nintendo slutar sälja Nintendo Switch år 2027 - MovieZine
+- Nothings nya hörlurar Ear 3a erbjuder samtalsinspelning - Swedroid
 
 ## World News
 
-- SVT erfar: Nato köper spaningsplanet Global Eye från Saab - SVT Nyheter
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Nato köper plan av Saab - Aftonbladet
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
+- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Svensk polis i global insats mot människohandel - Aftonbladet
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
-- Källor: Nato köper Global Eye från Saab - Affärsvärlden
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Svensk polis i global insats mot människohandel - Aftonbladet
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -69,30 +68,31 @@ _Updated: 2026-07-07 07:40_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -122,10 +122,10 @@ _Updated: 2026-07-07 07:40_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
-- Sherry Nakhaeizadeh - Uppsala universitet
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
@@ -133,12 +133,12 @@ _Updated: 2026-07-07 07:40_
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
