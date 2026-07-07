@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 18:01_
+_Updated: 2026-07-07 20:29_
 
 ## Top Stories
 
-- Erik de la Reguera: Trots domen – Le Pen har ödet i egen hand - Dagens Nyheter
-- USA:s press präglar Natomöte – Rutte ger nya försvarslöften - Dagens Nyheter
-- DN Direkt – Starmer om Farage avhopp: Desperat trick - Dagens Nyheter
-- DIREKT: Här drar åskan in - Nerikes Allehanda
-- Efterlyst för Monacobomb dödad av ukrainsk agent - Västerbottens-Kuriren
-- Trump kräver Grönland – igen - Västerbottens-Kuriren
+- JUST NU: Argentina pressade efter Messis straffmiss - SvenskaFans.com
+- DN Direkt – Starmer om Farages avhopp: Desperat trick - Dagens Nyheter
+- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
+- Tuffare sommar för barnmorskorna - Göteborgs-Posten
 - Var på festresa på Cypern – nu misstänkta för grov misshandel - SVT Nyheter
+- Fängelse för Le Pen – antas inte kandidera - Hufvudstadsbladet – HBL
+- 50-åring hittad död i Malmö – brott utreds - Sveriges Radio
+- Sorgen efter Christian Zedig: ”Har bara hört fina ord” - Dagens Nyheter
 - Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet
-- EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
-- Brand i flerfamiljshus i Bagarmossen – boende evakueras - Sveriges Radio
-- Uppgifter: Hamas upplöser styret i Gaza - Göteborgs-Posten
-- Erik Magnusson Trump slår mot Irans tullar på samma sätt som USA fick bort Öresundstullen 1857 - Sydsvenskan
-- Explosioner nära Macrons hotell i Damaskus - Hufvudstadsbladet – HBL
-- Samsung Electronics: Preliminära siffror något svagare än väntat; vi förväntar oss att prisökningarna på minnesmoduler kommer att avta - Morningstar
-- Paradoxen: Samsungs vinstlyft sänker chipbolagen inför Wall Streets öppning - Börskollen
-- Ellos börsnotering: Nobbade 76,50 kronor – noteras till 60 istället - Dagens PS
+- Brist på blod i Sverige – operationer kan behöva ställas in - News55
+- DN Direkt – USA:s linje: kvar i Nato och starkt Ukrainastöd - Dagens Nyheter
+- Efterlyst för Monacobomb dödad av ukrainsk agent - Västerbottens-Kuriren
+- Kokhett i södra Europa: Fortsatta varningar och skogsbränder - Expressen
+- Stora ryska raffinaderiet står still efter attack - Omni – Alla nyheter. Alla perspektiv.
 - Valunos ordförande: Flera års bokföring kan vara fel - Affärsvärlden
+- Sänkning av bolåneräntorna i juni - Affärsvärlden
+- Börsen i sidled – Saab lyfter - Folkbladet
+- DN Direkt – Företagsledaren Björn Svedberg är död - Dagens Nyheter
 - En ny Switch 2 med utbytbart batteri kommer snart – Nintendo meddelar samtidigt att den ursprungliga Switch-modellen slutar säljas i Europa - TechRadar
-- Nothing visar upp billigare hörlurar med aktiv brusreducering — Ear (3a) - m3.se
-- Nothing lanserar Phone 4B – billig mobil med företagets största batteri - m3.se
+- Detaljer om lanseringen av ”Assassin’s Creed Black Flag Resynced” har avslöjats - notebookcheck.se
 
 ## World News
 
+- Finland vill köpa eget Global Eye-plan - DI
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
-- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
-- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
-- Lewis Capaldi announces global livestream from BST Hyde Park show - NME
+- Uppgifter: Nato köper Global Eye från Saab - DI
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Lewis Capaldi announces global livestream from BST Hyde Park show - NME
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
-- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Bytet till Global Eye ”en näsbränna för USA” - DI
 
 ## Technology
 
@@ -57,7 +57,7 @@ _Updated: 2026-07-07 18:01_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Here are the Swedish AI companies everyone is talking about - DI
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
@@ -77,11 +77,11 @@ _Updated: 2026-07-07 18:01_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
@@ -96,37 +96,37 @@ _Updated: 2026-07-07 18:01_
 
 ## Health
 
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
@@ -138,7 +138,7 @@ _Updated: 2026-07-07 18:01_
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Data Science och AI - Chalmers tekniska högskola
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
