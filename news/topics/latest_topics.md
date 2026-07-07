@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 14:42_
+_Updated: 2026-07-07 18:01_
 
 ## Top Stories
 
-- Domen som avgör Le Pens politiska framtid - Dagens Nyheter
-- Räddningstjänsten: Så kan du förbereda dig på skyfall - Sveriges Radio
-- Var på festresa på Cypern – nu misstänkta för grov misshandel - SVT Nyheter
-- Sommarvärmen kommer tillbaka – 25 grader väntar - Omni – Alla nyheter. Alla perspektiv.
-- Explosioner nära Macrons hotell i Damaskus - Hufvudstadsbladet – HBL
-- Svensk gängmedlem gripen i Spanien - polisen.se
-- Nato väljer Saabs Globaleye – varnar för robotar - Skånska Dagbladet
-- Fältprosten: Svenska soldater ska inte bli ”krigarrobotar” - Dagens Nyheter
-- Akut behov av blodgivare i Västra Götaland – lagren låga - SVT Nyheter
-- Regeringen: Dåliga kundtjänster ska bötfällas - Västerbottens-Kuriren
+- Erik de la Reguera: Trots domen – Le Pen har ödet i egen hand - Dagens Nyheter
 - USA:s press präglar Natomöte – Rutte ger nya försvarslöften - Dagens Nyheter
-- Trump: Putin känner pressen - Expressen
-- Ny värmebölja i Frankrike - Västerbottens-Kuriren
+- DN Direkt – Starmer om Farage avhopp: Desperat trick - Dagens Nyheter
+- DIREKT: Här drar åskan in - Nerikes Allehanda
+- Efterlyst för Monacobomb dödad av ukrainsk agent - Västerbottens-Kuriren
+- Trump kräver Grönland – igen - Västerbottens-Kuriren
+- Var på festresa på Cypern – nu misstänkta för grov misshandel - SVT Nyheter
+- Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet
+- EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
+- Brand i flerfamiljshus i Bagarmossen – boende evakueras - Sveriges Radio
+- Uppgifter: Hamas upplöser styret i Gaza - Göteborgs-Posten
 - Erik Magnusson Trump slår mot Irans tullar på samma sätt som USA fick bort Öresundstullen 1857 - Sydsvenskan
+- Explosioner nära Macrons hotell i Damaskus - Hufvudstadsbladet – HBL
 - Samsung Electronics: Preliminära siffror något svagare än väntat; vi förväntar oss att prisökningarna på minnesmoduler kommer att avta - Morningstar
-- Matpriserna fortsatte falla – stormarknader ledde racet - Dagligvarunytt
-- Starkt IPO-halvår globalt – rekordkapital driver marknaden - Cision News
-- AI-frossa på börsen – kraftigt lyft för Saab - Västerbottens-Kuriren
-- Nintendo slutar sälja Nintendo Switch år 2027 - MovieZine
-- Nothings nya hörlurar Ear 3a erbjuder samtalsinspelning - Swedroid
+- Paradoxen: Samsungs vinstlyft sänker chipbolagen inför Wall Streets öppning - Börskollen
+- Ellos börsnotering: Nobbade 76,50 kronor – noteras till 60 istället - Dagens PS
+- Valunos ordförande: Flera års bokföring kan vara fel - Affärsvärlden
+- En ny Switch 2 med utbytbart batteri kommer snart – Nintendo meddelar samtidigt att den ursprungliga Switch-modellen slutar säljas i Europa - TechRadar
+- Nothing visar upp billigare hörlurar med aktiv brusreducering — Ear (3a) - m3.se
+- Nothing lanserar Phone 4B – billig mobil med företagets största batteri - m3.se
 
 ## World News
 
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
-- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
+- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
-- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Global turism slog nytt rekord under 2025 - travelnews-se
 - Svensk polis i global insats mot människohandel - Aftonbladet
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -82,8 +82,8 @@ _Updated: 2026-07-07 14:42_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
@@ -96,26 +96,26 @@ _Updated: 2026-07-07 14:42_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
