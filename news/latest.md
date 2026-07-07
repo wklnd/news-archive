@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-07 18:11_
+_Updated: 2026-07-07 20:35_
 
-- Live Updates: Midtown Manhattan Building Evacuated as Officials Warn of Collapse - The New York Times
-- Trump lauds Erdogan and announces he'll lift Turkey sanctions as NATO summit begins in Ankara - CBS News
-- French court clears way for Marine Le Pen to run for president but orders her to wear electronic tag - BBC
-- Democrats begin pulling Platner endorsements after Maine candidate faces sexual assault allegation - AP News
-- Trump ally and hard-right leader Nigel Farage triggers vote, in bid to clear name amid financial scandals - NBC News
-- Iran resumes attacks in Strait of Hormuz after lull, U.S. officials say - Axios
+- NYC buildings evacuated after construction workers find buckling beams in Midtown East; officials warn of possible collapse - ABC7 New York
+- Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation - BBC
+- French Appeals Court Allows Le Pen to Run in Next Year’s Presidential Race - WSJ
+- Trump signals openness to selling Turkey F-35 fighter jets - Axios
 - ‘Hell no’: Defense attorney believes Tyler Robinson won’t go to trial - The Hill
-- Evidence found behind Cracker Barrel in Georgia helps solve 1985 cold case murder in Ohio - CBS News
+- Reform UK’s Farage says he’ll quit as lawmaker and seek reelection amid donation allegations - AP News
+- Rare great white shark caught feasting on camera for first time in New England state’s waters - New York Post
 - Details scarce as Mitch McConnell ‘continues recovery’ in hospital - The Guardian
-- Justices Kagan and Barrett on tap to testify on Capitol Hill next week - Politico
-- Ukrainian drones hit Russia’s largest oil refinery as Zelenskyy says Siberia now ‘within reach’ - CNBC
-- Prince Harry loses High Court case against Mail publisher - BBC
-- Bomb attack rocks Damascus during Macron visit - Reuters
+- New York man sues ICE for sending officers to his house after he emailed agency head - The Guardian
+- 'Operation Hard Ball': El Monte raids tie Indian crime syndicates to Canada assassination - FOX 11 Los Angeles
+- Three tankers hit in latest attacks in the Strait of Hormuz, British military says - AP News
+- Russia's largest oil refinery halts processing after drone attack, sources say - Reuters
 - ‘Please help us’: Zelenskyy presses NATO for air defense aid - politico.eu
-- Xbox Layoffs Announced: 1600 Now, 1600 More into 2028, Four Studios Leave and id Software Reportedly Gutted - Digital Foundry
-- Nasdaq futures fall after record Samsung profit fails to calm AI chip worries - Yahoo Finance
-- Rivian stock falls 10% as company sells 75 million shares to raise capital - CNBC
+- Live Updates: Trump Renews Criticism of Allies Before NATO Summit in Turkey - The New York Times
+- 500,000 children receive first $1,000 ‘Trump Account’ deposits - Honolulu Star-Advertiser
+- Stock market today: Nasdaq leads Dow, S&P 500 lower after Samsung, DeepSeek spark chip sell-off - Yahoo Finance
+- Stellantis to sell small Fiat Topolino EV for $13,995 in U.S. - CNBC
 - Louis Vuitton court victory against Chinese tea chain stirs up a debate over copyrights - ABC News - Breaking News, Latest News and Videos
-- Siri AI can pull info from third-party apps in the latest developer beta - 9to5Mac
-- Google Pixel 11 leak claims higher prices, no 128GB model, August release date - 9to5Google
+- Google announces Pixel 11 launch event in August - The Verge
+- iPhone 18 Pro Could Be Noticeably Thicker Than iPhone 17 Pro - MacRumors
