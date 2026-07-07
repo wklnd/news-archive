@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 20:29_
+_Updated: 2026-07-07 22:25_
 
 ## Top Stories
 
-- JUST NU: Argentina pressade efter Messis straffmiss - SvenskaFans.com
-- DN Direkt – Starmer om Farages avhopp: Desperat trick - Dagens Nyheter
-- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
-- Tuffare sommar för barnmorskorna - Göteborgs-Posten
-- Var på festresa på Cypern – nu misstänkta för grov misshandel - SVT Nyheter
-- Fängelse för Le Pen – antas inte kandidera - Hufvudstadsbladet – HBL
-- 50-åring hittad död i Malmö – brott utreds - Sveriges Radio
+- Johanna Frändén: Tack Messi, för att vi får vara med - Dagens Nyheter
+- ”Storskalig fullträff”- flera ryska fartyg eliminerade - Marcus Oscarsson
+- Håkan Boström: Även liberala demokratier måste skaffa sig muskler - Göteborgs-Posten
+- Marine Le Pen: Jag ställer upp i presidentvalet - Hufvudstadsbladet – HBL
+- Svenska brandflyg på plats i Frankrike - Sveriges Radio
+- SMHI varnar för skyfall under tisdagseftermiddagen – tåg ställs in - Svenska Dagbladet
 - Sorgen efter Christian Zedig: ”Har bara hört fina ord” - Dagens Nyheter
+- 50-åring hittad död i Malmö – brott utreds - Sveriges Radio
+- Olycka på camping – explosion i tält - Expressen
 - Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet
-- Brist på blod i Sverige – operationer kan behöva ställas in - News55
-- DN Direkt – USA:s linje: kvar i Nato och starkt Ukrainastöd - Dagens Nyheter
 - Efterlyst för Monacobomb dödad av ukrainsk agent - Västerbottens-Kuriren
-- Kokhett i södra Europa: Fortsatta varningar och skogsbränder - Expressen
-- Stora ryska raffinaderiet står still efter attack - Omni – Alla nyheter. Alla perspektiv.
-- Valunos ordförande: Flera års bokföring kan vara fel - Affärsvärlden
-- Sänkning av bolåneräntorna i juni - Affärsvärlden
+- Expert: Licens för Patriot löser inte Ukrainas akuta problem - Dagens Nyheter
+- Nigel Farage avgår som parlamentsledamot - Göteborgs-Posten
+- Man hittad död efter lägenhetsbrand i Bagarmossen - SVT Nyheter
+- Regeringen vill se sänkt moms på vissa basvaror - Svenska Dagbladet
+- DN Direkt – Wall Street föll på AI-oro och stigande oljepriser - Dagens Nyheter
 - Börsen i sidled – Saab lyfter - Folkbladet
-- DN Direkt – Företagsledaren Björn Svedberg är död - Dagens Nyheter
+- Sänkning av bolåneräntorna i juni - Affärsvärlden
 - En ny Switch 2 med utbytbart batteri kommer snart – Nintendo meddelar samtidigt att den ursprungliga Switch-modellen slutar säljas i Europa - TechRadar
 - Detaljer om lanseringen av ”Assassin’s Creed Black Flag Resynced” har avslöjats - notebookcheck.se
 
@@ -30,23 +30,23 @@ _Updated: 2026-07-07 20:29_
 - Finland vill köpa eget Global Eye-plan - DI
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
-- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
-- Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
+- Klart: Nato köper Saabs Global Eye - Affärsvärlden
+- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
+- Bytet till Global Eye ”en näsbränna för USA” - DI
 - Uppgifter: Nato köper Global Eye från Saab - DI
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
-- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Bytet till Global Eye ”en näsbränna för USA” - DI
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
@@ -96,49 +96,49 @@ _Updated: 2026-07-07 20:29_
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
