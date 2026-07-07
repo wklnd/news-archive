@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 00:45_
+_Updated: 2026-07-07 03:17_
 
 ## Top Stories
 
 - Zelenskyj: Kriget kommer att avgöras i luften - Västerbottens-Kuriren
-- Direkt – Kriget i Ukraina – Ukrainskt anfall mot raffinaderi i Sibirien - Dagens Nyheter
-- Trumps nya hån mot Meloni: ”Besöksförbud behövs” - Dagens Nyheter
 - EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
+- Trumps nya hån mot Meloni: ”Besöksförbud behövs” - Dagens Nyheter
+- Varning för höga halter gräspollen - Göteborgs-Posten
+- Inför Trumps ankomst: Rutte smickrar och säljer - Hufvudstadsbladet – HBL
+- Dödssiffran stiger efter skalven i Venezuela - Göteborgs-Posten
+- Varning för åska och skyfall: ”Sök skydd” - Nya Wermlands-Tidningen
+- Minderårig pojke anhållen efter dödsskjutning - Corren
 - Ryssland kallar upp den svenska ambassadören efter färgattacker - Dagens Nyheter
-- Skogsbränder härjar i turistparadisen – tusentals evakueras - Göteborgs-Posten
-- Efter V:s slagord om polisen: L begär debatt - Västerbottens-Kuriren
-- Arne Larsson Därför är Birgitta Ed ett problem för Moderaterna - Göteborgs-Posten
-- Partierna oense om kvotering i föräldraförsäkringen - Sveriges Radio
-- DN Direkt – Svensk polis i global insats mot människohandel - Dagens Nyheter
+- Man misstänkt för mord i Malmö gripen i Polen - Göteborgs-Posten
 - Teheran tog farväl av Khamenei: ”Här för hämnd” - Göteborgs-Posten
 - Laglös sjöelefant fascinerar – myndigheter oroas - Västerbottens-Kuriren
-- Dödsvåld och takkollaps på fängelse i Sri Lanka - Göteborgs-Posten
+- Tusentals flyr bränder i södra Europa - Hufvudstadsbladet – HBL
 - Hamas regering i Gaza avgår – men ministrarna sitter kvar - Dagens Nyheter
 - Svenska klockkungen säljer sina sista aktier - Expressen
-- Jonas Fröberg: ”Ett enda räddat liv är värt många varningspip” - Dagens Nyheter
 - Stockholmsbörsen föll – Saab lyfte på Nato-uppgifter - Affärsvärlden
 - Grön stängning på Wall Street – AI-bolagen rekylerar - Privata Affärer
+- Jonas Fröberg: ”Ett enda räddat liv är värt många varningspip” - Dagens Nyheter
 - Spel gjort på två månader har sålt över 15 miljoner exemplar - MovieZine
-- Flera Iphone‑modeller blir utan nya Siri AI - mobil.se
+- SEBASTIAN PARKKILA: Playstations besked drabbar de redan utsatta - Expressen
 
 ## World News
 
@@ -32,18 +32,18 @@ _Updated: 2026-07-07 00:45_
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Kristersson om Global Eye: Mer kan komma - Svenska Dagbladet
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Källor: Nato köper Global Eye från Saab - Affärsvärlden
-- Uppgifter: Nato köper Global Eye från Saab - DI
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -58,14 +58,14 @@ _Updated: 2026-07-07 00:45_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - DI
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
-- AI Sweden gathering forces to lead the development of edge learning - Via TT
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -74,20 +74,20 @@ _Updated: 2026-07-07 00:45_
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Mirae Asset Finance: 15 år av att skapa och förbättra den vietnamesiska finansiella erfarenheten. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- 21 företag får utmärkelsen Sweden’s Best Managed Companies 2024 - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - 20 företag får utmärkelsen Sweden’s Best Managed Companies 2022 - Deloitte
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -108,7 +108,7 @@ _Updated: 2026-07-07 00:45_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
