@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-07 23:53_
+_Updated: 2026-07-08 01:29_
 
 ## Top Stories
 
 - USA attackerar mål i Iran: Svar på angrepp mot fartyg - Dagens Nyheter
 - ”Storskalig fullträff”- flera ryska fartyg eliminerade - Marcus Oscarsson
+- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
 - Kaos på Gotlandscamping: ”Tälten kollapsar” - Aftonbladet
-- Trafikverket höjer beredskapen inför oväder – risk för störningar i väg- och tågtrafiken - Via TT
-- Svenska brandflyg på plats i Frankrike - Sveriges Radio
-- Nato satsar – men flera länder kämpar med målen - Hufvudstadsbladet – HBL
+- Håkan Boström: Även liberala demokratier måste skaffa sig muskler - Göteborgs-Posten
+- Uppgift: USA lät bli varning – då dog 168 barn - Aftonbladet
 - Sorgen efter Christian Zedig: ”Har bara hört fina ord” - Dagens Nyheter
-- 50-åring hittad död i Malmö – brott utreds - Sveriges Radio
-- Olycka på camping – explosion i tält - Expressen
 - Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet
-- Marine Le Pen: Jag ställer upp i presidentvalet - Hufvudstadsbladet – HBL
-- Efterlyst för Monacobomb dödad av ukrainsk agent - Corren
-- Nigel Farage avgår som parlamentsledamot - UNT
-- Expert: Licens för Patriot löser inte Ukrainas akuta problem - Dagens Nyheter
-- Regeringen vill se sänkt moms på vissa basvaror - Svenska Dagbladet
+- Man hittad död efter lägenhetsbrand i Bagarmossen - SVT Nyheter
+- Två fick böter i trafikkontroll – här stod polisen - Norran
+- Kvinna mördad – misstänks för Monacobomben - Dagens Nyheter
+- Robotattacker mot Kiev – flera explosioner - Västerbottens-Kuriren
+- Kokhett i södra Europa: Fortsatta varningar och skogsbränder - Expressen
 - Experterna spår fortsatt rotation bort från AI-aktier - Omni – Alla nyheter. Alla perspektiv.
-- Börsen i sidled – Saab lyfter - Folkbladet
-- Inför rapportperioden – förvaltaren letar vinnare bland börsens eftersläntrare - Börskollen
+- Näringslivsprofilen Björn Svedberg avliden - Folkbladet
+- Stockholmsbörsen avslutar nedåt - Affärsvärlden
+- Riksbanken varnar för snabba AI-modeller - Svenska Dagbladet
 - En ny Switch 2 med utbytbart batteri kommer snart – Nintendo meddelar samtidigt att den ursprungliga Switch-modellen slutar säljas i Europa - TechRadar
 - Detaljer om lanseringen av ”Assassin’s Creed Black Flag Resynced” har avslöjats - notebookcheck.se
+- Förhandstitt på The Blood Of Dawnwalker - FZ.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - DI
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
-- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
+- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Bytet till Global Eye ”en näsbränna för USA” - DI
@@ -73,72 +73,72 @@ _Updated: 2026-07-07 23:53_
 
 ## Business
 
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Vilken framtid arbetar du för? - EY
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- 20 företag får utmärkelsen Sweden’s Best Managed Companies 2023 - Deloitte
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Heidi Stensmyren ska driva på AI-utveckling av vården - Dagens Medicin
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Vi presenterar ChatGPT Health - OpenAI
+- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Ny milstolpe på vägen mot svenskt life science kluster i världsklass - Mynewsdesk
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Förbättrar ChatGPT för vårdpersonal - OpenAI
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- 5 myter om öppen vetenskap - Läkartidningen
-- ERC-finansiering: möjligheter för klinisk forskning och kliniskt verksamma forskare - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
