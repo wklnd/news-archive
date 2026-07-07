@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-07 03:21_
+_Updated: 2026-07-07 07:49_
 
-- Live Updates: Calls Mount for Graham Platner to End Maine Senate Bid After Rape Accusation - The New York Times
-- Huge crowds fill Tehran streets for Khamenei's funeral procession - BBC
-- Man sues DHS after agents tracked him down for sending a scathing email to ICE - NPR
-- ‘I’m Now Broke’: Meet The Investors Who Lost Billions Buying Trump Stocks And Crypto - Forbes
-- Alleged Charlie Kirk assassin Tyler Robinson due in court as evidence takes center stage - Fox News
-- BJ’s roof collapses during heavy rain in New Jersey - NBC News
-- Trump says he asked FIFA head to review red card but ‘didn’t tell him what to do’ - The Washington Post
-- Trump’s pardons for Jan. 6 rioters don’t apply to DC pipe bomb suspect, judge rules - AP News
-- Heavy rain snarls travel around New York, New Jersey - Gothamist
-- Supreme Court allows Texas to require age verification for mobile apps - CNN
-- Deadly Russian Strikes Hit Kyiv on Eve of NATO Summit - The New York Times
-- Hamas offers to hand over authority in Gaza to US-backed administration - The Guardian
-- Prince Harry won't stay at Buckingham Palace during London visit, meeting with King Charles unknown - ABC News - Breaking News, Latest News and Videos
-- China test-fires long-range missile into Pacific, rattling U.S. allies - The Washington Post
+- Schumer joins calls for Platner's withdrawal as Dem support collapses - Axios
+- Former officer describes finding a 'sniper pad' on nearby rooftop after Charlie Kirk assassination - PBS
+- Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei - BBC
+- Mostly juveniles, young adults from out of state among 402 arrests in Newport Beach July 4th chaos, police say - ABC7 Los Angeles
+- Tanker set ablaze after being struck by projectile in the Strait of Hormuz as Iran mourns Khamenei - AP News
+- Russian Offensive Campaign Assessment, July 6, 2026 - Institute for the Study of War
+- President Trump confirms role in FIFA reviewing, overturning Folarin Balogun red card: 'I'm the one who got them to do it' - Yahoo Sports
+- National Guard soldiers fatally shoot man who had gun in downtown Memphis - NBC News
+- Mike Johnson's birthright citizenship threat, explained - USA Today
+- New Yorker suing ICE after officers went to his home to warn him over criticism of agency - Fox News
+- Chinese Nuclear Submarine Test-Launches Long-Range Missile - WSJ
+- Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience - CNBC
+- India seeks foothold in Indonesia's critical minerals processing industry dominated by China; Modi, Prabowo to discuss BrahMos deal - Deccan Herald
+- Australian Prime Minister Apologizes For Saying He’d Have Sex With Kylie Minogue - Stereogum
 - Former Xbox studios Double Fine and Compulsion will keep games after going indie - The Verge
+- Samsung Results Trigger Stock Rotation to Less Loved Sectors - Bloomberg.com
 - Walmart, Sam's Club slash prices on thousands of products as Trump says move came at his request - Fox Business
-- Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas - CNBC
-- Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks — Live Updates - WSJ
-- Everything New in iOS 27 Beta 3 - MacRumors
-- You Can Build a More Powerful Steam Machine for Less, It'll Just Be Much Bigger - IGN
+- Trump says 500,000 children receive first $1,000 Trump account deposits - Reuters
+- Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors
+- Hoto’s PixelDrive screwdriver is down to $60, matching its best price - The Verge
