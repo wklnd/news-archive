@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 22:04_
+_Updated: 2026-07-08 23:42_
 
 ## Top Stories
 
-- USA och Iran uppmanas återgå till vapenvila - Västerbottens-Kuriren
-- Trump om Natomötet: Mycket kärlek - Göteborgs-Posten
+- USA och Iran uppmanas återgå till vapenvila - Göteborgs-Posten
+- Bo Torbjörn Ek: Trump skrämmer inte Natoledarna längre - Dagens Nyheter
 - Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
-- Trump om Zelenskyj: President Putin - Aftonbladet
-- Boende i Härnösand avråds från vatten – misstänkt intrång - Omni – Alla nyheter. Alla perspektiv.
-- Försvaret: Psykos låg bakom dödsolyckan på Södervärn - Sveriges Radio
-- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
-- Jonson: Samarbete med tyskt luftförsvar - Expressen
+- Trump öppnar för Ukraina-tillverkade Patriots - Dagens Nyheter
+- Drar tillbaka erkännandet efter dödsolyckan i Malmö - Omni – Alla nyheter. Alla perspektiv.
+- Oppositionen om S vallöften: ”Alldeles för fega” - Göteborgs-Posten
 - Misshandlad förd till sjukhus i bojor - Skillingaryd
-- Mås spetsades på spira – hjälpen kom för sent - Dagens Nyheter
-- Misstänkt våldsdåd på skola i Tyskland - SVT Nyheter
-- DN Direkt – Dödssiffran stiger i Venezuela - Dagens Nyheter
-- De semestrar i kokande Europa: ”Vaknar dyngsur” - Dagens Nyheter
-- Nytt slag mot Putins olja – samtidigt slår Ryssland till mot Kiev - Expressen
-- Bahnhof: Karlung säljer till Telenor - Affärsvärlden
+- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
+- SMHI varnar för vattenbrist i Uppsala län - UNT
+- Varnar för dricksvattnet efter intrång - Göteborgs-Posten
+- DN Direkt – 22-årig brandman dog i fransk skogsbrand - Dagens Nyheter
+- Stigande dödssiffra i Venezuela - Göteborgs-Posten
+- Misstanken: Mördade bombkvinna – hade tortyrkammare i källaren - Aftonbladet
+- Kung Charles benådar avrättad kvinna i efterhand - Aftonbladet
 - Industrin i gungning – tar fram räddningsplan - Svenska Dagbladet
+- Lavazza: Tar minst ett par år innan kaffet blir billigare - Omni – Alla nyheter. Alla perspektiv.
+- Stockholmsbörsen pressades av förnyad oro i Mellanöstern - Placera.se
 - Analytikerkommentarer på svensk inflation och BNP - Börsvärlden
-- BESLUTAT OM RIKTAD NYEMISSION OCH ÅTERKÖP AV C-AKTIER - Placera.se
-- Sköldpaddor och fåglar är släkt - Aftonbladet
+- Sköldpaddor och fåglar är släkt - Dagens Nyheter
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 
 ## World News
@@ -34,6 +34,7 @@ _Updated: 2026-07-08 22:04_
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
@@ -45,7 +46,6 @@ _Updated: 2026-07-08 22:04_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
@@ -58,12 +58,12 @@ _Updated: 2026-07-08 22:04_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -83,13 +83,13 @@ _Updated: 2026-07-08 22:04_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-07-08 22:04_
 
 ## Jordbruk
 
-- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
-- Jordbruk och landsbygdsutveckling - European Commission
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Framtidens jordbruk - European Commission
+- Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL
+- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- High-tech och lantbruk i fokus på SLU-dag - SLU
-- Visning av uppkomst efter direktsådd - Land.se
-- Lantbrukslogik – nu och i framtiden - SLU
-- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
-- Så påverkar torkan svenskt lantbruk - SLU
+- Visning av uppkomst efter direktsådd - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
+- Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
+- Hellre plöjningsfri odling än ekologisk - Land.se
+- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
