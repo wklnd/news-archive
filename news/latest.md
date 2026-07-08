@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-08 20:05_
+_Updated: 2026-07-08 22:07_
 
 - Live updates: NATO summit; Trump threatens more strikes on Iran after saying ceasefire is ‘over’ - CNN
-- Former Maine Sen. Troy Jackson says it would be 'self-serving' if Graham Platner runs - NPR
-- Live Updates: Trump Lashes Out at Europe at NATO Summit - The New York Times
+- Platner campaign quietly polls potential replacements as pressure mounts - Politico
+- US judge orders release of $5.8m Trump owes E Jean Carroll after court loss - The Guardian
 - 5 NATO flash points as Trump meets anxious allies in Turkey - The Hill
-- 'Greenland is not for sale' Denmark's Frederiksen reminds Trump - Euronews.com
-- Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes
-- Former Wisconsin judge to be sentenced for obstructing arrest of Mexican immigrant - AP News
-- Trump opposes letting E. Jean Carroll collect $5 million award, cites Supreme Court bid - Reuters
-- She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post
-- DNA evidence from Charlie Kirk assassination disputed by defendant's lawyers - PBS
-- UN inquiry urges release of Palestinian doctor jailed by Israel - Al Jazeera
+- Trump takes aim at 'wasted cause' Spain and revives Greenland claim at Nato summit - BBC
+- Gov. Beshear urges McConnell to be ‘transparent’ and give an update on his health - NBC News
+- Family of Man Fatally Shot by ICE Agent Calls for Independent Inquiry - The New York Times
+- Former Wisconsin judge spared prison for obstructing ICE arrest of Mexican immigrant - NBC News
+- What We Know About Efforts to Stabilize the Former Pfizer Building in Manhattan - WSJ
+- Thousands march as Khamenei's funeral procession crosses into Iraq - Reuters
+- Qatari LNG tanker awaits salvage off Oman after projectile strike - Reuters
 - Conditional pardon granted for Ruth Ellis, last woman executed in UK - BBC
-- Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election - The New York Times
-- Search on for Boeing 737 That Vanished in Flight - Newser
-- Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs - Game Informer
-- IMF lowers 2026 global growth forecast to 3%, sees rebound in 2027 - Reuters
-- Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz - The Guardian
-- Viking Therapeutics (VKTX) Draws Takeover Focus After Vertex's $10 Billion Crinetics Deal - Yahoo Finance
-- Galaxy Z Fold 8 leaks in official-looking renders, confirming some final details - 9to5Google
-- PSA: macOS 28 will drop support for encrypted Mac OS Extended volumes - 9to5Mac
+- Trump says US will give Ukraine license to produce Patriot defense systems - AP News
+- Farage’s Act of Political Theater Risks Becoming Farce - The New York Times
+- Fed officials were split on direction of interest rates at last meeting, minutes show - CNBC
+- Xbox cuts impacted 158 ZeniMax workers in Texas and 52 Obsidian employees in California - Game File | Stephen Totilo
+- Amid fluctuating gas prices tied to the Iran war, here's a nifty calculator to figure out the cost of fueling up - ABC News - Breaking News, Latest News and Videos
+- UniCredit Nears Control of Commerzbank After Takeover Push - WSJ
+- OpenAI upgrading ChatGPT with all-new voice mode experience, watch here - 9to5Mac
+- Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak - GSMArena.com news - GSMArena.com
