@@ -1,4 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-08 17:52_
+_Updated: 2026-07-08 20:05_
 
+- Live updates: NATO summit; Trump threatens more strikes on Iran after saying ceasefire is ‘over’ - CNN
+- Former Maine Sen. Troy Jackson says it would be 'self-serving' if Graham Platner runs - NPR
+- Live Updates: Trump Lashes Out at Europe at NATO Summit - The New York Times
+- 5 NATO flash points as Trump meets anxious allies in Turkey - The Hill
+- 'Greenland is not for sale' Denmark's Frederiksen reminds Trump - Euronews.com
+- Manhattan Building At Risk Of Collapse Is ‘Stable,’ Officials Say As Some Streets Remain Closed - Forbes
+- Former Wisconsin judge to be sentenced for obstructing arrest of Mexican immigrant - AP News
+- Trump opposes letting E. Jean Carroll collect $5 million award, cites Supreme Court bid - Reuters
+- She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post
+- DNA evidence from Charlie Kirk assassination disputed by defendant's lawyers - PBS
+- UN inquiry urges release of Palestinian doctor jailed by Israel - Al Jazeera
+- Conditional pardon granted for Ruth Ellis, last woman executed in UK - BBC
+- Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election - The New York Times
+- Search on for Boeing 737 That Vanished in Flight - Newser
+- Doom Developer id Software Reportedly Loses Roughly Half Its Staff To Layoffs - Game Informer
+- IMF lowers 2026 global growth forecast to 3%, sees rebound in 2027 - Reuters
+- Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz - The Guardian
+- Viking Therapeutics (VKTX) Draws Takeover Focus After Vertex's $10 Billion Crinetics Deal - Yahoo Finance
+- Galaxy Z Fold 8 leaks in official-looking renders, confirming some final details - 9to5Google
+- PSA: macOS 28 will drop support for encrypted Mac OS Extended volumes - 9to5Mac
