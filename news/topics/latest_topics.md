@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 20:00_
+_Updated: 2026-07-08 22:04_
 
 ## Top Stories
 
+- USA och Iran uppmanas återgå till vapenvila - Västerbottens-Kuriren
 - Trump om Natomötet: Mycket kärlek - Göteborgs-Posten
-- Trump hotar Iran med ny hamnblockad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
 - Trump om Zelenskyj: President Putin - Aftonbladet
-- DN Direkt – Åverkan på vattenverk – invånare uppmanas att ej dricka - Dagens Nyheter
-- Misstänkt knivdåd på tysk skola – flera skadade - Västerbottens-Kuriren
-- Dödsföraren på Södervärn tar tillbaka erkännande – vill frias - Sydsvenskan
-- SMHI varnar för vattenbrist i Stockholm - SVT Nyheter
-- En till person gripen - UNT
-- Barn drev ut på SUP-bräda – nu varnar sjöräddningen i Södertälje - Sveriges Radio
-- DN Direkt – SMHI: Varnar om risk för skogsbrand - Dagens Nyheter
-- Stigande dödssiffra i Venezuela - Hufvudstadsbladet – HBL
+- Boende i Härnösand avråds från vatten – misstänkt intrång - Omni – Alla nyheter. Alla perspektiv.
+- Försvaret: Psykos låg bakom dödsolyckan på Södervärn - Sveriges Radio
+- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
+- Jonson: Samarbete med tyskt luftförsvar - Expressen
+- Misshandlad förd till sjukhus i bojor - Skillingaryd
+- Mås spetsades på spira – hjälpen kom för sent - Dagens Nyheter
+- Misstänkt våldsdåd på skola i Tyskland - SVT Nyheter
+- DN Direkt – Dödssiffran stiger i Venezuela - Dagens Nyheter
 - De semestrar i kokande Europa: ”Vaknar dyngsur” - Dagens Nyheter
-- Sandra Stiskalo: Nigel Farage har aldrig fel – precis som Donald Trump - Dagens Nyheter
 - Nytt slag mot Putins olja – samtidigt slår Ryssland till mot Kiev - Expressen
-- Jonas Fröberg: SAS vd slutar i känsligt läge - Dagens Nyheter
-- Oljepriset rusar efter Trumps uttalande: ”Marknaden minns” - Aftonbladet
 - Bahnhof: Karlung säljer till Telenor - Affärsvärlden
-- Svensk inflation sjönk i juni – lägre livsmedelspriser - Omni – Alla nyheter. Alla perspektiv.
+- Industrin i gungning – tar fram räddningsplan - Svenska Dagbladet
+- Analytikerkommentarer på svensk inflation och BNP - Börsvärlden
+- BESLUTAT OM RIKTAD NYEMISSION OCH ÅTERKÖP AV C-AKTIER - Placera.se
+- Sköldpaddor och fåglar är släkt - Aftonbladet
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
-- Uppgifter: Iphone 18 Pro blir tjockare än 17 Pro - Macworld.se
 
 ## World News
 
@@ -31,21 +31,21 @@ _Updated: 2026-07-08 20:00_
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
-- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
@@ -58,12 +58,12 @@ _Updated: 2026-07-08 20:00_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
@@ -73,26 +73,26 @@ _Updated: 2026-07-08 20:00_
 
 ## Business
 
+- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Vilken framtid arbetar du för? - EY
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 
 ## Health
 
