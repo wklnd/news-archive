@@ -1,36 +1,36 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 06:46_
+_Updated: 2026-07-08 09:53_
 
 ## Top Stories
 
 - USA attackerar Iran: ”Brott mot vapenvilan” - Hufvudstadsbladet – HBL
-- Uppgift: Lät bli varning – då dog 168 barn - Aftonbladet
-- DN Direkt – Sökinsats efter försvunnet plan i Pakistan - Dagens Nyheter
-- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
-- Robotattacker mot Kiev – flera explosioner - Västerbottens-Kuriren
+- CNN: Varningar ignorerades före bombningen av flickskolan - Dagens Nyheter
+- Knappt en femtedel av miljonerna har gått till als-forskning - Dagens Nyheter
+- 48 organisationer, forskare och samhällsledare uppmanar riksdagen att rösta Nej till sänkt straffbarhetsålder - Via TT
+- Trump på toppmötet i Ankara: Tog upp Grönland igen - Sveriges Radio
+- Ytterligare person gripen efter mordet i Uppsala - Omni – Alla nyheter. Alla perspektiv.
 - Sänkt straff för kvinna som mördade sin mamma - Göteborgs-Posten
-- SMHI varnar för skogbränder under onsdagen - SVT Nyheter
 - EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
-- Kaos på Gotlandscamping: ”Tälten kollapsar” - Aftonbladet
-- Just nu: Rådjur innanför viltstängslet på E4 - SN, Södermanlands Nyheter
-- Sökinsats efter försvunnet plan - Västerbottens-Kuriren
-- DN Direkt – USA:s linje: kvar i Nato och starkt Ukrainastöd - Dagens Nyheter
-- Erik de la Reguera: Fotbojan kommer att förfölja Le Pen - Dagens Nyheter
-- Källor: Misstänkt för Monacobomb hittad död - Corren
-- Finland vill också köpa Saabs Globaleye - Västerbottens-Kuriren
-- Experterna spår fortsatt rotation bort från AI-aktier - Omni – Alla nyheter. Alla perspektiv.
-- Nedåt på Asienbörserna efter attacker i Iran - Aftonbladet
-- Villasuget ökar – säljs fler än under pandemin - Svenska Dagbladet
+- Stor risk för skogsbrand i Västra Götaland - SVT Nyheter
+- Efter åskovädret på Gotland – 2 000 kunder utan el - SVT Nyheter
+- Nigel Farage avgår som parlamentsledamot - UNT
+- Robotattacker mot Kiev – flera explosioner - Hufvudstadsbladet – HBL
+- Svenska Freds växer – i takt med osäkert världsläge - Sveriges Radio
+- Studie: Bygg karantänstation på månen - Ny Teknik
+- Kommentar till Svensk Mäklarstatistik: Villapriserna tar över när bostadsrätterna bromsar in efter vårens rusning - Mynewsdesk
+- Svensk inflation sjönk mindre än förväntat i juni - Omni – Alla nyheter. Alla perspektiv.
+- Hedgefonden ökar i juni: ”Resultatet fortsatt oacceptabelt” - Affärsvärlden
+- Experten om eskaleringen i natt: ”Inte förvånande” - EFN
+- Kometen 3I Atlas kan vara flera miljarder år gammal - Omni – Alla nyheter. Alla perspektiv.
 - Test: Google Home speaker – okej högtalare med förvirrad AI - Ny Teknik
-- Garmin släpper LiveScope 2 - Fiskejournalen
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
+- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
-- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
@@ -39,8 +39,8 @@ _Updated: 2026-07-08 06:46_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Storebrandkoncernen utmärks i global hållbarhetsranking - Finanswatch.se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
@@ -59,31 +59,31 @@ _Updated: 2026-07-08 06:46_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
-- Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Odine and Turkcell Collaborate on AI-Powered Predictive Management to Support Network Monitoring and Automation - Aktiellt
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
