@@ -1,32 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 17:41_
+_Updated: 2026-07-08 20:00_
 
 ## Top Stories
 
-- Trump om Natomötet: Mycket kärlek i rummet - Hufvudstadsbladet – HBL
-- Irans svar – efter nattens amerikanska attacker - Göteborgs-Posten
-- Arbetsplatsolycka i Trelleborg – man allvarligt skadad - Omni – Alla nyheter. Alla perspektiv.
-- Trump öppnar för Ukraina-tillverkade Patriots - Dagens Nyheter
-- Ingela, 53, driver familjen som ett företag - Aftonbladet
-- Mette Frederiksen slår tillbaka mot Trump – får stöd av Elina Valtonen - Hufvudstadsbladet – HBL
-- Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
-- Ny svensk upptäckt kan rädda träd från torka - Göteborgs-Posten
-- Sänkt straff efter jättebeslag av kokain - Västerbottens-Kuriren
-- En till person gripen - UNT
-- Stigande dödssiffra i Venezuela - Göteborgs-Posten
-- Direkt – Kriget i Ukraina – Två döda i ryska attacker mot Charkiv - Dagens Nyheter
-- Sandra Stiskalo: Nigel Farage har aldrig fel – precis som Donald Trump - Dagens Nyheter
+- Trump om Natomötet: Mycket kärlek - Göteborgs-Posten
+- Trump hotar Iran med ny hamnblockad – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump om Zelenskyj: President Putin - Aftonbladet
+- DN Direkt – Åverkan på vattenverk – invånare uppmanas att ej dricka - Dagens Nyheter
 - Misstänkt knivdåd på tysk skola – flera skadade - Västerbottens-Kuriren
+- Dödsföraren på Södervärn tar tillbaka erkännande – vill frias - Sydsvenskan
+- SMHI varnar för vattenbrist i Stockholm - SVT Nyheter
+- En till person gripen - UNT
+- Barn drev ut på SUP-bräda – nu varnar sjöräddningen i Södertälje - Sveriges Radio
+- DN Direkt – SMHI: Varnar om risk för skogsbrand - Dagens Nyheter
+- Stigande dödssiffra i Venezuela - Hufvudstadsbladet – HBL
+- De semestrar i kokande Europa: ”Vaknar dyngsur” - Dagens Nyheter
+- Sandra Stiskalo: Nigel Farage har aldrig fel – precis som Donald Trump - Dagens Nyheter
+- Nytt slag mot Putins olja – samtidigt slår Ryssland till mot Kiev - Expressen
 - Jonas Fröberg: SAS vd slutar i känsligt läge - Dagens Nyheter
+- Oljepriset rusar efter Trumps uttalande: ”Marknaden minns” - Aftonbladet
 - Bahnhof: Karlung säljer till Telenor - Affärsvärlden
-- Villapriserna ökar för femte månaden: ”Ett rollbyte” - Omni – Alla nyheter. Alla perspektiv.
-- Inflationen sjönk i juni – boräntor opåverkade - Västerbottens-Kuriren
+- Svensk inflation sjönk i juni – lägre livsmedelspriser - Omni – Alla nyheter. Alla perspektiv.
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 - Uppgifter: Iphone 18 Pro blir tjockare än 17 Pro - Macworld.se
 
 ## World News
 
+- Nato köper plan av Saab - Aftonbladet
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
@@ -36,15 +37,14 @@ _Updated: 2026-07-08 17:41_
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Svensk polis i global insats mot människohandel - Aftonbladet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
-- Nato köper plan av Saab - Aftonbladet
+- Svensk polis i global insats mot människohandel - Aftonbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
@@ -76,6 +76,7 @@ _Updated: 2026-07-08 17:41_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vilken framtid arbetar du för? - EY
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -92,7 +93,6 @@ _Updated: 2026-07-08 17:41_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -142,23 +142,23 @@ _Updated: 2026-07-08 17:41_
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Prisrusning på naturgas slår mot svenska lantbrukare - Dagens industri
 - Sveriges förändrade lantbruk - SLU
-- Framtidens jordbruk - European Commission
+- Jordbruk och landsbygdsutveckling - European Commission
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
+- Gården som sålde plogen – och förbättrade jorden - Tidningen Extrakt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
-- Jordbrukspolitik - Naturvårdsverket
+- Framtidens jordbruk - European Commission
 - Här är världens största jordbruk - ATL
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
-- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- High-tech och lantbruk i fokus på SLU-dag - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
-- Kan agroekologi mätta världen? - SLU
+- Lantbrukslogik – nu och i framtiden - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
-- Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
+- Så påverkar torkan svenskt lantbruk - SLU
+- Kan agroekologi mätta världen? - SLU
