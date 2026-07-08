@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-08 22:07_
+_Updated: 2026-07-08 23:47_
 
-- Live updates: NATO summit; Trump threatens more strikes on Iran after saying ceasefire is ‘over’ - CNN
-- Platner campaign quietly polls potential replacements as pressure mounts - Politico
-- US judge orders release of $5.8m Trump owes E Jean Carroll after court loss - The Guardian
-- 5 NATO flash points as Trump meets anxious allies in Turkey - The Hill
-- Trump takes aim at 'wasted cause' Spain and revives Greenland claim at Nato summit - BBC
-- Gov. Beshear urges McConnell to be ‘transparent’ and give an update on his health - NBC News
-- Family of Man Fatally Shot by ICE Agent Calls for Independent Inquiry - The New York Times
-- Former Wisconsin judge spared prison for obstructing ICE arrest of Mexican immigrant - NBC News
-- What We Know About Efforts to Stabilize the Former Pfizer Building in Manhattan - WSJ
-- Thousands march as Khamenei's funeral procession crosses into Iraq - Reuters
-- Qatari LNG tanker awaits salvage off Oman after projectile strike - Reuters
-- Conditional pardon granted for Ruth Ellis, last woman executed in UK - BBC
+- Iran Live Updates: Trump Suggests Cease-Fire Is 'Over' After Latest Strikes - The New York Times
+- Judge orders Trump's $5m damages be released to E Jean Carroll - BBC
+- Graham Platner, isolated, defies Maine Democrats as they try to hatch a plan - The Washington Post
+- Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit - The Guardian
 - Trump says US will give Ukraine license to produce Patriot defense systems - AP News
-- Farage’s Act of Political Theater Risks Becoming Farce - The New York Times
-- Fed officials were split on direction of interest rates at last meeting, minutes show - CNBC
-- Xbox cuts impacted 158 ZeniMax workers in Texas and 52 Obsidian employees in California - Game File | Stephen Totilo
-- Amid fluctuating gas prices tied to the Iran war, here's a nifty calculator to figure out the cost of fueling up - ABC News - Breaking News, Latest News and Videos
-- UniCredit Nears Control of Commerzbank After Takeover Push - WSJ
-- OpenAI upgrading ChatGPT with all-new voice mode experience, watch here - 9to5Mac
+- Trump orders halt to US trade with Spain over NATO spending, Iran - Reuters
+- Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell to give a public update on his condition - AP News
+- ICE shooting updates: Araujo family calls for independent investigation - Houston Chronicle
+- Live updates: Officials ‘confident’ temporary shoring has stabilized buckling NYC high-rise - CNN
+- She blamed flu shots for her twins’ deaths. Now she’s charged with murder. - The Washington Post
+- UK Farage's election gamble could see him face one challenger... Count Binface - Reuters
+- Russia Deploys $1.5M Starlink Jammers, Ukraine Uses Their Flaw to Strike Back - UNITED24 Media
+- After losing to the Mail, Prince Harry seems doomed to a sad life in California. And he did it to himself | Stephen Bates - The Guardian
+- Frantic search underway for crew after Boeing 737 wreckage found by officials - Fox News
+- Blue Origin reportedly raising $10B at $130B valuation - TechCrunch
+- S&P 500 ends down after Trump says Iran deal is 'over' - Reuters
+- Fed minutes: Officials deeply divided over future path of US inflation - AP News
+- ‘Hysteria’ Grips San Francisco’s Housing Market as A.I. Wealth Pours In - The New York Times
+- OpenAI releases new voice models for more natural live conversations - TechCrunch
 - Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak - GSMArena.com news - GSMArena.com
