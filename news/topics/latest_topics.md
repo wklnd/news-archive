@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 03:00_
+_Updated: 2026-07-08 06:46_
 
 ## Top Stories
 
-- USA attackerar Iran: ”Brott mot vapenvilan” - Västerbottens-Kuriren
-- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
-- DN Direkt – Marine Le Pen: Kommer ställa upp i valet - Dagens Nyheter
-- Robotattacker mot Kiev – flera explosioner - Västerbottens-Kuriren
+- USA attackerar Iran: ”Brott mot vapenvilan” - Hufvudstadsbladet – HBL
 - Uppgift: Lät bli varning – då dog 168 barn - Aftonbladet
-- Stigande dödssiffra i Venezuela - Göteborgs-Posten
-- Sorgen efter Christian Zedig: ”Har bara hört fina ord” - Dagens Nyheter
+- DN Direkt – Sökinsats efter försvunnet plan i Pakistan - Dagens Nyheter
+- Risk för stormbyar i delar av Kalmar län – tåg ställs in - Sveriges Radio
+- Robotattacker mot Kiev – flera explosioner - Västerbottens-Kuriren
+- Sänkt straff för kvinna som mördade sin mamma - Göteborgs-Posten
 - SMHI varnar för skogbränder under onsdagen - SVT Nyheter
-- Nato väljer Saabs Globaleye – varnar för robotar - Folkbladet
+- EU-debatt efter dödsmisshandeln i Köpenhamn - UNT
+- Kaos på Gotlandscamping: ”Tälten kollapsar” - Aftonbladet
 - Just nu: Rådjur innanför viltstängslet på E4 - SN, Södermanlands Nyheter
-- Kvinna mördad – misstänks för Monacobomben - Dagens Nyheter
+- Sökinsats efter försvunnet plan - Västerbottens-Kuriren
 - DN Direkt – USA:s linje: kvar i Nato och starkt Ukrainastöd - Dagens Nyheter
-- ”Storskalig fullträff”- flera ryska fartyg eliminerade - Marcus Oscarsson
-- Kokhett i södra Europa: Fortsatta varningar och skogsbränder - Expressen
+- Erik de la Reguera: Fotbojan kommer att förfölja Le Pen - Dagens Nyheter
+- Källor: Misstänkt för Monacobomb hittad död - Corren
+- Finland vill också köpa Saabs Globaleye - Västerbottens-Kuriren
 - Experterna spår fortsatt rotation bort från AI-aktier - Omni – Alla nyheter. Alla perspektiv.
-- Näringslivsprofilen Björn Svedberg avliden - Folkbladet
-- AI-frossa på börsen – kraftigt lyft för Saab - Göteborgs-Posten
-- Riksbanken varnar för snabba AI-modeller - Svenska Dagbladet
-- En ny Switch 2 med utbytbart batteri kommer snart – Nintendo meddelar samtidigt att den ursprungliga Switch-modellen slutar säljas i Europa - TechRadar
-- Officiellt: Google ger tidig Pixel‑lansering - mobil.se
+- Nedåt på Asienbörserna efter attacker i Iran - Aftonbladet
+- Villasuget ökar – säljs fler än under pandemin - Svenska Dagbladet
+- Test: Google Home speaker – okej högtalare med förvirrad AI - Ny Teknik
+- Garmin släpper LiveScope 2 - Fiskejournalen
 
 ## World News
 
-- Finland vill köpa eget Global Eye-plan - DI
+- Finland vill köpa eget Global Eye-plan - Dagens industri
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
-- Bytet till Global Eye ”en näsbränna för USA” - DI
-- Uppgifter: Nato köper Global Eye från Saab - DI
+- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Lewis Capaldi announces global livestream from BST Hyde Park show - NME
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
+- Storebrandkoncernen utmärks i global hållbarhetsranking - Finanswatch.se
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
@@ -57,7 +57,7 @@ _Updated: 2026-07-08 03:00_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Here are the Swedish AI companies everyone is talking about - DI
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - The unprecedented convergence of disruptive technologies is creating a new era for investing - Avanzabloggen
 - Loppet inom området Artificial Intelligence (AI): 7 länder som du borde ha i åtanke - Tyskland med dig - Top Ten Tips - Xpert.Digital - Konrad Wolfenstein
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
@@ -74,15 +74,15 @@ _Updated: 2026-07-08 03:00_
 ## Business
 
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
+- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
@@ -108,7 +108,7 @@ _Updated: 2026-07-08 03:00_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - DI
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
@@ -121,24 +121,24 @@ _Updated: 2026-07-08 03:00_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Sherry Nakhaeizadeh - Uppsala universitet
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- Sherry Nakhaeizadeh - Uppsala universitet
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- CooperVisions forskning om myopikontroll tilldelas Garland W. Clay Award för andra gången - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
+- Citizen science: Inspiring examples of societal engagement for Horizon Europe - CORDIS
+- Olika slutsatser från samma data - Läkartidningen
+- Data Science och AI - Chalmers tekniska högskola
+- WASP lanserar nytt forskningsinitiativ som förenar AI och medicin - Mynewsdesk
+- Ny forskning: Traumaanpassad yoga inom rättspsykiatrisk vård är genomförbar och ger positiva effekter - Mynewsdesk
+- Ny forskarskola stärker samarbetet med Life Science företag - Mynewsdesk
 
 ## Jordbruk
 
@@ -161,4 +161,4 @@ _Updated: 2026-07-08 03:00_
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
