@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 23:42_
+_Updated: 2026-07-09 01:36_
 
 ## Top Stories
 
-- USA och Iran uppmanas återgå till vapenvila - Göteborgs-Posten
-- Bo Torbjörn Ek: Trump skrämmer inte Natoledarna längre - Dagens Nyheter
-- Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
+- Nya attacker mot Iran – Trump hotar trappa upp - Västerbottens-Kuriren
 - Trump öppnar för Ukraina-tillverkade Patriots - Dagens Nyheter
-- Drar tillbaka erkännandet efter dödsolyckan i Malmö - Omni – Alla nyheter. Alla perspektiv.
-- Oppositionen om S vallöften: ”Alldeles för fega” - Göteborgs-Posten
-- Misshandlad förd till sjukhus i bojor - Skillingaryd
-- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
-- SMHI varnar för vattenbrist i Uppsala län - UNT
-- Varnar för dricksvattnet efter intrång - Göteborgs-Posten
+- Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
+- Långdistansrobotar och en besviken Trump - Göteborgs-Posten
 - DN Direkt – 22-årig brandman dog i fransk skogsbrand - Dagens Nyheter
-- Stigande dödssiffra i Venezuela - Göteborgs-Posten
+- DN Direkt – HD: Beslut om Le Pens överklagan i april - Dagens Nyheter
+- Stökig misshandlad man till sjukhus i handbojor - Sveriges Radio
+- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
+- SMHI varnar för skyfall och blåst – tåg ställs in - Göteborgs-Posten
+- Invånare avråds dricka kranvatten efter skadegörelse i Härnösand - SVT Nyheter
 - Misstanken: Mördade bombkvinna – hade tortyrkammare i källaren - Aftonbladet
-- Kung Charles benådar avrättad kvinna i efterhand - Aftonbladet
+- Europeiskt initiativ: Utveckla avancerade robotar - Aftonbladet
+- Stigande dödssiffra i Venezuela - Göteborgs-Posten
+- Efter strulet – Trafikverket stärker upp vid Nockebybron - Mitt i
+- Bahnhof: Karlung säljer till Telenor - Affärsvärlden
 - Industrin i gungning – tar fram räddningsplan - Svenska Dagbladet
 - Lavazza: Tar minst ett par år innan kaffet blir billigare - Omni – Alla nyheter. Alla perspektiv.
-- Stockholmsbörsen pressades av förnyad oro i Mellanöstern - Placera.se
-- Analytikerkommentarer på svensk inflation och BNP - Börsvärlden
+- Wall Street tyngs av mellanösternoro – Nvidia mot strömmen - EFN
 - Sköldpaddor och fåglar är släkt - Dagens Nyheter
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 
@@ -33,7 +33,7 @@ _Updated: 2026-07-08 23:42_
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
-- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
+- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -45,8 +45,8 @@ _Updated: 2026-07-08 23:42_
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
+- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
@@ -83,36 +83,36 @@ _Updated: 2026-07-08 23:42_
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
