@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-08 15:05_
+_Updated: 2026-07-08 17:41_
 
 ## Top Stories
 
+- Trump om Natomötet: Mycket kärlek i rummet - Hufvudstadsbladet – HBL
 - Irans svar – efter nattens amerikanska attacker - Göteborgs-Posten
-- Illavarslande start – Trump till nytt angrepp mot Nato - Hufvudstadsbladet – HBL
-- Misstänkt knivdåd på tysk skola – flera skadade - Västerbottens-Kuriren
-- SVT erfar: Frankrike förlägger trupp i Sverige - SVT Nyheter
-- Sandra Stiskalo: Nigel Farage har aldrig fel – precis som Donald Trump - Dagens Nyheter
-- De semestrar i kokande Europa: ”Vaknar dyngsur” - Dagens Nyheter
-- Hovrätten fastställer dom för två av tre män efter kokainbeslag i Malmö - SVT Nyheter
+- Arbetsplatsolycka i Trelleborg – man allvarligt skadad - Omni – Alla nyheter. Alla perspektiv.
+- Trump öppnar för Ukraina-tillverkade Patriots - Dagens Nyheter
+- Ingela, 53, driver familjen som ett företag - Aftonbladet
+- Mette Frederiksen slår tillbaka mot Trump – får stöd av Elina Valtonen - Hufvudstadsbladet – HBL
+- Franska soldater välkomnas i Boden – nu väntar akut bostadsbrist - SVT Nyheter
 - Ny svensk upptäckt kan rädda träd från torka - Göteborgs-Posten
-- DN Direkt – Åverkan på vattenverk – invånare uppmanas att ej dricka - Dagens Nyheter
-- Sänkt straff för kvinna som mördade sin mamma - Västerbottens-Kuriren
+- Sänkt straff efter jättebeslag av kokain - Västerbottens-Kuriren
+- En till person gripen - UNT
+- Stigande dödssiffra i Venezuela - Göteborgs-Posten
 - Direkt – Kriget i Ukraina – Två döda i ryska attacker mot Charkiv - Dagens Nyheter
-- DN Direkt – Två män döms till livstids fängelse efter dödsskjutning - Dagens Nyheter
-- Trumps ”fredsråd” planerar jätteläger i Gaza - Västerbottens-Kuriren
-- Le Pen blir dömd för brott - 8 Sidor
-- Kommentar till Svensk Mäklarstatistik: Villapriserna tar över när bostadsrätterna bromsar in efter vårens rusning - Mynewsdesk
+- Sandra Stiskalo: Nigel Farage har aldrig fel – precis som Donald Trump - Dagens Nyheter
+- Misstänkt knivdåd på tysk skola – flera skadade - Västerbottens-Kuriren
+- Jonas Fröberg: SAS vd slutar i känsligt läge - Dagens Nyheter
 - Bahnhof: Karlung säljer till Telenor - Affärsvärlden
-- SAS-chefen avgår – går till Air Canada - Svenska Dagbladet
-- Inflationen sjönk i juni – boräntor opåverkade - Dagens Nyheter
-- Fysiker simulerade ett svart hål i laboratoriet – och fick sig något av en överraskning - Illustrerad Vetenskap
-- DN Direkt – Studie: Bygg karantänstation på månen - Dagens Nyheter
+- Villapriserna ökar för femte månaden: ”Ett rollbyte” - Omni – Alla nyheter. Alla perspektiv.
+- Inflationen sjönk i juni – boräntor opåverkade - Västerbottens-Kuriren
+- DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
+- Uppgifter: Iphone 18 Pro blir tjockare än 17 Pro - Macworld.se
 
 ## World News
 
@@ -38,10 +38,10 @@ _Updated: 2026-07-08 15:05_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Finalgrupperingen sätter i gång vid BMW International Open - golfpost.com
 - Nato köper plan av Saab - Aftonbladet
@@ -73,46 +73,46 @@ _Updated: 2026-07-08 15:05_
 
 ## Business
 
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vilken framtid arbetar du för? - EY
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Verkligt värde bortom tillväxtkurvorna – dags att omdefiniera framgång - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Ny hållbarhetsagenda inom EU – så förbereder du ditt företag - Deloitte
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
@@ -121,24 +121,24 @@ _Updated: 2026-07-08 15:05_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Avdelningen för fotonik - Chalmers tekniska högskola
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Olika slutsatser från samma data - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Data Science och AI - Chalmers tekniska högskola
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
 ## Jordbruk
 
