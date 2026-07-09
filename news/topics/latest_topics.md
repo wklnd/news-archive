@@ -1,34 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 13:26_
+_Updated: 2026-07-09 16:04_
 
 ## Top Stories
 
-- En död – misstänkt mord i Stenungsund - Göteborgs-Posten
-- Ukrainska attacker mot ryska tankfartyg - Dagens industri
-- Erdogan gav Kristersson revolver: ”Ordnade former” - SVT Nyheter
-- Regeringen utreder förbud mot telefonförsäljning - Västerbottens-Kuriren
+- Man dödad på Hawaii havsbad i Stenungsund - TV4 Nyheterna
+- Nu kommer värmen tillbaka - Svenska Dagbladet
 - Regeringen öppnar för betalvägar: ”Kalla det gärna systemskifte” - Dagens Nyheter
-- Nya anfall mellan USA och Iran: ”Sluta flaxa” - Hufvudstadsbladet – HBL
-- Värmen är på väg tillbaka: ”Börjar slå igenom i dag” - Dagens Nyheter
-- Staten kan ta över ansvar för rättspsykiatrin - Corren
-- Fler regioner vill öka samarbetet mellan häkten och BUP - Sveriges Radio
-- DN Direkt – Tredje person misstänkt efter dödsskjutning - Dagens Nyheter
-- DN Direkt – Bonnie Tyler är död - Dagens Nyheter
-- Våldtog och tipsade om att söva kvinnor - Göteborgs-Posten
-- Maria Gestrin-Hagner Nato klarade Trump-dramat men notan hamnar i Europa - Hufvudstadsbladet – HBL
+- Källor nära Putin: ”Hög sannolikhet för eskalering” - Omni – Alla nyheter. Alla perspektiv.
+- Ryskt exportförbud trycker upp globalt dieselpris - Västerbottens-Kuriren
+- 39 personer döda och nio saknas efter översvämningar i Kina - Sveriges Radio
+- Staten kan ta över ansvar för rättspsykiatrin - Dagens Nyheter
+- Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
+- Kristersson tar emot revolver från Erdogan - Corren
+- Helveteslarver i Köpenhamn – krismöte utlyst - Corren
+- Nu gravsätts Khamenei – trots nya attacker - Göteborgs-Posten
+- Iran: USA har riktat attack mot kärnkraftverk - Corren
 - DN Direkt – Burnham favorit när Storbritannien får ny ledare - Dagens Nyheter
+- Maria Gestrin-Hagner Nato klarade Trump-dramat men notan hamnar i Europa - Hufvudstadsbladet – HBL
+- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
 - Analytiker om historiska raset: ”En överreaktion” - EFN
-- Sivers-chef har sålt hela sitt innehav - Affärsvärlden
-- Storägaren säljer allt i Valuno - Privata Affärer
+- SEB efter raset i Plejd: "Bör lösa sig framöver" - EFN
 - Källa: AI-raketen Hynix dubbelnotering övertecknad - Omni – Alla nyheter. Alla perspektiv.
 - Chat GPT får nya röstmodeller – kan avbryta och anpassa tempot - PC för Alla
 - Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
 
 ## World News
 
-- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Finland vill köpa eget Global Eye-plan - Dagens industri
+- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Nato köper plan av Saab - Aftonbladet
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
@@ -38,9 +38,9 @@ _Updated: 2026-07-09 13:26_
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Svensk polis i global insats mot människohandel - Aftonbladet
@@ -65,8 +65,8 @@ _Updated: 2026-07-09 13:26_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
@@ -108,7 +108,7 @@ _Updated: 2026-07-09 13:26_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
