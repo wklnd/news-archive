@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 23:04_
+_Updated: 2026-07-10 00:50_
 
 ## Top Stories
 
 - Oljan fraktas sjövägen till Krim – Ukraina anfaller fartyg - Dagens Nyheter
-- Brand i Marbella – bostäder evakuerade - SVT Nyheter
+- En död efter bråk vid badplats i Stenungsund - Göteborgs-Posten
 - Närmare 40 döda i översvämningarna i Kina - Göteborgs-Posten
-- Andreas betalade en skuld i över 30 år – nu förslås nytt system - Sveriges Radio
-- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
-- Person förd till sjukhus med helikopter efter drunkning - TV4 Nyheterna
-- Nu kommer värmen tillbaka - Corren
+- Khamenei gravsatt – trots nya attacker - Göteborgs-Posten
+- Ludvig: Är mer ”chill” atmosfär i Köpenhamn - Svenska Dagbladet
+- ”Stor del av Irans befolkning är emot regimen” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man död efter drunkning vid Hestra - SVT Nyheter
 - DN Direkt – SMHI: Risk för vattenbrist i fler län - Dagens Nyheter
-- Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
 - Utpekad svensk torped död i Irland – ännu en jagas - UNT
-- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
-- Åklagaren vill förlänga Høibys häktning - Västerbottens-Kuriren
+- Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
 - Rysslands nya attacker tär på Kyivborna: ”Svårt att fungera på dagarna” - Omni – Alla nyheter. Alla perspektiv.
-- Iransk media: Flera explosioner hörs landet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
-- Plejd rapporterar: "En mer normal nivå" - Placera.se
-- Oljebolagens vinster nagel i ögat på Trump - Svenska Dagbladet
+- Åklagaren vill förlänga Høibys häktning - Västerbottens-Kuriren
+- Ukraina får Patriotrobotar från USA - Västerbottens-Kuriren
+- Länder tvekar att skänka luftvärn till Ukraina: ”Känner sig hotade” - Dagens Nyheter
+- Uppgift: 120 000 jobb i fara hos Volkswagen - SVT Nyheter
+- Analytiker om Astra Zenecas ras: ”Är en överreaktion” - EFN
 - Återhämtning på Wall Street – chipbolag lyfte - Västerbottens-Kuriren
+- SAS vd van der Werff om avgången: ”Känslosamt” - Sveriges Radio
 - Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 
@@ -29,7 +29,6 @@ _Updated: 2026-07-09 23:04_
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
-- Nato köper plan av Saab - Aftonbladet
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
@@ -38,6 +37,7 @@ _Updated: 2026-07-09 23:04_
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Nato köper plan av Saab - Aftonbladet
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
@@ -121,24 +121,24 @@ _Updated: 2026-07-09 23:04_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Olika slutsatser från samma data - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
