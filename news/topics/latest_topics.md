@@ -1,37 +1,38 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 10:00_
+_Updated: 2026-07-09 13:26_
 
 ## Top Stories
 
-- DN Direkt – Kristersson fick en revolver av Erdogan - Dagens Nyheter
-- USA återupptar attacker mot Iran – Trump: Detta är en hämnd - Göteborgs-Posten
-- Pojke begärs häktad för dödsskjutning i Uppsala - Aftonbladet
-- Kondomer och bindor vid badplats efter skyfallet - Omni – Alla nyheter. Alla perspektiv.
-- Två män skadade efter storbråk på Stenungsön - SVT Nyheter
-- Kommuntoppen öppnar för att byta namn på Grand Central - Göteborgs-Posten
-- Forskare larmar om Googleköpet av Torsboda: ”Strategiskt tveksam affär” - SVT Nyheter
-- Ny fjällräddning på Kebnekaise – kvinna undsatt - SVT Nyheter
-- Så vill SD locka ”tjänstemännen på Söder” - Dagens Nyheter
-- Stökig misshandlad man till sjukhus i handbojor - Sveriges Radio
-- Här används K-kedjans bil – som ayatollans likbil - Hufvudstadsbladet – HBL
-- Våldtäktsanklagad demokrat lägger ner sin kandidatur - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Explosion under gångbro i Ystad - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Trump: Konflikten är inte ett krig - Dagens Nyheter
-- DN Direkt – Astra Zeneca rasar – bakslag i fas 3-studie - Dagens Nyheter
-- Ödesdag för krisande Volkswagen – protester väntas - Omni – Alla nyheter. Alla perspektiv.
-- SK Hynix USA-notering uppges vara övertecknad sju gånger - Börsvärlden
-- Tar allt längre tid att sälja – tomt till salu sedan 2007 - Omni – Alla nyheter. Alla perspektiv.
-- Hälften sparkas från Doom-studion Id software i Xbox-krisen - Aftonbladet
-- Signe Krantz: Därför är så många datorspelare oroliga just nu - ETC.se
+- En död – misstänkt mord i Stenungsund - Göteborgs-Posten
+- Ukrainska attacker mot ryska tankfartyg - Dagens industri
+- Erdogan gav Kristersson revolver: ”Ordnade former” - SVT Nyheter
+- Regeringen utreder förbud mot telefonförsäljning - Västerbottens-Kuriren
+- Regeringen öppnar för betalvägar: ”Kalla det gärna systemskifte” - Dagens Nyheter
+- Nya anfall mellan USA och Iran: ”Sluta flaxa” - Hufvudstadsbladet – HBL
+- Värmen är på väg tillbaka: ”Börjar slå igenom i dag” - Dagens Nyheter
+- Staten kan ta över ansvar för rättspsykiatrin - Corren
+- Fler regioner vill öka samarbetet mellan häkten och BUP - Sveriges Radio
+- DN Direkt – Tredje person misstänkt efter dödsskjutning - Dagens Nyheter
+- DN Direkt – Bonnie Tyler är död - Dagens Nyheter
+- Våldtog och tipsade om att söva kvinnor - Göteborgs-Posten
+- Maria Gestrin-Hagner Nato klarade Trump-dramat men notan hamnar i Europa - Hufvudstadsbladet – HBL
+- DN Direkt – Burnham favorit när Storbritannien får ny ledare - Dagens Nyheter
+- Analytiker om historiska raset: ”En överreaktion” - EFN
+- Sivers-chef har sålt hela sitt innehav - Affärsvärlden
+- Storägaren säljer allt i Valuno - Privata Affärer
+- Källa: AI-raketen Hynix dubbelnotering övertecknad - Omni – Alla nyheter. Alla perspektiv.
+- Chat GPT får nya röstmodeller – kan avbryta och anpassa tempot - PC för Alla
+- Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
 
 ## World News
 
-- Nato köper plan av Saab - Aftonbladet
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Nato köper plan av Saab - Aftonbladet
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
+- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -40,16 +41,16 @@ _Updated: 2026-07-09 10:00_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Svensk polis i global insats mot människohandel - Aftonbladet
+- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
@@ -60,16 +61,15 @@ _Updated: 2026-07-09 10:00_
 - AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
@@ -77,8 +77,8 @@ _Updated: 2026-07-09 10:00_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -96,23 +96,23 @@ _Updated: 2026-07-09 10:00_
 
 ## Health
 
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
@@ -134,9 +134,9 @@ _Updated: 2026-07-09 10:00_
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Data Science och AI - Chalmers tekniska högskola
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
 
