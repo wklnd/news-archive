@@ -1,118 +1,118 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 19:01_
+_Updated: 2026-07-09 21:07_
 
 ## Top Stories
 
-- Varnar: Putin kan slå till – inom 8 veckor • Förhandlingsfönstret krymper - Expressen
-- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
 - Närmare 40 döda i översvämningarna i Kina - Göteborgs-Posten
+- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
+- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
 - Andreas betalade en skuld i över 30 år – nu förslås nytt system - Sveriges Radio
-- En död efter bråket vid Hawaii – mord utreds - ST-tidningen
-- Larmet från SU-akuten: Patienter i korridorerna - Göteborgs-Posten
+- Högt tryck på akutvården under sommaren – viktigt att söka vård på rätt nivå - VGRfokus
+- Varnar: Putin kan slå till – inom 8 veckor • Förhandlingsfönstret krymper - Expressen
 - SMHI varnar för höga temperaturer på västkusten - SVT Nyheter
-- Staten kan ta över ansvar för rättspsykiatrin - UNT
+- DN Direkt – SMHI: Risk för vattenbrist i fler län - Dagens Nyheter
 - Ebba Busch-docka hängdes upp på Sergels torg – två åtalas - TV4 Nyheterna
 - Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
-- Iran: USA har riktat attack mot kärnkraftverk – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ukrainska attacker mot ryska tankfartyg - Folkbladet
-- Länder tvekar att skänka luftvärn till Ukraina: ”Känner sig hotade” - Dagens Nyheter
-- Maria Gestrin-Hagner Nato klarade Trump-dramat men notan hamnar i Europa - Hufvudstadsbladet – HBL
-- Analytiker om historiska raset: ”En överreaktion” - EFN
-- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
+- Iransk media: Flera explosioner hörs landet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ukraina får Patriotrobotar från USA - Västerbottens-Kuriren
+- Åklagaren vill förlänga Høibys häktning - Västerbottens-Kuriren
+- Experterna: USA riskerar enorm prestigeförlust - Dagens Nyheter
 - SEB efter raset i Plejd: "Bör lösa sig framöver" - EFN
-- Regeringen utreder förbud mot telefonförsäljning - Svenska Dagbladet
+- Astra Zeneca och Ionis fas 3-studie misslyckades med primärt mål - Placera.se
+- Oljebolagens vinster nagel i ögat på Trump - Svenska Dagbladet
+- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
 - Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
-- Chat GPT får nya röstmodeller – kan avbryta och anpassa tempot - PC för Alla
+- DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Nato köper plan av Saab - Aftonbladet
+- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Få digital tillgång till Mindkosh AI Review Magazine - Magzter
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
 
 ## Business
 
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Vilken framtid arbetar du för? - EY
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
