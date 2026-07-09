@@ -1,38 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 16:04_
+_Updated: 2026-07-09 19:01_
 
 ## Top Stories
 
-- Man dödad på Hawaii havsbad i Stenungsund - TV4 Nyheterna
-- Nu kommer värmen tillbaka - Svenska Dagbladet
-- Regeringen öppnar för betalvägar: ”Kalla det gärna systemskifte” - Dagens Nyheter
-- Källor nära Putin: ”Hög sannolikhet för eskalering” - Omni – Alla nyheter. Alla perspektiv.
-- Ryskt exportförbud trycker upp globalt dieselpris - Västerbottens-Kuriren
-- 39 personer döda och nio saknas efter översvämningar i Kina - Sveriges Radio
-- Staten kan ta över ansvar för rättspsykiatrin - Dagens Nyheter
+- Varnar: Putin kan slå till – inom 8 veckor • Förhandlingsfönstret krymper - Expressen
+- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
+- Närmare 40 döda i översvämningarna i Kina - Göteborgs-Posten
+- Andreas betalade en skuld i över 30 år – nu förslås nytt system - Sveriges Radio
+- En död efter bråket vid Hawaii – mord utreds - ST-tidningen
+- Larmet från SU-akuten: Patienter i korridorerna - Göteborgs-Posten
+- SMHI varnar för höga temperaturer på västkusten - SVT Nyheter
+- Staten kan ta över ansvar för rättspsykiatrin - UNT
+- Ebba Busch-docka hängdes upp på Sergels torg – två åtalas - TV4 Nyheterna
 - Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
-- Kristersson tar emot revolver från Erdogan - Corren
-- Helveteslarver i Köpenhamn – krismöte utlyst - Corren
-- Nu gravsätts Khamenei – trots nya attacker - Göteborgs-Posten
-- Iran: USA har riktat attack mot kärnkraftverk - Corren
-- DN Direkt – Burnham favorit när Storbritannien får ny ledare - Dagens Nyheter
+- Iran: USA har riktat attack mot kärnkraftverk – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ukrainska attacker mot ryska tankfartyg - Folkbladet
+- Länder tvekar att skänka luftvärn till Ukraina: ”Känner sig hotade” - Dagens Nyheter
 - Maria Gestrin-Hagner Nato klarade Trump-dramat men notan hamnar i Europa - Hufvudstadsbladet – HBL
-- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
 - Analytiker om historiska raset: ”En överreaktion” - EFN
+- Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
 - SEB efter raset i Plejd: "Bör lösa sig framöver" - EFN
-- Källa: AI-raketen Hynix dubbelnotering övertecknad - Omni – Alla nyheter. Alla perspektiv.
-- Chat GPT får nya röstmodeller – kan avbryta och anpassa tempot - PC för Alla
+- Regeringen utreder förbud mot telefonförsäljning - Svenska Dagbladet
 - Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
+- Chat GPT får nya röstmodeller – kan avbryta och anpassa tempot - PC för Alla
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Nato köper plan av Saab - Aftonbladet
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
-- Klart: Nato köper Saabs Global Eye - Affärsvärlden
+- Nato köper plan av Saab - Aftonbladet
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Uppgifter: Nato köper Global Eye från Saab - Dagens industri
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
@@ -41,11 +40,12 @@ _Updated: 2026-07-09 16:04_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
+- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Svensk polis i global insats mot människohandel - Aftonbladet
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Bytet till Global Eye ”en näsbränna för USA” - Dagens industri
 
 ## Technology
@@ -61,36 +61,36 @@ _Updated: 2026-07-09 16:04_
 - AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
@@ -108,7 +108,7 @@ _Updated: 2026-07-09 16:04_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
@@ -121,24 +121,24 @@ _Updated: 2026-07-09 16:04_
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- Avdelningen för fotonik - Chalmers tekniska högskola
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
-- Olika slutsatser från samma data - Läkartidningen
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Data Science och AI - Chalmers tekniska högskola
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Regeringens innovations- och forskningskontor i utlandet - Regeringen.se
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
