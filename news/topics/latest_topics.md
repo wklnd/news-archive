@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-09 21:07_
+_Updated: 2026-07-09 23:04_
 
 ## Top Stories
 
+- Oljan fraktas sjövägen till Krim – Ukraina anfaller fartyg - Dagens Nyheter
+- Brand i Marbella – bostäder evakuerade - SVT Nyheter
 - Närmare 40 döda i översvämningarna i Kina - Göteborgs-Posten
-- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
-- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
 - Andreas betalade en skuld i över 30 år – nu förslås nytt system - Sveriges Radio
-- Högt tryck på akutvården under sommaren – viktigt att söka vård på rätt nivå - VGRfokus
-- Varnar: Putin kan slå till – inom 8 veckor • Förhandlingsfönstret krymper - Expressen
-- SMHI varnar för höga temperaturer på västkusten - SVT Nyheter
+- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
+- Person förd till sjukhus med helikopter efter drunkning - TV4 Nyheterna
+- Nu kommer värmen tillbaka - Corren
 - DN Direkt – SMHI: Risk för vattenbrist i fler län - Dagens Nyheter
-- Ebba Busch-docka hängdes upp på Sergels torg – två åtalas - TV4 Nyheterna
 - Pojke häktad för dödsskjutning i Uppsala - Göteborgs-Posten
-- Iransk media: Flera explosioner hörs landet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ukraina får Patriotrobotar från USA - Västerbottens-Kuriren
+- Utpekad svensk torped död i Irland – ännu en jagas - UNT
+- Ayatollans lik fraktades i finländsk frysbil - Västerbottens-Kuriren
 - Åklagaren vill förlänga Høibys häktning - Västerbottens-Kuriren
-- Experterna: USA riskerar enorm prestigeförlust - Dagens Nyheter
-- SEB efter raset i Plejd: "Bör lösa sig framöver" - EFN
-- Astra Zeneca och Ionis fas 3-studie misslyckades med primärt mål - Placera.se
-- Oljebolagens vinster nagel i ögat på Trump - Svenska Dagbladet
+- Rysslands nya attacker tär på Kyivborna: ”Svårt att fungera på dagarna” - Omni – Alla nyheter. Alla perspektiv.
+- Iransk media: Flera explosioner hörs landet – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Volkswagens och Tysklands ödesdag – 90 000 jobb på spel - Dagens Nyheter
+- Plejd rapporterar: "En mer normal nivå" - Placera.se
+- Oljebolagens vinster nagel i ögat på Trump - Svenska Dagbladet
+- Återhämtning på Wall Street – chipbolag lyfte - Västerbottens-Kuriren
 - Skaparna av New Vegas arbetar på ett nytt Fallout-spel - TechRadar
 - DOPEST TESTAR: Assassin’s Creed Black Flag Resynced - Piratlivet är tillbaka - dopest.se
 
@@ -44,54 +44,54 @@ _Updated: 2026-07-09 21:07_
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Få digital tillgång till Mindkosh AI Review Magazine - Magzter
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Albanien utser AI-bot till minister - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 
 ## Business
 
+- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vilken framtid arbetar du för? - EY
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Formue sätter historiskt rekord: Mest nöjda kunder för tionde året i rad - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Nordiska företag ser långsammare avkastning på AI-investeringar än resten av Europa - Deloitte
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
 ## Health
