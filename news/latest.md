@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-09 15:35_
+_Updated: 2026-07-09 18:14_
 
-- U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’ - NBC News
-- Graham Platner suspends Maine Senate campaign after sexual assault allegation - CBS News
-- Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
-- U.S. attacks Iran for a second day and Maine Democrats race to replace Graham Platner: Morning Rundown - NBC News
+- Live Updates: U.S. and Iran Trade Fresh Strikes After Trump Suggests Cease-Fire is ‘Over’ - The New York Times
+- Inside the tense final hours of Graham Platner’s campaign - Politico
 - Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One - Forbes
+- Florida's West Palm Beach airport is now named after Trump, but flyers will still see the PBI airport code – for now - CBS News
+- Odds increase again for development of brewing Super El Niño by this fall, reaching potential strongest ever - FOX Weather
+- Little Marco’s Invite to Allies Gets Embarrassing Reception - The Daily Beast
+- U.S. Olympian David Hearn pleads not guilty to charges in Reflecting Pool vandalism case - NBC News
+- ‘New terrifying levels’: 10 people fatally shot by immigration officials in Trump’s second term - The Guardian
+- Trump says truce ‘over’ as Iran reports US attack near nuclear plant – Middle East crisis live - The Guardian
+- Late Night Joins the Hunt for Mitch McConnell - The New York Times
+- NATO weathers another Trump storm but braces for more after Ankara summit - Reuters
 - How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister - NPR
-- Mexico’s president vows ‘legal measures’ after immigrant fatally shot by ICE - The Washington Post
-- Second Person in a Week Killed by Federal Task Force in Memphis - The New York Times
-- Tehran launches more strikes after explosions reported in southern Iran - BBC
-- Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell to give a public update on his condition - AP News
-- Takeaways: Trump leaves NATO summit declaring ‘a lot of love’ with allies after a rocky start - AP News
-- Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation - Crude Oil Prices Today | OilPrice.com
-- Ex-naval commander convicted over submarine implosion that killed 44 Argentine crew members - CBS News
-- Farage left fighting a trash can as the UK populist leader’s election gamble backfires - CNN
-- Nasdaq futures rise led by chip stocks; traders assess U.S.-Iran tensions: Live updates - CNBC
-- SK Hynix's US listing more than seven times oversubscribed, source says - Reuters
-- New aviation mechanics graduate with jobs in hand, thanks to a labor shortage - NPR
-- SpaceX and AI startup wealth fuels demand for private jets - Reuters
-- Why is the Google Store selling a Galaxy Watch 8? - 9to5Google
-- Google Photos is finally getting its bottom bar redesign on Android - Android Authority
+- Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S. - CNBC
+- Trump hands Zelensky major wins, with Putin on the ropes - The Hill
+- Oil prices and stock markets worldwide hold steadier as AI stocks climb - AP News
+- June home sales disappoint as prices reach an all-time high - CNBC
+- SK Hynix IPO to give US investors bigger bite of the memory pie, as shortages persist - Yahoo Finance
+- Workers keep leaving the US labor force. Experts can't agree why - USA Today
+- Sony's RX10 V Superzoom Finally Arrives With A New Design And 4K 120p Video - Engadget
+- Google Chrome finally brings an iOS-only feature to Android with new update - Android Authority
