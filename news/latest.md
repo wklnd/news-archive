@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-09 12:11_
+_Updated: 2026-07-09 15:35_
 
-- Live Updates: U.S., Iran trade more strikes after Trump says ceasefire is "over" - CBS News
-- Graham Platner ends U.S. Senate campaign in Maine - The Washington Post
-- Lawmakers demand answers after fatal ICE shooting in Texas - The Hill
-- Trump flies partway home from Turkey in an old Air Force One - NPR
-- News Wrap: Judge orders $5.8M paid to E. Jean Carroll in Trump sex abuse, defamation case - PBS
-- Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest - CNBC
+- U.S. and Iran exchange intense new attacks after Trump says ceasefire is ‘over’ - NBC News
+- Graham Platner suspends Maine Senate campaign after sexual assault allegation - CBS News
+- Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
+- U.S. attacks Iran for a second day and Maine Democrats race to replace Graham Platner: Morning Rundown - NBC News
+- Trump Switches Back To Qatari Plane After Leaving Turkey On Old Air Force One - Forbes
+- How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister - NPR
+- Mexico’s president vows ‘legal measures’ after immigrant fatally shot by ICE - The Washington Post
 - Second Person in a Week Killed by Federal Task Force in Memphis - The New York Times
-- Roommate of suspect in Charlie Kirk's assassination given immunity in exchange for recorded statements - CBS News
-- Three more people charged with damaging Reflecting Pool after Trump’s multimillion-dollar restoration - CNN
-- Kentucky Gov. Beshear asks Mitch McConnell to share health update - WLWT
-- Trump hands Zelensky major wins, with Putin on the ropes - The Hill
+- Tehran launches more strikes after explosions reported in southern Iran - BBC
+- Kentucky Gov. Andy Beshear asks Sen. Mitch McConnell to give a public update on his condition - AP News
 - Takeaways: Trump leaves NATO summit declaring ‘a lot of love’ with allies after a rocky start - AP News
-- UK Farage's election gamble could see him face one challenger... Count Binface - Reuters
-- Russia halts diesel exports after Ukraine strikes refineries - politico.eu
-- S&P 500 futures are little changed as traders assess rising tensions between the U.S. and Iran: Live updates - CNBC
-- Should you sign your kids up for Trump Accounts? Four things to consider - NPR
-- John Deere owners will get the right to repair their own equipment under a new FTC settlement - AP News
-- Labor force participation falls to 61.5%, the lowest in 50 years outside COVID, and economists say it’s not just people giving up - Yahoo Finance
-- Galaxy Z Fold 8 leaks in official-looking renders, confirming some final details - 9to5Google
-- iPhone 18 Pro And iPhone 18 Pro Max Release Date: A New September Timeline Emerges - Forbes
+- Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation - Crude Oil Prices Today | OilPrice.com
+- Ex-naval commander convicted over submarine implosion that killed 44 Argentine crew members - CBS News
+- Farage left fighting a trash can as the UK populist leader’s election gamble backfires - CNN
+- Nasdaq futures rise led by chip stocks; traders assess U.S.-Iran tensions: Live updates - CNBC
+- SK Hynix's US listing more than seven times oversubscribed, source says - Reuters
+- New aviation mechanics graduate with jobs in hand, thanks to a labor shortage - NPR
+- SpaceX and AI startup wealth fuels demand for private jets - Reuters
+- Why is the Google Store selling a Galaxy Watch 8? - 9to5Google
+- Google Photos is finally getting its bottom bar redesign on Android - Android Authority
