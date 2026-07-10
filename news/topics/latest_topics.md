@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-10 20:08_
+_Updated: 2026-07-10 21:58_
 
 ## Top Stories
 
-- Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
-- Forskare om helveteslarven: Dröjer inte länge innan den dyker upp i Skåne - Dagens Nyheter
-- Brittisk ex-minister misstänkt mördad – man gripen - Västerbottens-Kuriren
+- Danska regeringen tar fram färdplan för att bekämpa ”larven från helvetet” - Dagens Nyheter
+- Tre dagars landssorg efter jättebranden i Spanien - Göteborgs-Posten
+- Fruktar förlust efter våldtäktsanklagads avhopp - Dagens Nyheter
 - Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ytterligare en häktad efter dödsskjutning i Uppsala - Aftonbladet
-- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
+- ”Strandvägen är en fritidsgård utan ledare” - Svenska Dagbladet
+- Taxi stoppad vid Nordstan – med Foxtrots granater - Göteborgs-Posten
 - Rekordhögt söktryck till BTH – över 10 000 vill studera i Blekinge - SVT Nyheter
-- Katja Nyberg hoppar av riksdagslista - Västerbottens-Kuriren
-- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
-- Gängkriminella gripna i Spanien - Göteborgs-Posten
-- Man nära att sugas ut genom flygplansfönster - Aftonbladet
-- ICE tog fel man – sköt ihjäl trebarnspappa - Dagens Nyheter
+- Karolinska måste lämna ut uppgifter om papperslös - Västerbottens-Kuriren
+- Katja Nyberg hoppar av riksdagslista - UNT
+- DN Direkt – Ännu en häktad efter dödsskjutning i Uppsala - Dagens Nyheter
+- Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
 - Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
-- Familjen från Norrköping tvingades fly bränderna - NT
-- Bulten säljer kontraktstillverkning inom fordonsindustrin - EFN
-- Börsfrossa efter ökade AI-tvivel - Svenska Dagbladet
-- EU hotar sociala medier-jätten Meta med miljardböter - TV4 Nyheterna
-- Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
+- Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
+- Ukrainska specialförband ska minska Rysslands krigsförmåga - Sveriges Radio
+- Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
+- Prognosen: Henrik får 20 procents mindre höstskörd - Dagens Nyheter
+- SIDLEDES ÖPPNING VÄNTAS INFÖR SK HYNIX NOTERING - Placera.se
+- Expert: Hade satt mig på Ryanair imorgon - Svenska Dagbladet
 - Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 - Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
@@ -82,8 +82,8 @@ _Updated: 2026-07-10 20:08_
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
