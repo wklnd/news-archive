@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-11 00:38_
+_Updated: 2026-07-11 01:36_
 
-- Graham Platner officially withdraws from the Maine Senate race - NBC News
-- Trump says he will not sign 'big yawn' bipartisan housing bill - Reuters
-- U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
+- Major housing affordability bill will become law without Trump’s signature - NBC News
 - Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post
+- U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
 - Man arrested as part of murder investigation into death of Ann Widdecombe - BBC
-- Elaine Chao, wife of Mitch McConnell, issues statement after US return - USA Today
-- Defense tries to sow doubt about evidence in Charlie Kirk’s killing - AP News
-- Trump touts mysterious 'Freedom Fuel' network of cheap gas stations as pump prices rise - Yahoo Finance
+- Graham Platner makes it official in Maine, submitting paperwork to leave Senate race - NPR
+- Marco Rubio announces deportation of Minnesota man pardoned last month - The Guardian
 - Nolan Wells' family demands answers about US teen's death after boating trip - BBC
-- Trump fires members of bipartisan elections commission - The Washington Post
+- Defense tries to sow doubt about evidence in Charlie Kirk’s killing - AP News
+- Axelrod: ‘Signals are flashing red’ over potential Trump election interference - The Hill
+- Russia sanctions legislation gets green light from White House , lawmakers say - Politico
 - Charles hosted Prince Harry and family for first time in years as they try to repair a family rift - AP News
-- Spanish wildfire victims burned in cars as roads turned into death traps - Reuters
-- Ukrainian court detains alleged killers of Monaco bomb attack suspect - Al Jazeera
-- Ukrainian drone strikes ignite fires at Russian oil sites - DW.com
+- Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect - The Guardian
+- Twelve dead and 23 missing in Spain wildfire as man describes 'surreal' view as blaze approached - BBC
+- U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks - Axios
+- Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ
 - SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's
-- Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC
-- Ryanair passenger partially sucked out of window on flight from Greece - Reuters
-- Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily
+- Global oil demand is dropping, but US drivers keep buying more gas - AP News
+- Circle wins final regulatory approval to establish US trust bank, shares rise - Reuters
 - The ChatGPT "Super App" Sort of Super Sucks - spyglass.org
 - God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku
