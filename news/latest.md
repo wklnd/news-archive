@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-10 15:34_
+_Updated: 2026-07-10 18:04_
 
-- Live updates: Lull in fighting as mediators try to restart US-Iran talks - CNN
+- A major housing bill is set to become law at midnight — even though Trump says he won't sign - NPR
 - Man fatally shot by ICE in Houston was not intended target, DHS says - BBC
-- New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times
-- Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica
-- Live Updates: Iran and U.S. ramp up tit-for-tat strikes as Khamenei laid to rest - CBS News
-- It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian
-- Nolan Wells’ body was found after a July 4 boat trip. His death has fueled speculation, grief and racial tension - CNN
-- MAGA figures flock to Charlie Kirk murder hearing - Axios
-- Amid health rumors, GOP congressman drops shock comment on Mitch McConnell - NJ.com
-- Trump denies this Congress what could be its last major bill signing ceremony - The Washington Post
-- At Least 11 People Die in Southern Spain Wildfire - The New York Times
+- U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
+- One of Spain's deadliest wildfires kills at least 12 people, with 23 others missing - NPR
+- Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime - The New York Times
+- Parents of Nolan Wells call for 'thorough' investigation as they seek answers about his mysterious death - ABC News - Breaking News, Latest News and Videos
+- Battle begins to replace Graham Platner as his withdrawal from Senate race looms - BBC
+- Trump Administration Fires Members of Independent Election Group - The New York Times
+- Another dangerous heat wave to hit in week ahead, meteorologists warn: ‘Not to be played with’ - NBC News
+- Trump plan would fence Pennsylvania Avenue outside White House - The Washington Post
+- Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war? - Al Jazeera
+- Labour under Burnham will be faster and bolder, says minister - BBC
 - Count Binface: The intergalactic warrior who could upend Britain's strangest election - NPR
-- Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him - Reuters
-- Fire at a shoe factory kills 28 in one of China’s deadliest blazes in recent years - AP News
-- Stock Market Today: Dow Futures Edge Up Ahead of SK Hynix Debut — Live Updates - WSJ
-- Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News
+- Strait of Hormuz traffic plunges as US, Iran resume fighting - Al Jazeera
+- SK Hynix Stock Starts Trading in the U.S. Today. What It Means for the Memory Chip Boom. - Barron's
 - Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC
-- Fidji Simo steps down from OpenAI’s no. 2 role - TechCrunch
-- Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier - MacRumors
-- More Than a Thousand ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
+- Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News
+- Fidji Simo says Mark Zuckerberg gave her one piece of health advice years ago, and she wishes she had listened - Business Insider
+- HP OmniBook Ultra 14 Review: HP's Best Ultraportable In Years - Engadget
+- A New Bombshell Has Entered Prediction Markets: Love Island - Barron's
