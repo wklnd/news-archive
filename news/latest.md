@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-10 06:38_
+_Updated: 2026-07-10 10:02_
 
-- US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News
-- Here's who's vying to replace Graham Platner as Maine Democratic Senate nominee - CBS News
+- Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post
 - President Trump cleans house at the bipartisan Election Assistance Commission - NPR
-- New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times
-- Mexico threatens legal action over citizens' deaths in ICE custody - Axios
-- Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say - CNN
-- Man accused of killing Charlie Kirk wished ‘he hadn’t done it,’ roommate says - The Washington Post
-- Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism - AP News
+- In Exchange of Strikes With Iran, U.S. Lands Most of the Blows - The New York Times
+- Trump’s Air Force One switcheroo highlights security concerns around Qatari model - The Hill
+- Here's who's vying to replace Graham Platner as Maine Democratic Senate nominee - CBS News
+- Live Updates: Iran and U.S. ramp up tit-for-tat strikes as Khamenei laid to rest - CBS News
 - Courts reject Trump's Hail Mary bids to avoid paying E. Jean Carroll - Politico
-- U.S. Attorney Boutros still due in court Thursday after failing to convince judge to cancel hearing - Chicago Sun-Times
-- Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
+- Man charged with killing National Guard member is hospitalized after refusing food, prosecutors say - AP News
+- Officials Seek Public’s Help in Nolan Wells Death Investigation as Misinformation Spreads - Mississippi Free Press
+- Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears - BBC
+- Trump targets Spain, NATO backs Ukraine: Is the alliance still united? - Al Jazeera
+- Ukraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it. - Meduza — Новости
 - Dozens killed, snakes on the loose after flooding from days of heavy rain in southern China - NBC News
-- NATO’s Ankara summit was a wasted opportunity - politico.eu
-- A quest for closure: In search of the missing after Venezuela’s earthquakes - Al Jazeera
+- Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters
 - SK Hynix (SKHY) US Listing: What to Know About the Largest-Ever ADR Offering - Barron's
 - Days after announcing mass layoffs, Xbox CEO Asha Sharma tapped to advise the Federal Reserve on jobs - Engadget
-- OpenAI launches its new family of models with GPT-5.6 - TechCrunch
-- OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED
-- Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
-- OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch
+- Chip stocks lead Asia higher ahead of SK Hynix blockbuster US debut - Reuters
+- Volkswagen Is Cutting Production as Sales in China Plunge - The New York Times
+- More Than a Thousand ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
+- Samsung’s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features - GSMArena.com news - GSMArena.com
