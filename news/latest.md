@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-10 10:02_
+_Updated: 2026-07-10 13:32_
 
+- US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News
 - Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post
-- President Trump cleans house at the bipartisan Election Assistance Commission - NPR
-- In Exchange of Strikes With Iran, U.S. Lands Most of the Blows - The New York Times
-- Trump’s Air Force One switcheroo highlights security concerns around Qatari model - The Hill
-- Here's who's vying to replace Graham Platner as Maine Democratic Senate nominee - CBS News
+- New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times
+- Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica
 - Live Updates: Iran and U.S. ramp up tit-for-tat strikes as Khamenei laid to rest - CBS News
-- Courts reject Trump's Hail Mary bids to avoid paying E. Jean Carroll - Politico
-- Man charged with killing National Guard member is hospitalized after refusing food, prosecutors say - AP News
-- Officials Seek Public’s Help in Nolan Wells Death Investigation as Misinformation Spreads - Mississippi Free Press
-- Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears - BBC
-- Trump targets Spain, NATO backs Ukraine: Is the alliance still united? - Al Jazeera
-- Ukraine’s drones have opened a summer window of opportunity behind Russian lines. Front-line soldiers tell Ukrainska Pravda the army is on track to waste it. - Meduza — Новости
-- Dozens killed, snakes on the loose after flooding from days of heavy rain in southern China - NBC News
-- Japan's southwestern islands on high alert as powerful Typhoon Bavi approaches - Reuters
-- SK Hynix (SKHY) US Listing: What to Know About the Largest-Ever ADR Offering - Barron's
-- Days after announcing mass layoffs, Xbox CEO Asha Sharma tapped to advise the Federal Reserve on jobs - Engadget
-- Chip stocks lead Asia higher ahead of SK Hynix blockbuster US debut - Reuters
-- Volkswagen Is Cutting Production as Sales in China Plunge - The New York Times
+- A bunch of failed candidates are scrambling to replace Graham Platner - Politico
+- Lawyers for man charged with killing Charlie Kirk question reliability of evidence - AP News
+- McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video - CNN
+- Missing Michigan woman Lynette Hooker may have returned to her sailboat before disappearance in the Bahamas, source says - CBS News
+- On the same day, a Florida airport and a Tennessee bridge are renamed after Trump - NBC News
+- At Least 11 People Die in Southern Spain Wildfire - The New York Times
+- Count Binface: The intergalactic warrior who could upend Britain's strangest election - NPR
+- Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite - CNBC
+- He’s Big, Loud and Unruly. Meet Neil, Australia’s Celebrity Seal - The New York Times
+- Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates - CNBC
+- Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC
+- Fidji Simo steps down from OpenAI’s no. 2 role - TechCrunch
+- Chip stocks boost global markets ahead of SK Hynix blockbuster US debut - Reuters
+- Samsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help - 9to5Google
 - More Than a Thousand ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
-- Samsung’s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features - GSMArena.com news - GSMArena.com
