@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-10 21:58_
+_Updated: 2026-07-10 23:34_
 
 ## Top Stories
 
-- Danska regeringen tar fram färdplan för att bekämpa ”larven från helvetet” - Dagens Nyheter
-- Tre dagars landssorg efter jättebranden i Spanien - Göteborgs-Posten
-- Fruktar förlust efter våldtäktsanklagads avhopp - Dagens Nyheter
-- Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Polisinsats i Gävle – minst en person förd till sjukhus - SVT Nyheter
+- 21.00: Kvartsfinal mellan Spanien och Belgien i VM - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
+- Tidigare RFSL-man konfronterades av Dumpen - Expressen
 - ”Strandvägen är en fritidsgård utan ledare” - Svenska Dagbladet
-- Taxi stoppad vid Nordstan – med Foxtrots granater - Göteborgs-Posten
-- Rekordhögt söktryck till BTH – över 10 000 vill studera i Blekinge - SVT Nyheter
-- Karolinska måste lämna ut uppgifter om papperslös - Västerbottens-Kuriren
+- Katja Nyberg hoppar av riksdagsvalet - Expressen
+- Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
+- Här är de populäraste programmen på Karlstads universitet - Nya Wermlands-Tidningen
 - Katja Nyberg hoppar av riksdagslista - UNT
-- DN Direkt – Ännu en häktad efter dödsskjutning i Uppsala - Dagens Nyheter
+- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
+- Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
 - Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
 - Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
 - Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
-- Ukrainska specialförband ska minska Rysslands krigsförmåga - Sveriges Radio
+- Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
 - Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
-- Prognosen: Henrik får 20 procents mindre höstskörd - Dagens Nyheter
-- SIDLEDES ÖPPNING VÄNTAS INFÖR SK HYNIX NOTERING - Placera.se
-- Expert: Hade satt mig på Ryanair imorgon - Svenska Dagbladet
+- Prognosen: Henrik får 20 procent mindre höstskörd - Dagens Nyheter
+- SMÅ UPPGÅNGAR, SK HYNIX LYFTE I DEBUT, S&P 500 +0,4% - Placera.se
+- Storbråk i techvärlden – Apple stämmer Open AI - Västerbottens-Kuriren
 - Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
-- Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
 ## World News
 
@@ -39,10 +39,10 @@ _Updated: 2026-07-10 21:58_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
-- Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -60,7 +60,7 @@ _Updated: 2026-07-10 21:58_
 - Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -89,31 +89,31 @@ _Updated: 2026-07-10 21:58_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Skapa en rökfri miljö på Huong Khe Medical Center. - Vietnam.vn
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
@@ -132,13 +132,13 @@ _Updated: 2026-07-10 21:58_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
@@ -146,8 +146,8 @@ _Updated: 2026-07-10 21:58_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL
