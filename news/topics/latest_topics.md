@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-10 14:40_
+_Updated: 2026-07-10 17:55_
 
 ## Top Stories
 
 - Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
-- Hög värme väntas på västkusten – SMHI varnar - Sveriges Radio
-- Rekordmånga har sökt – nu är antagningen klar - Göteborgs-Posten
-- Oppositionen kritisk efter förlossningskaos i Skåne - Omni – Alla nyheter. Alla perspektiv.
-- Polisen i Skåne sökte på nätet – hittade 320 barn utsatta för sexuella övergrepp - Sydsvenskan
-- Ukraina: Ryskt raff i Ilskij bombat – allt farligare för volontärer i östra Ukraina - cornucopia.se
-- DN Direkt – Ytterligare två gripna för mord vid badplats - Dagens Nyheter
-- DN Direkt – SMHI varnar för skyfall - Dagens Nyheter
-- En hel ö brinner i Åsnen - Expressen
+- Forskare om helveteslarven: Dröjer inte länge innan den dyker upp i Skåne - Dagens Nyheter
+- Svårare få plats på högskoleutbildning i höst - Västerbottens-Kuriren
+- Värmevarning på Västkusten: ”Lång period framför oss” - Omni – Alla nyheter. Alla perspektiv.
+- Sista meddelandet till soldaten: ultraljudsbild på dottern - Expressen
+- Det här får göteborgarna att koka vid vägkorsningarna - Göteborgs-Posten
+- En död efter bråk vid badplats i Stenungsund - Göteborgs-Posten
+- DN Direkt – Ännu en häktad efter dödsskjutning i Uppsala - Dagens Nyheter
+- SMHI varnar för skyfall - Västerbottens-Kuriren
 - Gängkriminella gripna i Spanien - Göteborgs-Posten
-- Knappt 4 000 döda i skalven i Venezuela - Göteborgs-Posten
-- Man nära att sugas ut genom flygplansfönster - SVT Nyheter
-- Källor: Irans plan att döda Trump avslöjad - Dagens Nyheter
-- Här används finländsk kyllastbil – som ayatollans likbil - Dagens Nyheter
-- Ändra er eller böter – EU slår mot Instagram - Svenska Dagbladet
+- Man nära sugas ut från Ryanair-plan – ”Hysteri och skrik” - TV4 Nyheterna
+- Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kreml försiktigt efter besked om Patriotrobotar till Ukraina - Sveriges Radio
+- Familjen från Norrköping tvingades fly bränderna - NT
+- EU hotar sociala medier-jätten Meta med miljardböter - TV4 Nyheterna
 - Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
-- TIN Ny Tekniks utförslöpa fortsätter – ner 20% i år - Affärsvärlden
-- Vimian: Slut på hundåren? - Affärsvärlden
-- AI-verktyg ska hjälpa Microsoft att hitta fler sårbarheter i Windows - Computer Sweden
+- Börsfrossa efter ökade AI-tvivel - Svenska Dagbladet
+- Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
 - Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
+- Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
 ## World News
 
@@ -33,7 +33,6 @@ _Updated: 2026-07-10 14:40_
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- SVT erfar: Nato köper spaningsplanet Globaleye från Saab - SVT Nyheter
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -43,24 +42,24 @@ _Updated: 2026-07-10 14:40_
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
-- Uppgifter: Nato köper Global Eye från Saab - Dagens industri
+- Läkemedelsbolaget Bayers miljardaffär tryggar tusen arbetsplatser i Finland – bakgrunden är en global giftskandal - Yle
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -70,14 +69,14 @@ _Updated: 2026-07-10 14:40_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-10 14:40_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -147,13 +147,13 @@ _Updated: 2026-07-10 14:40_
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL
 - Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
