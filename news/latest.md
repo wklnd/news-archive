@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-10 13:32_
+_Updated: 2026-07-10 15:34_
 
-- US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News
-- Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post
+- Live updates: Lull in fighting as mediators try to restart US-Iran talks - CNN
+- Man fatally shot by ICE in Houston was not intended target, DHS says - BBC
 - New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times
 - Trump Pushes Out Remaining Members of Bipartisan Election Commission Ahead of Midterms - ProPublica
 - Live Updates: Iran and U.S. ramp up tit-for-tat strikes as Khamenei laid to rest - CBS News
-- A bunch of failed candidates are scrambling to replace Graham Platner - Politico
-- Lawyers for man charged with killing Charlie Kirk question reliability of evidence - AP News
-- McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video - CNN
-- Missing Michigan woman Lynette Hooker may have returned to her sailboat before disappearance in the Bahamas, source says - CBS News
-- On the same day, a Florida airport and a Tennessee bridge are renamed after Trump - NBC News
+- It’s not me, it’s them: Platner goes down snarling with graceless exit video - The Guardian
+- Nolan Wells’ body was found after a July 4 boat trip. His death has fueled speculation, grief and racial tension - CNN
+- MAGA figures flock to Charlie Kirk murder hearing - Axios
+- Amid health rumors, GOP congressman drops shock comment on Mitch McConnell - NJ.com
+- Trump denies this Congress what could be its last major bill signing ceremony - The Washington Post
 - At Least 11 People Die in Southern Spain Wildfire - The New York Times
 - Count Binface: The intergalactic warrior who could upend Britain's strangest election - NPR
-- Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite - CNBC
-- He’s Big, Loud and Unruly. Meet Neil, Australia’s Celebrity Seal - The New York Times
-- Stock futures mixed as investors await SK Hynix U.S. debut; chip stocks retreat from rally: Live updates - CNBC
+- Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him - Reuters
+- Fire at a shoe factory kills 28 in one of China’s deadliest blazes in recent years - AP News
+- Stock Market Today: Dow Futures Edge Up Ahead of SK Hynix Debut — Live Updates - WSJ
+- Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News
 - Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC
 - Fidji Simo steps down from OpenAI’s no. 2 role - TechCrunch
-- Chip stocks boost global markets ahead of SK Hynix blockbuster US debut - Reuters
-- Samsung shares first official glimpse at wide Galaxy Z Fold 8, with Spider-Man’s help - 9to5Google
+- Foldable iPhone Ultra Battery Capacity Allegedly Registered by Supplier - MacRumors
 - More Than a Thousand ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
