@@ -1,37 +1,37 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 00:34_
+_Updated: 2026-07-11 01:32_
 
 ## Top Stories
 
 - Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
-- Källor: USA kräver garantier av Iran - Göteborgs-Posten
-- Tidigare RFSL-man konfronterades av Dumpen - Expressen
 - DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
-- Taxi stoppad vid Nordstan – med Foxtrots granater - Göteborgs-Posten
-- ”Strandvägen är en fritidsgård utan ledare” - Svenska Dagbladet
-- Rekordhögt söktryck till BTH – över 10 000 vill studera i Blekinge - SVT Nyheter
-- Karolinska måste lämna ut uppgifter om papperslös - Göteborgs-Posten
+- Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Tidigare RFSL-man konfronterades av Dumpen - Expressen
+- Källor: Ryssland stoppar sjötrafik efter attacker - Omni – Alla nyheter. Alla perspektiv.
+- Anna Nachman: Vår tids Hitler begravs – och SVT bjuder på finstämd rapportering - Fokus - Sveriges nyhetsmagasin
+- Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
 - Katja Nyberg hoppar av riksdagslista - UNT
-- SMHI varnar för höga temperaturer på Västkusten - Göteborgs-Posten
-- Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
+- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
+- Gängkriminella gripna i Spanien - Göteborgs-Posten
 - Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
-- Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
+- Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
 - Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
+- DN Direkt – Dödstalet i Venezuela passerar 4 000 - Dagens Nyheter
 - Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
 - Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
-- Prognosen: Henrik får 20 procent mindre höstskörd - Dagens Nyheter
 - Stockholmsbörsen avslutade veckan svagt nedåt - Affärsvärlden
-- DN Direkt – Storbråk i techvärlden – Apple stämmer Open AI - Dagens Nyheter
-- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
+- SMÅ UPPGÅNGAR, SK HYNIX LYFTE I DEBUT, S&P 500 +0,4% - Placera.se
+- DN Direkt – Ytterligare en begärs häktad efter Uppsalamord - Dagens Nyheter
+- Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
-- Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
@@ -40,9 +40,9 @@ _Updated: 2026-07-11 00:34_
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -78,8 +78,8 @@ _Updated: 2026-07-11 00:34_
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -102,7 +102,7 @@ _Updated: 2026-07-11 00:34_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Khalid satsar på digital vård – mot fetma - st.nu
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
@@ -146,19 +146,19 @@ _Updated: 2026-07-11 00:34_
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
 - Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL
-- Historisk marsch till Bryssel - LRF - Lantbrukarnas Riksförbund
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
+- Lantbrukarnas data blir en tillgång - Land.se
