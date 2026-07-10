@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-10 17:55_
+_Updated: 2026-07-10 20:08_
 
 ## Top Stories
 
 - Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
 - Forskare om helveteslarven: Dröjer inte länge innan den dyker upp i Skåne - Dagens Nyheter
-- Svårare få plats på högskoleutbildning i höst - Västerbottens-Kuriren
-- Värmevarning på Västkusten: ”Lång period framför oss” - Omni – Alla nyheter. Alla perspektiv.
-- Sista meddelandet till soldaten: ultraljudsbild på dottern - Expressen
-- Det här får göteborgarna att koka vid vägkorsningarna - Göteborgs-Posten
-- En död efter bråk vid badplats i Stenungsund - Göteborgs-Posten
-- DN Direkt – Ännu en häktad efter dödsskjutning i Uppsala - Dagens Nyheter
-- SMHI varnar för skyfall - Västerbottens-Kuriren
-- Gängkriminella gripna i Spanien - Göteborgs-Posten
-- Man nära sugas ut från Ryanair-plan – ”Hysteri och skrik” - TV4 Nyheterna
+- Brittisk ex-minister misstänkt mördad – man gripen - Västerbottens-Kuriren
 - Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Kreml försiktigt efter besked om Patriotrobotar till Ukraina - Sveriges Radio
+- Ytterligare en häktad efter dödsskjutning i Uppsala - Aftonbladet
+- Mordet på Hawaii badplats – De boende har länge slagit larm om parkeringen - ST-tidningen
+- Rekordhögt söktryck till BTH – över 10 000 vill studera i Blekinge - SVT Nyheter
+- Katja Nyberg hoppar av riksdagslista - Västerbottens-Kuriren
+- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
+- Gängkriminella gripna i Spanien - Göteborgs-Posten
+- Man nära att sugas ut genom flygplansfönster - Aftonbladet
+- ICE tog fel man – sköt ihjäl trebarnspappa - Dagens Nyheter
+- Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
 - Familjen från Norrköping tvingades fly bränderna - NT
+- Bulten säljer kontraktstillverkning inom fordonsindustrin - EFN
+- Börsfrossa efter ökade AI-tvivel - Svenska Dagbladet
 - EU hotar sociala medier-jätten Meta med miljardböter - TV4 Nyheterna
 - Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
-- Börsfrossa efter ökade AI-tvivel - Svenska Dagbladet
-- Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
 - Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 - Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
@@ -41,8 +41,8 @@ _Updated: 2026-07-10 17:55_
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
 - Klart: Nato köper Saabs Global Eye - Affärsvärlden
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Bo Torbjörn Ek: Därför är Global Eye en exportsuccé - Dagens Nyheter
-- Läkemedelsbolaget Bayers miljardaffär tryggar tusen arbetsplatser i Finland – bakgrunden är en global giftskandal - Yle
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
@@ -51,15 +51,16 @@ _Updated: 2026-07-10 17:55_
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Artificial intelligence in enterprises 2025 - Statistikmyndigheten SCB
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- AI's Energy Challenge: InfiniNode Raises €2M to Boost Computing Efficiency - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
@@ -69,30 +70,29 @@ _Updated: 2026-07-10 17:55_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
+- Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Sambla Group enters new partnership with Majblomman – to strengthen the economic future of children - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -134,11 +134,11 @@ _Updated: 2026-07-10 17:55_
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Vetenskap, skratt och naturupplevelser – när postdoktorer möts i Kronlund - Umeå universitet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskarna dömer ut trender i skolan: ”Bygger på myter” - Vi Lärare
 
 ## Jordbruk
 
