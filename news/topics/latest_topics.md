@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-10 23:34_
+_Updated: 2026-07-11 00:34_
 
 ## Top Stories
 
-- Polisinsats i Gävle – minst en person förd till sjukhus - SVT Nyheter
-- 21.00: Kvartsfinal mellan Spanien och Belgien i VM - Omni – Alla nyheter. Alla perspektiv.
-- DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
+- Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
+- Källor: USA kräver garantier av Iran - Göteborgs-Posten
 - Tidigare RFSL-man konfronterades av Dumpen - Expressen
+- DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
+- Taxi stoppad vid Nordstan – med Foxtrots granater - Göteborgs-Posten
 - ”Strandvägen är en fritidsgård utan ledare” - Svenska Dagbladet
-- Katja Nyberg hoppar av riksdagsvalet - Expressen
-- Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
-- Här är de populäraste programmen på Karlstads universitet - Nya Wermlands-Tidningen
+- Rekordhögt söktryck till BTH – över 10 000 vill studera i Blekinge - SVT Nyheter
+- Karolinska måste lämna ut uppgifter om papperslös - Göteborgs-Posten
 - Katja Nyberg hoppar av riksdagslista - UNT
-- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
-- Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
+- SMHI varnar för höga temperaturer på Västkusten - Göteborgs-Posten
 - Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
-- Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
+- Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
 - Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
+- Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
 - Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
 - Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
 - Prognosen: Henrik får 20 procent mindre höstskörd - Dagens Nyheter
-- SMÅ UPPGÅNGAR, SK HYNIX LYFTE I DEBUT, S&P 500 +0,4% - Placera.se
-- Storbråk i techvärlden – Apple stämmer Open AI - Västerbottens-Kuriren
+- Stockholmsbörsen avslutade veckan svagt nedåt - Affärsvärlden
+- DN Direkt – Storbråk i techvärlden – Apple stämmer Open AI - Dagens Nyheter
 - Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 
 ## World News
@@ -65,11 +65,11 @@ _Updated: 2026-07-10 23:34_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
@@ -132,12 +132,12 @@ _Updated: 2026-07-10 23:34_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
