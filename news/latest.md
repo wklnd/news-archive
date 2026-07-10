@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-10 01:49_
+_Updated: 2026-07-10 06:38_
 
-- Who will replace Platner on the Maine ballot? These Democrats are raising their hands - AP News
-- Charlie Kirk murder suspect told roommate 'he wishes he hadn't done it', court hears - BBC
-- Live Updates: U.S. and Iran Trade Fresh Strikes After Trump Suggests Cease-Fire Is ‘Over’ - The New York Times
-- GOP lawmaker says he doesn’t know if Mitch McConnell is alive - FOX 8 News
-- Trump left NATO summit on old Air Force One, not new jet from Qatar - The Washington Post
-- ICE officers involved in fatal Houston shooting weren’t wearing bodycams - NBC News
+- US and Iran exchange intensifying fire across Mideast, threatening ceasefire deal - AP News
+- Here's who's vying to replace Graham Platner as Maine Democratic Senate nominee - CBS News
+- President Trump cleans house at the bipartisan Election Assistance Commission - NPR
+- New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say - The New York Times
+- Mexico threatens legal action over citizens' deaths in ICE custody - Axios
+- Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say - CNN
+- Man accused of killing Charlie Kirk wished ‘he hadn’t done it,’ roommate says - The Washington Post
 - Former Olympian pleads not guilty in Reflecting Pool damage case after Trump alleged vandalism - AP News
-- Trump's renewed Iran strikes put Republicans in a bind - Politico
-- Wally Funk, a North Texas aviation pioneer, has died. Here's how she broke barriers - CBS News
-- Trump’s plan for a triumphal arch in DC wins early approval from a key federal agency - AP News
+- Courts reject Trump's Hail Mary bids to avoid paying E. Jean Carroll - Politico
+- U.S. Attorney Boutros still due in court Thursday after failing to convince judge to cancel hearing - Chicago Sun-Times
+- Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News
 - Dozens killed, snakes on the loose after flooding from days of heavy rain in southern China - NBC News
-- How England's class divide shaped Andy Burnham, the U.K.'s likely next prime minister - NPR
-- South African protesters go door-to-door forcing immigrants from their homes - NBC News
-- Russia's Saratov oil refinery at a halt since Wednesday's drone attack, sources say - Reuters
-- Fed chief taps Trump ally Marc Andreessen to advise on how AI reshapes work - The Washington Post
-- Where Jim Cramer stands on SK Hynix's massive offering - CNBC
-- EPA proposes weakening heavy-duty truck pollution rules - NPR
-- Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide - AP News
-- Sony's RX10 V Superzoom Finally Arrives With A New Design And 4K 120p Video - Engadget
-- I Gave My Steam Machine A Second Stick Of RAM Because Valve Couldn't - Aftermath
+- NATO’s Ankara summit was a wasted opportunity - politico.eu
+- A quest for closure: In search of the missing after Venezuela’s earthquakes - Al Jazeera
+- SK Hynix (SKHY) US Listing: What to Know About the Largest-Ever ADR Offering - Barron's
+- Days after announcing mass layoffs, Xbox CEO Asha Sharma tapped to advise the Federal Reserve on jobs - Engadget
+- OpenAI launches its new family of models with GPT-5.6 - TechCrunch
+- OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down - WIRED
+- Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo - WIRED
+- OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch
