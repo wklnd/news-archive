@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 14:28_
+_Updated: 2026-07-11 16:01_
 
 ## Top Stories
 
+- Sydafrikas VM-spelare Jayden Adams avliden - Fotbollskanalen
+- Man gripen för brittiskt politikermord släppt - Göteborgs-Posten
 - Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
 - Ballistiska robotar över Kyiv – elvaåring skadad - Omni – Alla nyheter. Alla perspektiv.
-- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
-- Hind, 32, sökte jobb – vågade inte bära slöja - Expressen
-- DN Direkt – Hundratusentals flyr tyfonen – vågor på tolv meter - Dagens Nyheter
-- Ny extremhetta i Frankrike – Eiffeltornet stänger - SVT Nyheter
-- Motorbåt körde in i fyr – kvinna allvarligt skadad - SVT Nyheter
+- Hundratusentals flyr tyfonen – vågor på tolv meter - Västerbottens-Kuriren
+- Osynlig vattenparasit ställer till det för badare - Svenska Dagbladet
+- Motorbåt rakt in i en fyr – kvinna allvarligt skadad - TV4 Nyheterna
 - Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
-- Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt” - Dagens Nyheter
 - Tredje person begärd häktad för inblandning i mordet - UNT
+- Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt” - Dagens Nyheter
 - Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Branden i Spanien: ”Som ett helvete” - Hufvudstadsbladet – HBL
 - Trump: USA ödelägger Iran om jag mördas - Corren
-- Så tog Ukraina tillbaka initiativet i kriget - Dagens Nyheter
-- Reportrar stäms – skrev om brister på Trumps lyxplan - SVT Nyheter
+- Khamenei den yngre lovar hämnd för fadern - Göteborgs-Posten
+- Beskedet till hemtjänstpersonalen: Uppskjuten lön - Dagens Nyheter
 - Analytikern pekar ut: Duon som kan lyfta Mag7 igen - Börskollen
 - Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
 - Netflix backar på ljusgröna Wall Street-börser - EFN
-- Bulten stiger på oregelbunden Stockholmsbörs, OMXS30-index backar 0,1 procent (Finwire News) - Aktiellt
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- Samsung Galaxy Z Flip 8 kan bli den sista modellen i serien – och det vore både tråkigt och oväntat - TechRadar
+- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 
 ## World News
 
@@ -41,12 +41,12 @@ _Updated: 2026-07-11 14:28_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -133,12 +133,12 @@ _Updated: 2026-07-11 14:28_
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -153,12 +153,12 @@ _Updated: 2026-07-11 14:28_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Kan agroekologi mätta världen? - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
