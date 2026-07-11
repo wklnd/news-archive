@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 23:23_
+_Updated: 2026-07-12 00:23_
 
 ## Top Stories
 
-- Attackerar ryska fartyg – stoppar bränsle till Krim - Expressen
-- Tredje person häktad efter mord i Uppsala - Aftonbladet
-- Kvinna drunknade vid badplats på Orust - SVT Nyheter
-- DN Direkt – Böter för snitt – Erdogan vill ha ”naturliga” födslar - Dagens Nyheter
-- Hbtq-kryssning stoppas – igen: ”Glittrar annanstans” - Dagens Nyheter
-- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
-- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
-- Försvunna kajakpaddlare hittade - Västerbottens-Kuriren
-- Giftlarver på Gotland – länsstyrelsen varnar - Göteborgs-Posten
-- Skräckfyndet på stranden: Edda, 5, hittade skarp granat - Aftonbladet
-- DN Direkt – Dödstalet i Venezuela räknas upp igen - Dagens Nyheter
-- Reportrar stäms – skrev om brister på Trumps lyxplan - Västerbottens-Kuriren
+- Källa: Två separata farleder i Hormuzsundet - Göteborgs-Posten
 - Ryska ballistiska robotar slank igenom Ukrainas försvar - Dagens Nyheter
-- Mordet som skakade Danmark: Tio år efter 17-åriga Emilie Mengs försvinnande - Dagens Nyheter
+- Kvinna drunknade vid badplats på Orust - Expressen
+- Föräldrar låstes ute av sin treåring på balkongen - Omni – Alla nyheter. Alla perspektiv.
+- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
+- Tredje person häktad efter mord i Uppsala - Aftonbladet
+- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
+- Kajakpaddlare försvunna – stor sökinsats - Västerbottens-Kuriren
+- Giftlarver på Gotland – länsstyrelsen varnar - Göteborgs-Posten
+- ANDREEA VANCIU: Man måste få kunna kalla poliser för potatisgrisar - UNT
+- Reportrar stäms – skrev om brister på Trumps lyxplan - Hufvudstadsbladet – HBL
+- Böter för snitt – Erdogan vill ha ”naturliga” födslar - Västerbottens-Kuriren
+- DN Direkt – Miljontals evakuerade när tyfonen Bavi drar in över Kina - Dagens Nyheter
+- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
 - Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
+- Volkswagens nya plan väcker oro och protester – fyra fabriker och 120 000 jobb hotas - Börskollen
 - Meta drar tillbaka kritiserad funktion - Aftonbladet
-- Populäraste aktierna: Här placerar våra grannar pengarna - Dagens PS
 - Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
-- Enligt uppgift är ett nytt DOOM-spel under utveckling trots de senaste uppsägningarna hos id Software - notebookcheck.se
+- ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
 
 ## World News
 
@@ -50,18 +50,19 @@ _Updated: 2026-07-11 23:23_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -69,7 +70,6 @@ _Updated: 2026-07-11 23:23_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
@@ -97,48 +97,48 @@ _Updated: 2026-07-11 23:23_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
+- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
+- ERC-finansiering: möjligheter för klinisk forskning och kliniskt verksamma forskare - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Täta band mellan turism och forskning på Svalbard - SLU
-- Gemini för vetenskap ska hjälpa forskare - Swedroid
-- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Forskning och Vetenskap - umb.edu.pl
+- AI och data science - Stockholms universitet
+- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
+- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- 5 myter om öppen vetenskap - Läkartidningen
+- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Avdelningen för fotonik - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Webbinarium: Lär dig att presentera din forskning på 4 minuter - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 
 ## Jordbruk
 
