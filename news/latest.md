@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-11 01:36_
+_Updated: 2026-07-11 03:05_
 
 - Major housing affordability bill will become law without Trump’s signature - NBC News
-- Migrants who saw man killed by ICE in Houston say he did not ram officers - The Washington Post
 - U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
+- Harris County ME rules Houston ICE shooting death of Lorenzo Salgado Araujo a homicide - Click2Houston
+- Trump Administration Fires Members of Independent Election Group - The New York Times
+- White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm - Forbes
 - Man arrested as part of murder investigation into death of Ann Widdecombe - BBC
-- Graham Platner makes it official in Maine, submitting paperwork to leave Senate race - NPR
-- Marco Rubio announces deportation of Minnesota man pardoned last month - The Guardian
-- Nolan Wells' family demands answers about US teen's death after boating trip - BBC
-- Defense tries to sow doubt about evidence in Charlie Kirk’s killing - AP News
-- Axelrod: ‘Signals are flashing red’ over potential Trump election interference - The Hill
-- Russia sanctions legislation gets green light from White House , lawmakers say - Politico
-- Charles hosted Prince Harry and family for first time in years as they try to repair a family rift - AP News
-- Monaco bomb mystery deepens as Ukraine’s security services are linked to murder of prime suspect - The Guardian
-- Twelve dead and 23 missing in Spain wildfire as man describes 'surreal' view as blaze approached - BBC
-- U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks - Axios
+- Graham Platner withdraws from Maine Senate race, kicking off Democrats’ quest for nominee - AP News
+- Trump touts mysterious 'Freedom Fuel' network of cheap gas stations as pump prices rise - Yahoo Finance
+- What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip - PBS
+- Tyler Robinson case: Defense attacks ballistics evidence as preliminary hearing wraps up - Fox News
+- King Charles understood to have met Prince Harry’s children at Highgrove - The Guardian
+- Ten Killed in Plane Crash on the Bahamas’ Largest Island - The New York Times
+- Ukraine Says It Hit Two Russian Refineries, Slew of Fuel Tankers - Bloomberg.com
+- Spanish wildfire victims burned in cars as roads turned into death traps - Reuters
 - Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ
-- SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's
+- SK Hynix shares jump in marquee US debut as AI euphoria persists - Reuters
+- Volkswagen to scrap half of product lineup as China, EV pressures mount - Yahoo Finance
 - Global oil demand is dropping, but US drivers keep buying more gas - AP News
-- Circle wins final regulatory approval to establish US trust bank, shares rise - Reuters
-- The ChatGPT "Super App" Sort of Super Sucks - spyglass.org
 - God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku
+- With ChatGPT Atlas shutting down, here are the AI browsers people actually use - 9to5Mac
