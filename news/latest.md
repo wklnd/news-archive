@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-11 03:05_
+_Updated: 2026-07-11 06:47_
 
-- Major housing affordability bill will become law without Trump’s signature - NBC News
-- U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
+- A major housing bill is set to become law at midnight — even though Trump says he won't sign - NPR
+- Trump officials sought ways to sidestep election agency before firings, sources say - Reuters
+- U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks - Axios
 - Harris County ME rules Houston ICE shooting death of Lorenzo Salgado Araujo a homicide - Click2Houston
-- Trump Administration Fires Members of Independent Election Group - The New York Times
+- U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
 - White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm - Forbes
-- Man arrested as part of murder investigation into death of Ann Widdecombe - BBC
-- Graham Platner withdraws from Maine Senate race, kicking off Democrats’ quest for nominee - AP News
-- Trump touts mysterious 'Freedom Fuel' network of cheap gas stations as pump prices rise - Yahoo Finance
 - What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip - PBS
-- Tyler Robinson case: Defense attacks ballistics evidence as preliminary hearing wraps up - Fox News
-- King Charles understood to have met Prince Harry’s children at Highgrove - The Guardian
+- Trump-appointed judge dismisses seditious conspiracy case against Proud Boys - The Guardian
+- 'Devastating' evidence against Charlie Kirk murder suspect laid out in court - BBC
+- Maine Democrats Announce July 25 Convention to Pick Platner Replacement - The New York Times
 - Ten Killed in Plane Crash on the Bahamas’ Largest Island - The New York Times
-- Ukraine Says It Hit Two Russian Refineries, Slew of Fuel Tankers - Bloomberg.com
-- Spanish wildfire victims burned in cars as roads turned into death traps - Reuters
-- Apple Sues OpenAI, Alleging It Stole Trade Secrets - WSJ
-- SK Hynix shares jump in marquee US debut as AI euphoria persists - Reuters
+- Patriot missile deal and Trump’s praise for Zelensky put pressure on Russia - The Washington Post
+- Charles hosted Prince Harry and family for first time in years as they try to repair a family rift - AP News
+- Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say - Euronews
+- Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post
 - Volkswagen to scrap half of product lineup as China, EV pressures mount - Yahoo Finance
-- Global oil demand is dropping, but US drivers keep buying more gas - AP News
-- God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku
-- With ChatGPT Atlas shutting down, here are the AI browsers people actually use - 9to5Mac
+- Mega Millions and Powerball pots roll on into the weekend, jackpot surpasses $1B - KOMO
+- Meta appeals landmark jury verdict that found it to blame for social media addiction for young users - AP News
+- Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority
+- A decade later, Pokémon Go finally made good on its original promise - The Verge
