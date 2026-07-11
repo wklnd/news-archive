@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 06:42_
+_Updated: 2026-07-11 09:24_
 
 ## Top Stories
 
-- DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
+- Trump: USA ödelägger Iran om jag mördas - Corren
+- Motorcyklist död efter trafikolycka på E6 - Sveriges Radio
+- Polisen visste att Vivvis sambo kunde döda henne – ändå gick han fri - Aftonbladet
+- Dödliga attacker mot Ukraina - Västerbottens-Kuriren
+- DN Direkt – Man gripen för brittiskt politikermord släppt - Dagens Nyheter
+- Teresa blev påkörd av mobilsurfande man på elspark – han slipper straff - Sydsvenskan
 - Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
-- Trump: USA kommer ödelägga Iran om jag mördas - Västerbottens-Kuriren
-- Så tog Ukraina tillbaka initiativet i kriget - Dagens Nyheter
-- Källor: USA kräver garantier av Iran - Västerbottens-Kuriren
-- Araghchi till Oman för Hormuzsamtal - Göteborgs-Posten
-- En död i motorcykelolycka - SVT Nyheter
-- Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
+- DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
 - Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
-- En stillastående personbil ger stopp i ett körfält på E18 - UNT
-- Kiev under attack – flera skadade - Hufvudstadsbladet – HBL
-- Amerikansk hjälparbetare smittad av ebola - Västerbottens-Kuriren
-- DN Direkt – Larm om skottlossning i Gävle - Dagens Nyheter
-- Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
+- Misstänkt för drograttfylleri - Skillingaryd
+- Araghchi: Iran har hållit sitt ord gentemot USA - Västerbottens-Kuriren
+- Så tog Ukraina tillbaka initiativet i kriget - Dagens Nyheter
+- Ny extremhetta slår mot Frankrike - Corren
+- Familjen från Norrköping tvingades fly bränderna - NT
+- Norrmän fyndar mat i Strömstad – 51 procent dyrare hemma - Expressen
+- Vanliga shoppingvanan som kan spräcka din budget: "Inte rabatt" - Dagens PS
+- Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
 - Netflix backar på ljusgröna Wall Street-börser - EFN
-- SK Hynix rusar på USA-börs efter notering - Västerbottens-Kuriren
-- Bulten stiger på oregelbunden Stockholmsbörs, OMXS30-index backar 0,1 procent (Finwire News) - Aktiellt
-- Skräcken på Ryanairplanet: ”Halva hans kropp hängde ut genom fönstret” - Aftonbladet
-- Paleontologer rotade i museets dammiga arkivlådor, när de plötsligt gjorde ett extremt sällsynt fynd - Illustrerad Vetenskap
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
+- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 
 ## World News
 
@@ -32,18 +32,18 @@ _Updated: 2026-07-11 06:42_
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -59,12 +59,12 @@ _Updated: 2026-07-11 06:42_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -97,7 +97,6 @@ _Updated: 2026-07-11 06:42_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
@@ -105,6 +104,7 @@ _Updated: 2026-07-11 06:42_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -126,16 +126,16 @@ _Updated: 2026-07-11 06:42_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
