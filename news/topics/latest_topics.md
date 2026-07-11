@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 21:41_
+_Updated: 2026-07-11 23:23_
 
 ## Top Stories
 
-- DN Direkt – Fortsatt kamp mot dödlig brand i Spanien - Dagens Nyheter
-- Hbtq-kryssning stoppas – igen: ”Glittrar annanstans” - Dagens Nyheter
-- Prognos: Dubbelvärmen slår till – snart blir det ännu varmare - Expressen
-- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Göteborgs-Posten
-- Ballistiska robotar slank igenom Ukrainas försvar - Västerbottens-Kuriren
-- Kökaos på flygplatser – länder varnar för systemet - Göteborgs-Posten
-- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
-- DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
-- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
-- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
+- Attackerar ryska fartyg – stoppar bränsle till Krim - Expressen
+- Tredje person häktad efter mord i Uppsala - Aftonbladet
+- Kvinna drunknade vid badplats på Orust - SVT Nyheter
 - DN Direkt – Böter för snitt – Erdogan vill ha ”naturliga” födslar - Dagens Nyheter
+- Hbtq-kryssning stoppas – igen: ”Glittrar annanstans” - Dagens Nyheter
+- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
+- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
+- Försvunna kajakpaddlare hittade - Västerbottens-Kuriren
+- Giftlarver på Gotland – länsstyrelsen varnar - Göteborgs-Posten
+- Skräckfyndet på stranden: Edda, 5, hittade skarp granat - Aftonbladet
+- DN Direkt – Dödstalet i Venezuela räknas upp igen - Dagens Nyheter
+- Reportrar stäms – skrev om brister på Trumps lyxplan - Västerbottens-Kuriren
+- Ryska ballistiska robotar slank igenom Ukrainas försvar - Dagens Nyheter
 - Mordet som skakade Danmark: Tio år efter 17-åriga Emilie Mengs försvinnande - Dagens Nyheter
-- Drabbade av ”Havannasyndromet” får ersättning - SVT Nyheter
-- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
-- DN Direkt – Svenskarna har mer än 10 000 miljarder i fonder - Dagens Nyheter
+- Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
-- EU hotar sociala medier-jätten Meta med miljardböter - TV4 Nyheterna
+- Meta drar tillbaka kritiserad funktion - Aftonbladet
 - Populäraste aktierna: Här placerar våra grannar pengarna - Dagens PS
 - Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
-- LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
+- Enligt uppgift är ett nytt DOOM-spel under utveckling trots de senaste uppsägningarna hos id Software - notebookcheck.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
-- Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 
@@ -62,9 +62,9 @@ _Updated: 2026-07-11 21:41_
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
@@ -125,6 +125,7 @@ _Updated: 2026-07-11 21:41_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning och Vetenskap - umb.edu.pl
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
@@ -132,7 +133,6 @@ _Updated: 2026-07-11 21:41_
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
@@ -156,7 +156,7 @@ _Updated: 2026-07-11 21:41_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
