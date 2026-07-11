@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 00:23_
+_Updated: 2026-07-12 01:27_
 
 ## Top Stories
 
+- Fotbolls-VM: Norska fansen inför kvartsfinalen: ”Vi kommer vinna VM” – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
+- DN Direkt – Misstänkt gripen för mordet på brittisk exminister - Dagens Nyheter
+- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
 - Källa: Två separata farleder i Hormuzsundet - Göteborgs-Posten
-- Ryska ballistiska robotar slank igenom Ukrainas försvar - Dagens Nyheter
-- Kvinna drunknade vid badplats på Orust - Expressen
-- Föräldrar låstes ute av sin treåring på balkongen - Omni – Alla nyheter. Alla perspektiv.
-- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
-- Tredje person häktad efter mord i Uppsala - Aftonbladet
-- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
-- Kajakpaddlare försvunna – stor sökinsats - Västerbottens-Kuriren
-- Giftlarver på Gotland – länsstyrelsen varnar - Göteborgs-Posten
+- Ballistiska robotar slank igenom Ukrainas försvar - Göteborgs-Posten
+- Attacker stoppar bränslet till Krim - Expressen
+- DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
+- Batteri har exploderat i lägenhet i Marieberg – en skadad - SVT Nyheter
+- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
 - ANDREEA VANCIU: Man måste få kunna kalla poliser för potatisgrisar - UNT
+- DN Direkt – Dödstalet i Venezuela räknas upp igen - Dagens Nyheter
 - Reportrar stäms – skrev om brister på Trumps lyxplan - Hufvudstadsbladet – HBL
 - Böter för snitt – Erdogan vill ha ”naturliga” födslar - Västerbottens-Kuriren
-- DN Direkt – Miljontals evakuerade när tyfonen Bavi drar in över Kina - Dagens Nyheter
-- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
+- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
 - Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
 - Volkswagens nya plan väcker oro och protester – fyra fabriker och 120 000 jobb hotas - Börskollen
 - Meta drar tillbaka kritiserad funktion - Aftonbladet
-- Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 - ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
+- Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 
 ## World News
 
@@ -62,7 +62,6 @@ _Updated: 2026-07-12 00:23_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -70,12 +69,12 @@ _Updated: 2026-07-12 00:23_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
@@ -93,52 +92,53 @@ _Updated: 2026-07-12 00:23_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- ERC-finansiering: möjligheter för klinisk forskning och kliniskt verksamma forskare - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- AI och data science - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
+- Täta band mellan turism och forskning på Svalbard - SLU
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning och Vetenskap - umb.edu.pl
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Täta band mellan turism och forskning på Svalbard - SLU
-- 5 myter om öppen vetenskap - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
-- Webbinarium: Lär dig att presentera din forskning på 4 minuter - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
@@ -153,10 +153,10 @@ _Updated: 2026-07-12 00:23_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Driva lantbruk i Ryssland är ingen promenad i parken - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
