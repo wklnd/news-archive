@@ -1,35 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 12:41_
+_Updated: 2026-07-11 14:28_
 
 ## Top Stories
 
 - Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
-- Polisen visste att Vivvis sambo kunde döda henne – ändå gick han fri - Aftonbladet
 - Ballistiska robotar över Kyiv – elvaåring skadad - Omni – Alla nyheter. Alla perspektiv.
+- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
 - Hind, 32, sökte jobb – vågade inte bära slöja - Expressen
-- Norges dilemma: ”Kan inte bara fortsätta” - Svenska Dagbladet
-- Man gripen för brittiskt politikermord släppt - Västerbottens-Kuriren
-- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
-- Motorbåt körde in i fyr – kvinna allvarligt skadad - SVT Nyheter
-- Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt” - Dagens Nyheter
-- Misstänkt skjutning i Gävle – skadad person hittad - Göteborgs-Posten
 - DN Direkt – Hundratusentals flyr tyfonen – vågor på tolv meter - Dagens Nyheter
+- Ny extremhetta i Frankrike – Eiffeltornet stänger - SVT Nyheter
+- Motorbåt körde in i fyr – kvinna allvarligt skadad - SVT Nyheter
+- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
+- Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt” - Dagens Nyheter
+- Tredje person begärd häktad för inblandning i mordet - UNT
+- Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trump: USA ödelägger Iran om jag mördas - Corren
-- Ny extremhetta slår mot Frankrike - Corren
-- USA och Iran beskyller varandra för felsteg – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Norrmän fyndar mat i Strömstad – 51 procent dyrare hemma - Expressen
-- Vanliga shoppingvanan som kan spräcka din budget: "Inte rabatt" - Dagens PS
+- Så tog Ukraina tillbaka initiativet i kriget - Dagens Nyheter
+- Reportrar stäms – skrev om brister på Trumps lyxplan - SVT Nyheter
+- Analytikern pekar ut: Duon som kan lyfta Mag7 igen - Börskollen
 - Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
 - Netflix backar på ljusgröna Wall Street-börser - EFN
+- Bulten stiger på oregelbunden Stockholmsbörs, OMXS30-index backar 0,1 procent (Finwire News) - Aktiellt
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
+- Samsung Galaxy Z Flip 8 kan bli den sista modellen i serien – och det vore både tråkigt och oväntat - TechRadar
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
+- Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -37,16 +36,17 @@ _Updated: 2026-07-11 12:41_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
+- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2026-07-11 12:41_
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
-- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
@@ -97,48 +97,48 @@ _Updated: 2026-07-11 12:41_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Förbättrar ChatGPT för vårdpersonal - OpenAI
-- Hälften av världens befolkning saknar tillgång till säker kirurgi - Läkartidningen
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
-- ERC-finansiering: möjligheter för klinisk forskning och kliniskt verksamma forskare - Karolinska Institutet
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Olika slutsatser från samma data - Läkartidningen
-- AI och data science - Stockholms universitet
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Olika slutsatser från samma data - Läkartidningen
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- 5 myter om öppen vetenskap - Läkartidningen
-- Webbinarium: Lär dig att presentera din forskning på 4 minuter - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
+- Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
