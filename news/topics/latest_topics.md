@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 20:26_
+_Updated: 2026-07-11 21:41_
 
 ## Top Stories
 
 - DN Direkt – Fortsatt kamp mot dödlig brand i Spanien - Dagens Nyheter
-- Mordet som skakade Danmark: Tio år efter 17-åriga Emilie Mengs försvinnande - Dagens Nyheter
-- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
-- Kökaos på flygplatser – länder varnar för systemet - Göteborgs-Posten
-- Ringöns krogar får gratis busslinje i sommar - Göteborgs-Posten
+- Hbtq-kryssning stoppas – igen: ”Glittrar annanstans” - Dagens Nyheter
+- Prognos: Dubbelvärmen slår till – snart blir det ännu varmare - Expressen
+- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Göteborgs-Posten
 - Ballistiska robotar slank igenom Ukrainas försvar - Västerbottens-Kuriren
+- Kökaos på flygplatser – länder varnar för systemet - Göteborgs-Posten
 - DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
 - DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
 - Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
 - Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
-- Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Drabbade av ”Havannasyndromet” får ersättning - Hufvudstadsbladet – HBL
+- DN Direkt – Böter för snitt – Erdogan vill ha ”naturliga” födslar - Dagens Nyheter
+- Mordet som skakade Danmark: Tio år efter 17-åriga Emilie Mengs försvinnande - Dagens Nyheter
+- Drabbade av ”Havannasyndromet” får ersättning - SVT Nyheter
 - Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
-- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
+- DN Direkt – Svenskarna har mer än 10 000 miljarder i fonder - Dagens Nyheter
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
-- Svenskarna har mer än 10 000 miljarder i fonder - Västerbottens-Kuriren
-- Beskedet till hemtjänstpersonalen: Uppskjuten lön - Dagens Nyheter
-- 180 elbilar ska spara pengar i Volvo Cars nya parkeringshus - Dagens Nyheter
+- EU hotar sociala medier-jätten Meta med miljardböter - TV4 Nyheterna
+- Populäraste aktierna: Här placerar våra grannar pengarna - Dagens PS
 - Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
 
@@ -30,21 +30,21 @@ _Updated: 2026-07-11 20:26_
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- Kuriren nominerad för satsning på unga läsare - Kuriren
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 
@@ -77,19 +77,19 @@ _Updated: 2026-07-11 20:26_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
