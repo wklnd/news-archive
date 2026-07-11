@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 19:30_
+_Updated: 2026-07-11 20:26_
 
 ## Top Stories
 
 - DN Direkt – Fortsatt kamp mot dödlig brand i Spanien - Dagens Nyheter
-- Prognos: Dubbelvärmen slår till – snart blir det ännu varmare - Expressen
-- Så jobbar fältarna förebyggande: ”Viktigt att unga har jobb” - Aftonbladet
-- Batteri har exploderat i lägenhet i Marieberg – en skadad - SVT Nyheter
-- Ny extremhetta slår mot Frankrike - Corren
 - Mordet som skakade Danmark: Tio år efter 17-åriga Emilie Mengs försvinnande - Dagens Nyheter
-- Försvarsmakten anställer fler civila än militärer - Sveriges Radio
+- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
+- Kökaos på flygplatser – länder varnar för systemet - Göteborgs-Posten
+- Ringöns krogar får gratis busslinje i sommar - Göteborgs-Posten
+- Ballistiska robotar slank igenom Ukrainas försvar - Västerbottens-Kuriren
+- DN Direkt – Stor utryckning på Kungsholmen efter larm om explosion - Dagens Nyheter
 - DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
-- Insats för att rädda skadad man på fjället - TV4 Nyheterna
+- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
 - Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
 - Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ballistiska robotar slank igenom Ukrainas försvar - Göteborgs-Posten
-- Khamenei den yngre lovar hämnd för fadern - Hufvudstadsbladet – HBL
-- Drabbade av ”Havannasyndromet” får ersättning - Västerbottens-Kuriren
+- Drabbade av ”Havannasyndromet” får ersättning - Hufvudstadsbladet – HBL
+- Khamenei den yngre lovar hämnd för fadern - Västerbottens-Kuriren
+- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
+- Svenskarna har mer än 10 000 miljarder i fonder - Västerbottens-Kuriren
 - Beskedet till hemtjänstpersonalen: Uppskjuten lön - Dagens Nyheter
-- Netflix backar på ljusgröna Wall Street-börser - EFN
-- Bulten stiger på oregelbunden Stockholmsbörs, OMXS30-index backar 0,1 procent (Finwire News) - Aktiellt
+- 180 elbilar ska spara pengar i Volvo Cars nya parkeringshus - Dagens Nyheter
 - Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
 
@@ -42,9 +42,9 @@ _Updated: 2026-07-11 19:30_
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 
@@ -108,12 +108,12 @@ _Updated: 2026-07-11 19:30_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
@@ -122,18 +122,18 @@ _Updated: 2026-07-11 19:30_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
