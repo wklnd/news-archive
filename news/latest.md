@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-11 18:33_
+_Updated: 2026-07-11 19:39_
 
+- Times Journalists Subpoenaed as Trump Escalates Pressure on Media - The New York Times - The New York Times
+- Trump and Iran’s supreme leader trade threats as mediators try to save their crumbling deal - AP News
+- Graham Platner officially withdraws from the Maine Senate race - NBC News
 - Landmark US housing legislation becomes law despite Trump protest - BBC
-- Mexican builder fatally shot by an ICE officer is mourned after making a life in the US - AP News
-- Trump warns Iran of ‘complete decimation’ if assassination threat carried out - The Hill
-- WATCH: Early Graham Platner critic unloads on 'unapologetic' Senate candidate in scathing rebuke - Fox News
-- Trump administration subpoenas New York Times journalists over new Air Force One reporting - The Guardian
 - Live updates: U.S. and Iran to continue talks after tensions escalated over Strait of Hormuz - CBS News
+- Days after fatal ICE shooting, Texas GOP leaders remain silent about calls for independent probes - The Texas Tribune
 - More than 200 people at summer camp airlifted to safety as Missouri faces flooding - The Guardian
-- No Iran deal, no problem for Vance, allies say - Politico
+- A July 4 boat trip, an 18-year-old's death and a family's search for answers in the Deep South - AP News
+- Court documents indicate teen in Apalachee High School mass shooting to change plea later this month - CNN
 - Conspiracy theories about Charlie Kirk’s death are still raging, infuriating friends - The Washington Post
-- What we know about death of Nolan Wells, Black teen who went missing on Mississippi boat trip - PBS
 - Arrested Man Released Without Charges In Death Of Former MP & UK Reality Star Ann Widdecombe - Deadline
-- 15 Indian tourists killed when a speedboat capsizes in southern Vietnam - AP News
+- A boat capsizes in southern Vietnam and kills 15 Indian tourists not far from shore - AP News
 - Most people who need glasses don't have them. Can the post office change that? - NPR
-- US demands Iran affirm Strait of Hormuz fully open after exchange of strikes, officials say - The Hill
+- Typhoon Bavi: China braced for second major storm in a week - BBC
 - Apple sues OpenAI for trade secret theft - Axios
-- How SK Hynix just pulled off the second-largest U.S. share sale by quietly powering the AI boom - Fortune
+- SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's
 - Trump Accounts: Will the new savings scheme for American children succeed? - BBC
-- A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss - CNBC
+- Major German carmakers hit by steep China sales plunge as competition heats up - AP News
 - The perfect kit for all your tiny repairs - The Verge
 - Anker’s 3-in-1 Qi2.2 charging station is $95 off - The Verge
