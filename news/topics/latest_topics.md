@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 16:01_
+_Updated: 2026-07-11 17:30_
 
 ## Top Stories
 
-- Sydafrikas VM-spelare Jayden Adams avliden - Fotbollskanalen
-- Man gripen för brittiskt politikermord släppt - Göteborgs-Posten
-- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
-- Ballistiska robotar över Kyiv – elvaåring skadad - Omni – Alla nyheter. Alla perspektiv.
-- Hundratusentals flyr tyfonen – vågor på tolv meter - Västerbottens-Kuriren
-- Osynlig vattenparasit ställer till det för badare - Svenska Dagbladet
-- Motorbåt rakt in i en fyr – kvinna allvarligt skadad - TV4 Nyheterna
-- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
-- Tredje person begärd häktad för inblandning i mordet - UNT
-- Milly, 8 år, klarade tuffa toppturen: ”Ont i kroppen efteråt” - Dagens Nyheter
-- Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Brittisk ex-minister misstänkt mördad – man gripen - Nya Wermlands-Tidningen
+- Så jobbar fältarna förebyggande: ”Viktigt att unga har jobb” - Aftonbladet
+- DN Direkt – Ny dinosaurie upptäckt i Thailand - Dagens Nyheter
 - Branden i Spanien: ”Som ett helvete” - Hufvudstadsbladet – HBL
+- Osynlig vattenparasit ställer till det för badare - Svenska Dagbladet
+- Bröder frias för bedrägeri – döms ändå till fängelse - Göteborgs-Posten
+- Försvarsmakten anställer fler civila än militärer - Sveriges Radio
+- DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
+- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
+- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
+- Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Trump: USA ödelägger Iran om jag mördas - Corren
-- Khamenei den yngre lovar hämnd för fadern - Göteborgs-Posten
+- Hundratusentals flyr tyfonen – vågor på tolv meter - Västerbottens-Kuriren
+- Ballistiska robotar slank igenom Ukrainas försvar - Göteborgs-Posten
 - Beskedet till hemtjänstpersonalen: Uppskjuten lön - Dagens Nyheter
-- Analytikern pekar ut: Duon som kan lyfta Mag7 igen - Börskollen
+- 180 elbilar ska spara pengar i Volvo Cars nya parkeringshus - Dagens Nyheter
+- Bostadsrådet till studenter: Ta soffan före panikboendet - Sveriges Radio
 - Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
-- Netflix backar på ljusgröna Wall Street-börser - EFN
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
+- Enligt uppgift är ett nytt DOOM-spel under utveckling trots de senaste uppsägningarna hos id Software - notebookcheck.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
-- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 
 ## Technology
 
