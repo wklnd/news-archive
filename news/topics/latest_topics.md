@@ -1,50 +1,50 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 09:24_
+_Updated: 2026-07-11 11:07_
 
 ## Top Stories
 
-- Trump: USA ödelägger Iran om jag mördas - Corren
-- Motorcyklist död efter trafikolycka på E6 - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Trump: USA kommer ödelägga Iran om jag mördas - Dagens Nyheter
+- En död i motorcykelolycka – två misstänks för brott - SVT Nyheter
 - Polisen visste att Vivvis sambo kunde döda henne – ändå gick han fri - Aftonbladet
 - Dödliga attacker mot Ukraina - Västerbottens-Kuriren
-- DN Direkt – Man gripen för brittiskt politikermord släppt - Dagens Nyheter
-- Teresa blev påkörd av mobilsurfande man på elspark – han slipper straff - Sydsvenskan
-- Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
+- Man misstänks för sjöfylleri efter svår båtolycka i Norrtälje - Sveriges Radio
+- Man gripen för brittiskt politikermord släppt - Göteborgs-Posten
 - DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
-- Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
-- Misstänkt för drograttfylleri - Skillingaryd
-- Araghchi: Iran har hållit sitt ord gentemot USA - Västerbottens-Kuriren
-- Så tog Ukraina tillbaka initiativet i kriget - Dagens Nyheter
+- Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
+- Batteri har exploderat i lägenhet i Marieberg – en skadad - SVT Nyheter
+- Karolinska måste lämna ut uppgifter om papperslös - Göteborgs-Posten
+- DN Direkt – Motorbåt körde in i fyr – kvinna allvarligt skadad - Dagens Nyheter
+- Amerikansk hjälparbetare smittad av ebola - Västerbottens-Kuriren
+- Kuba drabbat av strömavbrott – igen - Göteborgs-Posten
 - Ny extremhetta slår mot Frankrike - Corren
-- Familjen från Norrköping tvingades fly bränderna - NT
-- Norrmän fyndar mat i Strömstad – 51 procent dyrare hemma - Expressen
+- De fyndar i Sverige – 51 procent dyrare hemma - Expressen
 - Vanliga shoppingvanan som kan spräcka din budget: "Inte rabatt" - Dagens PS
 - Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
 - Netflix backar på ljusgröna Wall Street-börser - EFN
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
+- Ryktena om GeForce RTX 5090 SE väcker fler frågor än svar vid en närmare granskning - notebookcheck.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
-- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Finland köper eget Global Eye-plan från Saab - Omni – Alla nyheter. Alla perspektiv.
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -83,28 +83,27 @@ _Updated: 2026-07-11 09:24_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
@@ -114,8 +113,9 @@ _Updated: 2026-07-11 09:24_
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -126,16 +126,16 @@ _Updated: 2026-07-11 09:24_
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Ryssland investerar tungt i åldrandeforskning – strävar Putin efter odödlighet? - Dagens.se
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Avdelningen för fotonik - Chalmers tekniska högskola
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Avdelningen för fotonik - Chalmers tekniska högskola
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
