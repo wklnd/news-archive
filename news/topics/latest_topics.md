@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 01:32_
+_Updated: 2026-07-11 02:58_
 
 ## Top Stories
 
 - Misstänkt skjutning i Gävle – skadad person hittad - Västerbottens-Kuriren
 - DN Direkt – Tusentals larver på Gotland – varnar - Dagens Nyheter
-- Iran: Israel kommer inte förskonas – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Tidigare RFSL-man konfronterades av Dumpen - Expressen
+- Källor: USA kräver garantier av Iran - Göteborgs-Posten
+- Olycka på E6 – motorcyklist till sjukhus - Sveriges Radio
 - Källor: Ryssland stoppar sjötrafik efter attacker - Omni – Alla nyheter. Alla perspektiv.
 - Anna Nachman: Vår tids Hitler begravs – och SVT bjuder på finstämd rapportering - Fokus - Sveriges nyhetsmagasin
 - Karolinska måste lämna ut uppgifter om papperslös - SVT Nyheter
 - Katja Nyberg hoppar av riksdagslista - UNT
 - Rusning till badplatserna i Göteborg: "Det är underbart" - Göteborgs-Posten
-- Gängkriminella gripna i Spanien - Göteborgs-Posten
-- Turister flydde från skogsbränderna i Spanien – dog i sina bilar - Göteborgs-Posten
+- En stillastående personbil ger stopp i ett körfält på E18 - UNT
 - Brittisk ex-minister misstänkt mördad – man gripen - Dagens Nyheter
+- Uppgifter: Nästan alla ryska regioner har bränslebrist - Dagens Nyheter
+- Dödstal i Venezuela passerar 4 000 - Göteborgs-Posten
 - Tusentals migranter lämnar Sydafrika - Västerbottens-Kuriren
-- DN Direkt – Dödstalet i Venezuela passerar 4 000 - Dagens Nyheter
 - Jonas Fröberg: Volkswagens maktkamp lamslår – medan krisen växer - Dagens Nyheter
-- Bulten lyfter vinsten – trots fallande omsättning - Metal Supply
-- Stockholmsbörsen avslutade veckan svagt nedåt - Affärsvärlden
-- SMÅ UPPGÅNGAR, SK HYNIX LYFTE I DEBUT, S&P 500 +0,4% - Placera.se
-- DN Direkt – Ytterligare en begärs häktad efter Uppsalamord - Dagens Nyheter
+- Netflix backar på ljusgröna Wall Street-börser - EFN
+- SK Hynix rusar på USA-börs efter notering - Västerbottens-Kuriren
+- Bulten stiger på oregelbunden Stockholmsbörs, OMXS30-index backar 0,1 procent (Finwire News) - Aktiellt
+- Grundaren stöttar Microsofts blodbad på Id software - Aftonbladet
 - Blandade recensioner på Steam av ”Assassin’s Creed Black Flag: Resynced” kritiserar mikrotransaktionerna - notebookcheck.se
 
 ## World News
@@ -39,8 +39,8 @@ _Updated: 2026-07-11 01:32_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Global exponering för Minestos tidvattendrakar efter vinst av Grand Prix i Cannes Lions - Cision News
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
@@ -65,11 +65,11 @@ _Updated: 2026-07-11 01:32_
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
-- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
+- Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
