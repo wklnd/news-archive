@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-11 17:30_
+_Updated: 2026-07-11 18:25_
 
 ## Top Stories
 
 - Brittisk ex-minister misstänkt mördad – man gripen - Nya Wermlands-Tidningen
 - Så jobbar fältarna förebyggande: ”Viktigt att unga har jobb” - Aftonbladet
-- DN Direkt – Ny dinosaurie upptäckt i Thailand - Dagens Nyheter
-- Branden i Spanien: ”Som ett helvete” - Hufvudstadsbladet – HBL
+- Ny extremhetta i Frankrike – Eiffeltornet stänger - SVT Nyheter
 - Osynlig vattenparasit ställer till det för badare - Svenska Dagbladet
+- Kökaos på flygplatser – länder varnar för systemet - Göteborgs-Posten
 - Bröder frias för bedrägeri – döms ändå till fängelse - Göteborgs-Posten
 - Försvarsmakten anställer fler civila än militärer - Sveriges Radio
 - DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
-- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
 - Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
+- Flera fjällräddningar på Kebnekaise: ”Förbered vandringen ordentligt” - Dagens Nyheter
+- DN Direkt – Fortsatt kamp mot dödlig brand i Spanien - Dagens Nyheter
 - Ayatollans son: Iran måste få hämnd för faderns död – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Trump: USA ödelägger Iran om jag mördas - Corren
 - Hundratusentals flyr tyfonen – vågor på tolv meter - Västerbottens-Kuriren
 - Ballistiska robotar slank igenom Ukrainas försvar - Göteborgs-Posten
+- Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
 - Beskedet till hemtjänstpersonalen: Uppskjuten lön - Dagens Nyheter
-- 180 elbilar ska spara pengar i Volvo Cars nya parkeringshus - Dagens Nyheter
-- Bostadsrådet till studenter: Ta soffan före panikboendet - Sveriges Radio
 - Ryanair-olyckan: ”Alla grät, det rådde panik” - SVT Nyheter
+- Netflix backar på ljusgröna Wall Street-börser - EFN
+- Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- Enligt uppgift är ett nytt DOOM-spel under utveckling trots de senaste uppsägningarna hos id Software - notebookcheck.se
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
 - Tre spelare säkrade plats i Genesis Scottish Open via Global Swings - golfpost.com
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Klart: Nato köper Saabs övervakningsplan - Dagens Nyheter
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
-- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 
 ## Technology
 
@@ -77,19 +77,19 @@ _Updated: 2026-07-11 17:30_
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
@@ -100,7 +100,6 @@ _Updated: 2026-07-11 17:30_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
@@ -109,36 +108,37 @@ _Updated: 2026-07-11 17:30_
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
