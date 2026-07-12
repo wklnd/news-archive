@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 12:07_
+_Updated: 2026-07-12 13:37_
 
 ## Top Stories
 
 - USA: Senatorn Lindsey Graham är död - Dagens Nyheter
-- Flera skadade i båtolycka – slungades mot klippor - Sveriges Radio
 - USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
-- Tre begärs häktade efter mordet i Stenungsund - Omni – Alla nyheter. Alla perspektiv.
-- Lastbil rammade olycksplats – tio drabbade - SN, Södermanlands Nyheter
-- ”Jag drömmer om att bli accepterad som svensk” - Dagens Nyheter
-- Misstänkt mord i Rosersberg - UNT
+- Ungdomar skadade i allvarlig båtolycka i Hunnebostrand - Omni – Alla nyheter. Alla perspektiv.
+- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
+- M-väljarnas favoriter: Porsche och O’Learys - Svenska Dagbladet
+- Halvnakna Malmöbor i värmen – skulle ha fått böter i Italien - Sydsvenskan
+- Man hittad död vid motell i Sigtuna – en gripen - SVT Nyheter
 - Första svenska fångarna till Estland i augusti - Dagens Nyheter
-- Ung man gripen för mordförsök - Värnamo Nyheter
+- Olycka med lastbil och fyra bilar – flera skadade - NT
 - DEBATT: Vi lokalbor får ta smällen för Googles plåtlada - Sundsvalls Tidning
-- Natochefens konstanta smicker mot Trump - är det rätt strategi? - Sveriges Radio
-- Två dödade i skjutning vid festival i Kanada - Svenska Dagbladet
+- Larm om misstänkt föremål stoppade tågtrafik - Expressen
+- Flera döda i nya attacker mot Ukraina - Västerbottens-Kuriren
 - DN Direkt – Miljonstöd till eboladrabbat Kongo-Kinshasa - Dagens Nyheter
-- Polisen: Akta svanfamiljen - Aftonbladet
+- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
 - Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
 - Experter: Skippa barnsparande – prioritera dig själv - Svenska Dagbladet
 - Volkswagens vd utesluter inte nya lösningar för hotade fabriker - Börskollen
 - Billigaste semesterlandet: Här är priserna 40 procent lägre - Dagens PS
+- Astronomer har gjort ett extremt sällsynt fynd – nu kan de vara nära hitta förklaringen till ett av astrofysikens största mysterier - Illustrerad Vetenskap
 - LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
-- ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Finland vill köpa eget Global Eye-plan - Dagens industri
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -64,12 +64,12 @@ _Updated: 2026-07-12 12:07_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
