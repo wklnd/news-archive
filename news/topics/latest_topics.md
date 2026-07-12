@@ -1,40 +1,40 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 01:27_
+_Updated: 2026-07-12 06:53_
 
 ## Top Stories
 
-- Fotbolls-VM: Norska fansen inför kvartsfinalen: ”Vi kommer vinna VM” – Fotbolls-VM 2026: Senaste nytt - SVT Nyheter
-- DN Direkt – Misstänkt gripen för mordet på brittisk exminister - Dagens Nyheter
-- Miljontals evakuerade när tyfonen Bavi drar in över Kina - Västerbottens-Kuriren
-- Källa: Två separata farleder i Hormuzsundet - Göteborgs-Posten
-- Ballistiska robotar slank igenom Ukrainas försvar - Göteborgs-Posten
-- Attacker stoppar bränslet till Krim - Expressen
+- Argentina klart för VM-semifinal – efter rött kort och förlängning - TV4 Nyheterna
+- USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
+- DN Direkt – Miljonstöd till eboladrabbat Kongo-Kinshasa - Dagens Nyheter
+- Jan Guillou om smärtan – kan bara gå 100 meter - Svenska Dagbladet
+- ”Jag drömmer om att bli accepterad som svensk” - Dagens Nyheter
+- Karta: Här är göteborgarna mest välutbildade - Göteborgs-Posten
+- Flera ungdomar skadade i båtolycka i Hunnebostrand - SVT Nyheter
 - DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
-- Batteri har exploderat i lägenhet i Marieberg – en skadad - SVT Nyheter
+- Stor insats i Rosersberg – polisen utreder grovt brott - UNT
 - Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
-- ANDREEA VANCIU: Man måste få kunna kalla poliser för potatisgrisar - UNT
-- DN Direkt – Dödstalet i Venezuela räknas upp igen - Dagens Nyheter
 - Reportrar stäms – skrev om brister på Trumps lyxplan - Hufvudstadsbladet – HBL
+- Ryska ballistiska robotar slank igenom Ukrainas försvar - Dagens Nyheter
+- Trump: USA ödelägger Iran om jag mördas - Corren
 - Böter för snitt – Erdogan vill ha ”naturliga” födslar - Västerbottens-Kuriren
-- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
-- Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
-- Volkswagens nya plan väcker oro och protester – fyra fabriker och 120 000 jobb hotas - Börskollen
-- Meta drar tillbaka kritiserad funktion - Aftonbladet
+- Netflix backar på ljusgröna Wall Street-börser - EFN
+- Svenska Spel delar ut årets högsta Lottovinst – över 12,4 miljoner - oskarshamns-nytt.se
+- Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
+- Lovables ingenjörschef: ”Varje person har hundratals agenter” - nyteknik
 - ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
-- Här går björnen till attack – knepet räddar mannen i sista sekund - Expressen
 
 ## World News
 
 - Finland vill köpa eget Global Eye-plan - Dagens industri
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
@@ -45,7 +45,7 @@ _Updated: 2026-07-12 01:27_
 - Kuriren nominerad för satsning på unga läsare - Kuriren
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
 
 ## Technology
@@ -53,7 +53,6 @@ _Updated: 2026-07-12 01:27_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -62,11 +61,12 @@ _Updated: 2026-07-12 01:27_
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
