@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 23:23_
+_Updated: 2026-07-13 00:23_
 
 ## Top Stories
 
 - Minst 27 personer döda i brand på bar i Bangkok - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
-- Nu kommer sommarvärmen tillbaka – över 30 grader väntas i veckan - SVT Nyheter
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Högsommarvärme väntas i hela landet - Dagens Nyheter
+- USA: ”Presidenten har beordrat attacker” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Svensk hittad död i norska fjällen - Västerbottens-Kuriren
 - L: Ingen trängselskatt och gratis kollektivtrafik för elbilsägare - Göteborgs-Posten
-- Grannarnas förlorade kamp – nu byggs det gigantiska fängelset - Sydsvenskan
-- Befälhavare ignorerade varningar – soldater dog - Västerbottens-Kuriren
 - Extrem brandrisk i delar av landet - Corren
-- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
+- Tre häktade för mord vid badplats i Stenungsund - Västerbottens-Kuriren
 - Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
-- Man död vid motell i Sigtuna – man anhållen - Västerbottens-Kuriren
-- Motstridiga uppgifter om Hormuzsundet - Göteborgs-Posten
+- Man död vid motell i Sigtuna – man anhållen - Göteborgs-Posten
 - DN Direkt – Minst 27 döda i brand på bar i Bangkok - Dagens Nyheter
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- Huggormar, betande får och meditation i vägen för Natos trupper - Dagens Nyheter
+- DN Direkt – Rättsläkare: Lindsey Graham dog av brusten kroppspulsåder - Dagens Nyheter
+- Kraftiga skyfall i Bangladesh – minst 50 döda - Aftonbladet
 - Färre bärplockare öppnar för extra inkomster i skogen i sommar - Börskollen
 - Trippelsmockan bakom Vings Kretakaos - Aftonbladet
-- Skivbranschen föreslår AI-märkning för musik - Sydsvenskan
+- Efter läckan om jätteuppsägningar: VW-chefen tonar ned dramatiska sparpaketet - EFN
 - Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
 - T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
 - Mobilen ska bli inbyggd del av Windows 11 - mobil.se
 
 ## World News
 
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Global turism slog nytt rekord under 2025 - travelnews-se
-- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
-- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
-- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
-- Global kompetens driver hållbara industrisatsningar i norr - ABB
-- NTM prisades i årets INMA Global Media Awards - ntm.se
-- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
-- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
-- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Kuriren nominerad för satsning på unga läsare - Kuriren
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
@@ -97,25 +97,25 @@ _Updated: 2026-07-12 23:23_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
-- Vi presenterar HealthBench - OpenAI
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - Vi presenterar ChatGPT Health - OpenAI
-- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -129,16 +129,16 @@ _Updated: 2026-07-12 23:23_
 - Forskning och Vetenskap - umb.edu.pl
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- CooperVisions forskning om myopikontroll tilldelas Garland W. Clay Award för andra gången - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
