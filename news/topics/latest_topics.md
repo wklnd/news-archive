@@ -1,66 +1,66 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 16:04_
+_Updated: 2026-07-12 17:33_
 
 ## Top Stories
 
-- Trumplojale Lindsey Graham död – Stubb framförde sina kondoleanser - Hufvudstadsbladet – HBL
-- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
+- DN Direkt – Tre häktade för mord vid badplats i Stenungsund - Dagens Nyheter
+- Lindsey Graham – tongivande, ifrågasatt Trumpvurmare - Göteborgs-Posten
 - Flera döda i nya attacker mot Ukraina - Västerbottens-Kuriren
 - Anne-Mari ”älskade livet” – dödades av sin pojkvän - Aftonbladet
-- M-väljarnas favoriter: Porsche och O’Learys - Svenska Dagbladet
+- SMHI: Höga temperaturer på Västkusten hela veckan - Omni – Alla nyheter. Alla perspektiv.
 - Åk på hisnande vildmarksäventyr med familjen - Smålandsposten
 - Man död efter misshandel i Mölnlycke - SVT Nyheter
-- Högsommarvärme väntas i hela landet - Dagens Nyheter
-- Båtolycka i Hunnebostrand – sex till sjukhus - Göteborgs-Posten
-- Man hittad död vid motell i Sigtuna – en gripen - SVT Nyheter
-- Brännskadat par hittat i ravin efter branden - Göteborgs-Posten
-- Iran attackerar grannländer – Hormuzsundet stängt - Västerbottens-Kuriren
-- Zelenskyj möblerar om i regeringen - Hufvudstadsbladet – HBL
+- Man död vid motell i Sigtuna – man anhållen - Västerbottens-Kuriren
+- Första svenska fångarna till Estland i augusti - Göteborgs-Posten
+- Lars är granne med stålverksbygget – snickrar slott åt fåglarna - Dagens Nyheter
 - DN Direkt – Misshandlad man i Mölnlycke har avlidit - Dagens Nyheter
+- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
+- USA attackerar Iran på nytt – Hormuzsundet stängt - Hufvudstadsbladet – HBL
+- Zelenskyj möblerar om i regeringen - Hufvudstadsbladet – HBL
 - Experter: Skippa barnsparande – prioritera dig själv - Svenska Dagbladet
-- Volkswagens vd utesluter inte nya lösningar för hotade fabriker - Börskollen
-- Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
+- Ny kartläggning: Så mycket kostar studentlägenheterna – 2,5 miljoner skiljer mellan studieorterna - Börskollen
+- Efter läckan om jätteuppsägningar: VW-chefen tonar ned dramatiska sparpaketet - EFN
 - Faror att se upp med i sommartrafiken - Dagens Nyheter
-- Astronomer har gjort ett extremt sällsynt fynd – nu kan de vara nära hitta förklaringen till ett av astrofysikens största mysterier - Illustrerad Vetenskap
 - Risk att oljespill når Ljusnan – ägare måste sanera marken - Ljusdals-Posten
+- Asus lanserar en lätt bärbar dator med AMD-processor och en 120 Hz OLED-skärm - notebookcheck.se
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -127,18 +127,18 @@ _Updated: 2026-07-12 16:04_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning och Vetenskap - umb.edu.pl
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Data Science och AI - Chalmers tekniska högskola
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
