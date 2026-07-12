@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 13:37_
+_Updated: 2026-07-12 16:04_
 
 ## Top Stories
 
-- USA: Senatorn Lindsey Graham är död - Dagens Nyheter
-- USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
-- Ungdomar skadade i allvarlig båtolycka i Hunnebostrand - Omni – Alla nyheter. Alla perspektiv.
+- Trumplojale Lindsey Graham död – Stubb framförde sina kondoleanser - Hufvudstadsbladet – HBL
 - Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
-- M-väljarnas favoriter: Porsche och O’Learys - Svenska Dagbladet
-- Halvnakna Malmöbor i värmen – skulle ha fått böter i Italien - Sydsvenskan
-- Man hittad död vid motell i Sigtuna – en gripen - SVT Nyheter
-- Första svenska fångarna till Estland i augusti - Dagens Nyheter
-- Olycka med lastbil och fyra bilar – flera skadade - NT
-- DEBATT: Vi lokalbor får ta smällen för Googles plåtlada - Sundsvalls Tidning
-- Larm om misstänkt föremål stoppade tågtrafik - Expressen
 - Flera döda i nya attacker mot Ukraina - Västerbottens-Kuriren
-- DN Direkt – Miljonstöd till eboladrabbat Kongo-Kinshasa - Dagens Nyheter
-- Dödssiffran i Venezuela passerar 4 000 - SVT Nyheter
-- Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
+- Anne-Mari ”älskade livet” – dödades av sin pojkvän - Aftonbladet
+- M-väljarnas favoriter: Porsche och O’Learys - Svenska Dagbladet
+- Åk på hisnande vildmarksäventyr med familjen - Smålandsposten
+- Man död efter misshandel i Mölnlycke - SVT Nyheter
+- Högsommarvärme väntas i hela landet - Dagens Nyheter
+- Båtolycka i Hunnebostrand – sex till sjukhus - Göteborgs-Posten
+- Man hittad död vid motell i Sigtuna – en gripen - SVT Nyheter
+- Brännskadat par hittat i ravin efter branden - Göteborgs-Posten
+- Iran attackerar grannländer – Hormuzsundet stängt - Västerbottens-Kuriren
+- Zelenskyj möblerar om i regeringen - Hufvudstadsbladet – HBL
+- DN Direkt – Misshandlad man i Mölnlycke har avlidit - Dagens Nyheter
 - Experter: Skippa barnsparande – prioritera dig själv - Svenska Dagbladet
 - Volkswagens vd utesluter inte nya lösningar för hotade fabriker - Börskollen
-- Billigaste semesterlandet: Här är priserna 40 procent lägre - Dagens PS
+- Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
+- Faror att se upp med i sommartrafiken - Dagens Nyheter
 - Astronomer har gjort ett extremt sällsynt fynd – nu kan de vara nära hitta förklaringen till ett av astrofysikens största mysterier - Illustrerad Vetenskap
-- LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
+- Risk att oljespill når Ljusnan – ägare måste sanera marken - Ljusdals-Posten
 
 ## World News
 
@@ -42,24 +42,25 @@ _Updated: 2026-07-12 13:37_
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
-- Finland vill köpa eget Global Eye-plan - Dagens industri
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
+- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -69,15 +70,14 @@ _Updated: 2026-07-12 13:37_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -127,18 +127,18 @@ _Updated: 2026-07-12 13:37_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning och Vetenskap - umb.edu.pl
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Olika slutsatser från samma data - Läkartidningen
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Olika slutsatser från samma data - Läkartidningen
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-07-12 13:37_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
