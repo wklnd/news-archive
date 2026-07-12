@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 20:29_
+_Updated: 2026-07-12 21:39_
 
 ## Top Stories
 
-- Nu kommer sommarvärmen tillbaka – över 30 grader väntas i veckan - SVT Nyheter
-- Brandflyg sätts in mot terrängbrand utanför Boxholm - Omni – Alla nyheter. Alla perspektiv.
+- Kvinna hittad död – man misstänks för mord - SVT Nyheter
+- Högsommarvärme väntas i hela landet - Dagens Nyheter
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
 - Fartygsattacker trappas upp: ”Enkel logik” - Svenska Dagbladet
-- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
+- Befälhavare ignorerade varningar – soldater dog - Västerbottens-Kuriren
 - Huggormar, betande får och meditation i vägen för Natos trupper - Dagens Nyheter
-- Grannarnas förlorade kamp – nu byggs det gigantiska fängelset - Sydsvenskan
+- SMHI: Extrem brandrisk i delar av landet - Dagens Nyheter
 - Lars är granne med stålverksbygget – snickrar slott åt fåglarna - Dagens Nyheter
 - Tre häktade för mord vid badplats i Stenungsund - Corren
 - Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
-- Trafikolycka på E4 i Luleå – personbil fast i mitträcket - Norran
+- Motstridiga uppgifter om Hormuzsundet - Göteborgs-Posten
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- USA: Senatorn Lindsey Graham är död - Dagens Nyheter
 - Kraftiga skyfall i Bangladesh – minst 50 döda - Hufvudstadsbladet – HBL
-- Brännskadat par hittat i ravin efter branden - Göteborgs-Posten
-- Uppmanade resenärer att hitta hotell – lyckades inte själva - Aftonbladet
+- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
+- Så kan du tjäna pengar på skogsutflykten - Västerbottens-Kuriren
+- Hundratals svenska resenärer strandade på Kreta efter flygstrul - Sveriges Radio
 - Ny kartläggning: Så mycket kostar studentlägenheterna – 2,5 miljoner skiljer mellan studieorterna - Börskollen
-- Efter läckan om jätteuppsägningar: VW-chefen tonar ned dramatiska sparpaketet - EFN
-- Faror att se upp med i sommartrafiken - Dagens Nyheter
+- Skivbranschen föreslår AI-märkning för musik - Folkbladet
 - Spotify uppdaterar Release Radar med smartare musikrekommendationer - Teknikveckan
 - Kritisk till domarbasens VAR-önskan: "En intressekonflikt" - FotbollDirekt
 
@@ -34,6 +34,7 @@ _Updated: 2026-07-12 20:29_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
@@ -45,7 +46,6 @@ _Updated: 2026-07-12 20:29_
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
@@ -64,19 +64,19 @@ _Updated: 2026-07-12 20:29_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - tv4.se
+- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
@@ -103,16 +103,16 @@ _Updated: 2026-07-12 20:29_
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -157,8 +157,8 @@ _Updated: 2026-07-12 20:29_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
