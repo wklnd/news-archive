@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-12 16:12_
+_Updated: 2026-07-12 17:39_
 
 - Sen. Lindsey Graham dies at 71 after ‘brief and sudden illness’ - NBC News
+- US strikes Iran over latest ship attack and Tehran responds by hitting Arab states - AP News
 - Iran closes Strait of Hormuz, US launches fresh strikes - DW.com
-- US attacks Iran over ship being hit in Strait of Hormuz; Tehran responds by hitting Arab states - AP News
+- On birthright citizenship, the Supreme Court ‘originalists’ split on history and Trump - Los Angeles Times
 - Platner aide hit with brutal timeline check after campaign denied rape claim, then folded days later - Fox News
-- Survivors of Iranian attack that killed 6 U.S. troops say generals ignored warnings - The Washington Post
-- Tall ships in Boston Harbor causing delays at Logan Airport - CBS News
-- 200 young campers rescued as flooding hits parts of Missouri and Kentucky - NPR
-- Kids who left Nolan Wells behind ‘have to answer to’ his devastated parents - New York Post
-- Heat wave could threaten all-time record highs in Rockies - The Weather Channel
-- 'Tell us what's going on,' Kentucky governor urges McConnell on health - USA Today
-- Storm Causes Mass Evacuations, Floods and Flight Disruptions in China - The New York Times
+- Mexico-US relations are already strained, but experts say they’re about to get worse - CNN
+- Typhoon Bavi weakens to tropical storm as it slams into eastern China - Al Jazeera
 - At least two killed in Toronto street festival shooting - BBC
-- British police make new arrest in Ann Widdecombe murder investigation - Al Jazeera
-- Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies - DW.com
+- U.K. Police Make New Arrest in Killing of Ex-Lawmaker - The New York Times
+- Germany funds 50,000 strike drones for Ukraine, source says - Reuters
 - A Trump Account could make your kid a millionaire—but financial experts warn of a catch - Fortune
-- What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets - Business Insider
-- Focus turns to building stronger institutions in Africa to speed shift to renewable energy - AP News
-- Welcome to the era of the forever layoff - Business Insider
+- Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs - AP News
+- Catch up: Iran’s top diplomat holds talks in Oman; Apple sues OpenAI - The Economist
+- What a Monopoly importer learned when it tried to make things in the U.S.A. - NPR
+- iOS 27 Release Date: Latest Schedule Confirms iPhone’s July Public Beta - Forbes
+- Pixel 11 Series Release Date, Price, Specs, Expectations - Droid Life
 - iPhone 18 Pro Release Date: Apple’s Strategic Decision To Defeat Rivals - Forbes
-- Honeycutt, Riggs salvage their days at Lime Rock after final-stage crash - NASCAR.com
+- The MacRumors Show: Goodbye MacBook Pro? MacBook Ultra Is Coming - MacRumors
+- ‘Moana’ Remake Is Barely Above ‘Snow White’ at Box Office With $45 Million Opening - TheWrap
+- Jay-Z’s Yankee Stadium Night Two Setlist: Every Song Played at the Second Show - Billboard
