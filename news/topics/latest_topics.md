@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 09:40_
+_Updated: 2026-07-12 12:07_
 
 ## Top Stories
 
 - USA: Senatorn Lindsey Graham är död - Dagens Nyheter
-- USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
-- Misstänkt mord i Rosersberg - UNT
 - Flera skadade i båtolycka – slungades mot klippor - Sveriges Radio
-- Olycka med lastbil och fyra bilar – flera skadade - SN, Södermanlands Nyheter
-- Jan Guillou om smärtan – kan bara gå 100 meter - Svenska Dagbladet
+- USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
+- Tre begärs häktade efter mordet i Stenungsund - Omni – Alla nyheter. Alla perspektiv.
+- Lastbil rammade olycksplats – tio drabbade - SN, Södermanlands Nyheter
+- ”Jag drömmer om att bli accepterad som svensk” - Dagens Nyheter
+- Misstänkt mord i Rosersberg - UNT
 - Första svenska fångarna till Estland i augusti - Dagens Nyheter
-- Man gripen för mordförsök i Smålandsstenar - SVT Nyheter
+- Ung man gripen för mordförsök - Värnamo Nyheter
 - DEBATT: Vi lokalbor får ta smällen för Googles plåtlada - Sundsvalls Tidning
-- Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
 - Natochefens konstanta smicker mot Trump - är det rätt strategi? - Sveriges Radio
-- Två döda efter skjutning under festival i Toronto - Dagens Nyheter
-- Reportrar stäms – skrev om brister på Trumps lyxplan - Hufvudstadsbladet – HBL
-- Nytt gripande för brittiskt politikermord - SVT Nyheter
+- Två dödade i skjutning vid festival i Kanada - Svenska Dagbladet
+- DN Direkt – Miljonstöd till eboladrabbat Kongo-Kinshasa - Dagens Nyheter
+- Polisen: Akta svanfamiljen - Aftonbladet
 - Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
+- Experter: Skippa barnsparande – prioritera dig själv - Svenska Dagbladet
+- Volkswagens vd utesluter inte nya lösningar för hotade fabriker - Börskollen
 - Billigaste semesterlandet: Här är priserna 40 procent lägre - Dagens PS
-- Nya miljonärerna skrämmer lyxbranschen – vill inte klä sig rika - Dagens PS
-- Meta drar tillbaka kritiserad funktion - Västerbottens-Kuriren
-- Lovables ingenjörschef: ”Varje person har hundratals agenter” - nyteknik
+- LEDARE: Du kommer inte äga någonting och vara lycklig - Nya Wermlands-Tidningen
 - ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
 
 ## World News
@@ -59,9 +59,7 @@ _Updated: 2026-07-12 09:40_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -70,12 +68,13 @@ _Updated: 2026-07-12 09:40_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-12 09:40_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
