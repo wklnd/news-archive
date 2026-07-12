@@ -1,58 +1,59 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 21:39_
+_Updated: 2026-07-12 23:23_
 
 ## Top Stories
 
-- Kvinna hittad död – man misstänks för mord - SVT Nyheter
-- Högsommarvärme väntas i hela landet - Dagens Nyheter
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
-- Fartygsattacker trappas upp: ”Enkel logik” - Svenska Dagbladet
+- Minst 27 personer döda i brand på bar i Bangkok - Svenska Dagbladet
+- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
+- Nu kommer sommarvärmen tillbaka – över 30 grader väntas i veckan - SVT Nyheter
+- L: Ingen trängselskatt och gratis kollektivtrafik för elbilsägare - Göteborgs-Posten
+- Grannarnas förlorade kamp – nu byggs det gigantiska fängelset - Sydsvenskan
 - Befälhavare ignorerade varningar – soldater dog - Västerbottens-Kuriren
-- Huggormar, betande får och meditation i vägen för Natos trupper - Dagens Nyheter
-- SMHI: Extrem brandrisk i delar av landet - Dagens Nyheter
-- Lars är granne med stålverksbygget – snickrar slott åt fåglarna - Dagens Nyheter
-- Tre häktade för mord vid badplats i Stenungsund - Corren
+- Extrem brandrisk i delar av landet - Corren
+- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
 - Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
+- Man död vid motell i Sigtuna – man anhållen - Västerbottens-Kuriren
 - Motstridiga uppgifter om Hormuzsundet - Göteborgs-Posten
+- DN Direkt – Minst 27 döda i brand på bar i Bangkok - Dagens Nyheter
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- Kraftiga skyfall i Bangladesh – minst 50 döda - Hufvudstadsbladet – HBL
-- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
-- Så kan du tjäna pengar på skogsutflykten - Västerbottens-Kuriren
-- Hundratals svenska resenärer strandade på Kreta efter flygstrul - Sveriges Radio
-- Ny kartläggning: Så mycket kostar studentlägenheterna – 2,5 miljoner skiljer mellan studieorterna - Börskollen
-- Skivbranschen föreslår AI-märkning för musik - Folkbladet
-- Spotify uppdaterar Release Radar med smartare musikrekommendationer - Teknikveckan
-- Kritisk till domarbasens VAR-önskan: "En intressekonflikt" - FotbollDirekt
+- Huggormar, betande får och meditation i vägen för Natos trupper - Dagens Nyheter
+- Färre bärplockare öppnar för extra inkomster i skogen i sommar - Börskollen
+- Trippelsmockan bakom Vings Kretakaos - Aftonbladet
+- Skivbranschen föreslår AI-märkning för musik - Sydsvenskan
+- Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
+- T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
+- Mobilen ska bli inbyggd del av Windows 11 - mobil.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Mellan talibanerna, Indien och Irankriget - Kvartal
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Kuriren nominerad för satsning på unga läsare - Kuriren
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
-- Infomedia goes global with acquisition of Opoint Technology - Via TT
-- Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Global turism slog nytt rekord under 2025 - travelnews-se
+- Välkommen till Global Dialogue Garden under Almedalsveckan 2026 - UNHCR - The UN Refugee Agency
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- World-leading voices ready for Society Expo 2026 - Skellefteå kommun
+- Karolinska Universitetssjukhuset högt placerat i global rankning - Region Stockholm
+- Aftonbladet kan vinna pris i ”mediebranschens Oscars-gala” - Aftonbladet
+- Global kompetens driver hållbara industrisatsningar i norr - ABB
+- NTM prisades i årets INMA Global Media Awards - ntm.se
+- Samsung Electronics säkrar 19 år i rad som global TV-marknadsledare - Samsung Global Newsroom
+- Hurricanes mot Kraken i 2026 Global Series Finland - NHL.com
+- Senators mot Blackhawks i 2026 NHL Global Series Germany - NHL.com
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -69,7 +70,6 @@ _Updated: 2026-07-12 21:39_
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
-- Nu byggs den svenska AI-fabriken – ”vi har redan flera kunder” - Computer Sweden
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-07-12 21:39_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Juridicum etablerar ny fokusmiljö i hälsorätt - Stockholms universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- E-hälsa inom EU - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Mål 3 - god hälsa och välbefinnande | Handelshögskolan - Göteborgs universitet
+- Vi presenterar HealthBench - OpenAI
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Dags för en europeisk 1177: ta med dig hälsodata ut i EU - European Parliament
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Vi presenterar ChatGPT Health - OpenAI
+- Världens viktigaste avtal för global hälsa har signerats - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- Henrik Lundqvist investerar i GoCo Active – ett initiativ för framtidens hälsa – tillsammans med GoCo Health Innovation City, Göteborgs Universitet och Chalmers tekniska högskola. - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -129,16 +129,16 @@ _Updated: 2026-07-12 21:39_
 - Forskning och Vetenskap - umb.edu.pl
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
+- CooperVisions forskning om myopikontroll tilldelas Garland W. Clay Award för andra gången - Mynewsdesk
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Data Science och AI - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-07-12 21:39_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
-- De blev grönsaksodlare tack vare lokalt stöd - Land.se
