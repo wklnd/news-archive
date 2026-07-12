@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 18:29_
+_Updated: 2026-07-12 19:33_
 
 ## Top Stories
 
-- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
-- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
+- Nu kommer sommarvärmen tillbaka – över 30 grader väntas i veckan - SVT Nyheter
+- Brandflyg sätts in mot terrängbrand utanför Boxholm - Omni – Alla nyheter. Alla perspektiv.
 - Fartygsattacker trappas upp: ”Enkel logik” - Svenska Dagbladet
+- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
 - Huggormar, betande får och meditation i vägen för Natos trupper - Dagens Nyheter
-- Åk på hisnande vildmarksäventyr med familjen - Smålandsposten
-- Anne-Mari ”älskade livet” – dödades av sin pojkvän - Aftonbladet
-- Man död vid motell i Sigtuna – man anhållen - Västerbottens-Kuriren
+- Man död vid motell i Sigtuna – man anhållen - Göteborgs-Posten
 - Lars är granne med stålverksbygget – snickrar slott åt fåglarna - Dagens Nyheter
-- Första svenska fångarna till Estland i augusti - Dagens Nyheter
+- Tre begärs häktade efter misstänkt mord vid badplats - Göteborgs-Posten
 - Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
+- Singelolycka vid Mantorp – E4 norrgående var avstängd - Corren
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- Lindsey Graham – tongivande, ifrågasatt Trumpvurmare - Göteborgs-Posten
-- DN Direkt – Brännskadat par hittat i ravin efter branden - Dagens Nyheter
-- Kraftiga skyfall i Bangladesh – minst 50 döda - SVT Nyheter
-- Experter: Skippa barnsparande – prioritera dig själv - Svenska Dagbladet
+- USA: Senatorn Lindsey Graham är död - Dagens Nyheter
+- Kraftiga skyfall i Bangladesh – minst 50 döda - Hufvudstadsbladet – HBL
+- Hopp om att branden i Spanien kan stabiliseras - Västerbottens-Kuriren
 - Faror att se upp med i sommartrafiken - Dagens Nyheter
+- Uppmanade resenärer att hitta hotell – lyckades inte själva - Aftonbladet
 - Ny kartläggning: Så mycket kostar studentlägenheterna – 2,5 miljoner skiljer mellan studieorterna - Börskollen
-- Hundratals svenska resenärer strandade på Kreta efter flygstrul - Sveriges Radio
+- Efter läckan om jätteuppsägningar: VW-chefen tonar ned dramatiska sparpaketet - EFN
 - Spotify uppdaterar Release Radar med smartare musikrekommendationer - Teknikveckan
 - Vill du leva lite längre? Då kanske pickleball är något för dig! - Folkbladet
 
@@ -30,46 +30,46 @@ _Updated: 2026-07-12 18:29_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
-- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 
 ## Technology
 
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Källor: Deepseek värderas till 470 miljarder i ny runda - Omni – Alla nyheter. Alla perspektiv.
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -119,26 +119,26 @@ _Updated: 2026-07-12 18:29_
 
 ## Science
 
-- Kurs: Open Science in the Swedish Context 2026 - Svensk Nationell Datatjänst
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
-- Framsteg inom vetenskap och matematik med GPT-5.2 - OpenAI
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
-- Mot ett nytt meriteringssystem för öppen vetenskap - Umeå universitet
-- Sherry Nakhaeizadeh - Uppsala universitet
-- 5 myter om öppen vetenskap - Läkartidningen
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
-- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- SND at Almedalsveckan 2024 - Svensk Nationell Datatjänst
+- Gemini för vetenskap ska hjälpa forskare - Swedroid
+- 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
+- Forskning och Vetenskap - umb.edu.pl
+- Sherry Nakhaeizadeh - Uppsala universitet
 - Olika slutsatser från samma data - Läkartidningen
-- AI och data science - Stockholms universitet
-- Webbinarium: Lär dig att presentera din forskning på 4 minuter - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- ERC-finansiering: möjligheter för klinisk forskning och kliniskt verksamma forskare - Karolinska Institutet
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Avdelningen för fotonik - Chalmers tekniska högskola
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Data Science och AI - Chalmers tekniska högskola
 
 ## Jordbruk
 
@@ -157,8 +157,8 @@ _Updated: 2026-07-12 18:29_
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
+- De blev grönsaksodlare tack vare lokalt stöd - Land.se
