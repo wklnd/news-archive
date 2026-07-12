@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-12 06:53_
+_Updated: 2026-07-12 09:40_
 
 ## Top Stories
 
-- Argentina klart för VM-semifinal – efter rött kort och förlängning - TV4 Nyheterna
+- USA: Senatorn Lindsey Graham är död - Dagens Nyheter
 - USA attackerar Iran på nytt – Hormuzsundet stängt - Göteborgs-Posten
-- DN Direkt – Miljonstöd till eboladrabbat Kongo-Kinshasa - Dagens Nyheter
+- Misstänkt mord i Rosersberg - UNT
+- Flera skadade i båtolycka – slungades mot klippor - Sveriges Radio
+- Olycka med lastbil och fyra bilar – flera skadade - SN, Södermanlands Nyheter
 - Jan Guillou om smärtan – kan bara gå 100 meter - Svenska Dagbladet
-- ”Jag drömmer om att bli accepterad som svensk” - Dagens Nyheter
-- Karta: Här är göteborgarna mest välutbildade - Göteborgs-Posten
-- Flera ungdomar skadade i båtolycka i Hunnebostrand - SVT Nyheter
-- DN Direkt – Tredje person häktad efter misstänkt mord i Uppsala - Dagens Nyheter
-- Stor insats i Rosersberg – polisen utreder grovt brott - UNT
-- Giftlarver på Gotland – länsstyrelsen varnar - Västerbottens-Kuriren
+- Första svenska fångarna till Estland i augusti - Dagens Nyheter
+- Man gripen för mordförsök i Smålandsstenar - SVT Nyheter
+- DEBATT: Vi lokalbor får ta smällen för Googles plåtlada - Sundsvalls Tidning
+- Stopp i ett körfält på grund av en stillastående personbil på E4 - UNT
+- Natochefens konstanta smicker mot Trump - är det rätt strategi? - Sveriges Radio
+- Två döda efter skjutning under festival i Toronto - Dagens Nyheter
 - Reportrar stäms – skrev om brister på Trumps lyxplan - Hufvudstadsbladet – HBL
-- Ryska ballistiska robotar slank igenom Ukrainas försvar - Dagens Nyheter
-- Trump: USA ödelägger Iran om jag mördas - Corren
-- Böter för snitt – Erdogan vill ha ”naturliga” födslar - Västerbottens-Kuriren
-- Nya regler kan underlätta bostadsköp för studenter - Dagens Nyheter
-- Netflix backar på ljusgröna Wall Street-börser - EFN
-- Svenska Spel delar ut årets högsta Lottovinst – över 12,4 miljoner - oskarshamns-nytt.se
-- Svenskarna har mer än 10 000 miljarder i fonder - Nerikes Allehanda
+- Nytt gripande för brittiskt politikermord - SVT Nyheter
+- Svenskt fondsparande rusar över 10 000 miljarder - Omni – Alla nyheter. Alla perspektiv.
+- Billigaste semesterlandet: Här är priserna 40 procent lägre - Dagens PS
+- Nya miljonärerna skrämmer lyxbranschen – vill inte klä sig rika - Dagens PS
+- Meta drar tillbaka kritiserad funktion - Västerbottens-Kuriren
 - Lovables ingenjörschef: ”Varje person har hundratals agenter” - nyteknik
 - ”Assassin’s Creed Black Flag Resynced” en säljsuccé – 2 miljoner på releasedagen - MovieZine
 
 ## World News
 
-- Finland vill köpa eget Global Eye-plan - Dagens industri
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Finland vill köpa eget Global Eye-plan - Dagens industri
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Regeringen satsar 250 miljoner kronor på global hälsa - Örebronyheter
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
+- Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- Köpenhamn bäst i världen – Stockholm missar topp 10 - travelnews-se
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 
 ## Technology
 
@@ -75,24 +75,24 @@ _Updated: 2026-07-12 06:53_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
+- Få digital tillgång till Fortune India - November 2013-numret - Magzter
 - Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
-- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
 
 ## Health
 
@@ -122,6 +122,7 @@ _Updated: 2026-07-12 06:53_
 - Activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
@@ -129,16 +130,15 @@ _Updated: 2026-07-12 06:53_
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Olika slutsatser från samma data - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
