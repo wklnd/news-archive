@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-12 20:36_
+_Updated: 2026-07-12 21:48_
 
 - Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family - The Washington Post
 - Iran Live Updates: After Intense U.S. Strikes, Iran Targets Gulf States and Claims Strait is Closed - The New York Times
-- On birthright citizenship, the Supreme Court ‘originalists’ split on history and Trump - Los Angeles Times
-- Mexico-US relations are already strained, but experts say they’re about to get worse - CNN
+- Iran war escalates as US, IRGC exchange fire over Strait of Hormuz - Fox News
+- Some are raising ethical concerns about political text messages using AI - NPR
 - Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed - Reuters
 - Tall ships in Boston Harbor causing delays at Logan Airport - CBS News
-- Heat wave could threaten all-time record highs in Rockies - The Weather Channel
-- Platner aide hit with brutal timeline check after campaign denied rape claim, then folded days later - Fox News
+- Mexico-US relations are already strained, but experts say they’re about to get worse - CNN
+- Toronto police looking for suspects after deadly shooting at festival - NPR
 - Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes - The New York Times
-- At least 2 killed in shooting at Toronto street festival, police say - CBS News
 - Live updates • Explosions reported in Iran's Bandar Abbas as Tehran strikes Kuwait - Haaretz
 - Germany funds 50,000 strike drones for Ukraine, source says - Reuters
 - A Trump Account could make your kid a millionaire—but financial experts warn of a catch - Fortune
 - Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC
-- James Murdoch may have reaped as much as $7.5 billion from his pre-IPO investment in Elon Musk’s SpaceX - Fortune
 - Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs - AP News
-- Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge
-- Apple plans new Apple pencils, expands iPhone tap to pay in stores: Report - Firstpost
-- AI giants learn what everyone else on the modern internet already knows - Business Insider
+- SK Hynix CEO Warns 2027 Will Be Memory’s “Worst Year” Ever, With Shortages Set To Outlast The Decade - Wccftech
+- Apple's M7 Ultra Chip Designed to Match a 2019 Mac Pro Feat - MacRumors
 - The problems with Google Pixel price hikes - 9to5Google
+- AI giants learn what everyone else on the modern internet already knows - Business Insider
+- Two New Apple Pencils Reportedly Launching Next Year - MacRumors
+- Disney’s ‘Moana’ Remake Crashes at Box Office - WSJ
