@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-13 00:23_
+_Updated: 2026-07-13 01:27_
 
 ## Top Stories
 
-- Minst 27 personer döda i brand på bar i Bangkok - Svenska Dagbladet
+- Många döda efter brand på pub i Bangkok - SVT Nyheter
 - Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- Misstanken: Därför dog Lindsey Graham - Västerbottens-Kuriren
+- USA attackerar Iran på nytt – Hormuzsundet stängt - Hufvudstadsbladet – HBL
+- Svensk hittad död i norska fjällen - SVT Nyheter
 - Högsommarvärme väntas i hela landet - Dagens Nyheter
-- USA: ”Presidenten har beordrat attacker” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Svensk hittad död i norska fjällen - Västerbottens-Kuriren
-- L: Ingen trängselskatt och gratis kollektivtrafik för elbilsägare - Göteborgs-Posten
 - Extrem brandrisk i delar av landet - Corren
 - Tre häktade för mord vid badplats i Stenungsund - Västerbottens-Kuriren
 - Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
-- Man död vid motell i Sigtuna – man anhållen - Göteborgs-Posten
+- Professorn: ”Larven från helvetet” sprids via trädimport - Dagens Nyheter
 - DN Direkt – Minst 27 döda i brand på bar i Bangkok - Dagens Nyheter
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- DN Direkt – Rättsläkare: Lindsey Graham dog av brusten kroppspulsåder - Dagens Nyheter
-- Kraftiga skyfall i Bangladesh – minst 50 döda - Aftonbladet
+- Storbrand rasar – stora trafikstörningar - Västerbottens-Kuriren
+- Fartygsattacker trappas upp: ”Enkel logik” - Svenska Dagbladet
 - Färre bärplockare öppnar för extra inkomster i skogen i sommar - Börskollen
 - Trippelsmockan bakom Vings Kretakaos - Aftonbladet
 - Efter läckan om jätteuppsägningar: VW-chefen tonar ned dramatiska sparpaketet - EFN
@@ -27,20 +27,20 @@ _Updated: 2026-07-13 00:23_
 
 ## World News
 
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Kuriren nominerad för satsning på unga läsare - Kuriren
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - IMF förutspår en global ekonomisk tillväxt på 3 % år 2026. - Vietnam.vn
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
@@ -53,7 +53,6 @@ _Updated: 2026-07-13 00:23_
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Aitu Secures AI Product Innovation Gold Award at 2025 IFA, Redefining the Future of Garment Industry (PR Newswire) - Aktiellt
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
@@ -67,6 +66,7 @@ _Updated: 2026-07-13 00:23_
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -104,8 +104,8 @@ _Updated: 2026-07-13 00:23_
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
