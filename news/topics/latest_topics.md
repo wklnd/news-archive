@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-13 19:30_
+_Updated: 2026-07-13 20:55_
 
 ## Top Stories
 
 - Flicka allvarligt skadad i park i Helsingborg - Aftonbladet
-- Stor skogsbrand rasar nära Paris - Göteborgs-Posten
+- Trump: USA inför 20-procentiga tullar i Hormuz - Göteborgs-Posten
 - Norska ”bonusprinsen” får åka hem – med fotboja - Hufvudstadsbladet – HBL
-- Trump: USA inför 20-procentiga tullar i Hormuz - Corren
-- Svensk EU-politiker polisanmäler danskt påhopp - Dagens Nyheter
-- Nu införs medborgarskapsprovet – så kan frågorna se ut - Dagens Nyheter
+- Stor brand rasar i världsberömd skog: ”Aldrig sett något liknande” - SVT Nyheter
+- Kraftig brand i parhus – en till sjukhus - TV4 Nyheterna
+- Just nu: Sex personer till sjukhus efter busskrock på E6 – en gripen - Sveriges Radio
 - Markägarna tar över bevakningen efter skogsbranden i Boxholm - SVT Nyheter
 - Facken: ”Vården inte undantagen från angiverilag” - Göteborgs-Posten
-- DN Direkt – EU drar in miljonstöd till Venedigbiennalen - Dagens Nyheter
 - Nu kan bristande vandel leda till utvisning - Västerbottens-Kuriren
-- Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
-- Våldsam brand på pub i Bangkok – många döda - Göteborgs-Posten
-- Antiterrorenhet ska utreda mordet på ex-ministern - Corren
-- Ja till att avsätta presidenten i Ungern - Västerbottens-Kuriren
+- Varning för hetta – så varmt blir det i veckan - UNT
+- Macron: Redo försvara freden med vårt blod - Västerbottens-Kuriren
+- Ja till att avsätta presidenten i Ungern - SVT Nyheter
+- Hot mot Norden har blivit del av den ryska valstrategin - Dagens Nyheter
+- Slagsmål om bensin i Ryssland – Putins opinionssiffror sjunker - Hufvudstadsbladet – HBL
 - EU-rekord trots sanktioner: Tre länder toppar importlistan för rysk gas - Ny Teknik
-- Rekordstora AI-satsningar pressar Magnificent 7 – nu väntar marknaden på bevis - Börskollen
+- Rekordmånga turister i Sverige – ”Så rent!” - Svenska Dagbladet
+- Systembolagets delårsrapport: Stabil utveckling med kunden och folkhälsan i fokus - Cision News
 - Geo-oro dämpade Stockholmsbörsen i väntan på rapportstormen, OMXS30-index sjönk 0,3 procent (Finwire News) - Aktiellt
-- Wall Street tyngs av olja och chipbolag - Västerbottens-Kuriren
 - T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
 - AI avslöjade säkerhetsbugg – låg dold i Linux i 15 år - Omni – Alla nyheter. Alla perspektiv.
 
 ## World News
 
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -69,7 +69,7 @@ _Updated: 2026-07-13 19:30_
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Open AI släpper GPT-5.2 – ska utmana Gemini 3 - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-07-13 19:30_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
+- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
+- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
+- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
-- Vi presenterar ChatGPT Health - OpenAI
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- E-hälsa inom EU - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar ChatGPT Health - OpenAI
+- E-hälsa inom EU - Läkartidningen
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
