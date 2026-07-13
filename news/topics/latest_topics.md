@@ -1,22 +1,22 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-13 01:27_
+_Updated: 2026-07-13 03:04_
 
 ## Top Stories
 
 - Många döda efter brand på pub i Bangkok - SVT Nyheter
-- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
 - Misstanken: Därför dog Lindsey Graham - Västerbottens-Kuriren
-- USA attackerar Iran på nytt – Hormuzsundet stängt - Hufvudstadsbladet – HBL
-- Svensk hittad död i norska fjällen - SVT Nyheter
-- Högsommarvärme väntas i hela landet - Dagens Nyheter
+- Avslöjandet: Så styr han ett helt land i hemlighet - Aftonbladet
+- Flera döda i ryska och ukrainska attacker - Göteborgs-Posten
+- USA: ”Presidenten har beordrat attacker” – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Större trafikolycka på E4 – stopp i ett körfält - Kuriren
+- Nu kommer sommarvärmen tillbaka – över 30 grader väntas i veckan - SVT Nyheter
 - Extrem brandrisk i delar av landet - Corren
 - Tre häktade för mord vid badplats i Stenungsund - Västerbottens-Kuriren
-- Trafiken påverkas av stillastående personbil på E18 – stopp i ett körfält - UNT
-- Professorn: ”Larven från helvetet” sprids via trädimport - Dagens Nyheter
-- DN Direkt – Minst 27 döda i brand på bar i Bangkok - Dagens Nyheter
+- DN Direkt – Kvinna hittad död – man misstänks för mord - Dagens Nyheter
+- Brännskadat par hittat i ravin efter branden - Göteborgs-Posten
 - Mord på högerprofil ”inte politiskt motiverat” - Hufvudstadsbladet – HBL
-- Storbrand rasar – stora trafikstörningar - Västerbottens-Kuriren
+- Storbrand rasar i Frankrike – stora trafikstörningar - SVT Nyheter
 - Fartygsattacker trappas upp: ”Enkel logik” - Svenska Dagbladet
 - Färre bärplockare öppnar för extra inkomster i skogen i sommar - Börskollen
 - Trippelsmockan bakom Vings Kretakaos - Aftonbladet
@@ -45,8 +45,8 @@ _Updated: 2026-07-13 01:27_
 - Infomedia goes global with acquisition of Opoint Technology - Via TT
 - Global oljeefterfrågan väntas minska för första gången sedan covid - Investing.com Sverige
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- Klarna lanserar medlemskap med global reseförsäkring och cashback - travelnews-se
 - Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 
 ## Technology
 
@@ -60,16 +60,16 @@ _Updated: 2026-07-13 01:27_
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
+- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
