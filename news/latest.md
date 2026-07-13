@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-13 07:05_
+_Updated: 2026-07-13 10:35_
 
-- Lindsey Graham died of aortic dissection, preliminary medical report says - The Washington Post
-- Mitch McConnell releases health update, says he is ‘regaining’ strength - Al Jazeera
-- Live updates: US launches second night of strikes on Iran - CNN
-- In Terrifying Seconds, a Bison Charges Campers at Yellowstone - The New York Times
+- What happens next with Lindsey Graham’s Senate seat - The Washington Post
+- McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR
+- US launches new wave of strikes against Iran as Tehran says diplomacy has proven ‘futile’ - The Guardian
+- Iran launches retaliatory attacks after fresh US strikes – as it happened - The Guardian
 - Fire breaks out at a pub in Bangkok, killing at least 27 people - AP News
-- As Maine Democrats scramble to replace Platner, party director says the 'grassroots energy … needs to find a home' - ABC News - Breaking News, Latest News and Videos
+- In Terrifying Seconds, a Bison Charges Campers at Yellowstone - The New York Times
+- Federal monitor says UAW head Shawn Fain abused authority; Fain denies findings - CNBC
 - Shooting in Southern Illinois Leaves 5 Family Members Dead - The New York Times
-- DOJ Investigating Allegations Against UAW President Fain - Bloomberg.com
-- Hormuz route open despite Iran declaration, maritime group says - Fortune
+- As Maine Democrats scramble to replace Platner, party director says the 'grassroots energy … needs to find a home' - ABC News - Breaking News, Latest News and Videos
+- What Really Happened in the Last Known Video of Nolan Wells: ‘It’s Me Yelling’ - Rolling Stone
+- Actor Sam Neill has died - Stuff
+- Fontainebleau forest near Paris hit by 'virulent' wildfire - France 24
 - Toronto police looking for suspects after deadly shooting at festival - NPR
-- US completes wave of strikes targeting Iranian air defenses, missile capabilities - The Jerusalem Post
-- British police make new arrest in Ann Widdecombe murder investigation - Al Jazeera
-- Oil prices jump as US and Iran trade attacks over Strait of Hormuz - Al Jazeera
-- A Trump Account could make your kid a millionaire by 45—but financial experts say the app’s projections come with a catch - Yahoo Finance
-- Elon Musk and Sam Altman Are Fighting in Public Again - Business Insider
-- SK Hynix shares slide 10% in Seoul after stellar Nasdaq debut - CNBC
-- Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge
-- iPhone 18 Pro Release Date: Apple’s Strategic Choice Can Defeat Rivals - Forbes
-- Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction - CNET
-- Want to own a real T. rex? It could cost you $30 million - NPR
+- Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions - Al Jazeera
+- Oil Prices Surge After Iran and U.S. Trade Strikes - The New York Times
+- Oil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap - Bloomberg.com
+- SK Hynix South Korean shares clock worst day, sinking over 15%, after stellar Nasdaq debut - CNBC
+- Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation - CNBC
+- Lorde says Ray-Ban Meta AI glasses are ‘not sexy’ - The Verge
+- Apple's M7 Ultra Chip Designed to Match a 2019 Mac Pro Feat - MacRumors
