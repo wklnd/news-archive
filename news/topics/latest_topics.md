@@ -1,27 +1,27 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-13 20:55_
+_Updated: 2026-07-13 22:38_
 
 ## Top Stories
 
-- Flicka allvarligt skadad i park i Helsingborg - Aftonbladet
+- Misstänkt våldsbrott vid lekplats: femårig flicka allvarligt skadad - Sveriges Radio
 - Trump: USA inför 20-procentiga tullar i Hormuz - Göteborgs-Posten
-- Norska ”bonusprinsen” får åka hem – med fotboja - Hufvudstadsbladet – HBL
-- Stor brand rasar i världsberömd skog: ”Aldrig sett något liknande” - SVT Nyheter
-- Kraftig brand i parhus – en till sjukhus - TV4 Nyheterna
-- Just nu: Sex personer till sjukhus efter busskrock på E6 – en gripen - Sveriges Radio
+- Flera skadade i buss – stor trafikpåverkan - Aftonbladet
+- DN Direkt – Två gripna i samband med fransk storbrand - Dagens Nyheter
+- Misshandlades till döds på badplats i Mölnlycke - TV4 Nyheterna
+- Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
 - Markägarna tar över bevakningen efter skogsbranden i Boxholm - SVT Nyheter
 - Facken: ”Vården inte undantagen från angiverilag” - Göteborgs-Posten
-- Nu kan bristande vandel leda till utvisning - Västerbottens-Kuriren
-- Varning för hetta – så varmt blir det i veckan - UNT
-- Macron: Redo försvara freden med vårt blod - Västerbottens-Kuriren
+- Trafikolycka i Åre – man död - Västerbottens-Kuriren
+- Nu kan bristande vandel leda till utvisning - Göteborgs-Posten
+- Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
 - Ja till att avsätta presidenten i Ungern - SVT Nyheter
-- Hot mot Norden har blivit del av den ryska valstrategin - Dagens Nyheter
-- Slagsmål om bensin i Ryssland – Putins opinionssiffror sjunker - Hufvudstadsbladet – HBL
+- Antiterrorenhet ska utreda mordet på ex-ministern - Corren
+- Minst 27 döda i krogbrand i Bangkok – nöddörrar misstänks ha varit blockerade - Hufvudstadsbladet – HBL
 - EU-rekord trots sanktioner: Tre länder toppar importlistan för rysk gas - Ny Teknik
 - Rekordmånga turister i Sverige – ”Så rent!” - Svenska Dagbladet
 - Systembolagets delårsrapport: Stabil utveckling med kunden och folkhälsan i fokus - Cision News
-- Geo-oro dämpade Stockholmsbörsen i väntan på rapportstormen, OMXS30-index sjönk 0,3 procent (Finwire News) - Aktiellt
+- DN Direkt – Oljepriset skjuter i höjden – Wall Street backade - Dagens Nyheter
 - T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
 - AI avslöjade säkerhetsbugg – låg dold i Linux i 15 år - Omni – Alla nyheter. Alla perspektiv.
 
@@ -44,23 +44,23 @@ _Updated: 2026-07-13 20:55_
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
+- Visual Art köper Global Agencies - Dagens Media
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
+- Få digital tillgång till Mindkosh AI Review Magazine - Magzter
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Få digital tillgång till Mindkosh AI Review Magazine - Magzter
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -69,7 +69,7 @@ _Updated: 2026-07-13 20:55_
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
@@ -97,25 +97,25 @@ _Updated: 2026-07-13 20:55_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Förvärv av RMS Medical Devices - Asker Healthcare Group AB - Cision News
-- Nationellt klimatinitiativ inom hälso- och sjukvård och life science - Mynewsdesk
-- Så kan vi arbeta med klimat och miljö i hälso- och sjukvården - Läkartidningen
-- Emergency Medical Teams Global Meeting i Abu Dhabi - en mötesplats för nätverkande och kunskapsutbyte - Karolinska Institutet
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar HealthBench - OpenAI
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - E-hälsa inom EU - Läkartidningen
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
-- Låt Sil bli kärnan i framtidens kunskaps- och beslutsstöd - Läkartidningen
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 
 ## Science
 
