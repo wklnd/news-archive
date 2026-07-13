@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 00:27_
+_Updated: 2026-07-14 01:26_
 
 ## Top Stories
 
 - USA attackerar Iran för tredje natten i rad - Västerbottens-Kuriren
-- Flicka i 5-årsåldern allvarligt skadad – lekplats avspärrad - TV4 Nyheterna
-- Busskrock på E6 – lastbilschaufför gripen - Göteborgs-Posten
-- DN Direkt – Två gripna i samband med fransk storbrand - Dagens Nyheter
-- Man död efter misshandel i Mölnlycke – tre män anhållna - Lokalpressen
-- SMHI: Ökad brandrisk i nästan hela landet - Omni – Alla nyheter. Alla perspektiv.
-- Skogsbränder i södra Sverige under kontroll - Göteborgs-Posten
+- Flicka allvarligt skadad i Helsingborg – brott utreds - Göteborgs-Posten
+- Nio till sjukhus – en gripen efter olycka - Expressen
+- Direkt – Kriget i Ukraina – Robotattack mot Kiev - Dagens Nyheter
+- Misshandlades till döds på badplats i Mölnlycke - TV4 Nyheterna
+- Trump: Ska slå mot berget Kuh-e Kolang i Iran - Omni – Alla nyheter. Alla perspektiv.
+- Markägarna tar över bevakningen efter skogsbranden i Boxholm - SVT Nyheter
+- DN Direkt – Trafikolycka i Åre – man död - Dagens Nyheter
 - Nu införs omstridda ”angiverilagen” - Nya Wermlands-Tidningen
-- Het vecka – sen vänder det - UNT
-- ”Sopdrottningen” överklagar till HD - Aktuell Hållbarhet
-- Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
+- Risk för skogsbränder – SMHI varnar - Norran
+- Stor skogsbrand rasar nära Paris - Göteborgs-Posten
 - Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
-- Offensiven i fara – kravet för att lyckas - Expressen
-- Misstanken: Därför dog Lindsey Graham - Hufvudstadsbladet – HBL
-- EU-rekord trots sanktioner: Tre länder toppar importlistan för rysk gas - Ny Teknik
+- Direkt – Kriget i Ukraina – Flera döda i ryska och ukrainska attacker - Dagens Nyheter
+- Hot mot Norden har blivit del av den ryska valstrategin - Dagens Nyheter
 - Rekordmånga turister i Sverige – ”Så rent!” - Svenska Dagbladet
+- EU-rekord trots sanktioner: Tre länder toppar importlistan för rysk gas - Ny Teknik
 - Proffsen spår starka delår: ”Konjunkturen ser bra ut” - Omni – Alla nyheter. Alla perspektiv.
-- Systembolagets delårsrapport: Stabil utveckling med kunden och folkhälsan i fokus - Cision News
+- DN Direkt – Oljepriset skjuter i höjden – Wall Street backade - Dagens Nyheter
 - T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
 - AI upptäckte bugg i Linux – var gömd i 15 år - Breakit
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -64,12 +64,12 @@ _Updated: 2026-07-14 00:27_
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -88,8 +88,8 @@ _Updated: 2026-07-14 00:27_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-07-14 00:27_
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -132,13 +132,13 @@ _Updated: 2026-07-14 00:27_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 
 ## Jordbruk
 
