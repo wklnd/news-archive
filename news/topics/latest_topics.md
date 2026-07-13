@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-13 22:38_
+_Updated: 2026-07-14 00:27_
 
 ## Top Stories
 
-- Misstänkt våldsbrott vid lekplats: femårig flicka allvarligt skadad - Sveriges Radio
-- Trump: USA inför 20-procentiga tullar i Hormuz - Göteborgs-Posten
-- Flera skadade i buss – stor trafikpåverkan - Aftonbladet
+- USA attackerar Iran för tredje natten i rad - Västerbottens-Kuriren
+- Flicka i 5-årsåldern allvarligt skadad – lekplats avspärrad - TV4 Nyheterna
+- Busskrock på E6 – lastbilschaufför gripen - Göteborgs-Posten
 - DN Direkt – Två gripna i samband med fransk storbrand - Dagens Nyheter
-- Misshandlades till döds på badplats i Mölnlycke - TV4 Nyheterna
-- Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
-- Markägarna tar över bevakningen efter skogsbranden i Boxholm - SVT Nyheter
-- Facken: ”Vården inte undantagen från angiverilag” - Göteborgs-Posten
-- Trafikolycka i Åre – man död - Västerbottens-Kuriren
-- Nu kan bristande vandel leda till utvisning - Göteborgs-Posten
+- Man död efter misshandel i Mölnlycke – tre män anhållna - Lokalpressen
+- SMHI: Ökad brandrisk i nästan hela landet - Omni – Alla nyheter. Alla perspektiv.
+- Skogsbränder i södra Sverige under kontroll - Göteborgs-Posten
+- Nu införs omstridda ”angiverilagen” - Nya Wermlands-Tidningen
+- Het vecka – sen vänder det - UNT
+- ”Sopdrottningen” överklagar till HD - Aktuell Hållbarhet
 - Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
-- Ja till att avsätta presidenten i Ungern - SVT Nyheter
-- Antiterrorenhet ska utreda mordet på ex-ministern - Corren
-- Minst 27 döda i krogbrand i Bangkok – nöddörrar misstänks ha varit blockerade - Hufvudstadsbladet – HBL
+- Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
+- Offensiven i fara – kravet för att lyckas - Expressen
+- Misstanken: Därför dog Lindsey Graham - Hufvudstadsbladet – HBL
 - EU-rekord trots sanktioner: Tre länder toppar importlistan för rysk gas - Ny Teknik
 - Rekordmånga turister i Sverige – ”Så rent!” - Svenska Dagbladet
+- Proffsen spår starka delår: ”Konjunkturen ser bra ut” - Omni – Alla nyheter. Alla perspektiv.
 - Systembolagets delårsrapport: Stabil utveckling med kunden och folkhälsan i fokus - Cision News
-- DN Direkt – Oljepriset skjuter i höjden – Wall Street backade - Dagens Nyheter
 - T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
-- AI avslöjade säkerhetsbugg – låg dold i Linux i 15 år - Omni – Alla nyheter. Alla perspektiv.
+- AI upptäckte bugg i Linux – var gömd i 15 år - Breakit
 
 ## World News
 
@@ -50,7 +50,6 @@ _Updated: 2026-07-13 22:38_
 
 ## Technology
 
-- Få digital tillgång till Mindkosh AI Review Magazine - Magzter
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
@@ -61,7 +60,6 @@ _Updated: 2026-07-13 22:38_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -70,6 +68,8 @@ _Updated: 2026-07-13 22:38_
 - Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 
 ## Business
 
@@ -83,10 +83,10 @@ _Updated: 2026-07-13 22:38_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -103,19 +103,19 @@ _Updated: 2026-07-13 22:38_
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- E-hälsa inom EU - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -132,13 +132,13 @@ _Updated: 2026-07-13 22:38_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
