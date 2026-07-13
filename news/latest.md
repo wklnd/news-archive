@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-13 21:02_
+_Updated: 2026-07-13 22:41_
 
+- Trump recommends Lindsey Graham’s sister to finish his Senate term - NBC News
 - Live updates: Ceasefire disintegrates as Trump says US will reinstate blockade of Iranian ships in Strait of Hormuz - CNN
-- Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar - CNBC
-- Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham’s sudden death - AP News
-- Lindsey Graham's sister, Darline Graham Nordone, set to be tapped to serve out Senate term - CBS News
-- McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR
+- Judge sanctions Trump's lawyers for IRS settlement, anti-weaponization fund - Axios
 - Officials: Person killed in shooting involving ICE in Biddeford - WMTW
-- A Photo of Nolan Wells at a Pool Party Went Viral. It’s Not From July 4 - Rolling Stone
+- Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham’s sudden death - AP News
+- McConnell says a fall led to his hospitalization, breaking weeks of silence - NPR
+- D.O.J. Turns Over Evidence in Minnesota D.H.S. Shootings - The New York Times
+- FBI fires 2 analysts who raised concerns about Fulton County 2020 election probe, sources say - CBS News
+- House Republicans to huddle with CBO chief amid reconciliation talks - Politico
 - Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S. - The New York Times
-- D.O.J. Turns Over Evidence in Minnesota Shootings by Immigration Agents - The New York Times
-- Abbott activates Black Hawks as dangerous flood threat bears down on Texas - Chron
-- Western leaders agree anti-ballistic missile coalition with Ukraine - Reuters
-- EU wants 13+ age restriction for social media - politico.eu
-- UK police rearrest the suspect in Ann Widdecombe killing on terrorism suspicion - AP News
-- France to summon Russia's ambassador over "sabotage and espionage in a dozen European countries" - CBS News
-- Paramount Sued By States In Bid to Block $111 Billion Warner Bros. Merger - The Hollywood Reporter
-- Oil prices rise following the latest fighting in the Middle East, as AI stocks sink - AP News
-- SK Hynix Stock Drops as AI Fears Resurface - Barron's
-- S&P 500 drops after Trump reimposes Strait of Hormuz blockade, SK Hynix leads chip stocks lower: Live updates - CNBC
+- US Attacks Iranian Port Using Sea Drones for the First Time - Bloomberg.com
+- Ukraine, 9 nations form ballistic missile defense coalition - dw.com
+- Children's social media curbs planned across EU, von der Leyen says - Reuters
+- British counterterrorism police take over investigation into "horrific murder" of veteran politician - CBS News
+- Oil prices march upward again as the U.S-Iran conflict intensifies—and it’s yet another headache for Warsh and the Fed - Fortune
+- The wildest allegations in Apple’s trade secrets lawsuit against OpenAI - TechCrunch
+- Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility - CNBC
+- Trump regulators move to curtail lending to undocumented immigrants - Politico
+- OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google
 - Young men report more ‘sextortion’ than any other age group, Australia’s online safety watchdog says - The Guardian
-- iOS 27: Public beta may launch this week, plus the newest AI features for the iPhone update - Yahoo Tech
