@@ -1,49 +1,49 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 08:34_
+_Updated: 2026-07-14 10:38_
 
 ## Top Stories
 
-- SVT:s utrikesreporter: Vapenvilan kollapsat – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Little Gerhard är död – blev 92 år - Aftonbladet
+- Trump: Vi slår till mycket hårt mot Iran - Göteborgs-Posten
 - DN Direkt – Trump varnar för kraftiga attacker mot Iran - Dagens Nyheter
-- Störningar hos Taxi Stockholm - SVT Nyheter
-- I praktiken klart: Burnham blir ny premiärminister - Göteborgs-Posten
-- Onanerande man på pall i Skurup - Expressen
+- Nu införs omstridda ”angiverilagen” - Nya Wermlands-Tidningen
 - Sonen vaknade – vapen riktades mot mamman - Svenska Dagbladet
-- Trafikolycka i Åre – man död - Göteborgs-Posten
-- Flicka allvarligt skadad i misstänkt våldsbrott i Helsingborg - SVT Nyheter
+- Explosioner i Kyiv efter nya ryska robotattacker - Omni – Alla nyheter. Alla perspektiv.
+- Rekordbeslag av kokain i år - Västerbottens-Kuriren
 - En person hittad död i Fylleån utanför Halmstad - SVT Nyheter
+- Sveriges sämsta kommun för pensionärer: "låga betyg" - Dagens PS
 - Fakta i frågan: Hur mår miljön – bortom klimatet? - Dagens Nyheter
-- Man skjuten till döds av ICE-agent i Maine - Göteborgs-Posten
+- Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
 - Venezuela: Oljeproduktionen opåverkad av skalv - Västerbottens-Kuriren
 - Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
-- Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
-- Ericssons vinst sjunker mer än väntat i kvartalsrapport - Sveriges Radio
-- Asiens börser faller vidare – samtidigt rusar oljepriset - Börskollen
-- Maserfrakt: ”Sänkningarna på bränslepriserna är i princip ett nollsummespel” - EFN
+- Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
+- Gardell hyllar Ekholms vd-tid: ”Klart bättre bolag i dag” - EFN
+- Efter bensinrean: Dyrare att tanka el än fossilt - Dagens Nyheter
+- Experten: Goda nyheter för Bioarctic - Dagens industri
 - Höga kustens campingar kan slå besöksrekord - Sveriges Radio
-- T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
-- Teknikexpert föreslår att PlayStation byter ut fysiska PS5-skivor mot 3D NAND-kassetter - notebookcheck.se
+- Forskare börjar använda promptinjektioner för att stoppa hackerattacker - Computer Sweden
+- Microsoft vill att vi installerar säkerhetsfixar inom 3 dagar - Computer Sweden
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
@@ -79,7 +79,6 @@ _Updated: 2026-07-14 08:34_
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2014-numret - Magzter
 - Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
@@ -89,6 +88,7 @@ _Updated: 2026-07-14 08:34_
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
@@ -104,44 +104,45 @@ _Updated: 2026-07-14 08:34_
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
-- Activities for the public – Department of Earth Sciences - Uppsala universitet
+- NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning och Vetenskap - umb.edu.pl
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 
 ## Jordbruk
 
+- Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
 - Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
@@ -157,7 +158,6 @@ _Updated: 2026-07-14 08:34_
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
-- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
