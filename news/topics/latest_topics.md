@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 02:53_
+_Updated: 2026-07-14 06:27_
 
 ## Top Stories
 
 - USA attackerar Iran för tredje natten i rad - Göteborgs-Posten
-- Misstänkt knivdåd i park – femårig flicka skadad - Omni – Alla nyheter. Alla perspektiv.
-- Putin erkänner bränslekris – utlovar hämnd - Expressen
+- Explosioner i Kyiv efter nya ryska robotattacker - Omni – Alla nyheter. Alla perspektiv.
+- Buss och lastbil i olycka på E6 - ST-tidningen
 - Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
-- Misshandlades till döds på badplats i Mölnlycke - TV4 Nyheterna
-- Grahams syster tar över posten i senaten - Göteborgs-Posten
-- Skogsbränder i södra Sverige under kontroll - Västerbottens-Kuriren
-- DN Direkt – Trafikolycka i Åre – man död - Dagens Nyheter
+- Flicka i 5-årsåldern allvarligt skadad – lekplats avspärrad - TV4 Nyheterna
+- Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
+- Skogsbränder i södra Sverige under kontroll - Göteborgs-Posten
+- Trafikolycka i Åre – man död - Västerbottens-Kuriren
+- Fakta i frågan: Hur mår miljön – bortom klimatet? - Dagens Nyheter
 - Risk för skogsbränder – SMHI varnar - Norran
-- Het vecka – sen vänder det - UNT
-- Stor skogsbrand rasar nära Paris - Göteborgs-Posten
-- Europeiskt samarbete ska skydda mot robotar - SVT Nyheter
-- Hot mot Norden har blivit del av den ryska valstrategin - Dagens Nyheter
-- Man dödad vid ICE-insats i Maine - Göteborgs-Posten
-- Rekordmånga turister i Sverige – ”Så rent!” - Svenska Dagbladet
-- Oljepriset skjuter i höjden – Wall Street backade - Expressen
+- Venezuela: Oljeproduktionen opåverkad av skalv - Västerbottens-Kuriren
+- Två gripna i samband med fransk storbrand - Göteborgs-Posten
+- DN Direkt – Grahams syster tar över hans plats i senaten - Dagens Nyheter
+- Antiterrorenhet ska utreda mordet på ex-ministern - Corren
+- Maserfrakt: ”Sänkningarna på bränslepriserna är i princip ett nollsummespel” - EFN
+- DN Direkt – Oljepriset skjuter i höjden – Wall Street backade - Dagens Nyheter
+- Asiens börser faller vidare – samtidigt rusar oljepriset - Börskollen
 - Geo-oro dämpade Stockholmsbörsen i väntan på rapportstormen, OMXS30-index sjönk 0,3 procent (Finwire News) - Aktiellt
-- Försiktigt på Europabörserna – flygbolag backade - EFN
 - Dinosaurieskelett säljs på auktion – kan bli världens dyraste - Dagens PS
-- AI upptäckte bugg i Linux – var gömd i 15 år - Breakit
+- Teknikexpert föreslår att PlayStation byter ut fysiska PS5-skivor mot 3D NAND-kassetter - notebookcheck.se
 
 ## World News
 
@@ -46,7 +46,7 @@ _Updated: 2026-07-14 02:53_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
 
 ## Technology
 
@@ -57,29 +57,30 @@ _Updated: 2026-07-14 02:53_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
-- Astra Zeneca satsar miljarder på AI-forskning i Kina - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
-- Tiden för billig vibe coding kan vara över - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Da Nangs ekonomiska, finansiella och teknologiska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Få digital tillgång till Fortune India - November 2014-numret - Magzter
+- Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
@@ -89,7 +90,6 @@ _Updated: 2026-07-14 02:53_
 - Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
@@ -132,13 +132,13 @@ _Updated: 2026-07-14 02:53_
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Lars H. Lund, en av forskarna på listan Highly Cited Researchers 2024 - Karolinska Institutet
 
 ## Jordbruk
 
