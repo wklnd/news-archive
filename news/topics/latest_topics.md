@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 06:27_
+_Updated: 2026-07-14 08:34_
 
 ## Top Stories
 
-- USA attackerar Iran för tredje natten i rad - Göteborgs-Posten
-- Explosioner i Kyiv efter nya ryska robotattacker - Omni – Alla nyheter. Alla perspektiv.
-- Buss och lastbil i olycka på E6 - ST-tidningen
-- Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
-- Flicka i 5-årsåldern allvarligt skadad – lekplats avspärrad - TV4 Nyheterna
-- Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
-- Skogsbränder i södra Sverige under kontroll - Göteborgs-Posten
-- Trafikolycka i Åre – man död - Västerbottens-Kuriren
+- SVT:s utrikesreporter: Vapenvilan kollapsat – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- DN Direkt – Trump varnar för kraftiga attacker mot Iran - Dagens Nyheter
+- Störningar hos Taxi Stockholm - SVT Nyheter
+- I praktiken klart: Burnham blir ny premiärminister - Göteborgs-Posten
+- Onanerande man på pall i Skurup - Expressen
+- Sonen vaknade – vapen riktades mot mamman - Svenska Dagbladet
+- Trafikolycka i Åre – man död - Göteborgs-Posten
+- Flicka allvarligt skadad i misstänkt våldsbrott i Helsingborg - SVT Nyheter
+- En person hittad död i Fylleån utanför Halmstad - SVT Nyheter
 - Fakta i frågan: Hur mår miljön – bortom klimatet? - Dagens Nyheter
-- Risk för skogsbränder – SMHI varnar - Norran
+- Man skjuten till döds av ICE-agent i Maine - Göteborgs-Posten
 - Venezuela: Oljeproduktionen opåverkad av skalv - Västerbottens-Kuriren
-- Två gripna i samband med fransk storbrand - Göteborgs-Posten
-- DN Direkt – Grahams syster tar över hans plats i senaten - Dagens Nyheter
-- Antiterrorenhet ska utreda mordet på ex-ministern - Corren
-- Maserfrakt: ”Sänkningarna på bränslepriserna är i princip ett nollsummespel” - EFN
-- DN Direkt – Oljepriset skjuter i höjden – Wall Street backade - Dagens Nyheter
+- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
+- Zelenskyj: Klart med licenstillverkning av Patriot - Västerbottens-Kuriren
+- Ericssons vinst sjunker mer än väntat i kvartalsrapport - Sveriges Radio
 - Asiens börser faller vidare – samtidigt rusar oljepriset - Börskollen
-- Geo-oro dämpade Stockholmsbörsen i väntan på rapportstormen, OMXS30-index sjönk 0,3 procent (Finwire News) - Aktiellt
-- Dinosaurieskelett säljs på auktion – kan bli världens dyraste - Dagens PS
+- Maserfrakt: ”Sänkningarna på bränslepriserna är i princip ett nollsummespel” - EFN
+- Höga kustens campingar kan slå besöksrekord - Sveriges Radio
+- T-rex säljs för kvarts miljard – forskare rasar - Svenska Dagbladet
 - Teknikexpert föreslår att PlayStation byter ut fysiska PS5-skivor mot 3D NAND-kassetter - notebookcheck.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Etraveli rusar – 175 miljarder och global styrka - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -61,15 +61,15 @@ _Updated: 2026-07-14 06:27_
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
-- Albanien utser AI-bot till minister - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
 
@@ -102,17 +102,17 @@ _Updated: 2026-07-14 06:27_
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- E-hälsa inom EU - Läkartidningen
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -142,23 +142,23 @@ _Updated: 2026-07-14 06:27_
 
 ## Jordbruk
 
-- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
 - Bröderna Erik och Martin bygger ett grönskande lantbruk för framtiden - Dala-Demokraten
+- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Jordbrukspolitik - Naturvårdsverket
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
-- Doggy stolt partner till Göteborg Film Festival - Mynewsdesk
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
 - Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
+- Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
+- Ekologiskt inte bättre för klimatet än konventionellt - ATL
 - Kan agroekologi mätta världen? - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
-- Hellre plöjningsfri odling än ekologisk - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
