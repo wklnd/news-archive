@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 17:08_
+_Updated: 2026-07-14 18:45_
 
 ## Top Stories
 
-- Axel räddade flickan efter knivattacken i parken - Expressen
-- Experten: Iran och USA tillbaka på ruta noll - Dagens Nyheter
-- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
-- Dousa: Föreningar får säga nej till kriminella - Svenska Dagbladet
-- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
+- Axel tog hand om attackerade flickan: ”Det var fullständig panik” - Sveriges Radio
+- Trump backar om tullar i Hormuzsundet - Corren
+- WHO: Troligen dubbelt så många ebolafall - Läkartidningen
+- Flera spårvagnsolyckor – påverkar flera sträckor - SVT Nyheter
 - Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
-- SMHI utfärdar gul värmevarning i Östergötland - Corren
-- Död person hittad på Lidingö - SVT Nyheter
+- SMHI varnar för hög värme i Enköping – kan bli tropisk natt - Enköpingsposten
 - Igelkotten ny på kortare lista för artskydd - Västerbottens-Kuriren
-- Svenska kyrkan och politik – därför kritiseras den - Sveriges Radio
-- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
-- Norskt fartyg träffades av ”yttre föremål” utanför Oman - SVT Nyheter
+- Joggare hittade kropp på Lidingö - Omni – Alla nyheter. Alla perspektiv.
+- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
+- Trafikverket stänger banor i värmen – höjd beredskap - SVT Nyheter
+- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
+- Trumps söner tjänar miljarder på pappas politik - Dagens Nyheter
+- Brittisk polis: Politikermord var ”riktad attack” - Västerbottens-Kuriren
 - Anfall tvingar Ryssland till nya fraktleder - Göteborgs-Posten
-- Fransk storbrand inte under kontroll - Västerbottens-Kuriren
-- Fortsatt nedgång på Stockholmsbörsen i stegrad rapportflod, OMXS30-index sjunker 0,8 procent (Finwire News) - Aktiellt
+- Ericsson sänke på börsen – OMXS30 ned 0,1% - Affärsvärlden
 - Analytiker: Starkt kvartal för JP Morgan - men högre kostnader dämpar entusiasmen - Börsvärlden
 - Affärsvärlden behåller Lime i sin portfölj - Affärsvärlden
-- I bensinrean: Dyrare att tanka el än fossilt - Sydsvenskan
-- Smartphone-försäljningen sämre än på 13 år – Apple mot strömmen - Börskollen
-- OnePlus uppges lämna Europa och USA. Kan komma besked i dagarna från mobiltillverkaren. - Feber
+- Marknaden räknar med tre räntehöjningar - Corren
+- Tyrannosaurus rex såldes för 50 miljoner dollar - Yle
+- Smartphoneleveranser faller till 13-årig lägstanivå - Investing.com Sverige
 
 ## World News
 
 - Esports World Cup 2026: MLBB Women's International startar idag, här är grupperna och öppningsmatcherna - Gamereactor
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
+- Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
@@ -87,7 +87,7 @@ _Updated: 2026-07-14 17:08_
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -100,19 +100,19 @@ _Updated: 2026-07-14 17:08_
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- E-hälsa inom EU - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
