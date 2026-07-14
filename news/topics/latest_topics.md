@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 14:47_
+_Updated: 2026-07-14 17:08_
 
 ## Top Stories
 
 - Axel räddade flickan efter knivattacken i parken - Expressen
-- SMHI utfärdar gul vädervarning – för kort värmebölja - Mitt i
-- Man skjuten till döds av ICE-agent i Maine - Göteborgs-Posten
-- Expert: Patriot skyddar Ukraina och Europa - Svenska Dagbladet
-- ”Utsikterna för en vapenvila är just nu små” - SVT Nyheter
-- DN Direkt – Regeringen vill ta bort 180 fridlysta arter – 130 läggs till - Dagens Nyheter
-- Död person hittad på Lidingö - SVT Nyheter
-- Husbil i krock på E18 – förare förd till sjukhus - SVT Nyheter
-- Samsovning kopplas till plötslig spädbarnskollaps - Dagens Nyheter
-- Teknikkaos i Europa – drabbar taxi i Stockholm - Västerbottens-Kuriren
-- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
+- Experten: Iran och USA tillbaka på ruta noll - Dagens Nyheter
+- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
+- Dousa: Föreningar får säga nej till kriminella - Svenska Dagbladet
+- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
 - Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
+- SMHI utfärdar gul värmevarning i Östergötland - Corren
+- Död person hittad på Lidingö - SVT Nyheter
+- Igelkotten ny på kortare lista för artskydd - Västerbottens-Kuriren
+- Svenska kyrkan och politik – därför kritiseras den - Sveriges Radio
+- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
+- Norskt fartyg träffades av ”yttre föremål” utanför Oman - SVT Nyheter
 - Anfall tvingar Ryssland till nya fraktleder - Göteborgs-Posten
-- Här stångas mannen flera meter upp i luften av bisonoxen - Dagens Nyheter
+- Fransk storbrand inte under kontroll - Västerbottens-Kuriren
 - Fortsatt nedgång på Stockholmsbörsen i stegrad rapportflod, OMXS30-index sjunker 0,8 procent (Finwire News) - Aktiellt
-- Bättre än väntat från amerikanska storbanker – JP Morgan faller - EFN
-- I bensinrean: Dyrare att tanka el än fossilt - Sydsvenskan
+- Analytiker: Starkt kvartal för JP Morgan - men högre kostnader dämpar entusiasmen - Börsvärlden
 - Affärsvärlden behåller Lime i sin portfölj - Affärsvärlden
+- I bensinrean: Dyrare att tanka el än fossilt - Sydsvenskan
+- Smartphone-försäljningen sämre än på 13 år – Apple mot strömmen - Börskollen
 - OnePlus uppges lämna Europa och USA. Kan komma besked i dagarna från mobiltillverkaren. - Feber
-- Patient fick vaccin – dog dagen efter - Skaraborgs Allehanda
 
 ## World News
 
@@ -82,12 +82,12 @@ _Updated: 2026-07-14 14:47_
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
+- Da Nang Economic - Financial - Technology Week 2026: Utveckling av ett flernivåigt finansiellt system för att attrahera långsiktiga kapitalflöden. - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang Economic - Financial - Technology Week 2026: Utveckling av ett flernivåigt finansiellt system för att attrahera långsiktiga kapitalflöden. - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2026-07-14 14:47_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
 - Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Forskning och Vetenskap - umb.edu.pl
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
