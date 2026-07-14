@@ -1,23 +1,23 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 00:30_
+_Updated: 2026-07-15 01:25_
 
 ## Top Stories
 
-- Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
 - USA bekräftar: Har utfört flera attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Spanien: Nästan alla brandoffer var utlänningar - Göteborgs-Posten
-- Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
-- DN Direkt – ICE stoppas från att utföra fordonskontroller - Dagens Nyheter
-- Brand i studentboende – minst två till sjukhus - SVT Nyheter
-- Trafikverket varnar för ”blödande asfalt” i värmen - SVT Nyheter
-- Det här är arterna som blir fridlysta – över 180 tas bort - Göteborgs-Posten
+- Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
+- Göteborgarens fru och bebis fastnade i spanska brandområdet - Göteborgs-Posten
+- En till sjukhus efter brand - Svenska Dagbladet
+- ICE stoppas från att utföra fordonskontroller - Västerbottens-Kuriren
+- Antalet dödsoffer i Venezuela stiger - Göteborgs-Posten
+- Kanalbåt på grund utanför Trosa - evakueras - Västerbottens-Kuriren
+- Ål och igelkott läggs till på artskyddslistan - SVT Nyheter
 - Pojke omhändertagen efter våldsdåd mot femårig flicka i Helsingborg - Dagens Nyheter
-- SMHI utfärdar gul värmevarning i länet - Corren
-- DN Direkt – Misstänkt föremål i Glimåkra var ofarligt - Dagens Nyheter
-- Trump backar om tullar i Hormuzsundet - Göteborgs-Posten
-- FN: Dödligaste månaden för civila i Ukraina på fyra år - Hufvudstadsbladet – HBL
+- Höjer beredskapen – till följd av värmen - Nya Wermlands-Tidningen
+- Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
+- Trump backar om tullar i Hormuzsundet - Dagens Nyheter
 - Expert: Putins superrobot ett propagandavapen - Dagens Nyheter
+- FN: Dödligaste månaden för civila i Ukraina på fyra år - Hufvudstadsbladet – HBL
 - Ericsson sänke på Stockholmsbörsen, OMXS30-index backade 0,1 procent (Finwire News) - Aktiellt
 - Affärsvärlden behåller Lime i sin portfölj - Affärsvärlden
 - Taxi Stockholms problem fortsätter – chauffören Adam kämpar - Sveriges Radio
@@ -27,24 +27,24 @@ _Updated: 2026-07-15 00:30_
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
@@ -107,15 +107,15 @@ _Updated: 2026-07-15 00:30_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -143,8 +143,8 @@ _Updated: 2026-07-15 00:30_
 ## Jordbruk
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
