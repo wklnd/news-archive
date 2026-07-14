@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 18:45_
+_Updated: 2026-07-14 20:39_
 
 ## Top Stories
 
-- Axel tog hand om attackerade flickan: ”Det var fullständig panik” - Sveriges Radio
-- Trump backar om tullar i Hormuzsundet - Corren
-- WHO: Troligen dubbelt så många ebolafall - Läkartidningen
-- Flera spårvagnsolyckor – påverkar flera sträckor - SVT Nyheter
-- Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
+- Flicka attackerad i park – pojke misstänkt för mordförsök - Göteborgs-Posten
+- Trump backar om tullar i Hormuzsundet - Dagens Nyheter
+- Dubbla olyckor påverkar spårvagnstrafiken - SVT Nyheter
+- Två döda i drunkningsolyckor i Linköping och Laholm - Sveriges Radio
 - SMHI varnar för hög värme i Enköping – kan bli tropisk natt - Enköpingsposten
-- Igelkotten ny på kortare lista för artskydd - Västerbottens-Kuriren
-- Joggare hittade kropp på Lidingö - Omni – Alla nyheter. Alla perspektiv.
-- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
-- Trafikverket stänger banor i värmen – höjd beredskap - SVT Nyheter
-- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
 - Trumps söner tjänar miljarder på pappas politik - Dagens Nyheter
+- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
+- Larm om solkurvor stoppar all tågtrafik mellan Sunne och Torsby - SVT Nyheter
+- Igelkotten ny på kortare lista för artskydd - Västerbottens-Kuriren
+- Mycket stor risk för skogsbrand: ”Kan sprida sig fort” - Nya Wermlands-Tidningen
+- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
+- Trump backar om 20-procentiga tullar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Brittisk polis: Politikermord var ”riktad attack” - Västerbottens-Kuriren
-- Anfall tvingar Ryssland till nya fraktleder - Göteborgs-Posten
+- Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
 - Ericsson sänke på börsen – OMXS30 ned 0,1% - Affärsvärlden
-- Analytiker: Starkt kvartal för JP Morgan - men högre kostnader dämpar entusiasmen - Börsvärlden
-- Affärsvärlden behåller Lime i sin portfölj - Affärsvärlden
-- Marknaden räknar med tre räntehöjningar - Corren
-- Tyrannosaurus rex såldes för 50 miljoner dollar - Yle
-- Smartphoneleveranser faller till 13-årig lägstanivå - Investing.com Sverige
+- Rekord i kinesisk bilexport: över en miljon fordon på en månad - nyteknik
+- Marknaden räknar med tre räntehöjningar i Sverige - Skånska Dagbladet
+- Affärsvärlden behåller Lime i sin portfölj - Börsvärlden
+- Dinosaurieskelett säljs på auktion – kan bli världens dyraste - Dagens PS
+- Hetta väntar i Gävle: ”Kan vara skadlig” - Gefle Dagblad
 
 ## World News
 
-- Esports World Cup 2026: MLBB Women's International startar idag, här är grupperna och öppningsmatcherna - Gamereactor
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
-- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
-- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
-- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
+- smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
+- Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -86,7 +86,7 @@ _Updated: 2026-07-14 18:45_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
