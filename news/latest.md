@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-14 14:51_
+_Updated: 2026-07-14 17:09_
 
+- U.S.-Iran Latest: Oil prices surge as Trump says blockade reinstated and U.S. to impose Strait of Hormuz fees - CBS News
+- Lindsey Graham’s successor to be sworn in and Maine ICE shooting sparks outcry: Morning Rundown - NBC News
+- New York to impose nation’s first statewide data center moratorium, Hochul orders - Syracuse.com
+- After Lindsey Graham’s sudden death, conspiracy theories swirl online - The Washington Post
 - US attacks Iran and Tehran retaliates across the Middle East, threatening a return to all-out war - AP News
-- Graham’s death, McConnell’s absence wreak havoc on GOP agenda - The Hill
-- Darline Graham Nordone's path from disabilities worker to US senator - USA Today
-- Judge Denounces Trump’s I.R.S. Suit as Improper Exercise in Self-Dealing - The New York Times
-- ICE kills 26-year-old in Maine: What happened, and who else has ICE killed? - Al Jazeera
-- What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack? - Al Jazeera
-- New York to impose the country’s first statewide moratorium on data centers - AP News
-- GOP leaders race to end conservative revolt as House floor stays at a standstill - Fox News
-- ICE Shot Lorenzo Salgado Araujo Through Open Passenger Window in Houston, Witnesses Say - The New York Times
-- Deputy U.S. marshal shot dead while serving arrest warrant on fugitive in Louisiana, agency says - CBS News
+- Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths - Al Jazeera
+- Live updates: ICE shootings in Biddeford, Maine, and Houston spark outcry - CNN
+- Consumer prices rose 3.5% annually in June, less than expected as energy prices eased - CNBC
+- Mike Johnson Is Plotting a Narrow, Fast Reconciliation Bill - News of the United States - NOTUS
+- Trump to shrink 2 Utah national monuments by 90% - Fox News
+- France showcases 500 pro-Ukraine troops at Bastille Day - Reuters
 - In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World - The New York Times
+- U.K. man describes harrowing escape from Spain wildfire that killed his wife and friends - CBS News
 - China urges Europe to stop backing 'illegal' South China Sea ruling to avoid harming ties - Reuters
-- China Expels Former Politburo Member Over Graft and Sex Charges - Bloomberg.com
-- Live updates • Direct Israel-Lebanon talks commence in Rome - Haaretz
-- JPMorgan notches the highest quarterly profit in US banking history - Yahoo Finance
-- IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations - CNBC
+- Warsh to say Fed has ‘no tolerance’ for high inflation but provides no hints on next move - AP News
 - Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom - The New York Times
+- An experimental Alzheimer's drug shows some promise as researchers hunt new approaches - AP News
 - OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry. - Business Insider
-- iOS 27 public beta: Should you install it on your iPhone? - 9to5Mac
-- Microsoft tests Windows Search without all the ads and fluff - The Verge
+- Pixel Watch 5 leak shows off four different finishes - The Verge
+- Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors
