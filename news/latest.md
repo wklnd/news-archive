@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-14 17:09_
+_Updated: 2026-07-14 18:49_
 
-- U.S.-Iran Latest: Oil prices surge as Trump says blockade reinstated and U.S. to impose Strait of Hormuz fees - CBS News
+- Joan Sebastian Guerrero: What we know about man killed by ICE in Biddeford, Maine - WMTW
+- Live Updates: Supreme Court Justices Barrett and Kagan Testify Before Congress on Security - The New York Times
+- U.S.-Iran War Latest: Oil prices surge as Trump aims to reinstate Strait of Hormuz blockade, U.S. to add fees - CBS News
 - Lindsey Graham’s successor to be sworn in and Maine ICE shooting sparks outcry: Morning Rundown - NBC News
 - New York to impose nation’s first statewide data center moratorium, Hochul orders - Syracuse.com
-- After Lindsey Graham’s sudden death, conspiracy theories swirl online - The Washington Post
-- US attacks Iran and Tehran retaliates across the Middle East, threatening a return to all-out war - AP News
+- Permanent daylight saving time is on the table. Would California scrap being on standard time? - Los Angeles Times
+- E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case: Court filing - CNBC
+- One of the planet’s strongest heat domes will soon scorch the East Coast - The Washington Post
 - Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths - Al Jazeera
-- Live updates: ICE shootings in Biddeford, Maine, and Houston spark outcry - CNN
-- Consumer prices rose 3.5% annually in June, less than expected as energy prices eased - CNBC
-- Mike Johnson Is Plotting a Narrow, Fast Reconciliation Bill - News of the United States - NOTUS
-- Trump to shrink 2 Utah national monuments by 90% - Fox News
-- France showcases 500 pro-Ukraine troops at Bastille Day - Reuters
-- In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World - The New York Times
-- U.K. man describes harrowing escape from Spain wildfire that killed his wife and friends - CBS News
+- Lindsey Graham Was McCain’s Sidekick, Then Trump’s. Just Before He Died, Something Changed. - Slate Magazine
+- US military hits targets across Iran in hours leading up to resumption of naval blockade - Fox News
+- China Purges Top Official Over Corruption and Sex Charges - The New York Times
 - China urges Europe to stop backing 'illegal' South China Sea ruling to avoid harming ties - Reuters
-- Warsh to say Fed has ‘no tolerance’ for high inflation but provides no hints on next move - AP News
-- Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom - The New York Times
-- An experimental Alzheimer's drug shows some promise as researchers hunt new approaches - AP News
-- OpenAI is breaking Silicon Valley's unwritten code. That's why Apple is so angry. - Business Insider
-- Pixel Watch 5 leak shows off four different finishes - The Verge
+- Government failing Farage over security, says Jenrick - BBC
+- S&P 500 gains after light inflation data, bounce in chip stocks: Live updates - CNBC
+- Warren Buffett Cuts Gates From Stock Donations—Gives To His Childrens’ Charities - Forbes
+- Warsh says Fed has ‘no tolerance’ for high inflation but provides no hints on next move - AP News
+- IBM stock plummets more than 25% on Q2 earnings warning - Yahoo Finance
+- Siri AI Is Becoming Apple’s Everything Tool - WIRED
 - Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors
