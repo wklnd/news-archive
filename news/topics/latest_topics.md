@@ -1,36 +1,35 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 20:39_
+_Updated: 2026-07-14 22:38_
 
 ## Top Stories
 
-- Flicka attackerad i park – pojke misstänkt för mordförsök - Göteborgs-Posten
-- Trump backar om tullar i Hormuzsundet - Dagens Nyheter
-- Dubbla olyckor påverkar spårvagnstrafiken - SVT Nyheter
-- Två döda i drunkningsolyckor i Linköping och Laholm - Sveriges Radio
-- SMHI varnar för hög värme i Enköping – kan bli tropisk natt - Enköpingsposten
-- Trumps söner tjänar miljarder på pappas politik - Dagens Nyheter
-- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
-- Larm om solkurvor stoppar all tågtrafik mellan Sunne och Torsby - SVT Nyheter
-- Igelkotten ny på kortare lista för artskydd - Västerbottens-Kuriren
-- Mycket stor risk för skogsbrand: ”Kan sprida sig fort” - Nya Wermlands-Tidningen
-- FN: Dödligaste månaden för civila i Ukraina på 4 år - Göteborgs-Posten
-- Trump backar om 20-procentiga tullar – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Brittisk polis: Politikermord var ”riktad attack” - Västerbottens-Kuriren
-- Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
-- Ericsson sänke på börsen – OMXS30 ned 0,1% - Affärsvärlden
+- Trump backar om tullar i Hormuzsundet - Göteborgs-Posten
+- USA bekräftar: Har utfört flera attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Man omkom i mc-olycka utanför Oskarshamn - Göteborgs-Posten
+- Göteborgarens fru och bebis fastnade i spanska brandområdet - Göteborgs-Posten
+- Barn befann sig i parken under knivattacken – så stöttar du som vuxen - HD
+- Flera bilar i krock på E4 - SVT Nyheter
+- Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
+- Kanalbåt på grund utanför Trosa - Västerbottens-Kuriren
+- Det här är arterna som blir fridlysta – över 180 tas bort - Göteborgs-Posten
+- Trafikverket stänger banor i värmen – höjd beredskap - SVT Nyheter
+- Anfall tvingar Ryssland till nya fraktleder - Göteborgs-Posten
+- FN: Dödligaste månaden för civila i Ukraina på fyra år - Hufvudstadsbladet – HBL
+- Expert: Putins superrobot ett propagandavapen - Dagens Nyheter
+- Donald Trumps söner tjänar miljarder på pappas politik - Dagens Nyheter
+- Ericsson rasade – OMXS30 sjönk 0,1% - Placera.se
 - Rekord i kinesisk bilexport: över en miljon fordon på en månad - nyteknik
-- Marknaden räknar med tre räntehöjningar i Sverige - Skånska Dagbladet
-- Affärsvärlden behåller Lime i sin portfölj - Börsvärlden
-- Dinosaurieskelett säljs på auktion – kan bli världens dyraste - Dagens PS
-- Hetta väntar i Gävle: ”Kan vara skadlig” - Gefle Dagblad
+- Två orosmoln inför het rapportsäsong - Svenska Dagbladet
+- Taxi Stockholms problem fortsätter – chauffören Adam kämpar - Sveriges Radio
+- Samsung ger alla nya Galaxy Watch ny superprocessor - mobil.se
+- Googles Pixel 11 kan släppas i chockrosa - m3.se
 
 ## World News
 
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
-- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
@@ -46,6 +45,7 @@ _Updated: 2026-07-14 20:39_
 - Visual Art köper Global Agencies - Dagens Media
 - Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
 - Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -76,46 +76,23 @@ _Updated: 2026-07-14 20:39_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic - Financial - Technology Week 2026: Utveckling av ett flernivåigt finansiellt system för att attrahera långsiktiga kapitalflöden. - Vietnam.vn
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
+- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
+- Da Nang Economic - Financial - Technology Week 2026: Utveckling av ett flernivåigt finansiellt system för att attrahera långsiktiga kapitalflöden. - Vietnam.vn
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-
-## Health
-
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- E-hälsa inom EU - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
 
 ## Science
 
@@ -143,8 +120,8 @@ _Updated: 2026-07-14 20:39_
 ## Jordbruk
 
 - Genom att odla ekologiskt ris under sommar-höstskörden 2026 kommer jordbrukare i An Giang-provinsen att tjäna ytterligare 11 miljoner VND per hektar. - Vietnam.vn
-- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Sveriges förändrade lantbruk - SLU
+- Dubbel seger för CLAAS när JAGUAR 1200 och CEMOS AUTO CHOPPING belönas med i FARM MACHINE AWARDS. - Mynewsdesk
 - Framtidens jordbruk - European Commission
 - Jordbruket har en nyckelroll för att rädda klimatet - Land.se
 - Brittiska bönder i massiv protest mot arvsskatten - Jordbruksaktuellt
