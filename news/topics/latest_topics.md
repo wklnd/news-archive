@@ -1,37 +1,39 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-14 10:38_
+_Updated: 2026-07-14 13:07_
 
 ## Top Stories
 
-- Little Gerhard är död – blev 92 år - Aftonbladet
-- Trump: Vi slår till mycket hårt mot Iran - Göteborgs-Posten
-- DN Direkt – Trump varnar för kraftiga attacker mot Iran - Dagens Nyheter
-- Nu införs omstridda ”angiverilagen” - Nya Wermlands-Tidningen
-- Sonen vaknade – vapen riktades mot mamman - Svenska Dagbladet
-- Explosioner i Kyiv efter nya ryska robotattacker - Omni – Alla nyheter. Alla perspektiv.
-- Rekordbeslag av kokain i år - Västerbottens-Kuriren
-- En person hittad död i Fylleån utanför Halmstad - SVT Nyheter
-- Sveriges sämsta kommun för pensionärer: "låga betyg" - Dagens PS
-- Fakta i frågan: Hur mår miljön – bortom klimatet? - Dagens Nyheter
-- Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
-- Venezuela: Oljeproduktionen opåverkad av skalv - Västerbottens-Kuriren
-- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
+- Han tog hand om den knivskurna flickan: ”Det behövdes lugn” - Sydsvenskan
 - Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
-- Gardell hyllar Ekholms vd-tid: ”Klart bättre bolag i dag” - EFN
-- Efter bensinrean: Dyrare att tanka el än fossilt - Dagens Nyheter
-- Experten: Goda nyheter för Bioarctic - Dagens industri
+- Expert: Patriot skyddar Ukraina och Europa - Svenska Dagbladet
+- Trump: Vi slår till mycket hårt mot Iran - Göteborgs-Posten
+- Klappjakt på T-falangen – även med ledaren häktad - Göteborgs-Posten
+- Explosioner i Kyiv efter nya ryska robotattacker - Omni – Alla nyheter. Alla perspektiv.
+- SMHI utfärdar gul värmevarning i Östergötland - Corren
+- Död person hittad på Lidingö - SVT Nyheter
+- DN Direkt – Regeringen vill ta bort 180 fridlysta arter – 130 läggs till - Dagens Nyheter
+- Samsovning kopplas till plötslig spädbarnskollaps - Dagens Nyheter
+- Amerikaner i Kongo får inte åka hem - Västerbottens-Kuriren
+- Historisk överflygning med svenska Gripen i Paris: ”En stor ära” - Dagens Nyheter
+- Anfall tvingar Ryssland till nya fraktleder - Göteborgs-Posten
+- Här stångas mannen flera meter upp i luften av bisonoxen - Dagens Nyheter
+- Stockholmsbörsen backar för tredje dagen i rad - EFN
+- I bensinrean: Dyrare att tanka el än fossilt - Sydsvenskan
 - Höga kustens campingar kan slå besöksrekord - Sveriges Radio
-- Forskare börjar använda promptinjektioner för att stoppa hackerattacker - Computer Sweden
+- Proffsen spår starka delår: ”Konjunkturen ser bra ut” - Omni – Alla nyheter. Alla perspektiv.
 - Microsoft vill att vi installerar säkerhetsfixar inom 3 dagar - Computer Sweden
+- Forskare börjar använda promptinjektioner för att stoppa hackerattacker - Computer Sweden
 
 ## World News
 
+- Esports World Cup 2026: MLBB Women's International startar idag, här är grupperna och öppningsmatcherna - Gamereactor
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
@@ -43,19 +45,17 @@ _Updated: 2026-07-14 10:38_
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
@@ -68,36 +68,35 @@ _Updated: 2026-07-14 10:38_
 - Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 
 ## Business
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
-- Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
-- Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Vilken framtid arbetar du för? - EY
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
-- Da Nang bekräftar sin strävan att bli ett nytt tillväxtcentrum för landet. - Vietnam.vn
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
-- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
+- Hans Skruvfors blir VD för Sambla Group - Mynewsdesk
+- JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- PFAS-experten Chromafora aktuella för möjlig finansiering om 22 miljoner EUR från EIB - Mynewsdesk
+- ESS Group skänker pengar till UNHCR och uppmanar branschkollegorna att göra det samma - Mynewsdesk
+- Formue har ingått ett samarbete med BlackRock för att bredda sitt utbud av investeringsmöjligheter, erbjuda lägre kostnader och rusta sina kunder för en ny ekonomisk era - Mynewsdesk
+- Rankona Mazon vinner Humble Groups pitch – blir utvald Amazon-byrå för koncernens varumärken - Mynewsdesk
+- Stockholm Beauty Week firar 10 år och slår Publikrekord! - Mynewsdesk
+- Ny topprekrytering ger strategisk fördel på den globala Amazon-marknaden - Mynewsdesk
+- Mässan Ekonomi & Företag utökar med CFO Controller Day - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Kirurgtejp bäst i test 2026 – för känslig hud och sårförslutning - testix.se
@@ -105,6 +104,7 @@ _Updated: 2026-07-14 10:38_
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - E-hälsa inom EU - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
