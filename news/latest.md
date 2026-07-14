@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-14 01:33_
+_Updated: 2026-07-14 03:02_
 
-- South Carolina governor appoints Lindsey Graham’s sister to finish his Senate term - NBC News
-- Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz - BBC
-- Trump Administration Live Updates: Judge Says President’s Lawsuit With I.R.S. Was Self-Dealing - The New York Times
-- Live updates: ICE-involved shooting in Maine kills one person - CNN
-- Senate returns to Washington after Sen. Lindsey Graham’s death with an uncertain agenda - AP News
-- Bison rams elderly man in Yellowstone, flinging him into the sky - BBC
-- Witnesses Say ICE Fired Fatal Shot Into Open Passenger Window in Houston - The New York Times
-- Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S. - The New York Times
-- This California Oil Pipeline Was Dormant for 11 Years. Trump Reopened It. - The New York Times
+- Darline Graham Nordone, Lindsey Graham's sister, appointed to serve out his Senate term - CBS News
+- Trump says U.S. military will reimpose blockade on Iranian ports - The Washington Post
+- Judge says Trump IRS lawsuit was filed for 'improper purpose,' refers lawyer for possible discipline - AP News
+- ICE confirms officers conducting 'targeted surveillance' at the time of deadly shooting in Biddeford - WMTW
+- The rare and dangerous heart condition tied to Lindsey Graham's death - Axios
+- President Trump drastically shrinks Grand Staircase-Escalante and Bears Ears national monuments - The Salt Lake Tribune
+- Mexico to file criminal complaints over migrants killed by ICE in US - The Guardian
+- Ron Johnson is full speed ahead on Reconciliation 3.0 - Politico
+- D.O.J. Turns Over Evidence in Minnesota Shootings by Immigration Agents - The New York Times
+- Iran War Live Updates: U.S. Begins New Strikes on Iran as Trump Orders Resumption of Shipping Blockade - The New York Times
 - EU wants 13+ age restriction for social media - politico.eu
-- British counterterrorism police take over investigation into "horrific murder" of veteran politician - CBS News
-- Houthis fire missiles at Saudi Arabia, breaking years of calm - Reuters
-- Musicians, DJ among 10 dead after plane crashes in the Bahamas - USA Today
+- Bahamian music group "still shocked" after bandmates killed in small plane crash - CBS News
+- Yemen's Houthis strike Saudi Arabia's Abha airport with missiles and drones in a sharp escalation - AP News
 - The wildest allegations in Apple’s trade secrets lawsuit against OpenAI - TechCrunch
-- Global oil prices top $83 a barrel, logging biggest jump in 6 years after Trump reimposes Strait of Hormuz blockade - MarketWatch
-- Stock Market Today: AI Jitters Weigh on Nasdaq, SK Hynix Stock Slumps — Live Updates - WSJ
-- Chipotle is opening its first restaurant in Mexico - CNBC
-- Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge
-- Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google
+- Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries - CNBC
+- Mexican food chain Chipotle takes its burritos and bowls to Mexico - Financial Times
+- Ellison Falls Behind Nvidia’s Huang As Eighth Richest - Forbes
+- Public Betas For iOS 27, macOS 27 And More Apple Platforms Are Now Available - Engadget
 - OnePlus is reportedly bailing on the US - The Verge
+- Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search - Windows Central
