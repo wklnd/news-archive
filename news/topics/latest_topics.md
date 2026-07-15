@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 06:27_
+_Updated: 2026-07-15 08:35_
 
 ## Top Stories
 
 - Trump hotar slå till mot Irans infrastruktur - Dagens Nyheter
-- USA bekräftar: Har utfört flera attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Explosion i Hässelby - Svenska Dagbladet
-- Kuba strömlöst igen - Västerbottens-Kuriren
-- Misstänkt mordförsök i Sköndal – man allvarligt skadad - Sveriges Radio
+- Direkt – Krisen i Mellanöstern – Explosioner i iransk hamnstad - Dagens Nyheter
 - Ny mätning av SGU: Här är mest PFAS-kemikalier i Sverige - Sveriges Radio
-- Plötsligt bröt Mijailovic tystnaden – och förklarade en åtta år lång gåta - Dagens Nyheter
-- Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
-- Så kan man återvinna vatten för att minska bristen på dricksvatten - Sveriges Radio
-- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
-- Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
+- Badplatserna där flest får p-böter i Göteborg - Göteborgs-Posten
+- Person hittad död i skogsområde i Solna - SVT Nyheter
+- Explosion vid port i Hässelby gård – polis utreder grovt olaga hot - Mitt i
+- Nationella säkerhetsrådgivaren glömde anteckningsbok under Natos toppmöte - Dagens Nyheter
+- Ny lag ska stoppa gängens mordannonser - Ystads Allehanda
+- Brand i studentboende i Karlstad – flera skadade - SVT Nyheter
+- Man omkom i mc-olycka utanför Oskarshamn - Västerbottens-Kuriren
 - Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
-- Man skjuten till döds av ICE-agent i Maine - Göteborgs-Posten
-- Trump backar om tullar i Hormuzsundet - Corren
+- ICE stoppas från att utföra fordonskontroller - Västerbottens-Kuriren
+- Ny ukrainsk taktik: Drönarvågor i Svarta havet - Göteborgs-Posten
+- Trumps dilemma: Fler soldater krävs i Hormuz - SVT Nyheter
+- Handelsbankens delårsrapport Januari – juni 2026 - Cision News
 - Ericsson sänke på Stockholmsbörsen, OMXS30-index backade 0,1 procent (Finwire News) - Aktiellt
-- EFN Rapportspecial: Ericsson först ut bland storbolagen - EFN
-- Fed-chefen: Kommer inte att vika mig för påtryckningar - Omni – Alla nyheter. Alla perspektiv.
-- AI-sektorn lyfter i Asien - EFN
+- Modehandeln fortsatte upp i juni – kläd- och skoförsäljningen ökade - Stilindex - Börsvärlden
+- Asienbörserna stiger – Sydkorea upp 8% - Affärsvärlden
 - Playstations framtidsplan skakar spelvärlden - Aftonbladet
-- Läckta bilder på Galaxy S27 Ultra avslöjar de första detaljerna om utformningen av den bakre kameran - notebookcheck.se
+- Poeten Ylva Gripfelt: Svårt att demonstrera i Jönköping - Jönköpings-Posten
 
 ## World News
 
@@ -50,23 +50,23 @@ _Updated: 2026-07-15 06:27_
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
-- Nu kan Open AI:s Codex fjärrstyras via mobilen - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
@@ -85,7 +85,6 @@ _Updated: 2026-07-15 06:27_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-15 06:27_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
