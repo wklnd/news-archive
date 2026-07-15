@@ -1,51 +1,51 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 01:25_
+_Updated: 2026-07-15 02:50_
 
 ## Top Stories
 
 - USA bekräftar: Har utfört flera attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Kuba strömlöst igen - Västerbottens-Kuriren
 - Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
 - Göteborgarens fru och bebis fastnade i spanska brandområdet - Göteborgs-Posten
-- En till sjukhus efter brand - Svenska Dagbladet
-- ICE stoppas från att utföra fordonskontroller - Västerbottens-Kuriren
-- Antalet dödsoffer i Venezuela stiger - Göteborgs-Posten
-- Kanalbåt på grund utanför Trosa - evakueras - Västerbottens-Kuriren
-- Ål och igelkott läggs till på artskyddslistan - SVT Nyheter
-- Pojke omhändertagen efter våldsdåd mot femårig flicka i Helsingborg - Dagens Nyheter
-- Höjer beredskapen – till följd av värmen - Nya Wermlands-Tidningen
 - Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
-- Trump backar om tullar i Hormuzsundet - Dagens Nyheter
-- Expert: Putins superrobot ett propagandavapen - Dagens Nyheter
+- Trump backar om tullar i Hormuzsundet - Corren
+- Kanalbåt på grund utanför Trosa - evakueras - Västerbottens-Kuriren
+- LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
+- Trafikverket varnar för ”blödande asfalt” i värmen - SVT Nyheter
+- Flicka attackerad i park – pojke misstänkt för mordförsök - Göteborgs-Posten
+- Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
 - FN: Dödligaste månaden för civila i Ukraina på fyra år - Hufvudstadsbladet – HBL
+- DN Direkt – Antalet dödsoffer i Venezuela stiger - Dagens Nyheter
+- Brittisk polis: Politikermord var ”riktad attack” - Västerbottens-Kuriren
 - Ericsson sänke på Stockholmsbörsen, OMXS30-index backade 0,1 procent (Finwire News) - Aktiellt
-- Affärsvärlden behåller Lime i sin portfölj - Affärsvärlden
+- Fed-chefen: Kommer inte att vika mig för påtryckningar - Omni – Alla nyheter. Alla perspektiv.
 - Taxi Stockholms problem fortsätter – chauffören Adam kämpar - Sveriges Radio
-- Fed-chefen: Vi har ingen tolerans mot inflation - Omni – Alla nyheter. Alla perspektiv.
+- DN Direkt – Blandat på Wall Street efter inflationssiffror - Dagens Nyheter
 - Samsung ger alla nya Galaxy Watch ny superprocessor - mobil.se
-- Googles Pixel 11 kan släppas i chockrosa - m3.se
+- DuRoBo lanserar Moodi, en Bluetooth-baserad sidvändare för sin e-läsare Krono - notebookcheck.se
 
 ## World News
 
-- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
-- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
+- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- Tidningsjätte i England lägger ner efter skandal - Svenska Dagbladet
-- Mondelēz International Sets GUINNESS WORLD RECORDS Title for Most People Dunking Cookies to Celebrate $3 Billion OREO Sales Milestone - Mynewsdesk
-- Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
@@ -85,37 +85,14 @@ _Updated: 2026-07-15 01:25_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang Economic - Financial - Technology Week 2026: Utveckling av ett flernivåigt finansiellt system för att attrahera långsiktiga kapitalflöden. - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-
-## Health
-
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
-- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
-- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
-- Vi presenterar ChatGPT Health - OpenAI
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
-- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
-- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
-- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
-- Vi presenterar HealthBench - OpenAI
-- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
-- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
-- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
-- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -128,17 +105,17 @@ _Updated: 2026-07-15 01:25_
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskning och Vetenskap - umb.edu.pl
 - Sherry Nakhaeizadeh - Uppsala universitet
-- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
+- Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
+- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
 
 ## Jordbruk
 
