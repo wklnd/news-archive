@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-15 13:14_
+_Updated: 2026-07-15 14:56_
 
-- Tehran threatens to halt all Middle East energy exports after US reimposes its blockade on Iran - AP News
-- How a tragedy changed the timeline — and the politics — of Maine’s Senate race - The Boston Globe
-- What's in store for Todd Blanche’s confirmation hearing - Politico
-- House Votes for Permanent Daylight Saving Time - The New York Times
+- Tehran threatens to halt all Mideast energy exports after U.S. reimposes its blockade on Iran - NBC News
+- Trump says ICE should resume traffic stops after his own administration suspended them - CNN
+- Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
+- 1 dead and 3 missing after boat carrying mostly family members sinks near Alcatraz Island - AP News
 - Todd Blanche's confirmation brings one Epstein survivor to center stage - NPR
-- Trump will speak on elections in primetime address after pushing debunked conspiracies - AP News
-- Wildfire Smoke Spreads Across the Northeast as Temperatures Spike - The New York Times
-- Alcatraz boat disaster leaves 1 dead, 3 missing in San Francisco Bay - San Francisco Chronicle
-- Every ICE arrest team will now have an agent with a body camera, DHS says, after 2 fatal shootings draw scrutiny - CBS News
+- What's in store for Todd Blanche’s confirmation hearing - Politico
 - Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn. - The New York Times
-- UK police say former politician and TV personality Ann Widdecombe was killed in ‘targeted attack’ - AP News
+- Trump wants to make daylight saving time permanent – but some fear the move would be a nightmare - The Conversation
+- With death of Lindsey Graham, Israel loses key backer as its isolation deepens - The Washington Post
 - France showcases 500 pro-Ukraine troops at Bastille Day - Reuters
-- Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown - CBS News
+- After blocking Hormuz, Iran signals it could ramp up pressure and shut Red Sea gateway, too - The Times of Israel
 - Border controls scrapped between Spain and Gibraltar - dw.com
-- IBM Shares Crashed 25% In Worst Day Ever—Here’s Why - Forbes
-- Billionaire Warren Buffett stops donations to Bill Gates charity - BBC
-- Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters - CNBC
-- SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb - Reuters
+- Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea - The New York Times
+- What’s Next for IBM Stock After 25% Collapse - Barron's
+- Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC
+- Morgan Stanley Joins Wall Street Rivals With Stock-Trading Boon - Bloomberg.com
+- Stock market today: Dow, S&P 500, Nasdaq futures extend gains ahead of earnings, wholesale inflation data - Yahoo Finance
 - Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable
 - Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch
+- Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge
