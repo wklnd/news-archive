@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-15 14:56_
+_Updated: 2026-07-15 17:10_
 
-- Tehran threatens to halt all Mideast energy exports after U.S. reimposes its blockade on Iran - NBC News
-- Trump says ICE should resume traffic stops after his own administration suspended them - CNN
-- Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
-- 1 dead and 3 missing after boat carrying mostly family members sinks near Alcatraz Island - AP News
-- Todd Blanche's confirmation brings one Epstein survivor to center stage - NPR
-- What's in store for Todd Blanche’s confirmation hearing - Politico
-- Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn. - The New York Times
-- Trump wants to make daylight saving time permanent – but some fear the move would be a nightmare - The Conversation
+- Todd Blanche faces Senate hearing to be Trump's attorney general - BBC
+- Fatal ICE shootings renew pressure on Trump’s mass deportations - The Washington Post
+- Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies - CNN
+- Upstate NY could be blanketed by thick smoke for days - Syracuse.com
+- Boat capsize near Alcatraz leaves 1 dead, 3 missing in San Francisco Bay - San Francisco Chronicle
 - With death of Lindsey Graham, Israel loses key backer as its isolation deepens - The Washington Post
-- France showcases 500 pro-Ukraine troops at Bastille Day - Reuters
-- After blocking Hormuz, Iran signals it could ramp up pressure and shut Red Sea gateway, too - The Times of Israel
-- Border controls scrapped between Spain and Gibraltar - dw.com
-- Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea - The New York Times
-- What’s Next for IBM Stock After 25% Collapse - Barron's
-- Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC
-- Morgan Stanley Joins Wall Street Rivals With Stock-Trading Boon - Bloomberg.com
+- A Louisiana man is charged with murder in the fatal shooting of a U.S. marshal trying to arrest him - NBC News
+- House passes bill to make daylight saving time permanent - CBS News
+- UPDATE: Flooding ongoing along Highway 90, Hill Country; monitoring conditions in San Antonio - KSAT
+- China’s Economy Grows at Slowest Pace in Years - The New York Times
+- Maps: Ukrainian drone strikes choke Russian shipping in the Sea of Azov - Reuters
+- Zelenskyy expected to remove Ukraine’s popular defence minister - Financial Times
+- European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine - AP News
 - Stock market today: Dow, S&P 500, Nasdaq futures extend gains ahead of earnings, wholesale inflation data - Yahoo Finance
+- Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC
+- Morgan Stanley Joins Wall Street Rivals’ Stock-Trading Boon - Bloomberg.com
+- What’s Next for IBM Stock After 25% Collapse - Barron's
+- OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion - Yahoo Finance
+- The Motorola Edge 70 Max is all about power - The Verge
 - Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable
-- Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch
-- Google and Epic give up fighting — third-party Android app stores are coming next week - The Verge
