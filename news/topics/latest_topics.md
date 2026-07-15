@@ -1,33 +1,34 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 14:51_
+_Updated: 2026-07-15 17:07_
 
 ## Top Stories
 
-- Åtta misstänkta i mordfallet på badplats i Stenungsund - SVT Nyheter
+- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
 - Värmen hotar trafiken – varning för blödande asfalt - Aftonbladet
-- Nationella säkerhetsrådgivaren glömde anteckningsbok under Natos toppmöte - Dagens Nyheter
 - Två begärs häktade efter mord i Mölnlycke - Göteborgs-Posten
-- Frivillig brandman erkänner: Startade skogsbrand - SVT Nyheter
-- Pojkens grannar chockade efter knivdådet: ”Känner obehag” - Sydsvenskan
-- Explosion i Hässelby - Göteborgs-Posten
-- Sju personer till sjukhus efter brand på Kronoparken - Nya Wermlands-Tidningen
+- ”Våg av eld” pressar Storbritannien - Svenska Dagbladet
+- Nu öppnar Göteborg-Borås igen – men värmen ställer till det - Göteborgs-Posten
+- Tomas Ramberg: Kristerssons nya post blev en politisk fars - Dagens Nyheter
+- Försvarsmaktens generaldirektör avgår - SVT Nyheter
+- Taxistrulet i Stockholm löst - Expressen
+- SMHI utfärdar gul värmevarning i länet - Corren
 - Demenssjuk drunknade vid nattdopp – vårdare hoppade i vattnet - Dagens Nyheter
-- Olycka vid Gnistängstunneln på E6 i Göteborg - Expressen
-- USA: Ny våg av attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Västerbottens-Kuriren
+- Bilden i Teheran: Trump i en kista - Göteborgs-Posten
+- Dödliga protester i pakistansk-kontrollerade Kashmir - Sveriges Radio
 - DN Direkt – Gränsen till Gibraltar borttagen - Dagens Nyheter
-- Migrationspolisen ICE stoppas från att utföra trafikkontroller - Sveriges Radio
-- Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- Flat är Klarna-beroende: "Koncentrationen kommer gå ner" - Affärsvärlden
-- Meta anklagas för att ha använt AI vid uppsägningar - Omni – Alla nyheter. Alla perspektiv.
-- SCB: Så hög var inflationen i juni - EFN
-- Macanvändare varnas för Crashstealer - Computer Sweden
+- Frivillig brandman erkänner: Startade skogsbrand - SVT Nyheter
+- Burry avvisar potentiellt uppköpsbud på Paypal som för lågt - Börsvärlden
+- Små extra slantar för studenter och pensionärer nästa år – Swedbank räknar lågt - Börskollen
+- Stämmer Meta för att ha använt AI för att sparka personal - Breakit
+- ”Saabs rapport blir dålig – om börsguden är med mig” - Omni – Alla nyheter. Alla perspektiv.
 - Starships nya test: få upp riktiga Starlink-satelliter - nyteknik
+- Tipsen: Skippa alkohol – och sov inte naken - Jönköpings-Posten
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -37,38 +38,37 @@ _Updated: 2026-07-15 14:51_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
-- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Tiden för billig vibe coding kan vara över - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -154,11 +154,11 @@ _Updated: 2026-07-15 14:51_
 - Här är världens största jordbruk - ATL
 - Jord, kor och klimat - SLU
 - Agri Venture Sweden vill visa upp innovationer inom lantbruket - Land.se
-- Så ska det australiensiska jordbruket bli hållbart - ATL
 - Svenskt lantbruk – Ekonomi, strukturomvandling och självbild efter EU-inträdet - SLU
 - Visning av uppkomst efter direktsådd - Land.se
 - Ny teknik testas – framtidens lantbruk kan drivas av egen ammoniak - Mynewsdesk
 - Kan agroekologi mätta världen? - SLU
 - 2023-10-31 Kunskapsutbyte: Nytt om odlingssystemutveckling i praktiken - Mynewsdesk
+- Miljöprisade Bjursås Lantbruk satsar på cirkulärt jordbruk - Land.se
 - Ny rapport: Ekologiskt jordbruk bidrar till bättre miljö - Land.se
 - Ekologiskt jordbruk: Lägre kväveläckage och högre mångfald - Land.se
