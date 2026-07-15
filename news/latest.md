@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-15 11:32_
+_Updated: 2026-07-15 13:14_
 
-- Fatal ICE shooting has Maine city on edge: ‘Tomorrow it could be someone else’ - The Washington Post
-- Trump threatens to bomb bridges and power plants unless Iran resumes talks - BBC
-- Darline Graham, sister of late Sen. Lindsey Graham, has been sworn in to finish his term - AP News
-- The U.S. and Iran Reckon With Shrinking Options to End the War - WSJ
-- Air quality alert issued as Canadian wildfire smoke arrives for Wednesday and Thursday! - WSTM
-- Trump will speak on elections in Thursday primetime address - NPR
-- One Dead and Three Missing in San Francisco Bay After Boat Capsizes Near Alcatraz - The New York Times
-- Every ICE arrest team will now have an agent with a body camera, DHS says, after 2 fatal shootings draw scrutiny - CBS News
-- US Senate Democrats block $1.15 trillion defense bill over Iran war objections - Reuters
 - Tehran threatens to halt all Middle East energy exports after US reimposes its blockade on Iran - AP News
+- How a tragedy changed the timeline — and the politics — of Maine’s Senate race - The Boston Globe
+- What's in store for Todd Blanche’s confirmation hearing - Politico
+- House Votes for Permanent Daylight Saving Time - The New York Times
+- Todd Blanche's confirmation brings one Epstein survivor to center stage - NPR
+- Trump will speak on elections in primetime address after pushing debunked conspiracies - AP News
+- Wildfire Smoke Spreads Across the Northeast as Temperatures Spike - The New York Times
+- Alcatraz boat disaster leaves 1 dead, 3 missing in San Francisco Bay - San Francisco Chronicle
+- Every ICE arrest team will now have an agent with a body camera, DHS says, after 2 fatal shootings draw scrutiny - CBS News
+- Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn. - The New York Times
 - UK police say former politician and TV personality Ann Widdecombe was killed in ‘targeted attack’ - AP News
+- France showcases 500 pro-Ukraine troops at Bastille Day - Reuters
+- Iraq seizes mounds of gold and millions in cash from officials in corruption crackdown - CBS News
 - Border controls scrapped between Spain and Gibraltar - dw.com
-- In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World - The New York Times
-- Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza - Al Jazeera
 - IBM Shares Crashed 25% In Worst Day Ever—Here’s Why - Forbes
-- China reports lowest GDP growth in more than 3 years - Financial Times
 - Billionaire Warren Buffett stops donations to Bill Gates charity - BBC
-- Stocks gain on drop in US inflation rate; ASML tops forecasts - Reuters
-- Samsung says Galaxy Z Fold 8 crease is less visible thanks to ‘Flex Titanium’ display - 9to5Google
-- Health Companion: Samsung teases Galaxy Watch 9's upgrades before Unpacked - Android Central
+- Stripe, Advent offer to buy PayPal for more than $53 billion: Reuters - CNBC
+- SK Hynix shares surge 13% on AI hopes as US tech stocks resume their climb - Reuters
+- Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable
+- Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch
