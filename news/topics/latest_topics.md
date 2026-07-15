@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 18:51_
+_Updated: 2026-07-15 20:37_
 
 ## Top Stories
 
 - SMHI utökar gula värmevarningen - Expressen
-- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
 - Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- Värmen hotar trafiken – varning för blödande asfalt - Aftonbladet
-- Tomas Ramberg: Kristerssons nya post blev en politisk fars - Dagens Nyheter
-- Stor gräsbrand utanför Almunge - Expressen
-- Lastbil brann på E6 utanför Glumslöv – ett körfält öppet - SVT Nyheter
-- Ny mätning av SGU: Här är mest PFAS-kemikalier i Sverige - Sveriges Radio
-- Demenssjuk drunknade vid nattdopp – vårdare hoppade i vattnet - Dagens Nyheter
+- Fläktar kan öka smittorisk: ”Äldre kan vara känsliga” - Omni – Alla nyheter. Alla perspektiv.
+- USA trappar upp hoten mot internationell domstol - Dagens Nyheter
+- Toppnamn i Vänsterpartiet gjorde raketkarriär på falska meriter - Sydsvenskan
 - Bilden i Teheran: Trump i en kista - Göteborgs-Posten
+- Stor gräsbrand utanför Almunge - Expressen
+- Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
+- I värmen: Kan bli halt på vägarna - Nya Wermlands-Tidningen
+- Tomas Ramberg: Kristerssons nya post blev en politisk fars - Dagens Nyheter
+- Franska parlamentet röstar ja till dödshjälp - SVT Nyheter
+- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
+- Olena slits mellan två generationer: ”Vad jag själv vill har ingen betydelse” - Dagens Nyheter
 - Direkt – Kriget i Ukraina – Rysk attack i Odessa – tre döda - Dagens Nyheter
-- Dödliga protester i pakistanska Kashmir - Sveriges Radio
-- Bråk vid ryska bensinstationer – så påverkas ryssar av ukrainska attacker - Sveriges Radio
+- Space X tappar fart – aktien halkar under noteringskurs - Omni – Alla nyheter. Alla perspektiv.
+- Nelly backar – inleder aktieåterköp för 30 miljoner - Ehandel.se
 - Burry avvisar potentiellt uppköpsbud på Paypal som för lågt - Börsvärlden
-- ”Saabs rapport blir dålig – om börsguden är med mig” - Omni – Alla nyheter. Alla perspektiv.
-- Tomt på Barillapasta och Wasabröd i Icas butiker - Dagens Nyheter
-- Stämmer Meta för att ha använt AI för att sparka personal - Breakit
+- Pareto Securities sänker riktkursen för HMS Networks till 523 kronor (550), upprepar behåll - Placera.se
 - EU lättar på batterikrav för smarta glasögon - Computer Sweden
 - Tipsen: Skippa alkohol – och sov inte naken - Jönköpings-Posten
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -39,28 +38,29 @@ _Updated: 2026-07-15 18:51_
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -76,23 +76,23 @@ _Updated: 2026-07-15 18:51_
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
 - Få digital tillgång till Fortune India - November 2013-numret - Magzter
-- Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
+- Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
-- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
