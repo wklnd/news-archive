@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-16 00:31_
+_Updated: 2026-07-16 01:31_
 
 ## Top Stories
 
-- Argentina till VM-final efter galen vändning mot England - Aftonbladet
-- USA: Inlett en andra våg av attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Trump: Iran vill nå en uppgörelse – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Vrede efter branden utanför Paris: ”De skyldiga borde kastas in i elden” - Dagens Nyheter
-- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
-- Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- Misstänkt skottlossning mot fönster i Norrköping - Omni – Alla nyheter. Alla perspektiv.
-- Gul varning för höga temperaturer i Uppsala län - UNT
-- Stopp för pendeltåg vid T-centralen - Expressen
+- Stockholm City utrymt efter larm – pendeltåg passerar utan att stanna - Sveriges Radio
+- 15 juli 00.40, Mord/dråp, Stockholm - polisen.se
+- Man gripen efter misstänkt våldtäkt - Svenska Dagbladet
+- Chips och sill – så klarar de äldre på Vidala hettan - Vimmerby Tidning
 - Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- Just nu: Olycka på E4 – ”Kört över mitträcket” - Västerbottens-Kuriren
+- Nu slår hettan till – Trafikverket varnar - Göteborgs-Posten
+- Just nu: Olycka på E4 – ”Kört över mitträcket” - Folkbladet
+- ”Aldrig igen” inget löfte som bara gäller ett folk - Aftonbladet
+- Ukraina under attack – flera explosioner - Västerbottens-Kuriren
 - Franska parlamentet röstar ja till dödshjälp - Göteborgs-Posten
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
-- FN: Dödligaste månaden för civila i Ukraina på 4 år - Sydsvenskan
-- Ministern pressades om Trump: Kan inte bli president igen - Dagens Nyheter
-- Space X tappar fart – aktien halkar under noteringskurs - Omni – Alla nyheter. Alla perspektiv.
+- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
+- Space X-aktien handlades under introduktionskursen - Västerbottens-Kuriren
 - Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- Lammhults: När lammet tystnar - Affärsvärlden
+- Avvaktande handel på Wall Street - EFN
 - Börsen backade svagt – becksvart för Axfood - Göteborgs-Posten
 - Playstations framtidsplan skakar spelvärlden - Aftonbladet
-- Experten: Sämsta sömnrådet i värmen - Göteborgs-Posten
+- Test: Så bra är Apple-veteranens nya glasögon - Dagens industri
 
 ## World News
 
@@ -55,12 +55,12 @@ _Updated: 2026-07-16 00:31_
 - Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
-- Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
+- Allt mer forskning på att förstå ”maskinmedvetande” - omni.se
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
-- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Kina utökar övervakning i realtid av invånarna - omni.se
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -84,6 +84,7 @@ _Updated: 2026-07-16 00:31_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-16 00:31_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
@@ -107,15 +107,15 @@ _Updated: 2026-07-16 00:31_
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -133,12 +133,12 @@ _Updated: 2026-07-16 00:31_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
