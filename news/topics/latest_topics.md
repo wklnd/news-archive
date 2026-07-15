@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 08:35_
+_Updated: 2026-07-15 11:28_
 
 ## Top Stories
 
-- Trump hotar slå till mot Irans infrastruktur - Dagens Nyheter
-- Direkt – Krisen i Mellanöstern – Explosioner i iransk hamnstad - Dagens Nyheter
-- Ny mätning av SGU: Här är mest PFAS-kemikalier i Sverige - Sveriges Radio
-- Badplatserna där flest får p-böter i Göteborg - Göteborgs-Posten
-- Person hittad död i skogsområde i Solna - SVT Nyheter
-- Explosion vid port i Hässelby gård – polis utreder grovt olaga hot - Mitt i
+- Brandman gripen i Frankrike – anlade skogsbrand - Göteborgs-Posten
 - Nationella säkerhetsrådgivaren glömde anteckningsbok under Natos toppmöte - Dagens Nyheter
-- Ny lag ska stoppa gängens mordannonser - Ystads Allehanda
-- Brand i studentboende i Karlstad – flera skadade - SVT Nyheter
-- Man omkom i mc-olycka utanför Oskarshamn - Västerbottens-Kuriren
-- Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
-- ICE stoppas från att utföra fordonskontroller - Västerbottens-Kuriren
-- Ny ukrainsk taktik: Drönarvågor i Svarta havet - Göteborgs-Posten
+- Värmen hotar trafiken – varning för blödande asfalt - Aftonbladet
+- Iran: Soldater och civila dödade i USA:s attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Göteborgs-Posten
+- Åtta misstänkta efter mord på badplats - Västerbottens-Kuriren
+- DN Direkt – Explosion i Hässelby - Dagens Nyheter
+- Sju personer till sjukhus efter branden - Nya Wermlands-Tidningen
+- M: Då ska det bli omöjligt att få medborgarskap - Corren
+- Höga halter av PFAS i grundvatten på många håll - Omni – Alla nyheter. Alla perspektiv.
+- Dödssiffran stiger efter barbranden i Bangkok - Corren
+- DN Direkt – Gränsen till Gibraltar borttagen - Dagens Nyheter
 - Trumps dilemma: Fler soldater krävs i Hormuz - SVT Nyheter
+- Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
+- Börsen ser ut att tveka i rapportflödet - Aftonbladet
 - Handelsbankens delårsrapport Januari – juni 2026 - Cision News
-- Ericsson sänke på Stockholmsbörsen, OMXS30-index backade 0,1 procent (Finwire News) - Aktiellt
-- Modehandeln fortsatte upp i juni – kläd- och skoförsäljningen ökade - Stilindex - Börsvärlden
-- Asienbörserna stiger – Sydkorea upp 8% - Affärsvärlden
+- Så mycket höjs prisbasbeloppet 2027 – påverkar regionernas pensionskostnader - Dagens Medicin
+- SAS ställer in flyg när flygbränsle blir dyrare - Sveriges Radio
+- Microsoft vill att vi installerar säkerhetsfixar inom 3 dagar - Computer Sweden
 - Playstations framtidsplan skakar spelvärlden - Aftonbladet
-- Poeten Ylva Gripfelt: Svårt att demonstrera i Jönköping - Jönköpings-Posten
 
 ## World News
 
@@ -35,7 +35,6 @@ _Updated: 2026-07-15 08:35_
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
-- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
@@ -47,20 +46,21 @@ _Updated: 2026-07-15 08:35_
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
+- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -85,6 +85,7 @@ _Updated: 2026-07-15 08:35_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,26 +93,25 @@ _Updated: 2026-07-15 08:35_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
-- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
-- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
-- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
-- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
@@ -122,23 +122,23 @@ _Updated: 2026-07-15 08:35_
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
+- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskning och Vetenskap - umb.edu.pl
-- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
+- Horizon Europe funds Gustav Nilsonne for new open science project - Karolinska Institutet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
-- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
-- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
+- Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Forskningsgruppen för medicinska digitala tvillingar - Karolinska Institutet
+- Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 
 ## Jordbruk
 
