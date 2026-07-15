@@ -1,46 +1,46 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 23:31_
+_Updated: 2026-07-16 00:31_
 
 ## Top Stories
 
-- USA i ny attackvåg mot Iran - Göteborgs-Posten
-- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
+- Argentina till VM-final efter galen vändning mot England - Aftonbladet
+- USA: Inlett en andra våg av attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Vrede efter branden utanför Paris: ”De skyldiga borde kastas in i elden” - Dagens Nyheter
+- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
 - Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- SMHI varnar för höga temperaturer - UNT
-- Rysk agent avslöjad i “spionparadiset” - Svenska Dagbladet
-- Pendeltågsstationen Stockholm City utrymd - SVT Nyheter
+- Misstänkt skottlossning mot fönster i Norrköping - Omni – Alla nyheter. Alla perspektiv.
+- Gul varning för höga temperaturer i Uppsala län - UNT
+- Stopp för pendeltåg vid T-centralen - Expressen
 - Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- Nu slår hettan till – Trafikverket varnar - Göteborgs-Posten
-- DN Direkt – Flickan i Helsingborg är utskriven från sjukhus - Dagens Nyheter
-- Franska parlamentet röstar ja till dödshjälp - SVT Nyheter
+- Just nu: Olycka på E4 – ”Kört över mitträcket” - Västerbottens-Kuriren
+- Franska parlamentet röstar ja till dödshjälp - Göteborgs-Posten
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
-- Olena slits mellan två generationer: ”Vad jag själv vill har ingen betydelse” - Dagens Nyheter
+- FN: Dödligaste månaden för civila i Ukraina på 4 år - Sydsvenskan
 - Ministern pressades om Trump: Kan inte bli president igen - Dagens Nyheter
 - Space X tappar fart – aktien halkar under noteringskurs - Omni – Alla nyheter. Alla perspektiv.
-- Källor: Stripe och Advent har lagt bud på Paypal värt över 53 miljarder dollar - Reuters - Börsvärlden
 - Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- Nelly backar – inleder aktieåterköp för 30 miljoner - Ehandel.se
+- Lammhults: När lammet tystnar - Affärsvärlden
+- Börsen backade svagt – becksvart för Axfood - Göteborgs-Posten
 - Playstations framtidsplan skakar spelvärlden - Aftonbladet
-- Därför sover vi så dåligt just nu - Skånska Dagbladet
+- Experten: Sämsta sömnrådet i värmen - Göteborgs-Posten
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
 - Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
@@ -58,17 +58,17 @@ _Updated: 2026-07-15 23:31_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
+- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
+- Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -97,13 +97,13 @@ _Updated: 2026-07-15 23:31_
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
