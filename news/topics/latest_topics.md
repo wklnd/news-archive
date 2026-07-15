@@ -1,29 +1,29 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 22:33_
+_Updated: 2026-07-15 23:31_
 
 ## Top Stories
 
-- Misshandel på camping – en till sjukhus - Expressen
-- USA: Inlett en andra våg av attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- USA i ny attackvåg mot Iran - Göteborgs-Posten
 - Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
 - Vrede efter branden utanför Paris: ”De skyldiga borde kastas in i elden” - Dagens Nyheter
 - Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- Årets varmaste dag på ingång: ”Finns potential” - Norran
+- SMHI varnar för höga temperaturer - UNT
+- Rysk agent avslöjad i “spionparadiset” - Svenska Dagbladet
+- Pendeltågsstationen Stockholm City utrymd - SVT Nyheter
 - Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
-- I värmen: Kan bli halt på vägarna - Nya Wermlands-Tidningen
+- Nu slår hettan till – Trafikverket varnar - Göteborgs-Posten
 - DN Direkt – Flickan i Helsingborg är utskriven från sjukhus - Dagens Nyheter
-- Åtta misstänkta efter mord på badplats - Västerbottens-Kuriren
 - Franska parlamentet röstar ja till dödshjälp - SVT Nyheter
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
 - Olena slits mellan två generationer: ”Vad jag själv vill har ingen betydelse” - Dagens Nyheter
-- USA trappar upp hoten mot internationell domstol - Dagens Nyheter
+- Ministern pressades om Trump: Kan inte bli president igen - Dagens Nyheter
 - Space X tappar fart – aktien halkar under noteringskurs - Omni – Alla nyheter. Alla perspektiv.
-- Nelly backar – inleder aktieåterköp för 30 miljoner - Ehandel.se
-- Burry avvisar potentiellt uppköpsbud på Paypal som för lågt - Börsvärlden
+- Källor: Stripe och Advent har lagt bud på Paypal värt över 53 miljarder dollar - Reuters - Börsvärlden
 - Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- Tipsen: Skippa alkohol – och sov inte naken - Jönköpings-Posten
-- När servrar stängs ner förlorar vi vårt kulturarv - Aftonbladet
+- Nelly backar – inleder aktieåterköp för 30 miljoner - Ehandel.se
+- Playstations framtidsplan skakar spelvärlden - Aftonbladet
+- Därför sover vi så dåligt just nu - Skånska Dagbladet
 
 ## World News
 
@@ -58,17 +58,17 @@ _Updated: 2026-07-15 22:33_
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
+- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
 - Amazon lanserar kraftfulla AI-chippet Trainium 3 - Computer Sweden
 - Över hälften av svenskarna påverkas av AI på jobbet - Computer Sweden
 - Tiden för billig vibe coding kan vara över - Computer Sweden
-- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Gartner: Här är cio:ernas fyra största AI-utmaningar - Computer Sweden
+- Upp till bevis – myndigheter ska redovisa sin AI-användning - Computer Sweden
 - Albanien utser AI-bot till minister - Computer Sweden
 
 ## Business
@@ -84,7 +84,6 @@ _Updated: 2026-07-15 22:33_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,29 +92,30 @@ _Updated: 2026-07-15 22:33_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
+- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 
 ## Science
 
