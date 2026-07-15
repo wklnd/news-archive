@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 02:50_
+_Updated: 2026-07-15 06:27_
 
 ## Top Stories
 
+- Trump hotar slå till mot Irans infrastruktur - Dagens Nyheter
 - USA bekräftar: Har utfört flera attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Explosion i Hässelby - Svenska Dagbladet
 - Kuba strömlöst igen - Västerbottens-Kuriren
+- Misstänkt mordförsök i Sköndal – man allvarligt skadad - Sveriges Radio
+- Ny mätning av SGU: Här är mest PFAS-kemikalier i Sverige - Sveriges Radio
+- Plötsligt bröt Mijailovic tystnaden – och förklarade en åtta år lång gåta - Dagens Nyheter
 - Flera döda i drunkningsolyckor under tisdagen - Göteborgs-Posten
-- Göteborgarens fru och bebis fastnade i spanska brandområdet - Göteborgs-Posten
-- Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
-- Trump backar om tullar i Hormuzsundet - Corren
-- Kanalbåt på grund utanför Trosa - evakueras - Västerbottens-Kuriren
+- Så kan man återvinna vatten för att minska bristen på dricksvatten - Sveriges Radio
 - LVU-fall bakom kampanj: ”Kidnappar kristna barn” - Dagens Nyheter
-- Trafikverket varnar för ”blödande asfalt” i värmen - SVT Nyheter
-- Flicka attackerad i park – pojke misstänkt för mordförsök - Göteborgs-Posten
-- Man dödad vid ICE-insats i Maine - Hufvudstadsbladet – HBL
-- FN: Dödligaste månaden för civila i Ukraina på fyra år - Hufvudstadsbladet – HBL
-- DN Direkt – Antalet dödsoffer i Venezuela stiger - Dagens Nyheter
-- Brittisk polis: Politikermord var ”riktad attack” - Västerbottens-Kuriren
+- Tre döda i ryska fartygsattacker - Västerbottens-Kuriren
+- Ebola sprids till två nya provinser i Kongo – men nu kommer första vaccinkandidaten - Dagens Nyheter
+- Man skjuten till döds av ICE-agent i Maine - Göteborgs-Posten
+- Trump backar om tullar i Hormuzsundet - Corren
 - Ericsson sänke på Stockholmsbörsen, OMXS30-index backade 0,1 procent (Finwire News) - Aktiellt
+- EFN Rapportspecial: Ericsson först ut bland storbolagen - EFN
 - Fed-chefen: Kommer inte att vika mig för påtryckningar - Omni – Alla nyheter. Alla perspektiv.
-- Taxi Stockholms problem fortsätter – chauffören Adam kämpar - Sveriges Radio
-- DN Direkt – Blandat på Wall Street efter inflationssiffror - Dagens Nyheter
-- Samsung ger alla nya Galaxy Watch ny superprocessor - mobil.se
-- DuRoBo lanserar Moodi, en Bluetooth-baserad sidvändare för sin e-läsare Krono - notebookcheck.se
+- AI-sektorn lyfter i Asien - EFN
+- Playstations framtidsplan skakar spelvärlden - Aftonbladet
+- Läckta bilder på Galaxy S27 Ultra avslöjar de första detaljerna om utformningen av den bakre kameran - notebookcheck.se
 
 ## World News
 
-- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
+- Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
+- Två fina priser till NTM i årets INMA Global Awards - ntm.se
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
+- BBC and news agencies launch film calling on Israel to allow foreign journalists into Gaza - BBC
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
 - ”Super-El Niño” kan leda till global matprischock - Omni – Alla nyheter. Alla perspektiv.
-- Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
-- World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
 - Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
@@ -57,9 +57,9 @@ _Updated: 2026-07-15 02:50_
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
 - Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Here are the Swedish AI companies everyone is talking about - Dagens industri
 - Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
+- Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
 - Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
@@ -94,22 +94,45 @@ _Updated: 2026-07-15 02:50_
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 
+## Health
+
+- Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
+- Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
+- Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
+- Vi presenterar ChatGPT Health - OpenAI
+- Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
+- Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
+- Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
+- Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
+- Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
+- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
+- CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
+- Vi presenterar HealthBench - OpenAI
+- Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
+- GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
+- GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
+- Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+
 ## Science
 
 - NESS activities for the public – Department of Earth Sciences - Uppsala universitet
 - Kina drar om USA – bäst på forskning - SVT Nyheter
 - Täta band mellan turism och forskning på Svalbard - SLU
+- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Cell- och genterapi - från science fiction till sjukhussal - Karolinska Institutet
-- Olika slutsatser från samma data - Läkartidningen
 - Gemini för vetenskap ska hjälpa forskare - Swedroid
 - 50-årig vetenskaplig gåta löst – forskare prisas för att ha hittat nyckeln till kroppens ”återvinning” - Mynewsdesk
 - Forskning och Vetenskap - umb.edu.pl
+- Olika slutsatser från samma data - Läkartidningen
 - Sherry Nakhaeizadeh - Uppsala universitet
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
 - Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
-- Registrering av forskning baserad på nationella hälsoregister - Läkartidningen
 - Avdelningen för fotonik - Chalmers tekniska högskola
 - Öppen vetenskap som universalism, kommunism, oegennytta och organiserad skepticism - Jönköping University
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
