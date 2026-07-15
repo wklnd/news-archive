@@ -1,28 +1,28 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 17:07_
+_Updated: 2026-07-15 18:51_
 
 ## Top Stories
 
+- SMHI utökar gula värmevarningen - Expressen
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
+- Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
+- Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
 - Värmen hotar trafiken – varning för blödande asfalt - Aftonbladet
-- Två begärs häktade efter mord i Mölnlycke - Göteborgs-Posten
-- ”Våg av eld” pressar Storbritannien - Svenska Dagbladet
-- Nu öppnar Göteborg-Borås igen – men värmen ställer till det - Göteborgs-Posten
 - Tomas Ramberg: Kristerssons nya post blev en politisk fars - Dagens Nyheter
-- Försvarsmaktens generaldirektör avgår - SVT Nyheter
-- Taxistrulet i Stockholm löst - Expressen
-- SMHI utfärdar gul värmevarning i länet - Corren
+- Stor gräsbrand utanför Almunge - Expressen
+- Lastbil brann på E6 utanför Glumslöv – ett körfält öppet - SVT Nyheter
+- Ny mätning av SGU: Här är mest PFAS-kemikalier i Sverige - Sveriges Radio
 - Demenssjuk drunknade vid nattdopp – vårdare hoppade i vattnet - Dagens Nyheter
 - Bilden i Teheran: Trump i en kista - Göteborgs-Posten
-- Dödliga protester i pakistansk-kontrollerade Kashmir - Sveriges Radio
-- DN Direkt – Gränsen till Gibraltar borttagen - Dagens Nyheter
-- Frivillig brandman erkänner: Startade skogsbrand - SVT Nyheter
+- Direkt – Kriget i Ukraina – Rysk attack i Odessa – tre döda - Dagens Nyheter
+- Dödliga protester i pakistanska Kashmir - Sveriges Radio
+- Bråk vid ryska bensinstationer – så påverkas ryssar av ukrainska attacker - Sveriges Radio
 - Burry avvisar potentiellt uppköpsbud på Paypal som för lågt - Börsvärlden
-- Små extra slantar för studenter och pensionärer nästa år – Swedbank räknar lågt - Börskollen
-- Stämmer Meta för att ha använt AI för att sparka personal - Breakit
 - ”Saabs rapport blir dålig – om börsguden är med mig” - Omni – Alla nyheter. Alla perspektiv.
-- Starships nya test: få upp riktiga Starlink-satelliter - nyteknik
+- Tomt på Barillapasta och Wasabröd i Icas butiker - Dagens Nyheter
+- Stämmer Meta för att ha använt AI för att sparka personal - Breakit
+- EU lättar på batterikrav för smarta glasögon - Computer Sweden
 - Tipsen: Skippa alkohol – och sov inte naken - Jönköpings-Posten
 
 ## World News
@@ -85,7 +85,6 @@ _Updated: 2026-07-15 17:07_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -93,6 +92,7 @@ _Updated: 2026-07-15 17:07_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
+- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -133,12 +133,12 @@ _Updated: 2026-07-15 17:07_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
-- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
+- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Avdelningen för fotonik - Chalmers tekniska högskola
+- Simple math behind major bison blunder - Forskning & Framsteg
 
 ## Jordbruk
 
