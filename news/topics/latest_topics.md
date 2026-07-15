@@ -1,34 +1,33 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 13:08_
+_Updated: 2026-07-15 14:51_
 
 ## Top Stories
 
-- Ullared varmast i Sverige – då når värmeböljan sin topp i Varberg och Falkenberg - Hallands Nyheter
-- Nationella säkerhetsrådgivaren glömde anteckningsbok under Natos toppmöte - Dagens Nyheter
-- Uppgifter: Man från Mark misshandlad till döds vid badplats - Borås Tidning
+- Åtta misstänkta i mordfallet på badplats i Stenungsund - SVT Nyheter
 - Värmen hotar trafiken – varning för blödande asfalt - Aftonbladet
-- Iran: Soldater och civila dödade i USA:s attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
-- Explosion vid port i Hässelby gård – polis utreder grovt olaga hot - Mitt i
-- Åtta misstänkta efter mord på badplats - Västerbottens-Kuriren
-- Äldre man död efter drunkningstillbud - Corren
-- Taxistrulet nära en lösning - Expressen
-- Brand i studentboende i Karlstad – flera skadade - SVT Nyheter
+- Nationella säkerhetsrådgivaren glömde anteckningsbok under Natos toppmöte - Dagens Nyheter
+- Två begärs häktade efter mord i Mölnlycke - Göteborgs-Posten
+- Frivillig brandman erkänner: Startade skogsbrand - SVT Nyheter
+- Pojkens grannar chockade efter knivdådet: ”Känner obehag” - Sydsvenskan
+- Explosion i Hässelby - Göteborgs-Posten
+- Sju personer till sjukhus efter brand på Kronoparken - Nya Wermlands-Tidningen
+- Demenssjuk drunknade vid nattdopp – vårdare hoppade i vattnet - Dagens Nyheter
+- Olycka vid Gnistängstunneln på E6 i Göteborg - Expressen
+- USA: Ny våg av attacker – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Västerbottens-Kuriren
-- Dödssiffran stiger efter barbranden i Bangkok - Corren
 - DN Direkt – Gränsen till Gibraltar borttagen - Dagens Nyheter
-- Trumps dilemma: Fler soldater krävs i Hormuz - SVT Nyheter
-- Nedåt på börsen – Axfood-aktie kollapsar efter rapport - Västerbottens-Kuriren
+- Migrationspolisen ICE stoppas från att utföra trafikkontroller - Sveriges Radio
 - Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
-- SAS: Fler flyg kan ställas in - Expressen
-- Handelsbankens delårsrapport Januari – juni 2026 - Cision News
+- Flat är Klarna-beroende: "Koncentrationen kommer gå ner" - Affärsvärlden
+- Meta anklagas för att ha använt AI vid uppsägningar - Omni – Alla nyheter. Alla perspektiv.
+- SCB: Så hög var inflationen i juni - EFN
 - Macanvändare varnas för Crashstealer - Computer Sweden
-- Microsoft vill att vi installerar säkerhetsfixar inom 3 dagar - Computer Sweden
+- Starships nya test: få upp riktiga Starlink-satelliter - nyteknik
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
@@ -38,30 +37,31 @@ _Updated: 2026-07-15 13:08_
 - Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- Nasdaq to Move Global Headquarters to 4 Times Square - Via TT
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
 - Global turism slog nytt rekord under 2025 - travelnews-se
 
 ## Technology
 
-- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
 - Tech Dreams Become Reality as Stockholm Tech Show Reveals 2026 Keynote Speakers - Mynewsdesk
 - I år ska AI visa affärsnytta. Igen. - Computer Sweden
+- Tech CEOs Expect Growth Surge in 2026 as AI Drives Revenues - Techarenan News
+- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
+- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Allt mer forskning på att förstå ”maskinmedvetande” - Omni – Alla nyheter. Alla perspektiv.
 - Leveraging AI in Swedish Development Cooperation - FUF.se
 - AI:s löften för hälso- och sjukvården rymmer en dold sårbarhet i träningsprocessen - Karolinska Institutet
-- Supertips: Sex bortglömda aktier i AI-boomen - Dagens PS
-- Konsultjätte använde AI i rapport – tvingas betala tillbaka - Computer Sweden
 - Here are the Swedish AI companies everyone is talking about - Dagens industri
+- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Stockholm Tech Show 2025: Atos and Microsoft Hackathon – A Collaboration for Future Innovation - Mynewsdesk
 - Kina utökar övervakning i realtid av invånarna - Omni – Alla nyheter. Alla perspektiv.
-- Studie: 95 procent av företags generativa AI-projekt misslyckas - Computer Sweden
 - Analytiker: Företagen måste tänka bortom GPU:er när det gäller AI-agenter - Computer Sweden
 - Försäkringsbolag: AI är för riskabelt att försäkra - Computer Sweden
 - USA och Kina dominerar stort när det gäller AI-patent - Computer Sweden
@@ -85,6 +85,7 @@ _Updated: 2026-07-15 13:08_
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
 - Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
 - Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
@@ -92,7 +93,6 @@ _Updated: 2026-07-15 13:08_
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
-- The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
 
 ## Health
 
@@ -133,12 +133,12 @@ _Updated: 2026-07-15 13:08_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
