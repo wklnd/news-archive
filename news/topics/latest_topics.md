@@ -1,52 +1,52 @@
 # Latest News - All Topics
 
-_Updated: 2026-07-15 20:37_
+_Updated: 2026-07-15 22:33_
 
 ## Top Stories
 
-- SMHI utökar gula värmevarningen - Expressen
+- Misshandel på camping – en till sjukhus - Expressen
+- USA: Inlett en andra våg av attacker mot Iran – Senaste nytt om kriget mellan Iran, USA och Israel - SVT Nyheter
+- Förvirringen: Trump går emot egna administrationen om ICE-besked - Göteborgs-Posten
+- Vrede efter branden utanför Paris: ”De skyldiga borde kastas in i elden” - Dagens Nyheter
 - Stickskadad man har avlidit – misstänkt mord i Sköndal - Sveriges Radio
-- Fläktar kan öka smittorisk: ”Äldre kan vara känsliga” - Omni – Alla nyheter. Alla perspektiv.
-- USA trappar upp hoten mot internationell domstol - Dagens Nyheter
-- Toppnamn i Vänsterpartiet gjorde raketkarriär på falska meriter - Sydsvenskan
-- Bilden i Teheran: Trump i en kista - Göteborgs-Posten
-- Stor gräsbrand utanför Almunge - Expressen
+- Årets varmaste dag på ingång: ”Finns potential” - Norran
 - Efter dödsmisshandel i Mölnlycke – två häktade men inte för mord - Göteborgs-Posten
 - I värmen: Kan bli halt på vägarna - Nya Wermlands-Tidningen
-- Tomas Ramberg: Kristerssons nya post blev en politisk fars - Dagens Nyheter
+- DN Direkt – Flickan i Helsingborg är utskriven från sjukhus - Dagens Nyheter
+- Åtta misstänkta efter mord på badplats - Västerbottens-Kuriren
 - Franska parlamentet röstar ja till dödshjälp - SVT Nyheter
 - Ukrainas drönarchef: ”Nu tar vi Svarta havet” - Hufvudstadsbladet – HBL
 - Olena slits mellan två generationer: ”Vad jag själv vill har ingen betydelse” - Dagens Nyheter
-- Direkt – Kriget i Ukraina – Rysk attack i Odessa – tre döda - Dagens Nyheter
+- USA trappar upp hoten mot internationell domstol - Dagens Nyheter
 - Space X tappar fart – aktien halkar under noteringskurs - Omni – Alla nyheter. Alla perspektiv.
 - Nelly backar – inleder aktieåterköp för 30 miljoner - Ehandel.se
 - Burry avvisar potentiellt uppköpsbud på Paypal som för lågt - Börsvärlden
-- Pareto Securities sänker riktkursen för HMS Networks till 523 kronor (550), upprepar behåll - Placera.se
-- EU lättar på batterikrav för smarta glasögon - Computer Sweden
+- Höjt prisbasbelopp 2027: så påverkas din plånbok - Via TT
 - Tipsen: Skippa alkohol – och sov inte naken - Jönköpings-Posten
+- När servrar stängs ner förlorar vi vårt kulturarv - Aftonbladet
 
 ## World News
 
 - Kvarnholmen Utveckling tecknar avtal med global hotelloperatör i Nacka - Cision News
+- Megaaffären lyfter American Express Global Business Travel - travelnews-se
 - Best location – Natural på Global Production Award under filmfestivalen i Cannes - Cision News
 - Sweden’s Global Reputation Remains Strong in a Turbulent World - Global Soft Power Index 2026 confirms Sweden’s stable and attractive international standing - NewsMachine AB
 - GMMP: Global backlash syns i världens medier - Fempers Nyheter
 - Forsberg om Global Series: “En oförglömlig upplevelse” - NHL.com
 - smart Concept #2 presenteras på smart Global Brand Event i Peking - global.smart.com
 - Sweden's Foreign Minister hardens tone on USA: 'I do not want to live in a world where there are great powers that do as they please' - Sveriges Radio
-- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Google Deepmind-chefen vill se global AI-myndighet ledd av USA - Computer Sweden
+- Möt Johanna Flood, journalisten som blev global miljöchef - ABB
 - Samsung Galaxy S26 Ultra utsedd till “Best in Show” vid Global Mobile Awards på Mobile World Congress 2026 - Samsung Global Newsroom
+- Vorwerk Group Continues Global Expansion in Direct Sales - Via TT
 - Swish raises $38 Mn led by Hara Global and Bain Capital Ventures - Entrackr
-- Megaaffären lyfter American Express Global Business Travel - travelnews-se
-- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 - World Cup Playoff Tournament: Live-resultat, fixturer och tabeller - 365Scores
 - Global Series stort för Karlsson: ”Fantastiskt” - NHL.com
 - The Swedish Migration Agency warns of abuse of student visas - Universitetsläraren
 - Kenya: Using social media for manipulation and suppression - Global Bar Magazine
 - Visual Art köper Global Agencies - Dagens Media
-- Global efterfrågan på flygresor snart högre än 2019 - travelnews-se
-- Global turism slog nytt rekord under 2025 - travelnews-se
+- WorldRiskReport 2025: Billions threatened by flooding - Via TT
+- World's Most Beautiful Restaurant: Austria’s VINA wins Property Award 2025 - Via TT
 
 ## Technology
 
@@ -75,47 +75,47 @@ _Updated: 2026-07-15 20:37_
 
 - Dear Economy om Gotlands vattenbrist under Almedalen - EY
 - Airon tar in investering från Meanings Capital Partners för att accelerera utvecklingen av europeisk AI-infrastruktur - Mynewsdesk
-- Få digital tillgång till Fortune India - November 2013-numret - Magzter
+- Da Nangs ekonomiska, finansiella och tekniska vecka 2026: En sammanströmning av nya idéer, resurser och tillväxtfaktorer. - Vietnam.vn
 - Finansinspektionen varnar för finansbedragare - TV4 Nyheterna
-- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group stärker riskhanteringen med utnämningen av Thom Gustafsson till Chief Risk Officer - Mynewsdesk
-- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
+- Da Nang Economic, Financial and Technology Week 2026: Da Nang främjar samarbete mellan "tre intressenter" för att utveckla högkvalitativa mänskliga resurser. - Vietnam.vn
 - 17 företag får utmärkelsen Sweden’s Best Managed Companies 2025 - Deloitte
 - Sambla Group och Ikano Bank utökar samarbetet för att bredda tillgången till bostadsfinansiering - Mynewsdesk
 - Sveriges nöjdaste företagskunder: Nordea i Sverige toppar Prospera Mid Corporates för tredje året i rad - Nordea
+- Öppningsceremoni för Da Nangs ekonomiska, finansiella och teknologiska vecka 2026 - Vietnam.vn
 - Sambla Group flyttar in i tidigare Spotifylokaler – ny techmiljö stärker tillväxtresan och framtida bankambitioner - Mynewsdesk
-- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
+- Vad innebär IFRS 18 för företagets finansiella rapportering? - EY
 - Sambla Group rekryterar Eveliina Hultén som Director of Product – stärker satsningen på att bli den trygga partnern för privatekonomi genom hela livet - Mynewsdesk
-- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
+- Da Nang Economic, Financial and Technology Week 2026: Byggandet av ett internationellt finanscenter i Da Nang baserat på AI och högkvalitativa mänskliga resurser. - Vietnam.vn
 - Sambla Group rekryterar Stina Granberg som ny operativ chef - Mynewsdesk
+- Öppningsceremoni för Da Nang Economic-Finance-Technology Week 2026: Behovet av att skapa nya utvecklingsutrymmen - Vietnam.vn
 - JOOL Group har överlåtit aktieposter i Navigo till Claes Mellgren och Per-Olof Andersson - Mynewsdesk
 - PRESSMEDDELANDE: SVERIGE BEHÖVER AKTIVERA GENERATIONSBIDRAGET - Mynewsdesk
 - Vilja tar in 40 miljoner kronor för fortsatt kraftig tillväxt och internationell expansion - Mynewsdesk
 - The 10th Asia Pacific Forum on Sustainable Development: Financing and Safeguarding a Just Transition in Asia - Mynewsdesk
-- Ny AI-assistent revolutionerar bokföringsprocessen av fakturor | Zimply - Mynewsdesk
 
 ## Health
 
 - Vi presenterar OpenAI för hälso- och sjukvård - OpenAI
-- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Utbildning i klimat och hälsa tar form på läkar­utbildningarna - Läkartidningen
 - Välkommen till globalt symposium som visar vägen mot framtidens vård - Sahlgrenskaliv
 - Vi presenterar ChatGPT Health - OpenAI
 - Låt oss prata hälsa – Intensivvård – Segment 1 - Apollo Hospitals
 - Khalid satsar på digital vård – mot fetma - Sundsvalls Tidning
 - Så påverkar klimat­förändringar folkhälsan i Sverige och världen - Läkartidningen
+- PATH – E-hälsa och hälsodata – Institutionen för kvinnors och barns hälsa - Uppsala universitet
 - Generative AI to revolutionize Preventive Medicine | Werlabs - Mynewsdesk
 - Markerar 15 år av att skydda den globala hälsosektorn - Health-ISAC
 - Stora skillnader i tillgången på medicinsk syrgas orsakar lidande och död - Karolinska Institutet
+- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
 - SIHI Sweden Konferens 2024 – Centrum för hälsa och hållbarhet - Uppsala universitet
-- Medikalisering av obesitas kan ha negativa konsekvenser - Läkartidningen
 - CGM Sverige och Tandem Health inleder samarbete - Mynewsdesk
 - Vi presenterar HealthBench - OpenAI
 - Första KI Contributes seminariet ledde till intressanta diskussioner - Karolinska Institutet
 - GoCo Health Innovation City dubblar markyta och investering - Mynewsdesk
 - GoCo Health Innovation City rivstartar med program för framtidens hälsa - Mynewsdesk
 - Susanne Ellfors-Zetterlund new Chief Medical Officer (CMO) at Scandinavian Biopharma - Mynewsdesk
-- Fyra uppstickare inom digital hälsa – de tävlar på Health Tech Pitch Day - Dagens industri
+- Ny avhandling: "How can health care organizations create value?: business model explorations" - Karolinska Institutet
 
 ## Science
 
@@ -133,12 +133,12 @@ _Updated: 2026-07-15 20:37_
 - Täta band mellan turism och forskning på Svalbard - SLU
 - Nya medel föreslås till fyra strategiska forskningsområden vid Stockholms universitet - Stockholms universitet
 - Konung Carl XVI Gustafs 50-årsfond för vetenskap, teknik och miljö - Kungahuset
+- Simple math behind major bison blunder - Forskning & Framsteg
 - Sverige-Brasilien - konferens om forskning och innovation inom life science och hälsa - Karolinska Institutet
 - Science & SciLifeLab Prize for Young Scientists: Ny kunskap om hjärnans signalering kan bana väg för precisionsmedicin - Mynewsdesk
 - Sverige kan ta täten inom klinisk forskning igen – om vi bara vill! - Läkartidningen
-- Exploaterar forskares strävan efter snabb granskning och publicering - Läkartidningen
 - I replikationskrisens spår agerar man mot utbredda metodbrister - Läkartidningen
-- Simple math behind major bison blunder - Forskning & Framsteg
+- Avdelningen för fotonik - Chalmers tekniska högskola
 
 ## Jordbruk
 
