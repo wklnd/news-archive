@@ -1,24 +1,24 @@
 # Top News Headlines
 
-_Updated: 2026-07-15 23:37_
+_Updated: 2026-07-16 00:38_
 
-- Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing - The New York Times
+- Argentina show why they're World Cup champs with epic comeback over England - ESPN
+- Trump attorney general pick grilled at confirmation hearing - CNN
+- US launches fresh strikes on Iran as Trump warns Tehran it 'better behave' - BBC
+- 100 House Democrats vote to cut off aid to Israel, showcasing party shift - The Hill
 - Live updates: Trump says ICE should do traffic stops, despite new suspension after shootings - AP News
-- The U.S. launches another wave of strikes on Iran as the Hormuz standoff intensifies - NPR
 - Trump's pick to head national intelligence, Jay Clayton, won't tell senators Biden won the 2020 election - CNBC
-- 1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz - KQED
-- Exclusive: Officials asked to turn over phones at the White House as Wiles, Patel lead intensifying leak probe - CNN
+- Nolan Wells’ family speaks out after meeting with local Mississippi DA - NBC News
 - New York's AI data center pause sparks warnings US could lose ground to China - Fox Business
-- Wildfire smoke from Canada will soon spread across the Midwest and East - The Washington Post
-- ‘Shark Tank’ Star Is Sued by Opponents He Claimed Were Foreign Agents - The New York Times
-- Capitol agenda: Vance, Johnson try to rally House GOP - Politico
-- Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea - The New York Times
-- Hong Kong booksellers arrested for allegedly selling seditious books - NPR
+- F.B.I. Searches for Drugs in Van Involved in Houston ICE Shooting - The New York Times
+- Victim of Capsized Pontoon Boat Near Alcatraz ID’d, 3 Remain Missing as Search Continues - KQED
 - More people around the world now favour China over the US, Pew study suggests - BBC
+- Ukraine war live: Kremlin says top engineer at nuclear reactor killed in drone attack - The Independent
 - Midnight social media curfew and limits to infinite scrolling proposed for older UK teens - CNBC
-- US producer prices post largest drop in 14 months; inflation risks still tilted to the upside - Reuters
-- Why one airline thinks you’ll pay extra just to keep the middle seat empty - NBC News
-- SpaceX stock hits all-time low, dips below IPO price - Yahoo Finance
-- Lucid’s bankruptcy rumor is a bad sign for the EV future - The Verge
+- France’s National Assembly gives final approval to assisted-dying bill after years of debate - AP News
+- Wall St ends higher on cool inflation data, strong earnings - Reuters
+- PayPal Shares Surge Premarket on Reports of $53 Billion Takeover - WSJ
+- China’s Economy Grows at Slowest Pace in Years - The New York Times
+- An empty middle seat is the latest perk United Airlines will offer on some flights - AP News
 - Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google
 - Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com
